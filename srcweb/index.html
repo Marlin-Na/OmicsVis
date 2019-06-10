@@ -2,13 +2,19 @@
 <html>
 <head>
     <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
     <!-- Normalize CSS -->
     <link rel="stylesheet" href="https://unpkg.com/normalize.css@8.0.1/normalize.css" type="text/css">
-       
+
+    <!-- D3 V5 -->
+    <script src="http://d3js.org/d3.v5.min.js"></script>
+    <script>window.d3v5 = window.d3;</script>
+
     <!-- D3 V3 -->
     <script src="http://d3js.org/d3.v3.min.js"></script>
+    <script>window.d3v3 = window.d3;</script>
+
     <!-- TnT Genome -->
     <link rel="stylesheet" href="http://tntvis.github.io/tnt.genome/build/tnt.genome.css" type="text/css"/>
     <script src="http://tntvis.github.io/tnt.genome/build/tnt.genome.min.js"></script>
@@ -16,14 +22,29 @@
     <link rel="stylesheet" href="http://tntvis.github.io/tnt.tooltip/build/tnt.tooltip.css" type="text/css"/>
     <script src="http://tntvis.github.io/tnt.tooltip/build/tnt.tooltip.min.js"></script>
 
-    <script type="module" src="/js/omicsvis.js"></script>
+    <!-- CSS -->
+    <link rel="stylesheet" href="/css/omicsvis.css" type="text/css">
 </head>
 
 <body>
-    <div style="fill: #AD9274; width: 100px"></div>
-    <div style="fill: #082A46; width: 100px"></div>
+    <header>
+
+    </header>
+
+    <aside id="sidebar">
+        <div>
+            <h2>Contigs</h2>
+            <hr>
+            <div id="contig-list">
+            </div>
+        </div>
+    </aside>
+    <main id="main">
+        <div id="vis">
+        </div>
+    </main>
+    <!-- JS -->
+    <script src="/js/omicsvis.js"></script>
 </body>
 </html>
-
-
 

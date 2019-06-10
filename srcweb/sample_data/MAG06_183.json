@@ -1,0 +1,30 @@
+{
+  "gene_track": [
+    {
+      "seqnames": "MAG06_183",
+      "start": 1,
+      "end": 1614,
+      "width": 1614,
+      "strand": "+",
+      "source": "Prodigal_v2.6.3",
+      "type": "CDS",
+      "score": 212.7,
+      "phase": 0,
+      "ID": "183_1",
+      "partial": "11",
+      "start_type": "Edge",
+      "rbs_motif": "None",
+      "rbs_spacer": "None",
+      "gc_cont": "0.666",
+      "conf": "99.99",
+      "score.1": "212.66",
+      "cscore": "211.05",
+      "sscore": "1.61",
+      "rscore": "0.00",
+      "uscore": "0.00",
+      "tscore": "1.61"
+    }
+  ],
+  "seqname": "MAG06_183",
+  "seqlen": 1616
+}

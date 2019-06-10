@@ -1,0 +1,30 @@
+{
+  "gene_track": [
+    {
+      "seqnames": "MAG06_804",
+      "start": 2,
+      "end": 1816,
+      "width": 1815,
+      "strand": "+",
+      "source": "Prodigal_v2.6.3",
+      "type": "CDS",
+      "score": 266.6,
+      "phase": 0,
+      "ID": "804_1",
+      "partial": "11",
+      "start_type": "Edge",
+      "rbs_motif": "None",
+      "rbs_spacer": "None",
+      "gc_cont": "0.647",
+      "conf": "99.99",
+      "score.1": "266.56",
+      "cscore": "264.96",
+      "sscore": "1.61",
+      "rscore": "0.00",
+      "uscore": "0.00",
+      "tscore": "1.61"
+    }
+  ],
+  "seqname": "MAG06_804",
+  "seqlen": 1817
+}
