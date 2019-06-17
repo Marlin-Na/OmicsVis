@@ -22,7 +22,22 @@
       "sscore": "-1.05",
       "rscore": "-0.18",
       "uscore": "-4.20",
-      "tscore": "3.98"
+      "tscore": "3.98",
+      "eggnog": {
+        "X1": "MAG06_1044_1",
+        "X2": "366394.Smed_2292",
+        "X3": 5.5e-95,
+        "X4": 352.4,
+        "X5": "STRA",
+        "X6": null,
+        "X7": "K00897,K10673,K19299",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01VJG@aproNOG,08R0M@bactNOG,16TRF@proNOG,COG3231@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "J",
+        "X13": "aminoglycoside"
+      }
     },
     {
       "seqnames": "MAG06_427",
@@ -46,7 +61,22 @@
       "sscore": "0.89",
       "rscore": "-0.18",
       "uscore": "-2.91",
-      "tscore": "3.98"
+      "tscore": "3.98",
+      "eggnog": {
+        "X1": "MAG06_1044_2",
+        "X2": "366394.Smed_2291",
+        "X3": 8.3e-64,
+        "X4": 248.4,
+        "X5": null,
+        "X6": null,
+        "X7": "K03789",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "02077@aproNOG,05SPV@bactNOG,17ISX@proNOG,COG0456@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "Gcn5-related n-acetyltransferase"
+      }
     },
     {
       "seqnames": "MAG06_427",
@@ -70,7 +100,22 @@
       "sscore": "0.02",
       "rscore": "-0.18",
       "uscore": "-3.78",
-      "tscore": "3.98"
+      "tscore": "3.98",
+      "eggnog": {
+        "X1": "MAG06_1044_3",
+        "X2": "366394.Smed_2290",
+        "X3": 5.9e-77,
+        "X4": 292.4,
+        "X5": "UREJ",
+        "X6": "GO:0003674,GO:0003824,GO:0008150,GO:0008152,GO:0008901,GO:0016491,GO:0016695,GO:0016699,GO:0016730,GO:0044710,GO:0055114",
+        "X7": "K03192",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01YMY@aproNOG,05R3J@bactNOG,17FG5@proNOG,COG2370@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "O",
+        "X13": "HupE UreJ protein"
+      }
     },
     {
       "seqnames": "MAG06_427",
@@ -94,7 +139,22 @@
       "sscore": "1.59",
       "rscore": "-0.18",
       "uscore": "-2.22",
-      "tscore": "3.98"
+      "tscore": "3.98",
+      "eggnog": {
+        "X1": "MAG06_1044_4",
+        "X2": "266834.SMc02720",
+        "X3": 6.2e-106,
+        "X4": 388.7,
+        "X5": "CLPP2",
+        "X6": "GO:0005575,GO:0005622,GO:0005623,GO:0005737,GO:0044424,GO:0044464",
+        "X7": "K01358",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01VYC@aproNOG,08S10@bactNOG,178N1@proNOG,COG0740@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "O",
+        "X13": "Cleaves peptides in various proteins in a process that requires ATP hydrolysis. Has a chymotrypsin-like activity. Plays a major role in the degradation of misfolded proteins (By similarity)"
+      }
     }
   ],
   "seqname": "MAG06_427",

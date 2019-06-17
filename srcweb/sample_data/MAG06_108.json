@@ -22,7 +22,22 @@
       "sscore": "4.49",
       "rscore": "-3.33",
       "uscore": "-1.41",
-      "tscore": "3.20"
+      "tscore": "3.20",
+      "eggnog": {
+        "X1": "MAG06_23_5",
+        "X2": "266834.SMc04403",
+        "X3": 0,
+        "X4": 1360.5,
+        "X5": "DCP",
+        "X6": "GO:0003674,GO:0003824,GO:0006508,GO:0008150,GO:0008152,GO:0008233,GO:0008235,GO:0008237,GO:0008238,GO:0008241,GO:0016787,GO:0019538,GO:0043170,GO:0044238,GO:0070011,GO:0071704",
+        "X7": "K01284",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01QKX@aproNOG,05DGW@bactNOG,16R2U@proNOG,COG0339@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "E",
+        "X13": "peptidyl-dipeptidase Dcp"
+      }
     },
     {
       "seqnames": "MAG06_108",
@@ -46,7 +61,22 @@
       "sscore": "-3.86",
       "rscore": "-4.56",
       "uscore": "-1.85",
-      "tscore": "3.20"
+      "tscore": "3.20",
+      "eggnog": {
+        "X1": "MAG06_23_6",
+        "X2": "266834.SMc04402",
+        "X3": 3.1e-165,
+        "X4": 586.3,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01SKI@aproNOG,05F0W@bactNOG,0XRSJ@NOG,1758V@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "Protein of unknown function (DUF993)"
+      }
     },
     {
       "seqnames": "MAG06_108",
@@ -70,7 +100,22 @@
       "sscore": "3.22",
       "rscore": "0.00",
       "uscore": "0.00",
-      "tscore": "3.22"
+      "tscore": "3.22",
+      "eggnog": {
+        "X1": "MAG06_230_1",
+        "X2": "316058.RPB_4511",
+        "X3": 8.5e-156,
+        "X4": 555.8,
+        "X5": "YAGR",
+        "X6": null,
+        "X7": "K03520,K11177",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01QY7@aproNOG,05C7W@bactNOG,16PWW@proNOG,COG1529@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "F",
+        "X13": "Xanthine dehydrogenase"
+      }
     }
   ],
   "seqname": "MAG06_108",

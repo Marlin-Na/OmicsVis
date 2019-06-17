@@ -22,7 +22,22 @@
       "sscore": "3.22",
       "rscore": "0.00",
       "uscore": "0.00",
-      "tscore": "3.22"
+      "tscore": "3.22",
+      "eggnog": {
+        "X1": "MAG06_940_6",
+        "X2": "266834.SMc04122",
+        "X3": 1.4e-15,
+        "X4": 86.7,
+        "X5": "DEOA",
+        "X6": "GO:0003674,GO:0003824,GO:0005575,GO:0006139,GO:0006213,GO:0006725,GO:0006807,GO:0006950,GO:0006974,GO:0008150,GO:0008152,GO:0009032,GO:0009116,GO:0009987,GO:0016020,GO:0016154,GO:0016740,GO:0016757,GO:0016763,GO:0033554,GO:0034641,GO:0044237,GO:0044238,GO:0044281,GO:0044699,GO:0044710,GO:0044763,GO:0046483,GO:0050896,GO:0051716,GO:0055086,GO:0071704,GO:0072527,GO:1901135,GO:1901360,GO:1901564,GO:1901657",
+        "X7": "K00756,K00758",
+        "X8": "DURIPP,PYNP1,PYNP2r,TMDPP",
+        "X9": "bactNOG[38]",
+        "X10": "01SUD@aproNOG,05CMW@bactNOG,16Q33@proNOG,COG0213@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "F",
+        "X13": "The enzymes which catalyze the reversible phosphorolysis of pyrimidine nucleosides are involved in the degradation of these compounds and in their utilization as carbon and energy sources, or in the rescue of pyrimidine bases for nucleotide synthesis (By similarity)"
+      }
     },
     {
       "seqnames": "MAG06_1023",
@@ -46,7 +61,22 @@
       "sscore": "3.22",
       "rscore": "0.00",
       "uscore": "0.00",
-      "tscore": "3.22"
+      "tscore": "3.22",
+      "eggnog": {
+        "X1": "MAG06_16_1",
+        "X2": "311403.Arad_3203",
+        "X3": 1.6e-22,
+        "X4": 110.5,
+        "X5": "PETA",
+        "X6": "GO:0005575,GO:0005623,GO:0005886,GO:0016020,GO:0044464,GO:0071944",
+        "X7": "K00411",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01XIS@aproNOG,08R5F@bactNOG,177SQ@proNOG,COG0723@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "C",
+        "X13": "Component of the ubiquinol-cytochrome c reductase complex (complex III or cytochrome b-c1 complex), which is a respiratory chain that generates an electrochemical potential coupled to ATP synthesis (By similarity)"
+      }
     }
   ],
   "seqname": "MAG06_1023",

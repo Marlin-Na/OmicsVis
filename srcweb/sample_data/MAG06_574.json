@@ -22,7 +22,8 @@
       "sscore": "3.22",
       "rscore": "0.00",
       "uscore": "0.00",
-      "tscore": "3.22"
+      "tscore": "3.22",
+      "eggnog": {}
     }
   ],
   "seqname": "MAG06_574",

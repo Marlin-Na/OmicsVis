@@ -22,7 +22,22 @@
       "sscore": "9.64",
       "rscore": "7.63",
       "uscore": "-0.97",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_497_4",
+        "X2": "340100.Bpet3876",
+        "X3": 4e-128,
+        "X4": 463,
+        "X5": "KDGD",
+        "X6": null,
+        "X7": "K01707,K01714",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "05UVJ@bactNOG,0B7S6@bproNOG,16T2A@proNOG,COG0329@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "H",
+        "X13": "5-keto-4-deoxy-glucarate dehydratase"
+      }
     },
     {
       "seqnames": "MAG06_434",
@@ -46,7 +61,22 @@
       "sscore": "17.68",
       "rscore": "13.75",
       "uscore": "0.28",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_497_5",
+        "X2": "340100.Bpet3875",
+        "X3": 1.4e-215,
+        "X4": 754.2,
+        "X5": null,
+        "X6": null,
+        "X7": "K02035",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "05D3V@bactNOG,17658@proNOG,COG0747@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "E",
+        "X13": "extracellular solute-binding protein"
+      }
     },
     {
       "seqnames": "MAG06_434",
@@ -70,7 +100,22 @@
       "sscore": "0.65",
       "rscore": "-4.72",
       "uscore": "1.07",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_1045_1",
+        "X2": "314264.ROS217_20557",
+        "X3": 0,
+        "X4": 1295.4,
+        "X5": null,
+        "X6": null,
+        "X7": "K00302,K00315",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01QMU@aproNOG,05C5K@bactNOG,16QJ8@proNOG,COG0404@NOG,COG0665@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "E",
+        "X13": "aminomethyl transferase"
+      }
     },
     {
       "seqnames": "MAG06_434",
@@ -94,7 +139,22 @@
       "sscore": "6.96",
       "rscore": "2.03",
       "uscore": "-0.30",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_1045_3",
+        "X2": "536019.Mesop_5313",
+        "X3": 3.2e-16,
+        "X4": 89.4,
+        "X5": null,
+        "X6": null,
+        "X7": "K19687",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "0252M@aproNOG,06CSM@bactNOG,17US2@proNOG,COG4423@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "Rv0623-like transcription factor"
+      }
     },
     {
       "seqnames": "MAG06_434",
@@ -118,7 +178,22 @@
       "sscore": "13.05",
       "rscore": "7.63",
       "uscore": "0.49",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_105_1",
+        "X2": "266834.SMc00643",
+        "X3": 2.7e-135,
+        "X4": 486.5,
+        "X5": "PURA",
+        "X6": "GO:0005575,GO:0005622,GO:0005623,GO:0005737,GO:0008150,GO:0040007,GO:0044424,GO:0044464",
+        "X7": "K01939",
+        "X8": "ADSS",
+        "X9": "bactNOG[38]",
+        "X10": "01Q8W@aproNOG,05C91@bactNOG,16PIX@proNOG,COG0104@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "F",
+        "X13": "Plays an important role in the de novo pathway of purine nucleotide biosynthesis"
+      }
     },
     {
       "seqnames": "MAG06_434",
@@ -142,7 +217,22 @@
       "sscore": "-0.87",
       "rscore": "10.54",
       "uscore": "-2.52",
-      "tscore": "-10.14"
+      "tscore": "-10.14",
+      "eggnog": {
+        "X1": "MAG06_105_2",
+        "X2": "266834.SMc00644",
+        "X3": 2.8e-237,
+        "X4": 826.2,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01WFC@aproNOG,08XXV@bactNOG,11JUN@NOG,179KW@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": null,
+        "X13": null
+      }
     },
     {
       "seqnames": "MAG06_434",
@@ -166,7 +256,22 @@
       "sscore": "3.22",
       "rscore": "0.00",
       "uscore": "0.00",
-      "tscore": "3.22"
+      "tscore": "3.22",
+      "eggnog": {
+        "X1": "MAG06_106_1",
+        "X2": "266834.SMc03208",
+        "X3": 2.3e-29,
+        "X4": 132.9,
+        "X5": "HMGA",
+        "X6": "GO:0003674,GO:0003824,GO:0008150,GO:0008152,GO:0016491,GO:0044710,GO:0055114",
+        "X7": "K00451",
+        "X8": "HGNTOR",
+        "X9": "bactNOG[38]",
+        "X10": "01R00@aproNOG,05F1J@bactNOG,16RNW@proNOG,COG3508@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "Q",
+        "X13": "Homogentisate 12-dioxygenase"
+      }
     }
   ],
   "seqname": "MAG06_434",

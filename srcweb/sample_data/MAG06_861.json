@@ -22,7 +22,8 @@
       "sscore": "10.23",
       "rscore": "7.63",
       "uscore": "-0.39",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {}
     },
     {
       "seqnames": "MAG06_861",
@@ -46,7 +47,8 @@
       "sscore": "-0.15",
       "rscore": "-4.72",
       "uscore": "0.92",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {}
     },
     {
       "seqnames": "MAG06_861",
@@ -70,7 +72,22 @@
       "sscore": "5.36",
       "rscore": "-0.37",
       "uscore": "0.42",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_825_6",
+        "X2": "266834.SMc00831",
+        "X3": 2.4e-165,
+        "X4": 586.6,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01QY6@aproNOG,05CC0@bactNOG,0XQWS@NOG,16PRC@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": "K",
+        "X13": "Transcriptional regulator, LysR family"
+      }
     },
     {
       "seqnames": "MAG06_861",
@@ -94,7 +111,22 @@
       "sscore": "7.69",
       "rscore": "2.03",
       "uscore": "2.02",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_825_7",
+        "X2": "266834.SMc00832",
+        "X3": 8.1e-222,
+        "X4": 774.6,
+        "X5": "GLCD",
+        "X6": "GO:0003674,GO:0003824,GO:0006066,GO:0006082,GO:0006950,GO:0006974,GO:0008150,GO:0008152,GO:0009056,GO:0009441,GO:0009987,GO:0016054,GO:0016491,GO:0016614,GO:0019154,GO:0019752,GO:0032787,GO:0033554,GO:0034308,GO:0034310,GO:0043436,GO:0044237,GO:0044248,GO:0044281,GO:0044282,GO:0044699,GO:0044710,GO:0044712,GO:0044763,GO:0046164,GO:0046296,GO:0046395,GO:0050896,GO:0051716,GO:0055114,GO:0071704,GO:0072329,GO:1901575,GO:1901615,GO:1901616",
+        "X7": "K00102,K00104",
+        "X8": "GLYCTO1,GLYCTO2,GLYCTO3,GLYCTO4,GLYCTO_syn",
+        "X9": "bactNOG[38]",
+        "X10": "01QMS@aproNOG,05CQB@bactNOG,16PGZ@proNOG,COG0277@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "C",
+        "X13": "Glycolate oxidase subunit"
+      }
     },
     {
       "seqnames": "MAG06_861",
@@ -118,7 +150,22 @@
       "sscore": "18.12",
       "rscore": "13.75",
       "uscore": "0.73",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_826_1",
+        "X2": "266834.SMc02978",
+        "X3": 3.6e-144,
+        "X4": 516.2,
+        "X5": "BMUL_3607",
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01R82@aproNOG,05CKI@bactNOG,16R03@proNOG,COG0523@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "cobalamin synthesis protein"
+      }
     },
     {
       "seqnames": "MAG06_861",
@@ -142,7 +189,22 @@
       "sscore": "17.16",
       "rscore": "13.75",
       "uscore": "0.42",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_826_2",
+        "X2": "266834.SMc02979",
+        "X3": 5.2e-190,
+        "X4": 668.7,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01RFV@aproNOG,05CUS@bactNOG,16QB2@proNOG,COG2319@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "WD-40 repeat-containing protein"
+      }
     },
     {
       "seqnames": "MAG06_861",
@@ -166,7 +228,22 @@
       "sscore": "18.52",
       "rscore": "13.75",
       "uscore": "0.39",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_826_3",
+        "X2": "266834.SMc02980",
+        "X3": 1.4e-53,
+        "X4": 213.8,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01ZPD@aproNOG,05MTV@bactNOG,11VJN@NOG,17GJU@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": null,
+        "X13": null
+      }
     },
     {
       "seqnames": "MAG06_861",
@@ -190,7 +267,22 @@
       "sscore": "12.70",
       "rscore": "7.85",
       "uscore": "0.46",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_827_1",
+        "X2": "266834.SMc01156",
+        "X3": 1.1e-151,
+        "X4": 541.2,
+        "X5": "UBIB",
+        "X6": "GO:0003674,GO:0003824,GO:0005575,GO:0005623,GO:0005886,GO:0006732,GO:0006733,GO:0006743,GO:0006744,GO:0008150,GO:0008152,GO:0009058,GO:0009108,GO:0009987,GO:0016020,GO:0016491,GO:0019168,GO:0042180,GO:0042181,GO:0042375,GO:0044237,GO:0044249,GO:0044281,GO:0044283,GO:0044464,GO:0044710,GO:0044711,GO:0045426,GO:0051186,GO:0051188,GO:0055114,GO:0071704,GO:0071944,GO:1901576,GO:1901661,GO:1901663",
+        "X7": "K03688",
+        "X8": "OPHHX",
+        "X9": "bactNOG[38]",
+        "X10": "01SHX@aproNOG,05CNK@bactNOG,16PNI@proNOG,COG0661@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "H",
+        "X13": "Required, probably indirectly, for the hydroxylation of 2-octaprenylphenol to 2-octaprenyl-6-hydroxy-phenol, the fourth step in ubiquinone biosynthesis (By similarity)"
+      }
     },
     {
       "seqnames": "MAG06_861",
@@ -214,7 +306,22 @@
       "sscore": "11.64",
       "rscore": "7.63",
       "uscore": "0.37",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_827_10",
+        "X2": "266834.SMc01148",
+        "X3": 1.4e-19,
+        "X4": 100.5,
+        "X5": null,
+        "X6": null,
+        "X7": "K04750",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01Y0D@aproNOG,05GUU@bactNOG,17EJ6@proNOG,COG2764@NOG,COG4319@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "glyoxalase bleomycin resistance protein dioxygenase"
+      }
     },
     {
       "seqnames": "MAG06_861",
@@ -238,7 +345,22 @@
       "sscore": "2.72",
       "rscore": "0.00",
       "uscore": "0.00",
-      "tscore": "3.22"
+      "tscore": "3.22",
+      "eggnog": {
+        "X1": "MAG06_827_11",
+        "X2": "266834.SMc01148",
+        "X3": 2.4e-124,
+        "X4": 449.9,
+        "X5": null,
+        "X6": null,
+        "X7": "K04750",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01Y0D@aproNOG,05GUU@bactNOG,17EJ6@proNOG,COG2764@NOG,COG4319@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "glyoxalase bleomycin resistance protein dioxygenase"
+      }
     }
   ],
   "seqname": "MAG06_861",

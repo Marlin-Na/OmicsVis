@@ -22,7 +22,8 @@
       "sscore": "5.28",
       "rscore": "-0.18",
       "uscore": "-4.84",
-      "tscore": "3.98"
+      "tscore": "3.98",
+      "eggnog": {}
     },
     {
       "seqnames": "MAG06_313",
@@ -46,7 +47,22 @@
       "sscore": "3.22",
       "rscore": "0.00",
       "uscore": "0.00",
-      "tscore": "3.22"
+      "tscore": "3.22",
+      "eggnog": {
+        "X1": "MAG06_401_6",
+        "X2": "266834.SMc02284",
+        "X3": 5.7e-41,
+        "X4": 171.8,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "0228V@aproNOG,068DP@bactNOG,17TVV@proNOG,COG5569@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "Copper binding periplasmic protein CusF"
+      }
     }
   ],
   "seqname": "MAG06_313",

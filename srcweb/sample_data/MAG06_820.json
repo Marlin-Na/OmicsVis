@@ -22,7 +22,22 @@
       "sscore": "1.57",
       "rscore": "0.21",
       "uscore": "-1.63",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_790_1",
+        "X2": "266834.SMc02590",
+        "X3": 7.8e-234,
+        "X4": 814.7,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01WEH@aproNOG,08RFR@bactNOG,11FZ9@NOG,1784S@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": null,
+        "X13": null
+      }
     },
     {
       "seqnames": "MAG06_820",
@@ -46,7 +61,22 @@
       "sscore": "5.70",
       "rscore": "2.03",
       "uscore": "0.03",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_790_2",
+        "X2": "266834.SMc02591",
+        "X3": 5.2e-91,
+        "X4": 339,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "028ER@aproNOG,070XC@bactNOG,0YXVV@NOG,184UH@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": null,
+        "X13": null
+      }
     },
     {
       "seqnames": "MAG06_820",
@@ -70,7 +100,22 @@
       "sscore": "5.83",
       "rscore": "2.03",
       "uscore": "0.16",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_790_3",
+        "X2": "266834.SMc02592",
+        "X3": 4.2e-102,
+        "X4": 375.9,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "0238S@aproNOG,063SK@bactNOG,125HQ@NOG,17QRD@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": null,
+        "X13": null
+      }
     }
   ],
   "seqname": "MAG06_820",

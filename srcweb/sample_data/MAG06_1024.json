@@ -22,7 +22,22 @@
       "sscore": "-0.41",
       "rscore": "-4.72",
       "uscore": "0.66",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_16_2",
+        "X2": "266834.SMc00056",
+        "X3": 2.5e-52,
+        "X4": 209.9,
+        "X5": "MNHF",
+        "X6": "GO:0005575,GO:0005623,GO:0005886,GO:0016020,GO:0044464,GO:0071944",
+        "X7": "K05563,K05570",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01YZE@aproNOG,080TA@bactNOG,16WAN@proNOG,COG2212@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "P",
+        "X13": "monovalent cation H antiporter subunit F"
+      }
     },
     {
       "seqnames": "MAG06_1024",
@@ -46,7 +61,22 @@
       "sscore": "11.09",
       "rscore": "7.63",
       "uscore": "-0.18",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_16_3",
+        "X2": "266834.SMc00057",
+        "X3": 1.4e-52,
+        "X4": 210.7,
+        "X5": "MRPG",
+        "X6": "GO:0005575,GO:0005623,GO:0005886,GO:0016020,GO:0044464,GO:0071944",
+        "X7": "K05564,K05571",
+        "X8": "Kt3r,NAt3_1",
+        "X9": "bactNOG[38]",
+        "X10": "023BI@aproNOG,05KJM@bactNOG,16WQT@proNOG,COG1320@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "P",
+        "X13": "H antiporter subunit G"
+      }
     },
     {
       "seqnames": "MAG06_1024",
@@ -70,7 +100,8 @@
       "sscore": "17.03",
       "rscore": "13.75",
       "uscore": "0.28",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {}
     },
     {
       "seqnames": "MAG06_1024",
@@ -94,7 +125,22 @@
       "sscore": "2.14",
       "rscore": "-4.85",
       "uscore": "3.45",
-      "tscore": "3.54"
+      "tscore": "3.54",
+      "eggnog": {
+        "X1": "MAG06_941_1",
+        "X2": "402881.Plav_2035",
+        "X3": 8.3e-09,
+        "X4": 67.4,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "020P5@aproNOG,08NJ7@bactNOG,0ZWGR@NOG,17GVE@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": "K",
+        "X13": "Transcriptional regulator, LuxR family hydrolase, alpha beta fold family"
+      }
     },
     {
       "seqnames": "MAG06_1024",
@@ -118,7 +164,22 @@
       "sscore": "2.79",
       "rscore": "2.03",
       "uscore": "-2.89",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_941_2",
+        "X2": "266834.SMc02495",
+        "X3": 2.8e-115,
+        "X4": 419.9,
+        "X5": "TAL",
+        "X6": "GO:0005575,GO:0005622,GO:0005623,GO:0005737,GO:0044424,GO:0044464",
+        "X7": "K00616",
+        "X8": "DHNPA2r,TALA",
+        "X9": "bactNOG[38]",
+        "X10": "01RHH@aproNOG,05CW3@bactNOG,16QDJ@proNOG,COG0176@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "G",
+        "X13": "Transaldolase is important for the balance of metabolites in the pentose-phosphate pathway (By similarity)"
+      }
     }
   ],
   "seqname": "MAG06_1024",

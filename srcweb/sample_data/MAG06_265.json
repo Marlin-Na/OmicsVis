@@ -22,7 +22,22 @@
       "sscore": "3.22",
       "rscore": "0.00",
       "uscore": "0.00",
-      "tscore": "3.22"
+      "tscore": "3.22",
+      "eggnog": {
+        "X1": "MAG06_369_7",
+        "X2": "311403.Arad_9559",
+        "X3": 2.6e-96,
+        "X4": 357.5,
+        "X5": "EXOZ",
+        "X6": null,
+        "X7": "K16568",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01Y8B@aproNOG,090HA@bactNOG,17C41@proNOG,COG1835@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "I",
+        "X13": "acyltransferase 3"
+      }
     },
     {
       "seqnames": "MAG06_265",
@@ -46,7 +61,22 @@
       "sscore": "11.25",
       "rscore": "8.08",
       "uscore": "-0.48",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_369_8",
+        "X2": "311403.Arad_4767",
+        "X3": 1.1e-158,
+        "X4": 564.7,
+        "X5": "GALE",
+        "X6": null,
+        "X7": "K01784,K12448",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01QCW@aproNOG,05CMR@bactNOG,16PG5@proNOG,COG1087@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "M",
+        "X13": "UDP-glucose 4'-epimerase"
+      }
     },
     {
       "seqnames": "MAG06_265",
@@ -70,7 +100,8 @@
       "sscore": "10.30",
       "rscore": "5.51",
       "uscore": "-0.11",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {}
     },
     {
       "seqnames": "MAG06_265",
@@ -94,7 +125,22 @@
       "sscore": "11.18",
       "rscore": "7.63",
       "uscore": "-1.23",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_37_1",
+        "X2": "266834.SMc04291",
+        "X3": 3.3e-256,
+        "X4": 889,
+        "X5": "SNDH",
+        "X6": "GO:0003674,GO:0003824,GO:0005975,GO:0008150,GO:0008152,GO:0016491,GO:0016614,GO:0044238,GO:0044710,GO:0055114,GO:0071704",
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01SHQ@aproNOG,05DKB@bactNOG,16PVV@proNOG,COG2133@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "C",
+        "X13": "L-sorbosone dehydrogenase"
+      }
     },
     {
       "seqnames": "MAG06_265",
@@ -118,7 +164,22 @@
       "sscore": "18.96",
       "rscore": "13.75",
       "uscore": "0.87",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_37_2",
+        "X2": "266834.SMc04289",
+        "X3": 9.9e-217,
+        "X4": 757.7,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01Q86@aproNOG,05CH5@bactNOG,16PXK@proNOG,COG4663@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "Q",
+        "X13": "extracellular solute-binding protein, family 7"
+      }
     },
     {
       "seqnames": "MAG06_265",
@@ -142,7 +203,22 @@
       "sscore": "4.62",
       "rscore": "-0.69",
       "uscore": "0.63",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_37_3",
+        "X2": "266834.SMc04287",
+        "X3": 5.2e-55,
+        "X4": 218.8,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01TUX@aproNOG,08NS5@bactNOG,16V0V@proNOG,COG4665@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "Q",
+        "X13": "transporter"
+      }
     },
     {
       "seqnames": "MAG06_265",
@@ -166,7 +242,22 @@
       "sscore": "12.50",
       "rscore": "7.63",
       "uscore": "-0.01",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_370_1",
+        "X2": "266834.SMc00680",
+        "X3": 2.1e-20,
+        "X4": 102.4,
+        "X5": "ADH",
+        "X6": "GO:0005575,GO:0005618,GO:0005622,GO:0005623,GO:0005737,GO:0005829,GO:0005886,GO:0016020,GO:0030312,GO:0044424,GO:0044444,GO:0044464,GO:0071944",
+        "X7": "K00002,K13979",
+        "X8": "ALCD2y,ALDD1",
+        "X9": "bactNOG[38]",
+        "X10": "01R8R@aproNOG,05DQ4@bactNOG,16Q0J@proNOG,COG1064@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "C",
+        "X13": "alcohol dehydrogenase"
+      }
     },
     {
       "seqnames": "MAG06_265",
@@ -190,7 +281,22 @@
       "sscore": "13.93",
       "rscore": "7.63",
       "uscore": "2.66",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_370_2",
+        "X2": "266834.SMc00680",
+        "X3": 8.1e-132,
+        "X4": 474.9,
+        "X5": "ADH",
+        "X6": "GO:0005575,GO:0005618,GO:0005622,GO:0005623,GO:0005737,GO:0005829,GO:0005886,GO:0016020,GO:0030312,GO:0044424,GO:0044444,GO:0044464,GO:0071944",
+        "X7": "K00002,K13979",
+        "X8": "ALCD2y,ALDD1",
+        "X9": "bactNOG[38]",
+        "X10": "01R8R@aproNOG,05DQ4@bactNOG,16Q0J@proNOG,COG1064@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "C",
+        "X13": "alcohol dehydrogenase"
+      }
     },
     {
       "seqnames": "MAG06_265",
@@ -214,7 +320,22 @@
       "sscore": "-7.93",
       "rscore": "-3.78",
       "uscore": "1.36",
-      "tscore": "-4.87"
+      "tscore": "-4.87",
+      "eggnog": {
+        "X1": "MAG06_370_3",
+        "X2": "366394.Smed_2574",
+        "X3": 4.5e-83,
+        "X4": 312.4,
+        "X5": "LRP",
+        "X6": null,
+        "X7": "K03719,K05800",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01X6G@aproNOG,05EW9@bactNOG,16T6C@proNOG,COG1522@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "K",
+        "X13": "Transcriptional"
+      }
     },
     {
       "seqnames": "MAG06_265",
@@ -238,7 +359,22 @@
       "sscore": "-1.90",
       "rscore": "-4.72",
       "uscore": "-0.83",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_370_4",
+        "X2": "266834.SMc00682",
+        "X3": 1.6e-222,
+        "X4": 776.9,
+        "X5": "OCAR_6660",
+        "X6": null,
+        "X7": "K01436,K01451",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01QYE@aproNOG,05CH2@bactNOG,16PUF@proNOG,COG1473@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "E",
+        "X13": "amidohydrolase"
+      }
     }
   ],
   "seqname": "MAG06_265",

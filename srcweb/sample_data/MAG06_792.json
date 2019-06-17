@@ -22,7 +22,22 @@
       "sscore": "-3.94",
       "rscore": "2.03",
       "uscore": "-0.44",
-      "tscore": "-4.87"
+      "tscore": "-4.87",
+      "eggnog": {
+        "X1": "MAG06_767_2",
+        "X2": "266834.SMc04340",
+        "X3": 7e-212,
+        "X4": 741.5,
+        "X5": "METF",
+        "X6": null,
+        "X7": "K00297",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01T15@aproNOG,07U2G@bactNOG,174R4@proNOG,COG0685@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "C",
+        "X13": "Methylenetetrahydrofolate reductase"
+      }
     },
     {
       "seqnames": "MAG06_792",
@@ -46,7 +61,22 @@
       "sscore": "14.13",
       "rscore": "10.54",
       "uscore": "-0.05",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_767_3",
+        "X2": "266834.SMc04339",
+        "X3": 7.5e-112,
+        "X4": 408.3,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": "MTHFR5",
+        "X9": "bactNOG[38]",
+        "X10": "01UJJ@aproNOG,07ZBE@bactNOG,0ZSFZ@NOG,177FP@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "Methylene-tetrahydrofolate reductase C terminal"
+      }
     },
     {
       "seqnames": "MAG06_792",
@@ -70,7 +100,22 @@
       "sscore": "3.18",
       "rscore": "2.03",
       "uscore": "-2.49",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_767_4",
+        "X2": "266834.SMc04337",
+        "X3": 5.4e-18,
+        "X4": 94.7,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "020AB@aproNOG,05KWP@bactNOG,11UJT@NOG,17FZ4@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": null,
+        "X13": null
+      }
     }
   ],
   "seqname": "MAG06_792",

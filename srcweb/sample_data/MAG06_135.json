@@ -22,7 +22,22 @@
       "sscore": "3.22",
       "rscore": "0.00",
       "uscore": "0.00",
-      "tscore": "3.22"
+      "tscore": "3.22",
+      "eggnog": {
+        "X1": "MAG06_258_4",
+        "X2": "266834.SMc00982",
+        "X3": 4.9e-254,
+        "X4": 881.7,
+        "X5": null,
+        "X6": null,
+        "X7": "K00479",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01R8X@aproNOG,05DVW@bactNOG,16Q05@proNOG,COG4638@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "P",
+        "X13": "Rieske 2Fe-2S"
+      }
     },
     {
       "seqnames": "MAG06_135",
@@ -46,7 +61,22 @@
       "sscore": "-0.75",
       "rscore": "7.63",
       "uscore": "1.77",
-      "tscore": "-10.14"
+      "tscore": "-10.14",
+      "eggnog": {
+        "X1": "MAG06_258_5",
+        "X2": "266834.SMc00983",
+        "X3": 3.2e-110,
+        "X4": 402.9,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "025A3@aproNOG,06P5F@bactNOG,0YC59@NOG,17Y17@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": null,
+        "X13": null
+      }
     },
     {
       "seqnames": "MAG06_135",
@@ -70,7 +100,22 @@
       "sscore": "-3.26",
       "rscore": "2.03",
       "uscore": "-1.56",
-      "tscore": "-4.87"
+      "tscore": "-4.87",
+      "eggnog": {
+        "X1": "MAG06_258_6",
+        "X2": "266834.SMc00984",
+        "X3": 5e-177,
+        "X4": 625.5,
+        "X5": "YWLC",
+        "X6": null,
+        "X7": "K07566",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01RQ7@aproNOG,07QIS@bactNOG,16UJ3@proNOG,COG0009@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "J",
+        "X13": "sua5 ycio yrdc"
+      }
     },
     {
       "seqnames": "MAG06_135",
@@ -94,7 +139,22 @@
       "sscore": "-4.55",
       "rscore": "-4.72",
       "uscore": "-2.83",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_258_7",
+        "X2": "266834.SMc00985",
+        "X3": 4.7e-275,
+        "X4": 951.8,
+        "X5": "DLD2",
+        "X6": null,
+        "X7": "K00102,K00104",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01QQQ@aproNOG,05CQB@bactNOG,16PGZ@proNOG,COG0277@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "C",
+        "X13": "FAD linked oxidase domain protein"
+      }
     }
   ],
   "seqname": "MAG06_135",

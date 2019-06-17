@@ -22,7 +22,22 @@
       "sscore": "8.54",
       "rscore": "8.26",
       "uscore": "-2.27",
-      "tscore": "3.20"
+      "tscore": "3.20",
+      "eggnog": {
+        "X1": "MAG06_768_2",
+        "X2": "266834.SMc04461",
+        "X3": 4.8e-230,
+        "X4": 802,
+        "X5": "TOLB",
+        "X6": "GO:0003674,GO:0005215,GO:0005575,GO:0005623,GO:0006810,GO:0008104,GO:0008150,GO:0015031,GO:0015833,GO:0017038,GO:0019534,GO:0030288,GO:0030312,GO:0030313,GO:0031975,GO:0033036,GO:0042597,GO:0042886,GO:0043213,GO:0044462,GO:0044464,GO:0044699,GO:0044765,GO:0045184,GO:0051179,GO:0051234,GO:0071702,GO:0071705,GO:0071944,GO:1901998",
+        "X7": "K03641",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01RGK@aproNOG,07R6Y@bactNOG,16PSP@proNOG,COG0823@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "U",
+        "X13": "Involved in the TonB-independent uptake of proteins (By similarity)"
+      }
     },
     {
       "seqnames": "MAG06_793",
@@ -46,7 +61,22 @@
       "sscore": "5.14",
       "rscore": "2.74",
       "uscore": "-0.80",
-      "tscore": "3.20"
+      "tscore": "3.20",
+      "eggnog": {
+        "X1": "MAG06_769_1",
+        "X2": "266834.SMc00074",
+        "X3": 0,
+        "X4": 1149.8,
+        "X5": "OCAR_7325",
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01QRS@aproNOG,05BZU@bactNOG,0XNMH@NOG,16PBJ@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": "T",
+        "X13": "Diguanylate cyclase phosphodiesterase"
+      }
     },
     {
       "seqnames": "MAG06_793",
@@ -70,7 +100,8 @@
       "sscore": "12.45",
       "rscore": "11.83",
       "uscore": "-1.92",
-      "tscore": "3.20"
+      "tscore": "3.20",
+      "eggnog": {}
     }
   ],
   "seqname": "MAG06_793",

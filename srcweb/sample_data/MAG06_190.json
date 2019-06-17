@@ -22,7 +22,22 @@
       "sscore": "3.22",
       "rscore": "0.00",
       "uscore": "0.00",
-      "tscore": "3.22"
+      "tscore": "3.22",
+      "eggnog": {
+        "X1": "MAG06_303_4",
+        "X2": "439375.Oant_4161",
+        "X3": 2.3e-54,
+        "X4": 218,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "021KM@aproNOG,05YRR@bactNOG,12BY2@NOG,17NWY@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "Domain of Unknown Function (DUF930)"
+      }
     },
     {
       "seqnames": "MAG06_190",
@@ -46,7 +61,22 @@
       "sscore": "13.55",
       "rscore": "13.75",
       "uscore": "-4.99",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_303_5",
+        "X2": "266779.Meso_2829",
+        "X3": 3.9e-45,
+        "X4": 186,
+        "X5": "ALLA",
+        "X6": "GO:0003674,GO:0003824,GO:0008150,GO:0008152,GO:0016829,GO:0016840,GO:0016842,GO:0050385",
+        "X7": "K01483",
+        "X8": "UGLYCH",
+        "X9": "bactNOG[38]",
+        "X10": "01WXG@aproNOG,08Z2U@bactNOG,17CVH@proNOG,COG3194@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "F",
+        "X13": "ureidoglycolate hydrolase"
+      }
     }
   ],
   "seqname": "MAG06_190",

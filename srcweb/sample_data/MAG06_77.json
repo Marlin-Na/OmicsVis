@@ -22,7 +22,22 @@
       "sscore": "3.22",
       "rscore": "0.00",
       "uscore": "0.00",
-      "tscore": "3.22"
+      "tscore": "3.22",
+      "eggnog": {
+        "X1": "MAG06_203_3",
+        "X2": "266834.SMc00100",
+        "X3": 2.5e-136,
+        "X4": 490,
+        "X5": "YJGR",
+        "X6": "GO:0008150,GO:0040007",
+        "X7": "K06915",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01QWY@aproNOG,05D7A@bactNOG,16PGX@proNOG,COG0433@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "Bacterial protein of unknown function (DUF853)"
+      }
     },
     {
       "seqnames": "MAG06_77",
@@ -46,7 +61,22 @@
       "sscore": "-1.50",
       "rscore": "7.63",
       "uscore": "1.67",
-      "tscore": "-10.14"
+      "tscore": "-10.14",
+      "eggnog": {
+        "X1": "MAG06_204_1",
+        "X2": "395965.Msil_3333",
+        "X3": 1.3e-14,
+        "X4": 84,
+        "X5": "OCAR_5164",
+        "X6": null,
+        "X7": "K07126",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01WIM@aproNOG,07Y4X@bactNOG,16VUI@proNOG,COG0790@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "Sel1 domain protein repeat-containing protein"
+      }
     },
     {
       "seqnames": "MAG06_77",
@@ -70,7 +100,8 @@
       "sscore": "6.81",
       "rscore": "1.78",
       "uscore": "1.85",
-      "tscore": "3.19"
+      "tscore": "3.19",
+      "eggnog": {}
     },
     {
       "seqnames": "MAG06_77",
@@ -94,7 +125,8 @@
       "sscore": "-0.08",
       "rscore": "10.54",
       "uscore": "-0.48",
-      "tscore": "-10.14"
+      "tscore": "-10.14",
+      "eggnog": {}
     },
     {
       "seqnames": "MAG06_77",
@@ -118,7 +150,22 @@
       "sscore": "4.69",
       "rscore": "2.03",
       "uscore": "-0.98",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_1008_2",
+        "X2": "266834.SMc00648",
+        "X3": 4.8e-59,
+        "X4": 232.3,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "022CP@aproNOG,0615X@bactNOG,12A78@NOG,17PP5@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": null,
+        "X13": null
+      }
     },
     {
       "seqnames": "MAG06_77",
@@ -142,7 +189,22 @@
       "sscore": "5.63",
       "rscore": "2.03",
       "uscore": "0.61",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_1008_3",
+        "X2": "266834.SMc00649",
+        "X3": 2.1e-147,
+        "X4": 526.9,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01WNK@aproNOG,07TYV@bactNOG,16WE9@proNOG,COG0566@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "J",
+        "X13": "trna rrna methyltransferase"
+      }
     },
     {
       "seqnames": "MAG06_77",
@@ -166,7 +228,22 @@
       "sscore": "17.38",
       "rscore": "13.75",
       "uscore": "0.63",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_204_2",
+        "X2": "439375.Oant_2867",
+        "X3": 1.8e-159,
+        "X4": 567.8,
+        "X5": "SELA",
+        "X6": "GO:0005575,GO:0005622,GO:0005623,GO:0005737,GO:0044424,GO:0044464",
+        "X7": "K01042,K02380",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01SVB@aproNOG,05C1Y@bactNOG,16PIQ@proNOG,COG1921@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "E",
+        "X13": "Converts seryl-tRNA(Sec) to selenocysteinyl-tRNA(Sec) required for selenoprotein biosynthesis (By similarity)"
+      }
     },
     {
       "seqnames": "MAG06_77",
@@ -190,7 +267,22 @@
       "sscore": "15.61",
       "rscore": "10.54",
       "uscore": "1.43",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_204_3",
+        "X2": "318586.Pden_2826",
+        "X3": 1.4e-91,
+        "X4": 341.7,
+        "X5": "FDHE",
+        "X6": "GO:0003674,GO:0005488,GO:0005506,GO:0005575,GO:0005622,GO:0005623,GO:0005737,GO:0008150,GO:0008152,GO:0008199,GO:0010467,GO:0019538,GO:0043167,GO:0043169,GO:0043170,GO:0044238,GO:0044424,GO:0044464,GO:0046872,GO:0046914,GO:0051604,GO:0071704",
+        "X7": "K00127,K02380",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01WN2@aproNOG,05F46@bactNOG,16SNY@proNOG,COG3058@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "O",
+        "X13": "Necessary for formate dehydrogenase activity (By similarity)"
+      }
     },
     {
       "seqnames": "MAG06_77",
@@ -214,7 +306,22 @@
       "sscore": "-1.37",
       "rscore": "-4.72",
       "uscore": "0.35",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_204_4",
+        "X2": "78245.Xaut_0660",
+        "X3": 7e-85,
+        "X4": 318.9,
+        "X5": "FDOI",
+        "X6": "GO:0006091,GO:0008150,GO:0008152,GO:0009987,GO:0044237",
+        "X7": "K00124,K00127",
+        "X8": "FDH",
+        "X9": "bactNOG[38]",
+        "X10": "01RR7@aproNOG,08MG3@bactNOG,1713D@proNOG,COG2864@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "C",
+        "X13": "Formate dehydrogenase gamma subunit"
+      }
     },
     {
       "seqnames": "MAG06_77",
@@ -238,7 +345,22 @@
       "sscore": "14.69",
       "rscore": "13.75",
       "uscore": "-2.71",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_204_5",
+        "X2": "412597.PaTRP_010100000830",
+        "X3": 3.4e-149,
+        "X4": 533.1,
+        "X5": "FDOH",
+        "X6": "GO:0005575,GO:0005623,GO:0005886,GO:0006091,GO:0008150,GO:0008152,GO:0009987,GO:0016020,GO:0044237,GO:0044464,GO:0071944",
+        "X7": "K00123,K00124",
+        "X8": "FDH",
+        "X9": "bactNOG[38]",
+        "X10": "01QJP@aproNOG,05QA4@bactNOG,16QRY@proNOG,COG0437@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "C",
+        "X13": "iron-sulfur cluster-binding protein"
+      }
     }
   ],
   "seqname": "MAG06_77",

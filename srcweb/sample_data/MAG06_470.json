@@ -22,7 +22,22 @@
       "sscore": "3.22",
       "rscore": "0.00",
       "uscore": "0.00",
-      "tscore": "3.22"
+      "tscore": "3.22",
+      "eggnog": {
+        "X1": "MAG06_528_2",
+        "X2": "266834.SMc00265",
+        "X3": 4.4e-192,
+        "X4": 675.6,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01TT8@aproNOG,05DR6@bactNOG,16SNC@proNOG,COG1638@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "Q",
+        "X13": "TRAP dicarboxylate transporter subunit DctP"
+      }
     },
     {
       "seqnames": "MAG06_470",
@@ -46,7 +61,22 @@
       "sscore": "12.75",
       "rscore": "7.60",
       "uscore": "0.28",
-      "tscore": "3.63"
+      "tscore": "3.63",
+      "eggnog": {
+        "X1": "MAG06_528_3",
+        "X2": "266834.SMc00264",
+        "X3": 1.6e-141,
+        "X4": 507.3,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01VW6@aproNOG,08ABP@bactNOG,0XSIT@NOG,175JM@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "Short-chain dehydrogenase reductase SDR"
+      }
     },
     {
       "seqnames": "MAG06_470",
@@ -70,7 +100,8 @@
       "sscore": "13.83",
       "rscore": "7.63",
       "uscore": "2.56",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {}
     }
   ],
   "seqname": "MAG06_470",

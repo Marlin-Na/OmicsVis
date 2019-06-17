@@ -22,7 +22,22 @@
       "sscore": "3.22",
       "rscore": "0.00",
       "uscore": "0.00",
-      "tscore": "3.22"
+      "tscore": "3.22",
+      "eggnog": {
+        "X1": "MAG06_904_1",
+        "X2": "266834.SMc00425",
+        "X3": 3.3e-72,
+        "X4": 276.2,
+        "X5": "LRP3",
+        "X6": null,
+        "X7": "K03719",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01XFS@aproNOG,08ZRZ@bactNOG,17CVE@proNOG,COG1522@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "K",
+        "X13": "Transcriptional regulator"
+      }
     },
     {
       "seqnames": "MAG06_965",
@@ -46,7 +61,22 @@
       "sscore": "7.10",
       "rscore": "2.03",
       "uscore": "1.43",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_904_2",
+        "X2": "266834.SMc00461",
+        "X3": 4.9e-85,
+        "X4": 318.9,
+        "X5": "DUT",
+        "X6": "GO:0003674,GO:0003824,GO:0004170,GO:0006139,GO:0006725,GO:0006753,GO:0006793,GO:0006796,GO:0006807,GO:0008150,GO:0008152,GO:0009117,GO:0009262,GO:0009394,GO:0009987,GO:0016462,GO:0016787,GO:0016817,GO:0016818,GO:0019637,GO:0019692,GO:0034641,GO:0044237,GO:0044238,GO:0044281,GO:0044710,GO:0046483,GO:0047429,GO:0055086,GO:0071704,GO:1901135,GO:1901360",
+        "X7": "K01520",
+        "X8": "DUTPDP",
+        "X9": "bactNOG[38]",
+        "X10": "01Y0N@aproNOG,08Z1K@bactNOG,17C5Z@proNOG,COG0756@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "F",
+        "X13": "This enzyme is involved in nucleotide metabolism it produces dUMP, the immediate precursor of thymidine nucleotides and it decreases the intracellular concentration of dUTP so that uracil cannot be incorporated into DNA (By similarity)"
+      }
     },
     {
       "seqnames": "MAG06_965",
@@ -70,7 +100,22 @@
       "sscore": "12.38",
       "rscore": "7.85",
       "uscore": "1.53",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_904_3",
+        "X2": "266834.SMc00427",
+        "X3": 2.8e-302,
+        "X4": 1042.3,
+        "X5": "PRFC",
+        "X6": "GO:0000166,GO:0001882,GO:0001883,GO:0003674,GO:0003676,GO:0003723,GO:0003747,GO:0003824,GO:0003924,GO:0005488,GO:0005575,GO:0005622,GO:0005623,GO:0005737,GO:0005840,GO:0006139,GO:0006152,GO:0006163,GO:0006184,GO:0006195,GO:0006412,GO:0006415,GO:0006725,GO:0006753,GO:0006793,GO:0006796,GO:0006807,GO:0008079,GO:0008135,GO:0008150,GO:0008152,GO:0009056,GO:0009058,GO:0009059,GO:0009116,GO:0009117,GO:0009119,GO:0009141,GO:0009143,GO:0009144,GO:0009146,GO:0009150,GO:0009154,GO:0009164,GO:0009166,GO:0009199,GO:0009203,GO:0009205,GO:0009207,GO:0009259,GO:0009261,GO:0009987,GO:0010467,GO:0016043,GO:0016150,GO:0016462,GO:0016787,GO:0016817,GO:0016818,GO:0017076,GO:0017111,GO:0019001,GO:0019003,GO:0019439,GO:0019538,GO:0019637,GO:0019693,GO:0022411,GO:0030529,GO:0032549,GO:0032550,GO:0032553,GO:0032555,GO:0032561,GO:0032984,GO:0032991,GO:0034641,GO:0034645,GO:0034655,GO:0036094,GO:0042278,GO:0042454,GO:0043167,GO:0043168,GO:0043170,GO:0043226,GO:0043228,GO:0043229,GO:0043232,GO:0043241,GO:0043624,GO:0043933,GO:0044237,GO:0044238,GO:0044248,GO:0044249,GO:0044260,GO:0044267,GO:0044270,GO:0044281,GO:0044424,GO:0044444,GO:0044464,GO:0044699,GO:0044710,GO:0044763,GO:0046039,GO:0046128,GO:0046130,GO:0046434,GO:0046483,GO:0046700,GO:0055086,GO:0071704,GO:0071822,GO:0071840,GO:0072521,GO:0072523,GO:0097159,GO:1901068,GO:1901069,GO:1901135,GO:1901136,GO:1901265,GO:1901292,GO:1901360,GO:1901361,GO:1901363,GO:1901564,GO:1901565,GO:1901575,GO:1901576,GO:1901657,GO:1901658",
+        "X7": "K02837",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01QKH@aproNOG,05C8A@bactNOG,16QJ9@proNOG,COG4108@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "J",
+        "X13": "Increases the formation of ribosomal termination complexes and stimulates activities of RF-1 and RF-2. It binds guanine nucleotides and has strong preference for UGA stop codons. It may interact directly with the ribosome. The stimulation of RF- 1 and RF-2 is significantly reduced by GTP and GDP, but not by GMP (By similarity)"
+      }
     },
     {
       "seqnames": "MAG06_965",
@@ -94,7 +139,22 @@
       "sscore": "4.94",
       "rscore": "-4.72",
       "uscore": "0.00",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_904_4",
+        "X2": "266834.SMc00428",
+        "X3": 2e-148,
+        "X4": 530.4,
+        "X5": "YETK",
+        "X6": "GO:0005575,GO:0005623,GO:0005886,GO:0016020,GO:0044464,GO:0071944",
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "022SI@aproNOG,08PCN@bactNOG,118XF@NOG,16XSP@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "EamA-like transporter family"
+      }
     }
   ],
   "seqname": "MAG06_965",

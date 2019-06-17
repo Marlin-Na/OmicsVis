@@ -22,7 +22,22 @@
       "sscore": "8.44",
       "rscore": "7.63",
       "uscore": "-2.18",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_562_7",
+        "X2": "266834.SMc01634",
+        "X3": 1e-135,
+        "X4": 488,
+        "X5": null,
+        "X6": "GO:0005575,GO:0016020",
+        "X7": "K11070",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01S26@aproNOG,08M4I@bactNOG,0XQDZ@NOG,176IB@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": "P",
+        "X13": "ABC transporter (permease)"
+      }
     },
     {
       "seqnames": "MAG06_520",
@@ -46,7 +61,22 @@
       "sscore": "-0.56",
       "rscore": "-4.72",
       "uscore": "0.51",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_562_8",
+        "X2": "266834.SMc01633",
+        "X3": 7.1e-151,
+        "X4": 538.5,
+        "X5": null,
+        "X6": "GO:0005575,GO:0016020",
+        "X7": "K11071,K11075",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01UDC@aproNOG,08QXY@bactNOG,10EDA@NOG,176NN@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": "P",
+        "X13": "ABC permidine putrescine transporter, inner membrane subunit"
+      }
     },
     {
       "seqnames": "MAG06_520",
@@ -70,7 +100,22 @@
       "sscore": "-2.23",
       "rscore": "7.63",
       "uscore": "0.28",
-      "tscore": "-10.14"
+      "tscore": "-10.14",
+      "eggnog": {
+        "X1": "MAG06_562_9",
+        "X2": "266834.SMc01632",
+        "X3": 2.1e-222,
+        "X4": 776.5,
+        "X5": null,
+        "X6": null,
+        "X7": "K11069,K11073",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01R2T@aproNOG,07QWU@bactNOG,0XP10@NOG,16PZT@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": "E",
+        "X13": "ABC transporter"
+      }
     },
     {
       "seqnames": "MAG06_520",
@@ -94,7 +139,22 @@
       "sscore": "12.96",
       "rscore": "7.63",
       "uscore": "2.34",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_563_1",
+        "X2": "266834.SMc02825",
+        "X3": 4.8e-103,
+        "X4": 379,
+        "X5": "PEPA",
+        "X6": "GO:0005575,GO:0005618,GO:0005622,GO:0005623,GO:0005737,GO:0005886,GO:0016020,GO:0030312,GO:0044424,GO:0044464,GO:0071944",
+        "X7": "K01255",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01QVU@aproNOG,05BZ6@bactNOG,16QGR@proNOG,COG0260@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "E",
+        "X13": "Presumably involved in the processing and regular turnover of intracellular proteins. Catalyzes the removal of unsubstituted N-terminal amino acids from various peptides (By similarity)"
+      }
     },
     {
       "seqnames": "MAG06_520",
@@ -118,7 +178,22 @@
       "sscore": "0.90",
       "rscore": "-0.37",
       "uscore": "-2.38",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_563_2",
+        "X2": "266834.SMc02826",
+        "X3": 2.6e-56,
+        "X4": 223,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01ZW3@aproNOG,05PED@bactNOG,11XUF@NOG,17H0N@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": "K",
+        "X13": "Transcriptional regulator, MarR family"
+      }
     }
   ],
   "seqname": "MAG06_520",

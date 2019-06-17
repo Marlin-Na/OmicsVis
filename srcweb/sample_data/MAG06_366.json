@@ -22,7 +22,22 @@
       "sscore": "3.22",
       "rscore": "0.00",
       "uscore": "0.00",
-      "tscore": "3.22"
+      "tscore": "3.22",
+      "eggnog": {
+        "X1": "MAG06_447_2",
+        "X2": "266834.SMc01267",
+        "X3": 1.3e-24,
+        "X4": 116.7,
+        "X5": "PRKA",
+        "X6": "GO:0003674,GO:0003824,GO:0004672,GO:0006464,GO:0006468,GO:0006793,GO:0006796,GO:0008150,GO:0008152,GO:0009987,GO:0016301,GO:0016310,GO:0016740,GO:0016772,GO:0016773,GO:0019538,GO:0036211,GO:0043170,GO:0043412,GO:0044237,GO:0044238,GO:0044260,GO:0044267,GO:0071704",
+        "X7": "K07180",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01S4B@aproNOG,05CYN@bactNOG,16QF9@proNOG,COG2766@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "T",
+        "X13": "Serine protein kinase"
+      }
     },
     {
       "seqnames": "MAG06_366",
@@ -46,7 +61,22 @@
       "sscore": "-0.09",
       "rscore": "-4.72",
       "uscore": "-0.17",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_447_3",
+        "X2": "266834.SMc01266",
+        "X3": 5.2e-246,
+        "X4": 855.1,
+        "X5": "YEAH",
+        "X6": null,
+        "X7": "K09786",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01SPV@aproNOG,06AKX@bactNOG,16PYR@proNOG,COG2718@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "UPF0229 protein"
+      }
     },
     {
       "seqnames": "MAG06_366",
@@ -70,7 +100,22 @@
       "sscore": "15.48",
       "rscore": "10.54",
       "uscore": "-0.37",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_447_4",
+        "X2": "266834.SMc01265",
+        "X3": 6.5e-304,
+        "X4": 1047.7,
+        "X5": "YCGB",
+        "X6": "GO:0006950,GO:0006974,GO:0008150,GO:0009987,GO:0033554,GO:0044699,GO:0044763,GO:0050896,GO:0051716",
+        "X7": "K06415",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01QN7@aproNOG,05ED1@bactNOG,16RVP@proNOG,COG2719@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "SpoVR family"
+      }
     },
     {
       "seqnames": "MAG06_366",
@@ -94,7 +139,8 @@
       "sscore": "6.47",
       "rscore": "2.03",
       "uscore": "-0.38",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {}
     },
     {
       "seqnames": "MAG06_366",
@@ -118,7 +164,8 @@
       "sscore": "5.46",
       "rscore": "2.03",
       "uscore": "-1.48",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {}
     },
     {
       "seqnames": "MAG06_366",
@@ -142,7 +189,8 @@
       "sscore": "6.87",
       "rscore": "2.03",
       "uscore": "0.43",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {}
     }
   ],
   "seqname": "MAG06_366",

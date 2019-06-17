@@ -22,7 +22,22 @@
       "sscore": "3.22",
       "rscore": "0.00",
       "uscore": "0.00",
-      "tscore": "3.22"
+      "tscore": "3.22",
+      "eggnog": {
+        "X1": "MAG06_985_1",
+        "X2": "266834.SMc01326",
+        "X3": 4.8e-30,
+        "X4": 135.2,
+        "X5": "TUF",
+        "X6": "GO:0001666,GO:0003674,GO:0003676,GO:0003723,GO:0003746,GO:0005488,GO:0005575,GO:0005618,GO:0005622,GO:0005623,GO:0005737,GO:0005829,GO:0005886,GO:0006412,GO:0006414,GO:0006950,GO:0008135,GO:0008150,GO:0008152,GO:0009058,GO:0009059,GO:0009628,GO:0009987,GO:0010035,GO:0010038,GO:0010039,GO:0010467,GO:0016020,GO:0019538,GO:0030312,GO:0034645,GO:0036293,GO:0040007,GO:0042221,GO:0043170,GO:0044237,GO:0044238,GO:0044249,GO:0044260,GO:0044267,GO:0044424,GO:0044444,GO:0044464,GO:0050896,GO:0070482,GO:0071704,GO:0071944,GO:0097159,GO:1901363,GO:1901576",
+        "X7": "K02358",
+        "X8": "SADT2",
+        "X9": "bactNOG[38]",
+        "X10": "01QSB@aproNOG,05CGV@bactNOG,16PJC@proNOG,COG0050@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "J",
+        "X13": "This protein promotes the GTP-dependent binding of aminoacyl-tRNA to the A-site of ribosomes during protein biosynthesis (By similarity)"
+      }
     },
     {
       "seqnames": "MAG06_33",
@@ -46,7 +61,22 @@
       "sscore": "10.88",
       "rscore": "7.63",
       "uscore": "-0.39",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_985_2",
+        "X2": "266834.SMc01325",
+        "X3": 2.1e-118,
+        "X4": 430.3,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "028GR@aproNOG,070WI@bactNOG,0Z05P@NOG,184C5@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": null,
+        "X13": null
+      }
     },
     {
       "seqnames": "MAG06_33",
@@ -70,7 +100,22 @@
       "sscore": "4.60",
       "rscore": "2.03",
       "uscore": "-1.08",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_985_3",
+        "X2": "266834.SMc01324",
+        "X3": 2e-172,
+        "X4": 610.1,
+        "X5": null,
+        "X6": null,
+        "X7": "K01784,K18981",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01QPB@aproNOG,05DGQ@bactNOG,174YC@proNOG,COG0451@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "M",
+        "X13": "Udp-glucose 4-epimerase"
+      }
     },
     {
       "seqnames": "MAG06_33",
@@ -94,7 +139,22 @@
       "sscore": "3.57",
       "rscore": "-3.78",
       "uscore": "2.55",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_986_1",
+        "X2": "266834.SMc04183",
+        "X3": 1.1e-142,
+        "X4": 511.1,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01X01@aproNOG,08YG6@bactNOG,11M80@NOG,17BKP@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": null,
+        "X13": null
+      }
     }
   ],
   "seqname": "MAG06_33",

@@ -22,7 +22,22 @@
       "sscore": "8.71",
       "rscore": "7.63",
       "uscore": "-1.91",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_691_1",
+        "X2": "266834.SMc00765",
+        "X3": 0,
+        "X4": 1101.7,
+        "X5": "MCPZCH1",
+        "X6": null,
+        "X7": "K03406",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01TN4@aproNOG,08P30@bactNOG,176FC@proNOG,COG0840@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "N, T",
+        "X13": "Methyl-accepting chemotaxis"
+      }
     },
     {
       "seqnames": "MAG06_692",
@@ -46,7 +61,22 @@
       "sscore": "8.71",
       "rscore": "7.63",
       "uscore": "-2.56",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_691_3",
+        "X2": "266834.SMc00766",
+        "X3": 2.4e-162,
+        "X4": 576.6,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01XW3@aproNOG,08XW9@bactNOG,11R3U@NOG,17AD4@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": "K",
+        "X13": "LysR family transcriptional regulator"
+      }
     }
   ],
   "seqname": "MAG06_692",

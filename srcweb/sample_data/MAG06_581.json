@@ -22,7 +22,22 @@
       "sscore": "3.22",
       "rscore": "0.00",
       "uscore": "0.00",
-      "tscore": "3.22"
+      "tscore": "3.22",
+      "eggnog": {
+        "X1": "MAG06_610_4",
+        "X2": "272943.RSP_0518",
+        "X3": 2.1e-102,
+        "X4": 377.9,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01XM1@aproNOG,08MK3@bactNOG,175XZ@proNOG,COG0438@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "M",
+        "X13": "glycosyl transferase group 1"
+      }
     },
     {
       "seqnames": "MAG06_581",
@@ -46,7 +61,22 @@
       "sscore": "-3.56",
       "rscore": "2.03",
       "uscore": "-0.72",
-      "tscore": "-4.87"
+      "tscore": "-4.87",
+      "eggnog": {
+        "X1": "MAG06_611_1",
+        "X2": "439375.Oant_3437",
+        "X3": 1.4e-98,
+        "X4": 364.8,
+        "X5": "APRD",
+        "X6": null,
+        "X7": "K06147,K06148",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "02EFA@aproNOG,08JJ6@bactNOG,173BI@proNOG,COG4618@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "V",
+        "X13": "Type I secretion system ATPase"
+      }
     }
   ],
   "seqname": "MAG06_581",

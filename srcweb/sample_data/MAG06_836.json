@@ -22,7 +22,22 @@
       "sscore": "3.22",
       "rscore": "0.00",
       "uscore": "0.00",
-      "tscore": "3.22"
+      "tscore": "3.22",
+      "eggnog": {
+        "X1": "MAG06_805_1",
+        "X2": "266834.SMc03207",
+        "X3": 2.1e-135,
+        "X4": 486.9,
+        "X5": "UPTA",
+        "X6": null,
+        "X7": "K16171",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01T2H@aproNOG,05ETF@bactNOG,16SFV@proNOG,COG0179@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "Q",
+        "X13": "hydrolase"
+      }
     },
     {
       "seqnames": "MAG06_836",
@@ -46,7 +61,8 @@
       "sscore": "11.27",
       "rscore": "7.85",
       "uscore": "-0.23",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {}
     },
     {
       "seqnames": "MAG06_836",
@@ -70,7 +86,22 @@
       "sscore": "-1.03",
       "rscore": "-4.72",
       "uscore": "0.04",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_805_2",
+        "X2": "266834.SMc03206",
+        "X3": 6.2e-123,
+        "X4": 445.3,
+        "X5": "MAIA",
+        "X6": null,
+        "X7": "K00799,K01800,K01801",
+        "X8": "MACACI",
+        "X9": "bactNOG[38]",
+        "X10": "01X84@aproNOG,08RXX@bactNOG,1782W@proNOG,COG0625@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "Q",
+        "X13": "maleylacetoacetate isomerase"
+      }
     },
     {
       "seqnames": "MAG06_836",
@@ -94,7 +125,22 @@
       "sscore": "9.64",
       "rscore": "2.03",
       "uscore": "2.85",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_805_3",
+        "X2": "266834.SMc03205",
+        "X3": 9.9e-83,
+        "X4": 311.2,
+        "X5": "PURU",
+        "X6": null,
+        "X7": "K01433",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01SQH@aproNOG,05CIY@bactNOG,16PZY@proNOG,COG0788@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "F",
+        "X13": "formyltetrahydrofolate deformylase"
+      }
     },
     {
       "seqnames": "MAG06_836",
@@ -118,7 +164,22 @@
       "sscore": "5.93",
       "rscore": "2.03",
       "uscore": "0.91",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_806_1",
+        "X2": "266834.SMc04089",
+        "X3": 2.2e-250,
+        "X4": 869.8,
+        "X5": "OCAR_4336",
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01RV0@aproNOG,05HHW@bactNOG,16PTI@proNOG,COG5360@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "heparinase II III family protein"
+      }
     },
     {
       "seqnames": "MAG06_836",
@@ -142,7 +203,22 @@
       "sscore": "3.86",
       "rscore": "-0.37",
       "uscore": "0.58",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_806_2",
+        "X2": "266834.SMc04090",
+        "X3": 1.4e-257,
+        "X4": 893.6,
+        "X5": "RSMB",
+        "X6": "GO:0000154,GO:0001510,GO:0003674,GO:0003824,GO:0005575,GO:0005622,GO:0005623,GO:0005737,GO:0006139,GO:0006364,GO:0006396,GO:0006725,GO:0006807,GO:0008150,GO:0008152,GO:0008168,GO:0008169,GO:0008173,GO:0008649,GO:0008757,GO:0009383,GO:0009451,GO:0009987,GO:0010467,GO:0016070,GO:0016072,GO:0016434,GO:0016740,GO:0016741,GO:0022613,GO:0031167,GO:0032259,GO:0034470,GO:0034641,GO:0034660,GO:0042254,GO:0043170,GO:0043412,GO:0043414,GO:0044085,GO:0044237,GO:0044238,GO:0044260,GO:0044424,GO:0044464,GO:0046483,GO:0070475,GO:0071704,GO:0071840,GO:0090304,GO:1901360",
+        "X7": "K03500",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01R2S@aproNOG,05CYJ@bactNOG,16PJK@proNOG,COG0144@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "J",
+        "X13": "Ribosomal RNA small subunit methyltransferase B"
+      }
     },
     {
       "seqnames": "MAG06_836",
@@ -166,7 +242,22 @@
       "sscore": "1.76",
       "rscore": "9.08",
       "uscore": "0.56",
-      "tscore": "-7.38"
+      "tscore": "-7.38",
+      "eggnog": {
+        "X1": "MAG06_806_3",
+        "X2": "266834.SMc04091",
+        "X3": 1.2e-112,
+        "X4": 411,
+        "X5": "HTPX",
+        "X6": "GO:0005575,GO:0005623,GO:0005886,GO:0016020,GO:0044464,GO:0071944",
+        "X7": "K03799,K06013",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01RNX@aproNOG,05D0M@bactNOG,16RW8@proNOG,COG0501@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "O",
+        "X13": "Protease HtpX homolog"
+      }
     },
     {
       "seqnames": "MAG06_836",
@@ -190,7 +281,22 @@
       "sscore": "5.73",
       "rscore": "2.03",
       "uscore": "0.05",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_807_1",
+        "X2": "266834.SMc02032",
+        "X3": 1.2e-184,
+        "X4": 651,
+        "X5": "MGLA3",
+        "X6": "GO:0005575,GO:0005623,GO:0005886,GO:0016020,GO:0044464,GO:0071944",
+        "X7": "K01995,K01996,K02056,K10441,K10562,K17204",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01QBB@aproNOG,05C2J@bactNOG,16PQI@proNOG,COG1129@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "P",
+        "X13": "ABC transporter"
+      }
     }
   ],
   "seqname": "MAG06_836",

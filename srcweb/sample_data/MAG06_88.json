@@ -22,7 +22,22 @@
       "sscore": "-0.56",
       "rscore": "-4.72",
       "uscore": "0.52",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_213_4",
+        "X2": "266834.SMc03055",
+        "X3": 4e-134,
+        "X4": 482.6,
+        "X5": "FLIR",
+        "X6": "GO:0005575,GO:0016020",
+        "X7": "K02421",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01WRM@aproNOG,08W7J@bactNOG,17ATY@proNOG,COG1684@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "N",
+        "X13": "Flagellar biosynthesis protein FliR"
+      }
     },
     {
       "seqnames": "MAG06_88",
@@ -46,7 +61,22 @@
       "sscore": "6.69",
       "rscore": "2.03",
       "uscore": "1.02",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_213_5",
+        "X2": "366394.Smed_0283",
+        "X3": 3.3e-139,
+        "X4": 499.6,
+        "X5": "FLHA",
+        "X6": "GO:0001539,GO:0005575,GO:0005623,GO:0005886,GO:0006928,GO:0008150,GO:0009987,GO:0016020,GO:0040011,GO:0044464,GO:0044699,GO:0044763,GO:0048870,GO:0051179,GO:0051674,GO:0071944",
+        "X7": "K02400,K03230",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01QVT@aproNOG,05D7B@bactNOG,16Q1T@proNOG,COG1298@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "N",
+        "X13": "flagellar biosynthesis protein, FlhA"
+      }
     },
     {
       "seqnames": "MAG06_88",
@@ -70,7 +100,22 @@
       "sscore": "-2.85",
       "rscore": "2.03",
       "uscore": "0.65",
-      "tscore": "-4.87"
+      "tscore": "-4.87",
+      "eggnog": {
+        "X1": "MAG06_1009_1",
+        "X2": "414684.RC1_0997",
+        "X3": 1.1e-110,
+        "X4": 404.8,
+        "X5": null,
+        "X6": null,
+        "X7": "K00822,K00833,K12256,K16871",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "02EGK@aproNOG,08JPX@bactNOG,173ED@proNOG,COG0161@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "E",
+        "X13": "Aminotransferase"
+      }
     },
     {
       "seqnames": "MAG06_88",
@@ -94,7 +139,22 @@
       "sscore": "9.91",
       "rscore": "7.63",
       "uscore": "-1.36",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_1009_2",
+        "X2": "639283.Snov_4165",
+        "X3": 1.7e-90,
+        "X4": 338.2,
+        "X5": "POTA",
+        "X6": null,
+        "X7": "K02010,K02052,K11072,K11076",
+        "X8": "PTRCabcpp,SPMDabcpp",
+        "X9": "bactNOG[38]",
+        "X10": "01QVA@aproNOG,05C53@bactNOG,16QR8@proNOG,COG3842@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "E",
+        "X13": "Part of the ABC transporter complex PotABCD involved in spermidine putrescine import. Responsible for energy coupling to the transport system (By similarity)"
+      }
     }
   ],
   "seqname": "MAG06_88",

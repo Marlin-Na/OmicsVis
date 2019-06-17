@@ -22,7 +22,22 @@
       "sscore": "3.22",
       "rscore": "0.00",
       "uscore": "0.00",
-      "tscore": "3.22"
+      "tscore": "3.22",
+      "eggnog": {
+        "X1": "MAG06_850_2",
+        "X2": "536019.Mesop_2860",
+        "X3": 1.9e-108,
+        "X4": 397.5,
+        "X5": null,
+        "X6": null,
+        "X7": "K02058,K10439",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "022R3@aproNOG,08Q8E@bactNOG,11CZ4@NOG,16SAY@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": null,
+        "X13": null
+      }
     },
     {
       "seqnames": "MAG06_899",
@@ -46,7 +61,22 @@
       "sscore": "-1.20",
       "rscore": "-4.72",
       "uscore": "0.53",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_851_1",
+        "X2": "366394.Smed_1285",
+        "X3": 1.1e-110,
+        "X4": 404.4,
+        "X5": null,
+        "X6": null,
+        "X7": "K00317",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "02DM3@aproNOG,08EIT@bactNOG,170YA@proNOG,COG0446@NOG,COG1902@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "C",
+        "X13": "NADH flavin oxidoreductase NADH oxidase"
+      }
     },
     {
       "seqnames": "MAG06_899",
@@ -70,7 +100,22 @@
       "sscore": "19.57",
       "rscore": "13.75",
       "uscore": "2.17",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_851_2",
+        "X2": "1007105.PT7_2721",
+        "X3": 1.7e-56,
+        "X4": 224.6,
+        "X5": null,
+        "X6": null,
+        "X7": "K01432",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "07EHK@bactNOG,174KT@proNOG,COG0657@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "I",
+        "X13": "Esterase"
+      }
     },
     {
       "seqnames": "MAG06_899",
@@ -94,7 +139,22 @@
       "sscore": "10.08",
       "rscore": "6.77",
       "uscore": "0.32",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_852_1",
+        "X2": "266834.SMc03018",
+        "X3": 2.7e-95,
+        "X4": 353.2,
+        "X5": "FLHB",
+        "X6": "GO:0005575,GO:0005623,GO:0005886,GO:0006928,GO:0006935,GO:0007610,GO:0007626,GO:0008150,GO:0009605,GO:0009987,GO:0016020,GO:0040011,GO:0042221,GO:0042330,GO:0044403,GO:0044419,GO:0044464,GO:0044699,GO:0044708,GO:0044763,GO:0050896,GO:0051701,GO:0051704,GO:0052116,GO:0052126,GO:0052127,GO:0052143,GO:0052192,GO:0052195,GO:0052216,GO:0052243,GO:0071944",
+        "X7": "K02401,K03229,K13820",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01QF7@aproNOG,05D00@bactNOG,16PJ3@proNOG,COG1377@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "N",
+        "X13": "flagellar biosynthetic protein flhB"
+      }
     },
     {
       "seqnames": "MAG06_899",
@@ -118,7 +178,22 @@
       "sscore": "-1.37",
       "rscore": "7.85",
       "uscore": "-0.30",
-      "tscore": "-10.14"
+      "tscore": "-10.14",
+      "eggnog": {
+        "X1": "MAG06_852_2",
+        "X2": "266834.SMc03017",
+        "X3": 7.8e-77,
+        "X4": 291.6,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01ZKE@aproNOG,05QDQ@bactNOG,11W4Z@NOG,17FCE@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": null,
+        "X13": null
+      }
     },
     {
       "seqnames": "MAG06_899",
@@ -142,7 +217,22 @@
       "sscore": "3.22",
       "rscore": "0.00",
       "uscore": "0.00",
-      "tscore": "3.22"
+      "tscore": "3.22",
+      "eggnog": {
+        "X1": "MAG06_852_3",
+        "X2": "266834.SMc03016",
+        "X3": 2.5e-122,
+        "X4": 443.4,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01XYB@aproNOG,08WDJ@bactNOG,11KMX@NOG,17BGZ@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": "K",
+        "X13": "transcriptional regulator"
+      }
     }
   ],
   "seqname": "MAG06_899",

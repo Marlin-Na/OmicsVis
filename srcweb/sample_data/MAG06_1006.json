@@ -22,7 +22,22 @@
       "sscore": "3.22",
       "rscore": "0.00",
       "uscore": "0.00",
-      "tscore": "3.22"
+      "tscore": "3.22",
+      "eggnog": {
+        "X1": "MAG06_930_3",
+        "X2": "266834.SMc01036",
+        "X3": 2.4e-35,
+        "X4": 152.9,
+        "X5": "OCAR_5641",
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "021TB@aproNOG,05WIS@bactNOG,17MCT@proNOG,COG2261@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "Transglycosylase-associated protein"
+      }
     },
     {
       "seqnames": "MAG06_1006",
@@ -46,7 +61,22 @@
       "sscore": "3.03",
       "rscore": "-0.25",
       "uscore": "-1.15",
-      "tscore": "3.20"
+      "tscore": "3.20",
+      "eggnog": {
+        "X1": "MAG06_930_4",
+        "X2": "266834.SMc01035",
+        "X3": 9.1e-276,
+        "X4": 954.1,
+        "X5": "LPD",
+        "X6": "GO:0005575,GO:0005622,GO:0005623,GO:0005737,GO:0044424,GO:0044464",
+        "X7": "K00382",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01SMF@aproNOG,07QN2@bactNOG,16Q3B@proNOG,COG1249@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "C",
+        "X13": "Dihydrolipoyl dehydrogenase"
+      }
     },
     {
       "seqnames": "MAG06_1006",
@@ -70,7 +100,22 @@
       "sscore": "12.33",
       "rscore": "11.01",
       "uscore": "-1.88",
-      "tscore": "3.20"
+      "tscore": "3.20",
+      "eggnog": {
+        "X1": "MAG06_930_5",
+        "X2": "266834.SMc01034",
+        "X3": 3.4e-104,
+        "X4": 382.9,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01ZGB@aproNOG,05FVA@bactNOG,17E4V@proNOG,COG0456@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "Acetyltransferase (GNAT) family"
+      }
     }
   ],
   "seqname": "MAG06_1006",

@@ -22,7 +22,22 @@
       "sscore": "1.85",
       "rscore": "7.63",
       "uscore": "-0.91",
-      "tscore": "-4.87"
+      "tscore": "-4.87",
+      "eggnog": {
+        "X1": "MAG06_426_2",
+        "X2": "266834.SMc00950",
+        "X3": 4.6e-107,
+        "X4": 392.5,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01WBY@aproNOG,08RAG@bactNOG,17967@proNOG,COG5342@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "Invasion-associated protein"
+      }
     },
     {
       "seqnames": "MAG06_336",
@@ -46,7 +61,22 @@
       "sscore": "10.57",
       "rscore": "7.63",
       "uscore": "-0.05",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_426_3",
+        "X2": "266834.SMc00951",
+        "X3": 0,
+        "X4": 1227.2,
+        "X5": "OCAR_6206",
+        "X6": "GO:0005575,GO:0005623,GO:0042597,GO:0044464",
+        "X7": "K02035,K13893",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01QBN@aproNOG,05E43@bactNOG,16QNA@proNOG,COG4166@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "E",
+        "X13": "Extracellular solute-binding protein, family 5"
+      }
     },
     {
       "seqnames": "MAG06_336",
@@ -70,7 +100,22 @@
       "sscore": "0.21",
       "rscore": "-4.72",
       "uscore": "1.28",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_426_4",
+        "X2": "266834.SMc00952",
+        "X3": 3.5e-121,
+        "X4": 439.5,
+        "X5": "FRNE",
+        "X6": "GO:0003674,GO:0003824,GO:0008150,GO:0008152",
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01XIQ@aproNOG,08Z1M@bactNOG,16TI4@proNOG,COG2761@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "Q",
+        "X13": "DsbA oxidoreductase"
+      }
     },
     {
       "seqnames": "MAG06_336",
@@ -94,7 +139,22 @@
       "sscore": "7.80",
       "rscore": "0.88",
       "uscore": "2.56",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_426_5",
+        "X2": "266834.SMc00953",
+        "X3": 1.7e-48,
+        "X4": 196.8,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "022I6@aproNOG,08ZN6@bactNOG,11P2R@NOG,17CS2@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": "K",
+        "X13": "Transcriptional regulator"
+      }
     },
     {
       "seqnames": "MAG06_336",
@@ -118,7 +178,22 @@
       "sscore": "14.11",
       "rscore": "7.63",
       "uscore": "1.55",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_427_1",
+        "X2": "311402.Avi_5475",
+        "X3": 1.3e-23,
+        "X4": 114,
+        "X5": null,
+        "X6": null,
+        "X7": "K17472",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01XSC@aproNOG,07YXA@bactNOG,17CSC@proNOG,COG1959@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "K",
+        "X13": "Transcriptional regulator, BadM Rrf2 family"
+      }
     },
     {
       "seqnames": "MAG06_336",
@@ -142,7 +217,22 @@
       "sscore": "12.56",
       "rscore": "7.63",
       "uscore": "-1.55",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_427_2",
+        "X2": "1117943.SFHH103_02244",
+        "X3": 8.2e-261,
+        "X4": 904.4,
+        "X5": "DER",
+        "X6": "GO:0000027,GO:0000166,GO:0001882,GO:0001883,GO:0003674,GO:0003824,GO:0003924,GO:0005488,GO:0005525,GO:0005575,GO:0005618,GO:0005622,GO:0005623,GO:0005737,GO:0005829,GO:0005886,GO:0006139,GO:0006152,GO:0006163,GO:0006184,GO:0006195,GO:0006725,GO:0006753,GO:0006793,GO:0006796,GO:0006807,GO:0006996,GO:0008150,GO:0008152,GO:0009056,GO:0009116,GO:0009117,GO:0009119,GO:0009141,GO:0009143,GO:0009144,GO:0009146,GO:0009150,GO:0009154,GO:0009164,GO:0009166,GO:0009199,GO:0009203,GO:0009205,GO:0009207,GO:0009259,GO:0009261,GO:0009987,GO:0016020,GO:0016043,GO:0016462,GO:0016787,GO:0016817,GO:0016818,GO:0017076,GO:0017111,GO:0019001,GO:0019439,GO:0019637,GO:0019693,GO:0022607,GO:0022613,GO:0022618,GO:0030312,GO:0032549,GO:0032550,GO:0032553,GO:0032555,GO:0032561,GO:0034622,GO:0034641,GO:0034655,GO:0035639,GO:0036094,GO:0040007,GO:0042254,GO:0042255,GO:0042273,GO:0042278,GO:0042454,GO:0043021,GO:0043022,GO:0043167,GO:0043168,GO:0043933,GO:0044085,GO:0044237,GO:0044238,GO:0044248,GO:0044270,GO:0044281,GO:0044424,GO:0044444,GO:0044464,GO:0044699,GO:0044710,GO:0044763,GO:0046039,GO:0046128,GO:0046130,GO:0046434,GO:0046483,GO:0046700,GO:0055086,GO:0065003,GO:0070925,GO:0071704,GO:0071826,GO:0071840,GO:0071944,GO:0072521,GO:0072523,GO:0097159,GO:1901068,GO:1901069,GO:1901135,GO:1901136,GO:1901265,GO:1901292,GO:1901360,GO:1901361,GO:1901363,GO:1901564,GO:1901565,GO:1901575,GO:1901657,GO:1901658",
+        "X7": "K00058,K03977",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01QV0@aproNOG,05DKZ@bactNOG,16PU4@proNOG,COG1160@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "GTPase that plays an essential role in the late steps of ribosome biogenesis (By similarity)"
+      }
     }
   ],
   "seqname": "MAG06_336",

@@ -22,7 +22,22 @@
       "sscore": "5.96",
       "rscore": "2.03",
       "uscore": "0.29",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_11_4",
+        "X2": "371731.Rsw2DRAFT_1626",
+        "X3": 5.9e-98,
+        "X4": 362.5,
+        "X5": "ABCB",
+        "X6": "GO:0005575,GO:0016020",
+        "X7": "K02050",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01W1W@aproNOG,07VJ8@bactNOG,16VIR@proNOG,COG0600@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "P",
+        "X13": "Binding-protein-dependent transport systems inner membrane component"
+      }
     },
     {
       "seqnames": "MAG06_481",
@@ -46,7 +61,22 @@
       "sscore": "5.44",
       "rscore": "-4.72",
       "uscore": "0.50",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_534_2",
+        "X2": "266834.SMc04175",
+        "X3": 2e-105,
+        "X4": 387.1,
+        "X5": "TERC",
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01WYB@aproNOG,08ZCF@bactNOG,179W0@proNOG,COG0861@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "P",
+        "X13": "integral membrane protein TerC"
+      }
     },
     {
       "seqnames": "MAG06_481",
@@ -70,7 +100,22 @@
       "sscore": "-8.67",
       "rscore": "-0.69",
       "uscore": "1.48",
-      "tscore": "-10.14"
+      "tscore": "-10.14",
+      "eggnog": {
+        "X1": "MAG06_535_1",
+        "X2": "266834.SMc02841",
+        "X3": 1e-165,
+        "X4": 587.8,
+        "X5": "ADA",
+        "X6": "GO:0005575,GO:0005622,GO:0005623,GO:0005737,GO:0044424,GO:0044464",
+        "X7": "K00567,K10778,K13531",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01RB8@aproNOG,05K85@bactNOG,17FJB@proNOG,COG0350@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "L",
+        "X13": "Methyltransferase"
+      }
     },
     {
       "seqnames": "MAG06_481",
@@ -94,7 +139,22 @@
       "sscore": "6.97",
       "rscore": "2.03",
       "uscore": "-2.51",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_535_2",
+        "X2": "266834.SMc02842",
+        "X3": 6e-86,
+        "X4": 322,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01XNI@aproNOG,08WNZ@bactNOG,17B70@proNOG,COG5488@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "Integral membrane protein (DUF2244)"
+      }
     }
   ],
   "seqname": "MAG06_481",

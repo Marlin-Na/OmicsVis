@@ -22,7 +22,22 @@
       "sscore": "3.22",
       "rscore": "0.00",
       "uscore": "0.00",
-      "tscore": "3.22"
+      "tscore": "3.22",
+      "eggnog": {
+        "X1": "MAG06_100_3",
+        "X2": "266834.SMc04281",
+        "X3": 4.6e-186,
+        "X4": 655.6,
+        "X5": "COBC",
+        "X6": "GO:0003674,GO:0003824,GO:0005575,GO:0005622,GO:0005623,GO:0005737,GO:0006725,GO:0006766,GO:0006767,GO:0006807,GO:0008150,GO:0008152,GO:0009058,GO:0009110,GO:0009235,GO:0009236,GO:0009987,GO:0016829,GO:0016830,GO:0016831,GO:0018130,GO:0019438,GO:0033013,GO:0033014,GO:0034641,GO:0042364,GO:0044237,GO:0044249,GO:0044271,GO:0044281,GO:0044283,GO:0044424,GO:0044464,GO:0044710,GO:0044711,GO:0046483,GO:0048472,GO:0071704,GO:1901360,GO:1901362,GO:1901564,GO:1901566,GO:1901576",
+        "X7": "K00817,K02225",
+        "X8": "ADCPS1,ADCPS2,HSTPT",
+        "X9": "bactNOG[38]",
+        "X10": "01TEI@aproNOG,05EFT@bactNOG,16QU9@proNOG,COG0079@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "H",
+        "X13": "decarboxylase"
+      }
     },
     {
       "seqnames": "MAG06_587",
@@ -46,7 +61,22 @@
       "sscore": "-9.71",
       "rscore": "-4.72",
       "uscore": "-1.07",
-      "tscore": "-4.87"
+      "tscore": "-4.87",
+      "eggnog": {
+        "X1": "MAG06_100_4",
+        "X2": "266834.SMc04279",
+        "X3": 4e-174,
+        "X4": 615.9,
+        "X5": "COBD",
+        "X6": "GO:0005575,GO:0005576,GO:0005623,GO:0005886,GO:0016020,GO:0044464,GO:0071944",
+        "X7": "K02227",
+        "X8": "ADCPS1,ADCPS2",
+        "X9": "bactNOG[38]",
+        "X10": "01R26@aproNOG,05DH2@bactNOG,16STD@proNOG,COG1270@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "H",
+        "X13": "Converts cobyric acid to cobinamide by the addition of aminopropanol on the F carboxylic group (By similarity)"
+      }
     }
   ],
   "seqname": "MAG06_587",

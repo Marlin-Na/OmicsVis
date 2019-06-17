@@ -22,7 +22,22 @@
       "sscore": "-9.16",
       "rscore": "2.03",
       "uscore": "-1.04",
-      "tscore": "-10.14"
+      "tscore": "-10.14",
+      "eggnog": {
+        "X1": "MAG06_319_1",
+        "X2": "266834.SMc01650",
+        "X3": 1.2e-169,
+        "X4": 600.9,
+        "X5": "BMUL_3592",
+        "X6": "GO:0003674,GO:0003824,GO:0006629,GO:0008150,GO:0008152,GO:0009056,GO:0016042,GO:0016298,GO:0016787,GO:0016788,GO:0044238,GO:0044710,GO:0071704,GO:1901575",
+        "X7": "K01066",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01W91@aproNOG,05F2M@bactNOG,16SRD@proNOG,COG0657@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "I",
+        "X13": "alpha beta hydrolase fold-3 domain protein"
+      }
     },
     {
       "seqnames": "MAG06_206",
@@ -46,7 +61,22 @@
       "sscore": "16.77",
       "rscore": "13.75",
       "uscore": "-0.62",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_319_2",
+        "X2": "266834.SMc01651",
+        "X3": 2.7e-164,
+        "X4": 583.2,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01R5I@aproNOG,05YG5@bactNOG,0XY5Z@NOG,16ZRK@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": "K",
+        "X13": "LysR family transcriptional regulator"
+      }
     },
     {
       "seqnames": "MAG06_206",
@@ -70,7 +100,22 @@
       "sscore": "3.22",
       "rscore": "0.00",
       "uscore": "0.00",
-      "tscore": "3.22"
+      "tscore": "3.22",
+      "eggnog": {
+        "X1": "MAG06_319_3",
+        "X2": "266834.SMc01652",
+        "X3": 2.6e-233,
+        "X4": 812.8,
+        "X5": "YDCS",
+        "X6": "GO:0005575,GO:0005623,GO:0042597,GO:0044464",
+        "X7": "K02055",
+        "X8": "PTRCabc,PTRCabcpp,SPMDabc,SPMDabcpp",
+        "X9": "bactNOG[38]",
+        "X10": "01UUC@aproNOG,07TYH@bactNOG,0XUAZ@NOG,171QS@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": "G",
+        "X13": "extracellular solute-binding protein, family 1"
+      }
     }
   ],
   "seqname": "MAG06_206",

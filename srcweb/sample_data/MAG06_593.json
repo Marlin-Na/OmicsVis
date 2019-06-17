@@ -22,7 +22,22 @@
       "sscore": "1.52",
       "rscore": "2.03",
       "uscore": "-3.50",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_618_11",
+        "X2": "266834.SMc03170",
+        "X3": 5.9e-94,
+        "X4": 348.6,
+        "X5": null,
+        "X6": null,
+        "X7": "K13653",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "02E5X@aproNOG,08ID3@bactNOG,172NT@proNOG,COG3708@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "K",
+        "X13": "Transcriptional regulator"
+      }
     },
     {
       "seqnames": "MAG06_593",
@@ -46,7 +61,22 @@
       "sscore": "12.89",
       "rscore": "10.54",
       "uscore": "-1.30",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_618_12",
+        "X2": "266834.SMc03171",
+        "X3": 4.8e-127,
+        "X4": 459.1,
+        "X5": "TERC",
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01RAN@aproNOG,05EE5@bactNOG,16QUX@proNOG,COG0861@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "P",
+        "X13": "membrane protein terc"
+      }
     },
     {
       "seqnames": "MAG06_593",
@@ -70,7 +100,22 @@
       "sscore": "7.05",
       "rscore": "2.03",
       "uscore": "1.38",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_618_13",
+        "X2": "266834.SMc03172",
+        "X3": 4.2e-220,
+        "X4": 768.8,
+        "X5": "GLTX",
+        "X6": "GO:0005575,GO:0005622,GO:0005623,GO:0005737,GO:0005886,GO:0008150,GO:0016020,GO:0040007,GO:0044424,GO:0044464,GO:0071944",
+        "X7": "K01885,K09698",
+        "X8": "GLUTRS",
+        "X9": "bactNOG[38]",
+        "X10": "01QW9@aproNOG,05C20@bactNOG,16PDR@proNOG,COG0008@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "J",
+        "X13": "Catalyzes the attachment of glutamate to tRNA(Glu) in a two-step reaction glutamate is first activated by ATP to form Glu-AMP and then transferred to the acceptor end of tRNA(Glu) (By similarity)"
+      }
     },
     {
       "seqnames": "MAG06_593",
@@ -94,7 +139,22 @@
       "sscore": "21.59",
       "rscore": "13.75",
       "uscore": "3.07",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_618_2",
+        "X2": "266834.SMc03162",
+        "X3": 1.8e-212,
+        "X4": 743.4,
+        "X5": "IOLE",
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "02EI9@aproNOG,08JU1@bactNOG,0XS5U@NOG,173H6@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": "G",
+        "X13": "AP endonuclease family 2 C terminus"
+      }
     }
   ],
   "seqname": "MAG06_593",

@@ -22,7 +22,8 @@
       "sscore": "3.22",
       "rscore": "0.00",
       "uscore": "0.00",
-      "tscore": "3.22"
+      "tscore": "3.22",
+      "eggnog": {}
     },
     {
       "seqnames": "MAG06_438",
@@ -46,7 +47,22 @@
       "sscore": "19.53",
       "rscore": "13.75",
       "uscore": "2.14",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_502_1",
+        "X2": "266834.SMc01824",
+        "X3": 9.6e-46,
+        "X4": 187.6,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "020TJ@aproNOG,05YXE@bactNOG,0ZWND@NOG,17EXJ@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "Acetyltransferase (GNAT) family"
+      }
     },
     {
       "seqnames": "MAG06_438",
@@ -70,7 +86,22 @@
       "sscore": "-8.26",
       "rscore": "2.03",
       "uscore": "0.51",
-      "tscore": "-10.14"
+      "tscore": "-10.14",
+      "eggnog": {
+        "X1": "MAG06_502_2",
+        "X2": "266834.SMc01825",
+        "X3": 3.2e-154,
+        "X4": 549.7,
+        "X5": null,
+        "X6": "GO:0005575,GO:0016020",
+        "X7": "K02050",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01R9U@aproNOG,05CS5@bactNOG,16Q7S@proNOG,COG0600@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "P",
+        "X13": "ABC transporter"
+      }
     },
     {
       "seqnames": "MAG06_438",
@@ -94,7 +125,22 @@
       "sscore": "-2.91",
       "rscore": "-4.72",
       "uscore": "-1.84",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_502_3",
+        "X2": "266834.SMc01826",
+        "X3": 2.7e-158,
+        "X4": 563.1,
+        "X5": null,
+        "X6": "GO:0005575,GO:0016020",
+        "X7": "K02050,K15599",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01RFW@aproNOG,05Y36@bactNOG,16TPM@proNOG,COG0600@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "P",
+        "X13": "Binding-protein-dependent transport systems inner membrane component"
+      }
     }
   ],
   "seqname": "MAG06_438",

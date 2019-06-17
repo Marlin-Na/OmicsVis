@@ -22,7 +22,22 @@
       "sscore": "7.23",
       "rscore": "2.74",
       "uscore": "-0.64",
-      "tscore": "3.20"
+      "tscore": "3.20",
+      "eggnog": {
+        "X1": "MAG06_657_5",
+        "X2": "266834.SMc03851",
+        "X3": 6e-112,
+        "X4": 408.7,
+        "X5": "CCMG",
+        "X6": "GO:0003674,GO:0003824,GO:0005575,GO:0005623,GO:0005886,GO:0006461,GO:0008150,GO:0008152,GO:0016020,GO:0016043,GO:0017004,GO:0022607,GO:0034622,GO:0042597,GO:0043623,GO:0043933,GO:0044085,GO:0044464,GO:0065003,GO:0070271,GO:0071822,GO:0071840,GO:0071944",
+        "X7": "K02199",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01X3S@aproNOG,07QX9@bactNOG,16Q0A@proNOG,COG0526@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "O",
+        "X13": "Thiol disulfide interchange protein"
+      }
     },
     {
       "seqnames": "MAG06_643",
@@ -46,7 +61,22 @@
       "sscore": "3.69",
       "rscore": "2.74",
       "uscore": "-2.24",
-      "tscore": "3.20"
+      "tscore": "3.20",
+      "eggnog": {
+        "X1": "MAG06_658_1",
+        "X2": "491916.RHECIAT_CH0003140",
+        "X3": 4.1e-193,
+        "X4": 679.5,
+        "X5": "DCTD",
+        "X6": "GO:0005575,GO:0005622,GO:0005623,GO:0005737,GO:0044424,GO:0044464",
+        "X7": "K10126",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01QUP@aproNOG,05C1W@bactNOG,16PNY@proNOG,COG2204@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "T",
+        "X13": "two component, sigma54 specific, transcriptional regulator, Fis family"
+      }
     },
     {
       "seqnames": "MAG06_643",
@@ -70,7 +100,22 @@
       "sscore": "7.80",
       "rscore": "7.38",
       "uscore": "-2.19",
-      "tscore": "2.61"
+      "tscore": "2.61",
+      "eggnog": {
+        "X1": "MAG06_658_2",
+        "X2": "216596.RL3425",
+        "X3": 4.9e-185,
+        "X4": 652.9,
+        "X5": "DCTB",
+        "X6": "GO:0005575,GO:0005623,GO:0005886,GO:0016020,GO:0044464,GO:0071944",
+        "X7": "K10125,K14986",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01QWX@aproNOG,05CQZ@bactNOG,16Q6G@proNOG,COG4191@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "T",
+        "X13": "c4-dicarboxylate transport sensor protein"
+      }
     },
     {
       "seqnames": "MAG06_643",
@@ -94,7 +139,22 @@
       "sscore": "12.10",
       "rscore": "9.04",
       "uscore": "-0.14",
-      "tscore": "3.20"
+      "tscore": "3.20",
+      "eggnog": {
+        "X1": "MAG06_658_3",
+        "X2": "395492.Rleg2_2717",
+        "X3": 9.4e-198,
+        "X4": 694.9,
+        "X5": "DCTA",
+        "X6": "GO:0005575,GO:0005623,GO:0005886,GO:0016020,GO:0044464,GO:0071944",
+        "X7": "K11103",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01SMU@aproNOG,05CK2@bactNOG,16Q0S@proNOG,COG1301@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "C",
+        "X13": "Responsible for the transport of dicarboxylates such as succinate, fumarate, and malate from the periplasm across the membrane (By similarity)"
+      }
     },
     {
       "seqnames": "MAG06_643",
@@ -118,7 +178,22 @@
       "sscore": "3.22",
       "rscore": "0.00",
       "uscore": "0.00",
-      "tscore": "3.22"
+      "tscore": "3.22",
+      "eggnog": {
+        "X1": "MAG06_658_4",
+        "X2": "395492.Rleg2_3066",
+        "X3": 3.1e-128,
+        "X4": 463.4,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01T14@aproNOG,07RQF@bactNOG,16UIX@proNOG,COG0745@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "T",
+        "X13": "Transcriptional Regulator, LuxR family"
+      }
     }
   ],
   "seqname": "MAG06_643",

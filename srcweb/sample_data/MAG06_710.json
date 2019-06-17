@@ -22,7 +22,22 @@
       "sscore": "3.22",
       "rscore": "0.00",
       "uscore": "0.00",
-      "tscore": "3.22"
+      "tscore": "3.22",
+      "eggnog": {
+        "X1": "MAG06_704_3",
+        "X2": "266834.SMc01562",
+        "X3": 2.9e-48,
+        "X4": 196.1,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "0207F@aproNOG,05QU4@bactNOG,17IB6@proNOG,COG4274@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "GYD family"
+      }
     },
     {
       "seqnames": "MAG06_710",
@@ -46,7 +61,22 @@
       "sscore": "-0.40",
       "rscore": "-4.02",
       "uscore": "-1.23",
-      "tscore": "4.85"
+      "tscore": "4.85",
+      "eggnog": {
+        "X1": "MAG06_704_4",
+        "X2": "266834.SMc01561",
+        "X3": 4.2e-107,
+        "X4": 392.5,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01VUS@aproNOG,08UVB@bactNOG,17A5E@proNOG,COG4764@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "Lipoprotein"
+      }
     },
     {
       "seqnames": "MAG06_710",
@@ -70,7 +100,22 @@
       "sscore": "3.22",
       "rscore": "0.00",
       "uscore": "0.00",
-      "tscore": "3.22"
+      "tscore": "3.22",
+      "eggnog": {
+        "X1": "MAG06_704_5",
+        "X2": "266834.SMc01560",
+        "X3": 4.3e-62,
+        "X4": 242.3,
+        "X5": "YBAA",
+        "X6": null,
+        "X7": "K01077",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01ZTD@aproNOG,05KCV@bactNOG,17FIS@proNOG,COG5507@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "Protein of unknown function (DUF1428)"
+      }
     }
   ],
   "seqname": "MAG06_710",

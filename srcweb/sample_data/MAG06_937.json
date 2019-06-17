@@ -22,7 +22,22 @@
       "sscore": "3.22",
       "rscore": "0.00",
       "uscore": "0.00",
-      "tscore": "3.22"
+      "tscore": "3.22",
+      "eggnog": {
+        "X1": "MAG06_886_2",
+        "X2": "536019.Mesop_2946",
+        "X3": 9.7e-79,
+        "X4": 298.1,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01Z40@aproNOG,05XUF@bactNOG,17M4J@proNOG,COG5654@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "RES domain protein"
+      }
     },
     {
       "seqnames": "MAG06_937",
@@ -46,7 +61,22 @@
       "sscore": "6.34",
       "rscore": "2.03",
       "uscore": "0.66",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_886_3",
+        "X2": "536019.Mesop_2945",
+        "X3": 4.3e-55,
+        "X4": 219.2,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "022VB@aproNOG,0626J@bactNOG,1234N@NOG,17Q69@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "Inherit from proNOG: Protein of unknown function (DUF2384)"
+      }
     },
     {
       "seqnames": "MAG06_937",
@@ -70,7 +100,22 @@
       "sscore": "5.88",
       "rscore": "2.03",
       "uscore": "-0.96",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_886_4",
+        "X2": "246200.SPO3187",
+        "X3": 5.9e-72,
+        "X4": 276.6,
+        "X5": null,
+        "X6": null,
+        "X7": "K16844",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01QGC@aproNOG,05DG4@bactNOG,16TH8@proNOG,COG2055@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "C",
+        "X13": "malate L-lactate dehydrogenase"
+      }
     }
   ],
   "seqname": "MAG06_937",

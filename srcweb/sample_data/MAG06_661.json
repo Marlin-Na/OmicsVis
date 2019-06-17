@@ -22,7 +22,22 @@
       "sscore": "-2.34",
       "rscore": "-3.33",
       "uscore": "-3.11",
-      "tscore": "3.20"
+      "tscore": "3.20",
+      "eggnog": {
+        "X1": "MAG06_673_3",
+        "X2": "266834.SMc01948",
+        "X3": 1.1e-131,
+        "X4": 474.6,
+        "X5": "LIVF",
+        "X6": null,
+        "X7": "K01996",
+        "X8": "ILEabcpp,LEUabcpp,VALabcpp",
+        "X9": "bactNOG[38]",
+        "X10": "02EB3@aproNOG,08IV0@bactNOG,172ZQ@proNOG,COG0410@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "E",
+        "X13": "ABC transporter"
+      }
     },
     {
       "seqnames": "MAG06_661",
@@ -46,7 +61,22 @@
       "sscore": "15.38",
       "rscore": "12.94",
       "uscore": "-0.10",
-      "tscore": "3.20"
+      "tscore": "3.20",
+      "eggnog": {
+        "X1": "MAG06_673_4",
+        "X2": "266834.SMc01949",
+        "X3": 1.7e-91,
+        "X4": 340.5,
+        "X5": "LIVG",
+        "X6": "GO:0005575,GO:0005623,GO:0005886,GO:0016020,GO:0044464,GO:0071944",
+        "X7": "K01995",
+        "X8": "ALAabc,ALAabcpp,ILEabc,ILEabcpp,LEUabc,LEUabcpp,THRabc,THRabcpp,VALabc,VALabcpp",
+        "X9": "bactNOG[38]",
+        "X10": "01QS2@aproNOG,05C0Z@bactNOG,16PSW@proNOG,COG0411@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "E",
+        "X13": "ABC transporter"
+      }
     },
     {
       "seqnames": "MAG06_661",
@@ -70,7 +100,22 @@
       "sscore": "9.12",
       "rscore": "11.01",
       "uscore": "-5.09",
-      "tscore": "3.20"
+      "tscore": "3.20",
+      "eggnog": {
+        "X1": "MAG06_674_1",
+        "X2": "266834.SMc01031",
+        "X3": 2.4e-100,
+        "X4": 370.2,
+        "X5": "PDHB",
+        "X6": "GO:0003674,GO:0003824,GO:0004738,GO:0004739,GO:0005575,GO:0005622,GO:0005623,GO:0005737,GO:0005829,GO:0006082,GO:0006084,GO:0006085,GO:0006086,GO:0006090,GO:0006637,GO:0006732,GO:0006793,GO:0008150,GO:0008152,GO:0009058,GO:0009108,GO:0009987,GO:0016491,GO:0016624,GO:0016903,GO:0019752,GO:0032787,GO:0032991,GO:0035383,GO:0035384,GO:0043234,GO:0043436,GO:0044237,GO:0044249,GO:0044281,GO:0044424,GO:0044444,GO:0044445,GO:0044464,GO:0044710,GO:0045250,GO:0045254,GO:0051186,GO:0051188,GO:0055114,GO:0071616,GO:0071704,GO:1901576",
+        "X7": "K00162,K11381",
+        "X8": "PDH,PDHa",
+        "X9": "bactNOG[38]",
+        "X10": "01RE9@aproNOG,05CPP@bactNOG,16PWH@proNOG,COG0022@NOG,COG0508@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "C",
+        "X13": "pyruvate dehydrogenase subunit beta"
+      }
     }
   ],
   "seqname": "MAG06_661",

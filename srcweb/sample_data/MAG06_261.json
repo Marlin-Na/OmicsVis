@@ -22,7 +22,22 @@
       "sscore": "3.22",
       "rscore": "0.00",
       "uscore": "0.00",
-      "tscore": "3.22"
+      "tscore": "3.22",
+      "eggnog": {
+        "X1": "MAG06_1027_2",
+        "X2": "266834.SMc02482",
+        "X3": 0,
+        "X4": 1290,
+        "X5": "SUCA",
+        "X6": "GO:0000287,GO:0003674,GO:0003824,GO:0004591,GO:0005488,GO:0005575,GO:0005618,GO:0005622,GO:0005623,GO:0005737,GO:0005829,GO:0005886,GO:0006082,GO:0006091,GO:0006099,GO:0006103,GO:0006520,GO:0006807,GO:0008150,GO:0008152,GO:0008683,GO:0009055,GO:0009060,GO:0009987,GO:0015980,GO:0016020,GO:0016491,GO:0016624,GO:0016740,GO:0016744,GO:0016829,GO:0016830,GO:0016831,GO:0016903,GO:0019752,GO:0030312,GO:0032991,GO:0040007,GO:0043167,GO:0043169,GO:0043234,GO:0043436,GO:0043648,GO:0044237,GO:0044238,GO:0044281,GO:0044424,GO:0044444,GO:0044464,GO:0044710,GO:0045254,GO:0045333,GO:0046872,GO:0050439,GO:0055114,GO:0071704,GO:0071944,GO:1901564",
+        "X7": "K00164,K01616",
+        "X8": "AKGDH,AKGDa,GLCOASYNT,OXGDC",
+        "X9": "bactNOG[38]",
+        "X10": "01QDC@aproNOG,05C7P@bactNOG,16PJV@proNOG,COG0567@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "C",
+        "X13": "2-oxoglutarate dehydrogenase e1 component"
+      }
     },
     {
       "seqnames": "MAG06_261",
@@ -46,7 +61,22 @@
       "sscore": "14.10",
       "rscore": "7.63",
       "uscore": "1.54",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_1028_1",
+        "X2": "266834.SMc02019",
+        "X3": 6.4e-93,
+        "X4": 345.5,
+        "X5": "YPHD",
+        "X6": "GO:0005575,GO:0005623,GO:0005886,GO:0016020,GO:0044464,GO:0071944",
+        "X7": "K02057,K10440,K10541,K10553,K17206",
+        "X8": "GLCTR3",
+        "X9": "bactNOG[38]",
+        "X10": "01REX@aproNOG,05CNN@bactNOG,16RY1@proNOG,COG1172@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "G",
+        "X13": "ABC transporter (permease)"
+      }
     },
     {
       "seqnames": "MAG06_261",
@@ -70,7 +100,22 @@
       "sscore": "11.78",
       "rscore": "7.63",
       "uscore": "1.16",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_366_1",
+        "X2": "266834.SMc03121",
+        "X3": 4.4e-158,
+        "X4": 562.4,
+        "X5": "OCAR_6480",
+        "X6": "GO:0003333,GO:0003674,GO:0005215,GO:0005342,GO:0005488,GO:0005575,GO:0005623,GO:0006810,GO:0006811,GO:0006820,GO:0006865,GO:0008150,GO:0008509,GO:0008514,GO:0009987,GO:0015075,GO:0015171,GO:0015658,GO:0015711,GO:0015803,GO:0015849,GO:0016597,GO:0022857,GO:0022891,GO:0022892,GO:0030288,GO:0030312,GO:0030313,GO:0031406,GO:0031975,GO:0034220,GO:0042597,GO:0043167,GO:0043168,GO:0044462,GO:0044464,GO:0044699,GO:0044763,GO:0044765,GO:0046942,GO:0046943,GO:0051179,GO:0051234,GO:0055085,GO:0071702,GO:0071705,GO:0071944",
+        "X7": "K01999",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01U10@aproNOG,05F85@bactNOG,0XNWR@NOG,16PSV@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": "E",
+        "X13": "ABC transporter substrate-binding protein"
+      }
     },
     {
       "seqnames": "MAG06_261",
@@ -94,7 +139,22 @@
       "sscore": "15.42",
       "rscore": "10.54",
       "uscore": "1.23",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_366_2",
+        "X2": "266834.SMc03120",
+        "X3": 2.5e-142,
+        "X4": 510,
+        "X5": null,
+        "X6": null,
+        "X7": "K01995",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01S6B@aproNOG,05CAI@bactNOG,16PP8@proNOG,COG0411@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "E",
+        "X13": "ABC transporter"
+      }
     },
     {
       "seqnames": "MAG06_261",
@@ -118,7 +178,22 @@
       "sscore": "10.77",
       "rscore": "7.85",
       "uscore": "-0.73",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_366_3",
+        "X2": "266834.SMc03119",
+        "X3": 2.4e-128,
+        "X4": 463.4,
+        "X5": null,
+        "X6": null,
+        "X7": "K01996",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01SFQ@aproNOG,05EB7@bactNOG,16RYK@proNOG,COG0410@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "E",
+        "X13": "ABC transporter"
+      }
     },
     {
       "seqnames": "MAG06_261",
@@ -142,7 +217,22 @@
       "sscore": "-0.64",
       "rscore": "-3.78",
       "uscore": "-0.51",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_366_4",
+        "X2": "266834.SMc03118",
+        "X3": 1.3e-152,
+        "X4": 544.3,
+        "X5": null,
+        "X6": null,
+        "X7": "K01997,K01998",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01S0T@aproNOG,05CCK@bactNOG,16RJH@proNOG,COG0559@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "E",
+        "X13": "Inner-membrane translocator"
+      }
     }
   ],
   "seqname": "MAG06_261",

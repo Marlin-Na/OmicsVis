@@ -22,7 +22,22 @@
       "sscore": "2.72",
       "rscore": "0.00",
       "uscore": "0.00",
-      "tscore": "3.22"
+      "tscore": "3.22",
+      "eggnog": {
+        "X1": "MAG06_260_9",
+        "X2": "266834.SMc02075",
+        "X3": 1.3e-52,
+        "X4": 210.7,
+        "X5": "ERPA",
+        "X6": "GO:0003674,GO:0005488,GO:0006091,GO:0008150,GO:0008152,GO:0009058,GO:0009060,GO:0009061,GO:0009987,GO:0010467,GO:0015980,GO:0016043,GO:0016226,GO:0019538,GO:0022607,GO:0031163,GO:0043170,GO:0044085,GO:0044237,GO:0044238,GO:0044710,GO:0045333,GO:0051536,GO:0051537,GO:0051539,GO:0051540,GO:0051604,GO:0055114,GO:0071704,GO:0071840",
+        "X7": "K13628,K15724",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01ZXM@aproNOG,08YX9@bactNOG,17C2Y@proNOG,COG0316@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "Iron-sulfur cluster assembly accessory protein"
+      }
     },
     {
       "seqnames": "MAG06_142",
@@ -46,7 +61,22 @@
       "sscore": "17.63",
       "rscore": "13.75",
       "uscore": "0.88",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_261_1",
+        "X2": "266834.SMc01020",
+        "X3": 7.4e-148,
+        "X4": 528.5,
+        "X5": "YITY",
+        "X6": "GO:0003674,GO:0003824,GO:0008150,GO:0008152,GO:0016491,GO:0044710,GO:0055114",
+        "X7": "K00103,K16653",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01TFU@aproNOG,05IQ5@bactNOG,16SDS@proNOG,COG0277@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "C",
+        "X13": "FAD linked oxidase domain protein"
+      }
     },
     {
       "seqnames": "MAG06_142",
@@ -70,7 +100,22 @@
       "sscore": "12.05",
       "rscore": "7.85",
       "uscore": "-0.64",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_261_2",
+        "X2": "266834.SMc01021",
+        "X3": 1.3e-98,
+        "X4": 364.4,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "021E9@aproNOG,05SCP@bactNOG,17J1S@proNOG,COG2353@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "YceI"
+      }
     },
     {
       "seqnames": "MAG06_142",
@@ -94,7 +139,22 @@
       "sscore": "2.65",
       "rscore": "-3.78",
       "uscore": "1.58",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_261_3",
+        "X2": "266834.SMc01022",
+        "X3": 1.9e-105,
+        "X4": 387.1,
+        "X5": null,
+        "X6": null,
+        "X7": "K12262",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01Z04@aproNOG,05JSQ@bactNOG,17DHV@proNOG,COG3038@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "C",
+        "X13": "Cytochrome B561"
+      }
     },
     {
       "seqnames": "MAG06_142",
@@ -118,7 +178,8 @@
       "sscore": "3.44",
       "rscore": "2.03",
       "uscore": "-1.58",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {}
     },
     {
       "seqnames": "MAG06_142",
@@ -142,7 +203,22 @@
       "sscore": "3.22",
       "rscore": "0.00",
       "uscore": "0.00",
-      "tscore": "3.22"
+      "tscore": "3.22",
+      "eggnog": {
+        "X1": "MAG06_261_4",
+        "X2": "266834.SMc01023",
+        "X3": 2.7e-141,
+        "X4": 506.5,
+        "X5": "TPIA",
+        "X6": "GO:0003674,GO:0003824,GO:0004807,GO:0005575,GO:0005576,GO:0005622,GO:0005623,GO:0005737,GO:0005829,GO:0005886,GO:0005975,GO:0005996,GO:0006006,GO:0006007,GO:0006091,GO:0006094,GO:0006096,GO:0008150,GO:0008152,GO:0009056,GO:0009058,GO:0009987,GO:0016020,GO:0016051,GO:0016052,GO:0016853,GO:0016860,GO:0016861,GO:0019318,GO:0019319,GO:0019320,GO:0040007,GO:0044237,GO:0044238,GO:0044424,GO:0044444,GO:0044464,GO:0044723,GO:0044724,GO:0046364,GO:0046365,GO:0071704,GO:0071944,GO:1901575,GO:1901576",
+        "X7": "K01803",
+        "X8": "TPI",
+        "X9": "bactNOG[38]",
+        "X10": "01QHG@aproNOG,05CP7@bactNOG,16SW3@proNOG,COG0149@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "G",
+        "X13": "Triose-phosphate isomerase"
+      }
     }
   ],
   "seqname": "MAG06_142",

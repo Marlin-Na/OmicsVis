@@ -22,7 +22,22 @@
       "sscore": "6.64",
       "rscore": "2.03",
       "uscore": "0.96",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_433_4",
+        "X2": "266834.SMc03188",
+        "X3": 7.9e-217,
+        "X4": 758.1,
+        "X5": "COBL",
+        "X6": null,
+        "X7": "K00595,K02191",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01RAK@aproNOG,05CX4@bactNOG,16QDG@proNOG,COG2241@NOG,COG2242@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "H",
+        "X13": "precorrin-6y C5,15-methyltransferase"
+      }
     },
     {
       "seqnames": "MAG06_345",
@@ -46,7 +61,22 @@
       "sscore": "13.26",
       "rscore": "7.85",
       "uscore": "1.76",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_433_5",
+        "X2": "266834.SMc03189",
+        "X3": 1.7e-146,
+        "X4": 523.9,
+        "X5": "COBK",
+        "X6": null,
+        "X7": "K05895",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01Q62@aproNOG,05QUC@bactNOG,16TZ9@proNOG,COG2099@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "H",
+        "X13": "precorrin-6x reductase"
+      }
     },
     {
       "seqnames": "MAG06_345",
@@ -70,7 +100,22 @@
       "sscore": "10.08",
       "rscore": "3.33",
       "uscore": "2.16",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_433_6",
+        "X2": "266834.SMc03190",
+        "X3": 5.9e-141,
+        "X4": 505.4,
+        "X5": "COBJ",
+        "X6": "GO:0008150,GO:0008152,GO:0009058,GO:0009987,GO:0044237,GO:0044249,GO:0051186,GO:0051188",
+        "X7": "K05934,K13540,K13541",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01QJG@aproNOG,05E4R@bactNOG,16R5B@proNOG,COG1010@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "H",
+        "X13": "precorrin-3B C17-methyltransferase"
+      }
     },
     {
       "seqnames": "MAG06_345",
@@ -94,7 +139,22 @@
       "sscore": "9.00",
       "rscore": "7.63",
       "uscore": "-3.45",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_433_7",
+        "X2": "266834.SMc03191",
+        "X3": 1.1e-136,
+        "X4": 491.1,
+        "X5": "COBI",
+        "X6": null,
+        "X7": "K02190,K03394,K13540",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01QD7@aproNOG,05DVK@bactNOG,16RFW@proNOG,COG2243@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "H",
+        "X13": "Precorrin-2 C(20)-methyltransferase"
+      }
     },
     {
       "seqnames": "MAG06_345",
@@ -118,7 +178,22 @@
       "sscore": "10.73",
       "rscore": "6.68",
       "uscore": "0.20",
-      "tscore": "3.19"
+      "tscore": "3.19",
+      "eggnog": {
+        "X1": "MAG06_433_8",
+        "X2": "266834.SMc03192",
+        "X3": 8.1e-112,
+        "X4": 408.3,
+        "X5": "COBH",
+        "X6": "GO:0003674,GO:0003824,GO:0006725,GO:0006766,GO:0006767,GO:0006807,GO:0008150,GO:0008152,GO:0009058,GO:0009110,GO:0009235,GO:0009236,GO:0009987,GO:0016853,GO:0016866,GO:0016867,GO:0016993,GO:0018130,GO:0019438,GO:0033013,GO:0033014,GO:0034641,GO:0042364,GO:0044237,GO:0044249,GO:0044271,GO:0044281,GO:0044283,GO:0044710,GO:0044711,GO:0046483,GO:0071704,GO:1901360,GO:1901362,GO:1901564,GO:1901566,GO:1901576",
+        "X7": "K06042",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01T17@aproNOG,081F0@bactNOG,16TJY@proNOG,COG2082@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "H",
+        "X13": "precorrin-8x methylmutase"
+      }
     },
     {
       "seqnames": "MAG06_345",
@@ -142,7 +217,22 @@
       "sscore": "14.82",
       "rscore": "7.85",
       "uscore": "2.03",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_433_9",
+        "X2": "266834.SMc03193",
+        "X3": 6.1e-231,
+        "X4": 805.1,
+        "X5": "COBG",
+        "X6": null,
+        "X7": "K02229",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01S0B@aproNOG,05F89@bactNOG,17546@proNOG,COG0155@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "H",
+        "X13": "Precorrin-3B synthase"
+      }
     },
     {
       "seqnames": "MAG06_345",
@@ -166,7 +256,22 @@
       "sscore": "-1.66",
       "rscore": "-4.72",
       "uscore": "0.06",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_434_1",
+        "X2": "266834.SMc02645",
+        "X3": 3.1e-240,
+        "X4": 835.9,
+        "X5": "CFA",
+        "X6": null,
+        "X7": "K00574",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01R1H@aproNOG,05CV9@bactNOG,16PK5@proNOG,COG2230@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "M",
+        "X13": "cyclopropane-fatty-acyl-phospholipid synthase"
+      }
     },
     {
       "seqnames": "MAG06_345",
@@ -190,7 +295,22 @@
       "sscore": "16.47",
       "rscore": "13.75",
       "uscore": "-0.27",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_434_2",
+        "X2": "266834.SMc02646",
+        "X3": 1.1e-195,
+        "X4": 687.6,
+        "X5": "UGPQ2",
+        "X6": null,
+        "X7": "K01126,K19670",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01R7U@aproNOG,06IDA@bactNOG,16T1F@proNOG,COG0584@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "C",
+        "X13": "glycerophosphoryl diester phosphodiesterase"
+      }
     },
     {
       "seqnames": "MAG06_345",
@@ -214,7 +334,22 @@
       "sscore": "10.77",
       "rscore": "7.63",
       "uscore": "-0.50",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_434_3",
+        "X2": "266834.SMc02647",
+        "X3": 5.4e-72,
+        "X4": 275.4,
+        "X5": "ARSR2",
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "020B6@aproNOG,05W5C@bactNOG,17KCB@proNOG,COG0640@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "K",
+        "X13": "arsR family transcriptional regulator"
+      }
     },
     {
       "seqnames": "MAG06_345",
@@ -238,7 +373,22 @@
       "sscore": "10.08",
       "rscore": "7.85",
       "uscore": "-1.41",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_434_4",
+        "X2": "266834.SMc02648",
+        "X3": 4.3e-122,
+        "X4": 442.6,
+        "X5": "AQPS",
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01VY5@aproNOG,08RUJ@bactNOG,17826@proNOG,COG0580@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "G",
+        "X13": "Major intrinsic protein"
+      }
     }
   ],
   "seqname": "MAG06_345",

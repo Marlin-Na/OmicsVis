@@ -22,7 +22,22 @@
       "sscore": "3.22",
       "rscore": "0.00",
       "uscore": "0.00",
-      "tscore": "3.22"
+      "tscore": "3.22",
+      "eggnog": {
+        "X1": "MAG06_180_5",
+        "X2": "366394.Smed_0198",
+        "X3": 1e-61,
+        "X4": 241.1,
+        "X5": "RKPU",
+        "X6": null,
+        "X7": "K01991",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01RF5@aproNOG,07U8J@bactNOG,16V1W@proNOG,COG1596@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "M",
+        "X13": "Export protein"
+      }
     },
     {
       "seqnames": "MAG06_59",
@@ -46,7 +61,22 @@
       "sscore": "3.35",
       "rscore": "7.63",
       "uscore": "1.25",
-      "tscore": "-4.87"
+      "tscore": "-4.87",
+      "eggnog": {
+        "X1": "MAG06_181_1",
+        "X2": "266834.SMc00944",
+        "X3": 3e-137,
+        "X4": 493,
+        "X5": "YFAY",
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "02DQB@aproNOG,08EWA@bactNOG,1719K@proNOG,COG1058@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "H",
+        "X13": "molybdopterin binding domain"
+      }
     },
     {
       "seqnames": "MAG06_59",
@@ -70,7 +100,22 @@
       "sscore": "10.13",
       "rscore": "7.85",
       "uscore": "-1.37",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_181_2",
+        "X2": "266834.SMc00945",
+        "X3": 2.5e-92,
+        "X4": 343.2,
+        "X5": "GPT",
+        "X6": "GO:0000310,GO:0003674,GO:0003824,GO:0005575,GO:0005623,GO:0005886,GO:0006139,GO:0006166,GO:0006725,GO:0006807,GO:0008150,GO:0008152,GO:0009058,GO:0009116,GO:0009119,GO:0009163,GO:0009987,GO:0016020,GO:0016740,GO:0016757,GO:0016763,GO:0018130,GO:0019438,GO:0034641,GO:0034654,GO:0042278,GO:0042451,GO:0042455,GO:0043094,GO:0043101,GO:0043174,GO:0044237,GO:0044238,GO:0044249,GO:0044271,GO:0044281,GO:0044464,GO:0044710,GO:0046128,GO:0046129,GO:0046483,GO:0055086,GO:0071704,GO:0071944,GO:0072521,GO:0072522,GO:1901135,GO:1901137,GO:1901360,GO:1901362,GO:1901564,GO:1901566,GO:1901576,GO:1901657,GO:1901659",
+        "X7": "K00769",
+        "X8": "GUAPRT,HXPRT,XPPT",
+        "X9": "bactNOG[38]",
+        "X10": "01SSM@aproNOG,05DYA@bactNOG,173YC@proNOG,COG0503@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "F",
+        "X13": "Acts on guanine, xanthine and to a lesser extent hypoxanthine (By similarity)"
+      }
     }
   ],
   "seqname": "MAG06_59",

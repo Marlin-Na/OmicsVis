@@ -22,7 +22,22 @@
       "sscore": "3.22",
       "rscore": "0.00",
       "uscore": "0.00",
-      "tscore": "3.22"
+      "tscore": "3.22",
+      "eggnog": {
+        "X1": "MAG06_321_5",
+        "X2": "366394.Smed_0524",
+        "X3": 1.3e-14,
+        "X4": 83.6,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "02CJ7@aproNOG,08ZU0@bactNOG,17FZ5@proNOG,COG3034@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "ErfK YbiS YcfS YnhG family protein"
+      }
     },
     {
       "seqnames": "MAG06_210",
@@ -46,7 +61,22 @@
       "sscore": "8.73",
       "rscore": "2.03",
       "uscore": "3.71",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_322_1",
+        "X2": "269796.Rru_A1335",
+        "X3": 1.5e-55,
+        "X4": 220.7,
+        "X5": "YDEZ",
+        "X6": null,
+        "X7": "K02057,K10440",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "026H3@aproNOG,08M1S@bactNOG,0XRDJ@NOG,16SDG@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "Branched-chain amino acid transport system / permease component"
+      }
     },
     {
       "seqnames": "MAG06_210",
@@ -70,7 +100,22 @@
       "sscore": "10.64",
       "rscore": "7.85",
       "uscore": "-0.86",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_322_10",
+        "X2": "439375.Oant_2939",
+        "X3": 9.8e-133,
+        "X4": 478.4,
+        "X5": "RAFR",
+        "X6": null,
+        "X7": "K02529",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01Q8Z@aproNOG,05FKQ@bactNOG,16R8K@proNOG,COG1609@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "K",
+        "X13": "Transcriptional regulator"
+      }
     },
     {
       "seqnames": "MAG06_210",
@@ -94,7 +139,22 @@
       "sscore": "5.22",
       "rscore": "2.03",
       "uscore": "0.20",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_322_2",
+        "X2": "269796.Rru_A1336",
+        "X3": 1.4e-150,
+        "X4": 537.7,
+        "X5": "RBSB6",
+        "X6": null,
+        "X7": "K02058,K10439",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01TXK@aproNOG,05D4B@bactNOG,0XPHQ@NOG,173S8@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": "G",
+        "X13": "ABC transporter"
+      }
     },
     {
       "seqnames": "MAG06_210",
@@ -118,7 +178,22 @@
       "sscore": "19.43",
       "rscore": "13.75",
       "uscore": "2.03",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_322_3",
+        "X2": "269796.Rru_A1337",
+        "X3": 3e-195,
+        "X4": 686.8,
+        "X5": null,
+        "X6": null,
+        "X7": "K01995,K01996,K02056,K10441,K10562,K17207,K17210",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01QBB@aproNOG,05C2J@bactNOG,16PQI@proNOG,COG1129@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "P",
+        "X13": "ABC transporter"
+      }
     },
     {
       "seqnames": "MAG06_210",
@@ -142,7 +217,22 @@
       "sscore": "0.94",
       "rscore": "10.54",
       "uscore": "0.54",
-      "tscore": "-10.14"
+      "tscore": "-10.14",
+      "eggnog": {
+        "X1": "MAG06_322_4",
+        "X2": "269796.Rru_A1338",
+        "X3": 2e-120,
+        "X4": 437.6,
+        "X5": "ARAH7",
+        "X6": null,
+        "X7": "K02057",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01VU5@aproNOG,06NV4@bactNOG,0XSU0@NOG,16TIF@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "monosaccharide-transporting ATPase"
+      }
     },
     {
       "seqnames": "MAG06_210",
@@ -166,7 +256,22 @@
       "sscore": "-8.96",
       "rscore": "-4.72",
       "uscore": "-0.11",
-      "tscore": "-4.87"
+      "tscore": "-4.87",
+      "eggnog": {
+        "X1": "MAG06_322_5",
+        "X2": "311403.Arad_8623",
+        "X3": 1.5e-175,
+        "X4": 620.9,
+        "X5": "OCAR_6481",
+        "X6": null,
+        "X7": "K07007",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01R25@aproNOG,05N0C@bactNOG,16QP1@proNOG,COG2081@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "hi0933 family"
+      }
     },
     {
       "seqnames": "MAG06_210",
@@ -190,7 +295,22 @@
       "sscore": "17.31",
       "rscore": "13.75",
       "uscore": "0.56",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_322_6",
+        "X2": "78245.Xaut_2516",
+        "X3": 1e-145,
+        "X4": 521.5,
+        "X5": null,
+        "X6": "GO:0005575,GO:0005623,GO:0006810,GO:0006811,GO:0006820,GO:0006835,GO:0008150,GO:0015711,GO:0015740,GO:0015849,GO:0030288,GO:0030312,GO:0030313,GO:0031975,GO:0042597,GO:0044462,GO:0044464,GO:0044699,GO:0044765,GO:0046942,GO:0051179,GO:0051234,GO:0071702,GO:0071944",
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01U5T@aproNOG,062YB@bactNOG,175K3@proNOG,COG1638@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "G",
+        "X13": "Trap dicarboxylate"
+      }
     },
     {
       "seqnames": "MAG06_210",
@@ -214,7 +334,22 @@
       "sscore": "17.97",
       "rscore": "13.75",
       "uscore": "0.58",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_322_7",
+        "X2": "224911.bll4425",
+        "X3": 2.2e-177,
+        "X4": 627.1,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01Q6M@aproNOG,05CG6@bactNOG,16PBP@proNOG,COG1593@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "G",
+        "X13": "Trap dicarboxylate transporter, dctm subunit"
+      }
     },
     {
       "seqnames": "MAG06_210",
@@ -238,7 +373,22 @@
       "sscore": "6.08",
       "rscore": "2.03",
       "uscore": "0.41",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_322_8",
+        "X2": "688245.CtCNB1_4596",
+        "X3": 3e-55,
+        "X4": 220.3,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "08Y38@bactNOG,179UC@proNOG,COG3090@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "G",
+        "X13": "Tripartite ATP-independent periplasmic transporter DctQ"
+      }
     },
     {
       "seqnames": "MAG06_210",
@@ -262,7 +412,22 @@
       "sscore": "16.70",
       "rscore": "10.54",
       "uscore": "1.22",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_322_9",
+        "X2": "78245.Xaut_2513",
+        "X3": 5.8e-68,
+        "X4": 262.7,
+        "X5": "BMUL_5984",
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "02018@aproNOG,090RE@bactNOG,178RM@proNOG,COG1802@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "K",
+        "X13": "Transcriptional regulator, GntR family"
+      }
     },
     {
       "seqnames": "MAG06_210",
@@ -286,7 +451,22 @@
       "sscore": "12.00",
       "rscore": "7.85",
       "uscore": "1.16",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_323_1",
+        "X2": "266834.SMc04031",
+        "X3": 1.1e-139,
+        "X4": 501.1,
+        "X5": "PIP",
+        "X6": "GO:0005575,GO:0005623,GO:0031975,GO:0044464",
+        "X7": "K01259,K18457",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01TQR@aproNOG,07UGY@bactNOG,174E8@proNOG,COG0596@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "E",
+        "X13": "proline iminopeptidase"
+      }
     },
     {
       "seqnames": "MAG06_210",
@@ -310,7 +490,22 @@
       "sscore": "7.19",
       "rscore": "2.03",
       "uscore": "1.52",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_323_2",
+        "X2": "266834.SMc04030",
+        "X3": 4.5e-173,
+        "X4": 612.5,
+        "X5": "YFEH",
+        "X6": null,
+        "X7": "K14347",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01T8N@aproNOG,05DHU@bactNOG,16R0K@proNOG,COG0385@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "Bile acid sodium symporter"
+      }
     },
     {
       "seqnames": "MAG06_210",
@@ -334,7 +529,22 @@
       "sscore": "5.20",
       "rscore": "-0.69",
       "uscore": "1.02",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_324_1",
+        "X2": "266834.SMc03963",
+        "X3": 2.8e-118,
+        "X4": 429.9,
+        "X5": "SQDC",
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01X24@aproNOG,08VK0@bactNOG,11J9V@NOG,17ADT@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": "M",
+        "X13": "Sulfolipid biosynthesis protein"
+      }
     },
     {
       "seqnames": "MAG06_210",
@@ -358,7 +568,22 @@
       "sscore": "6.64",
       "rscore": "-4.72",
       "uscore": "1.70",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_324_2",
+        "X2": "266834.SMc03964",
+        "X3": 3.7e-174,
+        "X4": 615.9,
+        "X5": "YAEI",
+        "X6": null,
+        "X7": "K07098",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01UMM@aproNOG,05DIN@bactNOG,16SPR@proNOG,COG1408@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "Metallophosphoesterase"
+      }
     },
     {
       "seqnames": "MAG06_210",
@@ -382,7 +607,22 @@
       "sscore": "2.85",
       "rscore": "7.63",
       "uscore": "0.74",
-      "tscore": "-4.87"
+      "tscore": "-4.87",
+      "eggnog": {
+        "X1": "MAG06_324_3",
+        "X2": "266834.SMc03965",
+        "X3": 9.4e-190,
+        "X4": 667.9,
+        "X5": "RUVB",
+        "X6": "GO:0000725,GO:0003674,GO:0003678,GO:0003824,GO:0004386,GO:0005575,GO:0005622,GO:0005623,GO:0005737,GO:0006139,GO:0006259,GO:0006281,GO:0006310,GO:0006725,GO:0006807,GO:0006950,GO:0006974,GO:0007154,GO:0008150,GO:0008152,GO:0009378,GO:0009432,GO:0009605,GO:0009987,GO:0009991,GO:0016462,GO:0016787,GO:0016817,GO:0016818,GO:0017111,GO:0031668,GO:0032392,GO:0032508,GO:0032991,GO:0033554,GO:0034641,GO:0043170,GO:0043234,GO:0044237,GO:0044238,GO:0044260,GO:0044424,GO:0044464,GO:0044699,GO:0044763,GO:0046483,GO:0048476,GO:0050896,GO:0051716,GO:0071103,GO:0071496,GO:0071704,GO:0090304,GO:1901360",
+        "X7": "K03551",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01R0P@aproNOG,05CKJ@bactNOG,16PE0@proNOG,COG2255@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "L",
+        "X13": "The RuvA-RuvB complex in the presence of ATP renatures cruciform structure in supercoiled DNA with palindromic sequence, indicating that it may promote strand exchange reactions in homologous recombination. RuvAB is a helicase that mediates the Holliday junction migration by localized denaturation and reannealing (By similarity)"
+      }
     },
     {
       "seqnames": "MAG06_210",
@@ -406,7 +646,22 @@
       "sscore": "2.94",
       "rscore": "1.51",
       "uscore": "-1.28",
-      "tscore": "2.71"
+      "tscore": "2.71",
+      "eggnog": {
+        "X1": "MAG06_324_4",
+        "X2": "266834.SMc03966",
+        "X3": 4.2e-105,
+        "X4": 386,
+        "X5": "RUVA",
+        "X6": "GO:0000724,GO:0000725,GO:0003674,GO:0003678,GO:0003824,GO:0004386,GO:0005575,GO:0005622,GO:0005623,GO:0005737,GO:0005886,GO:0006139,GO:0006259,GO:0006281,GO:0006302,GO:0006310,GO:0006725,GO:0006807,GO:0006950,GO:0006974,GO:0007154,GO:0008150,GO:0008152,GO:0009378,GO:0009379,GO:0009432,GO:0009605,GO:0009987,GO:0009991,GO:0016020,GO:0016462,GO:0016787,GO:0016817,GO:0016818,GO:0017111,GO:0031668,GO:0032392,GO:0032508,GO:0032991,GO:0033202,GO:0033554,GO:0034641,GO:0043170,GO:0043234,GO:0044237,GO:0044238,GO:0044260,GO:0044424,GO:0044464,GO:0044699,GO:0044763,GO:0046483,GO:0048476,GO:0050896,GO:0051716,GO:0071103,GO:0071496,GO:0071704,GO:0071944,GO:0090304,GO:1901360",
+        "X7": "K03550",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01UXE@aproNOG,05KA4@bactNOG,17A0C@proNOG,COG0632@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "L",
+        "X13": "The RuvA-RuvB complex in the presence of ATP renatures cruciform structure in supercoiled DNA with palindromic sequence, indicating that it may promote strand exchange reactions in homologous recombination. RuvAB is a helicase that mediates the Holliday junction migration by localized denaturation and reannealing. RuvA stimulates, in the presence of DNA, the weak ATPase activity of RuvB (By similarity)"
+      }
     }
   ],
   "seqname": "MAG06_210",

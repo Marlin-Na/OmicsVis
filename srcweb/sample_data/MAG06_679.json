@@ -22,7 +22,22 @@
       "sscore": "15.82",
       "rscore": "10.54",
       "uscore": "1.64",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_685_2",
+        "X2": "391600.BBAL3_136",
+        "X3": 2e-47,
+        "X4": 193.4,
+        "X5": "RPSJ",
+        "X6": "GO:0003674,GO:0003735,GO:0005198,GO:0005575,GO:0005618,GO:0005622,GO:0005623,GO:0005737,GO:0005829,GO:0005840,GO:0005886,GO:0006412,GO:0008150,GO:0008152,GO:0009058,GO:0009059,GO:0009987,GO:0010467,GO:0015935,GO:0016020,GO:0019538,GO:0022626,GO:0022627,GO:0030312,GO:0030529,GO:0032991,GO:0034645,GO:0040007,GO:0043170,GO:0043226,GO:0043228,GO:0043229,GO:0043232,GO:0044237,GO:0044238,GO:0044249,GO:0044260,GO:0044267,GO:0044391,GO:0044422,GO:0044424,GO:0044444,GO:0044445,GO:0044446,GO:0044464,GO:0071704,GO:0071944,GO:1901576",
+        "X7": "K02946",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01Y57@aproNOG,08Z10@bactNOG,17CDQ@proNOG,COG0051@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "J",
+        "X13": "Involved in the binding of tRNA to the ribosomes (By similarity)"
+      }
     },
     {
       "seqnames": "MAG06_679",
@@ -46,7 +61,22 @@
       "sscore": "19.80",
       "rscore": "13.75",
       "uscore": "2.40",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_685_3",
+        "X2": "391600.BBAL3_431",
+        "X3": 2.9e-116,
+        "X4": 423.3,
+        "X5": "RPLC",
+        "X6": "GO:0003674,GO:0003735,GO:0005198,GO:0005575,GO:0005622,GO:0005623,GO:0005737,GO:0005829,GO:0005886,GO:0006412,GO:0008150,GO:0008152,GO:0009058,GO:0009059,GO:0009893,GO:0009987,GO:0010467,GO:0010468,GO:0010604,GO:0016020,GO:0019219,GO:0019222,GO:0019538,GO:0031323,GO:0031325,GO:0034645,GO:0040007,GO:0043170,GO:0044087,GO:0044237,GO:0044238,GO:0044249,GO:0044260,GO:0044267,GO:0044424,GO:0044444,GO:0044464,GO:0045935,GO:0048518,GO:0048522,GO:0050789,GO:0050794,GO:0051171,GO:0051173,GO:0051252,GO:0051254,GO:0060255,GO:0065007,GO:0071704,GO:0071944,GO:0080090,GO:0090069,GO:1901576,GO:2000232,GO:2000234",
+        "X7": "K02906",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01QWB@aproNOG,05EEE@bactNOG,16SCH@proNOG,COG0087@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "J",
+        "X13": "One of the primary rRNA binding proteins, it binds directly near the 3'-end of the 23S rRNA, where it nucleates assembly of the 50S subunit (By similarity)"
+      }
     }
   ],
   "seqname": "MAG06_679",

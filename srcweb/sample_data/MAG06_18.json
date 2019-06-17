@@ -22,7 +22,22 @@
       "sscore": "10.34",
       "rscore": "7.63",
       "uscore": "-0.28",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_966_1",
+        "X2": "311403.Arad_9540",
+        "X3": 5e-162,
+        "X4": 575.9,
+        "X5": "OPPC",
+        "X6": "GO:0005575,GO:0016020",
+        "X7": "K02034,K15582",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01T1T@aproNOG,05C2T@bactNOG,16R8W@proNOG,COG1173@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "P",
+        "X13": "ABC transporter, membrane spanning protein"
+      }
     },
     {
       "seqnames": "MAG06_18",
@@ -46,7 +61,22 @@
       "sscore": "4.51",
       "rscore": "2.03",
       "uscore": "-1.16",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_966_2",
+        "X2": "311403.Arad_9543",
+        "X3": 2.4e-112,
+        "X4": 410.2,
+        "X5": "OPPB",
+        "X6": "GO:0005575,GO:0005622,GO:0005623,GO:0005737,GO:0016020,GO:0044424,GO:0044464",
+        "X7": "K00759,K02033",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "05CJM@bactNOG,COG0601@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "P",
+        "X13": "Binding-protein-dependent transport systems, inner membrane component"
+      }
     },
     {
       "seqnames": "MAG06_18",
@@ -70,7 +100,22 @@
       "sscore": "5.14",
       "rscore": "0.21",
       "uscore": "-0.31",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_967_1",
+        "X2": "266834.SMc01657",
+        "X3": 1.7e-19,
+        "X4": 99.4,
+        "X5": null,
+        "X6": "GO:0005575,GO:0005623,GO:0009279,GO:0016020,GO:0019867,GO:0030312,GO:0030313,GO:0031975,GO:0044462,GO:0044464,GO:0071944",
+        "X7": "K02014",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01QQD@aproNOG,05E0K@bactNOG,16QPN@proNOG,COG1629@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "P",
+        "X13": "tonB-dependent siderophore receptor"
+      }
     },
     {
       "seqnames": "MAG06_18",
@@ -94,7 +139,22 @@
       "sscore": "-0.29",
       "rscore": "-4.72",
       "uscore": "0.78",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_967_2",
+        "X2": "266834.SMc01658",
+        "X3": 1.6e-140,
+        "X4": 503.8,
+        "X5": null,
+        "X6": null,
+        "X7": "K13255",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "021TZ@aproNOG,065T0@bactNOG,17NPV@proNOG,COG4114@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "ferric iron reductase"
+      }
     },
     {
       "seqnames": "MAG06_18",
@@ -118,7 +178,22 @@
       "sscore": "3.22",
       "rscore": "0.00",
       "uscore": "0.00",
-      "tscore": "3.22"
+      "tscore": "3.22",
+      "eggnog": {
+        "X1": "MAG06_967_3",
+        "X2": "266834.SMc01659",
+        "X3": 6.6e-213,
+        "X4": 745,
+        "X5": "IRP6A",
+        "X6": null,
+        "X7": "K02016",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01W23@aproNOG,07RF9@bactNOG,16QU7@proNOG,COG0614@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "P",
+        "X13": "Periplasmic binding protein"
+      }
     }
   ],
   "seqname": "MAG06_18",

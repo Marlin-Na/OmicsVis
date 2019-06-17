@@ -22,7 +22,22 @@
       "sscore": "6.64",
       "rscore": "6.91",
       "uscore": "-4.25",
-      "tscore": "3.98"
+      "tscore": "3.98",
+      "eggnog": {
+        "X1": "MAG06_756_1",
+        "X2": "266834.SMc02889",
+        "X3": 1.1e-137,
+        "X4": 494.6,
+        "X5": "IRP8",
+        "X6": null,
+        "X7": "K05373,K08218",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01T27@aproNOG,08HFG@bactNOG,0ZVQG@NOG,16VBB@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": "P",
+        "X13": "Major facilitator superfamily"
+      }
     },
     {
       "seqnames": "MAG06_778",
@@ -46,7 +61,22 @@
       "sscore": "3.22",
       "rscore": "0.00",
       "uscore": "0.00",
-      "tscore": "3.22"
+      "tscore": "3.22",
+      "eggnog": {
+        "X1": "MAG06_756_2",
+        "X2": "266834.SMc02890",
+        "X3": 0,
+        "X4": 1145.6,
+        "X5": null,
+        "X6": "GO:0005575,GO:0005623,GO:0009279,GO:0016020,GO:0019867,GO:0030312,GO:0030313,GO:0031975,GO:0044462,GO:0044464,GO:0071944",
+        "X7": "K02014,K15721",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01VAZ@aproNOG,05F28@bactNOG,174N3@proNOG,COG1629@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "P",
+        "X13": "TonB-dependent receptor"
+      }
     }
   ],
   "seqname": "MAG06_778",

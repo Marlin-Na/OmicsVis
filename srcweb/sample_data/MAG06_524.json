@@ -22,7 +22,22 @@
       "sscore": "17.56",
       "rscore": "13.75",
       "uscore": "0.82",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_564_9",
+        "X2": "371731.Rsw2DRAFT_3210",
+        "X3": 1.6e-73,
+        "X4": 281.2,
+        "X5": "FLHS",
+        "X6": null,
+        "X7": "K10819",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01SAU@aproNOG,05BZU@bactNOG,0XNMH@NOG,16QSK@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": "T",
+        "X13": "Histidine kinase"
+      }
     },
     {
       "seqnames": "MAG06_524",
@@ -46,7 +61,22 @@
       "sscore": "13.22",
       "rscore": "7.63",
       "uscore": "1.95",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_565_1",
+        "X2": "366394.Smed_1660",
+        "X3": 4.5e-272,
+        "X4": 941.8,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01SF1@aproNOG,05HQK@bactNOG,16PFY@proNOG,COG5525@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "Terminase large subunit"
+      }
     },
     {
       "seqnames": "MAG06_524",
@@ -70,7 +100,22 @@
       "sscore": "-12.27",
       "rscore": "-1.48",
       "uscore": "-0.65",
-      "tscore": "-10.14"
+      "tscore": "-10.14",
+      "eggnog": {
+        "X1": "MAG06_565_2",
+        "X2": "366394.Smed_1659",
+        "X3": 3.1e-32,
+        "X4": 142.5,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "06FSI@bactNOG,0Y14S@NOG,17TBP@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "gpW"
+      }
     }
   ],
   "seqname": "MAG06_524",

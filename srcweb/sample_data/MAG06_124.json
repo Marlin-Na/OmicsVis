@@ -22,7 +22,22 @@
       "sscore": "7.41",
       "rscore": "7.63",
       "uscore": "-4.52",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_244_4",
+        "X2": "641118.OINT_2001859",
+        "X3": 7.9e-51,
+        "X4": 205.3,
+        "X5": "IBPA",
+        "X6": "GO:0005575,GO:0005622,GO:0005623,GO:0005737,GO:0006457,GO:0006950,GO:0008150,GO:0008152,GO:0009266,GO:0009279,GO:0009408,GO:0009628,GO:0009987,GO:0016020,GO:0019538,GO:0019867,GO:0030312,GO:0030313,GO:0031975,GO:0043170,GO:0044237,GO:0044238,GO:0044260,GO:0044267,GO:0044424,GO:0044462,GO:0044464,GO:0050896,GO:0071704,GO:0071944",
+        "X7": "K04080",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01W8W@aproNOG,08ZNX@bactNOG,17CSR@proNOG,COG0071@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "O",
+        "X13": "heat shock protein"
+      }
     },
     {
       "seqnames": "MAG06_124",
@@ -46,7 +61,22 @@
       "sscore": "6.73",
       "rscore": "2.03",
       "uscore": "-0.03",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_245_1",
+        "X2": "491916.RHECIAT_CH0002880",
+        "X3": 1.1e-79,
+        "X4": 301.2,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01SPN@aproNOG,07MRF@bactNOG,1754I@proNOG,COG3664@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "G",
+        "X13": "Inherit from COG: Glycoside hydrolase family"
+      }
     },
     {
       "seqnames": "MAG06_124",
@@ -70,7 +100,22 @@
       "sscore": "13.60",
       "rscore": "7.63",
       "uscore": "1.10",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_245_2",
+        "X2": "347834.RHE_CH02740",
+        "X3": 1.4e-65,
+        "X4": 254.6,
+        "X5": "SCLAV_0890",
+        "X6": null,
+        "X7": "K01834,K15634",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "0213V@aproNOG,081G1@bactNOG,17H0A@proNOG,COG0406@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "G",
+        "X13": "Phosphoglycerate mutase"
+      }
     },
     {
       "seqnames": "MAG06_124",
@@ -94,7 +139,22 @@
       "sscore": "1.69",
       "rscore": "2.03",
       "uscore": "-3.33",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_245_3",
+        "X2": "491916.RHECIAT_CH0002878",
+        "X3": 7.9e-171,
+        "X4": 605.1,
+        "X5": "INO1",
+        "X6": "GO:0003674,GO:0003824,GO:0004512,GO:0005488,GO:0005575,GO:0005622,GO:0005623,GO:0005737,GO:0005829,GO:0006790,GO:0008150,GO:0008152,GO:0008270,GO:0009058,GO:0009405,GO:0009987,GO:0010125,GO:0010126,GO:0016137,GO:0016138,GO:0016853,GO:0016872,GO:0043167,GO:0043169,GO:0044237,GO:0044249,GO:0044272,GO:0044424,GO:0044444,GO:0044464,GO:0044710,GO:0046872,GO:0046914,GO:0051186,GO:0051188,GO:0051704,GO:0071704,GO:1901135,GO:1901137,GO:1901576,GO:1901657,GO:1901659",
+        "X7": "K01858",
+        "X8": "MI1PS",
+        "X9": "bactNOG[38]",
+        "X10": "05CZA@bactNOG,174AU@proNOG,COG1260@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "I",
+        "X13": "Myo-inositol-1-phosphate synthase"
+      }
     },
     {
       "seqnames": "MAG06_124",
@@ -118,7 +178,8 @@
       "sscore": "3.47",
       "rscore": "2.03",
       "uscore": "-2.20",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {}
     }
   ],
   "seqname": "MAG06_124",

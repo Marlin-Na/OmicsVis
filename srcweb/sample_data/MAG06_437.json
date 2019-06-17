@@ -22,7 +22,22 @@
       "sscore": "3.22",
       "rscore": "0.00",
       "uscore": "0.00",
-      "tscore": "3.22"
+      "tscore": "3.22",
+      "eggnog": {
+        "X1": "MAG06_499_2",
+        "X2": "861208.AGROH133_10020",
+        "X3": 6.8e-164,
+        "X4": 582.4,
+        "X5": "BMUL_3460",
+        "X6": null,
+        "X7": "K05962",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01RVZ@aproNOG,05E0F@bactNOG,0XTWD@NOG,16RKV@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": "T",
+        "X13": "Histidine kinase"
+      }
     },
     {
       "seqnames": "MAG06_437",
@@ -46,7 +61,22 @@
       "sscore": "12.99",
       "rscore": "7.63",
       "uscore": "0.43",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_5_1",
+        "X2": "266834.SMc01013",
+        "X3": 3.2e-37,
+        "X4": 159.1,
+        "X5": "ENC_21050",
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01QKV@aproNOG,05EW6@bactNOG,174HM@proNOG,COG1853@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "flavin reductase domain protein fmn-binding"
+      }
     },
     {
       "seqnames": "MAG06_437",
@@ -70,7 +100,22 @@
       "sscore": "5.34",
       "rscore": "-0.37",
       "uscore": "0.96",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_5_2",
+        "X2": "266834.SMc01012",
+        "X3": 7.4e-106,
+        "X4": 388.7,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "02DUV@aproNOG,07WV2@bactNOG,171MU@proNOG,COG0778@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "C",
+        "X13": "nitroreductase"
+      }
     },
     {
       "seqnames": "MAG06_437",
@@ -94,7 +139,22 @@
       "sscore": "13.03",
       "rscore": "7.63",
       "uscore": "0.64",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_5_3",
+        "X2": "266834.SMc01011",
+        "X3": 1.9e-125,
+        "X4": 453.8,
+        "X5": "OCAR_5612",
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01WF2@aproNOG,07W34@bactNOG,0Z410@NOG,1777U@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": null,
+        "X13": null
+      }
     },
     {
       "seqnames": "MAG06_437",
@@ -118,7 +178,22 @@
       "sscore": "11.88",
       "rscore": "7.63",
       "uscore": "-0.60",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_50_1",
+        "X2": "765698.Mesci_3245",
+        "X3": 6e-200,
+        "X4": 702.6,
+        "X5": null,
+        "X6": null,
+        "X7": "K03296,K18138",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01QFF@aproNOG,05BZS@bactNOG,16PBH@proNOG,COG0841@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "P",
+        "X13": "acriflavin resistance protein"
+      }
     },
     {
       "seqnames": "MAG06_437",
@@ -142,7 +217,22 @@
       "sscore": "4.94",
       "rscore": "2.03",
       "uscore": "-0.08",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_500_1",
+        "X2": "266834.SMc04221",
+        "X3": 6.6e-91,
+        "X4": 338.6,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "02BT7@aproNOG,05G4N@bactNOG,17H1W@proNOG,COG0454@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "K",
+        "X13": "Inherit from proNOG: Gcn5-related n-acetyltransferase"
+      }
     },
     {
       "seqnames": "MAG06_437",
@@ -166,7 +256,22 @@
       "sscore": "6.67",
       "rscore": "2.03",
       "uscore": "-0.06",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_500_2",
+        "X2": "266834.SMc04220",
+        "X3": 9.9e-50,
+        "X4": 201.1,
+        "X5": "BIGR",
+        "X6": null,
+        "X7": "K03892",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "021VZ@aproNOG,080HT@bactNOG,17K32@proNOG,COG0640@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "K",
+        "X13": "Transcriptional regulator"
+      }
     },
     {
       "seqnames": "MAG06_437",
@@ -190,7 +295,22 @@
       "sscore": "15.38",
       "rscore": "10.54",
       "uscore": "1.19",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_500_3",
+        "X2": "266834.SMc04219",
+        "X3": 1.3e-76,
+        "X4": 290.8,
+        "X5": "HNDI",
+        "X6": null,
+        "X7": "K01990",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01R1K@aproNOG,05DA5@bactNOG,16QDD@proNOG,COG1131@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "V",
+        "X13": "ABC transporter"
+      }
     },
     {
       "seqnames": "MAG06_437",
@@ -214,7 +334,22 @@
       "sscore": "6.24",
       "rscore": "2.03",
       "uscore": "0.57",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_501_1",
+        "X2": "536019.Mesop_3149",
+        "X3": 4.1e-80,
+        "X4": 303.1,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01VP7@aproNOG,08N0Y@bactNOG,1771T@proNOG,COG2932@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "K",
+        "X13": "phage repressor"
+      }
     },
     {
       "seqnames": "MAG06_437",
@@ -238,7 +373,22 @@
       "sscore": "9.41",
       "rscore": "7.63",
       "uscore": "-2.82",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_501_5",
+        "X2": "78245.Xaut_3605",
+        "X3": 1.6e-50,
+        "X4": 205.3,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "02AFV@aproNOG,07CBM@bactNOG,0Z9CK@NOG,186D3@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": null,
+        "X13": null
+      }
     }
   ],
   "seqname": "MAG06_437",

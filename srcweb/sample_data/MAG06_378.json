@@ -22,7 +22,22 @@
       "sscore": "-1.54",
       "rscore": "-4.72",
       "uscore": "-1.35",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_452_1",
+        "X2": "751586.BDIM_21580",
+        "X3": 2e-79,
+        "X4": 301.6,
+        "X5": null,
+        "X6": null,
+        "X7": "K12979",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01XPZ@aproNOG,08K6C@bactNOG,174AW@proNOG,COG3555@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "O",
+        "X13": "aspartyl asparaginyl"
+      }
     },
     {
       "seqnames": "MAG06_378",
@@ -46,7 +61,22 @@
       "sscore": "16.08",
       "rscore": "13.04",
       "uscore": "-1.56",
-      "tscore": "3.46"
+      "tscore": "3.46",
+      "eggnog": {
+        "X1": "MAG06_452_2",
+        "X2": "504832.OCAR_7478",
+        "X3": 5.3e-28,
+        "X4": 128.6,
+        "X5": "OCAR_7478",
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01Z3B@aproNOG,081XQ@bactNOG,16Q3T@proNOG,COG1801@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "Protein of unknown function DUF72"
+      }
     },
     {
       "seqnames": "MAG06_378",
@@ -70,7 +100,22 @@
       "sscore": "14.33",
       "rscore": "7.63",
       "uscore": "3.06",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_452_3",
+        "X2": "266834.SMc02160",
+        "X3": 1.6e-138,
+        "X4": 497.3,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01R92@aproNOG,05IPI@bactNOG,16W5N@proNOG,COG0628@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "permease"
+      }
     },
     {
       "seqnames": "MAG06_378",
@@ -94,7 +139,22 @@
       "sscore": "13.05",
       "rscore": "10.54",
       "uscore": "-1.14",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_452_4",
+        "X2": "266834.SMc02159",
+        "X3": 1.3e-112,
+        "X4": 411,
+        "X5": "PGSAB",
+        "X6": null,
+        "X7": "K00995",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "020SC@aproNOG,09073@bactNOG,17D7C@proNOG,COG0558@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "I",
+        "X13": "CDP-alcohol phosphatidyltransferase"
+      }
     },
     {
       "seqnames": "MAG06_378",
@@ -118,7 +178,22 @@
       "sscore": "3.22",
       "rscore": "0.00",
       "uscore": "0.00",
-      "tscore": "3.22"
+      "tscore": "3.22",
+      "eggnog": {
+        "X1": "MAG06_452_5",
+        "X2": "266834.SMc02158",
+        "X3": 4.9e-114,
+        "X4": 415.6,
+        "X5": "PLSC",
+        "X6": null,
+        "X7": "K00655",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01W56@aproNOG,08RX3@bactNOG,177VJ@proNOG,COG0204@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "I",
+        "X13": "Phospholipid Glycerol Acyltransferase"
+      }
     }
   ],
   "seqname": "MAG06_378",

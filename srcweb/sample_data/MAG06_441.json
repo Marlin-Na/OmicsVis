@@ -22,7 +22,22 @@
       "sscore": "4.14",
       "rscore": "2.03",
       "uscore": "-0.88",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_503_5",
+        "X2": "266834.SMc04314",
+        "X3": 1e-70,
+        "X4": 271.2,
+        "X5": null,
+        "X6": null,
+        "X7": "K01821",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "020VI@aproNOG,05MR2@bactNOG,17H6M@proNOG,COG1942@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "4-oxalocrotonate tautomerase"
+      }
     },
     {
       "seqnames": "MAG06_441",
@@ -46,7 +61,22 @@
       "sscore": "-9.17",
       "rscore": "2.03",
       "uscore": "-1.06",
-      "tscore": "-10.14"
+      "tscore": "-10.14",
+      "eggnog": {
+        "X1": "MAG06_503_7",
+        "X2": "266834.SMc04312",
+        "X3": 3.3e-35,
+        "X4": 152.5,
+        "X5": null,
+        "X6": null,
+        "X7": "K07746",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "022IV@aproNOG,061B5@bactNOG,12ACI@NOG,17PAU@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": "K",
+        "X13": "Uncharacterised protein family (UPF0156)"
+      }
     },
     {
       "seqnames": "MAG06_441",
@@ -70,7 +100,22 @@
       "sscore": "6.60",
       "rscore": "2.03",
       "uscore": "-0.35",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_503_8",
+        "X2": "266834.SMc04439",
+        "X3": 2.6e-119,
+        "X4": 433.3,
+        "X5": "PROV",
+        "X6": null,
+        "X7": "K02000",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "02E7S@aproNOG,08IJ7@bactNOG,172SV@proNOG,COG4175@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "E",
+        "X13": "Glycine betaine"
+      }
     },
     {
       "seqnames": "MAG06_441",
@@ -94,7 +139,22 @@
       "sscore": "13.91",
       "rscore": "10.54",
       "uscore": "-0.27",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_504_1",
+        "X2": "266834.SMc04083",
+        "X3": 2.9e-131,
+        "X4": 473,
+        "X5": "CYNT",
+        "X6": null,
+        "X7": "K01673",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01V12@aproNOG,07B2H@bactNOG,16ZXF@proNOG,COG0288@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "P",
+        "X13": "carbonic anhydrase"
+      }
     }
   ],
   "seqname": "MAG06_441",

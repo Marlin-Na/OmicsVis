@@ -22,7 +22,22 @@
       "sscore": "3.22",
       "rscore": "0.00",
       "uscore": "0.00",
-      "tscore": "3.22"
+      "tscore": "3.22",
+      "eggnog": {
+        "X1": "MAG06_674_2",
+        "X2": "266834.SMc01030",
+        "X3": 2e-195,
+        "X4": 686.8,
+        "X5": "PDHA",
+        "X6": null,
+        "X7": "K00161",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "02EIW@aproNOG,08JYK@bactNOG,173JC@proNOG,COG1071@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "C",
+        "X13": "Pyruvate dehydrogenase"
+      }
     },
     {
       "seqnames": "MAG06_662",
@@ -46,7 +61,22 @@
       "sscore": "-3.79",
       "rscore": "2.03",
       "uscore": "-0.30",
-      "tscore": "-4.87"
+      "tscore": "-4.87",
+      "eggnog": {
+        "X1": "MAG06_674_3",
+        "X2": "366394.Smed_1075",
+        "X3": 2.2e-49,
+        "X4": 199.9,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "021F8@aproNOG,05VG3@bactNOG,17M34@proNOG,COG2919@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "D",
+        "X13": "Septum formation initiator"
+      }
     },
     {
       "seqnames": "MAG06_662",
@@ -70,7 +100,22 @@
       "sscore": "5.55",
       "rscore": "2.03",
       "uscore": "0.53",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_675_1",
+        "X2": "266779.Meso_4049",
+        "X3": 4.4e-21,
+        "X4": 105.9,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "02DWF@aproNOG,05M5M@bactNOG,171RJ@proNOG,COG0640@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "K",
+        "X13": "Transcriptional Regulator, ArsR family"
+      }
     },
     {
       "seqnames": "MAG06_662",
@@ -94,7 +139,22 @@
       "sscore": "10.02",
       "rscore": "7.63",
       "uscore": "-1.25",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_675_2",
+        "X2": "452637.Oter_1306",
+        "X3": 9.4e-29,
+        "X4": 132.1,
+        "X5": "SCLAV_4412",
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "05GWK@bactNOG,1DKHH@verNOG,COG3832@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "Activator of Hsp90 ATPase homolog 1-like protein"
+      }
     },
     {
       "seqnames": "MAG06_662",
@@ -118,7 +178,22 @@
       "sscore": "4.93",
       "rscore": "-4.72",
       "uscore": "-0.82",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_675_3",
+        "X2": "536019.Mesop_0953",
+        "X3": 2.9e-15,
+        "X4": 85.9,
+        "X5": "OCAR_5137",
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "02301@aproNOG,08X7F@bactNOG,17PCH@proNOG,COG3832@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "activator of Hsp90 ATPase 1 family protein"
+      }
     },
     {
       "seqnames": "MAG06_662",
@@ -142,7 +217,22 @@
       "sscore": "8.04",
       "rscore": "3.33",
       "uscore": "1.72",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_675_4",
+        "X2": "504832.OCA5_c28300",
+        "X3": 1.1e-08,
+        "X4": 64.3,
+        "X5": "OCAR_5137",
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "02301@aproNOG,08X7F@bactNOG,17PCH@proNOG,COG3832@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "activator of Hsp90 ATPase 1 family protein"
+      }
     },
     {
       "seqnames": "MAG06_662",
@@ -166,7 +256,22 @@
       "sscore": "5.25",
       "rscore": "2.03",
       "uscore": "0.23",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_675_5",
+        "X2": "391625.PPSIR1_26883",
+        "X3": 2.8e-19,
+        "X4": 100.9,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "05XY4@bactNOG,0GHRB@delNOG,0HHVX@dproNOG,17MUS@proNOG,COG1309@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "K",
+        "X13": "transcriptional regulator, TetR family"
+      }
     },
     {
       "seqnames": "MAG06_662",
@@ -190,7 +295,22 @@
       "sscore": "2.80",
       "rscore": "5.12",
       "uscore": "-3.18",
-      "tscore": "1.36"
+      "tscore": "1.36",
+      "eggnog": {
+        "X1": "MAG06_676_1",
+        "X2": "266834.SMc02521",
+        "X3": 1.9e-105,
+        "X4": 387.1,
+        "X5": "GLPR",
+        "X6": null,
+        "X7": "K02081,K02444",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01T7M@aproNOG,05E98@bactNOG,16QT1@proNOG,COG1349@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "K",
+        "X13": "transcriptional regulator DeoR family"
+      }
     }
   ],
   "seqname": "MAG06_662",

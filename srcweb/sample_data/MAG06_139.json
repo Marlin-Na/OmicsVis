@@ -22,7 +22,22 @@
       "sscore": "1.63",
       "rscore": "-0.18",
       "uscore": "-2.17",
-      "tscore": "3.98"
+      "tscore": "3.98",
+      "eggnog": {
+        "X1": "MAG06_26_1",
+        "X2": "266834.SMc02072",
+        "X3": 1.4e-59,
+        "X4": 234.2,
+        "X5": "OCAR_6272",
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01W0V@aproNOG,08TBM@bactNOG,11FDJ@NOG,1795K@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "Sporulation domain protein"
+      }
     },
     {
       "seqnames": "MAG06_139",
@@ -46,7 +61,22 @@
       "sscore": "3.22",
       "rscore": "0.00",
       "uscore": "0.00",
-      "tscore": "3.22"
+      "tscore": "3.22",
+      "eggnog": {
+        "X1": "MAG06_26_2",
+        "X2": "266834.SMc02071",
+        "X3": 6.9e-193,
+        "X4": 678.3,
+        "X5": "NAGZ",
+        "X6": "GO:0000270,GO:0003674,GO:0003824,GO:0004553,GO:0004563,GO:0005575,GO:0005622,GO:0005623,GO:0005737,GO:0006022,GO:0006807,GO:0008150,GO:0008152,GO:0009254,GO:0009273,GO:0009987,GO:0015929,GO:0016787,GO:0016798,GO:0030203,GO:0042546,GO:0043170,GO:0044085,GO:0044424,GO:0044464,GO:0044699,GO:0044763,GO:0071554,GO:0071704,GO:0071840,GO:1901135,GO:1901564",
+        "X7": "K01207,K05349",
+        "X8": "AGM3PH,AGM4PH,AGMH",
+        "X9": "bactNOG[38]",
+        "X10": "01RQH@aproNOG,07QPA@bactNOG,16PKR@proNOG,COG1472@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "G",
+        "X13": "Beta-N-acetylhexosaminidase (EC 3.2.1.52)"
+      }
     }
   ],
   "seqname": "MAG06_139",

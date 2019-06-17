@@ -22,7 +22,22 @@
       "sscore": "17.98",
       "rscore": "13.75",
       "uscore": "-0.55",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_923_2",
+        "X2": "266834.SMc02786",
+        "X3": 2.1e-124,
+        "X4": 450.3,
+        "X5": "OCAR_4390",
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01WK3@aproNOG,08NB0@bactNOG,1756Q@proNOG,COG4395@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "Import inner membrane translocase subunit TIM44"
+      }
     },
     {
       "seqnames": "MAG06_998",
@@ -46,7 +61,22 @@
       "sscore": "12.46",
       "rscore": "10.54",
       "uscore": "-2.43",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_923_3",
+        "X2": "266834.SMc02787",
+        "X3": 4.2e-91,
+        "X4": 339.3,
+        "X5": "FXSA",
+        "X6": null,
+        "X7": "K07113",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01Y1H@aproNOG,05NNN@bactNOG,17FNE@proNOG,COG3030@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "FxsA cytoplasmic membrane protein"
+      }
     },
     {
       "seqnames": "MAG06_998",
@@ -70,7 +100,22 @@
       "sscore": "10.79",
       "rscore": "7.63",
       "uscore": "0.18",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_923_4",
+        "X2": "266834.SMc02788",
+        "X3": 1.1e-88,
+        "X4": 331.3,
+        "X5": "SECB",
+        "X6": "GO:0005575,GO:0005622,GO:0005623,GO:0005737,GO:0006605,GO:0006810,GO:0006886,GO:0008104,GO:0008150,GO:0009306,GO:0009987,GO:0015031,GO:0032940,GO:0033036,GO:0034613,GO:0043952,GO:0044424,GO:0044464,GO:0044699,GO:0044763,GO:0044765,GO:0045184,GO:0046903,GO:0046907,GO:0051179,GO:0051234,GO:0051641,GO:0051649,GO:0055085,GO:0070727,GO:0071702,GO:0071806",
+        "X7": "K03071",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "0200U@aproNOG,05IX2@bactNOG,175GA@proNOG,COG1952@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "U",
+        "X13": "One of the proteins required for the normal export of preproteins out of the cell cytoplasm. It is a molecular chaperone that binds to a subset of precursor proteins, maintaining them in a translocation-competent state. It also specifically binds to its receptor SecA (By similarity)"
+      }
     },
     {
       "seqnames": "MAG06_998",
@@ -94,7 +139,22 @@
       "sscore": "3.22",
       "rscore": "0.00",
       "uscore": "0.00",
-      "tscore": "3.22"
+      "tscore": "3.22",
+      "eggnog": {
+        "X1": "MAG06_923_5",
+        "X2": "266834.SMc02789",
+        "X3": 6.7e-134,
+        "X4": 481.9,
+        "X5": "DNAQ",
+        "X6": "GO:0003674,GO:0003824,GO:0004518,GO:0004527,GO:0005575,GO:0005622,GO:0005623,GO:0005737,GO:0006139,GO:0006259,GO:0006260,GO:0006261,GO:0006281,GO:0006725,GO:0006753,GO:0006793,GO:0006796,GO:0006807,GO:0006950,GO:0006974,GO:0008150,GO:0008152,GO:0009058,GO:0009059,GO:0009117,GO:0009987,GO:0016787,GO:0016788,GO:0019637,GO:0033554,GO:0034641,GO:0034645,GO:0043170,GO:0044237,GO:0044238,GO:0044249,GO:0044260,GO:0044281,GO:0044424,GO:0044464,GO:0044699,GO:0044710,GO:0044763,GO:0045004,GO:0045005,GO:0046483,GO:0050896,GO:0051716,GO:0055086,GO:0071704,GO:0090304,GO:0090305,GO:1901360,GO:1901576",
+        "X7": "K02342,K14159",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01RFE@aproNOG,07RZZ@bactNOG,16RKN@proNOG,COG0847@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "L",
+        "X13": "DNA polymerase III, epsilon subunit"
+      }
     }
   ],
   "seqname": "MAG06_998",

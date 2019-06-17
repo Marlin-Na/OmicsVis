@@ -22,7 +22,22 @@
       "sscore": "16.58",
       "rscore": "13.75",
       "uscore": "-0.81",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_770_3",
+        "X2": "266834.SMc04451",
+        "X3": 2e-124,
+        "X4": 450.3,
+        "X5": null,
+        "X6": null,
+        "X7": "K18554",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01Y83@aproNOG,05GJB@bactNOG,17DX7@proNOG,COG3896@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "V",
+        "X13": "Phosphotransferase"
+      }
     },
     {
       "seqnames": "MAG06_797",
@@ -46,7 +61,8 @@
       "sscore": "3.66",
       "rscore": "7.85",
       "uscore": "0.68",
-      "tscore": "-4.87"
+      "tscore": "-4.87",
+      "eggnog": {}
     },
     {
       "seqnames": "MAG06_797",
@@ -70,7 +86,22 @@
       "sscore": "13.54",
       "rscore": "7.63",
       "uscore": "0.98",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_770_4",
+        "X2": "266834.SMc04161",
+        "X3": 1.6e-88,
+        "X4": 330.5,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "05UI3@bactNOG,11TYM@NOG,17PMX@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "Activator of Hsp90 ATPase homolog 1-like protein"
+      }
     },
     {
       "seqnames": "MAG06_797",
@@ -94,7 +125,22 @@
       "sscore": "3.22",
       "rscore": "0.00",
       "uscore": "0.00",
-      "tscore": "3.22"
+      "tscore": "3.22",
+      "eggnog": {
+        "X1": "MAG06_770_5",
+        "X2": "266834.SMc04162",
+        "X3": 1.2e-53,
+        "X4": 214.2,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "020AD@aproNOG,05KCB@bactNOG,17FYS@proNOG,COG0640@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "K",
+        "X13": "transcriptional regulator ArsR family"
+      }
     }
   ],
   "seqname": "MAG06_797",

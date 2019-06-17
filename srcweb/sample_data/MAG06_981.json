@@ -22,7 +22,22 @@
       "sscore": "3.22",
       "rscore": "0.00",
       "uscore": "0.00",
-      "tscore": "3.22"
+      "tscore": "3.22",
+      "eggnog": {
+        "X1": "MAG06_912_4",
+        "X2": "266834.SMc00558",
+        "X3": 6.6e-131,
+        "X4": 471.9,
+        "X5": null,
+        "X6": null,
+        "X7": "K07506",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01VY1@aproNOG,06AXJ@bactNOG,11JF9@NOG,174W7@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": "K",
+        "X13": "Transcriptional regulator, ARAC family"
+      }
     },
     {
       "seqnames": "MAG06_981",
@@ -46,7 +61,22 @@
       "sscore": "3.22",
       "rscore": "0.00",
       "uscore": "0.00",
-      "tscore": "3.22"
+      "tscore": "3.22",
+      "eggnog": {
+        "X1": "MAG06_913_1",
+        "X2": "266834.SMc01721",
+        "X3": 8e-33,
+        "X4": 144.4,
+        "X5": "YIDC",
+        "X6": "GO:0003674,GO:0005215,GO:0005575,GO:0005623,GO:0005886,GO:0005887,GO:0006457,GO:0006461,GO:0006810,GO:0008104,GO:0008150,GO:0008152,GO:0008565,GO:0009987,GO:0015031,GO:0016020,GO:0016021,GO:0016043,GO:0016044,GO:0019538,GO:0022607,GO:0022892,GO:0031224,GO:0031226,GO:0032977,GO:0033036,GO:0034613,GO:0040007,GO:0043170,GO:0043933,GO:0044085,GO:0044237,GO:0044238,GO:0044260,GO:0044267,GO:0044425,GO:0044459,GO:0044464,GO:0044699,GO:0044763,GO:0045184,GO:0051179,GO:0051205,GO:0051234,GO:0051641,GO:0051668,GO:0061024,GO:0065003,GO:0070271,GO:0070727,GO:0071702,GO:0071704,GO:0071822,GO:0071840,GO:0071944",
+        "X7": "K03217",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01QQ3@aproNOG,05DHW@bactNOG,16QMN@proNOG,COG0706@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "U",
+        "X13": "Required for the insertion and or proper folding and or complex formation of integral membrane proteins into the membrane. Involved in integration of membrane proteins that insert both dependently and independently of the Sec translocase complex, as well as at least some lipoproteins. Aids folding of multispanning membrane proteins (By similarity)"
+      }
     }
   ],
   "seqname": "MAG06_981",

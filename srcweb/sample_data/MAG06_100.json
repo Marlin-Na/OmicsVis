@@ -22,7 +22,22 @@
       "sscore": "6.46",
       "rscore": "9.04",
       "uscore": "-5.78",
-      "tscore": "3.20"
+      "tscore": "3.20",
+      "eggnog": {
+        "X1": "MAG06_101_2",
+        "X2": "266834.SMc00471",
+        "X3": 0,
+        "X4": 1666.4,
+        "X5": "CCKA",
+        "X6": null,
+        "X7": "K13587",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01QZ5@aproNOG,05BZU@bactNOG,0XNMH@NOG,18A4X@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": "T",
+        "X13": "Histidine kinase"
+      }
     },
     {
       "seqnames": "MAG06_100",
@@ -46,7 +61,22 @@
       "sscore": "7.53",
       "rscore": "2.74",
       "uscore": "0.30",
-      "tscore": "3.20"
+      "tscore": "3.20",
+      "eggnog": {
+        "X1": "MAG06_101_3",
+        "X2": "266834.SMc00470",
+        "X3": 8.5e-169,
+        "X4": 598.2,
+        "X5": "OCAR_5394",
+        "X6": null,
+        "X7": "K02418",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "02CYM@aproNOG,05XYP@bactNOG,125G1@NOG,17P12@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "Flagellar biosynthesis protein, FliO"
+      }
     },
     {
       "seqnames": "MAG06_100",
@@ -70,7 +100,22 @@
       "sscore": "8.32",
       "rscore": "2.74",
       "uscore": "1.13",
-      "tscore": "3.20"
+      "tscore": "3.20",
+      "eggnog": {
+        "X1": "MAG06_101_4",
+        "X2": "366394.Smed_1527",
+        "X3": 6e-71,
+        "X4": 271.9,
+        "X5": "DKSA",
+        "X6": "GO:0005575,GO:0005622,GO:0005623,GO:0005737,GO:0006139,GO:0006259,GO:0006355,GO:0006725,GO:0006807,GO:0008150,GO:0008152,GO:0009889,GO:0009987,GO:0010468,GO:0010556,GO:0019219,GO:0019222,GO:0031323,GO:0031326,GO:0034641,GO:0043170,GO:0044237,GO:0044238,GO:0044260,GO:0044424,GO:0044464,GO:0046483,GO:0050789,GO:0050794,GO:0051171,GO:0051252,GO:0060255,GO:0065007,GO:0071704,GO:0080090,GO:0090304,GO:1901360,GO:2000112,GO:2001141",
+        "X7": "K06204",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01WX8@aproNOG,08V7X@bactNOG,17A46@proNOG,COG1734@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "T",
+        "X13": "Transcription factor that acts by binding directly to the RNA polymerase (RNAP). Required for negative regulation of rRNA expression and positive regulation of several amino acid biosynthesis promoters (By similarity)"
+      }
     },
     {
       "seqnames": "MAG06_100",
@@ -94,7 +139,8 @@
       "sscore": "-0.60",
       "rscore": "2.74",
       "uscore": "-0.09",
-      "tscore": "-4.62"
+      "tscore": "-4.62",
+      "eggnog": {}
     },
     {
       "seqnames": "MAG06_100",
@@ -118,7 +164,22 @@
       "sscore": "5.52",
       "rscore": "9.04",
       "uscore": "1.10",
-      "tscore": "-4.62"
+      "tscore": "-4.62",
+      "eggnog": {
+        "X1": "MAG06_220_7",
+        "X2": "224911.blr4009",
+        "X3": 1.5e-18,
+        "X4": 97.1,
+        "X5": "BMUL_1300",
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01SP0@aproNOG,05EN7@bactNOG,0Z5CX@NOG,174TT@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": "G",
+        "X13": "Major facilitator superfamily"
+      }
     },
     {
       "seqnames": "MAG06_100",
@@ -142,7 +203,22 @@
       "sscore": "8.33",
       "rscore": "2.74",
       "uscore": "2.39",
-      "tscore": "3.20"
+      "tscore": "3.20",
+      "eggnog": {
+        "X1": "MAG06_221_1",
+        "X2": "394.NGR_c14200",
+        "X3": 5.9e-08,
+        "X4": 60.5,
+        "X5": "PCM",
+        "X6": "GO:0005575,GO:0005622,GO:0005623,GO:0005737,GO:0044424,GO:0044464",
+        "X7": "K00573",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01SXM@aproNOG,05E26@bactNOG,177YQ@proNOG,COG2518@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "O",
+        "X13": "Catalyzes the methyl esterification of L-isoaspartyl residues in peptides and proteins that result from spontaneous decomposition of normal L-aspartyl and L-asparaginyl residues. It plays a role in the repair and or degradation of damaged proteins (By similarity)"
+      }
     },
     {
       "seqnames": "MAG06_100",
@@ -166,7 +242,22 @@
       "sscore": "13.03",
       "rscore": "9.04",
       "uscore": "-0.46",
-      "tscore": "3.20"
+      "tscore": "3.20",
+      "eggnog": {
+        "X1": "MAG06_221_2",
+        "X2": "347834.RHE_CH03729",
+        "X3": 1.7e-64,
+        "X4": 250.8,
+        "X5": "NUOJ",
+        "X6": null,
+        "X7": "K00339",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "05DF2@bactNOG,1740R@proNOG,COG0839@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "C",
+        "X13": "NADH dehydrogenase subunit j"
+      }
     },
     {
       "seqnames": "MAG06_100",
@@ -190,7 +281,8 @@
       "sscore": "16.26",
       "rscore": "12.94",
       "uscore": "-1.02",
-      "tscore": "3.20"
+      "tscore": "3.20",
+      "eggnog": {}
     }
   ],
   "seqname": "MAG06_100",

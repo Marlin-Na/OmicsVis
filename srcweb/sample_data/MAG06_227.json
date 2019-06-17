@@ -22,7 +22,8 @@
       "sscore": "3.22",
       "rscore": "0.00",
       "uscore": "0.00",
-      "tscore": "3.22"
+      "tscore": "3.22",
+      "eggnog": {}
     },
     {
       "seqnames": "MAG06_227",
@@ -46,7 +47,22 @@
       "sscore": "14.19",
       "rscore": "8.88",
       "uscore": "-0.40",
-      "tscore": "4.54"
+      "tscore": "4.54",
+      "eggnog": {
+        "X1": "MAG06_336_5",
+        "X2": "266834.SMc04035",
+        "X3": 4.3e-148,
+        "X4": 529.3,
+        "X5": null,
+        "X6": "GO:0005575,GO:0016020",
+        "X7": "K02034",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01W2A@aproNOG,05C2T@bactNOG,178HU@proNOG,COG1173@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "P",
+        "X13": "ABC transporter"
+      }
     }
   ],
   "seqname": "MAG06_227",

@@ -22,7 +22,22 @@
       "sscore": "6.21",
       "rscore": "5.51",
       "uscore": "-2.30",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_800_3",
+        "X2": "266834.SMc01347",
+        "X3": 1.4e-78,
+        "X4": 297.4,
+        "X5": "OCAR_6311",
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01ZIF@aproNOG,05N1B@bactNOG,17GAD@proNOG,COG4765@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "Uncharacterized protein conserved in bacteria (DUF2155)"
+      }
     },
     {
       "seqnames": "MAG06_830",
@@ -46,7 +61,22 @@
       "sscore": "3.22",
       "rscore": "0.00",
       "uscore": "0.00",
-      "tscore": "3.22"
+      "tscore": "3.22",
+      "eggnog": {
+        "X1": "MAG06_800_4",
+        "X2": "266834.SMc01348",
+        "X3": 3.1e-77,
+        "X4": 292.7,
+        "X5": "OCAR_6312",
+        "X6": null,
+        "X7": "K00356",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "0206V@aproNOG,05P11@bactNOG,17G60@proNOG,COG3761@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "C",
+        "X13": "NADH ubiquinone oxidoreductase 17.2 kD subunit"
+      }
     }
   ],
   "seqname": "MAG06_830",

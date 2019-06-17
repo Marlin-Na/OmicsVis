@@ -22,7 +22,22 @@
       "sscore": "16.94",
       "rscore": "13.75",
       "uscore": "-0.46",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_819_10",
+        "X2": "266834.SMc00031",
+        "X3": 6.2e-80,
+        "X4": 302,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "020F5@aproNOG,05QZ9@bactNOG,11ZDY@NOG,17FPZ@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": null,
+        "X13": null
+      }
     },
     {
       "seqnames": "MAG06_848",
@@ -46,7 +61,22 @@
       "sscore": "3.97",
       "rscore": "2.03",
       "uscore": "-1.05",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_819_11",
+        "X2": "266834.SMc00093",
+        "X3": 0,
+        "X4": 1147.1,
+        "X5": "BETA",
+        "X6": "GO:0005575,GO:0005623,GO:0005886,GO:0016020,GO:0044464,GO:0071944",
+        "X7": "K00108",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01QKF@aproNOG,05CZ6@bactNOG,16Q7M@proNOG,COG2303@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "E",
+        "X13": "Can catalyze the oxidation of choline to betaine aldehyde and betaine aldehyde to glycine betaine (By similarity)"
+      }
     },
     {
       "seqnames": "MAG06_848",
@@ -70,7 +100,22 @@
       "sscore": "3.22",
       "rscore": "0.00",
       "uscore": "0.00",
-      "tscore": "3.22"
+      "tscore": "3.22",
+      "eggnog": {
+        "X1": "MAG06_819_12",
+        "X2": "266834.SMc00094",
+        "X3": 1.1e-279,
+        "X4": 967.2,
+        "X5": "BETB",
+        "X6": "GO:0003674,GO:0003824,GO:0004029,GO:0006066,GO:0006082,GO:0006520,GO:0006575,GO:0006576,GO:0006577,GO:0006578,GO:0006807,GO:0006950,GO:0006970,GO:0008150,GO:0008152,GO:0008652,GO:0008802,GO:0009058,GO:0009308,GO:0009628,GO:0009987,GO:0016053,GO:0016491,GO:0016620,GO:0016903,GO:0019285,GO:0019695,GO:0019752,GO:0031455,GO:0031456,GO:0034641,GO:0042398,GO:0042439,GO:0043436,GO:0044106,GO:0044237,GO:0044238,GO:0044249,GO:0044271,GO:0044281,GO:0044283,GO:0044710,GO:0044711,GO:0046394,GO:0050896,GO:0055114,GO:0071704,GO:1901564,GO:1901566,GO:1901576,GO:1901615",
+        "X7": "K00128,K00130",
+        "X8": "BETALDHx,BETALDHy",
+        "X9": "bactNOG[38]",
+        "X10": "01QA3@aproNOG,05C26@bactNOG,16PDZ@proNOG,COG1012@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "C",
+        "X13": "Aldehyde dehydrogenase"
+      }
     }
   ],
   "seqname": "MAG06_848",

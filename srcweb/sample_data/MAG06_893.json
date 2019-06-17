@@ -22,7 +22,22 @@
       "sscore": "3.22",
       "rscore": "0.00",
       "uscore": "0.00",
-      "tscore": "3.22"
+      "tscore": "3.22",
+      "eggnog": {
+        "X1": "MAG06_843_5",
+        "X2": "266834.SMc01500",
+        "X3": 5.8e-136,
+        "X4": 488.8,
+        "X5": "POLS",
+        "X6": null,
+        "X7": "K00059,K08261",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01SQ7@aproNOG,05CHR@bactNOG,0XNW1@NOG,16THU@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "Dehydrogenase"
+      }
     },
     {
       "seqnames": "MAG06_893",
@@ -46,7 +61,22 @@
       "sscore": "12.09",
       "rscore": "12.71",
       "uscore": "-4.72",
-      "tscore": "3.37"
+      "tscore": "3.37",
+      "eggnog": {
+        "X1": "MAG06_843_6",
+        "X2": "266834.SMc01501",
+        "X3": 7.8e-25,
+        "X4": 117.5,
+        "X5": "MTLK",
+        "X6": "GO:0005575,GO:0005622,GO:0005623,GO:0005737,GO:0044424,GO:0044464",
+        "X7": "K00045,K19633",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01RDW@aproNOG,05DEI@bactNOG,16QQD@proNOG,COG0246@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "G",
+        "X13": "Mannitol dehydrogenase"
+      }
     },
     {
       "seqnames": "MAG06_893",
@@ -70,7 +100,22 @@
       "sscore": "-2.90",
       "rscore": "-4.72",
       "uscore": "0.67",
-      "tscore": "-4.87"
+      "tscore": "-4.87",
+      "eggnog": {
+        "X1": "MAG06_844_1",
+        "X2": "266834.SMc04121",
+        "X3": 1.5e-113,
+        "X4": 414.1,
+        "X5": "UPP",
+        "X6": null,
+        "X7": "K00761",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01R4N@aproNOG,05CZ5@bactNOG,16QSQ@proNOG,COG0035@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "F",
+        "X13": "Catalyzes the conversion of uracil and 5-phospho-alpha- D-ribose 1-diphosphate (PRPP) to UMP and diphosphate (By similarity)"
+      }
     },
     {
       "seqnames": "MAG06_893",
@@ -94,7 +139,22 @@
       "sscore": "4.59",
       "rscore": "1.22",
       "uscore": "1.19",
-      "tscore": "2.19"
+      "tscore": "2.19",
+      "eggnog": {
+        "X1": "MAG06_844_2",
+        "X2": "266834.SMc04120",
+        "X3": 7e-179,
+        "X4": 631.7,
+        "X5": "ADD",
+        "X6": null,
+        "X7": "K01488,K18286,K19572",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01T8D@aproNOG,05EKD@bactNOG,16RFB@proNOG,COG1816@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "F",
+        "X13": "Catalyzes the hydrolytic deamination of adenine to hypoxanthine. Plays an important role in the purine salvage pathway and in nitrogen catabolism (By similarity)"
+      }
     },
     {
       "seqnames": "MAG06_893",
@@ -118,7 +178,22 @@
       "sscore": "-2.11",
       "rscore": "-4.72",
       "uscore": "-0.39",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_845_1",
+        "X2": "266834.SMc01951",
+        "X3": 1.3e-155,
+        "X4": 554.3,
+        "X5": "LIVH",
+        "X6": null,
+        "X7": "K01997",
+        "X8": "ILEabcpp,LEUabcpp,VALabcpp",
+        "X9": "bactNOG[38]",
+        "X10": "01RIW@aproNOG,05C32@bactNOG,16PET@proNOG,COG0559@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "E",
+        "X13": "Amino acid ABC transporter (Permease)"
+      }
     },
     {
       "seqnames": "MAG06_893",
@@ -142,7 +217,22 @@
       "sscore": "8.58",
       "rscore": "2.03",
       "uscore": "1.61",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_845_2",
+        "X2": "266834.SMc01950",
+        "X3": 2.7e-245,
+        "X4": 852.8,
+        "X5": "LIVM",
+        "X6": "GO:0005575,GO:0005623,GO:0005886,GO:0016020,GO:0044464,GO:0071944",
+        "X7": "K01997,K01998",
+        "X8": "ALAabc,ALAabcpp,ILEabc,ILEabcpp,LEUabc,LEUabcpp,THRabc,THRabcpp,VALabc,VALabcpp",
+        "X9": "bactNOG[38]",
+        "X10": "01R6I@aproNOG,05CF8@bactNOG,16QA4@proNOG,COG4177@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "E",
+        "X13": "branched-chain amino acid"
+      }
     },
     {
       "seqnames": "MAG06_893",
@@ -166,7 +256,8 @@
       "sscore": "3.49",
       "rscore": "7.85",
       "uscore": "0.50",
-      "tscore": "-4.87"
+      "tscore": "-4.87",
+      "eggnog": {}
     },
     {
       "seqnames": "MAG06_893",
@@ -190,7 +281,22 @@
       "sscore": "6.96",
       "rscore": "2.03",
       "uscore": "-0.95",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_845_3",
+        "X2": "266834.SMc01949",
+        "X3": 1e-42,
+        "X4": 177.6,
+        "X5": "LIVG",
+        "X6": "GO:0005575,GO:0005623,GO:0005886,GO:0016020,GO:0044464,GO:0071944",
+        "X7": "K01995",
+        "X8": "ALAabc,ALAabcpp,ILEabc,ILEabcpp,LEUabc,LEUabcpp,THRabc,THRabcpp,VALabc,VALabcpp",
+        "X9": "bactNOG[38]",
+        "X10": "01QS2@aproNOG,05C0Z@bactNOG,16PSW@proNOG,COG0411@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "E",
+        "X13": "ABC transporter"
+      }
     },
     {
       "seqnames": "MAG06_893",
@@ -214,7 +320,22 @@
       "sscore": "0.83",
       "rscore": "-3.78",
       "uscore": "-0.23",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_846_1",
+        "X2": "266779.Meso_3368",
+        "X3": 7.9e-106,
+        "X4": 388.7,
+        "X5": "BMUL_3653",
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01SRK@aproNOG,07QX8@bactNOG,16QUJ@proNOG,COG0330@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "O",
+        "X13": "SPFH domain, Band 7 family protein"
+      }
     }
   ],
   "seqname": "MAG06_893",

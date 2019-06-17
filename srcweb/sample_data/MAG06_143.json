@@ -22,7 +22,22 @@
       "sscore": "15.48",
       "rscore": "10.54",
       "uscore": "-5.23",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_261_5",
+        "X2": "266834.SMc01024",
+        "X3": 3.7e-72,
+        "X4": 276.2,
+        "X5": "SECG",
+        "X6": null,
+        "X7": "K03075",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "0210Z@aproNOG,05N1X@bactNOG,17GVV@proNOG,COG1314@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "U",
+        "X13": "Preprotein translocase subunit SecG"
+      }
     }
   ],
   "seqname": "MAG06_143",

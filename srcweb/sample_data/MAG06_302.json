@@ -22,7 +22,22 @@
       "sscore": "3.22",
       "rscore": "0.00",
       "uscore": "0.00",
-      "tscore": "3.22"
+      "tscore": "3.22",
+      "eggnog": {
+        "X1": "MAG06_397_1",
+        "X2": "412597.PaTRP_010100007054",
+        "X3": 3.1e-44,
+        "X4": 184.1,
+        "X5": null,
+        "X6": null,
+        "X7": "K05799",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "07EG7@bactNOG,17F1I@proNOG,COG2186@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "K",
+        "X13": "GntR family transcriptional regulator"
+      }
     },
     {
       "seqnames": "MAG06_302",
@@ -46,7 +61,22 @@
       "sscore": "-0.85",
       "rscore": "-0.18",
       "uscore": "-4.65",
-      "tscore": "3.98"
+      "tscore": "3.98",
+      "eggnog": {
+        "X1": "MAG06_397_2",
+        "X2": "977880.RALTA_A2828",
+        "X3": 3.4e-84,
+        "X4": 317,
+        "X5": "YGET",
+        "X6": null,
+        "X7": "K03519",
+        "X8": "4HBZR,CODH2r,CODH3,HXAND,XAND",
+        "X9": "bactNOG[38]",
+        "X10": "08HR6@bactNOG,0BRDE@bproNOG,172BH@proNOG,COG1319@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "C",
+        "X13": "CO dehydrogenase flavoprotein C-terminal domain"
+      }
     }
   ],
   "seqname": "MAG06_302",

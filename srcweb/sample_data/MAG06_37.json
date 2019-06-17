@@ -22,7 +22,22 @@
       "sscore": "12.55",
       "rscore": "10.54",
       "uscore": "-0.98",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_987_3",
+        "X2": "266834.SMc00077",
+        "X3": 1.2e-81,
+        "X4": 307.8,
+        "X5": "THRC",
+        "X6": "GO:0003674,GO:0003824,GO:0004795,GO:0006082,GO:0006520,GO:0006566,GO:0006807,GO:0008150,GO:0008152,GO:0008652,GO:0009058,GO:0009066,GO:0009067,GO:0009088,GO:0009987,GO:0016053,GO:0016829,GO:0016835,GO:0016838,GO:0019752,GO:0043436,GO:0044237,GO:0044238,GO:0044249,GO:0044281,GO:0044283,GO:0044710,GO:0044711,GO:0046394,GO:0071704,GO:1901564,GO:1901566,GO:1901576,GO:1901605,GO:1901607",
+        "X7": "K01733",
+        "X8": "4HTHRS,THRS",
+        "X9": "bactNOG[38]",
+        "X10": "01R4V@aproNOG,05D98@bactNOG,16PSC@proNOG,COG0498@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "E",
+        "X13": "Threonine synthase"
+      }
     },
     {
       "seqnames": "MAG06_37",
@@ -46,7 +61,22 @@
       "sscore": "13.64",
       "rscore": "10.54",
       "uscore": "-0.54",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_988_1",
+        "X2": "311403.Arad_0400",
+        "X3": 2.3e-192,
+        "X4": 676.8,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01RHG@aproNOG,05DDC@bactNOG,16QCS@proNOG,COG0673@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "Oxidoreductase"
+      }
     },
     {
       "seqnames": "MAG06_37",
@@ -70,7 +100,22 @@
       "sscore": "-9.61",
       "rscore": "-4.72",
       "uscore": "-0.90",
-      "tscore": "-4.87"
+      "tscore": "-4.87",
+      "eggnog": {
+        "X1": "MAG06_988_2",
+        "X2": "1050720.Agau_C100619",
+        "X3": 6.6e-101,
+        "X4": 372.1,
+        "X5": null,
+        "X6": "GO:0005575,GO:0016020",
+        "X7": "K02025,K15771",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01R0F@aproNOG,05HS6@bactNOG,16S4H@proNOG,COG1175@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "G",
+        "X13": "Binding-protein-dependent transport systems inner membrane component"
+      }
     }
   ],
   "seqname": "MAG06_37",

@@ -22,7 +22,22 @@
       "sscore": "4.53",
       "rscore": "2.03",
       "uscore": "-0.49",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_494_2",
+        "X2": "639283.Snov_1578",
+        "X3": 6.9e-40,
+        "X4": 169.1,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01X6V@aproNOG,08URG@bactNOG,176M8@proNOG,COG3090@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "P",
+        "X13": "Tripartite ATP-independent periplasmic transporter, DctQ"
+      }
     },
     {
       "seqnames": "MAG06_431",
@@ -46,7 +61,22 @@
       "sscore": "6.36",
       "rscore": "4.39",
       "uscore": "0.37",
-      "tscore": "2.10"
+      "tscore": "2.10",
+      "eggnog": {
+        "X1": "MAG06_494_3",
+        "X2": "639283.Snov_1577",
+        "X3": 3.8e-135,
+        "X4": 486.5,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01T66@aproNOG,05CG6@bactNOG,16PBP@proNOG,COG1593@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "G",
+        "X13": "Trap dicarboxylate transporter, dctm subunit"
+      }
     },
     {
       "seqnames": "MAG06_431",
@@ -70,7 +100,22 @@
       "sscore": "4.15",
       "rscore": "8.85",
       "uscore": "1.09",
-      "tscore": "-5.79"
+      "tscore": "-5.79",
+      "eggnog": {
+        "X1": "MAG06_495_1",
+        "X2": "266834.SMc02483",
+        "X3": 7.2e-122,
+        "X4": 441.8,
+        "X5": "SUCB",
+        "X6": "GO:0003674,GO:0003824,GO:0004149,GO:0005488,GO:0005504,GO:0005575,GO:0005622,GO:0005623,GO:0005737,GO:0006091,GO:0006099,GO:0008150,GO:0008152,GO:0008289,GO:0009060,GO:0009987,GO:0015980,GO:0016417,GO:0016740,GO:0016746,GO:0016747,GO:0016748,GO:0016751,GO:0031405,GO:0031406,GO:0032991,GO:0033293,GO:0043167,GO:0043168,GO:0043234,GO:0044237,GO:0044238,GO:0044424,GO:0044444,GO:0044464,GO:0044710,GO:0045239,GO:0045240,GO:0045252,GO:0045333,GO:0048037,GO:0050662,GO:0055114,GO:0097159,GO:1901363,GO:1901681",
+        "X7": "K00627,K00658",
+        "X8": "AKGDH,AKGDb,OXOADLR",
+        "X9": "bactNOG[38]",
+        "X10": "01QHZ@aproNOG,05C7S@bactNOG,16PK1@proNOG,COG0508@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "C",
+        "X13": "Dihydrolipoamide succinyltransferase"
+      }
     },
     {
       "seqnames": "MAG06_431",
@@ -94,7 +139,22 @@
       "sscore": "3.22",
       "rscore": "0.00",
       "uscore": "0.00",
-      "tscore": "3.22"
+      "tscore": "3.22",
+      "eggnog": {
+        "X1": "MAG06_495_2",
+        "X2": "266834.SMc02484",
+        "X3": 2.1e-107,
+        "X4": 393.7,
+        "X5": "RHTC",
+        "X6": null,
+        "X7": "K05835",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01WYQ@aproNOG,05CCF@bactNOG,16QQW@proNOG,COG1280@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "E",
+        "X13": "lysine exporter protein LysE YggA"
+      }
     }
   ],
   "seqname": "MAG06_431",

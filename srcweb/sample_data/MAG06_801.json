@@ -22,7 +22,22 @@
       "sscore": "3.22",
       "rscore": "0.00",
       "uscore": "0.00",
-      "tscore": "3.22"
+      "tscore": "3.22",
+      "eggnog": {
+        "X1": "MAG06_774_2",
+        "X2": "266834.SMc00413",
+        "X3": 4.1e-108,
+        "X4": 396,
+        "X5": "ORF162",
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01YDH@aproNOG,08ZKS@bactNOG,17CQR@proNOG,COG0406@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "G",
+        "X13": "phosphoglycerate mutase"
+      }
     },
     {
       "seqnames": "MAG06_801",
@@ -46,7 +61,22 @@
       "sscore": "15.99",
       "rscore": "13.75",
       "uscore": "-2.13",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_774_3",
+        "X2": "266834.SMc00412",
+        "X3": 1.9e-93,
+        "X4": 347.1,
+        "X5": "PYRF",
+        "X6": "GO:0003674,GO:0003824,GO:0004590,GO:0005575,GO:0005622,GO:0005623,GO:0005737,GO:0006139,GO:0006206,GO:0006207,GO:0006220,GO:0006221,GO:0006725,GO:0006753,GO:0006793,GO:0006796,GO:0006807,GO:0008150,GO:0008152,GO:0009058,GO:0009112,GO:0009117,GO:0009165,GO:0009218,GO:0009220,GO:0009259,GO:0009260,GO:0009987,GO:0015949,GO:0016829,GO:0016830,GO:0016831,GO:0018130,GO:0019438,GO:0019637,GO:0019693,GO:0019856,GO:0034641,GO:0034654,GO:0044237,GO:0044238,GO:0044249,GO:0044271,GO:0044281,GO:0044424,GO:0044464,GO:0044710,GO:0046112,GO:0046390,GO:0046483,GO:0055086,GO:0071704,GO:0072527,GO:0072528,GO:0090407,GO:1901135,GO:1901137,GO:1901293,GO:1901360,GO:1901362,GO:1901564,GO:1901566,GO:1901576",
+        "X7": "K01591",
+        "X8": "OMPDC",
+        "X9": "bactNOG[38]",
+        "X10": "01SNA@aproNOG,06EG9@bactNOG,16QWC@proNOG,COG0284@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "F",
+        "X13": "Catalyzes the decarboxylation of orotidine 5'- monophosphate (OMP) to uridine 5'-monophosphate (UMP) (By similarity)"
+      }
     },
     {
       "seqnames": "MAG06_801",
@@ -70,7 +100,22 @@
       "sscore": "15.81",
       "rscore": "10.54",
       "uscore": "0.33",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_775_1",
+        "X2": "266834.SMc00701",
+        "X3": 3.6e-275,
+        "X4": 952.2,
+        "X5": "COBT",
+        "X6": null,
+        "X7": "K09883",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01QEC@aproNOG,05DD8@bactNOG,16QVC@proNOG,COG4547@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "H",
+        "X13": "Cobalt chelatase, pCobT subunit"
+      }
     },
     {
       "seqnames": "MAG06_801",
@@ -94,7 +139,22 @@
       "sscore": "12.56",
       "rscore": "7.63",
       "uscore": "-2.48",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_775_2",
+        "X2": "266834.SMc00700",
+        "X3": 1e-185,
+        "X4": 654.4,
+        "X5": "COBS",
+        "X6": null,
+        "X7": "K04748,K09882",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01QP3@aproNOG,05DEJ@bactNOG,16PSR@proNOG,COG0714@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "H",
+        "X13": "cobaltochelatase, CobS subunit"
+      }
     }
   ],
   "seqname": "MAG06_801",

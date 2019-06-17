@@ -22,7 +22,22 @@
       "sscore": "3.22",
       "rscore": "0.00",
       "uscore": "0.00",
-      "tscore": "3.22"
+      "tscore": "3.22",
+      "eggnog": {
+        "X1": "MAG06_1009_3",
+        "X2": "479434.Sthe_3299",
+        "X3": 8.9e-50,
+        "X4": 202.6,
+        "X5": null,
+        "X6": "GO:0005575,GO:0016020",
+        "X7": "K02053,K11070,K11078",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "05D6R@bactNOG,COG1177@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "E",
+        "X13": "Binding-protein-dependent transport systems, inner membrane component"
+      }
     },
     {
       "seqnames": "MAG06_89",
@@ -46,7 +61,22 @@
       "sscore": "11.56",
       "rscore": "7.85",
       "uscore": "0.06",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_214_1",
+        "X2": "266834.SMc01038",
+        "X3": 7e-26,
+        "X4": 120.9,
+        "X5": "YFJG",
+        "X6": "GO:0003674,GO:0005488,GO:0006417,GO:0006446,GO:0008150,GO:0009889,GO:0009890,GO:0009892,GO:0010468,GO:0010556,GO:0010558,GO:0010605,GO:0010608,GO:0017148,GO:0019222,GO:0031323,GO:0031324,GO:0031326,GO:0031327,GO:0032268,GO:0032269,GO:0043021,GO:0043023,GO:0045947,GO:0048519,GO:0048523,GO:0050789,GO:0050794,GO:0051246,GO:0051248,GO:0060255,GO:0065007,GO:0080090,GO:2000112,GO:2000113",
+        "X7": "K18588",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01X62@aproNOG,08Z1B@bactNOG,17CB7@proNOG,COG2867@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "I",
+        "X13": "Cyclase dehydrase"
+      }
     },
     {
       "seqnames": "MAG06_89",
@@ -70,7 +100,22 @@
       "sscore": "6.27",
       "rscore": "1.90",
       "uscore": "0.96",
-      "tscore": "3.41"
+      "tscore": "3.41",
+      "eggnog": {
+        "X1": "MAG06_214_2",
+        "X2": "266834.SMc01039",
+        "X3": 1.2e-81,
+        "X4": 307.8,
+        "X5": "CINA",
+        "X6": "GO:0003674,GO:0003824,GO:0008150,GO:0008152,GO:0016787,GO:0016810,GO:0016811,GO:0019159",
+        "X7": "K03742,K03743",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01Y60@aproNOG,07TH8@bactNOG,17C8N@proNOG,COG1546@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "cina domain protein"
+      }
     },
     {
       "seqnames": "MAG06_89",
@@ -94,7 +139,22 @@
       "sscore": "14.83",
       "rscore": "10.54",
       "uscore": "-0.22",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_214_3",
+        "X2": "266834.SMc01040",
+        "X3": 2.1e-225,
+        "X4": 786.6,
+        "X5": "ISPF",
+        "X6": "GO:0003674,GO:0003824,GO:0006732,GO:0006733,GO:0006743,GO:0006744,GO:0008150,GO:0008152,GO:0008685,GO:0009058,GO:0009108,GO:0009987,GO:0016829,GO:0016849,GO:0042180,GO:0042181,GO:0042375,GO:0044237,GO:0044249,GO:0044281,GO:0044283,GO:0044710,GO:0044711,GO:0045426,GO:0051186,GO:0051188,GO:0071704,GO:1901576,GO:1901661,GO:1901663",
+        "X7": "K01770,K12506",
+        "X8": "MECDPS,MEPCT",
+        "X9": "bactNOG[38]",
+        "X10": "01QCA@aproNOG,08UH8@bactNOG,179PS@proNOG,COG0245@NOG,COG1211@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "I",
+        "X13": "Bifunctional enzyme that catalyzes the formation of 4- diphosphocytidyl-2-C-methyl-D-erythritol from CTP and 2-C-methyl- D-erythritol 4-phosphate (MEP) (IspD), and catalyzes the conversion of 4-diphosphocytidyl-2-C-methyl-D-erythritol 2- phosphate (CDP-ME2P) to 2-C-methyl-D-erythritol 2,4- cyclodiphosphate (ME-CPP) with a corresponding release of cytidine 5-monophosphate (CMP) (IspF) (By similarity)"
+      }
     },
     {
       "seqnames": "MAG06_89",
@@ -118,7 +178,22 @@
       "sscore": "7.39",
       "rscore": "2.03",
       "uscore": "0.83",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_215_1",
+        "X2": "176299.Atu2708",
+        "X3": 2.1e-57,
+        "X4": 226.9,
+        "X5": null,
+        "X6": null,
+        "X7": "K07783,K08191",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01TXC@aproNOG,05CSP@bactNOG,0XNQ6@NOG,174FJ@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": "G",
+        "X13": "Major facilitator superfamily"
+      }
     },
     {
       "seqnames": "MAG06_89",
@@ -142,7 +217,22 @@
       "sscore": "2.68",
       "rscore": "2.03",
       "uscore": "-2.99",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_215_10",
+        "X2": "266834.SMc02895",
+        "X3": 5.9e-167,
+        "X4": 592,
+        "X5": "YWKB",
+        "X6": "GO:0003674,GO:0005215,GO:0005342,GO:0006810,GO:0008150,GO:0009987,GO:0015849,GO:0022857,GO:0022891,GO:0022892,GO:0044699,GO:0044763,GO:0044765,GO:0051179,GO:0051234,GO:0055085,GO:0071702",
+        "X7": "K07088,K13936",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01T62@aproNOG,08FAC@bactNOG,16VTU@proNOG,COG0679@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "auxin efflux carrier"
+      }
     }
   ],
   "seqname": "MAG06_89",

@@ -22,7 +22,22 @@
       "sscore": "2.72",
       "rscore": "0.00",
       "uscore": "0.00",
-      "tscore": "3.22"
+      "tscore": "3.22",
+      "eggnog": {
+        "X1": "MAG06_30_2",
+        "X2": "266834.SMc02371",
+        "X3": 2e-170,
+        "X4": 603.6,
+        "X5": null,
+        "X6": null,
+        "X7": "K15270",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "02E3D@aproNOG,08I0N@bactNOG,0XQ0X@NOG,172GK@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "transporter, RarD family, DMT superfamily"
+      }
     },
     {
       "seqnames": "MAG06_186",
@@ -46,7 +61,22 @@
       "sscore": "2.71",
       "rscore": "-0.37",
       "uscore": "-0.57",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_30_3",
+        "X2": "266834.SMc02372",
+        "X3": 1.3e-233,
+        "X4": 813.9,
+        "X5": "YCAD",
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01Q73@aproNOG,08ISG@bactNOG,0Y0GE@NOG,175SH@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": "G",
+        "X13": "Major facilitator superfamily"
+      }
     },
     {
       "seqnames": "MAG06_186",
@@ -70,7 +100,22 @@
       "sscore": "3.22",
       "rscore": "0.00",
       "uscore": "0.00",
-      "tscore": "3.22"
+      "tscore": "3.22",
+      "eggnog": {
+        "X1": "MAG06_300_1",
+        "X2": "266834.SMc04390",
+        "X3": 0,
+        "X4": 1133.2,
+        "X5": "BETA",
+        "X6": "GO:0005575,GO:0005623,GO:0005886,GO:0016020,GO:0044464,GO:0071944",
+        "X7": "K00108",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01QKF@aproNOG,05CZ6@bactNOG,16Q7M@proNOG,COG2303@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "E",
+        "X13": "Can catalyze the oxidation of choline to betaine aldehyde and betaine aldehyde to glycine betaine (By similarity)"
+      }
     }
   ],
   "seqname": "MAG06_186",

@@ -22,7 +22,22 @@
       "sscore": "0.48",
       "rscore": "-3.78",
       "uscore": "1.26",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_66_12",
+        "X2": "266834.SMc01781",
+        "X3": 3.5e-87,
+        "X4": 326.2,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01YSM@aproNOG,05G4E@bactNOG,17F3D@proNOG,COG2913@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "J",
+        "X13": "SmpA / OmlA family"
+      }
     },
     {
       "seqnames": "MAG06_646",
@@ -46,7 +61,22 @@
       "sscore": "8.62",
       "rscore": "2.03",
       "uscore": "2.95",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_66_13",
+        "X2": "266834.SMc01780",
+        "X3": 0,
+        "X4": 1176.4,
+        "X5": "HPPA",
+        "X6": "GO:0005575,GO:0005622,GO:0005623,GO:0005737,GO:0005886,GO:0016020,GO:0020022,GO:0031090,GO:0033102,GO:0043226,GO:0043227,GO:0043229,GO:0043231,GO:0044422,GO:0044424,GO:0044444,GO:0044464,GO:0071944",
+        "X7": "K15987",
+        "X8": "PPA_1pp",
+        "X9": "bactNOG[38]",
+        "X10": "01QFW@aproNOG,05EAY@bactNOG,16SME@proNOG,COG3808@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "C",
+        "X13": "Proton pump that utilizes the energy of pyrophosphate hydrolysis as the driving force for proton movement across the membrane. Generates a proton motive force (By similarity)"
+      }
     },
     {
       "seqnames": "MAG06_646",
@@ -70,7 +100,22 @@
       "sscore": "6.97",
       "rscore": "2.03",
       "uscore": "-0.90",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_66_4",
+        "X2": "366394.Smed_0217",
+        "X3": 4.3e-09,
+        "X4": 65.9,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "02AQG@aproNOG,07DFZ@bactNOG,0ZH88@NOG,185TY@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": null,
+        "X13": null
+      }
     }
   ],
   "seqname": "MAG06_646",

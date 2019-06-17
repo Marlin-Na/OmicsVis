@@ -22,7 +22,22 @@
       "sscore": "-0.20",
       "rscore": "-4.72",
       "uscore": "-0.01",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_893_3",
+        "X2": "266834.SMc02657",
+        "X3": 6.5e-45,
+        "X4": 184.9,
+        "X5": null,
+        "X6": null,
+        "X7": "K07062",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "0208Q@aproNOG,08ZN5@bactNOG,17FCQ@proNOG,COG1487@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "PilT protein"
+      }
     },
     {
       "seqnames": "MAG06_947",
@@ -46,7 +61,22 @@
       "sscore": "-7.67",
       "rscore": "1.90",
       "uscore": "1.27",
-      "tscore": "-10.83"
+      "tscore": "-10.83",
+      "eggnog": {
+        "X1": "MAG06_893_4",
+        "X2": "266834.SMc02656",
+        "X3": 1.1e-19,
+        "X4": 100.1,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "02AU8@aproNOG,074P5@bactNOG,0ZBB9@NOG,186Q2@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "Protein of unknown function (DUF3563)"
+      }
     },
     {
       "seqnames": "MAG06_947",
@@ -70,7 +100,22 @@
       "sscore": "17.14",
       "rscore": "13.75",
       "uscore": "-0.26",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_893_5",
+        "X2": "266834.SMc02655",
+        "X3": 8.8e-94,
+        "X4": 348.2,
+        "X5": null,
+        "X6": null,
+        "X7": "K09928",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01XWY@aproNOG,090HM@bactNOG,178NB@proNOG,COG3216@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "Uncharacterized protein conserved in bacteria (DUF2062)"
+      }
     },
     {
       "seqnames": "MAG06_947",
@@ -94,7 +139,22 @@
       "sscore": "3.30",
       "rscore": "2.03",
       "uscore": "-2.37",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_893_6",
+        "X2": "266834.SMc02654",
+        "X3": 2.1e-71,
+        "X4": 273.5,
+        "X5": "ACPS",
+        "X6": "GO:0003674,GO:0003824,GO:0005575,GO:0005622,GO:0005623,GO:0005737,GO:0006082,GO:0006464,GO:0006629,GO:0006631,GO:0006633,GO:0008150,GO:0008152,GO:0008610,GO:0008897,GO:0009058,GO:0009987,GO:0016053,GO:0016740,GO:0016772,GO:0016780,GO:0018070,GO:0018193,GO:0018209,GO:0018215,GO:0019538,GO:0019752,GO:0032787,GO:0036211,GO:0043170,GO:0043412,GO:0043436,GO:0044237,GO:0044238,GO:0044249,GO:0044255,GO:0044260,GO:0044267,GO:0044281,GO:0044283,GO:0044424,GO:0044464,GO:0044710,GO:0044711,GO:0046394,GO:0071704,GO:0072330,GO:1901576",
+        "X7": "K00997",
+        "X8": "ACPS1",
+        "X9": "bactNOG[38]",
+        "X10": "01X72@aproNOG,05KJV@bactNOG,17JUA@proNOG,COG0736@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "I",
+        "X13": "Transfers the 4'-phosphopantetheine moiety from coenzyme A to a Ser of acyl-carrier-protein (By similarity)"
+      }
     }
   ],
   "seqname": "MAG06_947",

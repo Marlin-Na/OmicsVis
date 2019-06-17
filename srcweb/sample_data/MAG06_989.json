@@ -22,7 +22,8 @@
       "sscore": "10.45",
       "rscore": "5.51",
       "uscore": "-1.34",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {}
     },
     {
       "seqnames": "MAG06_989",
@@ -46,7 +47,8 @@
       "sscore": "3.22",
       "rscore": "0.00",
       "uscore": "0.00",
-      "tscore": "3.22"
+      "tscore": "3.22",
+      "eggnog": {}
     }
   ],
   "seqname": "MAG06_989",

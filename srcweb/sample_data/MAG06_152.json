@@ -22,7 +22,22 @@
       "sscore": "3.22",
       "rscore": "0.00",
       "uscore": "0.00",
-      "tscore": "3.22"
+      "tscore": "3.22",
+      "eggnog": {
+        "X1": "MAG06_269_1",
+        "X2": "266834.SMc02431",
+        "X3": 3.4e-178,
+        "X4": 629.4,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01SZ3@aproNOG,05C8F@bactNOG,16PM3@proNOG,COG0491@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "metallo-beta-lactamase family"
+      }
     },
     {
       "seqnames": "MAG06_152",
@@ -46,7 +61,22 @@
       "sscore": "7.24",
       "rscore": "3.33",
       "uscore": "0.27",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_269_2",
+        "X2": "266834.SMc02429",
+        "X3": 1.3e-54,
+        "X4": 217.6,
+        "X5": "YCAN",
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01TSZ@aproNOG,0642W@bactNOG,0XSPG@NOG,16TEJ@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": "K",
+        "X13": "LysR family transcriptional regulator"
+      }
     },
     {
       "seqnames": "MAG06_152",
@@ -70,7 +100,22 @@
       "sscore": "13.33",
       "rscore": "7.85",
       "uscore": "0.57",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_27_1",
+        "X2": "266834.SMc00235",
+        "X3": 8.6e-180,
+        "X4": 634.8,
+        "X5": "TRPD",
+        "X6": "GO:0005575,GO:0005576,GO:0005623,GO:0005886,GO:0008150,GO:0016020,GO:0040007,GO:0044464,GO:0071944",
+        "X7": "K00766",
+        "X8": "ANPRT",
+        "X9": "bactNOG[38]",
+        "X10": "02E3F@aproNOG,08I0Q@bactNOG,172GM@proNOG,COG0547@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "E",
+        "X13": "Anthranilate phosphoribosyltransferase"
+      }
     },
     {
       "seqnames": "MAG06_152",
@@ -94,7 +139,22 @@
       "sscore": "6.47",
       "rscore": "-4.72",
       "uscore": "1.54",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_27_2",
+        "X2": "266834.SMc00234",
+        "X3": 0,
+        "X4": 1172.5,
+        "X5": "PPID",
+        "X6": null,
+        "X7": "K01802,K03770",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01S0P@aproNOG,07RM4@bactNOG,16UMN@proNOG,COG0760@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "O",
+        "X13": "Peptidyl-prolyl cis-trans isomerase"
+      }
     },
     {
       "seqnames": "MAG06_152",
@@ -118,7 +178,22 @@
       "sscore": "11.15",
       "rscore": "7.44",
       "uscore": "0.25",
-      "tscore": "3.46"
+      "tscore": "3.46",
+      "eggnog": {
+        "X1": "MAG06_27_3",
+        "X2": "266834.SMc00233",
+        "X3": 4.6e-292,
+        "X4": 1008.4,
+        "X5": "YJBB",
+        "X6": "GO:0003674,GO:0005215,GO:0005315,GO:0005575,GO:0005623,GO:0005886,GO:0006810,GO:0006811,GO:0006817,GO:0006820,GO:0008150,GO:0009987,GO:0015291,GO:0015698,GO:0016020,GO:0022804,GO:0022857,GO:0034220,GO:0035435,GO:0044464,GO:0044699,GO:0044763,GO:0044765,GO:0051179,GO:0051234,GO:0055085,GO:0071944,GO:1901677",
+        "X7": "K03324",
+        "X8": "PIt7ipp",
+        "X9": "bactNOG[38]",
+        "X10": "01RDD@aproNOG,05EAM@bactNOG,16QIJ@proNOG,COG1283@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "P",
+        "X13": "Na Pi-cotransporter"
+      }
     },
     {
       "seqnames": "MAG06_152",
@@ -142,7 +217,22 @@
       "sscore": "7.14",
       "rscore": "11.55",
       "uscore": "0.09",
-      "tscore": "-5.79"
+      "tscore": "-5.79",
+      "eggnog": {
+        "X1": "MAG06_27_4",
+        "X2": "266834.SMc00232",
+        "X3": 3.5e-245,
+        "X4": 852.4,
+        "X5": "GLMU",
+        "X6": "GO:0000270,GO:0000271,GO:0000287,GO:0003674,GO:0003824,GO:0003977,GO:0005488,GO:0005515,GO:0005575,GO:0005622,GO:0005623,GO:0005737,GO:0005975,GO:0005976,GO:0006022,GO:0006023,GO:0006024,GO:0006040,GO:0006047,GO:0006048,GO:0006139,GO:0006461,GO:0006629,GO:0006725,GO:0006753,GO:0006793,GO:0006796,GO:0006807,GO:0008080,GO:0008150,GO:0008152,GO:0008610,GO:0008653,GO:0009058,GO:0009059,GO:0009103,GO:0009117,GO:0009165,GO:0009225,GO:0009226,GO:0009252,GO:0009273,GO:0009987,GO:0016043,GO:0016051,GO:0016407,GO:0016410,GO:0016740,GO:0016746,GO:0016747,GO:0016772,GO:0016779,GO:0018130,GO:0019134,GO:0019438,GO:0019637,GO:0022607,GO:0030203,GO:0033692,GO:0034637,GO:0034641,GO:0034645,GO:0034654,GO:0040007,GO:0042546,GO:0042802,GO:0043167,GO:0043169,GO:0043170,GO:0043933,GO:0044036,GO:0044038,GO:0044085,GO:0044237,GO:0044238,GO:0044249,GO:0044255,GO:0044260,GO:0044262,GO:0044264,GO:0044271,GO:0044281,GO:0044424,GO:0044464,GO:0044699,GO:0044710,GO:0044723,GO:0044763,GO:0046349,GO:0046483,GO:0046872,GO:0051259,GO:0051260,GO:0055086,GO:0065003,GO:0070206,GO:0070207,GO:0070271,GO:0070569,GO:0070589,GO:0071554,GO:0071704,GO:0071822,GO:0071840,GO:0090407,GO:1901135,GO:1901137,GO:1901293,GO:1901360,GO:1901362,GO:1901564,GO:1901566,GO:1901576",
+        "X7": "K04042,K11528",
+        "X8": "G1PACT,UAGDP",
+        "X9": "bactNOG[38]",
+        "X10": "01SH6@aproNOG,05CAJ@bactNOG,16PU0@proNOG,COG1207@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "M",
+        "X13": "Catalyzes the last two sequential reactions in the de novo biosynthetic pathway for UDP-N-acetylglucosamine (UDP- GlcNAc). The C-terminal domain catalyzes the transfer of acetyl group from acetyl coenzyme A to glucosamine-1-phosphate (GlcN-1-P) to produce N-acetylglucosamine-1-phosphate (GlcNAc-1-P), which is converted into UDP-GlcNAc by the transfer of uridine 5- monophosphate (from uridine 5-triphosphate), a reaction catalyzed by the N-terminal domain (By similarity)"
+      }
     },
     {
       "seqnames": "MAG06_152",
@@ -166,7 +256,22 @@
       "sscore": "12.25",
       "rscore": "7.63",
       "uscore": "0.98",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_270_1",
+        "X2": "266834.SMc02548",
+        "X3": 4.8e-27,
+        "X4": 124.8,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01YMH@aproNOG,05XG8@bactNOG,17D37@proNOG,COG3791@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "Glutathione-dependent formaldehyde-activating protein"
+      }
     },
     {
       "seqnames": "MAG06_152",
@@ -190,7 +295,22 @@
       "sscore": "18.46",
       "rscore": "13.75",
       "uscore": "1.72",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_270_2",
+        "X2": "266834.SMc02547",
+        "X3": 5.8e-194,
+        "X4": 681.8,
+        "X5": "PIP",
+        "X6": "GO:0008150,GO:0008152,GO:0009987,GO:0019538,GO:0043170,GO:0044237,GO:0044238,GO:0044260,GO:0044267,GO:0071704",
+        "X7": "K01259",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01QK6@aproNOG,05EGK@bactNOG,0XPKQ@NOG,16PXW@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": "E",
+        "X13": "Proline imino-peptidase"
+      }
     },
     {
       "seqnames": "MAG06_152",
@@ -214,7 +334,22 @@
       "sscore": "12.62",
       "rscore": "7.85",
       "uscore": "1.78",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_270_3",
+        "X2": "266834.SMc02546",
+        "X3": 3.1e-60,
+        "X4": 236.1,
+        "X5": "LEUA2",
+        "X6": null,
+        "X7": "K01649",
+        "X8": "CITMS,IPPS",
+        "X9": "bactNOG[38]",
+        "X10": "01R17@aproNOG,05CYQ@bactNOG,16QMF@proNOG,COG0119@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "E",
+        "X13": "2-isopropylmalate synthase"
+      }
     },
     {
       "seqnames": "MAG06_152",
@@ -238,7 +373,22 @@
       "sscore": "13.85",
       "rscore": "7.85",
       "uscore": "2.35",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_271_2",
+        "X2": "366394.Smed_1506",
+        "X3": 1.6e-36,
+        "X4": 156.8,
+        "X5": "BOLA",
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "021G8@aproNOG,05KEH@bactNOG,17FKD@proNOG,COG0271@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "T",
+        "X13": "BolA-like protein"
+      }
     },
     {
       "seqnames": "MAG06_152",
@@ -262,7 +412,22 @@
       "sscore": "8.15",
       "rscore": "2.03",
       "uscore": "1.18",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_271_4",
+        "X2": "266834.SMc00538",
+        "X3": 7.2e-59,
+        "X4": 231.5,
+        "X5": "GRLA",
+        "X6": null,
+        "X7": "K07390",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01Y3V@aproNOG,05M2J@bactNOG,17FFM@proNOG,COG0278@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "O",
+        "X13": "Glutaredoxin"
+      }
     },
     {
       "seqnames": "MAG06_152",
@@ -286,7 +451,8 @@
       "sscore": "-0.39",
       "rscore": "-4.72",
       "uscore": "0.68",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {}
     },
     {
       "seqnames": "MAG06_152",
@@ -310,7 +476,22 @@
       "sscore": "21.15",
       "rscore": "13.75",
       "uscore": "2.90",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_271_5",
+        "X2": "266834.SMc00537",
+        "X3": 7.7e-215,
+        "X4": 751.5,
+        "X5": "BCR",
+        "X6": null,
+        "X7": "K07552,K18552",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01RDG@aproNOG,05C2C@bactNOG,0XNNX@NOG,16SB6@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": "P",
+        "X13": "drug resistance transporter, Bcr CflA"
+      }
     },
     {
       "seqnames": "MAG06_152",
@@ -334,7 +515,22 @@
       "sscore": "14.84",
       "rscore": "10.54",
       "uscore": "-0.57",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_271_6",
+        "X2": "366394.Smed_1510",
+        "X3": 4e-222,
+        "X4": 775.8,
+        "X5": null,
+        "X6": null,
+        "X7": "K07552,K18552",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01RDG@aproNOG,05C2C@bactNOG,0XNNX@NOG,16SB6@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": "P",
+        "X13": "drug resistance transporter, Bcr CflA"
+      }
     },
     {
       "seqnames": "MAG06_152",
@@ -358,7 +554,22 @@
       "sscore": "3.19",
       "rscore": "-0.69",
       "uscore": "0.89",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_271_7",
+        "X2": "266834.SMc00535",
+        "X3": 1.4e-151,
+        "X4": 540.8,
+        "X5": null,
+        "X6": null,
+        "X7": "K01092",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01T1M@aproNOG,060BS@bactNOG,176U3@proNOG,COG0483@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "G",
+        "X13": "Inositol monophosphatase"
+      }
     },
     {
       "seqnames": "MAG06_152",
@@ -382,7 +593,22 @@
       "sscore": "9.67",
       "rscore": "7.63",
       "uscore": "-0.94",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_271_8",
+        "X2": "266834.SMc00534",
+        "X3": 3.4e-155,
+        "X4": 552.7,
+        "X5": "TTCA",
+        "X6": "GO:0005575,GO:0005622,GO:0005623,GO:0005737,GO:0006139,GO:0006396,GO:0006399,GO:0006400,GO:0006725,GO:0006807,GO:0008033,GO:0008150,GO:0008152,GO:0009451,GO:0009987,GO:0010467,GO:0016070,GO:0034470,GO:0034641,GO:0034660,GO:0043170,GO:0043412,GO:0044237,GO:0044238,GO:0044260,GO:0044424,GO:0044464,GO:0046483,GO:0071704,GO:0090304,GO:1901360",
+        "X7": "K14058",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01SJN@aproNOG,05CB3@bactNOG,16Q1M@proNOG,COG0037@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "D",
+        "X13": "Required for the thiolation of cytidine in position 32 of tRNA, to form 2-thiocytidine (s(2)C32) (By similarity)"
+      }
     },
     {
       "seqnames": "MAG06_152",
@@ -406,7 +632,22 @@
       "sscore": "-9.18",
       "rscore": "-4.72",
       "uscore": "0.41",
-      "tscore": "-4.87"
+      "tscore": "-4.87",
+      "eggnog": {
+        "X1": "MAG06_272_1",
+        "X2": "347834.RHE_CH03434",
+        "X3": 1.2e-99,
+        "X4": 368.2,
+        "X5": "DCTB",
+        "X6": "GO:0000155,GO:0000160,GO:0003674,GO:0003824,GO:0004672,GO:0004673,GO:0004871,GO:0004872,GO:0006464,GO:0006468,GO:0006793,GO:0006796,GO:0006810,GO:0006811,GO:0006820,GO:0006835,GO:0007154,GO:0007165,GO:0008150,GO:0008152,GO:0009987,GO:0015711,GO:0015740,GO:0015849,GO:0016301,GO:0016310,GO:0016740,GO:0016772,GO:0016773,GO:0016775,GO:0019538,GO:0023014,GO:0023052,GO:0036211,GO:0038023,GO:0043170,GO:0043412,GO:0044237,GO:0044238,GO:0044260,GO:0044267,GO:0044699,GO:0044700,GO:0044763,GO:0044765,GO:0046942,GO:0050789,GO:0050794,GO:0050896,GO:0051179,GO:0051234,GO:0051716,GO:0060089,GO:0065007,GO:0071702,GO:0071704",
+        "X7": "K10125,K14986",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01QWX@aproNOG,05CQZ@bactNOG,16Q6G@proNOG,COG4191@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "T",
+        "X13": "c4-dicarboxylate transport sensor protein"
+      }
     }
   ],
   "seqname": "MAG06_152",

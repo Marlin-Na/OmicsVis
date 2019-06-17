@@ -22,7 +22,22 @@
       "sscore": "3.49",
       "rscore": "1.02",
       "uscore": "-0.72",
-      "tscore": "3.20"
+      "tscore": "3.20",
+      "eggnog": {
+        "X1": "MAG06_827_8",
+        "X2": "266834.SMc01150",
+        "X3": 7.6e-234,
+        "X4": 814.7,
+        "X5": null,
+        "X6": null,
+        "X7": "K03088",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01S9X@aproNOG,05CHP@bactNOG,16PYA@proNOG,COG4941@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "K",
+        "X13": "RNA Polymerase"
+      }
     },
     {
       "seqnames": "MAG06_868",
@@ -46,7 +61,22 @@
       "sscore": "8.10",
       "rscore": "2.74",
       "uscore": "0.96",
-      "tscore": "3.20"
+      "tscore": "3.20",
+      "eggnog": {
+        "X1": "MAG06_827_9",
+        "X2": "266834.SMc01149",
+        "X3": 7.4e-89,
+        "X4": 331.6,
+        "X5": "BMUL_5371",
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01XDV@aproNOG,08UP2@bactNOG,179UA@proNOG,COG3832@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "activator of Hsp90 ATPase 1 family protein"
+      }
     },
     {
       "seqnames": "MAG06_868",
@@ -70,7 +100,22 @@
       "sscore": "15.88",
       "rscore": "11.01",
       "uscore": "0.37",
-      "tscore": "3.20"
+      "tscore": "3.20",
+      "eggnog": {
+        "X1": "MAG06_828_1",
+        "X2": "266834.SMc03230",
+        "X3": 1.2e-198,
+        "X4": 697.6,
+        "X5": "GCP",
+        "X6": "GO:0001948,GO:0003674,GO:0003824,GO:0004175,GO:0004222,GO:0005488,GO:0005515,GO:0005575,GO:0005576,GO:0005622,GO:0005623,GO:0005737,GO:0005829,GO:0006139,GO:0006396,GO:0006399,GO:0006400,GO:0006508,GO:0006725,GO:0006807,GO:0008033,GO:0008150,GO:0008152,GO:0008233,GO:0008237,GO:0009116,GO:0009119,GO:0009451,GO:0009987,GO:0010467,GO:0016070,GO:0016787,GO:0019538,GO:0034470,GO:0034641,GO:0034660,GO:0042278,GO:0042802,GO:0043170,GO:0043412,GO:0044237,GO:0044238,GO:0044260,GO:0044281,GO:0044424,GO:0044444,GO:0044464,GO:0044710,GO:0046085,GO:0046128,GO:0046483,GO:0055086,GO:0070011,GO:0070525,GO:0070526,GO:0071704,GO:0072521,GO:0090304,GO:1901135,GO:1901360,GO:1901564,GO:1901657",
+        "X7": "K01409",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01R7P@aproNOG,05CPM@bactNOG,16Q7G@proNOG,COG0533@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "O",
+        "X13": "Required for the formation of a threonylcarbamoyl group on adenosine at position 37 (t(6)A37) in tRNAs that read codons beginning with adenine (By similarity)"
+      }
     },
     {
       "seqnames": "MAG06_868",
@@ -94,7 +139,22 @@
       "sscore": "13.54",
       "rscore": "9.04",
       "uscore": "-3.50",
-      "tscore": "3.20"
+      "tscore": "3.20",
+      "eggnog": {
+        "X1": "MAG06_828_2",
+        "X2": "266834.SMc03229",
+        "X3": 1.6e-142,
+        "X4": 510.8,
+        "X5": "GPSA",
+        "X6": "GO:0003674,GO:0003824,GO:0004367,GO:0005575,GO:0005622,GO:0005623,GO:0005737,GO:0006072,GO:0006629,GO:0006644,GO:0006650,GO:0006793,GO:0006796,GO:0008150,GO:0008152,GO:0008610,GO:0008654,GO:0009058,GO:0009987,GO:0016491,GO:0016614,GO:0016616,GO:0019637,GO:0044237,GO:0044238,GO:0044249,GO:0044255,GO:0044424,GO:0044464,GO:0044710,GO:0045017,GO:0046474,GO:0046486,GO:0047952,GO:0052646,GO:0055114,GO:0071704,GO:0090407,GO:1901135,GO:1901576",
+        "X7": "K00057",
+        "X8": "G3PD1,G3PD2,G3PD2_1",
+        "X9": "bactNOG[38]",
+        "X10": "01S54@aproNOG,05CSF@bactNOG,16QXB@proNOG,COG0240@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "C",
+        "X13": "NADPH-dependent glycerol-3-phosphate dehydrogenase"
+      }
     },
     {
       "seqnames": "MAG06_868",
@@ -118,7 +178,22 @@
       "sscore": "3.22",
       "rscore": "0.00",
       "uscore": "0.00",
-      "tscore": "3.22"
+      "tscore": "3.22",
+      "eggnog": {
+        "X1": "MAG06_829_2",
+        "X2": "266834.SMc01507",
+        "X3": 8e-283,
+        "X4": 977.6,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01WWM@aproNOG,08WHC@bactNOG,17BD6@proNOG,COG2203@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "T",
+        "X13": "Histidine kinase"
+      }
     }
   ],
   "seqname": "MAG06_868",

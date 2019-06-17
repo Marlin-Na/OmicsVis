@@ -22,7 +22,22 @@
       "sscore": "3.22",
       "rscore": "0.00",
       "uscore": "0.00",
-      "tscore": "3.22"
+      "tscore": "3.22",
+      "eggnog": {
+        "X1": "MAG06_394_6",
+        "X2": "311403.Arad_9570",
+        "X3": 1.9e-87,
+        "X4": 327.8,
+        "X5": "EXOH",
+        "X6": null,
+        "X7": "K16560",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "027WZ@aproNOG,05NXS@bactNOG,11X4W@NOG,17M3G@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "Succinoglycan biosynthesis protein"
+      }
     },
     {
       "seqnames": "MAG06_297",
@@ -46,7 +61,22 @@
       "sscore": "8.39",
       "rscore": "2.03",
       "uscore": "1.63",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_395_1",
+        "X2": "266834.SMc02874",
+        "X3": 1.4e-149,
+        "X4": 534.3,
+        "X5": "MURQ",
+        "X6": null,
+        "X7": "K07106",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01VUF@aproNOG,05E15@bactNOG,16RFP@proNOG,COG2103@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "M",
+        "X13": "N-acetylmuramic acid 6-phosphate etherase"
+      }
     },
     {
       "seqnames": "MAG06_297",
@@ -70,7 +100,22 @@
       "sscore": "9.14",
       "rscore": "3.33",
       "uscore": "1.08",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_395_2",
+        "X2": "266834.SMc02873",
+        "X3": 1.4e-248,
+        "X4": 863.6,
+        "X5": null,
+        "X6": "GO:0006810,GO:0008150,GO:0051179,GO:0051234",
+        "X7": "K02027,K10117",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01R1J@aproNOG,07YY3@bactNOG,16SFD@proNOG,COG1653@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "G",
+        "X13": "extracellular solute-binding protein"
+      }
     },
     {
       "seqnames": "MAG06_297",
@@ -94,7 +139,22 @@
       "sscore": "9.40",
       "rscore": "7.63",
       "uscore": "-1.22",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_395_3",
+        "X2": "266834.SMc02872",
+        "X3": 4.5e-175,
+        "X4": 619,
+        "X5": null,
+        "X6": "GO:0005575,GO:0016020",
+        "X7": "K10118",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01RZI@aproNOG,07Z9B@bactNOG,0XSXC@NOG,16QWV@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": "G",
+        "X13": "Binding-protein-dependent transport systems inner membrane component"
+      }
     }
   ],
   "seqname": "MAG06_297",

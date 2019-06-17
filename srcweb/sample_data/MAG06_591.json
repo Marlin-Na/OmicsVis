@@ -22,7 +22,22 @@
       "sscore": "3.22",
       "rscore": "0.00",
       "uscore": "0.00",
-      "tscore": "3.22"
+      "tscore": "3.22",
+      "eggnog": {
+        "X1": "MAG06_615_3",
+        "X2": "366394.Smed_1894",
+        "X3": 1.2e-185,
+        "X4": 654.4,
+        "X5": null,
+        "X6": null,
+        "X7": "K09960",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "021ST@aproNOG,090AG@bactNOG,177QE@proNOG,COG3566@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "Uncharacterized protein conserved in bacteria (DUF2213)"
+      }
     }
   ],
   "seqname": "MAG06_591",

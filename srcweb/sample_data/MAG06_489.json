@@ -22,7 +22,22 @@
       "sscore": "15.90",
       "rscore": "10.54",
       "uscore": "0.42",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_541_3",
+        "X2": "266834.SMc00087",
+        "X3": 3.1e-173,
+        "X4": 612.8,
+        "X5": "SCLAV_2565",
+        "X6": "GO:0003674,GO:0003824,GO:0006807,GO:0008150,GO:0008152,GO:0008800,GO:0009056,GO:0009308,GO:0009636,GO:0009987,GO:0016787,GO:0016810,GO:0016812,GO:0016999,GO:0017001,GO:0017144,GO:0030653,GO:0030655,GO:0034641,GO:0042221,GO:0043603,GO:0043605,GO:0044106,GO:0044237,GO:0044248,GO:0044270,GO:0044281,GO:0044710,GO:0046483,GO:0046677,GO:0046700,GO:0050896,GO:0071704,GO:0072338,GO:0072340,GO:1901360,GO:1901361,GO:1901564,GO:1901565,GO:1901575",
+        "X7": "K01069,K07455",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01TV1@aproNOG,05IPY@bactNOG,16VNJ@proNOG,COG0491@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "metallo-beta-lactamase family"
+      }
     },
     {
       "seqnames": "MAG06_489",
@@ -46,7 +61,22 @@
       "sscore": "6.08",
       "rscore": "2.03",
       "uscore": "0.41",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_542_1",
+        "X2": "266834.SMc01984",
+        "X3": 5.4e-70,
+        "X4": 268.9,
+        "X5": "COXO",
+        "X6": "GO:0005575,GO:0016020",
+        "X7": "K02276",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01VUB@aproNOG,08SX8@bactNOG,178TG@proNOG,COG1845@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "C",
+        "X13": "cytochrome c oxidase, subunit III"
+      }
     },
     {
       "seqnames": "MAG06_489",
@@ -70,7 +100,22 @@
       "sscore": "3.22",
       "rscore": "0.00",
       "uscore": "0.00",
-      "tscore": "3.22"
+      "tscore": "3.22",
+      "eggnog": {
+        "X1": "MAG06_542_2",
+        "X2": "266834.SMc01985",
+        "X3": 1e-134,
+        "X4": 484.6,
+        "X5": "COXP",
+        "X6": "GO:0005575,GO:0016020",
+        "X7": "K02276,K02299",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01VC7@aproNOG,05CCU@bactNOG,16PS2@proNOG,COG1845@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "C",
+        "X13": "cytochrome c oxidase, subunit III"
+      }
     }
   ],
   "seqname": "MAG06_489",

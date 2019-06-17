@@ -22,7 +22,22 @@
       "sscore": "3.22",
       "rscore": "0.00",
       "uscore": "0.00",
-      "tscore": "3.22"
+      "tscore": "3.22",
+      "eggnog": {
+        "X1": "MAG06_1037_4",
+        "X2": "252305.OB2597_14154",
+        "X3": 1.8e-113,
+        "X4": 414.5,
+        "X5": "ALC",
+        "X6": "GO:0003674,GO:0003824,GO:0004037,GO:0006139,GO:0006144,GO:0006145,GO:0006725,GO:0006807,GO:0008150,GO:0008152,GO:0009056,GO:0009112,GO:0009987,GO:0016787,GO:0016810,GO:0016813,GO:0019439,GO:0034641,GO:0044237,GO:0044238,GO:0044248,GO:0044270,GO:0044281,GO:0044710,GO:0046113,GO:0046483,GO:0046700,GO:0055086,GO:0071704,GO:0072521,GO:0072523,GO:1901360,GO:1901361,GO:1901564,GO:1901565,GO:1901575",
+        "X7": "K01477",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01V22@aproNOG,05DHG@bactNOG,16R2X@proNOG,COG4266@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "F",
+        "X13": "Allantoate amidinohydrolase"
+      }
     },
     {
       "seqnames": "MAG06_370",
@@ -46,7 +61,22 @@
       "sscore": "-2.58",
       "rscore": "7.63",
       "uscore": "-0.75",
-      "tscore": "-10.14"
+      "tscore": "-10.14",
+      "eggnog": {
+        "X1": "MAG06_1038_1",
+        "X2": "311402.Avi_5107",
+        "X3": 2e-261,
+        "X4": 906.7,
+        "X5": "YAGR",
+        "X6": "GO:0003674,GO:0003824,GO:0004854,GO:0005488,GO:0005575,GO:0005623,GO:0006139,GO:0006144,GO:0006725,GO:0006807,GO:0006950,GO:0006974,GO:0008150,GO:0008152,GO:0009112,GO:0009987,GO:0016491,GO:0016725,GO:0016726,GO:0016903,GO:0030151,GO:0033554,GO:0034641,GO:0042597,GO:0043167,GO:0043169,GO:0044237,GO:0044238,GO:0044281,GO:0044464,GO:0044699,GO:0044710,GO:0044763,GO:0046110,GO:0046483,GO:0046872,GO:0046914,GO:0050896,GO:0051716,GO:0055086,GO:0055114,GO:0071704,GO:0072521,GO:1901360,GO:1901564",
+        "X7": "K03520,K11177",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01QY7@aproNOG,05C7W@bactNOG,16PWW@proNOG,COG1529@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "F",
+        "X13": "Xanthine dehydrogenase"
+      }
     },
     {
       "seqnames": "MAG06_370",
@@ -70,7 +100,8 @@
       "sscore": "15.68",
       "rscore": "10.54",
       "uscore": "0.46",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {}
     },
     {
       "seqnames": "MAG06_370",
@@ -94,7 +125,8 @@
       "sscore": "11.97",
       "rscore": "7.85",
       "uscore": "1.13",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {}
     },
     {
       "seqnames": "MAG06_370",
@@ -118,7 +150,22 @@
       "sscore": "9.90",
       "rscore": "7.85",
       "uscore": "-1.60",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_449_9",
+        "X2": "311403.Arad_8130",
+        "X3": 3.2e-149,
+        "X4": 533.1,
+        "X5": "MALF2",
+        "X6": "GO:0005575,GO:0016020",
+        "X7": "K02025,K05814,K17316",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01R0F@aproNOG,05HS6@bactNOG,16S4H@proNOG,COG1175@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "G",
+        "X13": "Binding-protein-dependent transport systems inner membrane component"
+      }
     }
   ],
   "seqname": "MAG06_370",

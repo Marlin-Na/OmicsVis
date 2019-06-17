@@ -22,7 +22,22 @@
       "sscore": "4.43",
       "rscore": "2.03",
       "uscore": "-0.59",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_210_2",
+        "X2": "266834.SMc00588",
+        "X3": 6.4e-174,
+        "X4": 615.1,
+        "X5": "GAL",
+        "X6": "GO:0003674,GO:0003824,GO:0005975,GO:0005996,GO:0006012,GO:0008150,GO:0008152,GO:0009056,GO:0016052,GO:0016491,GO:0016614,GO:0016616,GO:0019151,GO:0019318,GO:0019320,GO:0019388,GO:0044238,GO:0044710,GO:0044723,GO:0044724,GO:0046365,GO:0055114,GO:0071704,GO:1901575",
+        "X7": "K00035,K13873",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01Q9I@aproNOG,05F6R@bactNOG,16PW4@proNOG,COG0673@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "G",
+        "X13": "1-dehydrogenase"
+      }
     },
     {
       "seqnames": "MAG06_85",
@@ -46,7 +61,22 @@
       "sscore": "12.33",
       "rscore": "7.63",
       "uscore": "1.05",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_210_3",
+        "X2": "266834.SMc00589",
+        "X3": 1.9e-164,
+        "X4": 583.6,
+        "X5": "SCLAV_5267",
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01VU6@aproNOG,05CG4@bactNOG,177UE@proNOG,COG0454@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "K",
+        "X13": "-acetyltransferase"
+      }
     },
     {
       "seqnames": "MAG06_85",
@@ -70,7 +100,22 @@
       "sscore": "1.95",
       "rscore": "10.54",
       "uscore": "0.26",
-      "tscore": "-10.14"
+      "tscore": "-10.14",
+      "eggnog": {
+        "X1": "MAG06_210_4",
+        "X2": "266834.SMc00590",
+        "X3": 0,
+        "X4": 1183.7,
+        "X5": "YHES",
+        "X6": "GO:0003674,GO:0003824,GO:0005215,GO:0006139,GO:0006152,GO:0006163,GO:0006195,GO:0006200,GO:0006725,GO:0006753,GO:0006793,GO:0006796,GO:0006807,GO:0006810,GO:0008150,GO:0008152,GO:0009056,GO:0009116,GO:0009117,GO:0009119,GO:0009123,GO:0009125,GO:0009126,GO:0009128,GO:0009141,GO:0009143,GO:0009144,GO:0009146,GO:0009150,GO:0009154,GO:0009158,GO:0009161,GO:0009164,GO:0009166,GO:0009167,GO:0009169,GO:0009199,GO:0009203,GO:0009205,GO:0009207,GO:0009259,GO:0009261,GO:0009987,GO:0015399,GO:0015405,GO:0016462,GO:0016787,GO:0016817,GO:0016818,GO:0016820,GO:0016887,GO:0017111,GO:0019439,GO:0019637,GO:0019693,GO:0022804,GO:0022857,GO:0034641,GO:0034655,GO:0042278,GO:0042454,GO:0042623,GO:0042626,GO:0043492,GO:0044237,GO:0044238,GO:0044248,GO:0044270,GO:0044281,GO:0044699,GO:0044710,GO:0044763,GO:0044765,GO:0046034,GO:0046128,GO:0046130,GO:0046434,GO:0046483,GO:0046700,GO:0051179,GO:0051234,GO:0055085,GO:0055086,GO:0071704,GO:0072521,GO:0072523,GO:1901135,GO:1901136,GO:1901292,GO:1901360,GO:1901361,GO:1901564,GO:1901565,GO:1901575,GO:1901657,GO:1901658",
+        "X7": "K06158",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01R9C@aproNOG,05C5H@bactNOG,16PJF@proNOG,COG0488@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "ABC transporter"
+      }
     },
     {
       "seqnames": "MAG06_85",
@@ -94,7 +139,8 @@
       "sscore": "0.36",
       "rscore": "-4.72",
       "uscore": "0.31",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {}
     },
     {
       "seqnames": "MAG06_85",
@@ -118,7 +164,22 @@
       "sscore": "6.97",
       "rscore": "10.54",
       "uscore": "-0.25",
-      "tscore": "-4.87"
+      "tscore": "-4.87",
+      "eggnog": {
+        "X1": "MAG06_210_6",
+        "X2": "266834.SMc00592",
+        "X3": 0,
+        "X4": 1161.4,
+        "X5": null,
+        "X6": null,
+        "X7": "K01897",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01S2E@aproNOG,05CEY@bactNOG,16RW0@proNOG,COG0318@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "Q",
+        "X13": "AmP-dependent synthetase and ligase"
+      }
     },
     {
       "seqnames": "MAG06_85",
@@ -142,7 +203,22 @@
       "sscore": "17.05",
       "rscore": "13.75",
       "uscore": "-0.34",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_210_7",
+        "X2": "266834.SMc00592",
+        "X3": 1.4e-151,
+        "X4": 540.8,
+        "X5": null,
+        "X6": null,
+        "X7": "K01897",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01S2E@aproNOG,05CEY@bactNOG,16RW0@proNOG,COG0318@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "Q",
+        "X13": "AmP-dependent synthetase and ligase"
+      }
     },
     {
       "seqnames": "MAG06_85",
@@ -166,7 +242,22 @@
       "sscore": "6.10",
       "rscore": "2.03",
       "uscore": "1.08",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_210_8",
+        "X2": "266834.SMc00593",
+        "X3": 2.5e-95,
+        "X4": 353.2,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01YKS@aproNOG,08ZVJ@bactNOG,17CYS@proNOG,COG2318@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "dinb family"
+      }
     },
     {
       "seqnames": "MAG06_85",
@@ -190,7 +281,22 @@
       "sscore": "8.56",
       "rscore": "7.63",
       "uscore": "-2.06",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_210_9",
+        "X2": "266834.SMc00594",
+        "X3": 1e-131,
+        "X4": 474.6,
+        "X5": "LIGE",
+        "X6": null,
+        "X7": "K00799",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01X7H@aproNOG,08X11@bactNOG,11J5J@NOG,17AEN@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": "O",
+        "X13": "Glutathione S-Transferase"
+      }
     },
     {
       "seqnames": "MAG06_85",
@@ -214,7 +320,22 @@
       "sscore": "-2.71",
       "rscore": "-4.72",
       "uscore": "-1.64",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_211_1",
+        "X2": "314256.OG2516_00869",
+        "X3": 1.7e-53,
+        "X4": 214.5,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "026MU@aproNOG,07071@bactNOG,17YG8@proNOG,COG0329@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "E, M",
+        "X13": "DHDPS"
+      }
     }
   ],
   "seqname": "MAG06_85",

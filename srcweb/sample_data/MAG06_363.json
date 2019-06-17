@@ -22,7 +22,22 @@
       "sscore": "5.74",
       "rscore": "13.75",
       "uscore": "2.13",
-      "tscore": "-10.14"
+      "tscore": "-10.14",
+      "eggnog": {
+        "X1": "MAG06_443_3",
+        "X2": "1037409.BJ6T_30820",
+        "X3": 1.1e-13,
+        "X4": 81.3,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "021ZF@aproNOG,0609R@bactNOG,12C8C@NOG,17PVX@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": null,
+        "X13": null
+      }
     },
     {
       "seqnames": "MAG06_363",
@@ -46,7 +61,22 @@
       "sscore": "8.28",
       "rscore": "9.99",
       "uscore": "-5.17",
-      "tscore": "3.46"
+      "tscore": "3.46",
+      "eggnog": {
+        "X1": "MAG06_444_1",
+        "X2": "981222.Cabther_A1690",
+        "X3": 3.1e-23,
+        "X4": 113.6,
+        "X5": null,
+        "X6": null,
+        "X7": "K02058,K05519,K07335",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "0076S@aciNOG,05DIH@bactNOG,COG1744@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "Basic membrane protein"
+      }
     },
     {
       "seqnames": "MAG06_363",
@@ -70,7 +100,8 @@
       "sscore": "6.04",
       "rscore": "2.03",
       "uscore": "1.02",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {}
     },
     {
       "seqnames": "MAG06_363",
@@ -94,7 +125,22 @@
       "sscore": "18.31",
       "rscore": "13.75",
       "uscore": "1.42",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_444_2",
+        "X2": "412597.PaTRP_010100007069",
+        "X3": 1.3e-153,
+        "X4": 548.1,
+        "X5": "CODACH2",
+        "X6": null,
+        "X7": "K01485",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01UB9@aproNOG,07TTD@bactNOG,175W4@proNOG,COG0402@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "F",
+        "X13": "cytosine deaminase"
+      }
     },
     {
       "seqnames": "MAG06_363",
@@ -118,7 +164,22 @@
       "sscore": "2.83",
       "rscore": "7.85",
       "uscore": "-0.15",
-      "tscore": "-4.87"
+      "tscore": "-4.87",
+      "eggnog": {
+        "X1": "MAG06_445_1",
+        "X2": "266834.SMc04139",
+        "X3": 4.8e-76,
+        "X4": 288.9,
+        "X5": null,
+        "X6": null,
+        "X7": "K13020",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01WEP@aproNOG,07QUI@bactNOG,16XBF@proNOG,COG0673@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "oxidoreductase"
+      }
     },
     {
       "seqnames": "MAG06_363",
@@ -142,7 +203,22 @@
       "sscore": "3.33",
       "rscore": "-0.69",
       "uscore": "0.37",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_445_2",
+        "X2": "266834.SMc04140",
+        "X3": 8.5e-202,
+        "X4": 708,
+        "X5": null,
+        "X6": null,
+        "X7": "K10111,K10191",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01Q68@aproNOG,05C53@bactNOG,16PDX@proNOG,COG3842@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "E",
+        "X13": "ABC transporter"
+      }
     },
     {
       "seqnames": "MAG06_363",
@@ -166,7 +242,22 @@
       "sscore": "-5.37",
       "rscore": "-7.56",
       "uscore": "0.56",
-      "tscore": "2.27"
+      "tscore": "2.27",
+      "eggnog": {
+        "X1": "MAG06_445_3",
+        "X2": "266834.SMc04141",
+        "X3": 2.5e-124,
+        "X4": 449.9,
+        "X5": "GST9",
+        "X6": null,
+        "X7": "K00799",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "020DD@aproNOG,05FBZ@bactNOG,0XS6Q@NOG,179VF@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": "O",
+        "X13": "Glutathione S-Transferase"
+      }
     },
     {
       "seqnames": "MAG06_363",
@@ -190,7 +281,22 @@
       "sscore": "3.05",
       "rscore": "-0.37",
       "uscore": "-0.23",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_445_4",
+        "X2": "266834.SMc04142",
+        "X3": 3.4e-172,
+        "X4": 609.4,
+        "X5": "YVRE",
+        "X6": "GO:0005575,GO:0005622,GO:0005623,GO:0005737,GO:0044424,GO:0044464",
+        "X7": "K01053",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01TYX@aproNOG,05CYF@bactNOG,16RZ3@proNOG,COG3386@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "G",
+        "X13": "SMP-30 Gluconolaconase LRE domain protein"
+      }
     }
   ],
   "seqname": "MAG06_363",

@@ -22,7 +22,22 @@
       "sscore": "3.22",
       "rscore": "0.00",
       "uscore": "0.00",
-      "tscore": "3.22"
+      "tscore": "3.22",
+      "eggnog": {
+        "X1": "MAG06_823_7",
+        "X2": "266834.SMc00702",
+        "X3": 5.8e-181,
+        "X4": 638.6,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01WCC@aproNOG,08U1K@bactNOG,178V0@proNOG,COG4246@NOG",
+        "X11": "NA|NA|NA",
+        "X12": null,
+        "X13": null
+      }
     },
     {
       "seqnames": "MAG06_856",
@@ -46,7 +61,22 @@
       "sscore": "20.73",
       "rscore": "13.75",
       "uscore": "2.04",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_824_1",
+        "X2": "266834.SMc03950",
+        "X3": 4.6e-69,
+        "X4": 265.8,
+        "X5": "PNTA",
+        "X6": "GO:0005575,GO:0005623,GO:0005886,GO:0006091,GO:0006810,GO:0008150,GO:0008152,GO:0009987,GO:0016020,GO:0044237,GO:0044464,GO:0044710,GO:0051179,GO:0051234,GO:0055114,GO:0071944",
+        "X7": "K00324",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "02E7B@aproNOG,08IIE@bactNOG,172S5@proNOG,COG3288@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "C",
+        "X13": "The transhydrogenation between NADH and NADP is coupled to respiration and ATP hydrolysis and functions as a proton pump across the membrane (By similarity)"
+      }
     },
     {
       "seqnames": "MAG06_856",
@@ -70,7 +100,22 @@
       "sscore": "2.38",
       "rscore": "-2.35",
       "uscore": "1.74",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_824_2",
+        "X2": "266834.SMc03941",
+        "X3": 1.3e-32,
+        "X4": 143.7,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "024NF@aproNOG,06AHF@bactNOG,0XUKR@NOG,17U8D@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "aa3 type cytochrome C oxidase subunit IV"
+      }
     },
     {
       "seqnames": "MAG06_856",
@@ -94,7 +139,22 @@
       "sscore": "11.00",
       "rscore": "7.63",
       "uscore": "-0.27",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_824_3",
+        "X2": "266834.SMc03942",
+        "X3": 0,
+        "X4": 1470.3,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01QRS@aproNOG,05BZU@bactNOG,0XNMH@NOG,16PBJ@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": "T",
+        "X13": "Diguanylate cyclase phosphodiesterase"
+      }
     },
     {
       "seqnames": "MAG06_856",
@@ -118,7 +178,22 @@
       "sscore": "2.76",
       "rscore": "-0.37",
       "uscore": "-1.75",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_824_4",
+        "X2": "266834.SMc03943",
+        "X3": 3.2e-139,
+        "X4": 499.6,
+        "X5": null,
+        "X6": null,
+        "X7": "K01658,K07010,K09473",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01TDK@aproNOG,08Z86@bactNOG,1785B@proNOG,COG2071@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "peptidase c26"
+      }
     }
   ],
   "seqname": "MAG06_856",

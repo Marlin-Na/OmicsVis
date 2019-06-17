@@ -22,7 +22,22 @@
       "sscore": "1.61",
       "rscore": "0.00",
       "uscore": "0.00",
-      "tscore": "1.61"
+      "tscore": "1.61",
+      "eggnog": {
+        "X1": "MAG06_170_4",
+        "X2": "991905.SL003B_0987",
+        "X3": 1.5e-55,
+        "X4": 220.7,
+        "X5": "CBBS",
+        "X6": null,
+        "X7": "K01602",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01X31@aproNOG,08VFZ@bactNOG,17ASK@proNOG,COG4451@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "C",
+        "X13": "Ribulose 1,5-bisphosphate carboxylase small subunit"
+      }
     }
   ],
   "seqname": "MAG06_50",

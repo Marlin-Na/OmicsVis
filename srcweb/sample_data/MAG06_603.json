@@ -22,7 +22,22 @@
       "sscore": "3.22",
       "rscore": "0.00",
       "uscore": "0.00",
-      "tscore": "3.22"
+      "tscore": "3.22",
+      "eggnog": {
+        "X1": "MAG06_627_1",
+        "X2": "266834.SMc03108",
+        "X3": 1e-97,
+        "X4": 361.3,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01Q6K@aproNOG,05DDI@bactNOG,16QU3@proNOG,COG2931@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "O",
+        "X13": "Hemolysin-type calcium-binding"
+      }
     },
     {
       "seqnames": "MAG06_603",
@@ -46,7 +61,22 @@
       "sscore": "7.29",
       "rscore": "5.51",
       "uscore": "-1.21",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_627_2",
+        "X2": "266834.SMc03109",
+        "X3": 2.2e-171,
+        "X4": 606.7,
+        "X5": "MAK",
+        "X6": null,
+        "X7": "K00845,K00847,K00884,K00885",
+        "X8": "2PGtex,3PGtex,3hoxpactex,4HTHRtex,ACONCtex,AEPtex,AIRStex,CLBtex,DARBtex,DRIBtex,DXYLUDtex,GULNLtex,HEX7,HPAtex,ICITtex,OAAtex,PACt1,RAFFtex,SALCHSXtex,TAGtex,TETtex",
+        "X9": "bactNOG[38]",
+        "X10": "01SH2@aproNOG,05DKQ@bactNOG,16QXD@proNOG,COG1940@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "G",
+        "X13": "(ROK) family"
+      }
     },
     {
       "seqnames": "MAG06_603",
@@ -70,7 +100,22 @@
       "sscore": "3.22",
       "rscore": "0.00",
       "uscore": "0.00",
-      "tscore": "3.22"
+      "tscore": "3.22",
+      "eggnog": {
+        "X1": "MAG06_627_3",
+        "X2": "266834.SMc03110",
+        "X3": 7.2e-43,
+        "X4": 177.9,
+        "X5": "YPO2534",
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01ZZS@aproNOG,090KN@bactNOG,17CSH@proNOG,COG4702@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "UPF0303 protein"
+      }
     }
   ],
   "seqname": "MAG06_603",

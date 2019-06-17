@@ -22,7 +22,22 @@
       "sscore": "3.22",
       "rscore": "0.00",
       "uscore": "0.00",
-      "tscore": "3.22"
+      "tscore": "3.22",
+      "eggnog": {
+        "X1": "MAG06_140_4",
+        "X2": "266834.SMc00452",
+        "X3": 1.6e-211,
+        "X4": 740.3,
+        "X5": "MUTY",
+        "X6": "GO:0003674,GO:0003824,GO:0006139,GO:0006259,GO:0006281,GO:0006284,GO:0006725,GO:0006807,GO:0006950,GO:0006974,GO:0008150,GO:0008152,GO:0009987,GO:0016787,GO:0016798,GO:0016799,GO:0019104,GO:0033554,GO:0034641,GO:0043170,GO:0044237,GO:0044238,GO:0044260,GO:0044699,GO:0044763,GO:0046483,GO:0050896,GO:0051716,GO:0071704,GO:0090304,GO:1901360",
+        "X7": "K03575",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01S44@aproNOG,05CEN@bactNOG,16PQ9@proNOG,COG1194@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "L",
+        "X13": "a g-specific adenine glycosylase"
+      }
     },
     {
       "seqnames": "MAG06_783",
@@ -46,7 +61,22 @@
       "sscore": "6.96",
       "rscore": "2.03",
       "uscore": "-3.88",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_140_5",
+        "X2": "266834.SMc00081",
+        "X3": 2.1e-123,
+        "X4": 446.8,
+        "X5": "BMUL_2882",
+        "X6": null,
+        "X7": "K01560,K07025",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01X7C@aproNOG,08UYS@bactNOG,178NV@proNOG,COG1011@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "had-superfamily hydrolase, subfamily ia, variant"
+      }
     },
     {
       "seqnames": "MAG06_783",
@@ -70,7 +100,22 @@
       "sscore": "12.33",
       "rscore": "7.14",
       "uscore": "1.78",
-      "tscore": "3.41"
+      "tscore": "3.41",
+      "eggnog": {
+        "X1": "MAG06_140_6",
+        "X2": "266834.SMc00021",
+        "X3": 7.7e-222,
+        "X4": 774.6,
+        "X5": "CCRM",
+        "X6": "GO:0003674,GO:0003824,GO:0006139,GO:0006259,GO:0006304,GO:0006305,GO:0006306,GO:0006725,GO:0006807,GO:0008150,GO:0008152,GO:0008168,GO:0008757,GO:0009007,GO:0009008,GO:0009987,GO:0010468,GO:0016740,GO:0016741,GO:0019222,GO:0032259,GO:0032775,GO:0034641,GO:0040029,GO:0043170,GO:0043412,GO:0043414,GO:0044237,GO:0044238,GO:0044260,GO:0044728,GO:0046483,GO:0050789,GO:0060255,GO:0065007,GO:0071704,GO:0090304,GO:1901360",
+        "X7": "K00571,K07319,K13581",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01QIG@aproNOG,05CEC@bactNOG,16PK9@proNOG,COG0863@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "L",
+        "X13": "DNA methylase N-4 N-6"
+      }
     },
     {
       "seqnames": "MAG06_783",
@@ -94,7 +139,22 @@
       "sscore": "0.99",
       "rscore": "-4.72",
       "uscore": "2.71",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_140_7",
+        "X2": "397945.Aave_1135",
+        "X3": 3.1e-45,
+        "X4": 186.4,
+        "X5": null,
+        "X6": null,
+        "X7": "K02058,K07335",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "07RMD@bactNOG,0B8BR@bproNOG,16PB2@proNOG,COG1744@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "Basic membrane lipoprotein"
+      }
     },
     {
       "seqnames": "MAG06_783",
@@ -118,7 +178,22 @@
       "sscore": "-8.86",
       "rscore": "-4.72",
       "uscore": "1.38",
-      "tscore": "-4.87"
+      "tscore": "-4.87",
+      "eggnog": {
+        "X1": "MAG06_141_1",
+        "X2": "266834.SMc04251",
+        "X3": 1.7e-213,
+        "X4": 746.9,
+        "X5": "SMOM",
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01Q86@aproNOG,05CH5@bactNOG,16PXK@proNOG,COG4663@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "Q",
+        "X13": "extracellular solute-binding protein, family 7"
+      }
     },
     {
       "seqnames": "MAG06_783",
@@ -142,7 +217,22 @@
       "sscore": "18.48",
       "rscore": "13.75",
       "uscore": "1.08",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_141_2",
+        "X2": "266834.SMc04252",
+        "X3": 2.1e-202,
+        "X4": 709.9,
+        "X5": "YGHZ",
+        "X6": "GO:0003674,GO:0003824,GO:0006081,GO:0006950,GO:0006974,GO:0008150,GO:0008152,GO:0009438,GO:0009987,GO:0016491,GO:0016614,GO:0016616,GO:0033554,GO:0044237,GO:0044699,GO:0044710,GO:0044763,GO:0050896,GO:0051716,GO:0055114,GO:0071704",
+        "X7": "K19265",
+        "X8": "ALR2",
+        "X9": "bactNOG[38]",
+        "X10": "01S7V@aproNOG,05CPC@bactNOG,16RCA@proNOG,COG0667@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "C",
+        "X13": "Aldo keto reductase"
+      }
     },
     {
       "seqnames": "MAG06_783",
@@ -166,7 +256,22 @@
       "sscore": "19.47",
       "rscore": "13.75",
       "uscore": "1.22",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_141_3",
+        "X2": "266834.SMc04253",
+        "X3": 1.4e-218,
+        "X4": 763.8,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01U8X@aproNOG,05DY4@bactNOG,0XQKZ@NOG,16VGY@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "Oxidoreductase"
+      }
     },
     {
       "seqnames": "MAG06_783",
@@ -190,7 +295,22 @@
       "sscore": "11.94",
       "rscore": "7.63",
       "uscore": "0.67",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_141_4",
+        "X2": "266834.SMc04254",
+        "X3": 2.2e-143,
+        "X4": 513.5,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01SFE@aproNOG,07UCV@bactNOG,176QY@proNOG,COG1082@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "G",
+        "X13": "Xylose isomerase domain protein TIM barrel"
+      }
     },
     {
       "seqnames": "MAG06_783",
@@ -214,7 +334,22 @@
       "sscore": "0.16",
       "rscore": "-4.72",
       "uscore": "1.88",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_759_2",
+        "X2": "296591.Bpro_2005",
+        "X3": 3.4e-113,
+        "X4": 413.7,
+        "X5": "ERUM6890",
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "05DC4@bactNOG,0BJK7@bproNOG,16QW6@proNOG,COG4666@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "TRAP transporter 4TM 12TM fusion"
+      }
     },
     {
       "seqnames": "MAG06_783",
@@ -238,7 +373,22 @@
       "sscore": "8.85",
       "rscore": "5.19",
       "uscore": "0.02",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_759_3",
+        "X2": "296591.Bpro_2005",
+        "X3": 1.2e-10,
+        "X4": 69.7,
+        "X5": "ERUM6890",
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "05DC4@bactNOG,0BJK7@bproNOG,16QW6@proNOG,COG4666@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "TRAP transporter 4TM 12TM fusion"
+      }
     },
     {
       "seqnames": "MAG06_783",
@@ -262,7 +412,22 @@
       "sscore": "1.93",
       "rscore": "-4.72",
       "uscore": "1.75",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_76_1",
+        "X2": "266834.SMc00575",
+        "X3": 1.5e-66,
+        "X4": 257.3,
+        "X5": "YCEG",
+        "X6": "GO:0005575,GO:0005618,GO:0005623,GO:0030312,GO:0044464,GO:0071944",
+        "X7": "K07082",
+        "X8": "ADCL",
+        "X9": "bactNOG[38]",
+        "X10": "01Q81@aproNOG,05HHA@bactNOG,16RUV@proNOG,COG1559@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "aminodeoxychorismate lyase"
+      }
     },
     {
       "seqnames": "MAG06_783",
@@ -286,7 +451,22 @@
       "sscore": "4.80",
       "rscore": "2.03",
       "uscore": "-1.64",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_76_2",
+        "X2": "266834.SMc00574",
+        "X3": 1.2e-239,
+        "X4": 833.9,
+        "X5": "FABF",
+        "X6": "GO:0003674,GO:0003824,GO:0004312,GO:0004315,GO:0006082,GO:0006629,GO:0006631,GO:0006633,GO:0008150,GO:0008152,GO:0008610,GO:0009058,GO:0009987,GO:0016053,GO:0016740,GO:0016746,GO:0016747,GO:0019752,GO:0032787,GO:0043436,GO:0044237,GO:0044238,GO:0044249,GO:0044255,GO:0044281,GO:0044283,GO:0044710,GO:0044711,GO:0046394,GO:0071704,GO:0072330,GO:1901576",
+        "X7": "K09458",
+        "X8": "3OAS100,3OAS120,3OAS121,3OAS140,3OAS141,3OAS160,3OAS161,3OAS180,3OAS181,3OAS60,3OAS80,ACOATA,C140SN,C160SN,C180SN,C181SN,KAS14,KAS15,KAS_HP2,MACPD,OPMEACPS",
+        "X9": "bactNOG[38]",
+        "X10": "01Q6R@aproNOG,05C0Q@bactNOG,16PUQ@proNOG,COG0304@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "I",
+        "X13": "Catalyzes the condensation reaction of fatty acid synthesis by the addition to an acyl acceptor of two carbons from malonyl-ACP (By similarity)"
+      }
     }
   ],
   "seqname": "MAG06_783",

@@ -22,7 +22,22 @@
       "sscore": "18.16",
       "rscore": "13.75",
       "uscore": "1.42",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_9_6",
+        "X2": "366394.Smed_3239",
+        "X3": 7.2e-119,
+        "X4": 431.8,
+        "X5": "ACCD",
+        "X6": "GO:0003674,GO:0003824,GO:0003989,GO:0005575,GO:0005622,GO:0005623,GO:0005737,GO:0006082,GO:0006629,GO:0006631,GO:0006633,GO:0008150,GO:0008152,GO:0008610,GO:0009058,GO:0009317,GO:0009987,GO:0016053,GO:0016421,GO:0016874,GO:0016885,GO:0019752,GO:0032787,GO:0032991,GO:0043234,GO:0043436,GO:0044237,GO:0044238,GO:0044249,GO:0044255,GO:0044281,GO:0044283,GO:0044424,GO:0044444,GO:0044464,GO:0044710,GO:0044711,GO:0046394,GO:0071704,GO:0072330,GO:1901576",
+        "X7": "K01695,K01962,K01963",
+        "X8": "ACCOAC",
+        "X9": "bactNOG[38]",
+        "X10": "01S1M@aproNOG,07QTG@bactNOG,16QSI@proNOG,COG0777@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "I",
+        "X13": "Component of the acetyl coenzyme A carboxylase (ACC) complex. Biotin carboxylase (BC) catalyzes the carboxylation of biotin on its carrier protein (BCCP) and then the CO(2) group is transferred by the transcarboxylase to acetyl-CoA to form malonyl- CoA (By similarity)"
+      }
     },
     {
       "seqnames": "MAG06_956",
@@ -46,7 +61,22 @@
       "sscore": "8.42",
       "rscore": "13.75",
       "uscore": "-0.47",
-      "tscore": "-4.87"
+      "tscore": "-4.87",
+      "eggnog": {
+        "X1": "MAG06_90_1",
+        "X2": "266834.SMc03068",
+        "X3": 0,
+        "X4": 1196.4,
+        "X5": "EDD",
+        "X6": "GO:0003674,GO:0003824,GO:0004456,GO:0005975,GO:0008150,GO:0008152,GO:0009255,GO:0009987,GO:0016829,GO:0016835,GO:0016836,GO:0044237,GO:0044238,GO:0044262,GO:0044281,GO:0044710,GO:0071704",
+        "X7": "K01690",
+        "X8": "EDD",
+        "X9": "bactNOG[38]",
+        "X10": "01S0K@aproNOG,05C01@bactNOG,16PQJ@proNOG,COG0129@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "G",
+        "X13": "phosphogluconate dehydratase"
+      }
     },
     {
       "seqnames": "MAG06_956",
@@ -70,7 +100,22 @@
       "sscore": "11.23",
       "rscore": "5.51",
       "uscore": "0.82",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_90_2",
+        "X2": "266834.SMc03069",
+        "X3": 8.1e-121,
+        "X4": 438.3,
+        "X5": "PGL",
+        "X6": null,
+        "X7": "K01057",
+        "X8": "PGL",
+        "X9": "bactNOG[38]",
+        "X10": "01X35@aproNOG,08Q79@bactNOG,1793H@proNOG,COG0363@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "G",
+        "X13": "6-phosphogluconolactonase EC 3.1.1.31"
+      }
     },
     {
       "seqnames": "MAG06_956",
@@ -94,7 +139,22 @@
       "sscore": "-1.42",
       "rscore": "2.03",
       "uscore": "1.42",
-      "tscore": "-4.87"
+      "tscore": "-4.87",
+      "eggnog": {
+        "X1": "MAG06_90_3",
+        "X2": "266834.SMc03070",
+        "X3": 8.4e-285,
+        "X4": 984.2,
+        "X5": "ZWF",
+        "X6": null,
+        "X7": "K00036",
+        "X8": "G6PDH2r",
+        "X9": "bactNOG[38]",
+        "X10": "01RW9@aproNOG,05D8W@bactNOG,16PFK@proNOG,COG0364@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "G",
+        "X13": "glucose-6-phosphate 1-dehydrogenase"
+      }
     },
     {
       "seqnames": "MAG06_956",
@@ -118,7 +178,22 @@
       "sscore": "-2.70",
       "rscore": "7.63",
       "uscore": "-0.19",
-      "tscore": "-10.14"
+      "tscore": "-10.14",
+      "eggnog": {
+        "X1": "MAG06_90_4",
+        "X2": "266834.SMc00761",
+        "X3": 3.7e-252,
+        "X4": 875.5,
+        "X5": "ORDL",
+        "X6": null,
+        "X7": "K09471",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01REP@aproNOG,05CJP@bactNOG,0XWBT@NOG,16Q0H@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": "C",
+        "X13": "oxidoreductase"
+      }
     }
   ],
   "seqname": "MAG06_956",

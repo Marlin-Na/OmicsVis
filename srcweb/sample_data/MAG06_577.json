@@ -22,7 +22,22 @@
       "sscore": "5.51",
       "rscore": "2.74",
       "uscore": "-0.43",
-      "tscore": "3.20"
+      "tscore": "3.20",
+      "eggnog": {
+        "X1": "MAG06_607_3",
+        "X2": "311402.Avi_6215",
+        "X3": 3.9e-183,
+        "X4": 646,
+        "X5": "CYOB",
+        "X6": null,
+        "X7": "K02274,K02298,K02827",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01Q8J@aproNOG,05BZ9@bactNOG,16PB1@proNOG,COG0843@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "C",
+        "X13": "Cytochrome C oxidase subunit I"
+      }
     },
     {
       "seqnames": "MAG06_577",
@@ -46,7 +61,22 @@
       "sscore": "4.64",
       "rscore": "2.74",
       "uscore": "-0.65",
-      "tscore": "3.20"
+      "tscore": "3.20",
+      "eggnog": {
+        "X1": "MAG06_608_1",
+        "X2": "266834.SMc01372",
+        "X3": 9.9e-39,
+        "X4": 164.1,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "021U2@aproNOG,05Y4M@bactNOG,127D3@NOG,17NFS@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "Protein of unknown function (DUF3572)"
+      }
     },
     {
       "seqnames": "MAG06_577",
@@ -70,7 +100,22 @@
       "sscore": "10.01",
       "rscore": "12.94",
       "uscore": "1.69",
-      "tscore": "-4.62"
+      "tscore": "-4.62",
+      "eggnog": {
+        "X1": "MAG06_608_2",
+        "X2": "266834.SMc01373",
+        "X3": 1.4e-60,
+        "X4": 237.3,
+        "X5": "DINB",
+        "X6": "GO:0003674,GO:0003824,GO:0003887,GO:0005575,GO:0005622,GO:0005623,GO:0005737,GO:0006139,GO:0006259,GO:0006260,GO:0006281,GO:0006725,GO:0006807,GO:0006950,GO:0006974,GO:0008150,GO:0008152,GO:0009058,GO:0009059,GO:0009987,GO:0016740,GO:0016772,GO:0016779,GO:0033554,GO:0034061,GO:0034641,GO:0034645,GO:0043170,GO:0044237,GO:0044238,GO:0044249,GO:0044260,GO:0044424,GO:0044464,GO:0044699,GO:0044763,GO:0046483,GO:0050896,GO:0051716,GO:0071704,GO:0090304,GO:1901360,GO:1901576",
+        "X7": "K02346",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01QBZ@aproNOG,05CQ3@bactNOG,16Q89@proNOG,COG0389@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "L",
+        "X13": "Poorly processive, error-prone DNA polymerase involved in untargeted mutagenesis. Copies undamaged DNA at stalled replication forks, which arise in vivo from mismatched or misaligned primer ends. These misaligned primers can be extended by PolIV. Exhibits no 3'-5' exonuclease (proofreading) activity. May be involved in translesional synthesis, in conjunction with the beta clamp from PolIII (By similarity)"
+      }
     }
   ],
   "seqname": "MAG06_577",

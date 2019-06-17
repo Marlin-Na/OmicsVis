@@ -22,7 +22,22 @@
       "sscore": "3.22",
       "rscore": "0.00",
       "uscore": "0.00",
-      "tscore": "3.22"
+      "tscore": "3.22",
+      "eggnog": {
+        "X1": "MAG06_1006_2",
+        "X2": "641118.OINT_2000672",
+        "X3": 2.5e-107,
+        "X4": 394,
+        "X5": null,
+        "X6": null,
+        "X7": "K00004,K00008",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01VB9@aproNOG,05CPQ@bactNOG,1749Q@proNOG,COG1063@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "C",
+        "X13": "alcohol dehydrogenase groes domain protein"
+      }
     },
     {
       "seqnames": "MAG06_68",
@@ -46,7 +61,22 @@
       "sscore": "12.20",
       "rscore": "7.63",
       "uscore": "0.93",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_1007_1",
+        "X2": "266834.SMc02734",
+        "X3": 3.9e-160,
+        "X4": 569.3,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01QIP@aproNOG,05EIQ@bactNOG,0XNSV@NOG,16PKN@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": null,
+        "X13": null
+      }
     },
     {
       "seqnames": "MAG06_68",
@@ -70,7 +100,22 @@
       "sscore": "13.87",
       "rscore": "7.63",
       "uscore": "1.44",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_1007_2",
+        "X2": "266834.SMc02735",
+        "X3": 2.1e-133,
+        "X4": 480.3,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01RXT@aproNOG,05EFY@bactNOG,0XR2W@NOG,16S3Y@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": null,
+        "X13": null
+      }
     },
     {
       "seqnames": "MAG06_68",
@@ -94,7 +139,22 @@
       "sscore": "11.98",
       "rscore": "7.63",
       "uscore": "-0.39",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_1008_1",
+        "X2": "266834.SMc00647",
+        "X3": 1.2e-29,
+        "X4": 134,
+        "X5": "RLUD",
+        "X6": "GO:0000027,GO:0000154,GO:0000455,GO:0001522,GO:0003674,GO:0003824,GO:0006139,GO:0006364,GO:0006396,GO:0006725,GO:0006807,GO:0006996,GO:0008150,GO:0008152,GO:0009451,GO:0009982,GO:0009987,GO:0010467,GO:0016043,GO:0016070,GO:0016072,GO:0016853,GO:0016866,GO:0022607,GO:0022613,GO:0022618,GO:0031118,GO:0034470,GO:0034622,GO:0034641,GO:0034660,GO:0042254,GO:0042255,GO:0042273,GO:0043170,GO:0043412,GO:0043933,GO:0044085,GO:0044237,GO:0044238,GO:0044260,GO:0044699,GO:0044763,GO:0046483,GO:0065003,GO:0070925,GO:0071704,GO:0071826,GO:0071840,GO:0090304,GO:1901360",
+        "X7": "K06180",
+        "X8": "PSUDS",
+        "X9": "bactNOG[38]",
+        "X10": "01Q7J@aproNOG,05C34@bactNOG,16PJZ@proNOG,COG0564@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "J",
+        "X13": "Pseudouridine synthase"
+      }
     },
     {
       "seqnames": "MAG06_68",
@@ -118,7 +178,22 @@
       "sscore": "16.77",
       "rscore": "10.54",
       "uscore": "1.29",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_193_1",
+        "X2": "366394.Smed_1185",
+        "X3": 4.1e-53,
+        "X4": 212.6,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "029Y4@aproNOG,07CE0@bactNOG,0ZA2F@NOG,187SP@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": null,
+        "X13": null
+      }
     },
     {
       "seqnames": "MAG06_68",
@@ -142,7 +217,22 @@
       "sscore": "6.92",
       "rscore": "10.54",
       "uscore": "1.90",
-      "tscore": "-4.87"
+      "tscore": "-4.87",
+      "eggnog": {
+        "X1": "MAG06_193_2",
+        "X2": "266834.SMc01242",
+        "X3": 1.1e-187,
+        "X4": 661,
+        "X5": "OCAR_5946",
+        "X6": null,
+        "X7": "K09796",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01Y86@aproNOG,05NG1@bactNOG,17FEF@proNOG,COG2847@NOG,COG4549@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "Protein of unknown function (DUF461)"
+      }
     },
     {
       "seqnames": "MAG06_68",
@@ -166,7 +256,22 @@
       "sscore": "-5.64",
       "rscore": "-2.78",
       "uscore": "2.01",
-      "tscore": "-4.87"
+      "tscore": "-4.87",
+      "eggnog": {
+        "X1": "MAG06_194_1",
+        "X2": "266835.mlr8323",
+        "X3": 2.5e-182,
+        "X4": 643.3,
+        "X5": "HUTU",
+        "X6": "GO:0003674,GO:0003824,GO:0005575,GO:0005622,GO:0005623,GO:0005737,GO:0006082,GO:0006520,GO:0006547,GO:0006548,GO:0006725,GO:0006807,GO:0008150,GO:0008152,GO:0009056,GO:0009063,GO:0009987,GO:0016054,GO:0016153,GO:0016829,GO:0016835,GO:0016836,GO:0019439,GO:0019752,GO:0034641,GO:0043436,GO:0044237,GO:0044238,GO:0044248,GO:0044270,GO:0044281,GO:0044282,GO:0044424,GO:0044464,GO:0044710,GO:0044712,GO:0046395,GO:0046483,GO:0046700,GO:0052803,GO:0052805,GO:0071704,GO:1901360,GO:1901361,GO:1901564,GO:1901565,GO:1901575,GO:1901605,GO:1901606",
+        "X7": "K01712",
+        "X8": "URCN",
+        "X9": "bactNOG[38]",
+        "X10": "01QHA@aproNOG,05CGP@bactNOG,16PX8@proNOG,COG2987@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "E",
+        "X13": "Urocanate hydratase"
+      }
     },
     {
       "seqnames": "MAG06_68",
@@ -190,7 +295,22 @@
       "sscore": "16.81",
       "rscore": "13.75",
       "uscore": "-0.58",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_194_2",
+        "X2": "439375.Oant_1434",
+        "X3": 1.6e-120,
+        "X4": 437.6,
+        "X5": "HUTG",
+        "X6": null,
+        "X7": "K01458,K01479",
+        "X8": "NFORGLUAH",
+        "X9": "bactNOG[38]",
+        "X10": "01Q5P@aproNOG,05JR5@bactNOG,16T1I@proNOG,COG3741@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "E",
+        "X13": "N-formylglutamate amidohydrolase"
+      }
     },
     {
       "seqnames": "MAG06_68",
@@ -214,7 +334,22 @@
       "sscore": "13.48",
       "rscore": "10.54",
       "uscore": "-0.71",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_194_3",
+        "X2": "311403.Arad_4563",
+        "X3": 4.7e-238,
+        "X4": 828.9,
+        "X5": "HUTH",
+        "X6": "GO:0003674,GO:0003824,GO:0004397,GO:0005575,GO:0005622,GO:0005623,GO:0005737,GO:0006082,GO:0006520,GO:0006807,GO:0008150,GO:0008152,GO:0009987,GO:0016829,GO:0016840,GO:0016841,GO:0019752,GO:0043436,GO:0044237,GO:0044238,GO:0044281,GO:0044424,GO:0044464,GO:0044710,GO:0071704,GO:1901564",
+        "X7": "K01745",
+        "X8": "HISDr",
+        "X9": "bactNOG[38]",
+        "X10": "01QM4@aproNOG,05C84@bactNOG,16PEM@proNOG,COG2986@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "E",
+        "X13": "Histidine ammonia-lyase"
+      }
     },
     {
       "seqnames": "MAG06_68",
@@ -238,7 +373,22 @@
       "sscore": "14.33",
       "rscore": "10.54",
       "uscore": "0.79",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_194_4",
+        "X2": "266779.Meso_2986",
+        "X3": 8e-50,
+        "X4": 201.8,
+        "X5": "HUTI",
+        "X6": "GO:0003674,GO:0003824,GO:0005575,GO:0005622,GO:0005623,GO:0005737,GO:0006082,GO:0006520,GO:0006547,GO:0006548,GO:0006725,GO:0006807,GO:0008150,GO:0008152,GO:0009056,GO:0009063,GO:0009987,GO:0016054,GO:0016787,GO:0016810,GO:0016812,GO:0019439,GO:0019752,GO:0034641,GO:0043436,GO:0044237,GO:0044238,GO:0044248,GO:0044270,GO:0044281,GO:0044282,GO:0044424,GO:0044464,GO:0044710,GO:0044712,GO:0046395,GO:0046483,GO:0046700,GO:0052803,GO:0052805,GO:0071704,GO:1901360,GO:1901361,GO:1901564,GO:1901565,GO:1901575,GO:1901605,GO:1901606",
+        "X7": "K01468",
+        "X8": "IZPN,IZPN_1",
+        "X9": "bactNOG[38]",
+        "X10": "01QKU@aproNOG,05CI2@bactNOG,16QHD@proNOG,COG1228@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "Q",
+        "X13": "imidazolone-5-propionate hydrolase"
+      }
     },
     {
       "seqnames": "MAG06_68",
@@ -262,7 +412,8 @@
       "sscore": "-1.25",
       "rscore": "-4.72",
       "uscore": "-0.18",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {}
     },
     {
       "seqnames": "MAG06_68",
@@ -286,7 +437,22 @@
       "sscore": "14.74",
       "rscore": "10.54",
       "uscore": "1.20",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_195_1",
+        "X2": "266834.SMc00100",
+        "X3": 3e-152,
+        "X4": 543.1,
+        "X5": "YJGR",
+        "X6": "GO:0008150,GO:0040007",
+        "X7": "K06915",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01QWY@aproNOG,05D7A@bactNOG,16PGX@proNOG,COG0433@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "Bacterial protein of unknown function (DUF853)"
+      }
     },
     {
       "seqnames": "MAG06_68",
@@ -310,7 +476,22 @@
       "sscore": "17.62",
       "rscore": "13.75",
       "uscore": "0.88",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_195_2",
+        "X2": "266834.SMc00099",
+        "X3": 8.9e-31,
+        "X4": 137.5,
+        "X5": "PHNA",
+        "X6": null,
+        "X7": "K06193",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01ZQT@aproNOG,08Z8G@bactNOG,17C3N@proNOG,COG2824@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "P",
+        "X13": "Alkylphosphonate utilization operon protein PhnA"
+      }
     },
     {
       "seqnames": "MAG06_68",
@@ -334,7 +515,22 @@
       "sscore": "14.09",
       "rscore": "10.54",
       "uscore": "-0.09",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_195_3",
+        "X2": "266834.SMc00040",
+        "X3": 1.7e-73,
+        "X4": 280.4,
+        "X5": "OHR",
+        "X6": "GO:0008150,GO:0009636,GO:0042221,GO:0050896",
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01WUG@aproNOG,08ZHJ@bactNOG,179VP@proNOG,COG1764@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "O",
+        "X13": "organic hydroperoxide resistance protein"
+      }
     }
   ],
   "seqname": "MAG06_68",

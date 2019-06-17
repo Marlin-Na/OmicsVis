@@ -22,7 +22,22 @@
       "sscore": "17.99",
       "rscore": "13.75",
       "uscore": "1.25",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_227_1",
+        "X2": "583345.Mmol_0653",
+        "X3": 3.7e-24,
+        "X4": 115.9,
+        "X5": "ACEE",
+        "X6": null,
+        "X7": "K00163",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "05DAQ@bactNOG,0B8JG@bproNOG,16PVJ@proNOG,COG2609@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "C",
+        "X13": "Component of the pyruvate dehydrogenase (PDH) complex, that catalyzes the overall conversion of pyruvate to acetyl-CoA and CO(2) (By similarity)"
+      }
     },
     {
       "seqnames": "MAG06_106",
@@ -46,7 +61,22 @@
       "sscore": "12.81",
       "rscore": "7.85",
       "uscore": "1.31",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_227_2",
+        "X2": "224911.blr3721",
+        "X3": 2.2e-151,
+        "X4": 540.8,
+        "X5": "ACEF",
+        "X6": null,
+        "X7": "K00627,K09699",
+        "X8": "OBDHc,OIVD1r,OIVD2,OIVD3,PDH,PDHbr",
+        "X9": "bactNOG[38]",
+        "X10": "01S2D@aproNOG,07QSN@bactNOG,16QNZ@proNOG,COG0508@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "C",
+        "X13": "Branched-chain alpha-keto acid dehydrogenase"
+      }
     },
     {
       "seqnames": "MAG06_106",
@@ -70,7 +100,22 @@
       "sscore": "10.83",
       "rscore": "7.63",
       "uscore": "0.21",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_228_1",
+        "X2": "347834.RHE_CH03190",
+        "X3": 1.1e-118,
+        "X4": 431.4,
+        "X5": null,
+        "X6": null,
+        "X7": "K02056,K10545,K10554",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01TQN@aproNOG,05C2J@bactNOG,16SN2@proNOG,COG1129@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "P",
+        "X13": "ABC transporter, (ATP-binding protein)"
+      }
     },
     {
       "seqnames": "MAG06_106",
@@ -94,7 +139,22 @@
       "sscore": "17.36",
       "rscore": "13.75",
       "uscore": "-0.04",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_228_2",
+        "X2": "216596.RL3843",
+        "X3": 1.8e-95,
+        "X4": 354,
+        "X5": null,
+        "X6": null,
+        "X7": "K10440,K10538,K10541,K10553,K17206,K17214",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01Q6Z@aproNOG,05CNN@bactNOG,16W32@proNOG,COG1172@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "G",
+        "X13": "ABC transporter"
+      }
     },
     {
       "seqnames": "MAG06_106",
@@ -118,7 +178,22 @@
       "sscore": "16.75",
       "rscore": "13.75",
       "uscore": "0.01",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_229_1",
+        "X2": "287752.SI859A1_02028",
+        "X3": 2.4e-123,
+        "X4": 447.2,
+        "X5": "EUTC",
+        "X6": null,
+        "X7": "K01750,K19244",
+        "X8": "ORNCD",
+        "X9": "bactNOG[38]",
+        "X10": "01R6G@aproNOG,05CIF@bactNOG,16Q3X@proNOG,COG2423@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "E",
+        "X13": "Ornithine cyclodeaminase"
+      }
     },
     {
       "seqnames": "MAG06_106",
@@ -142,7 +217,22 @@
       "sscore": "10.32",
       "rscore": "7.63",
       "uscore": "-0.95",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_229_2",
+        "X2": "765698.Mesci_2507",
+        "X3": 5e-149,
+        "X4": 532.3,
+        "X5": "EUTD",
+        "X6": "GO:0006508,GO:0008150,GO:0008152,GO:0019538,GO:0043170,GO:0044238,GO:0071704",
+        "X7": "K01271,K15783",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01QK9@aproNOG,05ENR@bactNOG,16RSX@proNOG,COG0006@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "E",
+        "X13": "peptidase, M24"
+      }
     },
     {
       "seqnames": "MAG06_106",
@@ -166,7 +256,22 @@
       "sscore": "11.48",
       "rscore": "7.85",
       "uscore": "-0.01",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_23_1",
+        "X2": "266834.SMc04407",
+        "X3": 1.1e-273,
+        "X4": 947.2,
+        "X5": "MTBA",
+        "X6": null,
+        "X7": "K03762",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01SXV@aproNOG,05CSH@bactNOG,0XP7I@NOG,16QT5@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": "G",
+        "X13": ")transporter"
+      }
     },
     {
       "seqnames": "MAG06_106",
@@ -190,7 +295,22 @@
       "sscore": "11.10",
       "rscore": "7.63",
       "uscore": "-0.17",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_23_2",
+        "X2": "266834.SMc04406",
+        "X3": 1.1e-125,
+        "X4": 454.5,
+        "X5": "LPXE",
+        "X6": null,
+        "X7": "K01096,K19302",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "021KR@aproNOG,05YVM@bactNOG,17K56@proNOG,COG0671@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "I",
+        "X13": "Phosphoesterase, PA-phosphatase related"
+      }
     },
     {
       "seqnames": "MAG06_106",
@@ -214,7 +334,22 @@
       "sscore": "10.14",
       "rscore": "7.63",
       "uscore": "-2.38",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_23_3",
+        "X2": "266834.SMc04405",
+        "X3": 1.1e-207,
+        "X4": 727.6,
+        "X5": "LEUB",
+        "X6": "GO:0003674,GO:0003824,GO:0003862,GO:0005575,GO:0005622,GO:0005623,GO:0005737,GO:0006082,GO:0006520,GO:0006551,GO:0006807,GO:0006950,GO:0007154,GO:0008150,GO:0008152,GO:0008652,GO:0009058,GO:0009081,GO:0009082,GO:0009098,GO:0009267,GO:0009605,GO:0009987,GO:0009991,GO:0016053,GO:0016491,GO:0016614,GO:0016616,GO:0019752,GO:0031667,GO:0031668,GO:0031669,GO:0033554,GO:0034198,GO:0042594,GO:0043436,GO:0044237,GO:0044238,GO:0044249,GO:0044281,GO:0044283,GO:0044424,GO:0044464,GO:0044699,GO:0044710,GO:0044711,GO:0044763,GO:0046394,GO:0050896,GO:0051716,GO:0055114,GO:0071496,GO:0071704,GO:1901564,GO:1901566,GO:1901576,GO:1901605,GO:1901607",
+        "X7": "K00052",
+        "X8": "3MMD,IPMD,OMCDC",
+        "X9": "bactNOG[38]",
+        "X10": "01RIU@aproNOG,05C0C@bactNOG,16PC5@proNOG,COG0473@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "E",
+        "X13": "Catalyzes the oxidation of 3-carboxy-2-hydroxy-4- methylpentanoate (3-isopropylmalate) to 3-carboxy-4-methyl-2- oxopentanoate. The product decarboxylates to 4-methyl-2 oxopentanoate (By similarity)"
+      }
     }
   ],
   "seqname": "MAG06_106",

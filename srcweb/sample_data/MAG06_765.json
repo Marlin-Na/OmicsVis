@@ -22,7 +22,22 @@
       "sscore": "3.81",
       "rscore": "2.03",
       "uscore": "-1.21",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_749_1",
+        "X2": "288000.BBta_0450",
+        "X3": 5.2e-167,
+        "X4": 592.4,
+        "X5": "FBA",
+        "X6": "GO:0003674,GO:0003824,GO:0008150,GO:0008152,GO:0009025,GO:0016829,GO:0016830,GO:0016832",
+        "X7": "K01624,K08302",
+        "X8": "CMCMSAD,FBA,FBA2,FBA3,PFK_2,TGBPA",
+        "X9": "bactNOG[38]",
+        "X10": "01SAG@aproNOG,05D2N@bactNOG,16QJU@proNOG,COG0191@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "G",
+        "X13": "fructose-bisphosphate aldolase"
+      }
     },
     {
       "seqnames": "MAG06_765",
@@ -46,7 +61,22 @@
       "sscore": "14.85",
       "rscore": "7.63",
       "uscore": "3.58",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_749_2",
+        "X2": "765698.Mesci_4281",
+        "X3": 3.2e-274,
+        "X4": 949.5,
+        "X5": "TKT",
+        "X6": null,
+        "X7": "K00615",
+        "X8": "TKT1,TKT2",
+        "X9": "bactNOG[38]",
+        "X10": "01QB3@aproNOG,05CV1@bactNOG,16PHV@proNOG,COG0021@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "G",
+        "X13": "Transketolase (EC 2.2.1.1)"
+      }
     }
   ],
   "seqname": "MAG06_765",

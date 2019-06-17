@@ -22,7 +22,22 @@
       "sscore": "2.78",
       "rscore": "-0.37",
       "uscore": "0.15",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_527_2",
+        "X2": "1117943.SFHH103_02297",
+        "X3": 4e-137,
+        "X4": 493,
+        "X5": null,
+        "X6": null,
+        "X7": "K01593",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01UBW@aproNOG,05DY8@bactNOG,16PT8@proNOG,COG0076@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "E",
+        "X13": "decarboxylase"
+      }
     },
     {
       "seqnames": "MAG06_469",
@@ -46,7 +61,22 @@
       "sscore": "12.70",
       "rscore": "7.63",
       "uscore": "0.14",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_528_1",
+        "X2": "266834.SMc00266",
+        "X3": 0,
+        "X4": 1100.5,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "02DDH@aproNOG,08E8V@bactNOG,170HY@proNOG,COG3090@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "G",
+        "X13": "Tripartite ATP-independent periplasmic transporters, DctQ component"
+      }
     },
     {
       "seqnames": "MAG06_469",
@@ -70,7 +100,22 @@
       "sscore": "13.33",
       "rscore": "7.63",
       "uscore": "0.76",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_528_10",
+        "X2": "266834.SMc00257",
+        "X3": 3.4e-121,
+        "X4": 439.5,
+        "X5": "ROPB2",
+        "X6": null,
+        "X7": "K16079",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "024B3@aproNOG,06C61@bactNOG,17U9H@proNOG,COG3637@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "M",
+        "X13": "Membrane"
+      }
     },
     {
       "seqnames": "MAG06_469",
@@ -94,7 +139,22 @@
       "sscore": "4.40",
       "rscore": "2.03",
       "uscore": "-1.28",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_528_11",
+        "X2": "266834.SMc00256",
+        "X3": 2.8e-183,
+        "X4": 646.4,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01VQT@aproNOG,08NAP@bactNOG,1758H@proNOG,COG4977@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "K",
+        "X13": "Transcriptional Regulator AraC Family"
+      }
     },
     {
       "seqnames": "MAG06_469",
@@ -118,7 +178,22 @@
       "sscore": "3.22",
       "rscore": "0.00",
       "uscore": "0.00",
-      "tscore": "3.22"
+      "tscore": "3.22",
+      "eggnog": {
+        "X1": "MAG06_528_13",
+        "X2": "266834.SMc00254",
+        "X3": 4.2e-61,
+        "X4": 239.2,
+        "X5": "OCAR_4937",
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "024SZ@aproNOG,06BS9@bactNOG,0XVZ0@NOG,17U57@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "Protein of unknown function (DUF1236)"
+      }
     }
   ],
   "seqname": "MAG06_469",

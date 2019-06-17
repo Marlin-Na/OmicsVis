@@ -22,7 +22,22 @@
       "sscore": "12.65",
       "rscore": "10.54",
       "uscore": "-0.88",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_148_5",
+        "X2": "266834.SMc00239",
+        "X3": 5.1e-73,
+        "X4": 279.3,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "02573@aproNOG,05V03@bactNOG,11Y23@NOG,17H4Y@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": null,
+        "X13": null
+      }
     },
     {
       "seqnames": "MAG06_876",
@@ -46,7 +61,22 @@
       "sscore": "10.54",
       "rscore": "7.63",
       "uscore": "-0.08",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_148_6",
+        "X2": "266834.SMc00240",
+        "X3": 7.2e-232,
+        "X4": 808.1,
+        "X5": "TLYC",
+        "X6": null,
+        "X7": "K03699",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01S1D@aproNOG,05C37@bactNOG,16R41@proNOG,COG1253@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "P",
+        "X13": "Hemolysin"
+      }
     },
     {
       "seqnames": "MAG06_876",
@@ -70,7 +100,22 @@
       "sscore": "13.09",
       "rscore": "7.63",
       "uscore": "1.82",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_148_7",
+        "X2": "266834.SMc00241",
+        "X3": 2.4e-132,
+        "X4": 476.9,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01VF8@aproNOG,07EJG@bactNOG,16T9T@proNOG,COG2186@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "K",
+        "X13": "GntR Family Transcriptional Regulator"
+      }
     },
     {
       "seqnames": "MAG06_876",
@@ -94,7 +139,22 @@
       "sscore": "0.01",
       "rscore": "-4.72",
       "uscore": "1.08",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_148_8",
+        "X2": "266834.SMc00242",
+        "X3": 4.4e-181,
+        "X4": 639,
+        "X5": null,
+        "X6": null,
+        "X7": "K02058,K07335",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01SYJ@aproNOG,07RMD@bactNOG,16PB2@proNOG,COG1744@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "Basic membrane lipoprotein"
+      }
     },
     {
       "seqnames": "MAG06_876",
@@ -118,7 +178,22 @@
       "sscore": "12.81",
       "rscore": "7.63",
       "uscore": "0.32",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_149_1",
+        "X2": "371731.Rsw2DRAFT_3213",
+        "X3": 6.3e-54,
+        "X4": 215.7,
+        "X5": null,
+        "X6": null,
+        "X7": "K17226",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01TA0@aproNOG,08TCM@bactNOG,16TSN@proNOG,COG5501@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "sulfur oxidation protein SoxZ"
+      }
     },
     {
       "seqnames": "MAG06_876",
@@ -142,7 +217,22 @@
       "sscore": "7.80",
       "rscore": "3.33",
       "uscore": "-0.30",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_149_2",
+        "X2": "371731.Rsw2DRAFT_3214",
+        "X3": 1.1e-106,
+        "X4": 392.1,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01SXY@aproNOG,0842U@bactNOG,175CM@proNOG,COG0491@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "Beta-lactamase domain protein"
+      }
     },
     {
       "seqnames": "MAG06_876",
@@ -166,7 +256,22 @@
       "sscore": "5.46",
       "rscore": "7.63",
       "uscore": "1.82",
-      "tscore": "-4.87"
+      "tscore": "-4.87",
+      "eggnog": {
+        "X1": "MAG06_15_1",
+        "X2": "266834.SMc00987",
+        "X3": 1.4e-102,
+        "X4": 377.5,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01XB3@aproNOG,08Y1N@bactNOG,11KU4@NOG,17AVX@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": null,
+        "X13": null
+      }
     },
     {
       "seqnames": "MAG06_876",
@@ -190,7 +295,22 @@
       "sscore": "5.39",
       "rscore": "-2.35",
       "uscore": "0.45",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_831_5",
+        "X2": "430066.BAbS19_II05480",
+        "X3": 2.1e-215,
+        "X4": 753.4,
+        "X5": "UGPB",
+        "X6": "GO:0005575,GO:0005623,GO:0006810,GO:0006811,GO:0006820,GO:0008150,GO:0015711,GO:0015748,GO:0015794,GO:0042597,GO:0044464,GO:0044699,GO:0044765,GO:0051179,GO:0051234,GO:0070811,GO:0071702,GO:1901264",
+        "X7": "K05813",
+        "X8": "G3PCabcpp,G3PEabcpp,G3PGabcpp,G3PIabcpp,G3PSabcpp,GLYC2Pabcpp,GLYC3Pabc,GLYC3Pabcpp",
+        "X9": "bactNOG[38]",
+        "X10": "01Q5B@aproNOG,05BZ7@bactNOG,16PAX@proNOG,COG1653@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "P",
+        "X13": "extracellular solute-binding protein, family 1"
+      }
     },
     {
       "seqnames": "MAG06_876",
@@ -214,7 +334,22 @@
       "sscore": "12.56",
       "rscore": "7.63",
       "uscore": "-0.26",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_831_6",
+        "X2": "311403.Arad_9326",
+        "X3": 1.2e-142,
+        "X4": 511.1,
+        "X5": "UGPA",
+        "X6": "GO:0005575,GO:0005623,GO:0005886,GO:0006810,GO:0006811,GO:0006820,GO:0008150,GO:0015711,GO:0015748,GO:0015794,GO:0016020,GO:0044464,GO:0044699,GO:0044765,GO:0051179,GO:0051234,GO:0070811,GO:0071702,GO:0071944,GO:1901264",
+        "X7": "K05814",
+        "X8": "G3PCabcpp,G3PEabcpp,G3PGabcpp,G3PIabcpp,G3PSabcpp,GLYC2Pabcpp,GLYC3Pabc,GLYC3Pabcpp",
+        "X9": "bactNOG[38]",
+        "X10": "01Q8H@aproNOG,05E4X@bactNOG,16PD8@proNOG,COG1175@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "P",
+        "X13": "sn-glycerol-3-phosphate transport system, permease protein"
+      }
     },
     {
       "seqnames": "MAG06_876",
@@ -238,7 +373,22 @@
       "sscore": "8.14",
       "rscore": "7.63",
       "uscore": "-4.38",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_831_7",
+        "X2": "641118.OINT_2000839",
+        "X3": 7.8e-134,
+        "X4": 481.9,
+        "X5": "UGPE",
+        "X6": "GO:0005575,GO:0005623,GO:0005886,GO:0006810,GO:0006811,GO:0006820,GO:0008150,GO:0015711,GO:0015748,GO:0015794,GO:0016020,GO:0044464,GO:0044699,GO:0044765,GO:0051179,GO:0051234,GO:0070811,GO:0071702,GO:0071944,GO:1901264",
+        "X7": "K05815",
+        "X8": "G3PCabcpp,G3PEabcpp,G3PGabcpp,G3PIabcpp,G3PSabcpp,GLYC2Pabcpp,GLYC3Pabc,GLYC3Pabcpp",
+        "X9": "bactNOG[38]",
+        "X10": "01S4E@aproNOG,05EX2@bactNOG,16S50@proNOG,COG0395@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "P",
+        "X13": "Sn-glycerol-3-phosphate transport system permease protein"
+      }
     },
     {
       "seqnames": "MAG06_876",
@@ -262,7 +412,22 @@
       "sscore": "3.22",
       "rscore": "0.00",
       "uscore": "0.00",
-      "tscore": "3.22"
+      "tscore": "3.22",
+      "eggnog": {
+        "X1": "MAG06_831_8",
+        "X2": "311403.Arad_9328",
+        "X3": 5.2e-140,
+        "X4": 502.7,
+        "X5": "UGPC",
+        "X6": "GO:0005575,GO:0005623,GO:0005886,GO:0016020,GO:0044464,GO:0071944",
+        "X7": "K05816,K10112",
+        "X8": "G3PCabcpp,G3PEabcpp,G3PGabcpp,G3PIabcpp,G3PSabcpp,GLYC3Pabcpp",
+        "X9": "bactNOG[38]",
+        "X10": "01Q68@aproNOG,05C53@bactNOG,16PDX@proNOG,COG3842@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "E",
+        "X13": "ABC transporter"
+      }
     }
   ],
   "seqname": "MAG06_876",

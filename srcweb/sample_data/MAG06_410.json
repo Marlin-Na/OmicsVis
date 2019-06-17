@@ -22,7 +22,8 @@
       "sscore": "11.46",
       "rscore": "7.85",
       "uscore": "-1.17",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {}
     },
     {
       "seqnames": "MAG06_410",
@@ -46,7 +47,8 @@
       "sscore": "4.18",
       "rscore": "1.39",
       "uscore": "0.95",
-      "tscore": "2.49"
+      "tscore": "2.49",
+      "eggnog": {}
     },
     {
       "seqnames": "MAG06_410",
@@ -70,7 +72,22 @@
       "sscore": "19.09",
       "rscore": "13.75",
       "uscore": "1.70",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_48_6",
+        "X2": "266834.SMc02036",
+        "X3": 3.4e-119,
+        "X4": 433,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01YDB@aproNOG,08YZB@bactNOG,11N4U@NOG,17EP6@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": "K",
+        "X13": "Transcriptional regulator GntR family"
+      }
     },
     {
       "seqnames": "MAG06_410",
@@ -94,7 +111,8 @@
       "sscore": "3.22",
       "rscore": "0.00",
       "uscore": "0.00",
-      "tscore": "3.22"
+      "tscore": "3.22",
+      "eggnog": {}
     }
   ],
   "seqname": "MAG06_410",

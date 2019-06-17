@@ -22,7 +22,22 @@
       "sscore": "5.86",
       "rscore": "3.33",
       "uscore": "-0.46",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_920_3",
+        "X2": "656519.Halsa_0491",
+        "X3": 1.3e-89,
+        "X4": 335.5,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "05CG6@bactNOG,0EPN5@cloNOG,0NDUT@firmNOG,COG1593@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "G",
+        "X13": "transporter, DctM subunit"
+      }
     },
     {
       "seqnames": "MAG06_994",
@@ -46,7 +61,22 @@
       "sscore": "7.08",
       "rscore": "13.75",
       "uscore": "-1.81",
-      "tscore": "-4.87"
+      "tscore": "-4.87",
+      "eggnog": {
+        "X1": "MAG06_921_1",
+        "X2": "266834.SMc00650",
+        "X3": 2.5e-61,
+        "X4": 240,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01Z73@aproNOG,090I8@bactNOG,11R0E@NOG,17DEH@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": null,
+        "X13": null
+      }
     }
   ],
   "seqname": "MAG06_994",

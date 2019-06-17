@@ -22,7 +22,22 @@
       "sscore": "11.09",
       "rscore": "9.39",
       "uscore": "-2.29",
-      "tscore": "3.98"
+      "tscore": "3.98",
+      "eggnog": {
+        "X1": "MAG06_761_3",
+        "X2": "266834.SMc02086",
+        "X3": 0,
+        "X4": 1488.8,
+        "X5": "YCAI",
+        "X6": "GO:0005575,GO:0005623,GO:0005886,GO:0016020,GO:0044464,GO:0071944",
+        "X7": "K02238",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01RFS@aproNOG,07S72@bactNOG,16Q2M@proNOG,COG0658@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "ComEC Rec2-related protein"
+      }
     },
     {
       "seqnames": "MAG06_786",
@@ -46,7 +61,22 @@
       "sscore": "1.09",
       "rscore": "-0.21",
       "uscore": "-1.54",
-      "tscore": "3.49"
+      "tscore": "3.49",
+      "eggnog": {
+        "X1": "MAG06_761_4",
+        "X2": "266834.SMc02087",
+        "X3": 2.3e-162,
+        "X4": 576.6,
+        "X5": "GLTA",
+        "X6": "GO:0003674,GO:0003824,GO:0004108,GO:0005575,GO:0005622,GO:0005623,GO:0005737,GO:0005829,GO:0006091,GO:0006099,GO:0008150,GO:0008152,GO:0009060,GO:0009987,GO:0015980,GO:0016020,GO:0016740,GO:0016746,GO:0044237,GO:0044238,GO:0044424,GO:0044444,GO:0044464,GO:0044710,GO:0045333,GO:0046912,GO:0055114",
+        "X7": "K01647",
+        "X8": "CS",
+        "X9": "bactNOG[38]",
+        "X10": "01S9Y@aproNOG,05BZN@bactNOG,16PRY@proNOG,COG0372@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "C",
+        "X13": "citrate synthase"
+      }
     },
     {
       "seqnames": "MAG06_786",
@@ -70,7 +100,22 @@
       "sscore": "7.60",
       "rscore": "2.32",
       "uscore": "-0.33",
-      "tscore": "3.98"
+      "tscore": "3.98",
+      "eggnog": {
+        "X1": "MAG06_762_2",
+        "X2": "395965.Msil_3331",
+        "X3": 1.7e-32,
+        "X4": 144.1,
+        "X5": "OCAR_5167",
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "023EK@aproNOG,0607X@bactNOG,123QN@NOG,17NKY@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": null,
+        "X13": null
+      }
     },
     {
       "seqnames": "MAG06_786",
@@ -94,7 +139,22 @@
       "sscore": "11.13",
       "rscore": "6.39",
       "uscore": "-0.42",
-      "tscore": "3.98"
+      "tscore": "3.98",
+      "eggnog": {
+        "X1": "MAG06_762_3",
+        "X2": "438753.AZC_1162",
+        "X3": 4.2e-84,
+        "X4": 317,
+        "X5": "OCAR_5156",
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01TFV@aproNOG,08KS2@bactNOG,174XH@proNOG,COG1305@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "E",
+        "X13": "transglutaminase domain protein"
+      }
     },
     {
       "seqnames": "MAG06_786",
@@ -118,7 +178,22 @@
       "sscore": "3.77",
       "rscore": "-0.18",
       "uscore": "0.62",
-      "tscore": "3.98"
+      "tscore": "3.98",
+      "eggnog": {
+        "X1": "MAG06_763_1",
+        "X2": "266834.SMc00120",
+        "X3": 2.2e-183,
+        "X4": 646.7,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "02080@aproNOG,05Q3J@bactNOG,17JJY@proNOG,COG5330@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "Uncharacterized protein conserved in bacteria (DUF2336)"
+      }
     },
     {
       "seqnames": "MAG06_786",
@@ -142,7 +217,22 @@
       "sscore": "6.80",
       "rscore": "-0.18",
       "uscore": "3.00",
-      "tscore": "3.98"
+      "tscore": "3.98",
+      "eggnog": {
+        "X1": "MAG06_763_11",
+        "X2": "266834.SMc00065",
+        "X3": 8.4e-36,
+        "X4": 154.5,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "029J6@aproNOG,074XH@bactNOG,0Z3C0@NOG,187PE@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": null,
+        "X13": null
+      }
     }
   ],
   "seqname": "MAG06_786",

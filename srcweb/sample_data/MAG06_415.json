@@ -22,7 +22,22 @@
       "sscore": "3.22",
       "rscore": "0.00",
       "uscore": "0.00",
-      "tscore": "3.22"
+      "tscore": "3.22",
+      "eggnog": {
+        "X1": "MAG06_482_3",
+        "X2": "311403.Arad_9230",
+        "X3": 2.9e-151,
+        "X4": 540,
+        "X5": "GOBS_1448",
+        "X6": null,
+        "X7": "K01601",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01SD1@aproNOG,05DT1@bactNOG,16RD8@proNOG,COG1850@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "G",
+        "X13": "RuBisCO catalyzes two reactions the carboxylation of D- ribulose 1,5-bisphosphate, the primary event in carbon dioxide fixation, as well as the oxidative fragmentation of the pentose substrate. Both reactions occur simultaneously and in competition at the same active site (By similarity)"
+      }
     },
     {
       "seqnames": "MAG06_415",
@@ -46,7 +61,22 @@
       "sscore": "16.78",
       "rscore": "13.75",
       "uscore": "-1.79",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_483_1",
+        "X2": "266834.SMc01640",
+        "X3": 3.8e-275,
+        "X4": 952.2,
+        "X5": null,
+        "X6": null,
+        "X7": "K01895,K09181",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01QH6@aproNOG,05CD5@bactNOG,16PSI@proNOG,COG1042@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "C",
+        "X13": "CoA-binding domain protein"
+      }
     },
     {
       "seqnames": "MAG06_415",
@@ -70,7 +100,22 @@
       "sscore": "4.64",
       "rscore": "0.21",
       "uscore": "-0.19",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_483_2",
+        "X2": "266834.SMc01641",
+        "X3": 3e-148,
+        "X4": 529.6,
+        "X5": "CAID",
+        "X6": "GO:0003674,GO:0003824,GO:0006082,GO:0006577,GO:0006579,GO:0006807,GO:0008150,GO:0008152,GO:0008809,GO:0009056,GO:0009437,GO:0009987,GO:0016054,GO:0016853,GO:0016854,GO:0016856,GO:0019752,GO:0032787,GO:0034641,GO:0042413,GO:0043436,GO:0044237,GO:0044248,GO:0044270,GO:0044281,GO:0044282,GO:0044710,GO:0044712,GO:0046395,GO:0071704,GO:0072329,GO:1901575,GO:1901615,GO:1901616",
+        "X7": "K01715,K08299",
+        "X8": "CRNCDH",
+        "X9": "bactNOG[38]",
+        "X10": "01TC9@aproNOG,06YT9@bactNOG,16Q6W@proNOG,COG1024@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "I",
+        "X13": "carnitinyl-CoA dehydratase"
+      }
     },
     {
       "seqnames": "MAG06_415",
@@ -94,7 +139,22 @@
       "sscore": "14.06",
       "rscore": "10.54",
       "uscore": "-0.85",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_483_3",
+        "X2": "266834.SMc01642",
+        "X3": 9e-39,
+        "X4": 164.5,
+        "X5": "PRBA",
+        "X6": null,
+        "X7": "K02035",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01RMY@aproNOG,05ERF@bactNOG,0XQUV@NOG,16QNQ@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "ABC transporter"
+      }
     },
     {
       "seqnames": "MAG06_415",
@@ -118,7 +178,22 @@
       "sscore": "6.96",
       "rscore": "2.03",
       "uscore": "-0.53",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_484_1",
+        "X2": "266834.SMc03840",
+        "X3": 2.8e-100,
+        "X4": 369.8,
+        "X5": "PAT",
+        "X6": null,
+        "X7": "K03823",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01W6C@aproNOG,08Z7F@bactNOG,17DAK@proNOG,COG1247@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "M",
+        "X13": "N-acetyltransferase"
+      }
     }
   ],
   "seqname": "MAG06_415",

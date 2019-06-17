@@ -22,7 +22,22 @@
       "sscore": "9.68",
       "rscore": "9.04",
       "uscore": "-1.91",
-      "tscore": "3.20"
+      "tscore": "3.20",
+      "eggnog": {
+        "X1": "MAG06_645_3",
+        "X2": "266834.SMc02610",
+        "X3": 1.3e-163,
+        "X4": 580.9,
+        "X5": "GLXB",
+        "X6": null,
+        "X7": "K00764",
+        "X8": "GLUSx",
+        "X9": "bactNOG[38]",
+        "X10": "01QFZ@aproNOG,05EYU@bactNOG,16SN8@proNOG,COG0067@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "E",
+        "X13": "glutamine amidotransferase"
+      }
     },
     {
       "seqnames": "MAG06_623",
@@ -46,7 +61,22 @@
       "sscore": "10.31",
       "rscore": "6.52",
       "uscore": "0.58",
-      "tscore": "3.20"
+      "tscore": "3.20",
+      "eggnog": {
+        "X1": "MAG06_645_4",
+        "X2": "266834.SMc02609",
+        "X3": 5.2e-182,
+        "X4": 642.1,
+        "X5": "GLXA",
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01QCX@aproNOG,05ECQ@bactNOG,16PWE@proNOG,COG4977@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "K",
+        "X13": "Transcriptional regulator, ARAC family"
+      }
     },
     {
       "seqnames": "MAG06_623",
@@ -70,7 +100,22 @@
       "sscore": "3.22",
       "rscore": "0.00",
       "uscore": "0.00",
-      "tscore": "3.22"
+      "tscore": "3.22",
+      "eggnog": {
+        "X1": "MAG06_645_5",
+        "X2": "266834.SMc02608",
+        "X3": 1.6e-79,
+        "X4": 300.4,
+        "X5": "SOXB",
+        "X6": "GO:0005575,GO:0005622,GO:0005623,GO:0005737,GO:0044424,GO:0044464",
+        "X7": "K00303",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01S5Q@aproNOG,05DDR@bactNOG,0XQMM@NOG,16QXJ@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": "E",
+        "X13": "Sarcosine oxidase beta subunit"
+      }
     }
   ],
   "seqname": "MAG06_623",

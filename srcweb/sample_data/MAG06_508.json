@@ -22,7 +22,22 @@
       "sscore": "12.74",
       "rscore": "10.54",
       "uscore": "-0.79",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_551_6",
+        "X2": "491916.RHECIAT_CH0000206",
+        "X3": 7.2e-101,
+        "X4": 372.1,
+        "X5": "PHNL",
+        "X6": "GO:0006793,GO:0008150,GO:0008152,GO:0009056,GO:0009987,GO:0019634,GO:0019637,GO:0019700,GO:0044237,GO:0046434,GO:0071704,GO:1901575",
+        "X7": "K05780",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01TI5@aproNOG,05HRV@bactNOG,16S7A@proNOG,COG4778@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "P",
+        "X13": "phosphonate C-P lyase system protein PhnL"
+      }
     },
     {
       "seqnames": "MAG06_508",
@@ -46,7 +61,8 @@
       "sscore": "7.21",
       "rscore": "2.03",
       "uscore": "1.54",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {}
     },
     {
       "seqnames": "MAG06_508",
@@ -70,7 +86,22 @@
       "sscore": "3.42",
       "rscore": "0.21",
       "uscore": "0.21",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_551_7",
+        "X2": "347834.RHE_CH00163",
+        "X3": 1.4e-129,
+        "X4": 467.6,
+        "X5": "PHNK",
+        "X6": "GO:0006793,GO:0008150,GO:0008152,GO:0009056,GO:0009987,GO:0019634,GO:0019637,GO:0019700,GO:0044237,GO:0046434,GO:0071704,GO:1901575",
+        "X7": "K05781",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01S7J@aproNOG,05ENV@bactNOG,16S2B@proNOG,COG4107@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "P",
+        "X13": "phosphonate C-P lyase system protein PhnK"
+      }
     },
     {
       "seqnames": "MAG06_508",
@@ -94,7 +125,22 @@
       "sscore": "6.21",
       "rscore": "1.87",
       "uscore": "0.97",
-      "tscore": "3.37"
+      "tscore": "3.37",
+      "eggnog": {
+        "X1": "MAG06_551_8",
+        "X2": "347834.RHE_CH00164",
+        "X3": 1.3e-155,
+        "X4": 554.3,
+        "X5": "PHNJ",
+        "X6": "GO:0003674,GO:0003824,GO:0005488,GO:0006793,GO:0008150,GO:0008152,GO:0009056,GO:0009987,GO:0016829,GO:0019634,GO:0019637,GO:0019700,GO:0044237,GO:0046434,GO:0051536,GO:0051539,GO:0051540,GO:0071704,GO:1901575",
+        "X7": "K06163",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01Q9U@aproNOG,05FT8@bactNOG,16QTS@proNOG,COG3627@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "P",
+        "X13": "Phosphonate metabolism"
+      }
     }
   ],
   "seqname": "MAG06_508",

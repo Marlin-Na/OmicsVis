@@ -22,7 +22,22 @@
       "sscore": "17.30",
       "rscore": "13.75",
       "uscore": "0.56",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_123_7",
+        "X2": "266834.SMc00172",
+        "X3": 2e-139,
+        "X4": 500.4,
+        "X5": "HCAT",
+        "X6": "GO:0005575,GO:0005623,GO:0005886,GO:0016020,GO:0044464,GO:0071944",
+        "X7": "K05820",
+        "X8": "PPPNt2r,PPPNt2rpp",
+        "X9": "bactNOG[38]",
+        "X10": "01XRQ@aproNOG,05D8G@bactNOG,0XQVS@NOG,16SGU@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": "P",
+        "X13": "major facilitator superfamily MFS_1"
+      }
     },
     {
       "seqnames": "MAG06_590",
@@ -46,7 +61,22 @@
       "sscore": "-0.64",
       "rscore": "-4.72",
       "uscore": "0.44",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_124_1",
+        "X2": "266834.SMc01915",
+        "X3": 1.7e-79,
+        "X4": 300.4,
+        "X5": "NUOD",
+        "X6": "GO:0003674,GO:0003824,GO:0003954,GO:0005575,GO:0005622,GO:0005623,GO:0005737,GO:0005886,GO:0008150,GO:0008152,GO:0016020,GO:0016491,GO:0016651,GO:0016655,GO:0044424,GO:0044464,GO:0044710,GO:0050136,GO:0055114,GO:0071944",
+        "X7": "K00333,K13378",
+        "X8": "NADH10,NADH17pp,NADH2r,NADH5,NADH9",
+        "X9": "bactNOG[38]",
+        "X10": "01QUY@aproNOG,05CQV@bactNOG,16PYU@proNOG,COG0649@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "C",
+        "X13": "NDH-1 shuttles electrons from NADH, via FMN and iron- sulfur (Fe-S) centers, to quinones in the respiratory chain. The immediate electron acceptor for the enzyme in this species is believed to be ubiquinone. Couples the redox reaction to proton translocation (for every two electrons transferred, four hydrogen ions are translocated across the cytoplasmic membrane), and thus conserves the redox energy in a proton gradient (By similarity)"
+      }
     },
     {
       "seqnames": "MAG06_590",
@@ -70,7 +100,22 @@
       "sscore": "9.45",
       "rscore": "5.51",
       "uscore": "0.94",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_124_2",
+        "X2": "266834.SMc01914",
+        "X3": 4.9e-114,
+        "X4": 415.6,
+        "X5": "NUOC",
+        "X6": "GO:0003674,GO:0003824,GO:0003954,GO:0005575,GO:0005622,GO:0005623,GO:0005737,GO:0005829,GO:0005886,GO:0008150,GO:0008152,GO:0016020,GO:0016491,GO:0016651,GO:0016655,GO:0044424,GO:0044444,GO:0044464,GO:0044710,GO:0050136,GO:0055114,GO:0071944",
+        "X7": "K00332",
+        "X8": "NADH10,NADH2r,NADH5,NADH9",
+        "X9": "bactNOG[38]",
+        "X10": "01R8W@aproNOG,05CYU@bactNOG,16SWQ@proNOG,COG0852@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "C",
+        "X13": "NDH-1 shuttles electrons from NADH, via FMN and iron- sulfur (Fe-S) centers, to quinones in the respiratory chain. The immediate electron acceptor for the enzyme in this species is believed to be ubiquinone. Couples the redox reaction to proton translocation (for every two electrons transferred, four hydrogen ions are translocated across the cytoplasmic membrane), and thus conserves the redox energy in a proton gradient (By similarity)"
+      }
     },
     {
       "seqnames": "MAG06_590",
@@ -94,7 +139,22 @@
       "sscore": "9.76",
       "rscore": "5.51",
       "uscore": "1.26",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_124_3",
+        "X2": "266834.SMc01913",
+        "X3": 1.7e-108,
+        "X4": 397.1,
+        "X5": "NUOB",
+        "X6": "GO:0003674,GO:0003824,GO:0003954,GO:0005575,GO:0005623,GO:0005886,GO:0008150,GO:0008152,GO:0016020,GO:0016491,GO:0016651,GO:0016655,GO:0044464,GO:0044710,GO:0050136,GO:0055114,GO:0071944",
+        "X7": "K00331,K03940",
+        "X8": "NDH_1",
+        "X9": "bactNOG[38]",
+        "X10": "01QX7@aproNOG,05ES3@bactNOG,16PW9@proNOG,COG0377@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "C",
+        "X13": "NDH-1 shuttles electrons from NADH, via FMN and iron- sulfur (Fe-S) centers, to quinones in the respiratory chain. The immediate electron acceptor for the enzyme in this species is believed to be ubiquinone. Couples the redox reaction to proton translocation (for every two electrons transferred, four hydrogen ions are translocated across the cytoplasmic membrane), and thus conserves the redox energy in a proton gradient (By similarity)"
+      }
     },
     {
       "seqnames": "MAG06_590",
@@ -118,7 +178,22 @@
       "sscore": "10.33",
       "rscore": "7.63",
       "uscore": "-0.45",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_124_4",
+        "X2": "266834.SMc01912",
+        "X3": 1.1e-60,
+        "X4": 237.7,
+        "X5": "NUOA",
+        "X6": "GO:0003674,GO:0003824,GO:0003954,GO:0005575,GO:0005623,GO:0005886,GO:0008150,GO:0008152,GO:0016020,GO:0016491,GO:0016651,GO:0016655,GO:0044464,GO:0044710,GO:0050136,GO:0055114,GO:0071944",
+        "X7": "K00330",
+        "X8": "NADH17pp",
+        "X9": "bactNOG[38]",
+        "X10": "01WYD@aproNOG,05KWU@bactNOG,17C6J@proNOG,COG0838@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "C",
+        "X13": "NDH-1 shuttles electrons from NADH, via FMN and iron- sulfur (Fe-S) centers, to quinones in the respiratory chain (By similarity)"
+      }
     },
     {
       "seqnames": "MAG06_590",
@@ -142,7 +217,22 @@
       "sscore": "14.25",
       "rscore": "10.54",
       "uscore": "0.06",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_615_1",
+        "X2": "279238.Saro_2724",
+        "X3": 4.2e-40,
+        "X4": 170.2,
+        "X5": "BMUL_1823",
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01U0M@aproNOG,05FAG@bactNOG,16T0N@proNOG,COG4834@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "Uncharacterized protein conserved in bacteria (DUF2184)"
+      }
     },
     {
       "seqnames": "MAG06_590",
@@ -166,7 +256,22 @@
       "sscore": "17.06",
       "rscore": "13.75",
       "uscore": "-0.33",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_615_2",
+        "X2": "627192.SLG_22060",
+        "X3": 8.3e-16,
+        "X4": 89,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "0234R@aproNOG,06EPD@bactNOG,0Y18C@NOG,17VEG@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": null,
+        "X13": null
+      }
     }
   ],
   "seqname": "MAG06_590",

@@ -22,7 +22,22 @@
       "sscore": "5.44",
       "rscore": "-0.28",
       "uscore": "3.14",
-      "tscore": "2.58"
+      "tscore": "2.58",
+      "eggnog": {
+        "X1": "MAG06_853_3",
+        "X2": "347834.RHE_CH03843",
+        "X3": 5.8e-118,
+        "X4": 429.1,
+        "X5": null,
+        "X6": "GO:0005575,GO:0016020",
+        "X7": "K02025",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01V8Y@aproNOG,08PA5@bactNOG,0YEW2@NOG,176CW@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": "G",
+        "X13": "Binding-protein-dependent transport systems inner membrane component"
+      }
     },
     {
       "seqnames": "MAG06_901",
@@ -46,7 +61,22 @@
       "sscore": "3.22",
       "rscore": "0.00",
       "uscore": "0.00",
-      "tscore": "3.22"
+      "tscore": "3.22",
+      "eggnog": {
+        "X1": "MAG06_853_4",
+        "X2": "347834.RHE_CH03844",
+        "X3": 9.4e-205,
+        "X4": 718,
+        "X5": null,
+        "X6": null,
+        "X7": "K02027",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01UN4@aproNOG,069NJ@bactNOG,0XRJ8@NOG,177G0@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": "G",
+        "X13": "extracellular solute-binding protein, family 1"
+      }
     }
   ],
   "seqname": "MAG06_901",

@@ -22,7 +22,22 @@
       "sscore": "3.22",
       "rscore": "0.00",
       "uscore": "0.00",
-      "tscore": "3.22"
+      "tscore": "3.22",
+      "eggnog": {
+        "X1": "MAG06_649_3",
+        "X2": "216596.RL0606",
+        "X3": 3.3e-105,
+        "X4": 387.1,
+        "X5": "ECHA9",
+        "X6": "GO:0005575,GO:0005622,GO:0005623,GO:0005737,GO:0005829,GO:0044424,GO:0044444,GO:0044464",
+        "X7": "K01692",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01QWI@aproNOG,05E5S@bactNOG,16TAF@proNOG,COG1024@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "I",
+        "X13": "enoyl-CoA hydratase isomerase"
+      }
     },
     {
       "seqnames": "MAG06_626",
@@ -46,7 +61,22 @@
       "sscore": "3.38",
       "rscore": "7.85",
       "uscore": "0.40",
-      "tscore": "-4.87"
+      "tscore": "-4.87",
+      "eggnog": {
+        "X1": "MAG06_649_4",
+        "X2": "438753.AZC_0576",
+        "X3": 2.9e-160,
+        "X4": 570.1,
+        "X5": "FADE9",
+        "X6": "GO:0003674,GO:0003824,GO:0003995,GO:0006629,GO:0008150,GO:0008152,GO:0009056,GO:0016042,GO:0016491,GO:0016627,GO:0044238,GO:0044710,GO:0055114,GO:0071704,GO:1901575",
+        "X7": "K00248,K00249",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01RJG@aproNOG,05C1G@bactNOG,16PBA@proNOG,COG1960@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "I",
+        "X13": "acyl-CoA dehydrogenase"
+      }
     },
     {
       "seqnames": "MAG06_626",
@@ -70,7 +100,22 @@
       "sscore": "13.90",
       "rscore": "10.54",
       "uscore": "0.37",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_649_5",
+        "X2": "641118.OINT_1001311",
+        "X3": 6.1e-192,
+        "X4": 675.6,
+        "X5": null,
+        "X6": null,
+        "X7": "K07110",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01QI2@aproNOG,05CFF@bactNOG,16PV9@proNOG,COG1396@NOG,COG3800@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "K",
+        "X13": "transcriptional regulator, XRE family"
+      }
     },
     {
       "seqnames": "MAG06_626",
@@ -94,7 +139,22 @@
       "sscore": "5.72",
       "rscore": "2.03",
       "uscore": "0.05",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_649_6",
+        "X2": "176299.Atu3586",
+        "X3": 8.8e-269,
+        "X4": 931,
+        "X5": "PCCB",
+        "X6": "GO:0003674,GO:0003824,GO:0004658,GO:0006082,GO:0006520,GO:0006629,GO:0006631,GO:0006807,GO:0008150,GO:0008152,GO:0009056,GO:0009062,GO:0009063,GO:0009987,GO:0016042,GO:0016054,GO:0016421,GO:0016874,GO:0016885,GO:0019541,GO:0019752,GO:0032787,GO:0043436,GO:0044237,GO:0044238,GO:0044242,GO:0044248,GO:0044255,GO:0044281,GO:0044282,GO:0044710,GO:0044712,GO:0046395,GO:0046459,GO:0071704,GO:0072329,GO:1901564,GO:1901565,GO:1901575",
+        "X7": "K01966",
+        "X8": "PPCOAC",
+        "X9": "bactNOG[38]",
+        "X10": "01RSP@aproNOG,07QX3@bactNOG,16Q07@proNOG,COG4799@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "I",
+        "X13": "propionyl-CoA carboxylase beta"
+      }
     },
     {
       "seqnames": "MAG06_626",
@@ -118,7 +178,22 @@
       "sscore": "3.22",
       "rscore": "0.00",
       "uscore": "0.00",
-      "tscore": "3.22"
+      "tscore": "3.22",
+      "eggnog": {
+        "X1": "MAG06_649_7",
+        "X2": "176299.Atu3581",
+        "X3": 4.5e-91,
+        "X4": 339.3,
+        "X5": "PCCA",
+        "X6": "GO:0003674,GO:0003824,GO:0004658,GO:0006082,GO:0006520,GO:0006629,GO:0006631,GO:0006807,GO:0008150,GO:0008152,GO:0009056,GO:0009062,GO:0009063,GO:0009987,GO:0016042,GO:0016054,GO:0016421,GO:0016874,GO:0016885,GO:0019752,GO:0032787,GO:0043436,GO:0044237,GO:0044238,GO:0044242,GO:0044248,GO:0044255,GO:0044281,GO:0044282,GO:0044710,GO:0044712,GO:0046395,GO:0071704,GO:0072329,GO:1901564,GO:1901565,GO:1901575",
+        "X7": "K01965",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "02EF1@aproNOG,08JIK@bactNOG,173B4@proNOG,COG4770@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "I",
+        "X13": "carboxylase, alpha"
+      }
     }
   ],
   "seqname": "MAG06_626",

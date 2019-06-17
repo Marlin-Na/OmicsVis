@@ -22,7 +22,22 @@
       "sscore": "3.22",
       "rscore": "0.00",
       "uscore": "0.00",
-      "tscore": "3.22"
+      "tscore": "3.22",
+      "eggnog": {
+        "X1": "MAG06_967_5",
+        "X2": "266834.SMc01661",
+        "X3": 7e-159,
+        "X4": 565.1,
+        "X5": "MTTB2",
+        "X6": null,
+        "X7": "K14083",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01SIK@aproNOG,06EUB@bactNOG,173TG@proNOG,COG5598@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "H",
+        "X13": "trimethylamine methyltransferase"
+      }
     },
     {
       "seqnames": "MAG06_19",
@@ -46,7 +61,22 @@
       "sscore": "12.88",
       "rscore": "7.63",
       "uscore": "0.31",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_968_1",
+        "X2": "536019.Mesop_4369",
+        "X3": 2.8e-63,
+        "X4": 246.9,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01XGA@aproNOG,05KAH@bactNOG,17AKK@proNOG,COG4186@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "Metallophosphoesterase"
+      }
     },
     {
       "seqnames": "MAG06_19",
@@ -70,7 +100,22 @@
       "sscore": "5.68",
       "rscore": "2.03",
       "uscore": "0.66",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_968_2",
+        "X2": "652103.Rpdx1_1070",
+        "X3": 2.3e-57,
+        "X4": 227.3,
+        "X5": "XDHC",
+        "X6": null,
+        "X7": "K03518,K07302,K13480,K13483",
+        "X8": "HXAND,XAND",
+        "X9": "bactNOG[38]",
+        "X10": "01VXV@aproNOG,08UTP@bactNOG,17A4A@proNOG,COG2080@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "F",
+        "X13": "(2Fe-2S)-binding domain protein"
+      }
     },
     {
       "seqnames": "MAG06_19",
@@ -94,7 +139,22 @@
       "sscore": "2.96",
       "rscore": "10.54",
       "uscore": "2.56",
-      "tscore": "-10.14"
+      "tscore": "-10.14",
+      "eggnog": {
+        "X1": "MAG06_968_3",
+        "X2": "652103.Rpdx1_1071",
+        "X3": 2.5e-109,
+        "X4": 400.6,
+        "X5": "XDHB",
+        "X6": null,
+        "X7": "K11178",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01R50@aproNOG,05DIP@bactNOG,16Q2R@proNOG,COG1319@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "F",
+        "X13": "Molybdopterin dehydrogenase FAD-binding"
+      }
     },
     {
       "seqnames": "MAG06_19",
@@ -118,7 +178,22 @@
       "sscore": "11.28",
       "rscore": "7.85",
       "uscore": "-0.22",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_969_1",
+        "X2": "266834.SMc02909",
+        "X3": 4.5e-169,
+        "X4": 599,
+        "X5": "MLTB",
+        "X6": "GO:0003674,GO:0003824,GO:0008150,GO:0008152",
+        "X7": "K08305",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01QIF@aproNOG,05CVE@bactNOG,16QBZ@proNOG,COG2951@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "M",
+        "X13": "lytic murein transglycosylase"
+      }
     },
     {
       "seqnames": "MAG06_19",
@@ -142,7 +217,22 @@
       "sscore": "-4.54",
       "rscore": "7.63",
       "uscore": "-1.38",
-      "tscore": "-10.14"
+      "tscore": "-10.14",
+      "eggnog": {
+        "X1": "MAG06_969_2",
+        "X2": "266834.SMc02910",
+        "X3": 7.4e-306,
+        "X4": 1054.3,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01QWS@aproNOG,05E8G@bactNOG,16PVY@proNOG,COG0477@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "G",
+        "X13": "Major facilitator superfamily"
+      }
     },
     {
       "seqnames": "MAG06_19",
@@ -166,7 +256,22 @@
       "sscore": "3.22",
       "rscore": "0.00",
       "uscore": "0.00",
-      "tscore": "3.22"
+      "tscore": "3.22",
+      "eggnog": {
+        "X1": "MAG06_969_3",
+        "X2": "266834.SMc02911",
+        "X3": 1.8e-108,
+        "X4": 397.1,
+        "X5": "RIMP",
+        "X6": "GO:0000028,GO:0005575,GO:0005622,GO:0005623,GO:0005737,GO:0006412,GO:0006996,GO:0008150,GO:0008152,GO:0009058,GO:0009059,GO:0009987,GO:0010467,GO:0016043,GO:0019538,GO:0022607,GO:0022613,GO:0022618,GO:0034622,GO:0034645,GO:0042254,GO:0042255,GO:0042274,GO:0043170,GO:0043933,GO:0044085,GO:0044237,GO:0044238,GO:0044249,GO:0044260,GO:0044267,GO:0044424,GO:0044464,GO:0044699,GO:0044763,GO:0065003,GO:0070925,GO:0071704,GO:0071826,GO:0071840,GO:1901576",
+        "X7": "K09748",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01RSK@aproNOG,05K7D@bactNOG,17H3M@proNOG,COG0779@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "Required for maturation of 30S ribosomal subunits (By similarity)"
+      }
     }
   ],
   "seqname": "MAG06_19",

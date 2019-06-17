@@ -22,7 +22,22 @@
       "sscore": "3.61",
       "rscore": "2.03",
       "uscore": "-1.41",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_583_2",
+        "X2": "266834.SMc01764",
+        "X3": 3.2e-150,
+        "X4": 536.2,
+        "X5": "ATE",
+        "X6": "GO:0005575,GO:0005622,GO:0005623,GO:0005737,GO:0044424,GO:0044464",
+        "X7": "K00685",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01RKC@aproNOG,05DWA@bactNOG,16RGI@proNOG,COG2935@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "O",
+        "X13": "May conjugate Arg from its aminoacyl-tRNA to the N- termini of proteins containing an N-terminal aspartate or glutamate"
+      }
     },
     {
       "seqnames": "MAG06_546",
@@ -46,7 +61,22 @@
       "sscore": "6.36",
       "rscore": "2.03",
       "uscore": "0.69",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_583_3",
+        "X2": "266834.SMc01765",
+        "X3": 1.4e-76,
+        "X4": 290.8,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01ZWQ@aproNOG,05RBJ@bactNOG,17FJG@proNOG,COG1714@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "Rdd domain-containing protein"
+      }
     },
     {
       "seqnames": "MAG06_546",
@@ -70,7 +100,22 @@
       "sscore": "11.90",
       "rscore": "7.63",
       "uscore": "0.63",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_583_4",
+        "X2": "266834.SMc01766",
+        "X3": 6.6e-213,
+        "X4": 745,
+        "X5": "HEMB",
+        "X6": "GO:0003674,GO:0003824,GO:0004655,GO:0006725,GO:0006778,GO:0006779,GO:0006807,GO:0008150,GO:0008152,GO:0009058,GO:0009987,GO:0016829,GO:0016835,GO:0016836,GO:0018130,GO:0019438,GO:0033013,GO:0033014,GO:0034641,GO:0044237,GO:0044249,GO:0044271,GO:0046483,GO:0051186,GO:0051188,GO:0071704,GO:1901360,GO:1901362,GO:1901564,GO:1901566,GO:1901576",
+        "X7": "K01698",
+        "X8": "PPBNGS",
+        "X9": "bactNOG[38]",
+        "X10": "01RRM@aproNOG,05D52@bactNOG,16PKY@proNOG,COG0113@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "H",
+        "X13": "Delta-aminolevulinic acid dehydratase"
+      }
     },
     {
       "seqnames": "MAG06_546",
@@ -94,7 +139,22 @@
       "sscore": "11.86",
       "rscore": "10.54",
       "uscore": "-1.67",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_583_5",
+        "X2": "266834.SMc01767",
+        "X3": 5.9e-77,
+        "X4": 292,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "022ZE@aproNOG,05Z0C@bactNOG,12797@NOG,17NDX@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": null,
+        "X13": null
+      }
     },
     {
       "seqnames": "MAG06_546",
@@ -118,7 +178,22 @@
       "sscore": "11.28",
       "rscore": "7.63",
       "uscore": "0.66",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_583_6",
+        "X2": "266834.SMc01768",
+        "X3": 9.2e-90,
+        "X4": 334.7,
+        "X5": "MUCS",
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01W5P@aproNOG,08R95@bactNOG,11FPQ@NOG,177ZS@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": "K",
+        "X13": "Transcriptional regulator, MarR family"
+      }
     },
     {
       "seqnames": "MAG06_546",
@@ -142,7 +217,22 @@
       "sscore": "10.91",
       "rscore": "7.63",
       "uscore": "0.29",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_583_7",
+        "X2": "266834.SMc01769",
+        "X3": 9e-254,
+        "X4": 880.9,
+        "X5": "YCBB",
+        "X6": "GO:0003674,GO:0003824,GO:0004180,GO:0004185,GO:0005575,GO:0006950,GO:0006974,GO:0008150,GO:0008152,GO:0008233,GO:0008234,GO:0008236,GO:0008238,GO:0009273,GO:0009987,GO:0016020,GO:0016740,GO:0016746,GO:0016755,GO:0016787,GO:0016807,GO:0017171,GO:0033554,GO:0042546,GO:0043164,GO:0044085,GO:0044699,GO:0044763,GO:0050896,GO:0051716,GO:0070004,GO:0070008,GO:0070011,GO:0071554,GO:0071840,GO:0071972",
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01R8F@aproNOG,05DIT@bactNOG,16R47@proNOG,COG2989@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "Peptidoglycan binding domain-containing protein"
+      }
     },
     {
       "seqnames": "MAG06_546",
@@ -166,7 +256,22 @@
       "sscore": "10.24",
       "rscore": "7.85",
       "uscore": "-1.25",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_583_8",
+        "X2": "266834.SMc01770",
+        "X3": 9.7e-101,
+        "X4": 371.3,
+        "X5": "GLYA",
+        "X6": "GO:0005575,GO:0005622,GO:0005623,GO:0005737,GO:0044424,GO:0044464",
+        "X7": "K00600",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01Q6H@aproNOG,05C65@bactNOG,16Q4U@proNOG,COG0112@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "E",
+        "X13": "Catalyzes the reversible interconversion of serine and glycine with tetrahydrofolate (THF) serving as the one-carbon carrier. This reaction serves as the major source of one-carbon groups required for the biosynthesis of purines, thymidylate, methionine, and other important biomolecules. Also exhibits THF- independent aldolase activity toward beta-hydroxyamino acids, producing glycine and aldehydes, via a retro-aldol mechanism (By similarity)"
+      }
     },
     {
       "seqnames": "MAG06_546",
@@ -190,7 +295,22 @@
       "sscore": "7.76",
       "rscore": "2.03",
       "uscore": "2.09",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_584_2",
+        "X2": "224914.BAWG_0654",
+        "X3": 4.6e-73,
+        "X4": 279.6,
+        "X5": "GUAD",
+        "X6": "GO:0003674,GO:0003824,GO:0005488,GO:0008150,GO:0008152,GO:0008270,GO:0008892,GO:0016787,GO:0016810,GO:0016813,GO:0016814,GO:0018756,GO:0019239,GO:0043167,GO:0043169,GO:0046872,GO:0046914",
+        "X7": "K01487",
+        "X8": "GUAD",
+        "X9": "bactNOG[38]",
+        "X10": "02DVE@aproNOG,07QUY@bactNOG,171PC@proNOG,COG0402@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "F",
+        "X13": "Guanine deaminase"
+      }
     },
     {
       "seqnames": "MAG06_546",
@@ -214,7 +334,22 @@
       "sscore": "11.75",
       "rscore": "7.63",
       "uscore": "1.13",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_584_3",
+        "X2": "266835.mll2386",
+        "X3": 6.3e-32,
+        "X4": 141.7,
+        "X5": "BMUL_2287",
+        "X6": null,
+        "X7": "K13993",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01W5W@aproNOG,05VN1@bactNOG,17JY7@proNOG,COG0071@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "O",
+        "X13": "HeAt shock protein"
+      }
     },
     {
       "seqnames": "MAG06_546",
@@ -238,7 +373,22 @@
       "sscore": "-0.62",
       "rscore": "-4.72",
       "uscore": "1.10",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_584_4",
+        "X2": "323098.Nwi_2940",
+        "X3": 5e-21,
+        "X4": 105.1,
+        "X5": "BMUL_2287",
+        "X6": null,
+        "X7": "K13993",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01W5W@aproNOG,05VN1@bactNOG,17JY7@proNOG,COG0071@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "O",
+        "X13": "HeAt shock protein"
+      }
     },
     {
       "seqnames": "MAG06_546",
@@ -262,7 +412,22 @@
       "sscore": "-0.46",
       "rscore": "-3.78",
       "uscore": "-0.33",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_585_1",
+        "X2": "266834.SMc02174",
+        "X3": 8e-08,
+        "X4": 60.1,
+        "X5": "YQJF",
+        "X6": "GO:0005575,GO:0005623,GO:0005886,GO:0016020,GO:0044464,GO:0071944",
+        "X7": "K15977",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "021Y0@aproNOG,08VBZ@bactNOG,17ADB@proNOG,COG2259@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "DoxX family"
+      }
     }
   ],
   "seqname": "MAG06_546",

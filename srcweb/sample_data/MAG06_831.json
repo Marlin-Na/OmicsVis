@@ -22,7 +22,22 @@
       "sscore": "3.22",
       "rscore": "0.00",
       "uscore": "0.00",
-      "tscore": "3.22"
+      "tscore": "3.22",
+      "eggnog": {
+        "X1": "MAG06_801_1",
+        "X2": "266834.SMc02551",
+        "X3": 2.7e-138,
+        "X4": 496.5,
+        "X5": "CYSS",
+        "X6": "GO:0003674,GO:0003824,GO:0004812,GO:0004817,GO:0005575,GO:0005622,GO:0005623,GO:0005737,GO:0005829,GO:0006082,GO:0006139,GO:0006399,GO:0006412,GO:0006418,GO:0006423,GO:0006520,GO:0006725,GO:0006807,GO:0008150,GO:0008152,GO:0009058,GO:0009059,GO:0009987,GO:0010467,GO:0016070,GO:0016874,GO:0016875,GO:0016876,GO:0019538,GO:0019752,GO:0034641,GO:0034645,GO:0034660,GO:0040007,GO:0043038,GO:0043039,GO:0043170,GO:0043436,GO:0044237,GO:0044238,GO:0044249,GO:0044260,GO:0044267,GO:0044281,GO:0044424,GO:0044444,GO:0044464,GO:0044710,GO:0046483,GO:0071704,GO:0090304,GO:1901360,GO:1901564,GO:1901576",
+        "X7": "K01883",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01QBE@aproNOG,05C8N@bactNOG,16PG7@proNOG,COG0215@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "J",
+        "X13": "Cysteinyl-tRNA synthetase"
+      }
     },
     {
       "seqnames": "MAG06_831",
@@ -46,7 +61,22 @@
       "sscore": "9.80",
       "rscore": "6.86",
       "uscore": "0.80",
-      "tscore": "3.28"
+      "tscore": "3.28",
+      "eggnog": {
+        "X1": "MAG06_801_2",
+        "X2": "266834.SMc02550",
+        "X3": 4.5e-94,
+        "X4": 349,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01XJX@aproNOG,08VAT@bactNOG,17A2N@proNOG,COG3791@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "Glutathione-dependent formaldehyde-activating GFA"
+      }
     },
     {
       "seqnames": "MAG06_831",
@@ -70,7 +100,22 @@
       "sscore": "15.50",
       "rscore": "10.54",
       "uscore": "0.03",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_801_3",
+        "X2": "266834.SMc02549",
+        "X3": 1.1e-95,
+        "X4": 354.4,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01VY2@aproNOG,08UEF@bactNOG,11I4M@NOG,178RQ@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "Glutathione-dependent formaldehyde-activating"
+      }
     },
     {
       "seqnames": "MAG06_831",
@@ -94,7 +139,22 @@
       "sscore": "4.79",
       "rscore": "2.03",
       "uscore": "-0.23",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_801_4",
+        "X2": "266834.SMc02548",
+        "X3": 1.2e-61,
+        "X4": 240.7,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01YMH@aproNOG,05XG8@bactNOG,17D37@proNOG,COG3791@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "Glutathione-dependent formaldehyde-activating protein"
+      }
     },
     {
       "seqnames": "MAG06_831",
@@ -118,7 +178,8 @@
       "sscore": "13.11",
       "rscore": "10.54",
       "uscore": "-1.07",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {}
     },
     {
       "seqnames": "MAG06_831",
@@ -142,7 +203,22 @@
       "sscore": "9.25",
       "rscore": "13.75",
       "uscore": "0.37",
-      "tscore": "-4.87"
+      "tscore": "-4.87",
+      "eggnog": {
+        "X1": "MAG06_802_1",
+        "X2": "266834.SMc04154",
+        "X3": 2e-83,
+        "X4": 313.5,
+        "X5": "PURU",
+        "X6": null,
+        "X7": "K01433",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01SQH@aproNOG,05CIY@bactNOG,16PZY@proNOG,COG0788@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "F",
+        "X13": "formyltetrahydrofolate deformylase"
+      }
     },
     {
       "seqnames": "MAG06_831",
@@ -166,7 +242,22 @@
       "sscore": "8.20",
       "rscore": "2.03",
       "uscore": "1.34",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_802_2",
+        "X2": "266834.SMc02620",
+        "X3": 6.3e-132,
+        "X4": 475.3,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01RKD@aproNOG,05SPT@bactNOG,0XPBW@NOG,16QEX@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": "K",
+        "X13": "Transcriptional regulator"
+      }
     },
     {
       "seqnames": "MAG06_831",
@@ -190,7 +281,22 @@
       "sscore": "12.55",
       "rscore": "7.63",
       "uscore": "-0.93",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_802_3",
+        "X2": "266834.SMc02619",
+        "X3": 1.2e-50,
+        "X4": 204.1,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "024JJ@aproNOG,06E7T@bactNOG,0Y5HZ@NOG,17UXF@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": null,
+        "X13": null
+      }
     }
   ],
   "seqname": "MAG06_831",

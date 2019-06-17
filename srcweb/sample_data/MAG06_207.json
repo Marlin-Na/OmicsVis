@@ -22,7 +22,22 @@
       "sscore": "15.12",
       "rscore": "10.54",
       "uscore": "0.93",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_319_4",
+        "X2": "266834.SMc01653",
+        "X3": 6e-178,
+        "X4": 628.6,
+        "X5": "YDCT",
+        "X6": null,
+        "X7": "K02010,K02052,K11072,K11076",
+        "X8": "PTRCabc,PTRCabcpp,SPMDabc,SPMDabcpp",
+        "X9": "bactNOG[38]",
+        "X10": "01QVA@aproNOG,05C53@bactNOG,16QR8@proNOG,COG3842@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "E",
+        "X13": "Part of the ABC transporter complex PotABCD involved in spermidine putrescine import. Responsible for energy coupling to the transport system (By similarity)"
+      }
     },
     {
       "seqnames": "MAG06_207",
@@ -46,7 +61,22 @@
       "sscore": "8.72",
       "rscore": "13.75",
       "uscore": "-0.16",
-      "tscore": "-4.87"
+      "tscore": "-4.87",
+      "eggnog": {
+        "X1": "MAG06_319_5",
+        "X2": "266834.SMc01654",
+        "X3": 1.3e-169,
+        "X4": 600.9,
+        "X5": "YDCU",
+        "X6": "GO:0005575,GO:0005623,GO:0005886,GO:0016020,GO:0044464,GO:0071944",
+        "X7": "K02054,K11071",
+        "X8": "PTRCabc,PTRCabcpp,SPMDabc,SPMDabcpp",
+        "X9": "bactNOG[38]",
+        "X10": "01RHS@aproNOG,05D81@bactNOG,16QRT@proNOG,COG1176@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "E",
+        "X13": "Binding-protein-dependent transport systems inner membrane component"
+      }
     }
   ],
   "seqname": "MAG06_207",

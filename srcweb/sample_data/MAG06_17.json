@@ -22,7 +22,22 @@
       "sscore": "8.86",
       "rscore": "8.26",
       "uscore": "-1.94",
-      "tscore": "3.20"
+      "tscore": "3.20",
+      "eggnog": {
+        "X1": "MAG06_164_2",
+        "X2": "366394.Smed_2486",
+        "X3": 3.5e-147,
+        "X4": 526.2,
+        "X5": "WCAG8",
+        "X6": null,
+        "X7": "K00043",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01RBI@aproNOG,05EXW@bactNOG,16PZ3@proNOG,COG0451@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "G, M",
+        "X13": "nad-dependent epimerase dehydratase"
+      }
     },
     {
       "seqnames": "MAG06_17",
@@ -46,7 +61,22 @@
       "sscore": "11.20",
       "rscore": "9.04",
       "uscore": "-1.05",
-      "tscore": "3.20"
+      "tscore": "3.20",
+      "eggnog": {
+        "X1": "MAG06_965_3",
+        "X2": "266834.SMc01588",
+        "X3": 1.4e-265,
+        "X4": 920.2,
+        "X5": "R02212",
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01UB3@aproNOG,05C26@bactNOG,16PDZ@proNOG,COG1012@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "C",
+        "X13": "Aldehyde dehydrogenase"
+      }
     },
     {
       "seqnames": "MAG06_17",
@@ -70,7 +100,22 @@
       "sscore": "14.50",
       "rscore": "12.94",
       "uscore": "-1.64",
-      "tscore": "3.20"
+      "tscore": "3.20",
+      "eggnog": {
+        "X1": "MAG06_965_4",
+        "X2": "266834.SMc01582",
+        "X3": 1.6e-62,
+        "X4": 243.8,
+        "X5": "GBD",
+        "X6": null,
+        "X7": "K00001,K00043,K00086,K17067",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01QZ6@aproNOG,05C0A@bactNOG,16RMM@proNOG,COG1454@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "C",
+        "X13": "alcohol dehydrogenase"
+      }
     }
   ],
   "seqname": "MAG06_17",

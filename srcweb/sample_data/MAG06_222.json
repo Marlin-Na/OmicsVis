@@ -22,7 +22,22 @@
       "sscore": "6.53",
       "rscore": "2.03",
       "uscore": "0.86",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_333_2",
+        "X2": "1117943.SFHH103_02489",
+        "X3": 1.4e-71,
+        "X4": 274.2,
+        "X5": "BMUL_4975",
+        "X6": null,
+        "X7": "K03543",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01U85@aproNOG,07DHA@bactNOG,16SYN@proNOG,COG1566@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "V",
+        "X13": "secretion protein HlyD family"
+      }
     },
     {
       "seqnames": "MAG06_222",
@@ -46,7 +61,22 @@
       "sscore": "-2.48",
       "rscore": "2.03",
       "uscore": "1.02",
-      "tscore": "-4.87"
+      "tscore": "-4.87",
+      "eggnog": {
+        "X1": "MAG06_334_1",
+        "X2": "347834.RHE_CH03429",
+        "X3": 4.8e-90,
+        "X4": 335.9,
+        "X5": "HIPO",
+        "X6": null,
+        "X7": "K01436,K01451",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01R2I@aproNOG,05CH2@bactNOG,16PUF@proNOG,COG1473@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "E",
+        "X13": "hippurate hydrolase (EC 3.5.1.32)"
+      }
     }
   ],
   "seqname": "MAG06_222",

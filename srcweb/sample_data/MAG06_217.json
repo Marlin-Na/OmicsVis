@@ -22,7 +22,22 @@
       "sscore": "4.68",
       "rscore": "2.03",
       "uscore": "-0.99",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_327_10",
+        "X2": "412597.PaTRP_010100007029",
+        "X3": 2.2e-186,
+        "X4": 657.1,
+        "X5": null,
+        "X6": null,
+        "X7": "K03458",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "05C2W@bactNOG,16R02@proNOG,COG2233@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "F",
+        "X13": "permease"
+      }
     },
     {
       "seqnames": "MAG06_217",
@@ -46,7 +61,22 @@
       "sscore": "7.27",
       "rscore": "5.51",
       "uscore": "-1.23",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_327_11",
+        "X2": "977880.RALTA_A2832",
+        "X3": 2.9e-114,
+        "X4": 417.2,
+        "X5": "BMUL_3607",
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "05CKI@bactNOG,0B8R5@bproNOG,16R03@proNOG,COG0523@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "cobalamin synthesis protein"
+      }
     },
     {
       "seqnames": "MAG06_217",
@@ -70,7 +100,22 @@
       "sscore": "6.10",
       "rscore": "2.03",
       "uscore": "0.43",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_327_12",
+        "X2": "977880.RALTA_A2830",
+        "X3": 3.6e-167,
+        "X4": 593.2,
+        "X5": "XDHA",
+        "X6": "GO:0003674,GO:0003824,GO:0004854,GO:0005488,GO:0005506,GO:0008150,GO:0008152,GO:0016491,GO:0016725,GO:0016726,GO:0043167,GO:0043169,GO:0044710,GO:0046872,GO:0046914,GO:0055114",
+        "X7": "K00087,K11177,K12528",
+        "X8": "HXAND,XAND",
+        "X9": "bactNOG[38]",
+        "X10": "05C7W@bactNOG,16PWW@proNOG,COG1529@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "C",
+        "X13": "Xanthine dehydrogenase"
+      }
     }
   ],
   "seqname": "MAG06_217",

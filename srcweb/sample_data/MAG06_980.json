@@ -22,7 +22,22 @@
       "sscore": "10.45",
       "rscore": "9.41",
       "uscore": "-1.45",
-      "tscore": "2.49"
+      "tscore": "2.49",
+      "eggnog": {
+        "X1": "MAG06_911_3",
+        "X2": "266834.SMc02726",
+        "X3": 0,
+        "X4": 1478.4,
+        "X5": "BHUR",
+        "X6": "GO:0005575,GO:0005623,GO:0009279,GO:0016020,GO:0019867,GO:0030312,GO:0030313,GO:0031975,GO:0044462,GO:0044464,GO:0071944",
+        "X7": "K02014,K16087",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01URZ@aproNOG,07WIT@bactNOG,0XSH3@NOG,16UZH@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": "P",
+        "X13": "TonB-dependent hemoglobin transferrin lactoferrin"
+      }
     },
     {
       "seqnames": "MAG06_980",
@@ -46,7 +61,22 @@
       "sscore": "16.08",
       "rscore": "10.54",
       "uscore": "1.89",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_911_4",
+        "X2": "266834.SMc02725",
+        "X3": 4e-193,
+        "X4": 679.1,
+        "X5": "TRPE",
+        "X6": "GO:0000162,GO:0003674,GO:0003824,GO:0004049,GO:0006082,GO:0006520,GO:0006568,GO:0006576,GO:0006586,GO:0006725,GO:0006807,GO:0008150,GO:0008152,GO:0008652,GO:0009058,GO:0009072,GO:0009073,GO:0009308,GO:0009309,GO:0009987,GO:0016053,GO:0016829,GO:0016830,GO:0016833,GO:0018130,GO:0019438,GO:0019752,GO:0034641,GO:0042401,GO:0042430,GO:0042435,GO:0043436,GO:0044106,GO:0044237,GO:0044238,GO:0044249,GO:0044271,GO:0044281,GO:0044283,GO:0044710,GO:0044711,GO:0046219,GO:0046394,GO:0046483,GO:0071704,GO:1901360,GO:1901362,GO:1901564,GO:1901566,GO:1901576,GO:1901605,GO:1901607",
+        "X7": "K01657,K13503",
+        "X8": "ANS,ANS2",
+        "X9": "bactNOG[38]",
+        "X10": "01RJ3@aproNOG,05CRQ@bactNOG,16R32@proNOG,COG0147@NOG,COG0512@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "E",
+        "X13": "anthranilate synthase component i"
+      }
     },
     {
       "seqnames": "MAG06_980",
@@ -70,7 +100,22 @@
       "sscore": "13.69",
       "rscore": "7.85",
       "uscore": "0.94",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_912_2",
+        "X2": "266834.SMc00560",
+        "X3": 9.7e-39,
+        "X4": 164.5,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "06B2F@bactNOG,COG4541@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "E",
+        "X13": "Branched-chain amino acid transport"
+      }
     },
     {
       "seqnames": "MAG06_980",
@@ -94,7 +139,22 @@
       "sscore": "18.69",
       "rscore": "13.75",
       "uscore": "-0.23",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_912_3",
+        "X2": "266834.SMc00559",
+        "X3": 7.1e-111,
+        "X4": 405.2,
+        "X5": "AZLC",
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "021CV@aproNOG,08KTJ@bactNOG,176E7@proNOG,COG1296@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "E",
+        "X13": "amino acid"
+      }
     }
   ],
   "seqname": "MAG06_980",

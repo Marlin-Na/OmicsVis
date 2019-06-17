@@ -22,7 +22,22 @@
       "sscore": "3.22",
       "rscore": "0.00",
       "uscore": "0.00",
-      "tscore": "3.22"
+      "tscore": "3.22",
+      "eggnog": {
+        "X1": "MAG06_653_1",
+        "X2": "765698.Mesci_2495",
+        "X3": 2.7e-126,
+        "X4": 456.8,
+        "X5": null,
+        "X6": null,
+        "X7": "K17829",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01RXK@aproNOG,07QRC@bactNOG,16UUX@proNOG,COG0604@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "C",
+        "X13": "alcohol dehydrogenase"
+      }
     },
     {
       "seqnames": "MAG06_631",
@@ -46,7 +61,22 @@
       "sscore": "12.40",
       "rscore": "7.63",
       "uscore": "1.13",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_653_10",
+        "X2": "318586.Pden_0282",
+        "X3": 5.9e-89,
+        "X4": 332.4,
+        "X5": "EHUC",
+        "X6": "GO:0005575,GO:0016020",
+        "X7": "K02029,K10040",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01UQQ@aproNOG,08UXX@bactNOG,11IRP@NOG,17A6K@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": "E",
+        "X13": "ABC transporter permease"
+      }
     },
     {
       "seqnames": "MAG06_631",
@@ -70,7 +100,22 @@
       "sscore": "10.99",
       "rscore": "7.63",
       "uscore": "-0.28",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_653_11",
+        "X2": "412597.PaTRP_010100006934",
+        "X3": 2e-89,
+        "X4": 334,
+        "X5": "EHUD",
+        "X6": "GO:0005575,GO:0016020",
+        "X7": "K02029",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01RFC@aproNOG,08RPI@bactNOG,11FRH@NOG,176DP@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": "E",
+        "X13": "ABC transporter"
+      }
     },
     {
       "seqnames": "MAG06_631",
@@ -94,7 +139,22 @@
       "sscore": "12.28",
       "rscore": "10.54",
       "uscore": "-1.25",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_653_12",
+        "X2": "640511.BC1002_4833",
+        "X3": 1.1e-94,
+        "X4": 351.7,
+        "X5": null,
+        "X6": null,
+        "X7": "K01799,K06033",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "05RE0@bactNOG,17ASN@proNOG,COG3473@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "Q",
+        "X13": "Asp Glu hydantoin racemase"
+      }
     },
     {
       "seqnames": "MAG06_631",
@@ -118,7 +178,22 @@
       "sscore": "16.90",
       "rscore": "13.75",
       "uscore": "-0.49",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_653_13",
+        "X2": "765698.Mesci_2505",
+        "X3": 1.5e-120,
+        "X4": 438,
+        "X5": "ILVA",
+        "X6": null,
+        "X7": "K01754",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01R6Z@aproNOG,05C7B@bactNOG,16QMI@proNOG,COG1171@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "E",
+        "X13": "Threonine dehydratase"
+      }
     },
     {
       "seqnames": "MAG06_631",
@@ -142,7 +217,8 @@
       "sscore": "2.37",
       "rscore": "7.63",
       "uscore": "-0.39",
-      "tscore": "-4.87"
+      "tscore": "-4.87",
+      "eggnog": {}
     }
   ],
   "seqname": "MAG06_631",

@@ -22,7 +22,22 @@
       "sscore": "8.20",
       "rscore": "5.19",
       "uscore": "-0.64",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_7_1",
+        "X2": "266834.SMc04022",
+        "X3": 4.6e-217,
+        "X4": 758.8,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01SXX@aproNOG,05E3Z@bactNOG,16RR3@proNOG,COG5338@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "Uncharacterized protein conserved in bacteria (DUF2320)"
+      }
     },
     {
       "seqnames": "MAG06_702",
@@ -46,7 +61,22 @@
       "sscore": "-0.46",
       "rscore": "-4.72",
       "uscore": "-0.08",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_7_2",
+        "X2": "266834.SMc04023",
+        "X3": 7.3e-167,
+        "X4": 591.7,
+        "X5": "GALU",
+        "X6": "GO:0000271,GO:0000287,GO:0003674,GO:0003824,GO:0003983,GO:0005488,GO:0005575,GO:0005622,GO:0005623,GO:0005737,GO:0005829,GO:0005975,GO:0005976,GO:0005996,GO:0006011,GO:0006012,GO:0006139,GO:0006629,GO:0006725,GO:0006753,GO:0006793,GO:0006796,GO:0006807,GO:0008150,GO:0008152,GO:0008610,GO:0008653,GO:0009056,GO:0009058,GO:0009059,GO:0009103,GO:0009117,GO:0009225,GO:0009987,GO:0016051,GO:0016052,GO:0016740,GO:0016772,GO:0016779,GO:0019318,GO:0019320,GO:0019388,GO:0019637,GO:0033499,GO:0033692,GO:0034637,GO:0034641,GO:0034645,GO:0043167,GO:0043169,GO:0043170,GO:0044237,GO:0044238,GO:0044249,GO:0044255,GO:0044260,GO:0044262,GO:0044264,GO:0044281,GO:0044424,GO:0044444,GO:0044464,GO:0044710,GO:0044723,GO:0044724,GO:0046365,GO:0046483,GO:0046872,GO:0051748,GO:0055086,GO:0070569,GO:0071704,GO:1901135,GO:1901137,GO:1901360,GO:1901575,GO:1901576",
+        "X7": "K00963,K01840",
+        "X8": "GALUi,GLGC",
+        "X9": "bactNOG[38]",
+        "X10": "01S2F@aproNOG,05C3Y@bactNOG,16PN0@proNOG,COG1210@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "M",
+        "X13": "Utp--glucose-1-phosphate uridylyltransferase"
+      }
     },
     {
       "seqnames": "MAG06_702",
@@ -70,7 +100,22 @@
       "sscore": "4.98",
       "rscore": "2.03",
       "uscore": "-0.69",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_7_3",
+        "X2": "266834.SMc04024",
+        "X3": 1e-235,
+        "X4": 820.8,
+        "X5": "MLTB",
+        "X6": "GO:0003674,GO:0003824,GO:0008150,GO:0008152",
+        "X7": "K00786,K08305",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01RGS@aproNOG,05CVE@bactNOG,16QBZ@proNOG,COG2951@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "M",
+        "X13": "lytic murein transglycosylase"
+      }
     },
     {
       "seqnames": "MAG06_702",
@@ -94,7 +139,8 @@
       "sscore": "-1.73",
       "rscore": "-4.72",
       "uscore": "-1.40",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {}
     }
   ],
   "seqname": "MAG06_702",

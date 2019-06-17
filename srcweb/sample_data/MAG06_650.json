@@ -22,7 +22,22 @@
       "sscore": "3.23",
       "rscore": "0.21",
       "uscore": "-0.63",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_662_6",
+        "X2": "266834.SMc00287",
+        "X3": 1.3e-51,
+        "X4": 207.2,
+        "X5": "PDEN_1309",
+        "X6": "GO:0003674,GO:0003824,GO:0003954,GO:0008150,GO:0008152,GO:0016491,GO:0016651,GO:0016655,GO:0044710,GO:0050136,GO:0055114",
+        "X7": "K00329",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01ZNE@aproNOG,05KBB@bactNOG,11TR4@NOG,17FNG@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": "C",
+        "X13": "etc complex i subunit conserved region"
+      }
     },
     {
       "seqnames": "MAG06_650",
@@ -46,7 +61,22 @@
       "sscore": "1.24",
       "rscore": "7.63",
       "uscore": "-1.52",
-      "tscore": "-4.87"
+      "tscore": "-4.87",
+      "eggnog": {
+        "X1": "MAG06_662_7",
+        "X2": "266834.SMc00286",
+        "X3": 1.1e-193,
+        "X4": 681,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "024WJ@aproNOG,05DDI@bactNOG,16QU3@proNOG,COG2931@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "Q",
+        "X13": "Inherit from proNOG: Hemolysin-type calcium-binding"
+      }
     },
     {
       "seqnames": "MAG06_650",
@@ -70,7 +100,8 @@
       "sscore": "3.08",
       "rscore": "2.03",
       "uscore": "-2.59",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {}
     }
   ],
   "seqname": "MAG06_650",

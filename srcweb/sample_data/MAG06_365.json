@@ -22,7 +22,22 @@
       "sscore": "5.96",
       "rscore": "-4.72",
       "uscore": "1.02",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_446_2",
+        "X2": "266834.SMc02148",
+        "X3": 8.7e-176,
+        "X4": 621.3,
+        "X5": "PPK_2",
+        "X6": "GO:0003674,GO:0003824,GO:0006793,GO:0006796,GO:0008150,GO:0008152,GO:0008976,GO:0009987,GO:0016301,GO:0016310,GO:0016740,GO:0016772,GO:0016776,GO:0044237",
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01QEE@aproNOG,05CSR@bactNOG,16Q8X@proNOG,COG2326@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "polyphosphate kinase 2"
+      }
     },
     {
       "seqnames": "MAG06_365",
@@ -46,7 +61,22 @@
       "sscore": "3.22",
       "rscore": "0.00",
       "uscore": "0.00",
-      "tscore": "3.22"
+      "tscore": "3.22",
+      "eggnog": {
+        "X1": "MAG06_446_3",
+        "X2": "266834.SMc02149",
+        "X3": 1.1e-122,
+        "X4": 444.5,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "027K0@aproNOG,06RZP@bactNOG,0YIU0@NOG,180EI@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "(Regulator) protein"
+      }
     }
   ],
   "seqname": "MAG06_365",

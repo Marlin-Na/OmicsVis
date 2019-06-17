@@ -22,7 +22,22 @@
       "sscore": "4.90",
       "rscore": "3.32",
       "uscore": "-0.96",
-      "tscore": "3.20"
+      "tscore": "3.20",
+      "eggnog": {
+        "X1": "MAG06_509_5",
+        "X2": "266834.SMc04391",
+        "X3": 2.5e-131,
+        "X4": 473.4,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01S6E@aproNOG,08KA3@bactNOG,11HAD@NOG,16RBS@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "Short-chain dehydrogenase reductase SDR"
+      }
     },
     {
       "seqnames": "MAG06_447",
@@ -46,7 +61,22 @@
       "sscore": "4.15",
       "rscore": "1.87",
       "uscore": "0.09",
-      "tscore": "2.19"
+      "tscore": "2.19",
+      "eggnog": {
+        "X1": "MAG06_51_1",
+        "X2": "266834.SMc04247",
+        "X3": 1.2e-24,
+        "X4": 116.7,
+        "X5": "XYNB",
+        "X6": null,
+        "X7": "K01198",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01T4K@aproNOG,05DSG@bactNOG,16RXD@proNOG,COG3507@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "G",
+        "X13": "ec 3.2.1.37"
+      }
     },
     {
       "seqnames": "MAG06_447",
@@ -70,7 +100,22 @@
       "sscore": "0.57",
       "rscore": "-3.33",
       "uscore": "-0.31",
-      "tscore": "3.20"
+      "tscore": "3.20",
+      "eggnog": {
+        "X1": "MAG06_106_3",
+        "X2": "266834.SMc03210",
+        "X3": 7.8e-83,
+        "X4": 311.6,
+        "X5": null,
+        "X6": null,
+        "X7": "K03719",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01XT6@aproNOG,08S12@bactNOG,11FER@NOG,178PJ@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": "K",
+        "X13": "Transcriptional regulator"
+      }
     },
     {
       "seqnames": "MAG06_447",
@@ -94,7 +139,22 @@
       "sscore": "5.95",
       "rscore": "2.74",
       "uscore": "-1.13",
-      "tscore": "3.20"
+      "tscore": "3.20",
+      "eggnog": {
+        "X1": "MAG06_106_4",
+        "X2": "266834.SMc03211",
+        "X3": 1.3e-221,
+        "X4": 773.9,
+        "X5": "HPPD",
+        "X6": null,
+        "X7": "K00457",
+        "X8": "34HPPOR",
+        "X9": "bactNOG[38]",
+        "X10": "01SFW@aproNOG,05E6K@bactNOG,16RCK@proNOG,COG3185@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "Q",
+        "X13": "4-hydroxyphenylpyruvate dioxygenase"
+      }
     },
     {
       "seqnames": "MAG06_447",
@@ -118,7 +178,22 @@
       "sscore": "2.72",
       "rscore": "0.00",
       "uscore": "0.00",
-      "tscore": "3.22"
+      "tscore": "3.22",
+      "eggnog": {
+        "X1": "MAG06_106_5",
+        "X2": "266834.SMc03150",
+        "X3": 2.4e-129,
+        "X4": 466.8,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "0226E@aproNOG,060DG@bactNOG,17P8D@proNOG,COG2197@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "K",
+        "X13": "Transcriptional regulator"
+      }
     }
   ],
   "seqname": "MAG06_447",

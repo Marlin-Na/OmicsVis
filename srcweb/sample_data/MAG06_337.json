@@ -22,7 +22,22 @@
       "sscore": "7.44",
       "rscore": "10.54",
       "uscore": "0.58",
-      "tscore": "-4.87"
+      "tscore": "-4.87",
+      "eggnog": {
+        "X1": "MAG06_427_3",
+        "X2": "1117943.SFHH103_02245",
+        "X3": 9.2e-98,
+        "X4": 361.7,
+        "X5": "OCAR_6387",
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01Z43@aproNOG,05G4U@bactNOG,17EA6@proNOG,COG4649@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "Pfam:DUF2133"
+      }
     },
     {
       "seqnames": "MAG06_337",
@@ -46,7 +61,22 @@
       "sscore": "2.32",
       "rscore": "7.63",
       "uscore": "0.21",
-      "tscore": "-4.87"
+      "tscore": "-4.87",
+      "eggnog": {
+        "X1": "MAG06_427_4",
+        "X2": "394.NGR_c23750",
+        "X3": 1.6e-85,
+        "X4": 320.9,
+        "X5": "NNRU",
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01Y1Z@aproNOG,090D0@bactNOG,17CIR@proNOG,COG4094@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "NnrU family"
+      }
     },
     {
       "seqnames": "MAG06_337",
@@ -70,7 +100,22 @@
       "sscore": "5.12",
       "rscore": "2.03",
       "uscore": "0.10",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_428_1",
+        "X2": "216596.RL2745",
+        "X3": 2.6e-112,
+        "X4": 410.2,
+        "X5": "SCLAV_3818",
+        "X6": null,
+        "X7": "K00128,K00138",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01QA3@aproNOG,05C26@bactNOG,16PDZ@proNOG,COG1012@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "C",
+        "X13": "Aldehyde dehydrogenase"
+      }
     },
     {
       "seqnames": "MAG06_337",
@@ -94,7 +139,22 @@
       "sscore": "11.79",
       "rscore": "7.85",
       "uscore": "0.29",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_428_2",
+        "X2": "216596.RL2746",
+        "X3": 2.2e-71,
+        "X4": 273.5,
+        "X5": "FUCU",
+        "X6": "GO:0003674,GO:0003824,GO:0005488,GO:0005575,GO:0005622,GO:0005623,GO:0005737,GO:0008150,GO:0008152,GO:0016853,GO:0016854,GO:0016857,GO:0030246,GO:0042806,GO:0044424,GO:0044464,GO:0048029",
+        "X7": "K02431",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01WUX@aproNOG,05NWF@bactNOG,179NC@proNOG,COG4154@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "G",
+        "X13": "RbsD or FucU transport"
+      }
     },
     {
       "seqnames": "MAG06_337",
@@ -118,7 +178,22 @@
       "sscore": "14.13",
       "rscore": "7.85",
       "uscore": "1.34",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_428_3",
+        "X2": "311403.Arad_3580",
+        "X3": 2.7e-50,
+        "X4": 203.4,
+        "X5": "BL05182",
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "0227J@aproNOG,061NA@bactNOG,17R6V@proNOG,COG1765@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "O",
+        "X13": "OsmC-like protein"
+      }
     },
     {
       "seqnames": "MAG06_337",
@@ -142,7 +217,22 @@
       "sscore": "13.87",
       "rscore": "7.85",
       "uscore": "1.08",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_429_1",
+        "X2": "266779.Meso_2873",
+        "X3": 7.1e-94,
+        "X4": 349.4,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01ZAQ@aproNOG,05IGN@bactNOG,11T33@NOG,17DT3@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": null,
+        "X13": null
+      }
     },
     {
       "seqnames": "MAG06_337",
@@ -166,7 +256,22 @@
       "sscore": "12.62",
       "rscore": "7.63",
       "uscore": "0.11",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_429_3",
+        "X2": "266835.mll6376",
+        "X3": 8.1e-105,
+        "X4": 385.6,
+        "X5": "DAPA3",
+        "X6": null,
+        "X7": "K01714",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01REI@aproNOG,05H9A@bactNOG,16Q9R@proNOG,COG0329@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "E",
+        "X13": "dihydrodipicolinate"
+      }
     },
     {
       "seqnames": "MAG06_337",
@@ -190,7 +295,22 @@
       "sscore": "6.48",
       "rscore": "2.03",
       "uscore": "0.15",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_429_4",
+        "X2": "266779.Meso_2874",
+        "X3": 1e-131,
+        "X4": 475.7,
+        "X5": null,
+        "X6": null,
+        "X7": "K13661",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01UUD@aproNOG,08QVF@bactNOG,175XV@proNOG,COG3206@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "M",
+        "X13": "biosynthesis"
+      }
     },
     {
       "seqnames": "MAG06_337",
@@ -214,7 +334,22 @@
       "sscore": "3.22",
       "rscore": "0.00",
       "uscore": "0.00",
-      "tscore": "3.22"
+      "tscore": "3.22",
+      "eggnog": {
+        "X1": "MAG06_429_5",
+        "X2": "266779.Meso_2875",
+        "X3": 1.5e-171,
+        "X4": 607.8,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01TAD@aproNOG,08QZT@bactNOG,1773N@proNOG,COG3307@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "M",
+        "X13": "exopolysaccharide production protein"
+      }
     }
   ],
   "seqname": "MAG06_337",

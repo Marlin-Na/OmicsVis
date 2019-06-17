@@ -22,7 +22,22 @@
       "sscore": "14.07",
       "rscore": "13.75",
       "uscore": "-2.67",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_342_5",
+        "X2": "266834.SMc04274",
+        "X3": 6.4e-213,
+        "X4": 745,
+        "X5": null,
+        "X6": null,
+        "X7": "K07004",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01QDZ@aproNOG,07KEE@bactNOG,102QR@NOG,16RX5@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "Endonuclease Exonuclease phosphatase"
+      }
     },
     {
       "seqnames": "MAG06_240",
@@ -46,7 +61,22 @@
       "sscore": "-7.40",
       "rscore": "2.03",
       "uscore": "0.72",
-      "tscore": "-10.14"
+      "tscore": "-10.14",
+      "eggnog": {
+        "X1": "MAG06_342_6",
+        "X2": "266834.SMc04272",
+        "X3": 6.8e-142,
+        "X4": 508.4,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01YZA@aproNOG,05GP4@bactNOG,122ER@NOG,17E7F@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "NTP pyrophosphohydrolase protein, MuT nudix family"
+      }
     },
     {
       "seqnames": "MAG06_240",
@@ -70,7 +100,22 @@
       "sscore": "12.56",
       "rscore": "7.63",
       "uscore": "-1.46",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_342_7",
+        "X2": "266834.SMc04271",
+        "X3": 5.6e-170,
+        "X4": 602.1,
+        "X5": "PHZF",
+        "X6": null,
+        "X7": "K06998",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01V9N@aproNOG,05JAB@bactNOG,16SYP@proNOG,COG0384@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "phenazine biosynthesis protein"
+      }
     }
   ],
   "seqname": "MAG06_240",

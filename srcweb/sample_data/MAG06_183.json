@@ -22,7 +22,22 @@
       "sscore": "1.61",
       "rscore": "0.00",
       "uscore": "0.00",
-      "tscore": "1.61"
+      "tscore": "1.61",
+      "eggnog": {
+        "X1": "MAG06_298_1",
+        "X2": "1082931.KKY_1977",
+        "X3": 2e-24,
+        "X4": 117.1,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01UTE@aproNOG,05E1F@bactNOG,16RMP@proNOG,COG1028@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "Short-chain dehydrogenase reductase SDR"
+      }
     }
   ],
   "seqname": "MAG06_183",

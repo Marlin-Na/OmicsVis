@@ -22,7 +22,22 @@
       "sscore": "1.61",
       "rscore": "0.00",
       "uscore": "0.00",
-      "tscore": "1.61"
+      "tscore": "1.61",
+      "eggnog": {
+        "X1": "MAG06_735_2",
+        "X2": "762376.AXYL_06106",
+        "X3": 1.3e-35,
+        "X4": 154.5,
+        "X5": "YTFH",
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "0816S@bactNOG,0BDZZ@bproNOG,17DQB@proNOG,COG1733@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "K",
+        "X13": "HxlR family transcriptional regulator"
+      }
     }
   ],
   "seqname": "MAG06_751",

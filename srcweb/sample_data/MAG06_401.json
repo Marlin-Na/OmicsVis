@@ -22,7 +22,22 @@
       "sscore": "2.72",
       "rscore": "0.00",
       "uscore": "0.00",
-      "tscore": "3.22"
+      "tscore": "3.22",
+      "eggnog": {
+        "X1": "MAG06_473_5",
+        "X2": "371731.Rsw2DRAFT_1622",
+        "X3": 6.8e-64,
+        "X4": 248.8,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01YWP@aproNOG,05UF6@bactNOG,11XW9@NOG,17CT4@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "Protein of unknown function (DUF2380)"
+      }
     },
     {
       "seqnames": "MAG06_401",
@@ -46,7 +61,22 @@
       "sscore": "-7.00",
       "rscore": "2.03",
       "uscore": "1.11",
-      "tscore": "-10.14"
+      "tscore": "-10.14",
+      "eggnog": {
+        "X1": "MAG06_473_7",
+        "X2": "371731.Rsw2DRAFT_1619",
+        "X3": 9.9e-66,
+        "X4": 255,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01XCU@aproNOG,08WQX@bactNOG,17BNT@proNOG,COG0607@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "P",
+        "X13": "Inherit from proNOG: Rhodanese"
+      }
     },
     {
       "seqnames": "MAG06_401",
@@ -70,7 +100,22 @@
       "sscore": "19.15",
       "rscore": "13.75",
       "uscore": "0.46",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_473_8",
+        "X2": "371731.Rsw2DRAFT_1618",
+        "X3": 8.2e-115,
+        "X4": 418.7,
+        "X5": "MXAJ",
+        "X6": null,
+        "X7": "K02030,K16254",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01TJ8@aproNOG,08DY6@bactNOG,170PP@proNOG,COG0834@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "E, T",
+        "X13": "extracellular solute-binding protein, family 3"
+      }
     },
     {
       "seqnames": "MAG06_401",
@@ -94,7 +139,22 @@
       "sscore": "13.53",
       "rscore": "7.85",
       "uscore": "0.92",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_473_9",
+        "X2": "501479.CSE45_5239",
+        "X3": 5.3e-23,
+        "X4": 111.7,
+        "X5": "CYCB",
+        "X6": "GO:0005575,GO:0005623,GO:0042597,GO:0044464",
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01WZN@aproNOG,08U4V@bactNOG,11GSS@NOG,17A6Y@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": "C",
+        "X13": "Cytochrome c protein"
+      }
     },
     {
       "seqnames": "MAG06_401",
@@ -118,7 +178,22 @@
       "sscore": "12.09",
       "rscore": "7.85",
       "uscore": "-0.25",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_474_1",
+        "X2": "266834.SMc01020",
+        "X3": 6e-124,
+        "X4": 448.7,
+        "X5": "YITY",
+        "X6": "GO:0003674,GO:0003824,GO:0008150,GO:0008152,GO:0016491,GO:0044710,GO:0055114",
+        "X7": "K00103,K16653",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01TFU@aproNOG,05IQ5@bactNOG,16SDS@proNOG,COG0277@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "C",
+        "X13": "FAD linked oxidase domain protein"
+      }
     },
     {
       "seqnames": "MAG06_401",
@@ -142,7 +217,8 @@
       "sscore": "8.29",
       "rscore": "2.03",
       "uscore": "1.57",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {}
     }
   ],
   "seqname": "MAG06_401",

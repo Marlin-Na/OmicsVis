@@ -22,7 +22,22 @@
       "sscore": "3.22",
       "rscore": "0.00",
       "uscore": "0.00",
-      "tscore": "3.22"
+      "tscore": "3.22",
+      "eggnog": {
+        "X1": "MAG06_395_6",
+        "X2": "266834.SMc02869",
+        "X3": 2.7e-25,
+        "X4": 119.8,
+        "X5": "SMOK",
+        "X6": null,
+        "X7": "K10111",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01Q68@aproNOG,05C53@bactNOG,16PDX@proNOG,COG3842@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "E",
+        "X13": "ABC transporter"
+      }
     },
     {
       "seqnames": "MAG06_300",
@@ -46,7 +61,22 @@
       "sscore": "1.38",
       "rscore": "-4.72",
       "uscore": "2.45",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_396_1",
+        "X2": "266834.SMc00007",
+        "X3": 5.6e-209,
+        "X4": 731.9,
+        "X5": "AROC",
+        "X6": "GO:0003674,GO:0003824,GO:0004107,GO:0006082,GO:0008150,GO:0008152,GO:0009058,GO:0009423,GO:0009987,GO:0016053,GO:0016829,GO:0016835,GO:0016838,GO:0019752,GO:0043436,GO:0043648,GO:0043650,GO:0044237,GO:0044249,GO:0044281,GO:0044283,GO:0044710,GO:0044711,GO:0046394,GO:0046417,GO:0071704,GO:1901576",
+        "X7": "K01736",
+        "X8": "CHORS",
+        "X9": "bactNOG[38]",
+        "X10": "01RH5@aproNOG,05D10@bactNOG,16PWS@proNOG,COG0082@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "E",
+        "X13": "5-enolpyruvylshikimate-3-phosphate phospholyase"
+      }
     },
     {
       "seqnames": "MAG06_300",
@@ -70,7 +100,22 @@
       "sscore": "-2.70",
       "rscore": "-4.72",
       "uscore": "-1.63",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_396_2",
+        "X2": "266834.SMc00008",
+        "X3": 9.5e-209,
+        "X4": 731.1,
+        "X5": "RIBB",
+        "X6": "GO:0000287,GO:0003674,GO:0003824,GO:0005488,GO:0005575,GO:0005622,GO:0005623,GO:0005737,GO:0005829,GO:0005886,GO:0006766,GO:0006767,GO:0006771,GO:0006807,GO:0008150,GO:0008152,GO:0008686,GO:0009058,GO:0009110,GO:0009231,GO:0009987,GO:0016020,GO:0016829,GO:0016830,GO:0018130,GO:0034641,GO:0042364,GO:0042726,GO:0042727,GO:0043167,GO:0043169,GO:0044237,GO:0044249,GO:0044271,GO:0044281,GO:0044283,GO:0044424,GO:0044444,GO:0044464,GO:0044710,GO:0044711,GO:0046483,GO:0046872,GO:0071704,GO:0071944,GO:1901360,GO:1901362,GO:1901564,GO:1901566,GO:1901576",
+        "X7": "K02858,K14652",
+        "X8": "DB4PS,GTPCII",
+        "X9": "bactNOG[38]",
+        "X10": "01QB5@aproNOG,05C66@bactNOG,16Q65@proNOG,COG0108@NOG,COG0807@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "H",
+        "X13": "Catalyzes the conversion of D-ribulose 5-phosphate to formate and 3,4-dihydroxy-2-butanone 4-phosphate (By similarity)"
+      }
     }
   ],
   "seqname": "MAG06_300",

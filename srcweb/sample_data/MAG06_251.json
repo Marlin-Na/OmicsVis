@@ -22,7 +22,8 @@
       "sscore": "5.84",
       "rscore": "-0.37",
       "uscore": "2.56",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {}
     },
     {
       "seqnames": "MAG06_251",
@@ -46,7 +47,22 @@
       "sscore": "16.84",
       "rscore": "10.54",
       "uscore": "1.36",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_354_6",
+        "X2": "395492.Rleg2_2332",
+        "X3": 2.4e-20,
+        "X4": 103.2,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "02BVU@aproNOG,07FNZ@bactNOG,0ZUDY@NOG,18AIZ@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": null,
+        "X13": null
+      }
     },
     {
       "seqnames": "MAG06_251",
@@ -70,7 +86,22 @@
       "sscore": "15.51",
       "rscore": "13.75",
       "uscore": "-1.24",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_355_1",
+        "X2": "419610.Mext_3637",
+        "X3": 3.4e-46,
+        "X4": 190.3,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "0276P@aproNOG,05S23@bactNOG,11PW5@NOG,17ZE1@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": null,
+        "X13": null
+      }
     },
     {
       "seqnames": "MAG06_251",
@@ -94,7 +125,22 @@
       "sscore": "0.58",
       "rscore": "-4.72",
       "uscore": "2.30",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_355_2",
+        "X2": "1117943.SFHH103_03593",
+        "X3": 1.3e-164,
+        "X4": 584.3,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01SXH@aproNOG,07S46@bactNOG,16RQQ@proNOG,COG3509@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "Q",
+        "X13": "esterase, PHB depolymerase"
+      }
     },
     {
       "seqnames": "MAG06_251",
@@ -118,7 +164,8 @@
       "sscore": "4.40",
       "rscore": "2.03",
       "uscore": "-1.28",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {}
     }
   ],
   "seqname": "MAG06_251",

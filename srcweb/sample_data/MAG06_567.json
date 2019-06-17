@@ -22,7 +22,22 @@
       "sscore": "-1.55",
       "rscore": "2.03",
       "uscore": "-1.21",
-      "tscore": "-4.87"
+      "tscore": "-4.87",
+      "eggnog": {
+        "X1": "MAG06_6_6",
+        "X2": "266834.SMc02478",
+        "X3": 3.7e-219,
+        "X4": 765.8,
+        "X5": "YHCM",
+        "X6": null,
+        "X7": "K06916,K18798",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01R5D@aproNOG,05D6Z@bactNOG,16QPT@proNOG,COG1485@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "AFG1 family"
+      }
     },
     {
       "seqnames": "MAG06_567",
@@ -46,7 +61,22 @@
       "sscore": "7.40",
       "rscore": "2.03",
       "uscore": "0.54",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_6_7",
+        "X2": "266834.SMc02479",
+        "X3": 3.3e-173,
+        "X4": 612.8,
+        "X5": "MDH",
+        "X6": "GO:0003674,GO:0003824,GO:0006091,GO:0006099,GO:0008150,GO:0008152,GO:0009060,GO:0009987,GO:0015980,GO:0016491,GO:0016614,GO:0016615,GO:0016616,GO:0030060,GO:0044237,GO:0044238,GO:0044710,GO:0045333,GO:0055114",
+        "X7": "K00024",
+        "X8": "MDH",
+        "X9": "bactNOG[38]",
+        "X10": "01QQM@aproNOG,05C80@bactNOG,16Q71@proNOG,COG0039@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "C",
+        "X13": "Catalyzes the reversible oxidation of malate to oxaloacetate (By similarity)"
+      }
     },
     {
       "seqnames": "MAG06_567",
@@ -70,7 +100,8 @@
       "sscore": "14.74",
       "rscore": "8.08",
       "uscore": "2.02",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {}
     },
     {
       "seqnames": "MAG06_567",
@@ -94,7 +125,22 @@
       "sscore": "2.88",
       "rscore": "-0.37",
       "uscore": "-0.39",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_60_1",
+        "X2": "266834.SMc04270",
+        "X3": 5.1e-196,
+        "X4": 688.7,
+        "X5": "ADH",
+        "X6": null,
+        "X7": "K00001,K17829",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01SJA@aproNOG,05CB2@bactNOG,174CW@proNOG,COG0604@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "C",
+        "X13": "alcohol dehydrogenase"
+      }
     },
     {
       "seqnames": "MAG06_567",
@@ -118,7 +164,8 @@
       "sscore": "6.07",
       "rscore": "3.33",
       "uscore": "-0.90",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {}
     }
   ],
   "seqname": "MAG06_567",

@@ -22,7 +22,22 @@
       "sscore": "1.32",
       "rscore": "-1.48",
       "uscore": "-0.84",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_532_7",
+        "X2": "266834.SMc03791",
+        "X3": 7.3e-80,
+        "X4": 301.6,
+        "X5": null,
+        "X6": null,
+        "X7": "K00930",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01Y89@aproNOG,080IE@bactNOG,17CEM@proNOG,COG3824@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "Possibl zinc metallo-peptidase"
+      }
     },
     {
       "seqnames": "MAG06_479",
@@ -46,7 +61,22 @@
       "sscore": "15.21",
       "rscore": "13.75",
       "uscore": "-2.18",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_532_8",
+        "X2": "266834.SMc03790",
+        "X3": 4.7e-175,
+        "X4": 619,
+        "X5": null,
+        "X6": null,
+        "X7": "K14160",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01ZDZ@aproNOG,08ZTQ@bactNOG,17ECY@proNOG,COG4544@NOG",
+        "X11": "NA|NA|NA",
+        "X12": null,
+        "X13": null
+      }
     },
     {
       "seqnames": "MAG06_479",
@@ -70,7 +100,22 @@
       "sscore": "0.20",
       "rscore": "-4.72",
       "uscore": "1.93",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_532_9",
+        "X2": "266834.SMc03789",
+        "X3": 9.4e-81,
+        "X4": 304.7,
+        "X5": "IMUB",
+        "X6": null,
+        "X7": "K14161",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01R2R@aproNOG,07F83@bactNOG,16RBR@proNOG,COG0389@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "L",
+        "X13": "nucleotidyltransferase DNA polymerase involved in DNA"
+      }
     },
     {
       "seqnames": "MAG06_479",
@@ -94,7 +139,22 @@
       "sscore": "0.23",
       "rscore": "-3.78",
       "uscore": "0.36",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_533_2",
+        "X2": "439375.Oant_1835",
+        "X3": 1.3e-190,
+        "X4": 671.8,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "021BN@aproNOG,05TUU@bactNOG,121E6@NOG,17JMM@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": null,
+        "X13": null
+      }
     },
     {
       "seqnames": "MAG06_479",
@@ -118,7 +178,22 @@
       "sscore": "15.00",
       "rscore": "13.75",
       "uscore": "-1.74",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_533_3",
+        "X2": "311403.Arad_7398",
+        "X3": 4.1e-155,
+        "X4": 552.7,
+        "X5": "THIC",
+        "X6": "GO:0003674,GO:0003824,GO:0005575,GO:0005622,GO:0005623,GO:0005737,GO:0005829,GO:0005886,GO:0006725,GO:0006766,GO:0006767,GO:0006772,GO:0006790,GO:0006807,GO:0008150,GO:0008152,GO:0009058,GO:0009110,GO:0009228,GO:0009987,GO:0016020,GO:0018130,GO:0019438,GO:0034641,GO:0040007,GO:0042364,GO:0042723,GO:0042724,GO:0044237,GO:0044249,GO:0044271,GO:0044272,GO:0044281,GO:0044283,GO:0044424,GO:0044444,GO:0044464,GO:0044710,GO:0044711,GO:0046483,GO:0071704,GO:0071944,GO:0072527,GO:0072528,GO:1901360,GO:1901362,GO:1901564,GO:1901566,GO:1901576",
+        "X7": "K03147",
+        "X8": "5HBZIDS2,AHMMPS,AHMMPS_1,AMPMS,AMPMS2",
+        "X9": "bactNOG[38]",
+        "X10": "01SIR@aproNOG,05CBF@bactNOG,16Q2G@proNOG,COG0422@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "H",
+        "X13": "Catalyzes the synthesis of the hydroxymethylpyrimidine phosphate (HMP-P) moiety of thiamine from aminoimidazole ribotide (AIR) in a radical S-adenosyl-L-methionine (SAM)-dependent reaction (By similarity)"
+      }
     }
   ],
   "seqname": "MAG06_479",

@@ -22,7 +22,22 @@
       "sscore": "3.22",
       "rscore": "0.00",
       "uscore": "0.00",
-      "tscore": "3.22"
+      "tscore": "3.22",
+      "eggnog": {
+        "X1": "MAG06_272_2",
+        "X2": "347834.RHE_CH03241",
+        "X3": 3.7e-153,
+        "X4": 546.2,
+        "X5": null,
+        "X6": null,
+        "X7": "K15975",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "08I5N@bactNOG,0XT9J@NOG,172IN@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "dioxygenase"
+      }
     },
     {
       "seqnames": "MAG06_153",
@@ -46,7 +61,22 @@
       "sscore": "5.34",
       "rscore": "3.33",
       "uscore": "-0.98",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_272_3",
+        "X2": "491916.RHECIAT_CH0003484",
+        "X3": 1.3e-09,
+        "X4": 66.6,
+        "X5": "YAHD",
+        "X6": "GO:0005575,GO:0005622,GO:0005623,GO:0005737,GO:0044424,GO:0044464",
+        "X7": "K06999",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01XS9@aproNOG,05FBA@bactNOG,17B9K@proNOG,COG0400@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "K06999 phospholipase carboxylesterase"
+      }
     },
     {
       "seqnames": "MAG06_153",
@@ -70,7 +100,22 @@
       "sscore": "8.95",
       "rscore": "7.63",
       "uscore": "-1.67",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_273_1",
+        "X2": "266834.SMc03839",
+        "X3": 5.1e-80,
+        "X4": 302.4,
+        "X5": "YBHL",
+        "X6": "GO:0005575,GO:0005623,GO:0005886,GO:0009279,GO:0016020,GO:0019867,GO:0030312,GO:0030313,GO:0031975,GO:0044462,GO:0044464,GO:0071944",
+        "X7": "K06890",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01R58@aproNOG,05HFZ@bactNOG,16YP6@proNOG,COG0670@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "integral membrane protein"
+      }
     }
   ],
   "seqname": "MAG06_153",

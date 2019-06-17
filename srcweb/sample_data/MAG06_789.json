@@ -22,7 +22,22 @@
       "sscore": "9.88",
       "rscore": "7.63",
       "uscore": "-2.53",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_763_5",
+        "X2": "266834.SMc00128",
+        "X3": 1e-94,
+        "X4": 351.3,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01ZBB@aproNOG,05G51@bactNOG,17EA9@proNOG,COG5436@NOG",
+        "X11": "NA|NA|NA",
+        "X12": null,
+        "X13": null
+      }
     },
     {
       "seqnames": "MAG06_789",
@@ -46,7 +61,22 @@
       "sscore": "11.69",
       "rscore": "7.85",
       "uscore": "0.84",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_763_6",
+        "X2": "266834.SMc00457",
+        "X3": 2.6e-104,
+        "X4": 383.3,
+        "X5": "OCAR_6618",
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01XBV@aproNOG,05NEG@bactNOG,17A4Y@proNOG,COG5402@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "Protein of unknown function (DUF1214)"
+      }
     },
     {
       "seqnames": "MAG06_789",
@@ -70,7 +100,22 @@
       "sscore": "9.65",
       "rscore": "2.03",
       "uscore": "2.68",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_763_7",
+        "X2": "266834.SMc00122",
+        "X3": 0,
+        "X4": 1458,
+        "X5": "PONA",
+        "X6": "GO:0001666,GO:0003674,GO:0005488,GO:0005575,GO:0005618,GO:0005622,GO:0005623,GO:0005737,GO:0005829,GO:0005886,GO:0006950,GO:0008144,GO:0008150,GO:0008658,GO:0009607,GO:0009628,GO:0009987,GO:0016020,GO:0030288,GO:0030312,GO:0030313,GO:0031406,GO:0031975,GO:0033218,GO:0033293,GO:0033554,GO:0036293,GO:0036294,GO:0042221,GO:0042597,GO:0043167,GO:0043168,GO:0044403,GO:0044419,GO:0044424,GO:0044444,GO:0044462,GO:0044464,GO:0044699,GO:0044763,GO:0050896,GO:0051701,GO:0051704,GO:0051707,GO:0051716,GO:0052173,GO:0052200,GO:0052564,GO:0052572,GO:0070482,GO:0070887,GO:0071453,GO:0071456,GO:0071944,GO:0075136,GO:0097159,GO:1901363,GO:1901681",
+        "X7": "K05364,K05366,K05367",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01RKI@aproNOG,05BZ4@bactNOG,16PAV@proNOG,COG0744@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "M",
+        "X13": "penicillin-binding protein 1A"
+      }
     },
     {
       "seqnames": "MAG06_789",
@@ -94,7 +139,8 @@
       "sscore": "20.09",
       "rscore": "13.75",
       "uscore": "3.34",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {}
     },
     {
       "seqnames": "MAG06_789",
@@ -118,7 +164,22 @@
       "sscore": "5.63",
       "rscore": "2.03",
       "uscore": "-0.05",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_763_8",
+        "X2": "266834.SMc00064",
+        "X3": 4.8e-93,
+        "X4": 345.5,
+        "X5": "YCGN",
+        "X6": null,
+        "X7": "K09160",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01YAS@aproNOG,08ZZ3@bactNOG,17CA2@proNOG,COG2983@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "UPF0260 protein"
+      }
     },
     {
       "seqnames": "MAG06_789",
@@ -142,7 +203,22 @@
       "sscore": "-1.03",
       "rscore": "7.63",
       "uscore": "0.19",
-      "tscore": "-10.14"
+      "tscore": "-10.14",
+      "eggnog": {
+        "X1": "MAG06_763_9",
+        "X2": "266834.SMc00123",
+        "X3": 1.9e-59,
+        "X4": 233.4,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "0239F@aproNOG,060HM@bactNOG,123DP@NOG,17P0S@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "Pfam:DUF419"
+      }
     },
     {
       "seqnames": "MAG06_789",
@@ -166,7 +242,22 @@
       "sscore": "6.44",
       "rscore": "2.03",
       "uscore": "-0.35",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_764_1",
+        "X2": "311403.Arad_4550",
+        "X3": 5.3e-91,
+        "X4": 339.7,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01S38@aproNOG,08PSI@bactNOG,10EWM@NOG,175EF@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "Protein of unknown function (DUF1612)"
+      }
     }
   ],
   "seqname": "MAG06_789",

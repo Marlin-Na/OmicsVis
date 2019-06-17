@@ -22,7 +22,22 @@
       "sscore": "3.22",
       "rscore": "0.00",
       "uscore": "0.00",
-      "tscore": "3.22"
+      "tscore": "3.22",
+      "eggnog": {
+        "X1": "MAG06_55_10",
+        "X2": "266834.SMc04013",
+        "X3": 1.6e-222,
+        "X4": 776.9,
+        "X5": "PABB",
+        "X6": null,
+        "X7": "K01665,K03342",
+        "X8": "ADCL,ADCS,PABB",
+        "X9": "bactNOG[38]",
+        "X10": "01RN4@aproNOG,05CRQ@bactNOG,16R32@proNOG,COG0147@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "E",
+        "X13": "Para-aminobenzoate synthase"
+      }
     },
     {
       "seqnames": "MAG06_498",
@@ -46,7 +61,22 @@
       "sscore": "15.10",
       "rscore": "10.54",
       "uscore": "1.57",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_55_11",
+        "X2": "266834.SMc04012",
+        "X3": 1.3e-31,
+        "X4": 140.2,
+        "X5": "PEPF",
+        "X6": null,
+        "X7": "K08602",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01QWM@aproNOG,05DPN@bactNOG,16QM8@proNOG,COG1164@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "E",
+        "X13": "Oligoendopeptidase f"
+      }
     },
     {
       "seqnames": "MAG06_498",
@@ -70,7 +100,22 @@
       "sscore": "3.85",
       "rscore": "2.03",
       "uscore": "-1.17",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_55_12",
+        "X2": "266834.SMc04012",
+        "X3": 3.2e-298,
+        "X4": 1028.9,
+        "X5": "PEPF",
+        "X6": null,
+        "X7": "K08602",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01QWM@aproNOG,05DPN@bactNOG,16QM8@proNOG,COG1164@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "E",
+        "X13": "Oligoendopeptidase f"
+      }
     }
   ],
   "seqname": "MAG06_498",

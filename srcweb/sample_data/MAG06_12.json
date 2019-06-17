@@ -22,7 +22,22 @@
       "sscore": "13.62",
       "rscore": "6.39",
       "uscore": "3.25",
-      "tscore": "3.98"
+      "tscore": "3.98",
+      "eggnog": {
+        "X1": "MAG06_961_6",
+        "X2": "391591.VSAK1_10768",
+        "X3": 6.8e-104,
+        "X4": 382.5,
+        "X5": "ARAP",
+        "X6": "GO:0005575,GO:0016020",
+        "X7": "K10189",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "05D9V@bactNOG,0QZVU@gproNOG,171Z9@proNOG,COG1175@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "P",
+        "X13": "Binding-protein-dependent transport system inner membrane component"
+      }
     },
     {
       "seqnames": "MAG06_12",
@@ -46,7 +61,8 @@
       "sscore": "3.24",
       "rscore": "-0.18",
       "uscore": "0.09",
-      "tscore": "3.98"
+      "tscore": "3.98",
+      "eggnog": {}
     },
     {
       "seqnames": "MAG06_12",
@@ -70,7 +86,22 @@
       "sscore": "0.83",
       "rscore": "-0.18",
       "uscore": "-2.97",
-      "tscore": "3.98"
+      "tscore": "3.98",
+      "eggnog": {
+        "X1": "MAG06_961_7",
+        "X2": "391591.VSAK1_10773",
+        "X3": 1e-07,
+        "X4": 60.5,
+        "X5": null,
+        "X6": null,
+        "X7": "K02027,K10188,K17244",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "05DZU@bactNOG,0QSU1@gproNOG,0XQSR@NOG,176IF@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": "G",
+        "X13": "ABC-type sugar transport system, periplasmic component"
+      }
     },
     {
       "seqnames": "MAG06_12",
@@ -94,7 +125,22 @@
       "sscore": "-0.06",
       "rscore": "-0.18",
       "uscore": "-3.87",
-      "tscore": "3.98"
+      "tscore": "3.98",
+      "eggnog": {
+        "X1": "MAG06_962_1",
+        "X2": "639283.Snov_0550",
+        "X3": 1.6e-22,
+        "X4": 110.2,
+        "X5": "MT2508",
+        "X6": null,
+        "X7": "K03442",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "02BAZ@aproNOG,07Y63@bactNOG,16RCG@proNOG,COG0668@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "M",
+        "X13": "mscS Mechanosensitive ion channel"
+      }
     }
   ],
   "seqname": "MAG06_12",

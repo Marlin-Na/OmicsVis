@@ -22,7 +22,22 @@
       "sscore": "3.12",
       "rscore": "7.63",
       "uscore": "1.02",
-      "tscore": "-4.87"
+      "tscore": "-4.87",
+      "eggnog": {
+        "X1": "MAG06_978_1",
+        "X2": "675806.VII_000797",
+        "X3": 1.4e-62,
+        "X4": 245,
+        "X5": "SIAP",
+        "X6": "GO:0005575,GO:0005623,GO:0006810,GO:0006811,GO:0006820,GO:0006835,GO:0008150,GO:0015711,GO:0015740,GO:0015849,GO:0030288,GO:0030312,GO:0030313,GO:0031975,GO:0042597,GO:0044462,GO:0044464,GO:0044699,GO:0044765,GO:0046942,GO:0051179,GO:0051234,GO:0071702,GO:0071944",
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "08ERU@bactNOG,0QMIE@gproNOG,175RF@proNOG,COG1638@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "G",
+        "X13": "periplasmic"
+      }
     },
     {
       "seqnames": "MAG06_28",
@@ -46,7 +61,22 @@
       "sscore": "-0.13",
       "rscore": "-4.72",
       "uscore": "0.94",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_978_2",
+        "X2": "469595.CSAG_03018",
+        "X3": 1e-51,
+        "X4": 208.8,
+        "X5": "NANR",
+        "X6": "GO:0003674,GO:0003676,GO:0003677,GO:0005488,GO:0005575,GO:0006139,GO:0006351,GO:0006355,GO:0006725,GO:0006807,GO:0008150,GO:0008152,GO:0009058,GO:0009059,GO:0009889,GO:0009987,GO:0010467,GO:0010468,GO:0010556,GO:0016070,GO:0018130,GO:0019219,GO:0019222,GO:0019438,GO:0031323,GO:0031326,GO:0032774,GO:0032991,GO:0032993,GO:0034641,GO:0034645,GO:0034654,GO:0043170,GO:0044237,GO:0044238,GO:0044249,GO:0044260,GO:0044271,GO:0046483,GO:0050789,GO:0050794,GO:0051171,GO:0051252,GO:0060255,GO:0065007,GO:0071704,GO:0080090,GO:0090304,GO:0097159,GO:1901360,GO:1901362,GO:1901363,GO:1901576,GO:2000112,GO:2001141",
+        "X7": "K05799",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "08QBF@bactNOG,0QN5Y@gproNOG,173Q9@proNOG,COG2186@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "K",
+        "X13": "Transcriptional repressor of the nan operon that encodes proteins involved in sialic acid utilization (By similarity)"
+      }
     },
     {
       "seqnames": "MAG06_28",
@@ -70,7 +100,22 @@
       "sscore": "4.93",
       "rscore": "-4.72",
       "uscore": "-3.27",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_979_1",
+        "X2": "266834.SMc02072",
+        "X3": 0,
+        "X4": 1365.5,
+        "X5": "OCAR_6272",
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01W0V@aproNOG,08TBM@bactNOG,11FDJ@NOG,1795K@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "Sporulation domain protein"
+      }
     },
     {
       "seqnames": "MAG06_28",
@@ -94,7 +139,22 @@
       "sscore": "3.22",
       "rscore": "0.00",
       "uscore": "0.00",
-      "tscore": "3.22"
+      "tscore": "3.22",
+      "eggnog": {
+        "X1": "MAG06_98_1",
+        "X2": "266834.SMc02271",
+        "X3": 8.6e-27,
+        "X4": 124,
+        "X5": "RKPH",
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "020MS@aproNOG,07XE8@bactNOG,0YF8M@NOG,17CSV@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "Dehydrogenase"
+      }
     }
   ],
   "seqname": "MAG06_28",

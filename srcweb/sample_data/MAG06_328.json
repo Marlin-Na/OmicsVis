@@ -22,7 +22,22 @@
       "sscore": "3.22",
       "rscore": "0.00",
       "uscore": "0.00",
-      "tscore": "3.22"
+      "tscore": "3.22",
+      "eggnog": {
+        "X1": "MAG06_417_7",
+        "X2": "266834.SMc01446",
+        "X3": 8.9e-35,
+        "X4": 151,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "02A2E@aproNOG,07BSW@bactNOG,0Z9A2@NOG,1868G@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": null,
+        "X13": null
+      }
     },
     {
       "seqnames": "MAG06_328",
@@ -46,7 +61,22 @@
       "sscore": "11.77",
       "rscore": "9.04",
       "uscore": "0.18",
-      "tscore": "3.20"
+      "tscore": "3.20",
+      "eggnog": {
+        "X1": "MAG06_417_8",
+        "X2": "266834.SMc01445",
+        "X3": 1.8e-31,
+        "X4": 139.8,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "022TY@aproNOG,0658S@bactNOG,0XU3A@NOG,17R6D@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": null,
+        "X13": null
+      }
     },
     {
       "seqnames": "MAG06_328",
@@ -70,7 +100,22 @@
       "sscore": "16.09",
       "rscore": "12.94",
       "uscore": "-0.05",
-      "tscore": "3.20"
+      "tscore": "3.20",
+      "eggnog": {
+        "X1": "MAG06_417_9",
+        "X2": "266834.SMc01444",
+        "X3": 2.3e-156,
+        "X4": 556.6,
+        "X5": "THYA",
+        "X6": "GO:0003674,GO:0003824,GO:0004799,GO:0005575,GO:0005622,GO:0005623,GO:0005737,GO:0006139,GO:0006220,GO:0006221,GO:0006231,GO:0006244,GO:0006725,GO:0006753,GO:0006793,GO:0006796,GO:0006807,GO:0008150,GO:0008152,GO:0008168,GO:0009056,GO:0009058,GO:0009117,GO:0009123,GO:0009124,GO:0009125,GO:0009129,GO:0009130,GO:0009131,GO:0009157,GO:0009159,GO:0009162,GO:0009165,GO:0009166,GO:0009176,GO:0009177,GO:0009178,GO:0009219,GO:0009221,GO:0009223,GO:0009262,GO:0009263,GO:0009264,GO:0009265,GO:0009394,GO:0009987,GO:0016740,GO:0016741,GO:0018130,GO:0019438,GO:0019439,GO:0019637,GO:0019692,GO:0032259,GO:0034641,GO:0034654,GO:0034655,GO:0042083,GO:0044237,GO:0044238,GO:0044248,GO:0044249,GO:0044270,GO:0044271,GO:0044281,GO:0044424,GO:0044464,GO:0044710,GO:0046073,GO:0046078,GO:0046079,GO:0046385,GO:0046386,GO:0046434,GO:0046483,GO:0046700,GO:0055086,GO:0071704,GO:0072527,GO:0072528,GO:0072529,GO:0090407,GO:1901135,GO:1901136,GO:1901137,GO:1901292,GO:1901293,GO:1901360,GO:1901361,GO:1901362,GO:1901564,GO:1901565,GO:1901566,GO:1901575,GO:1901576",
+        "X7": "K00560",
+        "X8": "TMDS",
+        "X9": "bactNOG[38]",
+        "X10": "01QK2@aproNOG,05C0V@bactNOG,16R55@proNOG,COG0207@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "F",
+        "X13": "Provides the sole de novo source of dTMP for DNA biosynthesis (By similarity)"
+      }
     },
     {
       "seqnames": "MAG06_328",
@@ -94,7 +139,22 @@
       "sscore": "11.29",
       "rscore": "8.57",
       "uscore": "0.84",
-      "tscore": "3.03"
+      "tscore": "3.03",
+      "eggnog": {
+        "X1": "MAG06_418_1",
+        "X2": "439375.Oant_3437",
+        "X3": 2.8e-18,
+        "X4": 95.9,
+        "X5": "APRD",
+        "X6": null,
+        "X7": "K06147,K06148",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "02EFA@aproNOG,08JJ6@bactNOG,173BI@proNOG,COG4618@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "V",
+        "X13": "Type I secretion system ATPase"
+      }
     },
     {
       "seqnames": "MAG06_328",
@@ -118,7 +178,22 @@
       "sscore": "1.40",
       "rscore": "-1.53",
       "uscore": "-1.11",
-      "tscore": "3.20"
+      "tscore": "3.20",
+      "eggnog": {
+        "X1": "MAG06_418_2",
+        "X2": "641118.OINT_2000518",
+        "X3": 1.7e-157,
+        "X4": 561.2,
+        "X5": "APRE",
+        "X6": null,
+        "X7": "K02022,K16300",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01R2Q@aproNOG,05C42@bactNOG,0XNME@NOG,16PFI@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": "U",
+        "X13": "Type I secretion membrane fusion protein (HlyD"
+      }
     },
     {
       "seqnames": "MAG06_328",
@@ -142,7 +217,22 @@
       "sscore": "-5.89",
       "rscore": "5.86",
       "uscore": "-0.08",
-      "tscore": "-11.02"
+      "tscore": "-11.02",
+      "eggnog": {
+        "X1": "MAG06_1031_3",
+        "X2": "366394.Smed_2473",
+        "X3": 8.3e-111,
+        "X4": 405.6,
+        "X5": "ARAH13",
+        "X6": null,
+        "X7": "K02057,K10440,K10541,K10553,K17214",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01VC0@aproNOG,05CNN@bactNOG,1743H@proNOG,COG1172@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "G",
+        "X13": "Branched-chain amino acid transport system / permease component"
+      }
     },
     {
       "seqnames": "MAG06_328",
@@ -166,7 +256,22 @@
       "sscore": "5.62",
       "rscore": "3.57",
       "uscore": "0.09",
-      "tscore": "2.46"
+      "tscore": "2.46",
+      "eggnog": {
+        "X1": "MAG06_1032_1",
+        "X2": "412597.PaTRP_010100012494",
+        "X3": 5.4e-120,
+        "X4": 435.6,
+        "X5": null,
+        "X6": "GO:0003674,GO:0003824,GO:0008150,GO:0008152,GO:0016853,GO:0016854,GO:0016855,GO:0018112,GO:0036361,GO:0047661",
+        "X7": "K12658",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01SGF@aproNOG,05CTU@bactNOG,173KW@proNOG,COG3938@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "E",
+        "X13": "Proline racemase"
+      }
     },
     {
       "seqnames": "MAG06_328",
@@ -190,7 +295,22 @@
       "sscore": "4.71",
       "rscore": "-0.25",
       "uscore": "2.42",
-      "tscore": "3.20"
+      "tscore": "3.20",
+      "eggnog": {
+        "X1": "MAG06_1032_2",
+        "X2": "1050720.Agau_L101926",
+        "X3": 3.4e-210,
+        "X4": 736.5,
+        "X5": "BMUL_4971",
+        "X6": null,
+        "X7": "K09123",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01S7A@aproNOG,05DEY@bactNOG,16QZ3@proNOG,COG1679@NOG,COG1786@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "Protein of unknown function (DUF521)"
+      }
     },
     {
       "seqnames": "MAG06_328",
@@ -214,7 +334,22 @@
       "sscore": "14.21",
       "rscore": "9.04",
       "uscore": "0.68",
-      "tscore": "3.20"
+      "tscore": "3.20",
+      "eggnog": {
+        "X1": "MAG06_418_3",
+        "X2": "641118.OINT_2000517",
+        "X3": 2.6e-84,
+        "X4": 317,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01Y8P@aproNOG,05DDI@bactNOG,16QU3@proNOG,COG2931@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "Q",
+        "X13": "Hemolysin-type calcium-binding"
+      }
     },
     {
       "seqnames": "MAG06_328",
@@ -238,7 +373,22 @@
       "sscore": "13.97",
       "rscore": "9.04",
       "uscore": "1.73",
-      "tscore": "3.20"
+      "tscore": "3.20",
+      "eggnog": {
+        "X1": "MAG06_418_4",
+        "X2": "439375.Oant_3434",
+        "X3": 2.7e-234,
+        "X4": 817,
+        "X5": null,
+        "X6": null,
+        "X7": "K07011",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01RNV@aproNOG,07RGC@bactNOG,0XPRU@NOG,16QVP@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": "M",
+        "X13": "Glycosyl transferase, family 2"
+      }
     },
     {
       "seqnames": "MAG06_328",
@@ -262,7 +412,22 @@
       "sscore": "5.56",
       "rscore": "3.36",
       "uscore": "-1.00",
-      "tscore": "3.20"
+      "tscore": "3.20",
+      "eggnog": {
+        "X1": "MAG06_418_5",
+        "X2": "641118.OINT_2000515",
+        "X3": 7.8e-102,
+        "X4": 375.6,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01Q7X@aproNOG,05G47@bactNOG,11RMP@NOG,17682@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "Methyltransferase, type 11"
+      }
     }
   ],
   "seqname": "MAG06_328",

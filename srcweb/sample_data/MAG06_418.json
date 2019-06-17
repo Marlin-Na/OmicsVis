@@ -22,7 +22,22 @@
       "sscore": "3.22",
       "rscore": "0.00",
       "uscore": "0.00",
-      "tscore": "3.22"
+      "tscore": "3.22",
+      "eggnog": {
+        "X1": "MAG06_487_5",
+        "X2": "266834.SMc01102",
+        "X3": 6.5e-211,
+        "X4": 738.4,
+        "X5": "RMUC",
+        "X6": null,
+        "X7": "K09760",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01RIT@aproNOG,05CGY@bactNOG,16PXF@proNOG,COG1322@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "RmuC domain protein"
+      }
     },
     {
       "seqnames": "MAG06_418",
@@ -46,7 +61,22 @@
       "sscore": "8.08",
       "rscore": "2.03",
       "uscore": "1.12",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_487_6",
+        "X2": "266834.SMc01103",
+        "X3": 7.9e-153,
+        "X4": 545,
+        "X5": "RBSK",
+        "X6": null,
+        "X7": "K00852",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01SNR@aproNOG,08RVA@bactNOG,16PNU@proNOG,COG0524@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "G",
+        "X13": "Ribokinase"
+      }
     },
     {
       "seqnames": "MAG06_418",
@@ -70,7 +100,22 @@
       "sscore": "16.20",
       "rscore": "13.75",
       "uscore": "-0.55",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_487_7",
+        "X2": "266834.SMc01104",
+        "X3": 1.2e-41,
+        "X4": 174.1,
+        "X5": "TAP",
+        "X6": "GO:0003674,GO:0004871,GO:0004872,GO:0005575,GO:0005623,GO:0005886,GO:0006935,GO:0007154,GO:0007165,GO:0008150,GO:0009605,GO:0009987,GO:0016020,GO:0023052,GO:0040011,GO:0042221,GO:0042330,GO:0044464,GO:0044699,GO:0044700,GO:0044763,GO:0050789,GO:0050794,GO:0050896,GO:0051716,GO:0060089,GO:0065007,GO:0071944",
+        "X7": "K03406,K03776,K05874,K05875,K05876,K05877",
+        "X8": "CTECOAI6,CTECOAI7,CTECOAI8,HACD1i,HACD2i,HACD3i,HACD4i,HACD5i,HACD6i,HACD7i,HACD8i",
+        "X9": "bactNOG[38]",
+        "X10": "01QG3@aproNOG,05C8Q@bactNOG,16PCR@proNOG,COG0840@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "T",
+        "X13": "Methyl-accepting chemotaxis"
+      }
     },
     {
       "seqnames": "MAG06_418",
@@ -94,7 +139,22 @@
       "sscore": "8.29",
       "rscore": "13.75",
       "uscore": "-0.59",
-      "tscore": "-4.87"
+      "tscore": "-4.87",
+      "eggnog": {
+        "X1": "MAG06_488_1",
+        "X2": "216596.RL2863",
+        "X3": 2.6e-110,
+        "X4": 404.4,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "0216P@aproNOG,08NST@bactNOG,0ZJQ8@NOG,175WZ@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "Protein of unknown function (DUF3300)"
+      }
     },
     {
       "seqnames": "MAG06_418",
@@ -118,7 +178,22 @@
       "sscore": "13.14",
       "rscore": "7.63",
       "uscore": "0.57",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_488_2",
+        "X2": "216596.RL2862",
+        "X3": 2.3e-105,
+        "X4": 387.5,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01YI6@aproNOG,08U3S@bactNOG,0ZTQ8@NOG,179D8@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "Protein of unknown function (DUF2950)"
+      }
     },
     {
       "seqnames": "MAG06_418",
@@ -142,7 +217,22 @@
       "sscore": "11.70",
       "rscore": "13.75",
       "uscore": "1.53",
-      "tscore": "-4.87"
+      "tscore": "-4.87",
+      "eggnog": {
+        "X1": "MAG06_488_3",
+        "X2": "491916.RHECIAT_CH0002047",
+        "X3": 4.1e-79,
+        "X4": 300.1,
+        "X5": null,
+        "X6": null,
+        "X7": "K18912",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01QXS@aproNOG,07R3I@bactNOG,16TAY@proNOG,COG1262@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "Sulfatase-modifying factor enzyme 1"
+      }
     },
     {
       "seqnames": "MAG06_418",
@@ -166,7 +256,22 @@
       "sscore": "5.17",
       "rscore": "2.03",
       "uscore": "-1.66",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_489_1",
+        "X2": "266835.mll7373",
+        "X3": 5.3e-66,
+        "X4": 255.8,
+        "X5": null,
+        "X6": null,
+        "X7": "K02056",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "08KZW@bactNOG,176HZ@proNOG,COG1129@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "P",
+        "X13": "(ABC) transporter"
+      }
     }
   ],
   "seqname": "MAG06_418",

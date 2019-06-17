@@ -22,7 +22,22 @@
       "sscore": "6.17",
       "rscore": "-0.18",
       "uscore": "2.37",
-      "tscore": "3.98"
+      "tscore": "3.98",
+      "eggnog": {
+        "X1": "MAG06_920_2",
+        "X2": "536019.Mesop_5889",
+        "X3": 8.1e-92,
+        "X4": 341.7,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "08WYC@bactNOG,17A95@proNOG,COG2030@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "I",
+        "X13": "MaoC domain protein dehydratase"
+      }
     },
     {
       "seqnames": "MAG06_993",
@@ -46,7 +61,8 @@
       "sscore": "16.97",
       "rscore": "9.39",
       "uscore": "3.60",
-      "tscore": "3.98"
+      "tscore": "3.98",
+      "eggnog": {}
     }
   ],
   "seqname": "MAG06_993",

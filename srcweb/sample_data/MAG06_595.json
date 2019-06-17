@@ -22,7 +22,8 @@
       "sscore": "3.22",
       "rscore": "0.00",
       "uscore": "0.00",
-      "tscore": "3.22"
+      "tscore": "3.22",
+      "eggnog": {}
     },
     {
       "seqnames": "MAG06_595",
@@ -46,7 +47,22 @@
       "sscore": "6.12",
       "rscore": "2.03",
       "uscore": "1.10",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_618_7",
+        "X2": "266834.SMc03167",
+        "X3": 1.1e-293,
+        "X4": 1013.8,
+        "X5": null,
+        "X6": null,
+        "X7": "K03446",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "02DZU@aproNOG,08HHX@bactNOG,0ZVD3@NOG,1728B@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": "P",
+        "X13": "drug resistance transporter, EmrB QacA subfamily"
+      }
     },
     {
       "seqnames": "MAG06_595",
@@ -70,7 +86,22 @@
       "sscore": "2.55",
       "rscore": "-4.72",
       "uscore": "3.62",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_618_8",
+        "X2": "266834.SMc03168",
+        "X3": 6.2e-201,
+        "X4": 705.3,
+        "X5": "VCEA",
+        "X6": null,
+        "X7": "K03543",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01QVV@aproNOG,05CW7@bactNOG,16QCM@proNOG,COG1566@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "V",
+        "X13": "secretion protein (HlyD"
+      }
     },
     {
       "seqnames": "MAG06_595",
@@ -94,7 +125,22 @@
       "sscore": "14.15",
       "rscore": "10.54",
       "uscore": "-0.70",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_618_9",
+        "X2": "266834.SMc03169",
+        "X3": 5e-126,
+        "X4": 455.7,
+        "X5": "OCAR_5229",
+        "X6": null,
+        "X7": "K19736",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01YUH@aproNOG,05KBV@bactNOG,11WDK@NOG,17FQI@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": "K",
+        "X13": "Transcriptional regulator, TetR family"
+      }
     },
     {
       "seqnames": "MAG06_595",
@@ -118,7 +164,22 @@
       "sscore": "15.99",
       "rscore": "13.75",
       "uscore": "-1.41",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_619_1",
+        "X2": "641118.OINT_2001613",
+        "X3": 1.7e-22,
+        "X4": 109.8,
+        "X5": null,
+        "X6": null,
+        "X7": "K00863,K05878",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01SE3@aproNOG,05CMT@bactNOG,16QFR@proNOG,COG2376@NOG,COG2390@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "G",
+        "X13": "Dihydroxyacetone kinase"
+      }
     }
   ],
   "seqname": "MAG06_595",

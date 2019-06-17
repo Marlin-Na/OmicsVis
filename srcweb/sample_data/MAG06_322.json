@@ -22,7 +22,22 @@
       "sscore": "3.22",
       "rscore": "0.00",
       "uscore": "0.00",
-      "tscore": "3.22"
+      "tscore": "3.22",
+      "eggnog": {
+        "X1": "MAG06_407_4",
+        "X2": "266834.SMc01009",
+        "X3": 1.7e-94,
+        "X4": 350.5,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01ZI1@aproNOG,05FRG@bactNOG,17F9G@proNOG,COG3797@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "Protein of unknown function (DUF1697)"
+      }
     },
     {
       "seqnames": "MAG06_322",
@@ -46,7 +61,22 @@
       "sscore": "20.44",
       "rscore": "13.75",
       "uscore": "3.05",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_407_5",
+        "X2": "266834.SMc01010",
+        "X3": 0,
+        "X4": 1144,
+        "X5": "THRS",
+        "X6": "GO:0003674,GO:0003824,GO:0004812,GO:0004829,GO:0005575,GO:0005622,GO:0005623,GO:0005737,GO:0006082,GO:0006139,GO:0006399,GO:0006412,GO:0006418,GO:0006435,GO:0006520,GO:0006725,GO:0006807,GO:0008150,GO:0008152,GO:0009058,GO:0009059,GO:0009987,GO:0010467,GO:0016070,GO:0016874,GO:0016875,GO:0016876,GO:0019538,GO:0019752,GO:0034641,GO:0034645,GO:0034660,GO:0043038,GO:0043039,GO:0043170,GO:0043436,GO:0044237,GO:0044238,GO:0044249,GO:0044260,GO:0044267,GO:0044281,GO:0044424,GO:0044464,GO:0044710,GO:0046483,GO:0071704,GO:0090304,GO:1901360,GO:1901564,GO:1901576",
+        "X7": "K01868",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01Q93@aproNOG,05C22@bactNOG,16PDV@proNOG,COG0441@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "J",
+        "X13": "Threonyl-tRNA synthetase"
+      }
     },
     {
       "seqnames": "MAG06_322",
@@ -70,7 +100,22 @@
       "sscore": "5.79",
       "rscore": "2.03",
       "uscore": "0.12",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_408_1",
+        "X2": "290400.Jann_2069",
+        "X3": 1.6e-09,
+        "X4": 67.8,
+        "X5": "OCAR_6262",
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "021JV@aproNOG,05WZ0@bactNOG,122JD@NOG,17KYX@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": "T",
+        "X13": "Response regulator receiver"
+      }
     },
     {
       "seqnames": "MAG06_322",
@@ -94,7 +139,22 @@
       "sscore": "12.41",
       "rscore": "7.63",
       "uscore": "-0.12",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_408_6",
+        "X2": "395492.Rleg2_0641",
+        "X3": 5.9e-32,
+        "X4": 142.5,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "029VB@aproNOG,07699@bactNOG,0Z3I5@NOG,187UW@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": null,
+        "X13": null
+      }
     },
     {
       "seqnames": "MAG06_322",
@@ -118,7 +178,22 @@
       "sscore": "1.09",
       "rscore": "-0.69",
       "uscore": "-1.87",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_409_1",
+        "X2": "266834.SMc00568",
+        "X3": 1.2e-69,
+        "X4": 267.7,
+        "X5": "RPSF",
+        "X6": null,
+        "X7": "K02990",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01YFW@aproNOG,08ZDX@bactNOG,17CAU@proNOG,COG0360@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "J",
+        "X13": "Binds together with S18 to 16S ribosomal RNA (By similarity)"
+      }
     },
     {
       "seqnames": "MAG06_322",
@@ -142,7 +217,22 @@
       "sscore": "15.52",
       "rscore": "7.63",
       "uscore": "3.28",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_409_2",
+        "X2": "266834.SMc00567",
+        "X3": 4e-38,
+        "X4": 162.2,
+        "X5": "RPSR",
+        "X6": null,
+        "X7": "K02963",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01ZNX@aproNOG,05VH8@bactNOG,17FDT@proNOG,COG0238@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "J",
+        "X13": "Binds as a heterodimer with protein S6 to the central domain of the 16S rRNA, where it helps stabilize the platform of the 30S subunit (By similarity)"
+      }
     },
     {
       "seqnames": "MAG06_322",
@@ -166,7 +256,22 @@
       "sscore": "12.55",
       "rscore": "7.63",
       "uscore": "-1.76",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_409_3",
+        "X2": "266834.SMc00566",
+        "X3": 1.1e-165,
+        "X4": 587.8,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "02CPM@aproNOG,086TK@bactNOG,10225@NOG,16XIX@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": null,
+        "X13": null
+      }
     },
     {
       "seqnames": "MAG06_322",
@@ -190,7 +295,22 @@
       "sscore": "9.17",
       "rscore": "2.03",
       "uscore": "4.15",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_409_4",
+        "X2": "266834.SMc00565",
+        "X3": 6.3e-95,
+        "X4": 352.1,
+        "X5": "RPLI",
+        "X6": "GO:0005575,GO:0005618,GO:0005622,GO:0005623,GO:0005737,GO:0005829,GO:0005886,GO:0016020,GO:0030312,GO:0044424,GO:0044444,GO:0044464,GO:0071944",
+        "X7": "K02939",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01W8H@aproNOG,05K9Q@bactNOG,17C5I@proNOG,COG0359@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "J",
+        "X13": "Binds to the 23S rRNA (By similarity)"
+      }
     },
     {
       "seqnames": "MAG06_322",
@@ -214,7 +334,22 @@
       "sscore": "6.08",
       "rscore": "2.03",
       "uscore": "0.41",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_409_5",
+        "X2": "266834.SMc00564",
+        "X3": 1.3e-189,
+        "X4": 667.5,
+        "X5": "ENC_11380",
+        "X6": null,
+        "X7": "K03543",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01U7U@aproNOG,05E3T@bactNOG,16RQT@proNOG,COG1566@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "V",
+        "X13": "secretion protein"
+      }
     },
     {
       "seqnames": "MAG06_322",
@@ -238,7 +373,22 @@
       "sscore": "3.22",
       "rscore": "0.00",
       "uscore": "0.00",
-      "tscore": "3.22"
+      "tscore": "3.22",
+      "eggnog": {
+        "X1": "MAG06_409_6",
+        "X2": "266834.SMc00563",
+        "X3": 7.4e-279,
+        "X4": 964.5,
+        "X5": "RMRB",
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01UKT@aproNOG,063Y4@bactNOG,0XPP0@NOG,16QYP@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": "P",
+        "X13": "Major Facilitator"
+      }
     }
   ],
   "seqname": "MAG06_322",

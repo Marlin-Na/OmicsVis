@@ -22,7 +22,22 @@
       "sscore": "3.22",
       "rscore": "0.00",
       "uscore": "0.00",
-      "tscore": "3.22"
+      "tscore": "3.22",
+      "eggnog": {
+        "X1": "MAG06_783_11",
+        "X2": "266834.SMc02243",
+        "X3": 9.1e-90,
+        "X4": 334.7,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "0239U@aproNOG,08025@bactNOG,17MZE@proNOG,COG2340@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "scp-like extracellular"
+      }
     },
     {
       "seqnames": "MAG06_810",
@@ -46,7 +61,22 @@
       "sscore": "5.04",
       "rscore": "2.03",
       "uscore": "-0.63",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_783_2",
+        "X2": "266834.SMc02234",
+        "X3": 6e-144,
+        "X4": 515.4,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01QVB@aproNOG,06S83@bactNOG,0Y62H@NOG,173KI@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "Putative transmembrane protein (Alph_Pro_TM)"
+      }
     },
     {
       "seqnames": "MAG06_810",
@@ -70,7 +100,22 @@
       "sscore": "14.52",
       "rscore": "10.54",
       "uscore": "-0.70",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_783_3",
+        "X2": "266834.SMc02235",
+        "X3": 3.2e-37,
+        "X4": 159.1,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "020HG@aproNOG,05S3D@bactNOG,11XEU@NOG,17GP8@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": "K",
+        "X13": "Transcriptional regulator"
+      }
     },
     {
       "seqnames": "MAG06_810",
@@ -94,7 +139,22 @@
       "sscore": "19.91",
       "rscore": "13.75",
       "uscore": "1.42",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_783_4",
+        "X2": "266834.SMc02236",
+        "X3": 2.9e-137,
+        "X4": 493,
+        "X5": null,
+        "X6": null,
+        "X7": "K06953",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01WUE@aproNOG,08V9B@bactNOG,17B02@proNOG,COG1407@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "Metallophosphoesterase"
+      }
     },
     {
       "seqnames": "MAG06_810",
@@ -118,7 +178,22 @@
       "sscore": "6.44",
       "rscore": "2.03",
       "uscore": "-0.15",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_783_5",
+        "X2": "266834.SMc02237",
+        "X3": 0,
+        "X4": 1684.8,
+        "X5": "LHR",
+        "X6": null,
+        "X7": "K03724",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01RH2@aproNOG,07QRT@bactNOG,16PRA@proNOG,COG1201@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "L",
+        "X13": "Dead deah box"
+      }
     },
     {
       "seqnames": "MAG06_810",
@@ -142,7 +217,22 @@
       "sscore": "7.28",
       "rscore": "2.03",
       "uscore": "0.75",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_783_6",
+        "X2": "266834.SMc02238",
+        "X3": 8.6e-80,
+        "X4": 301.6,
+        "X5": null,
+        "X6": "GO:0008150,GO:0008152",
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01YQE@aproNOG,08RRS@bactNOG,178CR@proNOG,COG1959@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "K",
+        "X13": "Transcriptional regulator"
+      }
     },
     {
       "seqnames": "MAG06_810",
@@ -166,7 +256,22 @@
       "sscore": "13.47",
       "rscore": "7.63",
       "uscore": "0.91",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_783_7",
+        "X2": "266834.SMc02239",
+        "X3": 8.9e-84,
+        "X4": 314.7,
+        "X5": "OCAR_5492",
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01Y0U@aproNOG,05MDH@bactNOG,17CV3@proNOG,COG2128@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "Antioxidant protein with alkyl hydroperoxidase activity. Required for the reduction of the AhpC active site cysteine residues and for the regeneration of the AhpC enzyme activity (By similarity)"
+      }
     },
     {
       "seqnames": "MAG06_810",
@@ -190,7 +295,22 @@
       "sscore": "5.86",
       "rscore": "2.03",
       "uscore": "-1.06",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_783_8",
+        "X2": "266834.SMc02240",
+        "X3": 2.5e-108,
+        "X4": 396.7,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01WHE@aproNOG,07SXH@bactNOG,17A5G@proNOG,COG1284@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "Uncharacterized BCR, YitT family COG1284"
+      }
     }
   ],
   "seqname": "MAG06_810",

@@ -22,7 +22,22 @@
       "sscore": "10.91",
       "rscore": "9.04",
       "uscore": "-0.68",
-      "tscore": "3.20"
+      "tscore": "3.20",
+      "eggnog": {
+        "X1": "MAG06_1042_2",
+        "X2": "397945.Aave_4613",
+        "X3": 1.6e-21,
+        "X4": 108.2,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "05M7G@bactNOG,17FXH@proNOG,COG3932@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "exopolysaccharide synthesis"
+      }
     },
     {
       "seqnames": "MAG06_413",
@@ -46,7 +61,22 @@
       "sscore": "4.62",
       "rscore": "3.32",
       "uscore": "-1.89",
-      "tscore": "3.20"
+      "tscore": "3.20",
+      "eggnog": {
+        "X1": "MAG06_481_2",
+        "X2": "316057.RPD_1108",
+        "X3": 4.3e-17,
+        "X4": 92.8,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "0250T@aproNOG,0685W@bactNOG,0XYU3@NOG,17TIC@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": null,
+        "X13": null
+      }
     }
   ],
   "seqname": "MAG06_413",

@@ -22,7 +22,22 @@
       "sscore": "7.69",
       "rscore": "7.85",
       "uscore": "-3.81",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_242_4",
+        "X2": "430066.BAbS19_II08910",
+        "X3": 5.5e-168,
+        "X4": 595.5,
+        "X5": null,
+        "X6": null,
+        "X7": "K01714",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01QM6@aproNOG,05S5T@bactNOG,16TF3@proNOG,COG0329@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "E",
+        "X13": "dihydrodipicolinate"
+      }
     },
     {
       "seqnames": "MAG06_120",
@@ -46,7 +61,22 @@
       "sscore": "8.43",
       "rscore": "2.03",
       "uscore": "1.61",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_242_5",
+        "X2": "1050720.Agau_L101913",
+        "X3": 2.9e-97,
+        "X4": 360.1,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01SC6@aproNOG,05FWT@bactNOG,0XPZK@NOG,16R3W@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": "K",
+        "X13": "Transcriptional regulator, gntR family"
+      }
     },
     {
       "seqnames": "MAG06_120",
@@ -70,7 +100,8 @@
       "sscore": "6.62",
       "rscore": "2.03",
       "uscore": "-0.30",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {}
     },
     {
       "seqnames": "MAG06_120",
@@ -94,7 +125,8 @@
       "sscore": "10.34",
       "rscore": "5.51",
       "uscore": "-0.05",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {}
     },
     {
       "seqnames": "MAG06_120",
@@ -118,7 +150,22 @@
       "sscore": "16.33",
       "rscore": "10.54",
       "uscore": "0.85",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_242_6",
+        "X2": "311403.Arad_2756",
+        "X3": 1.7e-79,
+        "X4": 300.8,
+        "X5": null,
+        "X6": null,
+        "X7": "K01768",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "0267C@aproNOG,06K7I@bactNOG,0XZQG@NOG,17Y24@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": "T",
+        "X13": "Adenylate cyclase"
+      }
     },
     {
       "seqnames": "MAG06_120",
@@ -142,7 +189,22 @@
       "sscore": "16.75",
       "rscore": "13.75",
       "uscore": "-1.59",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_243_1",
+        "X2": "266834.SMc01412",
+        "X3": 2.9e-11,
+        "X4": 72,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01WDJ@aproNOG,08T6M@bactNOG,17956@proNOG,COG3482@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "TfuA domain protein core"
+      }
     }
   ],
   "seqname": "MAG06_120",

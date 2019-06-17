@@ -22,7 +22,22 @@
       "sscore": "9.51",
       "rscore": "7.85",
       "uscore": "-1.33",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_578_1",
+        "X2": "765698.Mesci_5260",
+        "X3": 3.4e-101,
+        "X4": 373.2,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01VQJ@aproNOG,05MS1@bactNOG,0XS53@NOG,16RM2@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": "K",
+        "X13": "LysR family transcriptional regulator"
+      }
     },
     {
       "seqnames": "MAG06_538",
@@ -46,7 +61,22 @@
       "sscore": "2.97",
       "rscore": "7.63",
       "uscore": "0.21",
-      "tscore": "-4.87"
+      "tscore": "-4.87",
+      "eggnog": {
+        "X1": "MAG06_578_2",
+        "X2": "1117943.SFHH103_03779",
+        "X3": 1.5e-295,
+        "X4": 1020,
+        "X5": "OCAR_7184",
+        "X6": null,
+        "X7": "K06022,K06158,K10834",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01R9C@aproNOG,05C5H@bactNOG,16PJF@proNOG,COG0488@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "ABC transporter"
+      }
     },
     {
       "seqnames": "MAG06_538",
@@ -70,7 +100,8 @@
       "sscore": "3.22",
       "rscore": "0.00",
       "uscore": "0.00",
-      "tscore": "3.22"
+      "tscore": "3.22",
+      "eggnog": {}
     }
   ],
   "seqname": "MAG06_538",

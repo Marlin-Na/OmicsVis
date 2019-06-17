@@ -22,7 +22,22 @@
       "sscore": "3.22",
       "rscore": "0.00",
       "uscore": "0.00",
-      "tscore": "3.22"
+      "tscore": "3.22",
+      "eggnog": {
+        "X1": "MAG06_324_5",
+        "X2": "266834.SMc03967",
+        "X3": 2.1e-89,
+        "X4": 333.6,
+        "X5": "RUVC",
+        "X6": "GO:0000725,GO:0003674,GO:0003824,GO:0004518,GO:0004519,GO:0004520,GO:0004536,GO:0005575,GO:0005622,GO:0005623,GO:0005737,GO:0006139,GO:0006259,GO:0006260,GO:0006261,GO:0006281,GO:0006310,GO:0006725,GO:0006807,GO:0006950,GO:0006974,GO:0008150,GO:0008152,GO:0008821,GO:0009058,GO:0009059,GO:0009987,GO:0016787,GO:0016788,GO:0016889,GO:0016894,GO:0031297,GO:0032991,GO:0033554,GO:0034641,GO:0034645,GO:0043170,GO:0043234,GO:0044237,GO:0044238,GO:0044249,GO:0044260,GO:0044424,GO:0044464,GO:0044699,GO:0044763,GO:0045005,GO:0046483,GO:0048476,GO:0050896,GO:0051716,GO:0071704,GO:0071932,GO:0090304,GO:0090305,GO:1901360,GO:1901576",
+        "X7": "K01159",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01Y1G@aproNOG,05NHU@bactNOG,16QC7@proNOG,COG0817@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "L",
+        "X13": "Nuclease that resolves Holliday junction intermediates in genetic recombination. Cleaves the cruciform structure in supercoiled DNA by nicking to strands with the same polarity at sites symmetrically opposed at the junction in the homologous arms and leaves a 5'-terminal phosphate and a 3'-terminal hydroxyl group (By similarity)"
+      }
     },
     {
       "seqnames": "MAG06_211",
@@ -46,7 +61,22 @@
       "sscore": "-0.13",
       "rscore": "-4.72",
       "uscore": "-0.19",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_324_6",
+        "X2": "266834.SMc03968",
+        "X3": 2.7e-178,
+        "X4": 629.8,
+        "X5": "YHBW",
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01Q60@aproNOG,05DEN@bactNOG,16PC0@proNOG,COG2141@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "C",
+        "X13": "Luciferase family"
+      }
     },
     {
       "seqnames": "MAG06_211",
@@ -70,7 +100,22 @@
       "sscore": "8.93",
       "rscore": "7.63",
       "uscore": "-1.69",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_325_1",
+        "X2": "266834.SMc04317",
+        "X3": 2.4e-101,
+        "X4": 373.6,
+        "X5": "AFUA3",
+        "X6": null,
+        "X7": "K02012",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01STQ@aproNOG,05C4Y@bactNOG,16WH8@proNOG,COG1840@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "P",
+        "X13": "extracellular solute-binding protein, family 1"
+      }
     }
   ],
   "seqname": "MAG06_211",

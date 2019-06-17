@@ -22,7 +22,22 @@
       "sscore": "0.72",
       "rscore": "3.33",
       "uscore": "-6.25",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_869_1",
+        "X2": "272943.RSP_3503",
+        "X3": 1.7e-54,
+        "X4": 217.6,
+        "X5": "LSRA",
+        "X6": "GO:0005575,GO:0005623,GO:0005886,GO:0016020,GO:0044464,GO:0071944",
+        "X7": "K01995,K01996,K02056,K10441,K10558",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "05C2J@bactNOG,173N0@proNOG,COG1129@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "G",
+        "X13": "Part of the ABC transporter complex LsrABCD involved in autoinducer 2 (AI-2) import. Responsible for energy coupling to the transport system"
+      }
     }
   ],
   "seqname": "MAG06_914",

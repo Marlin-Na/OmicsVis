@@ -22,7 +22,22 @@
       "sscore": "3.22",
       "rscore": "0.00",
       "uscore": "0.00",
-      "tscore": "3.22"
+      "tscore": "3.22",
+      "eggnog": {
+        "X1": "MAG06_770_2",
+        "X2": "266834.SMc04347",
+        "X3": 0,
+        "X4": 1352.4,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01QZT@aproNOG,07QT9@bactNOG,16PY7@proNOG,COG3894@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "C",
+        "X13": "iron-sulfur cluster-binding protein"
+      }
     }
   ],
   "seqname": "MAG06_796",

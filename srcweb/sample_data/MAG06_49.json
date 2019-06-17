@@ -22,7 +22,8 @@
       "sscore": "3.22",
       "rscore": "0.00",
       "uscore": "0.00",
-      "tscore": "3.22"
+      "tscore": "3.22",
+      "eggnog": {}
     },
     {
       "seqnames": "MAG06_49",
@@ -46,7 +47,22 @@
       "sscore": "1.94",
       "rscore": "10.54",
       "uscore": "2.19",
-      "tscore": "-10.14"
+      "tscore": "-10.14",
+      "eggnog": {
+        "X1": "MAG06_169_7",
+        "X2": "266834.SMc02338",
+        "X3": 3.2e-176,
+        "X4": 622.9,
+        "X5": "RBSB10",
+        "X6": null,
+        "X7": "K10439",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01UFY@aproNOG,05E9V@bactNOG,16RZ5@proNOG,COG1879@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "G",
+        "X13": "Periplasmic binding proteins and sugar binding domain of LacI family"
+      }
     },
     {
       "seqnames": "MAG06_49",
@@ -70,7 +86,22 @@
       "sscore": "13.20",
       "rscore": "10.54",
       "uscore": "-0.33",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_169_8",
+        "X2": "266834.SMc02337",
+        "X3": 3.7e-71,
+        "X4": 272.7,
+        "X5": "RBSA",
+        "X6": "GO:0005575,GO:0005623,GO:0005886,GO:0016020,GO:0044464,GO:0071944",
+        "X7": "K01995,K01996,K02056,K10441,K10539,K10562",
+        "X8": "RIBabcpp",
+        "X9": "bactNOG[38]",
+        "X10": "01QBB@aproNOG,05C2J@bactNOG,16PQI@proNOG,COG1129@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "P",
+        "X13": "ABC transporter"
+      }
     },
     {
       "seqnames": "MAG06_49",
@@ -94,7 +125,22 @@
       "sscore": "13.97",
       "rscore": "7.85",
       "uscore": "2.48",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_17_1",
+        "X2": "266834.SMc00479",
+        "X3": 2.9e-160,
+        "X4": 569.7,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01Z09@aproNOG,090S1@bactNOG,11NRR@NOG,17EV3@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": "K",
+        "X13": "Transcriptional regulator"
+      }
     },
     {
       "seqnames": "MAG06_49",
@@ -118,7 +164,22 @@
       "sscore": "-1.09",
       "rscore": "-4.72",
       "uscore": "0.63",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_17_2",
+        "X2": "266834.SMc00549",
+        "X3": 1.5e-109,
+        "X4": 400.6,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "05M2F@bactNOG,COG4282@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "G",
+        "X13": "SMI1 / KNR4 family (SUKH-1)"
+      }
     },
     {
       "seqnames": "MAG06_49",
@@ -142,7 +203,22 @@
       "sscore": "17.29",
       "rscore": "13.75",
       "uscore": "-0.11",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_17_3",
+        "X2": "266834.SMc00478",
+        "X3": 5.5e-292,
+        "X4": 1008.1,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01ST6@aproNOG,05CQH@bactNOG,16QS8@proNOG,COG5361@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "Protein of unknown function (DUF1254)"
+      }
     },
     {
       "seqnames": "MAG06_49",
@@ -166,7 +242,22 @@
       "sscore": "8.21",
       "rscore": "2.03",
       "uscore": "1.24",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_170_1",
+        "X2": "765698.Mesci_4287",
+        "X3": 6.7e-73,
+        "X4": 278.9,
+        "X5": "ERUM0960",
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01WWV@aproNOG,08R5Q@bactNOG,177VQ@proNOG,COG0526@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "O",
+        "X13": "Redoxin"
+      }
     },
     {
       "seqnames": "MAG06_49",
@@ -190,7 +281,22 @@
       "sscore": "12.56",
       "rscore": "7.63",
       "uscore": "-0.95",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_170_2",
+        "X2": "765698.Mesci_4286",
+        "X3": 4.9e-102,
+        "X4": 375.9,
+        "X5": "RPE",
+        "X6": null,
+        "X7": "K01783",
+        "X8": "RPE",
+        "X9": "bactNOG[38]",
+        "X10": "01QB0@aproNOG,05DJV@bactNOG,16PI5@proNOG,COG0036@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "G",
+        "X13": "ribulose-phosphate 3-epimerase"
+      }
     },
     {
       "seqnames": "MAG06_49",
@@ -214,7 +320,22 @@
       "sscore": "15.47",
       "rscore": "10.54",
       "uscore": "-1.09",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_170_3",
+        "X2": "991905.SL003B_0986",
+        "X3": 4.1e-136,
+        "X4": 489.6,
+        "X5": "CBBX",
+        "X6": null,
+        "X7": "K06413",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01SA8@aproNOG,06F1P@bactNOG,16R8D@proNOG,COG0464@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "O",
+        "X13": "CbbX protein"
+      }
     }
   ],
   "seqname": "MAG06_49",

@@ -22,7 +22,22 @@
       "sscore": "8.61",
       "rscore": "7.63",
       "uscore": "-2.01",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_379_2",
+        "X2": "266835.mll8140",
+        "X3": 4e-45,
+        "X4": 186.4,
+        "X5": "OCAR_4255",
+        "X6": null,
+        "X7": "K03088",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01VZZ@aproNOG,07Z8Y@bactNOG,11J9D@NOG,17BS9@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": "K",
+        "X13": "RNA polymerase sigma factor"
+      }
     },
     {
       "seqnames": "MAG06_273",
@@ -46,7 +61,22 @@
       "sscore": "12.56",
       "rscore": "7.63",
       "uscore": "-0.59",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_38_1",
+        "X2": "266834.SMc04400",
+        "X3": 5.5e-60,
+        "X4": 235.3,
+        "X5": null,
+        "X6": null,
+        "X7": "K00010,K19181",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01SVS@aproNOG,07TYG@bactNOG,0XRWS@NOG,16QAA@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "Oxidoreductase domain protein"
+      }
     },
     {
       "seqnames": "MAG06_273",
@@ -70,7 +100,22 @@
       "sscore": "-0.88",
       "rscore": "2.03",
       "uscore": "2.61",
-      "tscore": "-4.87"
+      "tscore": "-4.87",
+      "eggnog": {
+        "X1": "MAG06_38_2",
+        "X2": "266834.SMc04399",
+        "X3": 8.3e-310,
+        "X4": 1067.4,
+        "X5": null,
+        "X6": null,
+        "X7": "K01026",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "02E7C@aproNOG,08IIG@bactNOG,172S7@proNOG,COG4670@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "I",
+        "X13": "CoA transferase having broad substrate specificity for short-chain acyl-CoA thioesters with the activity decreasing when the length of the carboxylic acid chain exceeds four carbons (By similarity)"
+      }
     },
     {
       "seqnames": "MAG06_273",
@@ -94,7 +139,22 @@
       "sscore": "12.84",
       "rscore": "7.85",
       "uscore": "1.34",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_38_3",
+        "X2": "266834.SMc04398",
+        "X3": 4.3e-09,
+        "X4": 64.3,
+        "X5": null,
+        "X6": null,
+        "X7": "K01692",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01S0A@aproNOG,07NTX@bactNOG,0Z8FE@NOG,16QM0@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "Enoyl-CoA hydratase"
+      }
     },
     {
       "seqnames": "MAG06_273",
@@ -118,7 +178,22 @@
       "sscore": "12.60",
       "rscore": "7.63",
       "uscore": "1.33",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_380_1",
+        "X2": "216596.RL3679",
+        "X3": 1.8e-75,
+        "X4": 287.7,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01XMI@aproNOG,07MVR@bactNOG,175HV@proNOG,COG1309@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "K",
+        "X13": "TETR family transcriptional regulator"
+      }
     },
     {
       "seqnames": "MAG06_273",
@@ -142,7 +217,8 @@
       "sscore": "19.57",
       "rscore": "13.75",
       "uscore": "2.17",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {}
     },
     {
       "seqnames": "MAG06_273",
@@ -166,7 +242,22 @@
       "sscore": "7.18",
       "rscore": "2.03",
       "uscore": "1.51",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_380_2",
+        "X2": "1117943.SFHH103_03728",
+        "X3": 6.2e-210,
+        "X4": 735.3,
+        "X5": null,
+        "X6": null,
+        "X7": "K02484,K07643,K07645,K07649",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01Z1M@aproNOG,05GQE@bactNOG,0XPUQ@NOG,17EFT@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": "T",
+        "X13": "Histidine kinase"
+      }
     },
     {
       "seqnames": "MAG06_273",
@@ -190,7 +281,22 @@
       "sscore": "5.42",
       "rscore": "2.03",
       "uscore": "0.40",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_380_3",
+        "X2": "1117943.SFHH103_03727",
+        "X3": 2.1e-105,
+        "X4": 387.1,
+        "X5": "BASR",
+        "X6": null,
+        "X7": "K02483,K07665,K07667,K07774",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01X8Y@aproNOG,05RD1@bactNOG,16SFA@proNOG,COG0745@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "T",
+        "X13": "regulator"
+      }
     }
   ],
   "seqname": "MAG06_273",

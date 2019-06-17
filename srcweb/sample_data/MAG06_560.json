@@ -22,7 +22,8 @@
       "sscore": "12.29",
       "rscore": "7.63",
       "uscore": "1.02",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {}
     },
     {
       "seqnames": "MAG06_560",
@@ -46,7 +47,8 @@
       "sscore": "1.31",
       "rscore": "-4.72",
       "uscore": "1.17",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {}
     },
     {
       "seqnames": "MAG06_560",
@@ -70,7 +72,8 @@
       "sscore": "13.47",
       "rscore": "7.63",
       "uscore": "0.92",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {}
     }
   ],
   "seqname": "MAG06_560",

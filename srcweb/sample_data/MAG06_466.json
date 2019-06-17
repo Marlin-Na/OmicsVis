@@ -22,7 +22,22 @@
       "sscore": "3.22",
       "rscore": "0.00",
       "uscore": "0.00",
-      "tscore": "3.22"
+      "tscore": "3.22",
+      "eggnog": {
+        "X1": "MAG06_524_2",
+        "X2": "216596.RL2740",
+        "X3": 1.1e-153,
+        "X4": 548.1,
+        "X5": "OCAR_5732",
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01UMK@aproNOG,05EDH@bactNOG,0XP73@NOG,16S1I@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "Alpha Beta Hydrolase Fold protein"
+      }
     }
   ],
   "seqname": "MAG06_466",

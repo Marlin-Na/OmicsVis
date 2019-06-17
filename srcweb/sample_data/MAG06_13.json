@@ -22,7 +22,8 @@
       "sscore": "3.22",
       "rscore": "0.00",
       "uscore": "0.00",
-      "tscore": "3.22"
+      "tscore": "3.22",
+      "eggnog": {}
     },
     {
       "seqnames": "MAG06_13",
@@ -46,7 +47,22 @@
       "sscore": "9.88",
       "rscore": "7.63",
       "uscore": "-2.59",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_962_2",
+        "X2": "395963.Bind_2789",
+        "X3": 1.7e-57,
+        "X4": 227.3,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01Z22@aproNOG,05G9S@bactNOG,17BMB@proNOG,COG1917@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "Cupin 2, conserved barrel domain protein"
+      }
     },
     {
       "seqnames": "MAG06_13",
@@ -70,7 +86,22 @@
       "sscore": "17.67",
       "rscore": "13.75",
       "uscore": "0.27",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_962_3",
+        "X2": "347834.RHE_CH02774",
+        "X3": 3.5e-93,
+        "X4": 346.7,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01SXB@aproNOG,05TDR@bactNOG,0XQ4I@NOG,16TAT@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "NmrA-like family"
+      }
     },
     {
       "seqnames": "MAG06_13",
@@ -94,7 +125,22 @@
       "sscore": "12.55",
       "rscore": "7.63",
       "uscore": "-0.73",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_962_4",
+        "X2": "176299.Atu4307",
+        "X3": 5.3e-88,
+        "X4": 328.9,
+        "X5": "OCAR_6525",
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01QJH@aproNOG,07RC5@bactNOG,16QPU@proNOG,COG0491@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "Beta-lactamase"
+      }
     }
   ],
   "seqname": "MAG06_13",

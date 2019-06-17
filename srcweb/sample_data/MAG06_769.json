@@ -22,7 +22,22 @@
       "sscore": "3.22",
       "rscore": "0.00",
       "uscore": "0.00",
-      "tscore": "3.22"
+      "tscore": "3.22",
+      "eggnog": {
+        "X1": "MAG06_138_3",
+        "X2": "366394.Smed_0865",
+        "X3": 1.2e-14,
+        "X4": 84.3,
+        "X5": "ENC_03660",
+        "X6": "GO:0005575,GO:0016020",
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01WG6@aproNOG,08SP6@bactNOG,11JSY@NOG,174GP@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "integral membrane protein"
+      }
     }
   ],
   "seqname": "MAG06_769",

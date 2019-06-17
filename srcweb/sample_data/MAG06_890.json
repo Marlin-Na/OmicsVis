@@ -22,7 +22,22 @@
       "sscore": "3.22",
       "rscore": "0.00",
       "uscore": "0.00",
-      "tscore": "3.22"
+      "tscore": "3.22",
+      "eggnog": {
+        "X1": "MAG06_840_5",
+        "X2": "52598.EE36_00405",
+        "X3": 2e-165,
+        "X4": 587.4,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01Q6M@aproNOG,05CG6@bactNOG,16PBP@proNOG,COG1593@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "G",
+        "X13": "Trap dicarboxylate transporter, dctm subunit"
+      }
     },
     {
       "seqnames": "MAG06_890",
@@ -46,7 +61,22 @@
       "sscore": "16.53",
       "rscore": "10.54",
       "uscore": "1.05",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_840_6",
+        "X2": "52598.EE36_00410",
+        "X3": 4.9e-201,
+        "X4": 705.7,
+        "X5": "AMAB",
+        "X6": null,
+        "X7": "K06016",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01RAV@aproNOG,05CE7@bactNOG,16QP4@proNOG,COG0624@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "E",
+        "X13": "amidohydrolase"
+      }
     },
     {
       "seqnames": "MAG06_890",
@@ -70,7 +100,22 @@
       "sscore": "12.27",
       "rscore": "7.63",
       "uscore": "-0.11",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_840_7",
+        "X2": "501479.CSE45_1151",
+        "X3": 2.9e-96,
+        "X4": 357.1,
+        "X5": "BMUL_2065",
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01T67@aproNOG,08N3S@bactNOG,0Y67G@NOG,173KV@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": "K",
+        "X13": "transcriptional regulator, lysR family"
+      }
     },
     {
       "seqnames": "MAG06_890",
@@ -94,7 +139,22 @@
       "sscore": "10.09",
       "rscore": "7.85",
       "uscore": "-1.41",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_841_1",
+        "X2": "765698.Mesci_2861",
+        "X3": 1.4e-74,
+        "X4": 284.6,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01Y2I@aproNOG,0901B@bactNOG,11KKD@NOG,17C4U@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": "M",
+        "X13": "Glycosyl Transferase"
+      }
     }
   ],
   "seqname": "MAG06_890",

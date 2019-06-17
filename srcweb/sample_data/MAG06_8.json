@@ -22,7 +22,22 @@
       "sscore": "3.22",
       "rscore": "0.00",
       "uscore": "0.00",
-      "tscore": "3.22"
+      "tscore": "3.22",
+      "eggnog": {
+        "X1": "MAG06_161_6",
+        "X2": "266834.SMc04461",
+        "X3": 1.5e-19,
+        "X4": 99.8,
+        "X5": "TOLB",
+        "X6": "GO:0003674,GO:0005215,GO:0005575,GO:0005623,GO:0006810,GO:0008104,GO:0008150,GO:0015031,GO:0015833,GO:0017038,GO:0019534,GO:0030288,GO:0030312,GO:0030313,GO:0031975,GO:0033036,GO:0042597,GO:0042886,GO:0043213,GO:0044462,GO:0044464,GO:0044699,GO:0044765,GO:0045184,GO:0051179,GO:0051234,GO:0071702,GO:0071705,GO:0071944,GO:1901998",
+        "X7": "K03641",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01RGK@aproNOG,07R6Y@bactNOG,16PSP@proNOG,COG0823@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "U",
+        "X13": "Involved in the TonB-independent uptake of proteins (By similarity)"
+      }
     },
     {
       "seqnames": "MAG06_8",
@@ -46,7 +61,22 @@
       "sscore": "18.68",
       "rscore": "13.75",
       "uscore": "1.93",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_162_1",
+        "X2": "266834.SMc02437",
+        "X3": 0,
+        "X4": 1421.8,
+        "X5": "PTSP",
+        "X6": null,
+        "X7": "K08484",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "02E4J@aproNOG,08I7M@bactNOG,172JY@proNOG,COG3605@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "T",
+        "X13": "phosphoenolpyruvate-protein phosphotransferase"
+      }
     },
     {
       "seqnames": "MAG06_8",
@@ -70,7 +100,22 @@
       "sscore": "13.80",
       "rscore": "7.63",
       "uscore": "2.53",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_162_2",
+        "X2": "266834.SMc02436",
+        "X3": 8.4e-186,
+        "X4": 654.8,
+        "X5": "PRFA",
+        "X6": "GO:0003674,GO:0003676,GO:0003723,GO:0003747,GO:0005488,GO:0005575,GO:0005622,GO:0005623,GO:0005737,GO:0006412,GO:0006415,GO:0008079,GO:0008135,GO:0008150,GO:0008152,GO:0009058,GO:0009059,GO:0009987,GO:0010467,GO:0016043,GO:0016149,GO:0019538,GO:0022411,GO:0032984,GO:0034645,GO:0040007,GO:0043021,GO:0043022,GO:0043170,GO:0043241,GO:0043624,GO:0043933,GO:0044237,GO:0044238,GO:0044249,GO:0044260,GO:0044267,GO:0044424,GO:0044464,GO:0044699,GO:0044763,GO:0071704,GO:0071822,GO:0071840,GO:0097159,GO:1901363,GO:1901576",
+        "X7": "K02835",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01S1X@aproNOG,05C8K@bactNOG,16PM9@proNOG,COG0216@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "J",
+        "X13": "Peptide chain release factor 1 directs the termination of translation in response to the peptide chain termination codons UAG and UAA (By similarity)"
+      }
     }
   ],
   "seqname": "MAG06_8",

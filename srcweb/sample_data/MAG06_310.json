@@ -22,7 +22,8 @@
       "sscore": "14.83",
       "rscore": "13.75",
       "uscore": "-2.57",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {}
     },
     {
       "seqnames": "MAG06_310",
@@ -46,7 +47,22 @@
       "sscore": "6.50",
       "rscore": "2.03",
       "uscore": "0.83",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_400_2",
+        "X2": "311402.Avi_6073",
+        "X3": 2.6e-292,
+        "X4": 1009.6,
+        "X5": "KDPB",
+        "X6": "GO:0005575,GO:0005623,GO:0005886,GO:0016020,GO:0044464,GO:0071944",
+        "X7": "K01547",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01SST@aproNOG,05C8X@bactNOG,16PMJ@proNOG,COG2216@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "P",
+        "X13": "One of the components of the high-affinity ATP-driven potassium transport (or KDP) system, which catalyzes the hydrolysis of ATP coupled with the exchange of hydrogen and potassium ions (By similarity)"
+      }
     }
   ],
   "seqname": "MAG06_310",

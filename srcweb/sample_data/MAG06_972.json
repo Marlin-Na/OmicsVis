@@ -22,7 +22,22 @@
       "sscore": "3.22",
       "rscore": "0.00",
       "uscore": "0.00",
-      "tscore": "3.22"
+      "tscore": "3.22",
+      "eggnog": {
+        "X1": "MAG06_908_3",
+        "X2": "266834.SMc01312",
+        "X3": 1.4e-287,
+        "X4": 993.4,
+        "X5": "FUSA",
+        "X6": "GO:0005575,GO:0005618,GO:0005622,GO:0005623,GO:0005737,GO:0005886,GO:0008150,GO:0016020,GO:0030312,GO:0040007,GO:0044424,GO:0044464,GO:0071944",
+        "X7": "K02355",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01S82@aproNOG,05CEJ@bactNOG,16PY2@proNOG,COG0480@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "J",
+        "X13": "Catalyzes the GTP-dependent ribosomal translocation step during translation elongation. During this step, the ribosome changes from the pre-translocational (PRE) to the post- translocational (POST) state as the newly formed A-site-bound peptidyl-tRNA and P-site-bound deacylated tRNA move to the P and E sites, respectively. Catalyzes the coordinated movement of the two tRNA molecules, the mRNA and conformational changes in the ribosome (By similarity)"
+      }
     },
     {
       "seqnames": "MAG06_972",
@@ -46,7 +61,22 @@
       "sscore": "17.64",
       "rscore": "12.94",
       "uscore": "0.78",
-      "tscore": "3.20"
+      "tscore": "3.20",
+      "eggnog": {
+        "X1": "MAG06_909_1",
+        "X2": "266834.SMc01491",
+        "X3": 1.4e-301,
+        "X4": 1040,
+        "X5": null,
+        "X6": null,
+        "X7": "K01768",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01RRH@aproNOG,07SM8@bactNOG,16SH1@proNOG,COG3899@NOG,COG3903@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "T",
+        "X13": "Guanylate cyclase"
+      }
     },
     {
       "seqnames": "MAG06_972",
@@ -70,7 +100,22 @@
       "sscore": "12.41",
       "rscore": "8.26",
       "uscore": "0.95",
-      "tscore": "3.20"
+      "tscore": "3.20",
+      "eggnog": {
+        "X1": "MAG06_909_2",
+        "X2": "266834.SMc01492",
+        "X3": 0,
+        "X4": 1234.2,
+        "X5": null,
+        "X6": "GO:0005575,GO:0005623,GO:0005886,GO:0016020,GO:0044464,GO:0071944",
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01YXG@aproNOG,08SKZ@bactNOG,11HC6@NOG,179G7@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "Patatin-like phospholipase"
+      }
     },
     {
       "seqnames": "MAG06_972",
@@ -94,7 +139,22 @@
       "sscore": "11.27",
       "rscore": "9.04",
       "uscore": "-0.31",
-      "tscore": "3.20"
+      "tscore": "3.20",
+      "eggnog": {
+        "X1": "MAG06_91_1",
+        "X2": "266834.SMc01352",
+        "X3": 1.5e-276,
+        "X4": 956.8,
+        "X5": "GATA",
+        "X6": "GO:0008150,GO:0040007",
+        "X7": "K02433",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01QU5@aproNOG,05C3P@bactNOG,16PTH@proNOG,COG0154@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "J",
+        "X13": "Allows the formation of correctly charged Gln-tRNA(Gln) through the transamidation of misacylated Glu-tRNA(Gln) in organisms which lack glutaminyl-tRNA synthetase. The reaction takes place in the presence of glutamine and ATP through an activated gamma-phospho-Glu-tRNA(Gln) (By similarity)"
+      }
     },
     {
       "seqnames": "MAG06_972",
@@ -118,7 +178,22 @@
       "sscore": "2.72",
       "rscore": "0.00",
       "uscore": "0.00",
-      "tscore": "3.22"
+      "tscore": "3.22",
+      "eggnog": {
+        "X1": "MAG06_154_1",
+        "X2": "266779.Meso_2872",
+        "X3": 2e-27,
+        "X4": 127.1,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01VDN@aproNOG,08PIJ@bactNOG,16UPP@proNOG,COG2244@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "M",
+        "X13": "Polysaccharide biosynthesis protein"
+      }
     }
   ],
   "seqname": "MAG06_972",

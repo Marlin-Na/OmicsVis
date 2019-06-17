@@ -22,7 +22,8 @@
       "sscore": "10.31",
       "rscore": "7.63",
       "uscore": "-0.30",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {}
     },
     {
       "seqnames": "MAG06_71",
@@ -46,7 +47,22 @@
       "sscore": "8.72",
       "rscore": "7.32",
       "uscore": "-2.10",
-      "tscore": "3.50"
+      "tscore": "3.50",
+      "eggnog": {
+        "X1": "MAG06_198_8",
+        "X2": "266834.SMc00196",
+        "X3": 3.8e-197,
+        "X4": 692.6,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01WB1@aproNOG,08R72@bactNOG,11FUB@NOG,179CM@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": "G",
+        "X13": "MFS permease"
+      }
     },
     {
       "seqnames": "MAG06_71",
@@ -70,7 +86,22 @@
       "sscore": "12.14",
       "rscore": "7.63",
       "uscore": "0.87",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_198_9",
+        "X2": "266834.SMc00182",
+        "X3": 5.9e-86,
+        "X4": 322,
+        "X5": "SOXR",
+        "X6": "GO:0001071,GO:0003674,GO:0003700,GO:0005488,GO:0005575,GO:0005622,GO:0005623,GO:0005737,GO:0006355,GO:0006950,GO:0006979,GO:0008150,GO:0009889,GO:0010468,GO:0010556,GO:0019219,GO:0019222,GO:0031323,GO:0031326,GO:0044424,GO:0044464,GO:0050789,GO:0050794,GO:0050896,GO:0051171,GO:0051252,GO:0051536,GO:0051537,GO:0051540,GO:0060255,GO:0065007,GO:0080090,GO:2000112,GO:2001141",
+        "X7": "K13639",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01Y0I@aproNOG,08Z4X@bactNOG,17C93@proNOG,COG0789@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "K",
+        "X13": "redox-sensitive transcriptional activator SoxR"
+      }
     },
     {
       "seqnames": "MAG06_71",
@@ -94,7 +125,22 @@
       "sscore": "7.59",
       "rscore": "2.03",
       "uscore": "2.57",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_199_1",
+        "X2": "266834.SMc01365",
+        "X3": 4.3e-292,
+        "X4": 1008.4,
+        "X5": "RNR",
+        "X6": "GO:0000154,GO:0000175,GO:0003674,GO:0003824,GO:0004518,GO:0004527,GO:0004532,GO:0004540,GO:0005575,GO:0005622,GO:0005623,GO:0005737,GO:0006139,GO:0006364,GO:0006396,GO:0006725,GO:0006807,GO:0008150,GO:0008152,GO:0008408,GO:0008997,GO:0009451,GO:0009987,GO:0010467,GO:0016070,GO:0016071,GO:0016072,GO:0016556,GO:0016787,GO:0016788,GO:0016796,GO:0016896,GO:0022613,GO:0034470,GO:0034641,GO:0034660,GO:0042254,GO:0043170,GO:0043412,GO:0044085,GO:0044237,GO:0044238,GO:0044260,GO:0044424,GO:0044464,GO:0046483,GO:0071704,GO:0071840,GO:0090304,GO:0090305,GO:1901360",
+        "X7": "K01147,K12573,K12585",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01Q7Q@aproNOG,05C40@bactNOG,16PCP@proNOG,COG0557@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "K",
+        "X13": "3'-5' exoribonuclease that releases 5'-nucleoside monophosphates and is involved in maturation of structured RNAs (By similarity)"
+      }
     },
     {
       "seqnames": "MAG06_71",
@@ -118,7 +164,22 @@
       "sscore": "10.74",
       "rscore": "7.63",
       "uscore": "-0.53",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_199_2",
+        "X2": "266834.SMc01366",
+        "X3": 1e-84,
+        "X4": 317.8,
+        "X5": "OCAR_5781",
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "02076@aproNOG,05NX1@bactNOG,17FYM@proNOG,COG5349@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "zinc-finger protein"
+      }
     },
     {
       "seqnames": "MAG06_71",
@@ -142,7 +203,22 @@
       "sscore": "3.13",
       "rscore": "2.03",
       "uscore": "-1.89",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_199_3",
+        "X2": "266834.SMc01367",
+        "X3": 3e-131,
+        "X4": 473,
+        "X5": "OCAR_5780",
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01Q83@aproNOG,060XH@bactNOG,17EBP@proNOG,COG0494@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "L",
+        "X13": "Nudix hydrolase"
+      }
     }
   ],
   "seqname": "MAG06_71",

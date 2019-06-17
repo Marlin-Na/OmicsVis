@@ -22,7 +22,22 @@
       "sscore": "3.22",
       "rscore": "0.00",
       "uscore": "0.00",
-      "tscore": "3.22"
+      "tscore": "3.22",
+      "eggnog": {
+        "X1": "MAG06_399_2",
+        "X2": "266834.SMc01123",
+        "X3": 7.7e-262,
+        "X4": 907.9,
+        "X5": "MVIN",
+        "X6": "GO:0000270,GO:0003674,GO:0005215,GO:0005319,GO:0005575,GO:0005623,GO:0005886,GO:0006022,GO:0006023,GO:0006024,GO:0006807,GO:0006810,GO:0006869,GO:0008150,GO:0008152,GO:0009058,GO:0009059,GO:0009252,GO:0009273,GO:0009405,GO:0009987,GO:0010876,GO:0015647,GO:0015648,GO:0015835,GO:0015836,GO:0016020,GO:0016043,GO:0016044,GO:0022892,GO:0030203,GO:0033036,GO:0034204,GO:0034645,GO:0042546,GO:0043170,GO:0044036,GO:0044038,GO:0044085,GO:0044237,GO:0044249,GO:0044260,GO:0044464,GO:0044699,GO:0044710,GO:0044763,GO:0044765,GO:0051179,GO:0051234,GO:0051704,GO:0061024,GO:0065007,GO:0065008,GO:0070589,GO:0071554,GO:0071702,GO:0071704,GO:0071705,GO:0071840,GO:0071944,GO:0097035,GO:1901135,GO:1901137,GO:1901264,GO:1901505,GO:1901564,GO:1901566,GO:1901576",
+        "X7": "K03980",
+        "X8": "MPTG,MPTG2",
+        "X9": "bactNOG[38]",
+        "X10": "01QJ4@aproNOG,05CJR@bactNOG,16PF6@proNOG,COG0728@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "integral membrane protein mvin"
+      }
     },
     {
       "seqnames": "MAG06_305",
@@ -46,7 +61,22 @@
       "sscore": "21.72",
       "rscore": "15.89",
       "uscore": "-0.63",
-      "tscore": "4.54"
+      "tscore": "4.54",
+      "eggnog": {
+        "X1": "MAG06_4_2",
+        "X2": "266834.SMc00188",
+        "X3": 1.2e-19,
+        "X4": 100.1,
+        "X5": "PETB",
+        "X6": "GO:0003674,GO:0003824,GO:0005215,GO:0005575,GO:0005622,GO:0005623,GO:0005886,GO:0006810,GO:0006811,GO:0006812,GO:0006818,GO:0008121,GO:0008150,GO:0008152,GO:0008324,GO:0009055,GO:0009987,GO:0015075,GO:0015077,GO:0015078,GO:0015672,GO:0015992,GO:0016020,GO:0016491,GO:0016679,GO:0016681,GO:0022857,GO:0022890,GO:0022891,GO:0022892,GO:0032991,GO:0034220,GO:0043234,GO:0044424,GO:0044425,GO:0044464,GO:0044699,GO:0044710,GO:0044763,GO:0044765,GO:0045275,GO:0051179,GO:0051234,GO:0055085,GO:0055114,GO:0070469,GO:0071944",
+        "X7": "K00410,K00412,K02635",
+        "X8": "BC10_new,CYO1_KT,CYTMQOR3pp",
+        "X9": "bactNOG[38]",
+        "X10": "01Q5D@aproNOG,05DJ5@bactNOG,16Q8I@proNOG,COG1290@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "C",
+        "X13": "Component of the ubiquinol-cytochrome c reductase complex (complex III or cytochrome b-c1 complex), which is a respiratory chain that generates an electrochemical potential coupled to ATP synthesis (By similarity)"
+      }
     },
     {
       "seqnames": "MAG06_305",
@@ -70,7 +100,22 @@
       "sscore": "1.95",
       "rscore": "-3.31",
       "uscore": "-0.51",
-      "tscore": "4.54"
+      "tscore": "4.54",
+      "eggnog": {
+        "X1": "MAG06_4_3",
+        "X2": "266834.SMc00188",
+        "X3": 2.3e-196,
+        "X4": 689.9,
+        "X5": "PETB",
+        "X6": "GO:0003674,GO:0003824,GO:0005215,GO:0005575,GO:0005622,GO:0005623,GO:0005886,GO:0006810,GO:0006811,GO:0006812,GO:0006818,GO:0008121,GO:0008150,GO:0008152,GO:0008324,GO:0009055,GO:0009987,GO:0015075,GO:0015077,GO:0015078,GO:0015672,GO:0015992,GO:0016020,GO:0016491,GO:0016679,GO:0016681,GO:0022857,GO:0022890,GO:0022891,GO:0022892,GO:0032991,GO:0034220,GO:0043234,GO:0044424,GO:0044425,GO:0044464,GO:0044699,GO:0044710,GO:0044763,GO:0044765,GO:0045275,GO:0051179,GO:0051234,GO:0055085,GO:0055114,GO:0070469,GO:0071944",
+        "X7": "K00410,K00412,K02635",
+        "X8": "BC10_new,CYO1_KT,CYTMQOR3pp",
+        "X9": "bactNOG[38]",
+        "X10": "01Q5D@aproNOG,05DJ5@bactNOG,16Q8I@proNOG,COG1290@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "C",
+        "X13": "Component of the ubiquinol-cytochrome c reductase complex (complex III or cytochrome b-c1 complex), which is a respiratory chain that generates an electrochemical potential coupled to ATP synthesis (By similarity)"
+      }
     },
     {
       "seqnames": "MAG06_305",
@@ -94,7 +139,22 @@
       "sscore": "6.63",
       "rscore": "0.72",
       "uscore": "0.11",
-      "tscore": "4.54"
+      "tscore": "4.54",
+      "eggnog": {
+        "X1": "MAG06_4_4",
+        "X2": "266834.SMc00187",
+        "X3": 1.1e-107,
+        "X4": 394.4,
+        "X5": "PETA",
+        "X6": "GO:0005575,GO:0005623,GO:0005886,GO:0016020,GO:0044464,GO:0071944",
+        "X7": "K00411",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01XIS@aproNOG,08R5F@bactNOG,177SQ@proNOG,COG0723@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "C",
+        "X13": "Component of the ubiquinol-cytochrome c reductase complex (complex III or cytochrome b-c1 complex), which is a respiratory chain that generates an electrochemical potential coupled to ATP synthesis (By similarity)"
+      }
     }
   ],
   "seqname": "MAG06_305",

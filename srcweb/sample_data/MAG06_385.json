@@ -22,7 +22,22 @@
       "sscore": "3.22",
       "rscore": "0.00",
       "uscore": "0.00",
-      "tscore": "3.22"
+      "tscore": "3.22",
+      "eggnog": {
+        "X1": "MAG06_458_4",
+        "X2": "266834.SMc03143",
+        "X3": 5.1e-196,
+        "X4": 688.7,
+        "X5": null,
+        "X6": null,
+        "X7": "K19620",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01TTX@aproNOG,08QZ4@bactNOG,11AIW@NOG,16RPJ@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": null,
+        "X13": null
+      }
     },
     {
       "seqnames": "MAG06_385",
@@ -46,7 +61,22 @@
       "sscore": "-1.17",
       "rscore": "-4.72",
       "uscore": "0.55",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_458_5",
+        "X2": "366394.Smed_2842",
+        "X3": 0,
+        "X4": 1196.8,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01RXA@aproNOG,08QSQ@bactNOG,17637@proNOG,COG2199@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "T",
+        "X13": "Diguanylate cyclase"
+      }
     },
     {
       "seqnames": "MAG06_385",
@@ -70,7 +100,22 @@
       "sscore": "7.45",
       "rscore": "3.33",
       "uscore": "0.47",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_458_6",
+        "X2": "266834.SMc03140",
+        "X3": 1.6e-135,
+        "X4": 487.3,
+        "X5": null,
+        "X6": null,
+        "X7": "K03710",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01XSN@aproNOG,08X79@bactNOG,11JSC@NOG,17BRX@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": "K",
+        "X13": "Transcriptional regulator"
+      }
     },
     {
       "seqnames": "MAG06_385",
@@ -94,7 +139,22 @@
       "sscore": "18.12",
       "rscore": "13.75",
       "uscore": "-0.45",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_458_7",
+        "X2": "266834.SMc03139",
+        "X3": 3.5e-189,
+        "X4": 666,
+        "X5": null,
+        "X6": null,
+        "X7": "K19510",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01UP8@aproNOG,083AK@bactNOG,174R1@proNOG,COG2222@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "M",
+        "X13": "Sugar isomerase (SIS)"
+      }
     },
     {
       "seqnames": "MAG06_385",
@@ -118,7 +178,22 @@
       "sscore": "19.03",
       "rscore": "13.75",
       "uscore": "2.29",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_458_8",
+        "X2": "266834.SMc03138",
+        "X3": 4.1e-87,
+        "X4": 325.9,
+        "X5": "FRLD",
+        "X6": "GO:0003674,GO:0003824,GO:0005975,GO:0006793,GO:0006796,GO:0008150,GO:0008152,GO:0009056,GO:0009987,GO:0016052,GO:0016301,GO:0016310,GO:0016740,GO:0016772,GO:0044237,GO:0044238,GO:0071704,GO:1901575",
+        "X7": "K10710",
+        "X8": "FRULYSK",
+        "X9": "bactNOG[38]",
+        "X10": "01XUW@aproNOG,08KPW@bactNOG,17A7R@proNOG,COG0524@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "G",
+        "X13": "pfkB family carbohydrate kinase"
+      }
     },
     {
       "seqnames": "MAG06_385",
@@ -142,7 +217,22 @@
       "sscore": "0.71",
       "rscore": "-4.72",
       "uscore": "1.78",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_459_1",
+        "X2": "266834.SMc02053",
+        "X3": 3.4e-121,
+        "X4": 439.5,
+        "X5": "TRMFO",
+        "X6": "GO:0005575,GO:0005622,GO:0005623,GO:0005737,GO:0044424,GO:0044464",
+        "X7": "K03495,K04094",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01R4Q@aproNOG,07QXI@bactNOG,16QUP@proNOG,COG1206@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "J",
+        "X13": "Catalyzes the folate-dependent formation of 5-methyl- uridine at position 54 (M-5-U54) in all tRNAs (By similarity)"
+      }
     },
     {
       "seqnames": "MAG06_385",
@@ -166,7 +256,22 @@
       "sscore": "4.12",
       "rscore": "2.03",
       "uscore": "-1.55",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_459_2",
+        "X2": "266834.SMc02052",
+        "X3": 1.1e-18,
+        "X4": 97.8,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "029UC@aproNOG,07DEY@bactNOG,18780@proNOG,COG5457@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "Domain of unknown function (DUF1127)"
+      }
     }
   ],
   "seqname": "MAG06_385",

@@ -22,7 +22,22 @@
       "sscore": "3.22",
       "rscore": "0.00",
       "uscore": "0.00",
-      "tscore": "3.22"
+      "tscore": "3.22",
+      "eggnog": {
+        "X1": "MAG06_669_3",
+        "X2": "266834.SMc03123",
+        "X3": 1e-174,
+        "X4": 617.8,
+        "X5": "LSRR",
+        "X6": "GO:0005575,GO:0005622,GO:0005623,GO:0005737,GO:0006139,GO:0006351,GO:0006725,GO:0006807,GO:0008150,GO:0008152,GO:0009058,GO:0009059,GO:0009987,GO:0010467,GO:0016070,GO:0018130,GO:0019438,GO:0032774,GO:0034641,GO:0034645,GO:0034654,GO:0043170,GO:0044237,GO:0044238,GO:0044249,GO:0044260,GO:0044271,GO:0044424,GO:0044464,GO:0046483,GO:0071704,GO:0090304,GO:1901360,GO:1901362,GO:1901576",
+        "X7": "K01808,K11531",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01VXZ@aproNOG,05DKT@bactNOG,16SAC@proNOG,COG2390@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "K",
+        "X13": "Transcriptional regulator"
+      }
     },
     {
       "seqnames": "MAG06_657",
@@ -46,7 +61,22 @@
       "sscore": "4.94",
       "rscore": "-4.72",
       "uscore": "-2.87",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_67_1",
+        "X2": "266834.SMc02403",
+        "X3": 2.3e-82,
+        "X4": 310.1,
+        "X5": "SLT",
+        "X6": null,
+        "X7": "K08309",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01R66@aproNOG,07SC1@bactNOG,16PKQ@proNOG,COG0741@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "M",
+        "X13": "transglycosylase"
+      }
     },
     {
       "seqnames": "MAG06_657",
@@ -70,7 +100,22 @@
       "sscore": "-0.35",
       "rscore": "-4.72",
       "uscore": "0.72",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_67_2",
+        "X2": "266834.SMc02404",
+        "X3": 4.1e-162,
+        "X4": 575.9,
+        "X5": "DAPA",
+        "X6": "GO:0005575,GO:0005622,GO:0005623,GO:0005737,GO:0044424,GO:0044464",
+        "X7": "K01714",
+        "X8": "DHDPS",
+        "X9": "bactNOG[38]",
+        "X10": "01QA8@aproNOG,05CDP@bactNOG,16PWN@proNOG,COG0329@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "E",
+        "X13": "Catalyzes the condensation of (S)-aspartate-beta- semialdehyde (S)-ASA and pyruvate to 4-hydroxy- tetrahydrodipicolinate (HTPA) (By similarity)"
+      }
     },
     {
       "seqnames": "MAG06_657",
@@ -94,7 +139,22 @@
       "sscore": "6.15",
       "rscore": "2.32",
       "uscore": "-0.18",
-      "tscore": "2.54"
+      "tscore": "2.54",
+      "eggnog": {
+        "X1": "MAG06_67_3",
+        "X2": "266834.SMc02405",
+        "X3": 6.6e-82,
+        "X4": 308.5,
+        "X5": "SMPB",
+        "X6": "GO:0003674,GO:0003676,GO:0003723,GO:0005488,GO:0005575,GO:0005622,GO:0005623,GO:0005737,GO:0005829,GO:0006464,GO:0008150,GO:0008152,GO:0009987,GO:0019538,GO:0036211,GO:0043170,GO:0043412,GO:0044237,GO:0044238,GO:0044260,GO:0044267,GO:0044424,GO:0044444,GO:0044464,GO:0070930,GO:0071704,GO:0097159,GO:1901363",
+        "X7": "K03664",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01WSG@aproNOG,08UH4@bactNOG,179VH@proNOG,COG0691@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "O",
+        "X13": "Binds specifically to the SsrA RNA (tmRNA) and is required for stable association of SsrA with ribosomes (By similarity)"
+      }
     },
     {
       "seqnames": "MAG06_657",
@@ -118,7 +178,22 @@
       "sscore": "15.48",
       "rscore": "10.54",
       "uscore": "-1.63",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_670_1",
+        "X2": "412597.PaTRP_010100017471",
+        "X3": 3.2e-63,
+        "X4": 246.5,
+        "X5": null,
+        "X6": null,
+        "X7": "K00128",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01QA3@aproNOG,05C26@bactNOG,16PDZ@proNOG,COG1012@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "C",
+        "X13": "Aldehyde dehydrogenase"
+      }
     }
   ],
   "seqname": "MAG06_657",

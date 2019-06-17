@@ -22,7 +22,22 @@
       "sscore": "7.86",
       "rscore": "7.85",
       "uscore": "-2.98",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_642_3",
+        "X2": "266834.SMc01904",
+        "X3": 2.8e-115,
+        "X4": 419.9,
+        "X5": "CLPX",
+        "X6": "GO:0000166,GO:0001882,GO:0001883,GO:0003674,GO:0003824,GO:0005488,GO:0005524,GO:0005575,GO:0005618,GO:0005623,GO:0006508,GO:0008150,GO:0008152,GO:0008233,GO:0016787,GO:0017076,GO:0019538,GO:0030312,GO:0030554,GO:0032549,GO:0032550,GO:0032553,GO:0032555,GO:0032559,GO:0035639,GO:0036094,GO:0040007,GO:0043167,GO:0043168,GO:0043170,GO:0044238,GO:0044464,GO:0071704,GO:0071944,GO:0097159,GO:1901265,GO:1901363",
+        "X7": "K03544",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01R1Z@aproNOG,05CHN@bactNOG,16PKE@proNOG,COG1219@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "O",
+        "X13": "ATP-dependent specificity component of the Clp protease. It directs the protease to specific substrates. Can perform chaperone functions in the absence of ClpP (By similarity)"
+      }
     },
     {
       "seqnames": "MAG06_620",
@@ -46,7 +61,22 @@
       "sscore": "-0.16",
       "rscore": "-4.72",
       "uscore": "0.91",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_643_1",
+        "X2": "266834.SMc02065",
+        "X3": 5.1e-146,
+        "X4": 522.3,
+        "X5": "TATC",
+        "X6": "GO:0005575,GO:0005622,GO:0005623,GO:0005737,GO:0005829,GO:0005886,GO:0008150,GO:0016020,GO:0040007,GO:0044424,GO:0044444,GO:0044464,GO:0071944",
+        "X7": "K03118",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01RRU@aproNOG,05DCX@bactNOG,16Q1Y@proNOG,COG0805@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "U",
+        "X13": "Part of the twin-arginine translocation (Tat) system that transports large folded proteins containing a characteristic twin-arginine motif in their signal peptide across membranes. Together with TatB, TatC is part of a receptor directly interacting with Tat signal peptides (By similarity)"
+      }
     },
     {
       "seqnames": "MAG06_620",
@@ -70,7 +100,22 @@
       "sscore": "10.43",
       "rscore": "7.85",
       "uscore": "-0.42",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_643_2",
+        "X2": "266834.SMc02066",
+        "X3": 1.4e-103,
+        "X4": 380.9,
+        "X5": "TATB",
+        "X6": "GO:0003674,GO:0005215,GO:0005575,GO:0005623,GO:0005886,GO:0006810,GO:0006886,GO:0008104,GO:0008150,GO:0008320,GO:0008565,GO:0009977,GO:0009987,GO:0015031,GO:0015291,GO:0015399,GO:0015405,GO:0015450,GO:0016020,GO:0022804,GO:0022857,GO:0022884,GO:0022891,GO:0022892,GO:0032991,GO:0033036,GO:0033281,GO:0034613,GO:0043234,GO:0044425,GO:0044459,GO:0044464,GO:0044699,GO:0044763,GO:0044765,GO:0045184,GO:0046907,GO:0051179,GO:0051234,GO:0051641,GO:0051649,GO:0055085,GO:0065002,GO:0070727,GO:0071702,GO:0071806,GO:0071944",
+        "X7": "K03117",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "02CQ7@aproNOG,05X8U@bactNOG,17JTA@proNOG,COG1826@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "U",
+        "X13": "Part of the twin-arginine translocation (Tat) system that transports large folded proteins containing a characteristic twin-arginine motif in their signal peptide across membranes. Together with TatC, TatB is part of a receptor directly interacting with Tat signal peptides. TatB may form an oligomeric binding site that transiently accommodates folded Tat precursor proteins before their translocation (By similarity)"
+      }
     },
     {
       "seqnames": "MAG06_620",
@@ -94,7 +139,22 @@
       "sscore": "12.50",
       "rscore": "7.63",
       "uscore": "1.22",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_643_3",
+        "X2": "266834.SMc02067",
+        "X3": 4.3e-30,
+        "X4": 135.2,
+        "X5": "TATA",
+        "X6": "GO:0003674,GO:0005215,GO:0005575,GO:0005623,GO:0005886,GO:0006810,GO:0008104,GO:0008150,GO:0008565,GO:0009306,GO:0009987,GO:0015031,GO:0016020,GO:0022892,GO:0032940,GO:0033036,GO:0044464,GO:0044699,GO:0044763,GO:0044765,GO:0045184,GO:0046903,GO:0051179,GO:0051234,GO:0051641,GO:0051649,GO:0071702,GO:0071944",
+        "X7": "K03116",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "021H3@aproNOG,067S4@bactNOG,0XUF0@NOG,17RH3@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": "U",
+        "X13": "Part of the twin-arginine translocation (Tat) system that transports large folded proteins containing a characteristic twin-arginine motif in their signal peptide across membranes. TatA could form the protein-conducting channel of the Tat system (By similarity)"
+      }
     }
   ],
   "seqname": "MAG06_620",

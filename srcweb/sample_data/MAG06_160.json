@@ -22,7 +22,22 @@
       "sscore": "-3.91",
       "rscore": "-4.72",
       "uscore": "-2.19",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_275_3",
+        "X2": "266834.SMc00109",
+        "X3": 3.7e-73,
+        "X4": 279.3,
+        "X5": "OCAR_6178",
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01UH6@aproNOG,05W1Y@bactNOG,17CZW@proNOG,COG0789@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "K",
+        "X13": "transcriptional regulator, merr family"
+      }
     },
     {
       "seqnames": "MAG06_160",
@@ -46,7 +61,22 @@
       "sscore": "11.55",
       "rscore": "7.63",
       "uscore": "0.28",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_275_4",
+        "X2": "266834.SMc00108",
+        "X3": 1.2e-89,
+        "X4": 334.3,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01ZV2@aproNOG,05U3T@bactNOG,17JHU@proNOG,COG0454@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "K",
+        "X13": "-acetyltransferase"
+      }
     },
     {
       "seqnames": "MAG06_160",
@@ -70,7 +100,8 @@
       "sscore": "5.18",
       "rscore": "2.03",
       "uscore": "0.16",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {}
     },
     {
       "seqnames": "MAG06_160",
@@ -94,7 +125,8 @@
       "sscore": "7.31",
       "rscore": "2.03",
       "uscore": "1.64",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {}
     },
     {
       "seqnames": "MAG06_160",
@@ -118,7 +150,8 @@
       "sscore": "15.60",
       "rscore": "10.54",
       "uscore": "1.42",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {}
     },
     {
       "seqnames": "MAG06_160",
@@ -142,7 +175,22 @@
       "sscore": "13.91",
       "rscore": "7.63",
       "uscore": "2.64",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_275_5",
+        "X2": "266834.SMc00086",
+        "X3": 1.5e-183,
+        "X4": 647.1,
+        "X5": "CYCG",
+        "X6": "GO:0005575,GO:0005623,GO:0005886,GO:0016020,GO:0044464,GO:0071944",
+        "X7": "K00256,K07303,K08261",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01SRQ@aproNOG,05CE2@bactNOG,16PV0@proNOG,COG1529@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "C",
+        "X13": "cytochrome c"
+      }
     },
     {
       "seqnames": "MAG06_160",
@@ -166,7 +214,22 @@
       "sscore": "11.55",
       "rscore": "7.63",
       "uscore": "0.27",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_275_6",
+        "X2": "266834.SMc00045",
+        "X3": 1.2e-74,
+        "X4": 284.3,
+        "X5": "CYCF",
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "022P0@aproNOG,06112@bactNOG,17NP4@proNOG,COG3909@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "C",
+        "X13": "cytochrome C"
+      }
     }
   ],
   "seqname": "MAG06_160",

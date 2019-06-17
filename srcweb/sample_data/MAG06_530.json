@@ -22,7 +22,8 @@
       "sscore": "14.75",
       "rscore": "7.63",
       "uscore": "2.24",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {}
     },
     {
       "seqnames": "MAG06_530",
@@ -46,7 +47,22 @@
       "sscore": "-0.39",
       "rscore": "7.63",
       "uscore": "0.89",
-      "tscore": "-10.14"
+      "tscore": "-10.14",
+      "eggnog": {
+        "X1": "MAG06_568_3",
+        "X2": "266834.SMc01340",
+        "X3": 1.5e-206,
+        "X4": 723.8,
+        "X5": "ASPB",
+        "X6": "GO:0005575,GO:0005618,GO:0005623,GO:0030312,GO:0044464,GO:0071944",
+        "X7": null,
+        "X8": "ASPTA",
+        "X9": "bactNOG[38]",
+        "X10": "01QVC@aproNOG,05CHM@bactNOG,16PWZ@proNOG,COG0436@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "E",
+        "X13": "Aminotransferase"
+      }
     },
     {
       "seqnames": "MAG06_530",
@@ -70,7 +86,22 @@
       "sscore": "-1.53",
       "rscore": "2.03",
       "uscore": "1.32",
-      "tscore": "-4.87"
+      "tscore": "-4.87",
+      "eggnog": {
+        "X1": "MAG06_568_4",
+        "X2": "266834.SMc01342",
+        "X3": 1.3e-135,
+        "X4": 487.6,
+        "X5": "SCSC",
+        "X6": "GO:0003674,GO:0003756,GO:0003824,GO:0005575,GO:0005623,GO:0006457,GO:0008150,GO:0008152,GO:0009279,GO:0009987,GO:0015036,GO:0016020,GO:0016491,GO:0016667,GO:0016853,GO:0016860,GO:0016862,GO:0016864,GO:0019538,GO:0019867,GO:0030288,GO:0030312,GO:0030313,GO:0031975,GO:0042597,GO:0043170,GO:0044237,GO:0044238,GO:0044260,GO:0044267,GO:0044462,GO:0044464,GO:0044710,GO:0055114,GO:0071704,GO:0071944",
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01SH3@aproNOG,06TFY@bactNOG,1743W@proNOG,COG1651@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "Q",
+        "X13": "DSBA Oxidoreductase"
+      }
     },
     {
       "seqnames": "MAG06_530",
@@ -94,7 +125,22 @@
       "sscore": "11.84",
       "rscore": "7.63",
       "uscore": "-0.58",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_568_5",
+        "X2": "266834.SMc01343",
+        "X3": 2.6e-80,
+        "X4": 303.1,
+        "X5": "AROQ",
+        "X6": null,
+        "X7": "K03786",
+        "X8": "DHQTi",
+        "X9": "bactNOG[38]",
+        "X10": "01Y0C@aproNOG,08Z38@bactNOG,17C89@proNOG,COG0757@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "E",
+        "X13": "Catalyzes a trans-dehydration via an enolate intermediate (By similarity)"
+      }
     },
     {
       "seqnames": "MAG06_530",
@@ -118,7 +164,22 @@
       "sscore": "18.94",
       "rscore": "13.75",
       "uscore": "0.90",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_569_1",
+        "X2": "266834.SMc02450",
+        "X3": 2.4e-111,
+        "X4": 406.8,
+        "X5": "ARGJ",
+        "X6": "GO:0005575,GO:0005622,GO:0005623,GO:0005737,GO:0044424,GO:0044464",
+        "X7": "K00620,K03328",
+        "X8": "ACGS,ORNTAC,ORNTAC_1",
+        "X9": "bactNOG[38]",
+        "X10": "01RX0@aproNOG,05C5V@bactNOG,16PEK@proNOG,COG1364@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "E",
+        "X13": "Catalyzes two activities which are involved in the cyclic version of arginine biosynthesis the synthesis of N- acetylglutamate from glutamate and acetyl-CoA as the acetyl donor, and of ornithine by transacetylation between N(2)-acetylornithine and glutamate (By similarity)"
+      }
     },
     {
       "seqnames": "MAG06_530",
@@ -142,7 +203,8 @@
       "sscore": "-4.77",
       "rscore": "-4.72",
       "uscore": "-3.70",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {}
     }
   ],
   "seqname": "MAG06_530",

@@ -22,7 +22,22 @@
       "sscore": "3.22",
       "rscore": "0.00",
       "uscore": "0.00",
-      "tscore": "3.22"
+      "tscore": "3.22",
+      "eggnog": {
+        "X1": "MAG06_694_4",
+        "X2": "311403.Arad_3988",
+        "X3": 3.6e-142,
+        "X4": 509.6,
+        "X5": null,
+        "X6": "GO:0005575,GO:0016020",
+        "X7": "K02026,K17313",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01TMX@aproNOG,05DRW@bactNOG,16QN7@proNOG,COG0395@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "G",
+        "X13": "Binding-protein-dependent transport systems inner membrane component"
+      }
     },
     {
       "seqnames": "MAG06_695",
@@ -46,7 +61,22 @@
       "sscore": "12.68",
       "rscore": "7.63",
       "uscore": "1.41",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_694_5",
+        "X2": "430066.BAbS19_I02240",
+        "X3": 6.5e-131,
+        "X4": 472.2,
+        "X5": null,
+        "X6": "GO:0005575,GO:0016020",
+        "X7": "K02025",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01UCC@aproNOG,07QD0@bactNOG,11EY7@NOG,177F8@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": "G",
+        "X13": "binding-protein-dependent transport systems inner membrane component"
+      }
     },
     {
       "seqnames": "MAG06_695",
@@ -70,7 +100,22 @@
       "sscore": "16.84",
       "rscore": "13.75",
       "uscore": "-0.56",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_695_1",
+        "X2": "266834.SMc03985",
+        "X3": 4.4e-203,
+        "X4": 712.2,
+        "X5": "CYAF2",
+        "X6": null,
+        "X7": "K01768",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "02E36@aproNOG,08HZP@bactNOG,10JAK@NOG,172G8@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": "F",
+        "X13": "Adenylate"
+      }
     }
   ],
   "seqname": "MAG06_695",

@@ -22,7 +22,22 @@
       "sscore": "0.57",
       "rscore": "-0.37",
       "uscore": "-2.06",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_709_2",
+        "X2": "266834.SMc03801",
+        "X3": 8.7e-177,
+        "X4": 624.8,
+        "X5": "YBBN",
+        "X6": null,
+        "X7": "K05838",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01Q8D@aproNOG,07QR8@bactNOG,16PDS@proNOG,COG3118@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "O",
+        "X13": "Thioredoxin"
+      }
     },
     {
       "seqnames": "MAG06_716",
@@ -46,7 +61,22 @@
       "sscore": "5.90",
       "rscore": "7.85",
       "uscore": "-5.59",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_709_3",
+        "X2": "266834.SMc03800",
+        "X3": 7e-90,
+        "X4": 335.1,
+        "X5": null,
+        "X6": null,
+        "X7": "K19055",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01Y77@aproNOG,08ZQX@bactNOG,17CKV@proNOG,COG3760@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "YbaK prolyl-tRNA synthetase"
+      }
     }
   ],
   "seqname": "MAG06_716",

@@ -22,7 +22,22 @@
       "sscore": "6.07",
       "rscore": "1.92",
       "uscore": "1.84",
-      "tscore": "3.46"
+      "tscore": "3.46",
+      "eggnog": {
+        "X1": "MAG06_693_4",
+        "X2": "266834.SMc01162",
+        "X3": 3.7e-157,
+        "X4": 559.3,
+        "X5": null,
+        "X6": null,
+        "X7": "K07008",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01SP2@aproNOG,07T4F@bactNOG,16UUG@proNOG,COG0121@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "Glutamine amidotransferase"
+      }
     },
     {
       "seqnames": "MAG06_694",
@@ -46,7 +61,8 @@
       "sscore": "-0.18",
       "rscore": "-4.72",
       "uscore": "-0.37",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {}
     },
     {
       "seqnames": "MAG06_694",
@@ -70,7 +86,22 @@
       "sscore": "11.49",
       "rscore": "7.85",
       "uscore": "-1.22",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_693_5",
+        "X2": "266834.SMc01163",
+        "X3": 1e-57,
+        "X4": 227.6,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01R15@aproNOG,05CIB@bactNOG,16PYP@proNOG,COG0673@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "Oxidoreductase"
+      }
     },
     {
       "seqnames": "MAG06_694",
@@ -94,7 +125,22 @@
       "sscore": "12.55",
       "rscore": "7.63",
       "uscore": "-0.35",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_694_2",
+        "X2": "439375.Oant_0313",
+        "X3": 1.3e-94,
+        "X4": 351.3,
+        "X5": null,
+        "X6": null,
+        "X7": "K20023",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01RUW@aproNOG,05DIA@bactNOG,16RZW@proNOG,COG4948@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "M",
+        "X13": "mandelate racemase"
+      }
     },
     {
       "seqnames": "MAG06_694",
@@ -118,7 +164,22 @@
       "sscore": "7.09",
       "rscore": "7.85",
       "uscore": "-4.40",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_694_3",
+        "X2": "765698.Mesci_5278",
+        "X3": 1.6e-160,
+        "X4": 570.9,
+        "X5": null,
+        "X6": null,
+        "X7": "K10112",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01Q68@aproNOG,05C53@bactNOG,16PDX@proNOG,COG3842@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "E",
+        "X13": "ABC transporter"
+      }
     }
   ],
   "seqname": "MAG06_694",

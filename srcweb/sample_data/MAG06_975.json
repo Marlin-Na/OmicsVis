@@ -22,7 +22,22 @@
       "sscore": "-0.19",
       "rscore": "-4.72",
       "uscore": "0.88",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_156_1",
+        "X2": "266834.SMc01575",
+        "X3": 1.3e-134,
+        "X4": 484.2,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "02EDI@aproNOG,08J8B@bactNOG,1736N@proNOG,COG3409@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "M",
+        "X13": "ErfK, YbiS"
+      }
     },
     {
       "seqnames": "MAG06_975",
@@ -46,7 +61,22 @@
       "sscore": "-1.39",
       "rscore": "-4.72",
       "uscore": "0.34",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_156_2",
+        "X2": "266834.SMc01576",
+        "X3": 7.9e-247,
+        "X4": 857.8,
+        "X5": "ORDL",
+        "X6": null,
+        "X7": "K00301",
+        "X8": "LPCOXc",
+        "X9": "bactNOG[38]",
+        "X10": "01QXR@aproNOG,08KZT@bactNOG,173UF@proNOG,COG0665@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "E",
+        "X13": "fad dependent oxidoreductase"
+      }
     },
     {
       "seqnames": "MAG06_975",
@@ -70,7 +100,22 @@
       "sscore": "5.71",
       "rscore": "2.03",
       "uscore": "0.04",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_156_3",
+        "X2": "266834.SMc01579",
+        "X3": 1.4e-123,
+        "X4": 447.6,
+        "X5": "PARA",
+        "X6": null,
+        "X7": "K03496",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01V55@aproNOG,08QYD@bactNOG,176S8@proNOG,COG1192@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "D",
+        "X13": "Chromosome Partitioning Protein"
+      }
     },
     {
       "seqnames": "MAG06_975",
@@ -94,7 +139,22 @@
       "sscore": "4.01",
       "rscore": "2.03",
       "uscore": "-1.66",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_156_4",
+        "X2": "266834.SMc01582",
+        "X3": 2e-144,
+        "X4": 516.9,
+        "X5": "GBD",
+        "X6": null,
+        "X7": "K00001,K00043,K00086,K17067",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01QZ6@aproNOG,05C0A@bactNOG,16RMM@proNOG,COG1454@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "C",
+        "X13": "alcohol dehydrogenase"
+      }
     },
     {
       "seqnames": "MAG06_975",
@@ -118,7 +178,22 @@
       "sscore": "10.68",
       "rscore": "7.63",
       "uscore": "0.06",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_157_1",
+        "X2": "266834.SMc04205",
+        "X3": 0,
+        "X4": 1363.6,
+        "X5": "HASR",
+        "X6": "GO:0005575,GO:0005623,GO:0009279,GO:0016020,GO:0019867,GO:0030312,GO:0030313,GO:0031975,GO:0044462,GO:0044464,GO:0071944",
+        "X7": "K16087",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01SNF@aproNOG,05E30@bactNOG,0XQK8@NOG,16RPG@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": "P",
+        "X13": "receptor"
+      }
     },
     {
       "seqnames": "MAG06_975",
@@ -142,7 +217,22 @@
       "sscore": "16.63",
       "rscore": "13.70",
       "uscore": "-0.04",
-      "tscore": "3.63"
+      "tscore": "3.63",
+      "eggnog": {
+        "X1": "MAG06_157_2",
+        "X2": "266834.SMc04204",
+        "X3": 1.7e-194,
+        "X4": 683.7,
+        "X5": "FECR",
+        "X6": null,
+        "X7": "K07165",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01Z6Z@aproNOG,05GPA@bactNOG,17E46@proNOG,COG3712@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "P, T",
+        "X13": "FecR protein"
+      }
     },
     {
       "seqnames": "MAG06_975",
@@ -166,7 +256,22 @@
       "sscore": "4.95",
       "rscore": "9.99",
       "uscore": "0.10",
-      "tscore": "-5.13"
+      "tscore": "-5.13",
+      "eggnog": {
+        "X1": "MAG06_91_2",
+        "X2": "266834.SMc01353",
+        "X3": 3.3e-44,
+        "X4": 182.6,
+        "X5": "GATC",
+        "X6": null,
+        "X7": "K02435",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01ZKD@aproNOG,080G2@bactNOG,17K2S@proNOG,COG0721@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "J",
+        "X13": "Allows the formation of correctly charged Asn-tRNA(Asn) or Gln-tRNA(Gln) through the transamidation of misacylated Asp- tRNA(Asn) or Glu-tRNA(Gln) in organisms which lack either or both of asparaginyl-tRNA or glutaminyl-tRNA synthetases. The reaction takes place in the presence of glutamine and ATP through an activated phospho-Asp-tRNA(Asn) or phospho-Glu-tRNA(Gln) (By similarity)"
+      }
     },
     {
       "seqnames": "MAG06_975",
@@ -190,7 +295,22 @@
       "sscore": "10.81",
       "rscore": "6.59",
       "uscore": "1.07",
-      "tscore": "3.15"
+      "tscore": "3.15",
+      "eggnog": {
+        "X1": "MAG06_91_3",
+        "X2": "266834.SMc01354",
+        "X3": 8.2e-85,
+        "X4": 318.2,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01QHW@aproNOG,07T8T@bactNOG,16TG7@proNOG,COG2220@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "UPF0173 metal-dependent hydrolase"
+      }
     },
     {
       "seqnames": "MAG06_975",
@@ -214,7 +334,22 @@
       "sscore": "8.83",
       "rscore": "7.32",
       "uscore": "-1.34",
-      "tscore": "3.50"
+      "tscore": "3.50",
+      "eggnog": {
+        "X1": "MAG06_910_1",
+        "X2": "266834.SMc03178",
+        "X3": 9.3e-30,
+        "X4": 134,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01QRS@aproNOG,05BZU@bactNOG,0XNMH@NOG,16PBJ@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": "T",
+        "X13": "Diguanylate cyclase phosphodiesterase"
+      }
     },
     {
       "seqnames": "MAG06_975",
@@ -238,7 +373,22 @@
       "sscore": "3.22",
       "rscore": "0.00",
       "uscore": "0.00",
-      "tscore": "3.22"
+      "tscore": "3.22",
+      "eggnog": {
+        "X1": "MAG06_910_2",
+        "X2": "266834.SMc03179",
+        "X3": 0,
+        "X4": 1934.1,
+        "X5": "PHAA",
+        "X6": "GO:0005575,GO:0005623,GO:0005886,GO:0016020,GO:0044464,GO:0071944",
+        "X7": "K00341,K05559,K05565",
+        "X8": "Kt3r,NADH10,NADH5,NADH6,NADH7,NADH8,NADH9,NAt3_1",
+        "X9": "bactNOG[38]",
+        "X10": "01RBE@aproNOG,05D65@bactNOG,16QW2@proNOG,COG1009@NOG,COG2111@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "P",
+        "X13": "monovalent cation H antiporter subunit A"
+      }
     }
   ],
   "seqname": "MAG06_975",

@@ -22,7 +22,22 @@
       "sscore": "12.45",
       "rscore": "13.75",
       "uscore": "0.06",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_653_9",
+        "X2": "536019.Mesop_5927",
+        "X3": 1.5e-124,
+        "X4": 451.1,
+        "X5": "EHUB",
+        "X6": null,
+        "X7": "K02030,K10013",
+        "X8": "ARGabc,ARGabcpp,LYSabc,LYSabcpp,ORNabc,ORNabcpp",
+        "X9": "bactNOG[38]",
+        "X10": "01VSB@aproNOG,08KT4@bactNOG,11IMY@NOG,178JI@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": "E",
+        "X13": "Ectoine hydroxyectoine ABC transporter solute-binding protein"
+      }
     },
     {
       "seqnames": "MAG06_634",
@@ -46,7 +61,22 @@
       "sscore": "15.53",
       "rscore": "10.54",
       "uscore": "1.34",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_654_1",
+        "X2": "266834.SMc02867",
+        "X3": 4.3e-257,
+        "X4": 892.1,
+        "X5": "MEXD",
+        "X6": "GO:0005575,GO:0006810,GO:0006855,GO:0008150,GO:0009636,GO:0009987,GO:0015893,GO:0016020,GO:0016021,GO:0031224,GO:0042221,GO:0042493,GO:0044425,GO:0044699,GO:0044763,GO:0044765,GO:0046677,GO:0050896,GO:0051179,GO:0051234,GO:0055085",
+        "X7": "K03296,K18138,K18146,K18296",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01QFF@aproNOG,05BZS@bactNOG,16PBH@proNOG,COG0841@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "P",
+        "X13": "acriflavin resistance protein"
+      }
     },
     {
       "seqnames": "MAG06_634",
@@ -70,7 +100,22 @@
       "sscore": "13.85",
       "rscore": "10.54",
       "uscore": "-0.34",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_654_2",
+        "X2": "266834.SMc02866",
+        "X3": 4.6e-118,
+        "X4": 429.1,
+        "X5": "TTGR",
+        "X6": null,
+        "X7": "K03577,K18135",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "02E6Q@aproNOG,08IG4@bactNOG,11X6X@NOG,172QK@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": "K",
+        "X13": "Transcriptional regulator"
+      }
     },
     {
       "seqnames": "MAG06_634",
@@ -94,7 +139,22 @@
       "sscore": "4.55",
       "rscore": "2.03",
       "uscore": "-1.13",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_654_3",
+        "X2": "266834.SMc02865",
+        "X3": 3.3e-78,
+        "X4": 296.2,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01ZRT@aproNOG,05S3I@bactNOG,11TVF@NOG,17FG8@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "Acetyltransferase, (GNAT) family"
+      }
     }
   ],
   "seqname": "MAG06_634",

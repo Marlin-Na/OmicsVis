@@ -22,7 +22,22 @@
       "sscore": "17.63",
       "rscore": "13.75",
       "uscore": "0.23",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_69_8",
+        "X2": "266834.SMc02413",
+        "X3": 1.7e-244,
+        "X4": 850.1,
+        "X5": null,
+        "X6": null,
+        "X7": "K00823",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "08JPW@bactNOG,173E8@proNOG,COG0160@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "E",
+        "X13": "Diaminobutyrate--2-oxoglutarate aminotransferase"
+      }
     },
     {
       "seqnames": "MAG06_688",
@@ -46,7 +61,22 @@
       "sscore": "10.57",
       "rscore": "7.85",
       "uscore": "-0.28",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_132_11",
+        "X2": "266834.SMc00003",
+        "X3": 5.2e-188,
+        "X4": 662.1,
+        "X5": "CBPA",
+        "X6": null,
+        "X7": "K03686,K05516",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01VZ4@aproNOG,05DVC@bactNOG,16RH2@proNOG,COG2214@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "O",
+        "X13": "DnaJ domain protein"
+      }
     },
     {
       "seqnames": "MAG06_688",
@@ -70,7 +100,22 @@
       "sscore": "7.00",
       "rscore": "3.33",
       "uscore": "0.03",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_132_12",
+        "X2": "266834.SMc00005",
+        "X3": 5.7e-150,
+        "X4": 535.4,
+        "X5": "FABI",
+        "X6": "GO:0003674,GO:0003824,GO:0004312,GO:0004318,GO:0005575,GO:0005623,GO:0005886,GO:0006082,GO:0006461,GO:0006629,GO:0006631,GO:0006633,GO:0006766,GO:0006767,GO:0006768,GO:0006790,GO:0006807,GO:0008150,GO:0008152,GO:0008610,GO:0009058,GO:0009102,GO:0009110,GO:0009987,GO:0016020,GO:0016043,GO:0016053,GO:0016491,GO:0016627,GO:0016628,GO:0016740,GO:0016746,GO:0016747,GO:0018130,GO:0019752,GO:0022607,GO:0030497,GO:0032787,GO:0034641,GO:0042364,GO:0043436,GO:0043603,GO:0043604,GO:0043933,GO:0044085,GO:0044237,GO:0044238,GO:0044249,GO:0044255,GO:0044271,GO:0044272,GO:0044281,GO:0044283,GO:0044464,GO:0044710,GO:0044711,GO:0046394,GO:0046483,GO:0051186,GO:0051259,GO:0051260,GO:0051262,GO:0051289,GO:0055114,GO:0065003,GO:0070271,GO:0071704,GO:0071822,GO:0071840,GO:0071944,GO:0072330,GO:1901360,GO:1901362,GO:1901564,GO:1901566,GO:1901576",
+        "X7": "K00208",
+        "X8": "C120SN,C140SN,C141SN,C160SN,C161SN,C180SN,C181SN,EAR100x,EAR100y,EAR120x,EAR120y,EAR121x,EAR121y,EAR140x,EAR140y,EAR141x,EAR141y,EAR160x,EAR160y,EAR161x,EAR161y,EAR180x,EAR180y,EAR181x,EAR181y,EAR40x,EAR40y,EAR60x,EAR60y,EAR80x,EAR80y,EGMEACPR,EPMEACPR,KAS_HP2",
+        "X9": "bactNOG[38]",
+        "X10": "01R2P@aproNOG,05CSJ@bactNOG,16PM1@proNOG,COG0623@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "I",
+        "X13": "Enoyl- acyl-carrier-protein reductase NADH"
+      }
     },
     {
       "seqnames": "MAG06_688",
@@ -94,7 +139,22 @@
       "sscore": "6.25",
       "rscore": "2.03",
       "uscore": "0.58",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_132_13",
+        "X2": "266834.SMc00006",
+        "X3": 7.8e-109,
+        "X4": 398.3,
+        "X5": "GPMB",
+        "X6": null,
+        "X7": "K15634",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "02DG8@aproNOG,07ZQQ@bactNOG,170M5@proNOG,COG0406@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "G",
+        "X13": "phosphoglycerate mutase"
+      }
     },
     {
       "seqnames": "MAG06_688",
@@ -118,7 +178,22 @@
       "sscore": "10.63",
       "rscore": "7.63",
       "uscore": "-0.64",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_132_14",
+        "X2": "266834.SMc00070",
+        "X3": 3.5e-37,
+        "X4": 159.1,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "022V6@aproNOG,06788@bactNOG,127G4@NOG,17Q5S@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "Protein of unknown function (DUF1344)"
+      }
     }
   ],
   "seqname": "MAG06_688",

@@ -22,7 +22,22 @@
       "sscore": "9.80",
       "rscore": "7.63",
       "uscore": "-0.82",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_410_4",
+        "X2": "266834.SMc02391",
+        "X3": 5.4e-16,
+        "X4": 87.8,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "02D79@aproNOG,05M61@bactNOG,16ZK9@proNOG,COG4731@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "Uncharacterized protein conserved in bacteria (DUF2147)"
+      }
     },
     {
       "seqnames": "MAG06_325",
@@ -46,7 +61,22 @@
       "sscore": "9.24",
       "rscore": "6.50",
       "uscore": "-0.28",
-      "tscore": "3.02"
+      "tscore": "3.02",
+      "eggnog": {
+        "X1": "MAG06_1030_5",
+        "X2": "314256.OG2516_06991",
+        "X3": 3.5e-199,
+        "X4": 699.9,
+        "X5": "BGAB",
+        "X6": null,
+        "X7": "K12308",
+        "X8": "LACZ",
+        "X9": "bactNOG[38]",
+        "X10": "01S9G@aproNOG,05C4C@bactNOG,16SWK@proNOG,COG1874@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "G",
+        "X13": "beta-galactosidase"
+      }
     },
     {
       "seqnames": "MAG06_325",
@@ -70,7 +100,22 @@
       "sscore": "18.01",
       "rscore": "13.75",
       "uscore": "0.61",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_1031_1",
+        "X2": "266834.SMc02338",
+        "X3": 4.4e-109,
+        "X4": 399.8,
+        "X5": "RBSB10",
+        "X6": null,
+        "X7": "K10439",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01UFY@aproNOG,05E9V@bactNOG,16RZ5@proNOG,COG1879@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "G",
+        "X13": "Periplasmic binding proteins and sugar binding domain of LacI family"
+      }
     },
     {
       "seqnames": "MAG06_325",
@@ -94,7 +139,22 @@
       "sscore": "-0.90",
       "rscore": "7.35",
       "uscore": "1.77",
-      "tscore": "-10.83"
+      "tscore": "-10.83",
+      "eggnog": {
+        "X1": "MAG06_1031_2",
+        "X2": "412597.PaTRP_010100005974",
+        "X3": 5.6e-175,
+        "X4": 619.4,
+        "X5": "RBSA",
+        "X6": "GO:0005575,GO:0005623,GO:0005886,GO:0016020,GO:0044464,GO:0071944",
+        "X7": "K01995,K01996,K02056,K10441,K10539",
+        "X8": "RIBabcpp",
+        "X9": "bactNOG[38]",
+        "X10": "01QBB@aproNOG,05C2J@bactNOG,16PQI@proNOG,COG1129@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "P",
+        "X13": "ABC transporter"
+      }
     },
     {
       "seqnames": "MAG06_325",
@@ -118,7 +178,22 @@
       "sscore": "10.59",
       "rscore": "7.85",
       "uscore": "-0.26",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_411_1",
+        "X2": "266834.SMc01025",
+        "X3": 3.2e-107,
+        "X4": 392.9,
+        "X5": "PYRG",
+        "X6": "GO:0003674,GO:0003824,GO:0003883,GO:0005575,GO:0005622,GO:0005623,GO:0005737,GO:0005829,GO:0005886,GO:0006139,GO:0006213,GO:0006220,GO:0006221,GO:0006241,GO:0006725,GO:0006753,GO:0006793,GO:0006796,GO:0006807,GO:0008150,GO:0008152,GO:0009058,GO:0009116,GO:0009117,GO:0009119,GO:0009141,GO:0009142,GO:0009147,GO:0009148,GO:0009163,GO:0009165,GO:0009199,GO:0009201,GO:0009208,GO:0009209,GO:0009218,GO:0009220,GO:0009259,GO:0009260,GO:0009987,GO:0016020,GO:0016874,GO:0016879,GO:0018130,GO:0019438,GO:0019637,GO:0019693,GO:0034641,GO:0034654,GO:0040007,GO:0042455,GO:0044237,GO:0044238,GO:0044249,GO:0044271,GO:0044281,GO:0044424,GO:0044444,GO:0044464,GO:0044710,GO:0046036,GO:0046131,GO:0046132,GO:0046134,GO:0046390,GO:0046483,GO:0055086,GO:0071704,GO:0071944,GO:0072527,GO:0072528,GO:0090407,GO:1901135,GO:1901137,GO:1901293,GO:1901360,GO:1901362,GO:1901564,GO:1901566,GO:1901576,GO:1901657,GO:1901659",
+        "X7": "K01937",
+        "X8": "CTPS1,CTPS2",
+        "X9": "bactNOG[38]",
+        "X10": "01RIA@aproNOG,05C8D@bactNOG,16QX0@proNOG,COG0504@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "F",
+        "X13": "Catalyzes the ATP-dependent amination of UTP to CTP with either L-glutamine or ammonia as the source of nitrogen (By similarity)"
+      }
     },
     {
       "seqnames": "MAG06_325",
@@ -142,7 +217,22 @@
       "sscore": "20.62",
       "rscore": "13.75",
       "uscore": "2.34",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_411_2",
+        "X2": "266834.SMc01026",
+        "X3": 1.1e-162,
+        "X4": 577.8,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01VI9@aproNOG,08PDK@bactNOG,10WI4@NOG,16TVI@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": null,
+        "X13": null
+      }
     },
     {
       "seqnames": "MAG06_325",
@@ -166,7 +256,22 @@
       "sscore": "15.18",
       "rscore": "10.54",
       "uscore": "1.65",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_411_3",
+        "X2": "266834.SMc01027",
+        "X3": 3.9e-154,
+        "X4": 549.3,
+        "X5": "KDSA",
+        "X6": "GO:0005575,GO:0005622,GO:0005623,GO:0005737,GO:0044424,GO:0044464",
+        "X7": "K01627",
+        "X8": "KDOPS",
+        "X9": "bactNOG[38]",
+        "X10": "01QIQ@aproNOG,05CXR@bactNOG,16PEJ@proNOG,COG2877@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "M",
+        "X13": "Phospho-2-dehydro-3-deoxyoctonate aldolase"
+      }
     },
     {
       "seqnames": "MAG06_325",
@@ -190,7 +295,22 @@
       "sscore": "5.79",
       "rscore": "5.45",
       "uscore": "0.05",
-      "tscore": "1.44"
+      "tscore": "1.44",
+      "eggnog": {
+        "X1": "MAG06_411_4",
+        "X2": "266834.SMc01028",
+        "X3": 6e-239,
+        "X4": 831.6,
+        "X5": "ENO",
+        "X6": "GO:0005575,GO:0005576,GO:0005622,GO:0005623,GO:0005737,GO:0009986,GO:0044424,GO:0044464",
+        "X7": "K01689",
+        "X8": "DHQTi,ENO",
+        "X9": "bactNOG[38]",
+        "X10": "01QKP@aproNOG,05C70@bactNOG,16PJE@proNOG,COG0148@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "G",
+        "X13": "Catalyzes the reversible conversion of 2- phosphoglycerate into phosphoenolpyruvate. It is essential for the degradation of carbohydrates via glycolysis (By similarity)"
+      }
     },
     {
       "seqnames": "MAG06_325",
@@ -214,7 +334,22 @@
       "sscore": "5.65",
       "rscore": "1.70",
       "uscore": "0.88",
-      "tscore": "3.06"
+      "tscore": "3.06",
+      "eggnog": {
+        "X1": "MAG06_412_1",
+        "X2": "347834.RHE_CH02741",
+        "X3": 2.4e-52,
+        "X4": 209.9,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01SPN@aproNOG,07MRF@bactNOG,1754I@proNOG,COG3664@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "G",
+        "X13": "Inherit from COG: Glycoside hydrolase family"
+      }
     },
     {
       "seqnames": "MAG06_325",
@@ -238,7 +373,22 @@
       "sscore": "6.20",
       "rscore": "2.03",
       "uscore": "-0.66",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_412_2",
+        "X2": "765698.Mesci_5459",
+        "X3": 8e-36,
+        "X4": 154.8,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01SPN@aproNOG,07MRF@bactNOG,1754I@proNOG,COG3664@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "G",
+        "X13": "Inherit from COG: Glycoside hydrolase family"
+      }
     },
     {
       "seqnames": "MAG06_325",
@@ -262,7 +412,22 @@
       "sscore": "-6.21",
       "rscore": "-0.69",
       "uscore": "-0.66",
-      "tscore": "-4.87"
+      "tscore": "-4.87",
+      "eggnog": {
+        "X1": "MAG06_412_3",
+        "X2": "450851.PHZ_c2299",
+        "X3": 7.1e-156,
+        "X4": 555.8,
+        "X5": null,
+        "X6": null,
+        "X7": "K00441",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "02C6R@aproNOG,07ZK1@bactNOG,175YU@proNOG,COG1035@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "C",
+        "X13": "Coenzyme F420 hydrogenase/dehydrogenase, beta subunit N-term"
+      }
     },
     {
       "seqnames": "MAG06_325",
@@ -286,7 +451,8 @@
       "sscore": "10.05",
       "rscore": "7.63",
       "uscore": "-0.57",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {}
     },
     {
       "seqnames": "MAG06_325",
@@ -310,7 +476,22 @@
       "sscore": "15.29",
       "rscore": "10.54",
       "uscore": "1.10",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_412_4",
+        "X2": "347834.RHE_CH02743",
+        "X3": 4.2e-10,
+        "X4": 68.9,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "02584@aproNOG,07U3A@bactNOG,0ZVDJ@NOG,173KS@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "Polysaccharide pyruvyl transferase"
+      }
     },
     {
       "seqnames": "MAG06_325",
@@ -334,7 +515,8 @@
       "sscore": "12.15",
       "rscore": "7.85",
       "uscore": "0.66",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {}
     },
     {
       "seqnames": "MAG06_325",
@@ -358,7 +540,22 @@
       "sscore": "2.54",
       "rscore": "7.63",
       "uscore": "0.43",
-      "tscore": "-4.87"
+      "tscore": "-4.87",
+      "eggnog": {
+        "X1": "MAG06_413_1",
+        "X2": "311403.Arad_9063",
+        "X3": 1.9e-139,
+        "X4": 500.7,
+        "X5": "PSSF",
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "0208C@aproNOG,08SHN@bactNOG,17GVN@proNOG,COG0463@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "M",
+        "X13": "Glycosyl transferase, family 2"
+      }
     },
     {
       "seqnames": "MAG06_325",
@@ -382,7 +579,22 @@
       "sscore": "5.18",
       "rscore": "1.34",
       "uscore": "1.44",
-      "tscore": "2.41"
+      "tscore": "2.41",
+      "eggnog": {
+        "X1": "MAG06_413_2",
+        "X2": "460265.Mnod_0976",
+        "X3": 2.4e-24,
+        "X4": 116.3,
+        "X5": "UXUB",
+        "X6": "GO:0005575,GO:0005622,GO:0005623,GO:0005737,GO:0044424,GO:0044464",
+        "X7": "K00040,K00045,K19633",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01RDW@aproNOG,05DEI@bactNOG,16QQD@proNOG,COG0246@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "G",
+        "X13": "Mannitol dehydrogenase"
+      }
     },
     {
       "seqnames": "MAG06_325",
@@ -406,7 +618,22 @@
       "sscore": "-10.21",
       "rscore": "-4.72",
       "uscore": "-1.51",
-      "tscore": "-4.87"
+      "tscore": "-4.87",
+      "eggnog": {
+        "X1": "MAG06_414_1",
+        "X2": "536019.Mesop_5756",
+        "X3": 1.7e-139,
+        "X4": 500.7,
+        "X5": "RBSB5",
+        "X6": null,
+        "X7": "K02058",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01TGF@aproNOG,05EXE@bactNOG,16SM3@proNOG,COG1879@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "G",
+        "X13": "ABC transporter"
+      }
     },
     {
       "seqnames": "MAG06_325",
@@ -430,7 +657,22 @@
       "sscore": "7.36",
       "rscore": "2.03",
       "uscore": "0.50",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_414_2",
+        "X2": "536019.Mesop_5752",
+        "X3": 4.7e-122,
+        "X4": 443,
+        "X5": "DEOR",
+        "X6": "GO:0001071,GO:0003674,GO:0003700,GO:0006355,GO:0008150,GO:0009889,GO:0010468,GO:0010556,GO:0019219,GO:0019222,GO:0031323,GO:0031326,GO:0050789,GO:0050794,GO:0051171,GO:0051252,GO:0060255,GO:0065007,GO:0080090,GO:2000112,GO:2001141",
+        "X7": "K05346",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "05DKT@bactNOG,173QK@proNOG,COG2390@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "K",
+        "X13": "Transcriptional regulator"
+      }
     },
     {
       "seqnames": "MAG06_325",
@@ -454,7 +696,22 @@
       "sscore": "4.77",
       "rscore": "1.19",
       "uscore": "-0.07",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_414_3",
+        "X2": "311403.Arad_7391",
+        "X3": 1.1e-84,
+        "X4": 318.2,
+        "X5": "THIE",
+        "X6": "GO:0003674,GO:0003824,GO:0004789,GO:0006725,GO:0006766,GO:0006767,GO:0006772,GO:0006790,GO:0006793,GO:0006796,GO:0006807,GO:0008150,GO:0008152,GO:0008972,GO:0009058,GO:0009110,GO:0009228,GO:0009987,GO:0016301,GO:0016310,GO:0016740,GO:0016765,GO:0016772,GO:0016776,GO:0018130,GO:0019438,GO:0034641,GO:0042364,GO:0042723,GO:0042724,GO:0044237,GO:0044249,GO:0044271,GO:0044272,GO:0044281,GO:0044283,GO:0044710,GO:0044711,GO:0046483,GO:0071704,GO:0072527,GO:0072528,GO:1901360,GO:1901362,GO:1901564,GO:1901566,GO:1901576",
+        "X7": "K00788,K14153",
+        "X8": "TMPPP",
+        "X9": "bactNOG[38]",
+        "X10": "01UU1@aproNOG,08UV6@bactNOG,16SHA@proNOG,COG0352@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "H",
+        "X13": "Thiamine-phosphate pyrophosphorylase"
+      }
     }
   ],
   "seqname": "MAG06_325",

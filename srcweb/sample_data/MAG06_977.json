@@ -22,7 +22,22 @@
       "sscore": "-0.92",
       "rscore": "-3.78",
       "uscore": "-0.79",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_910_5",
+        "X2": "266834.SMc03182",
+        "X3": 1.6e-83,
+        "X4": 313.9,
+        "X5": "PHAE",
+        "X6": "GO:0005575,GO:0005623,GO:0005886,GO:0016020,GO:0044464,GO:0071944",
+        "X7": "K05562,K05569",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "020G0@aproNOG,05SC1@bactNOG,17GIP@proNOG,COG1863@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "P",
+        "X13": "monovalent cation H antiporter subunit E"
+      }
     },
     {
       "seqnames": "MAG06_977",
@@ -46,7 +61,22 @@
       "sscore": "13.10",
       "rscore": "10.54",
       "uscore": "-0.43",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_910_6",
+        "X2": "266834.SMc03183",
+        "X3": 2.4e-39,
+        "X4": 166.4,
+        "X5": "PHAF",
+        "X6": "GO:0005575,GO:0005623,GO:0005886,GO:0016020,GO:0044464,GO:0071944",
+        "X7": "K05563,K05570",
+        "X8": "NAt3_1",
+        "X9": "bactNOG[38]",
+        "X10": "020Z9@aproNOG,05W4C@bactNOG,17JWW@proNOG,COG2212@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "P",
+        "X13": "monovalent cation H antiporter subunit F"
+      }
     },
     {
       "seqnames": "MAG06_977",
@@ -70,7 +100,22 @@
       "sscore": "-0.35",
       "rscore": "10.54",
       "uscore": "-0.75",
-      "tscore": "-10.14"
+      "tscore": "-10.14",
+      "eggnog": {
+        "X1": "MAG06_910_7",
+        "X2": "266834.SMc03184",
+        "X3": 9.3e-60,
+        "X4": 234.6,
+        "X5": "PHAG",
+        "X6": "GO:0005575,GO:0005623,GO:0005886,GO:0016020,GO:0044464,GO:0071944",
+        "X7": "K05564,K05571",
+        "X8": "Kt3r,NAt3_1",
+        "X9": "bactNOG[38]",
+        "X10": "0206Q@aproNOG,05KJM@bactNOG,17FM5@proNOG,COG1320@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "P",
+        "X13": "PH adaption potassium efflux system protein PhaG"
+      }
     }
   ],
   "seqname": "MAG06_977",

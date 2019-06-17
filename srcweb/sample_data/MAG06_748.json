@@ -22,7 +22,22 @@
       "sscore": "3.67",
       "rscore": "2.03",
       "uscore": "-1.35",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_733_8",
+        "X2": "266834.SMc01438",
+        "X3": 5.8e-281,
+        "X4": 971.5,
+        "X5": "MUCD",
+        "X6": "GO:0000271,GO:0003674,GO:0003824,GO:0004175,GO:0004252,GO:0005575,GO:0005618,GO:0005623,GO:0005975,GO:0005976,GO:0006082,GO:0006508,GO:0008150,GO:0008152,GO:0008233,GO:0008236,GO:0009058,GO:0009059,GO:0009274,GO:0009276,GO:0009987,GO:0016051,GO:0016053,GO:0016787,GO:0017171,GO:0019538,GO:0019752,GO:0030288,GO:0030312,GO:0030313,GO:0031975,GO:0033692,GO:0034637,GO:0034645,GO:0042120,GO:0042121,GO:0042597,GO:0043170,GO:0043436,GO:0044237,GO:0044238,GO:0044249,GO:0044260,GO:0044262,GO:0044264,GO:0044281,GO:0044283,GO:0044462,GO:0044464,GO:0044710,GO:0044711,GO:0044723,GO:0046394,GO:0070011,GO:0071704,GO:0071944,GO:1901576",
+        "X7": "K04771",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01QGM@aproNOG,05C0H@bactNOG,16PJ0@proNOG,COG0265@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "O",
+        "X13": "protease"
+      }
     },
     {
       "seqnames": "MAG06_748",
@@ -46,7 +61,22 @@
       "sscore": "-1.14",
       "rscore": "10.54",
       "uscore": "-2.80",
-      "tscore": "-10.14"
+      "tscore": "-10.14",
+      "eggnog": {
+        "X1": "MAG06_733_9",
+        "X2": "266834.SMc01439",
+        "X3": 4.4e-68,
+        "X4": 262.3,
+        "X5": null,
+        "X6": null,
+        "X7": "K09707",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "021IZ@aproNOG,05KDS@bactNOG,17K44@proNOG,COG3603@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "Inherit from bactNOG: amino acid-binding act domain-containing protein"
+      }
     },
     {
       "seqnames": "MAG06_748",
@@ -70,7 +100,22 @@
       "sscore": "3.75",
       "rscore": "-0.37",
       "uscore": "0.47",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_734_1",
+        "X2": "266834.SMc02266",
+        "X3": 7.5e-33,
+        "X4": 144.4,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "02AG2@aproNOG,074PE@bactNOG,0Z9TH@NOG,186ZH@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": null,
+        "X13": null
+      }
     },
     {
       "seqnames": "MAG06_748",
@@ -94,7 +139,22 @@
       "sscore": "3.22",
       "rscore": "0.00",
       "uscore": "0.00",
-      "tscore": "3.22"
+      "tscore": "3.22",
+      "eggnog": {
+        "X1": "MAG06_137_2",
+        "X2": "266834.SMc02099",
+        "X3": 5.6e-125,
+        "X4": 452.2,
+        "X5": "PYRH",
+        "X6": "GO:0003674,GO:0003824,GO:0005575,GO:0005622,GO:0005623,GO:0005737,GO:0005829,GO:0006139,GO:0006725,GO:0006753,GO:0006793,GO:0006796,GO:0006807,GO:0008150,GO:0008152,GO:0009041,GO:0009117,GO:0009987,GO:0016301,GO:0016310,GO:0016740,GO:0016772,GO:0016776,GO:0019201,GO:0019205,GO:0019637,GO:0033862,GO:0034641,GO:0044237,GO:0044238,GO:0044281,GO:0044424,GO:0044444,GO:0044464,GO:0044710,GO:0046483,GO:0046939,GO:0055086,GO:0071704,GO:1901360",
+        "X7": "K09903",
+        "X8": "UMPK,URIDK2r",
+        "X9": "bactNOG[38]",
+        "X10": "01QMY@aproNOG,05C41@bactNOG,16Q8Q@proNOG,COG0528@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "F",
+        "X13": "Catalyzes the reversible phosphorylation of UMP to UDP (By similarity)"
+      }
     }
   ],
   "seqname": "MAG06_748",

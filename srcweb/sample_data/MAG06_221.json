@@ -22,7 +22,22 @@
       "sscore": "7.59",
       "rscore": "5.19",
       "uscore": "-0.59",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_332_1",
+        "X2": "266779.Meso_0601",
+        "X3": 9.6e-83,
+        "X4": 312.4,
+        "X5": "CHEB",
+        "X6": "GO:0005575,GO:0005622,GO:0005623,GO:0005737,GO:0044424,GO:0044464",
+        "X7": "K03412",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01UBR@aproNOG,05CMP@bactNOG,16S20@proNOG,COG2201@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "T",
+        "X13": "catalyzes the demethylation of specific methylglutamate residues introduced into the chemoreceptors (methyl-accepting chemotaxis proteins) by CheR (By similarity)"
+      }
     },
     {
       "seqnames": "MAG06_221",
@@ -46,7 +61,22 @@
       "sscore": "4.54",
       "rscore": "2.03",
       "uscore": "-1.13",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_332_2",
+        "X2": "648757.Rvan_1248",
+        "X3": 9.4e-54,
+        "X4": 214.5,
+        "X5": "MMC1_1366",
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "029JD@aproNOG,060EA@bactNOG,121SD@NOG,17NY6@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": null,
+        "X13": null
+      }
     },
     {
       "seqnames": "MAG06_221",
@@ -70,7 +100,22 @@
       "sscore": "12.78",
       "rscore": "7.85",
       "uscore": "-0.37",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_332_3",
+        "X2": "314253.NB311A_10001",
+        "X3": 1.1e-169,
+        "X4": 601.3,
+        "X5": "NHAM_0512",
+        "X6": "GO:0003674,GO:0003824,GO:0004803,GO:0006139,GO:0006259,GO:0006310,GO:0006313,GO:0006725,GO:0006807,GO:0008150,GO:0008152,GO:0009987,GO:0032196,GO:0034641,GO:0043170,GO:0044237,GO:0044238,GO:0044260,GO:0044699,GO:0044763,GO:0046483,GO:0071704,GO:0090304,GO:1901360",
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01RU9@aproNOG,05MKN@bactNOG,16R9K@proNOG,COG3666@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "L",
+        "X13": "Transposase"
+      }
     },
     {
       "seqnames": "MAG06_221",
@@ -94,7 +139,22 @@
       "sscore": "-2.12",
       "rscore": "7.85",
       "uscore": "-1.06",
-      "tscore": "-10.14"
+      "tscore": "-10.14",
+      "eggnog": {
+        "X1": "MAG06_333_1",
+        "X2": "1117943.SFHH103_02490",
+        "X3": 4.2e-204,
+        "X4": 716.1,
+        "X5": null,
+        "X6": null,
+        "X7": "K03446",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01UX8@aproNOG,06QIV@bactNOG,0YHGR@NOG,1741C@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": "P",
+        "X13": "drug resistance transporter, EmrB QacA subfamily"
+      }
     }
   ],
   "seqname": "MAG06_221",

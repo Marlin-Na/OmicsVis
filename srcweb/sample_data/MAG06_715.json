@@ -22,7 +22,22 @@
       "sscore": "12.48",
       "rscore": "7.63",
       "uscore": "1.21",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_708_5",
+        "X2": "266779.Meso_0266",
+        "X3": 4.3e-155,
+        "X4": 552.7,
+        "X5": null,
+        "X6": null,
+        "X7": "K10439",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "025YS@aproNOG,08Q5N@bactNOG,0ZAHE@NOG,17WRB@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": "G",
+        "X13": "ABC transporter, substrate binding protein"
+      }
     },
     {
       "seqnames": "MAG06_715",
@@ -46,7 +61,22 @@
       "sscore": "9.95",
       "rscore": "7.63",
       "uscore": "-1.32",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_708_6",
+        "X2": "392499.Swit_0761",
+        "X3": 3.4e-84,
+        "X4": 316.6,
+        "X5": "SUCB",
+        "X6": null,
+        "X7": "K00627,K00658,K09699",
+        "X8": "OIVD1r,OIVD2,OIVD3",
+        "X9": "bactNOG[38]",
+        "X10": "025EB@aproNOG,05C7S@bactNOG,177JB@proNOG,COG0508@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "C",
+        "X13": "2-oxoacid dehydrogenases acyltransferase (catalytic domain)"
+      }
     }
   ],
   "seqname": "MAG06_715",

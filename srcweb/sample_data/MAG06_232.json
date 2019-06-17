@@ -22,7 +22,22 @@
       "sscore": "0.21",
       "rscore": "-3.03",
       "uscore": "-1.11",
-      "tscore": "3.20"
+      "tscore": "3.20",
+      "eggnog": {
+        "X1": "MAG06_337_9",
+        "X2": "266834.SMc01864",
+        "X3": 5.9e-142,
+        "X4": 508.8,
+        "X5": "MURD",
+        "X6": "GO:0000270,GO:0003674,GO:0003824,GO:0005575,GO:0005622,GO:0005623,GO:0005737,GO:0005829,GO:0006022,GO:0006023,GO:0006024,GO:0006807,GO:0008150,GO:0008152,GO:0008764,GO:0009058,GO:0009059,GO:0009252,GO:0009273,GO:0009987,GO:0016874,GO:0016879,GO:0016881,GO:0030203,GO:0034645,GO:0040007,GO:0042546,GO:0043170,GO:0044036,GO:0044038,GO:0044085,GO:0044237,GO:0044249,GO:0044260,GO:0044424,GO:0044444,GO:0044464,GO:0044699,GO:0044710,GO:0044763,GO:0070589,GO:0071554,GO:0071704,GO:0071840,GO:1901135,GO:1901137,GO:1901564,GO:1901566,GO:1901576",
+        "X7": "K01925",
+        "X8": "UAMAGS",
+        "X9": "bactNOG[38]",
+        "X10": "01QCJ@aproNOG,05DMZ@bactNOG,16RAX@proNOG,COG0771@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "M",
+        "X13": "Cell wall formation. Catalyzes the addition of glutamate to the nucleotide precursor UDP-N-acetylmuramoyl-L-alanine (UMA) (By similarity)"
+      }
     },
     {
       "seqnames": "MAG06_232",
@@ -46,7 +61,22 @@
       "sscore": "-2.75",
       "rscore": "-4.12",
       "uscore": "-1.17",
-      "tscore": "3.20"
+      "tscore": "3.20",
+      "eggnog": {
+        "X1": "MAG06_338_1",
+        "X2": "266834.SMc01926",
+        "X3": 1.3e-191,
+        "X4": 674.1,
+        "X5": "NUOM",
+        "X6": "GO:0003674,GO:0003824,GO:0003954,GO:0005575,GO:0005623,GO:0005886,GO:0008150,GO:0008152,GO:0016020,GO:0016491,GO:0016651,GO:0016655,GO:0044464,GO:0044710,GO:0050136,GO:0055114,GO:0071944",
+        "X7": "K00342",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01RMM@aproNOG,05C8S@bactNOG,16QJ3@proNOG,COG1008@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "C",
+        "X13": "subunit m"
+      }
     },
     {
       "seqnames": "MAG06_232",
@@ -70,7 +100,22 @@
       "sscore": "6.03",
       "rscore": "9.04",
       "uscore": "1.61",
-      "tscore": "-4.62"
+      "tscore": "-4.62",
+      "eggnog": {
+        "X1": "MAG06_338_2",
+        "X2": "266834.SMc01927",
+        "X3": 2.6e-254,
+        "X4": 882.9,
+        "X5": "NUON",
+        "X6": "GO:0003674,GO:0003824,GO:0003954,GO:0005575,GO:0005622,GO:0005623,GO:0005737,GO:0005886,GO:0008150,GO:0008152,GO:0009579,GO:0016020,GO:0016491,GO:0016651,GO:0016655,GO:0034357,GO:0042716,GO:0042717,GO:0044424,GO:0044436,GO:0044444,GO:0044464,GO:0044710,GO:0050136,GO:0055114,GO:0071944",
+        "X7": "K00343",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01QYC@aproNOG,05CNR@bactNOG,16QZF@proNOG,COG1007@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "C",
+        "X13": "NDH-1 shuttles electrons from NADH, via FMN and iron- sulfur (Fe-S) centers, to quinones in the respiratory chain. The immediate electron acceptor for the enzyme in this species is believed to be ubiquinone. Couples the redox reaction to proton translocation (for every two electrons transferred, four hydrogen ions are translocated across the cytoplasmic membrane), and thus conserves the redox energy in a proton gradient (By similarity)"
+      }
     }
   ],
   "seqname": "MAG06_232",

@@ -22,7 +22,22 @@
       "sscore": "12.62",
       "rscore": "7.63",
       "uscore": "1.35",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_275_7",
+        "X2": "266834.SMc00044",
+        "X3": 1.9e-108,
+        "X4": 397.1,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "025CT@aproNOG,08VRN@bactNOG,17AYU@proNOG,COG1280@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "E",
+        "X13": "Efflux protein"
+      }
     },
     {
       "seqnames": "MAG06_161",
@@ -46,7 +61,22 @@
       "sscore": "0.07",
       "rscore": "-4.72",
       "uscore": "1.80",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_275_8",
+        "X2": "266834.SMc00107",
+        "X3": 9.8e-130,
+        "X4": 468,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01TG7@aproNOG,05D29@bactNOG,16T2Z@proNOG,COG2378@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "K",
+        "X13": "Helix-turn-helix type 11 domain protein"
+      }
     },
     {
       "seqnames": "MAG06_161",
@@ -70,7 +100,22 @@
       "sscore": "5.61",
       "rscore": "2.03",
       "uscore": "-0.07",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_275_9",
+        "X2": "366394.Smed_0587",
+        "X3": 1.4e-116,
+        "X4": 424.1,
+        "X5": "SODB",
+        "X6": "GO:0003674,GO:0003824,GO:0004784,GO:0006801,GO:0008150,GO:0008152,GO:0009987,GO:0016209,GO:0016491,GO:0016721,GO:0044237,GO:0044710,GO:0055114,GO:0072593",
+        "X7": "K04564",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01RAG@aproNOG,05CK4@bactNOG,16RJ5@proNOG,COG0605@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "P",
+        "X13": "Destroys radicals which are normally produced within the cells and which are toxic to biological systems (By similarity)"
+      }
     },
     {
       "seqnames": "MAG06_161",
@@ -94,7 +139,22 @@
       "sscore": "14.58",
       "rscore": "7.63",
       "uscore": "2.33",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_276_1",
+        "X2": "224914.BAWG_1972",
+        "X3": 6.3e-64,
+        "X4": 248.8,
+        "X5": "OPLAH",
+        "X6": "GO:0005575,GO:0005623,GO:0005886,GO:0016020,GO:0044464,GO:0071944",
+        "X7": "K01469,K01474",
+        "X8": "OPAH",
+        "X9": "bactNOG[38]",
+        "X10": "01Q72@aproNOG,05C5J@bactNOG,16PE9@proNOG,COG0145@NOG,COG0146@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "E",
+        "X13": "5-oxoprolinase"
+      }
     },
     {
       "seqnames": "MAG06_161",
@@ -118,7 +178,22 @@
       "sscore": "2.35",
       "rscore": "-3.78",
       "uscore": "1.30",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_276_2",
+        "X2": "395492.Rleg2_3150",
+        "X3": 4e-90,
+        "X4": 336.7,
+        "X5": "RLUB",
+        "X6": null,
+        "X7": "K06178,K06183",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "0259V@aproNOG,08RUS@bactNOG,1789Z@proNOG,COG1187@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "J",
+        "X13": "Pseudouridine synthase"
+      }
     },
     {
       "seqnames": "MAG06_161",
@@ -142,7 +217,22 @@
       "sscore": "4.26",
       "rscore": "2.03",
       "uscore": "-1.41",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_276_3",
+        "X2": "395492.Rleg2_3168",
+        "X3": 1.3e-156,
+        "X4": 557.8,
+        "X5": "OCAR_7553",
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01SC3@aproNOG,05DFJ@bactNOG,16QZS@proNOG,COG3181@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "Pfam:Bug"
+      }
     }
   ],
   "seqname": "MAG06_161",

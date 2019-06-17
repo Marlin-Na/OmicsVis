@@ -22,7 +22,22 @@
       "sscore": "11.24",
       "rscore": "7.63",
       "uscore": "-0.03",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_471_1",
+        "X2": "272943.RSP_0482",
+        "X3": 1.1e-27,
+        "X4": 127.5,
+        "X5": "KDUI",
+        "X6": "GO:0005575,GO:0005622,GO:0005623,GO:0005737,GO:0005829,GO:0044424,GO:0044444,GO:0044464",
+        "X7": "K01815",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01RC2@aproNOG,05D50@bactNOG,16Q7C@proNOG,COG3717@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "G",
+        "X13": "Catalyzes the isomerization of 5-dehydro-4-deoxy-D- glucuronate to 3-deoxy-D-glycero-2,5-hexodiulosonate (By similarity)"
+      }
     },
     {
       "seqnames": "MAG06_397",
@@ -46,7 +61,22 @@
       "sscore": "13.96",
       "rscore": "10.54",
       "uscore": "-0.95",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_471_2",
+        "X2": "765698.Mesci_1188",
+        "X3": 5.8e-104,
+        "X4": 382.5,
+        "X5": "KDUD",
+        "X6": null,
+        "X7": "K00046,K00059,K00065",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01SQ4@aproNOG,05CHR@bactNOG,0XNW1@NOG,16Q0I@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "2-deoxy-d-gluconate 3-dehydrogenase"
+      }
     },
     {
       "seqnames": "MAG06_397",
@@ -70,7 +100,22 @@
       "sscore": "15.48",
       "rscore": "10.54",
       "uscore": "-0.63",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_471_3",
+        "X2": "536019.Mesop_1220",
+        "X3": 2.5e-43,
+        "X4": 179.9,
+        "X5": "KDGF",
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01ZVG@aproNOG,05M5J@bactNOG,17CWY@proNOG,COG1917@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "pectin degradation protein"
+      }
     },
     {
       "seqnames": "MAG06_397",
@@ -94,7 +139,22 @@
       "sscore": "10.45",
       "rscore": "5.51",
       "uscore": "-1.36",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_472_1",
+        "X2": "266834.SMc02113",
+        "X3": 8.6e-78,
+        "X4": 294.7,
+        "X5": "CYSE",
+        "X6": "GO:0000096,GO:0000097,GO:0003674,GO:0003824,GO:0005575,GO:0005622,GO:0005623,GO:0005737,GO:0005829,GO:0006082,GO:0006520,GO:0006534,GO:0006535,GO:0006563,GO:0006790,GO:0006807,GO:0008150,GO:0008152,GO:0008374,GO:0008652,GO:0009001,GO:0009058,GO:0009069,GO:0009070,GO:0009333,GO:0009987,GO:0016053,GO:0016407,GO:0016412,GO:0016413,GO:0016740,GO:0016746,GO:0016747,GO:0019344,GO:0019752,GO:0032991,GO:0043234,GO:0043436,GO:0044237,GO:0044238,GO:0044249,GO:0044272,GO:0044281,GO:0044283,GO:0044424,GO:0044444,GO:0044464,GO:0044710,GO:0044711,GO:0046394,GO:0071704,GO:1901564,GO:1901566,GO:1901576,GO:1901605,GO:1901607",
+        "X7": "K00640",
+        "X8": "SERAT",
+        "X9": "bactNOG[38]",
+        "X10": "01R8N@aproNOG,05D7W@bactNOG,16S5E@proNOG,COG1045@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "E",
+        "X13": "serine o-acetyltransferase"
+      }
     }
   ],
   "seqname": "MAG06_397",

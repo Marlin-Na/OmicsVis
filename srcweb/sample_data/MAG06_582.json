@@ -22,7 +22,22 @@
       "sscore": "3.60",
       "rscore": "2.03",
       "uscore": "-2.07",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_611_2",
+        "X2": "439375.Oant_3438",
+        "X3": 3e-57,
+        "X4": 226.9,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "0212A@aproNOG,05N4D@bactNOG,17GXR@proNOG,COG1846@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "K",
+        "X13": "TRANSCRIPTIONal"
+      }
     },
     {
       "seqnames": "MAG06_582",
@@ -46,7 +61,22 @@
       "sscore": "14.39",
       "rscore": "10.54",
       "uscore": "0.86",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_611_3",
+        "X2": "439375.Oant_3439",
+        "X3": 2.5e-168,
+        "X4": 597,
+        "X5": "EXPC",
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01Q77@aproNOG,05C0E@bactNOG,16PC8@proNOG,COG0438@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "M",
+        "X13": "glycosyl transferase group 1"
+      }
     },
     {
       "seqnames": "MAG06_582",
@@ -70,7 +100,22 @@
       "sscore": "10.73",
       "rscore": "10.54",
       "uscore": "-3.46",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_611_4",
+        "X2": "641118.OINT_2000523",
+        "X3": 2.3e-133,
+        "X4": 481.1,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "023N5@aproNOG,06G5H@bactNOG,0Y4TN@NOG,17V07@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "membrane-anchored protein"
+      }
     }
   ],
   "seqname": "MAG06_582",

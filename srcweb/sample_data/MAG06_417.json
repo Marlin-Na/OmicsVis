@@ -22,7 +22,22 @@
       "sscore": "-2.69",
       "rscore": "-4.75",
       "uscore": "-1.01",
-      "tscore": "3.07"
+      "tscore": "3.07",
+      "eggnog": {
+        "X1": "MAG06_485_3",
+        "X2": "394.NGR_c23910",
+        "X3": 3.2e-130,
+        "X4": 469.9,
+        "X5": "GCVA",
+        "X6": null,
+        "X7": "K03566",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01TJI@aproNOG,05ETT@bactNOG,0XS6G@NOG,16Q8J@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": "K",
+        "X13": "LysR family transcriptional regulator"
+      }
     },
     {
       "seqnames": "MAG06_417",
@@ -46,7 +61,22 @@
       "sscore": "15.88",
       "rscore": "11.03",
       "uscore": "1.09",
-      "tscore": "2.72"
+      "tscore": "2.72",
+      "eggnog": {
+        "X1": "MAG06_485_4",
+        "X2": "1117943.SFHH103_02259",
+        "X3": 1.5e-223,
+        "X4": 780.4,
+        "X5": "ATU2314",
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01RHR@aproNOG,05F8W@bactNOG,16QV5@proNOG,COG3748@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "class I monoheme cytochrome c"
+      }
     },
     {
       "seqnames": "MAG06_417",
@@ -70,7 +100,22 @@
       "sscore": "4.15",
       "rscore": "-0.25",
       "uscore": "1.86",
-      "tscore": "3.20"
+      "tscore": "3.20",
+      "eggnog": {
+        "X1": "MAG06_485_5",
+        "X2": "394.NGR_c23930",
+        "X3": 2.5e-232,
+        "X4": 809.7,
+        "X5": "GUAD",
+        "X6": "GO:0003674,GO:0003824,GO:0005488,GO:0008150,GO:0008152,GO:0008270,GO:0008892,GO:0016787,GO:0016810,GO:0016813,GO:0016814,GO:0018756,GO:0019239,GO:0043167,GO:0043169,GO:0046872,GO:0046914",
+        "X7": "K01487",
+        "X8": "GUAD",
+        "X9": "bactNOG[38]",
+        "X10": "01Q6Y@aproNOG,07QUY@bactNOG,16UKX@proNOG,COG0402@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "F",
+        "X13": "Guanine deaminase"
+      }
     },
     {
       "seqnames": "MAG06_417",
@@ -94,7 +139,22 @@
       "sscore": "16.59",
       "rscore": "11.83",
       "uscore": "1.57",
-      "tscore": "3.20"
+      "tscore": "3.20",
+      "eggnog": {
+        "X1": "MAG06_485_6",
+        "X2": "394.NGR_c23940",
+        "X3": 2.6e-156,
+        "X4": 556.6,
+        "X5": "LLDD",
+        "X6": "GO:0003674,GO:0003824,GO:0004362,GO:0006082,GO:0006090,GO:0006091,GO:0008150,GO:0008152,GO:0009987,GO:0015036,GO:0015037,GO:0015038,GO:0016209,GO:0016491,GO:0016651,GO:0016667,GO:0016668,GO:0019752,GO:0032787,GO:0043436,GO:0044237,GO:0044281,GO:0044710,GO:0055114,GO:0071704",
+        "X7": "K00101,K00104",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01QVX@aproNOG,05DMF@bactNOG,16QN1@proNOG,COG1304@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "C",
+        "X13": "L-lactate dehydrogenase"
+      }
     },
     {
       "seqnames": "MAG06_417",
@@ -118,7 +178,22 @@
       "sscore": "14.70",
       "rscore": "11.01",
       "uscore": "1.14",
-      "tscore": "3.20"
+      "tscore": "3.20",
+      "eggnog": {
+        "X1": "MAG06_486_1",
+        "X2": "266834.SMc02244",
+        "X3": 6.2e-242,
+        "X4": 841.6,
+        "X5": "DINF",
+        "X6": "GO:0006950,GO:0006974,GO:0008150,GO:0009987,GO:0033554,GO:0044699,GO:0044763,GO:0050896,GO:0051716",
+        "X7": "K03327",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01Q5V@aproNOG,07R73@bactNOG,16QGZ@proNOG,COG0534@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "V",
+        "X13": "Mate efflux family protein"
+      }
     },
     {
       "seqnames": "MAG06_417",
@@ -142,7 +217,22 @@
       "sscore": "11.99",
       "rscore": "10.56",
       "uscore": "-1.18",
-      "tscore": "2.61"
+      "tscore": "2.61",
+      "eggnog": {
+        "X1": "MAG06_486_2",
+        "X2": "266834.SMc02245",
+        "X3": 5.1e-188,
+        "X4": 662.1,
+        "X5": "PYRD",
+        "X6": "GO:0000166,GO:0003674,GO:0003824,GO:0004152,GO:0004158,GO:0005488,GO:0005575,GO:0005623,GO:0005886,GO:0006139,GO:0006206,GO:0006207,GO:0006220,GO:0006221,GO:0006725,GO:0006753,GO:0006793,GO:0006796,GO:0006807,GO:0008150,GO:0008152,GO:0009058,GO:0009112,GO:0009117,GO:0009165,GO:0009218,GO:0009220,GO:0009259,GO:0009260,GO:0009987,GO:0010181,GO:0016020,GO:0016491,GO:0016627,GO:0016634,GO:0016635,GO:0018130,GO:0019438,GO:0019637,GO:0019693,GO:0019856,GO:0032553,GO:0034641,GO:0034654,GO:0036094,GO:0043167,GO:0043168,GO:0044237,GO:0044238,GO:0044249,GO:0044271,GO:0044281,GO:0044464,GO:0044710,GO:0046112,GO:0046390,GO:0046483,GO:0048037,GO:0050662,GO:0055086,GO:0055114,GO:0071704,GO:0071944,GO:0072527,GO:0072528,GO:0090407,GO:0097159,GO:1901135,GO:1901137,GO:1901265,GO:1901293,GO:1901360,GO:1901362,GO:1901363,GO:1901564,GO:1901566,GO:1901576",
+        "X7": "K00226,K00254",
+        "X8": "DHORD2,DHORD3,DHORD5,DHORDi",
+        "X9": "bactNOG[38]",
+        "X10": "01QZI@aproNOG,07QYT@bactNOG,16Q3F@proNOG,COG0167@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "F",
+        "X13": "Catalyzes the conversion of dihydroorotate to orotate with quinone as electron acceptor (By similarity)"
+      }
     },
     {
       "seqnames": "MAG06_417",
@@ -166,7 +256,22 @@
       "sscore": "16.29",
       "rscore": "12.42",
       "uscore": "-0.36",
-      "tscore": "3.07"
+      "tscore": "3.07",
+      "eggnog": {
+        "X1": "MAG06_487_1",
+        "X2": "266834.SMc01099",
+        "X3": 8.7e-18,
+        "X4": 93.6,
+        "X5": "TRUA",
+        "X6": "GO:0000049,GO:0001522,GO:0003674,GO:0003676,GO:0003723,GO:0003824,GO:0005488,GO:0006139,GO:0006396,GO:0006399,GO:0006400,GO:0006725,GO:0006807,GO:0008033,GO:0008150,GO:0008152,GO:0009451,GO:0009982,GO:0009987,GO:0010467,GO:0016070,GO:0016853,GO:0016866,GO:0031119,GO:0034470,GO:0034641,GO:0034660,GO:0043170,GO:0043412,GO:0044237,GO:0044238,GO:0044260,GO:0046483,GO:0071704,GO:0090304,GO:0097159,GO:1901360,GO:1901363",
+        "X7": "K06173",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01QTB@aproNOG,05DI7@bactNOG,16PZQ@proNOG,COG0101@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "J",
+        "X13": "Formation of pseudouridine at positions 38, 39 and 40 in the anticodon stem and loop of transfer RNAs (By similarity)"
+      }
     },
     {
       "seqnames": "MAG06_417",
@@ -190,7 +295,22 @@
       "sscore": "13.97",
       "rscore": "11.18",
       "uscore": "-0.68",
-      "tscore": "2.76"
+      "tscore": "2.76",
+      "eggnog": {
+        "X1": "MAG06_487_2",
+        "X2": "266834.SMc01099",
+        "X3": 2e-141,
+        "X4": 506.9,
+        "X5": "TRUA",
+        "X6": "GO:0000049,GO:0001522,GO:0003674,GO:0003676,GO:0003723,GO:0003824,GO:0005488,GO:0006139,GO:0006396,GO:0006399,GO:0006400,GO:0006725,GO:0006807,GO:0008033,GO:0008150,GO:0008152,GO:0009451,GO:0009982,GO:0009987,GO:0010467,GO:0016070,GO:0016853,GO:0016866,GO:0031119,GO:0034470,GO:0034641,GO:0034660,GO:0043170,GO:0043412,GO:0044237,GO:0044238,GO:0044260,GO:0046483,GO:0071704,GO:0090304,GO:0097159,GO:1901360,GO:1901363",
+        "X7": "K06173",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01QTB@aproNOG,05DI7@bactNOG,16PZQ@proNOG,COG0101@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "J",
+        "X13": "Formation of pseudouridine at positions 38, 39 and 40 in the anticodon stem and loop of transfer RNAs (By similarity)"
+      }
     },
     {
       "seqnames": "MAG06_417",
@@ -214,7 +334,22 @@
       "sscore": "7.24",
       "rscore": "2.74",
       "uscore": "1.30",
-      "tscore": "3.20"
+      "tscore": "3.20",
+      "eggnog": {
+        "X1": "MAG06_487_3",
+        "X2": "266834.SMc01100",
+        "X3": 1.1e-170,
+        "X4": 604.4,
+        "X5": "FMT",
+        "X6": "GO:0003674,GO:0003824,GO:0004479,GO:0006082,GO:0006139,GO:0006396,GO:0006399,GO:0006400,GO:0006412,GO:0006413,GO:0006418,GO:0006431,GO:0006464,GO:0006520,GO:0006725,GO:0006807,GO:0008033,GO:0008150,GO:0008152,GO:0009058,GO:0009059,GO:0009451,GO:0009987,GO:0010467,GO:0016070,GO:0016740,GO:0016741,GO:0016742,GO:0019538,GO:0019752,GO:0019988,GO:0034470,GO:0034641,GO:0034645,GO:0034660,GO:0036211,GO:0040007,GO:0043038,GO:0043039,GO:0043170,GO:0043412,GO:0043436,GO:0044237,GO:0044238,GO:0044249,GO:0044260,GO:0044267,GO:0044281,GO:0044710,GO:0046483,GO:0071704,GO:0071951,GO:0090304,GO:1901360,GO:1901564,GO:1901576",
+        "X7": "K00604",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01QBF@aproNOG,05CAE@bactNOG,16PY6@proNOG,COG0223@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "J",
+        "X13": "Modifies the free amino group of the aminoacyl moiety of methionyl-tRNA(fMet). The formyl group appears to play a dual role in the initiator identity of N-formylmethionyl-tRNA by (I) promoting its recognition by IF2 and (II) impairing its binding to EFTu-GTP (By similarity)"
+      }
     },
     {
       "seqnames": "MAG06_417",
@@ -238,7 +373,22 @@
       "sscore": "10.80",
       "rscore": "11.01",
       "uscore": "-3.41",
-      "tscore": "3.20"
+      "tscore": "3.20",
+      "eggnog": {
+        "X1": "MAG06_487_4",
+        "X2": "266834.SMc01101",
+        "X3": 4.2e-93,
+        "X4": 345.9,
+        "X5": "DEF",
+        "X6": null,
+        "X7": "K01462",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01WUA@aproNOG,08Z02@bactNOG,179MN@proNOG,COG0242@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "J",
+        "X13": "Removes the formyl group from the N-terminal Met of newly synthesized proteins. Requires at least a dipeptide for an efficient rate of reaction. N-terminal L-methionine is a prerequisite for activity but the enzyme has broad specificity at other positions (By similarity)"
+      }
     }
   ],
   "seqname": "MAG06_417",

@@ -22,7 +22,22 @@
       "sscore": "3.22",
       "rscore": "0.00",
       "uscore": "0.00",
-      "tscore": "3.22"
+      "tscore": "3.22",
+      "eggnog": {
+        "X1": "MAG06_733_3",
+        "X2": "266834.SMc01433",
+        "X3": 2e-64,
+        "X4": 250,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "022ED@aproNOG,061YQ@bactNOG,12B35@NOG,17Q03@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": null,
+        "X13": null
+      }
     },
     {
       "seqnames": "MAG06_746",
@@ -46,7 +61,22 @@
       "sscore": "-3.64",
       "rscore": "2.03",
       "uscore": "-0.15",
-      "tscore": "-4.87"
+      "tscore": "-4.87",
+      "eggnog": {
+        "X1": "MAG06_733_4",
+        "X2": "266834.SMc01434",
+        "X3": 1.7e-76,
+        "X4": 290.4,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01ZCZ@aproNOG,05HCS@bactNOG,11QWK@NOG,17DW5@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": null,
+        "X13": null
+      }
     },
     {
       "seqnames": "MAG06_746",
@@ -70,7 +100,22 @@
       "sscore": "3.22",
       "rscore": "0.00",
       "uscore": "0.00",
-      "tscore": "3.22"
+      "tscore": "3.22",
+      "eggnog": {
+        "X1": "MAG06_733_5",
+        "X2": "266834.SMc01435",
+        "X3": 1.1e-162,
+        "X4": 577.8,
+        "X5": "MIAA",
+        "X6": "GO:0008150,GO:0040007",
+        "X7": "K00791",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01RUX@aproNOG,05DKX@bactNOG,16S0F@proNOG,COG0324@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "J",
+        "X13": "Catalyzes the transfer of a dimethylallyl group onto the adenine at position 37 in tRNAs that read codons beginning with uridine, leading to the formation of N6-(dimethylallyl)adenosine (i(6)A) (By similarity)"
+      }
     }
   ],
   "seqname": "MAG06_746",

@@ -22,7 +22,22 @@
       "sscore": "3.22",
       "rscore": "0.00",
       "uscore": "0.00",
-      "tscore": "3.22"
+      "tscore": "3.22",
+      "eggnog": {
+        "X1": "MAG06_519_1",
+        "X2": "266834.SMc00366",
+        "X3": 0,
+        "X4": 1590.5,
+        "X5": "PHET",
+        "X6": "GO:0003674,GO:0003824,GO:0004812,GO:0004826,GO:0005575,GO:0005618,GO:0005622,GO:0005623,GO:0005737,GO:0005886,GO:0006082,GO:0006139,GO:0006399,GO:0006412,GO:0006418,GO:0006432,GO:0006520,GO:0006725,GO:0006807,GO:0008150,GO:0008152,GO:0009058,GO:0009059,GO:0009987,GO:0010467,GO:0016020,GO:0016070,GO:0016874,GO:0016875,GO:0016876,GO:0019538,GO:0019752,GO:0030312,GO:0034641,GO:0034645,GO:0034660,GO:0040007,GO:0043038,GO:0043039,GO:0043170,GO:0043436,GO:0044237,GO:0044238,GO:0044249,GO:0044260,GO:0044267,GO:0044281,GO:0044424,GO:0044464,GO:0044710,GO:0046483,GO:0071704,GO:0071944,GO:0090304,GO:1901360,GO:1901564,GO:1901576",
+        "X7": "K01890",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01QNI@aproNOG,05C6A@bactNOG,16Q23@proNOG,COG0072@NOG,COG0073@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "J",
+        "X13": "Phenylalanyl-tRNA synthetase, beta subunit"
+      }
     },
     {
       "seqnames": "MAG06_458",
@@ -46,7 +61,22 @@
       "sscore": "8.37",
       "rscore": "7.63",
       "uscore": "-2.90",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_519_2",
+        "X2": "266834.SMc00365",
+        "X3": 1.7e-145,
+        "X4": 520.4,
+        "X5": "PHES",
+        "X6": "GO:0003674,GO:0003824,GO:0004812,GO:0004826,GO:0005575,GO:0005622,GO:0005623,GO:0005737,GO:0006082,GO:0006139,GO:0006399,GO:0006412,GO:0006418,GO:0006432,GO:0006520,GO:0006725,GO:0006807,GO:0008150,GO:0008152,GO:0009058,GO:0009059,GO:0009987,GO:0010467,GO:0016070,GO:0016874,GO:0016875,GO:0016876,GO:0019538,GO:0019752,GO:0034641,GO:0034645,GO:0034660,GO:0043038,GO:0043039,GO:0043170,GO:0043436,GO:0044237,GO:0044238,GO:0044249,GO:0044260,GO:0044267,GO:0044281,GO:0044424,GO:0044464,GO:0044710,GO:0046483,GO:0071704,GO:0090304,GO:1901360,GO:1901564,GO:1901576",
+        "X7": "K01889",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01RPH@aproNOG,05CSS@bactNOG,16Q8Y@proNOG,COG0016@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "J",
+        "X13": "Phenylalanyl-tRNA synthetase alpha subunit"
+      }
     },
     {
       "seqnames": "MAG06_458",
@@ -70,7 +100,22 @@
       "sscore": "12.31",
       "rscore": "7.63",
       "uscore": "1.04",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_52_1",
+        "X2": "266834.SMc00777",
+        "X3": 5.6e-67,
+        "X4": 258.8,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01ZEP@aproNOG,05IER@bactNOG,17EIF@proNOG,COG5490@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "Phasin protein"
+      }
     },
     {
       "seqnames": "MAG06_458",
@@ -94,7 +139,22 @@
       "sscore": "-0.29",
       "rscore": "2.03",
       "uscore": "3.21",
-      "tscore": "-4.87"
+      "tscore": "-4.87",
+      "eggnog": {
+        "X1": "MAG06_52_10",
+        "X2": "266834.SMc00769",
+        "X3": 8.9e-260,
+        "X4": 901,
+        "X5": null,
+        "X6": null,
+        "X7": "K07110",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01QI2@aproNOG,05CFF@bactNOG,16PV9@proNOG,COG3800@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "K",
+        "X13": "transcriptional regulator, XRE family"
+      }
     },
     {
       "seqnames": "MAG06_458",
@@ -118,7 +178,22 @@
       "sscore": "5.24",
       "rscore": "2.03",
       "uscore": "-0.43",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_52_11",
+        "X2": "266834.SMc00768",
+        "X3": 1.4e-246,
+        "X4": 857.1,
+        "X5": "ACEA",
+        "X6": null,
+        "X7": "K01637",
+        "X8": "ICL",
+        "X9": "bactNOG[38]",
+        "X10": "01TUR@aproNOG,07RET@bactNOG,16R7Z@proNOG,COG2224@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "C",
+        "X13": "Isocitrate lyase"
+      }
     },
     {
       "seqnames": "MAG06_458",
@@ -142,7 +217,22 @@
       "sscore": "-3.08",
       "rscore": "7.63",
       "uscore": "0.09",
-      "tscore": "-10.14"
+      "tscore": "-10.14",
+      "eggnog": {
+        "X1": "MAG06_52_12",
+        "X2": "366394.Smed_0307",
+        "X3": 2.7e-36,
+        "X4": 156,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "0210H@aproNOG,05N0X@bactNOG,11XJE@NOG,17ICX@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": null,
+        "X13": null
+      }
     },
     {
       "seqnames": "MAG06_458",
@@ -166,7 +256,22 @@
       "sscore": "5.55",
       "rscore": "2.03",
       "uscore": "-0.13",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_52_13",
+        "X2": "991905.SL003B_3610",
+        "X3": 3e-41,
+        "X4": 173.3,
+        "X5": "AAVE_2702",
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01URD@aproNOG,08C33@bactNOG,16WDE@proNOG,COG1961@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "L",
+        "X13": "TonB-dependent receptor protein"
+      }
     },
     {
       "seqnames": "MAG06_458",
@@ -190,7 +295,22 @@
       "sscore": "5.28",
       "rscore": "2.03",
       "uscore": "-0.40",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_52_2",
+        "X2": "266834.SMc00776",
+        "X3": 0,
+        "X4": 2116.7,
+        "X5": "BARA",
+        "X6": "GO:0005575,GO:0005622,GO:0005623,GO:0005737,GO:0005886,GO:0016020,GO:0044424,GO:0044464,GO:0071944",
+        "X7": "K07716,K11357",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01U53@aproNOG,05BZU@bactNOG,0XNMH@NOG,16PBK@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": "T",
+        "X13": "PAS PAC sensor Signal transduction histidine kinase"
+      }
     }
   ],
   "seqname": "MAG06_458",

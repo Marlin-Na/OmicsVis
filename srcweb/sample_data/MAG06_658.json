@@ -22,7 +22,22 @@
       "sscore": "7.47",
       "rscore": "0.72",
       "uscore": "0.97",
-      "tscore": "4.54"
+      "tscore": "4.54",
+      "eggnog": {
+        "X1": "MAG06_670_2",
+        "X2": "412597.PaTRP_010100017466",
+        "X3": 4.1e-137,
+        "X4": 493,
+        "X5": "MDH",
+        "X6": null,
+        "X7": "K00001,K00004,K00008,K00344,K17818",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "020CJ@aproNOG,05CPQ@bactNOG,16Q9H@proNOG,COG1063@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "E",
+        "X13": "Dehydrogenase"
+      }
     },
     {
       "seqnames": "MAG06_658",
@@ -46,7 +61,22 @@
       "sscore": "-6.87",
       "rscore": "0.72",
       "uscore": "1.20",
-      "tscore": "-8.13"
+      "tscore": "-8.13",
+      "eggnog": {
+        "X1": "MAG06_670_3",
+        "X2": "412597.PaTRP_010100017461",
+        "X3": 4.5e-43,
+        "X4": 179.5,
+        "X5": null,
+        "X6": null,
+        "X7": "K10440",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "05JAI@bactNOG,17Y5B@proNOG,COG1172@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "G",
+        "X13": "Branched-chain amino acid transport system / permease component"
+      }
     },
     {
       "seqnames": "MAG06_658",
@@ -70,7 +100,22 @@
       "sscore": "13.85",
       "rscore": "10.30",
       "uscore": "-0.98",
-      "tscore": "4.54"
+      "tscore": "4.54",
+      "eggnog": {
+        "X1": "MAG06_671_1",
+        "X2": "266834.SMc00683",
+        "X3": 4.6e-98,
+        "X4": 362.5,
+        "X5": "DACA",
+        "X6": null,
+        "X7": "K01286,K07258",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01TYG@aproNOG,05DZ1@bactNOG,16R4N@proNOG,COG1686@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "M",
+        "X13": "Carboxypeptidase"
+      }
     },
     {
       "seqnames": "MAG06_658",
@@ -94,7 +139,22 @@
       "sscore": "5.01",
       "rscore": "10.30",
       "uscore": "1.60",
-      "tscore": "-8.13"
+      "tscore": "-8.13",
+      "eggnog": {
+        "X1": "MAG06_671_2",
+        "X2": "266834.SMc00684",
+        "X3": 2.5e-212,
+        "X4": 743,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01R5G@aproNOG,05CKI@bactNOG,16SDK@proNOG,COG0523@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "cobalamin synthesis protein"
+      }
     },
     {
       "seqnames": "MAG06_658",
@@ -118,7 +178,22 @@
       "sscore": "3.22",
       "rscore": "0.00",
       "uscore": "0.00",
-      "tscore": "3.22"
+      "tscore": "3.22",
+      "eggnog": {
+        "X1": "MAG06_671_3",
+        "X2": "266834.SMc00686",
+        "X3": 7.8e-36,
+        "X4": 154.5,
+        "X5": "MVPT",
+        "X6": null,
+        "X7": "K18829",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "024EU@aproNOG,05VGJ@bactNOG,17KB6@proNOG,COG4456@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "Pfam:SpoVT_AbrB"
+      }
     }
   ],
   "seqname": "MAG06_658",

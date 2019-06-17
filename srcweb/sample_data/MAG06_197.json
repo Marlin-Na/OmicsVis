@@ -22,7 +22,22 @@
       "sscore": "8.14",
       "rscore": "4.85",
       "uscore": "-0.24",
-      "tscore": "2.32"
+      "tscore": "2.32",
+      "eggnog": {
+        "X1": "MAG06_31_7",
+        "X2": "1117943.SFHH103_02468",
+        "X3": 1.2e-47,
+        "X4": 194.1,
+        "X5": "PAAC",
+        "X6": "GO:0006082,GO:0006725,GO:0006805,GO:0008150,GO:0008152,GO:0009056,GO:0009410,GO:0009987,GO:0010124,GO:0016054,GO:0019439,GO:0019752,GO:0032787,GO:0042178,GO:0042221,GO:0042537,GO:0043436,GO:0044237,GO:0044248,GO:0044281,GO:0044282,GO:0044699,GO:0044710,GO:0044712,GO:0044763,GO:0046395,GO:0050896,GO:0051716,GO:0070887,GO:0071466,GO:0071704,GO:0072329,GO:1901360,GO:1901361,GO:1901575",
+        "X7": "K02611",
+        "X8": "PACCOAE,PHACOAOR",
+        "X9": "bactNOG[38]",
+        "X10": "01QPG@aproNOG,05D9S@bactNOG,16QTB@proNOG,COG3396@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "Q",
+        "X13": "Phenylacetate-CoA oxygenase PaaI subunit"
+      }
     },
     {
       "seqnames": "MAG06_197",
@@ -46,7 +61,8 @@
       "sscore": "2.10",
       "rscore": "-0.69",
       "uscore": "-0.86",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {}
     },
     {
       "seqnames": "MAG06_197",
@@ -70,7 +86,22 @@
       "sscore": "8.13",
       "rscore": "2.03",
       "uscore": "1.21",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_310_1",
+        "X2": "266834.SMc02724",
+        "X3": 1e-95,
+        "X4": 354.8,
+        "X5": "CZRB",
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01S6I@aproNOG,076HS@bactNOG,16SKJ@proNOG,COG0053@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "P",
+        "X13": "cation diffusion facilitator family transporter"
+      }
     },
     {
       "seqnames": "MAG06_197",
@@ -94,7 +125,22 @@
       "sscore": "-10.60",
       "rscore": "-4.72",
       "uscore": "-1.01",
-      "tscore": "-4.87"
+      "tscore": "-4.87",
+      "eggnog": {
+        "X1": "MAG06_310_2",
+        "X2": "266834.SMc02725",
+        "X3": 1.5e-209,
+        "X4": 733.8,
+        "X5": "TRPE",
+        "X6": "GO:0000162,GO:0003674,GO:0003824,GO:0004049,GO:0006082,GO:0006520,GO:0006568,GO:0006576,GO:0006586,GO:0006725,GO:0006807,GO:0008150,GO:0008152,GO:0008652,GO:0009058,GO:0009072,GO:0009073,GO:0009308,GO:0009309,GO:0009987,GO:0016053,GO:0016829,GO:0016830,GO:0016833,GO:0018130,GO:0019438,GO:0019752,GO:0034641,GO:0042401,GO:0042430,GO:0042435,GO:0043436,GO:0044106,GO:0044237,GO:0044238,GO:0044249,GO:0044271,GO:0044281,GO:0044283,GO:0044710,GO:0044711,GO:0046219,GO:0046394,GO:0046483,GO:0071704,GO:1901360,GO:1901362,GO:1901564,GO:1901566,GO:1901576,GO:1901605,GO:1901607",
+        "X7": "K01657,K13503",
+        "X8": "ANS,ANS2",
+        "X9": "bactNOG[38]",
+        "X10": "01RJ3@aproNOG,05CRQ@bactNOG,16R32@proNOG,COG0147@NOG,COG0512@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "E",
+        "X13": "anthranilate synthase component i"
+      }
     }
   ],
   "seqname": "MAG06_197",

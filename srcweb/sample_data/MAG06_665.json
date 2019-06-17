@@ -22,7 +22,22 @@
       "sscore": "3.22",
       "rscore": "0.00",
       "uscore": "0.00",
-      "tscore": "3.22"
+      "tscore": "3.22",
+      "eggnog": {
+        "X1": "MAG06_677_12",
+        "X2": "441620.Mpop_4845",
+        "X3": 6.2e-67,
+        "X4": 259.6,
+        "X5": "BMUL_5493",
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01X0U@aproNOG,08V58@bactNOG,17AAB@proNOG,COG3568@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "Endonuclease Exonuclease phosphatase"
+      }
     },
     {
       "seqnames": "MAG06_665",
@@ -46,7 +61,22 @@
       "sscore": "18.95",
       "rscore": "13.75",
       "uscore": "1.56",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_677_13",
+        "X2": "322710.Avin_11100",
+        "X3": 7.8e-49,
+        "X4": 198.7,
+        "X5": "YCIE",
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "08N8X@bactNOG,0QIMS@gproNOG,1779M@proNOG,COG3685@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "transition metal ion binding"
+      }
     },
     {
       "seqnames": "MAG06_665",
@@ -70,7 +100,22 @@
       "sscore": "12.34",
       "rscore": "7.63",
       "uscore": "1.07",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_677_15",
+        "X2": "394.NGR_c30620",
+        "X3": 3.7e-44,
+        "X4": 182.6,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "02AIA@aproNOG,076VN@bactNOG,0ZCRS@NOG,1888C@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": null,
+        "X13": null
+      }
     },
     {
       "seqnames": "MAG06_665",
@@ -94,7 +139,22 @@
       "sscore": "3.22",
       "rscore": "0.00",
       "uscore": "0.00",
-      "tscore": "3.22"
+      "tscore": "3.22",
+      "eggnog": {
+        "X1": "MAG06_677_16",
+        "X2": "765698.Mesci_3745",
+        "X3": 3.6e-275,
+        "X4": 952.6,
+        "X5": null,
+        "X6": null,
+        "X7": "K00573",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "02DEG@aproNOG,08EA5@bactNOG,170J1@proNOG,COG2312@NOG,COG2518@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "O",
+        "X13": "protein-L-isoaspartate O-methyltransferase (EC 2.1.1.77)"
+      }
     }
   ],
   "seqname": "MAG06_665",

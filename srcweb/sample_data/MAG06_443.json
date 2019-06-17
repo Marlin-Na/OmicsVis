@@ -22,7 +22,22 @@
       "sscore": "-18.10",
       "rscore": "-4.72",
       "uscore": "-2.59",
-      "tscore": "-10.14"
+      "tscore": "-10.14",
+      "eggnog": {
+        "X1": "MAG06_506_5",
+        "X2": "266834.SMc02166",
+        "X3": 4.8e-202,
+        "X4": 708.8,
+        "X5": "PYRC",
+        "X6": "GO:0003674,GO:0003824,GO:0004151,GO:0005488,GO:0006139,GO:0006206,GO:0006207,GO:0006725,GO:0006807,GO:0008150,GO:0008152,GO:0008270,GO:0009058,GO:0009112,GO:0009987,GO:0016787,GO:0016810,GO:0016812,GO:0018130,GO:0019856,GO:0034641,GO:0043167,GO:0043169,GO:0044237,GO:0044238,GO:0044249,GO:0044271,GO:0044281,GO:0044710,GO:0046112,GO:0046483,GO:0046872,GO:0046914,GO:0055086,GO:0071704,GO:0072527,GO:0072528,GO:1901360,GO:1901362,GO:1901564,GO:1901566,GO:1901576",
+        "X7": "K01465",
+        "X8": "DHORTS",
+        "X9": "bactNOG[38]",
+        "X10": "01S8T@aproNOG,05EKE@bactNOG,16S8V@proNOG,COG0418@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "F",
+        "X13": "dihydroorotase"
+      }
     },
     {
       "seqnames": "MAG06_443",
@@ -46,7 +61,22 @@
       "sscore": "18.51",
       "rscore": "13.75",
       "uscore": "-0.02",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_506_6",
+        "X2": "266834.SMc02167",
+        "X3": 3.2e-63,
+        "X4": 246.1,
+        "X5": "FRCK",
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01RCQ@aproNOG,05CS9@bactNOG,16Q7Z@proNOG,COG1072@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "H",
+        "X13": "Pantothenic acid kinase"
+      }
     },
     {
       "seqnames": "MAG06_443",
@@ -70,7 +100,8 @@
       "sscore": "17.29",
       "rscore": "13.75",
       "uscore": "-0.11",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {}
     }
   ],
   "seqname": "MAG06_443",

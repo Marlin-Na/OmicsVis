@@ -22,7 +22,22 @@
       "sscore": "21.13",
       "rscore": "16.52",
       "uscore": "-0.23",
-      "tscore": "4.85"
+      "tscore": "4.85",
+      "eggnog": {
+        "X1": "MAG06_1029_3",
+        "X2": "266779.Meso_2193",
+        "X3": 5.8e-72,
+        "X4": 275.4,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01ZDR@aproNOG,08ZBP@bactNOG,11SB6@NOG,17EJ0@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "Glutathione-dependent formaldehyde-activating GFA"
+      }
     },
     {
       "seqnames": "MAG06_288",
@@ -46,7 +61,22 @@
       "sscore": "17.15",
       "rscore": "13.08",
       "uscore": "-0.12",
-      "tscore": "4.85"
+      "tscore": "4.85",
+      "eggnog": {
+        "X1": "MAG06_1029_4",
+        "X2": "320771.Cflav_PD1120",
+        "X3": 2e-38,
+        "X4": 164.1,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "05MS3@bactNOG,1DKWS@verNOG,1DPDP@verrNOG,COG3832@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "Activator of Hsp90 ATPase 1 family protein"
+      }
     },
     {
       "seqnames": "MAG06_288",
@@ -70,7 +100,22 @@
       "sscore": "16.08",
       "rscore": "15.26",
       "uscore": "-3.00",
-      "tscore": "4.48"
+      "tscore": "4.48",
+      "eggnog": {
+        "X1": "MAG06_1029_5",
+        "X2": "266779.Meso_2191",
+        "X3": 4.6e-45,
+        "X4": 185.7,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01ZSX@aproNOG,05KCB@bactNOG,17C9H@proNOG,COG0640@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "K",
+        "X13": "Transcriptional Regulator, ArsR family"
+      }
     },
     {
       "seqnames": "MAG06_288",
@@ -94,7 +139,22 @@
       "sscore": "4.76",
       "rscore": "-0.01",
       "uscore": "-0.07",
-      "tscore": "4.85"
+      "tscore": "4.85",
+      "eggnog": {
+        "X1": "MAG06_1029_6",
+        "X2": "1050720.Agau_C100154",
+        "X3": 8.5e-240,
+        "X4": 834.7,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01QYP@aproNOG,05BZU@bactNOG,0XNMH@NOG,16PBK@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": "T",
+        "X13": "Histidine kinase"
+      }
     }
   ],
   "seqname": "MAG06_288",

@@ -22,7 +22,22 @@
       "sscore": "4.93",
       "rscore": "-0.37",
       "uscore": "-0.99",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_291_3",
+        "X2": "216596.RL1194",
+        "X3": 4.2e-13,
+        "X4": 80.1,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "02948@aproNOG,071E8@bactNOG,0YUXB@NOG,18561@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "BA14K-like protein"
+      }
     },
     {
       "seqnames": "MAG06_176",
@@ -46,7 +61,8 @@
       "sscore": "14.34",
       "rscore": "7.63",
       "uscore": "1.85",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {}
     },
     {
       "seqnames": "MAG06_176",
@@ -70,7 +86,22 @@
       "sscore": "6.48",
       "rscore": "2.03",
       "uscore": "0.81",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_1019_4",
+        "X2": "266834.SMc00582",
+        "X3": 0,
+        "X4": 1578.1,
+        "X5": "LPTD",
+        "X6": "GO:0005575,GO:0005623,GO:0006810,GO:0006869,GO:0008150,GO:0009279,GO:0009636,GO:0009987,GO:0010033,GO:0010876,GO:0015920,GO:0016020,GO:0016043,GO:0016044,GO:0019867,GO:0022607,GO:0030312,GO:0030313,GO:0031975,GO:0033036,GO:0042221,GO:0043163,GO:0043165,GO:0044085,GO:0044091,GO:0044462,GO:0044464,GO:0044699,GO:0044763,GO:0044765,GO:0045229,GO:0050896,GO:0051179,GO:0051234,GO:0061024,GO:0071702,GO:0071709,GO:0071840,GO:0071944,GO:1901264",
+        "X7": "K04744",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01QKQ@aproNOG,05E7H@bactNOG,16RV6@proNOG,COG1452@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "M",
+        "X13": "Organic solvent tolerance protein"
+      }
     },
     {
       "seqnames": "MAG06_176",
@@ -94,7 +125,22 @@
       "sscore": "15.65",
       "rscore": "10.54",
       "uscore": "0.61",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_1019_5",
+        "X2": "266834.SMc00583",
+        "X3": 5.3e-196,
+        "X4": 688.7,
+        "X5": "LPTG",
+        "X6": null,
+        "X7": "K11720",
+        "X8": "GM1LIPAabctex,GM2LIPAabctex,K2L4Aabctex,LIPAabctex",
+        "X9": "bactNOG[38]",
+        "X10": "01R8M@aproNOG,08K5H@bactNOG,16RYV@proNOG,COG0795@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "Permease, YjgP YjgQ"
+      }
     },
     {
       "seqnames": "MAG06_176",
@@ -118,7 +164,22 @@
       "sscore": "4.15",
       "rscore": "2.03",
       "uscore": "-0.87",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_1019_6",
+        "X2": "266834.SMc00584",
+        "X3": 2e-212,
+        "X4": 743.4,
+        "X5": "OCAR_5884",
+        "X6": null,
+        "X7": "K07091",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01QXE@aproNOG,07QIC@bactNOG,16UIQ@proNOG,COG0795@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "permease yjgp yjgq"
+      }
     },
     {
       "seqnames": "MAG06_176",
@@ -142,7 +203,22 @@
       "sscore": "13.28",
       "rscore": "7.63",
       "uscore": "2.01",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_291_4",
+        "X2": "266834.SMc00339",
+        "X3": 0,
+        "X4": 1136.3,
+        "X5": "CYA1",
+        "X6": "GO:0005575,GO:0005623,GO:0005886,GO:0016020,GO:0044464,GO:0071944",
+        "X7": "K01768",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01VX5@aproNOG,08T5G@bactNOG,1787E@proNOG,COG0840@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "F",
+        "X13": "Adenylate"
+      }
     }
   ],
   "seqname": "MAG06_176",

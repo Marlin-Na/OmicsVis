@@ -22,7 +22,22 @@
       "sscore": "12.56",
       "rscore": "7.63",
       "uscore": "-0.06",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_879_4",
+        "X2": "266834.SMc03879",
+        "X3": 7.8e-217,
+        "X4": 758.1,
+        "X5": "PHBA",
+        "X6": "GO:0005575,GO:0005622,GO:0005623,GO:0005737,GO:0044424,GO:0044464",
+        "X7": "K00626",
+        "X8": "3OXCOAT,ACACT1r",
+        "X9": "bactNOG[38]",
+        "X10": "01R4W@aproNOG,05CHU@bactNOG,16PGG@proNOG,COG0183@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "I",
+        "X13": "acetyl-coa acetyltransferase"
+      }
     },
     {
       "seqnames": "MAG06_929",
@@ -46,7 +61,22 @@
       "sscore": "7.43",
       "rscore": "2.03",
       "uscore": "0.48",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_879_5",
+        "X2": "266834.SMc03880",
+        "X3": 9.3e-96,
+        "X4": 354.8,
+        "X5": "PHAR",
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01TVG@aproNOG,08NVM@bactNOG,16XAU@proNOG,COG5394@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "synthesis repressor"
+      }
     },
     {
       "seqnames": "MAG06_929",
@@ -70,7 +100,22 @@
       "sscore": "7.63",
       "rscore": "2.03",
       "uscore": "1.96",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_88_1",
+        "X2": "266834.SMc00061",
+        "X3": 1.7e-55,
+        "X4": 220.3,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "021KH@aproNOG,0607T@bactNOG,17JTP@proNOG,COG5447@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "Protein of unknown function (DUF1491)"
+      }
     },
     {
       "seqnames": "MAG06_929",
@@ -94,7 +139,22 @@
       "sscore": "3.22",
       "rscore": "0.00",
       "uscore": "0.00",
-      "tscore": "3.22"
+      "tscore": "3.22",
+      "eggnog": {
+        "X1": "MAG06_88_2",
+        "X2": "266834.SMc00060",
+        "X3": 2.6e-170,
+        "X4": 603.2,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "02285@aproNOG,0604V@bactNOG,17NQF@proNOG,COG3409@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "M",
+        "X13": "Peptidoglycan-binding domain 1 protein"
+      }
     }
   ],
   "seqname": "MAG06_929",

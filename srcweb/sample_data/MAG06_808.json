@@ -22,7 +22,22 @@
       "sscore": "13.82",
       "rscore": "10.54",
       "uscore": "0.28",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_780_1",
+        "X2": "311403.Arad_1539",
+        "X3": 4.3e-09,
+        "X4": 65.1,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01ZYX@aproNOG,05QGQ@bactNOG,17GB9@proNOG,COG3795@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "YCII-related domain"
+      }
     },
     {
       "seqnames": "MAG06_808",
@@ -46,7 +61,22 @@
       "sscore": "18.16",
       "rscore": "13.75",
       "uscore": "0.77",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_780_2",
+        "X2": "347834.RHE_CH01324",
+        "X3": 1.7e-29,
+        "X4": 134,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "NOG[107]",
+        "X10": "COG3795@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "ycii-related protein"
+      }
     },
     {
       "seqnames": "MAG06_808",
@@ -70,7 +100,22 @@
       "sscore": "10.92",
       "rscore": "7.63",
       "uscore": "-0.35",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_780_3",
+        "X2": "395492.Rleg2_0958",
+        "X3": 1.4e-107,
+        "X4": 394.8,
+        "X5": null,
+        "X6": null,
+        "X7": "K03088",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01S9X@aproNOG,05CHP@bactNOG,16PYA@proNOG,COG4941@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "K",
+        "X13": "RNA Polymerase"
+      }
     },
     {
       "seqnames": "MAG06_808",
@@ -94,7 +139,22 @@
       "sscore": "4.15",
       "rscore": "0.21",
       "uscore": "0.29",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_781_1",
+        "X2": "1050720.Agau_C100463",
+        "X3": 1.4e-54,
+        "X4": 218,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "02DK1@aproNOG,08EEU@bactNOG,170UF@proNOG,COG3386@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "K",
+        "X13": "SMP-30/Gluconolaconase/LRE-like region"
+      }
     },
     {
       "seqnames": "MAG06_808",
@@ -118,7 +178,22 @@
       "sscore": "6.77",
       "rscore": "2.03",
       "uscore": "0.13",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_781_2",
+        "X2": "1050720.Agau_C100466",
+        "X3": 1.1e-112,
+        "X4": 411.8,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "0281S@aproNOG,05Q3Z@bactNOG,17I6A@proNOG,COG0451@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "G, M",
+        "X13": "Udp-glucose 4-epimerase"
+      }
     }
   ],
   "seqname": "MAG06_808",

@@ -22,7 +22,22 @@
       "sscore": "19.65",
       "rscore": "13.75",
       "uscore": "1.01",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_137_3",
+        "X2": "266834.SMc02100",
+        "X3": 5.8e-159,
+        "X4": 565.5,
+        "X5": "TSF",
+        "X6": "GO:0003674,GO:0003676,GO:0003723,GO:0003746,GO:0005488,GO:0005575,GO:0005618,GO:0005622,GO:0005623,GO:0005737,GO:0005829,GO:0005886,GO:0006412,GO:0006414,GO:0008135,GO:0008150,GO:0008152,GO:0008270,GO:0009058,GO:0009059,GO:0009987,GO:0010467,GO:0016020,GO:0019538,GO:0030312,GO:0034645,GO:0040007,GO:0043167,GO:0043169,GO:0043170,GO:0044237,GO:0044238,GO:0044249,GO:0044260,GO:0044267,GO:0044424,GO:0044444,GO:0044464,GO:0046872,GO:0046914,GO:0071704,GO:0071944,GO:0097159,GO:1901363,GO:1901576",
+        "X7": "K02357",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01QGI@aproNOG,05CU7@bactNOG,16QAP@proNOG,COG0264@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "J",
+        "X13": "Associates with the EF-Tu.GDP complex and induces the exchange of GDP to GTP. It remains bound to the aminoacyl-tRNA.EF- Tu.GTP complex up to the GTP hydrolysis stage on the ribosome (By similarity)"
+      }
     },
     {
       "seqnames": "MAG06_749",
@@ -46,7 +61,22 @@
       "sscore": "18.62",
       "rscore": "13.75",
       "uscore": "0.06",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_137_4",
+        "X2": "266834.SMc02101",
+        "X3": 8.6e-140,
+        "X4": 501.5,
+        "X5": "RPSB",
+        "X6": "GO:0003674,GO:0003735,GO:0005198,GO:0005488,GO:0005575,GO:0005618,GO:0005622,GO:0005623,GO:0005737,GO:0005829,GO:0005840,GO:0005886,GO:0006412,GO:0008150,GO:0008152,GO:0008270,GO:0009058,GO:0009059,GO:0009987,GO:0010467,GO:0015935,GO:0016020,GO:0019538,GO:0022626,GO:0022627,GO:0030312,GO:0030529,GO:0032991,GO:0034645,GO:0040007,GO:0043167,GO:0043169,GO:0043170,GO:0043226,GO:0043228,GO:0043229,GO:0043232,GO:0044237,GO:0044238,GO:0044249,GO:0044260,GO:0044267,GO:0044391,GO:0044422,GO:0044424,GO:0044444,GO:0044445,GO:0044446,GO:0044464,GO:0046872,GO:0046914,GO:0071704,GO:0071944,GO:1901576",
+        "X7": "K02967",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01RJH@aproNOG,05CE9@bactNOG,16PFF@proNOG,COG0052@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "J",
+        "X13": "30S ribosomal protein S2"
+      }
     },
     {
       "seqnames": "MAG06_749",
@@ -70,7 +100,22 @@
       "sscore": "-11.23",
       "rscore": "-4.72",
       "uscore": "-0.99",
-      "tscore": "-4.87"
+      "tscore": "-4.87",
+      "eggnog": {
+        "X1": "MAG06_137_5",
+        "X2": "266834.SMc02102",
+        "X3": 2.1e-152,
+        "X4": 543.5,
+        "X5": "OCAR_5773",
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01VCC@aproNOG,08QKR@bactNOG,10V3Z@NOG,178WI@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "Domain of unknown function (DUF1849)"
+      }
     },
     {
       "seqnames": "MAG06_749",
@@ -94,7 +139,22 @@
       "sscore": "4.35",
       "rscore": "2.03",
       "uscore": "-1.32",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_137_6",
+        "X2": "266834.SMc02103",
+        "X3": 5.8e-75,
+        "X4": 285.4,
+        "X5": "BMUL_0927",
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01Y64@aproNOG,08ZCE@bactNOG,17C7S@proNOG,COG0251@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "J",
+        "X13": "endoribonuclease L-PSP"
+      }
     }
   ],
   "seqname": "MAG06_749",

@@ -22,7 +22,22 @@
       "sscore": "-8.31",
       "rscore": "-0.18",
       "uscore": "4.13",
-      "tscore": "-11.61"
+      "tscore": "-11.61",
+      "eggnog": {
+        "X1": "MAG06_625_9",
+        "X2": "639283.Snov_4147",
+        "X3": 1.6e-78,
+        "X4": 297.4,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01WD2@aproNOG,08RNR@bactNOG,178K2@proNOG,COG4101@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "G",
+        "X13": "Cupin 2, conserved barrel domain protein"
+      }
     },
     {
       "seqnames": "MAG06_601",
@@ -46,7 +61,8 @@
       "sscore": "1.19",
       "rscore": "-0.18",
       "uscore": "-2.61",
-      "tscore": "3.98"
+      "tscore": "3.98",
+      "eggnog": {}
     },
     {
       "seqnames": "MAG06_601",
@@ -70,7 +86,22 @@
       "sscore": "-0.25",
       "rscore": "-0.18",
       "uscore": "-3.40",
-      "tscore": "3.98"
+      "tscore": "3.98",
+      "eggnog": {
+        "X1": "MAG06_626_1",
+        "X2": "266834.SMc02396",
+        "X3": 1.2e-103,
+        "X4": 380.9,
+        "X5": "OCAR_5827",
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01WGR@aproNOG,08RY5@bactNOG,11I52@NOG,178TF@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": "M",
+        "X13": "porin outer membrane protein"
+      }
     },
     {
       "seqnames": "MAG06_601",
@@ -94,7 +125,22 @@
       "sscore": "5.10",
       "rscore": "-0.18",
       "uscore": "1.30",
-      "tscore": "3.98"
+      "tscore": "3.98",
+      "eggnog": {
+        "X1": "MAG06_626_2",
+        "X2": "266834.SMc02397",
+        "X3": 1.4e-176,
+        "X4": 624,
+        "X5": "INTT",
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01UQC@aproNOG,05EQU@bactNOG,0XRDV@NOG,16SDR@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": "L",
+        "X13": "Integrase"
+      }
     }
   ],
   "seqname": "MAG06_601",

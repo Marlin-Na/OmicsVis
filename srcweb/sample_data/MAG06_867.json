@@ -22,7 +22,22 @@
       "sscore": "12.96",
       "rscore": "11.01",
       "uscore": "-1.25",
-      "tscore": "3.20"
+      "tscore": "3.20",
+      "eggnog": {
+        "X1": "MAG06_827_7",
+        "X2": "266834.SMc01151",
+        "X3": 6.4e-64,
+        "X4": 248.4,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01YIV@aproNOG,05GRZ@bactNOG,17CMT@proNOG,COG3795@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "Ycii-related protein"
+      }
     }
   ],
   "seqname": "MAG06_867",

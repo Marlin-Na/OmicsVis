@@ -22,7 +22,8 @@
       "sscore": "17.27",
       "rscore": "13.75",
       "uscore": "-0.13",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {}
     },
     {
       "seqnames": "MAG06_367",
@@ -46,7 +47,22 @@
       "sscore": "15.47",
       "rscore": "10.54",
       "uscore": "-1.63",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_448_1",
+        "X2": "761193.Runsl_3435",
+        "X3": 4.4e-13,
+        "X4": 78.6,
+        "X5": null,
+        "X6": null,
+        "X7": "K03520,K11177",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "07QS3@bactNOG,09A46@bctoNOG,0FVQY@cytNOG,COG1529@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "F",
+        "X13": "aldehyde oxidase and xanthine dehydrogenase molybdopterin binding"
+      }
     },
     {
       "seqnames": "MAG06_367",
@@ -70,7 +86,8 @@
       "sscore": "3.58",
       "rscore": "-0.69",
       "uscore": "1.28",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {}
     },
     {
       "seqnames": "MAG06_367",
@@ -94,7 +111,22 @@
       "sscore": "0.39",
       "rscore": "-4.72",
       "uscore": "1.46",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_448_2",
+        "X2": "366394.Smed_1212",
+        "X3": 2e-224,
+        "X4": 783.9,
+        "X5": "KEFB",
+        "X6": "GO:0003674,GO:0005215,GO:0006810,GO:0006811,GO:0006812,GO:0006813,GO:0008150,GO:0008324,GO:0009987,GO:0015075,GO:0015077,GO:0015079,GO:0015291,GO:0015503,GO:0015672,GO:0022804,GO:0022857,GO:0022890,GO:0022891,GO:0022892,GO:0030001,GO:0034220,GO:0044699,GO:0044763,GO:0044765,GO:0046873,GO:0051179,GO:0051234,GO:0055085,GO:0071804,GO:0071805",
+        "X7": "K03455,K11745,K11747",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01R29@aproNOG,05CKD@bactNOG,16Q58@proNOG,COG0475@NOG,COG1226@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "P",
+        "X13": "glutathione-regulated potassium-efflux system protein"
+      }
     }
   ],
   "seqname": "MAG06_367",

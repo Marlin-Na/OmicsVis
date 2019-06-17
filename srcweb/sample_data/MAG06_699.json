@@ -22,7 +22,22 @@
       "sscore": "2.15",
       "rscore": "-0.18",
       "uscore": "-1.65",
-      "tscore": "3.98"
+      "tscore": "3.98",
+      "eggnog": {
+        "X1": "MAG06_698_2",
+        "X2": "266834.SMc00531",
+        "X3": 6.3e-135,
+        "X4": 485.3,
+        "X5": "SUFC",
+        "X6": "GO:0005575,GO:0005622,GO:0005623,GO:0005737,GO:0008150,GO:0008152,GO:0009058,GO:0016043,GO:0016226,GO:0022607,GO:0031163,GO:0044085,GO:0044424,GO:0044464,GO:0071840",
+        "X7": "K09013",
+        "X8": "S2FE2SS,S2FE2SS2,S2FE2ST,S4FE4SR,S4FE4ST",
+        "X9": "bactNOG[38]",
+        "X10": "01QJ2@aproNOG,05C3K@bactNOG,16PM6@proNOG,COG0396@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "O",
+        "X13": "feS assembly ATPase SufC"
+      }
     }
   ],
   "seqname": "MAG06_699",

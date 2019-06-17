@@ -22,7 +22,22 @@
       "sscore": "-1.55",
       "rscore": "-4.72",
       "uscore": "-1.45",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_215_5",
+        "X2": "266834.SMc02900",
+        "X3": 5.2e-16,
+        "X4": 87.8,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "02B1B@aproNOG,074IW@bactNOG,186F1@proNOG,COG5457@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "Domain of unknown function (DUF1127)"
+      }
     },
     {
       "seqnames": "MAG06_91",
@@ -46,7 +61,22 @@
       "sscore": "8.63",
       "rscore": "7.63",
       "uscore": "-2.64",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_215_6",
+        "X2": "266834.SMc02899",
+        "X3": 4.4e-161,
+        "X4": 572.4,
+        "X5": "PHEA",
+        "X6": "GO:0006082,GO:0006520,GO:0006558,GO:0006570,GO:0006571,GO:0006725,GO:0006807,GO:0008150,GO:0008152,GO:0008652,GO:0009058,GO:0009072,GO:0009073,GO:0009094,GO:0009095,GO:0009987,GO:0016053,GO:0019438,GO:0019752,GO:0043436,GO:0044237,GO:0044238,GO:0044249,GO:0044281,GO:0044283,GO:0044710,GO:0044711,GO:0046394,GO:0071704,GO:1901360,GO:1901362,GO:1901564,GO:1901566,GO:1901576,GO:1901605,GO:1901607,GO:1902221,GO:1902223",
+        "X7": "K04518,K14170",
+        "X8": "CHORM,PPNDH",
+        "X9": "bactNOG[38]",
+        "X10": "01RN3@aproNOG,05CQC@bactNOG,16QSN@proNOG,COG0077@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "E",
+        "X13": "Prephenate dehydratase"
+      }
     },
     {
       "seqnames": "MAG06_91",
@@ -70,7 +100,22 @@
       "sscore": "-0.82",
       "rscore": "-4.72",
       "uscore": "-0.63",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_215_7",
+        "X2": "266834.SMc02898",
+        "X3": 1.2e-133,
+        "X4": 481.1,
+        "X5": "KDSB",
+        "X6": "GO:0000271,GO:0003674,GO:0003824,GO:0005575,GO:0005622,GO:0005623,GO:0005737,GO:0005975,GO:0005976,GO:0006629,GO:0008150,GO:0008152,GO:0008610,GO:0008653,GO:0008690,GO:0009058,GO:0009059,GO:0009103,GO:0009244,GO:0009311,GO:0009312,GO:0009987,GO:0016051,GO:0016740,GO:0016772,GO:0016779,GO:0033692,GO:0034637,GO:0034645,GO:0043170,GO:0044237,GO:0044238,GO:0044249,GO:0044255,GO:0044260,GO:0044262,GO:0044264,GO:0044424,GO:0044464,GO:0044710,GO:0044723,GO:0046401,GO:0070567,GO:0071704,GO:1901135,GO:1901137,GO:1901576",
+        "X7": "K00979",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01RPP@aproNOG,05CET@bactNOG,16PUI@proNOG,COG1212@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "M",
+        "X13": "Activates KDO (a required 8-carbon sugar) for incorporation into bacterial lipopolysaccharide in Gram-negative bacteria (By similarity)"
+      }
     },
     {
       "seqnames": "MAG06_91",
@@ -94,7 +139,22 @@
       "sscore": "3.22",
       "rscore": "0.00",
       "uscore": "0.00",
-      "tscore": "3.22"
+      "tscore": "3.22",
+      "eggnog": {
+        "X1": "MAG06_215_8",
+        "X2": "266834.SMc02897",
+        "X3": 1.6e-133,
+        "X4": 480.7,
+        "X5": "CYCM",
+        "X6": "GO:0003674,GO:0003824,GO:0005575,GO:0005623,GO:0005886,GO:0006461,GO:0008150,GO:0008152,GO:0016020,GO:0016021,GO:0016043,GO:0017004,GO:0022607,GO:0031224,GO:0034622,GO:0043623,GO:0043933,GO:0044085,GO:0044425,GO:0044464,GO:0065003,GO:0070271,GO:0071822,GO:0071840,GO:0071944",
+        "X7": "K08738",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01YBZ@aproNOG,05G9V@bactNOG,17D08@proNOG,COG3474@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "C",
+        "X13": "cytochrome c"
+      }
     }
   ],
   "seqname": "MAG06_91",

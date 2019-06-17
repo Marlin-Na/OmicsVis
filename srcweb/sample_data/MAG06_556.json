@@ -22,7 +22,22 @@
       "sscore": "3.22",
       "rscore": "0.00",
       "uscore": "0.00",
-      "tscore": "3.22"
+      "tscore": "3.22",
+      "eggnog": {
+        "X1": "MAG06_596_4",
+        "X2": "266834.SMc02738",
+        "X3": 2.3e-146,
+        "X4": 523.5,
+        "X5": "CHOW",
+        "X6": "GO:0005575,GO:0016020",
+        "X7": "K02001",
+        "X8": "GLYBabcpp,PROabcpp",
+        "X9": "bactNOG[38]",
+        "X10": "01R0A@aproNOG,07QQ9@bactNOG,16RBE@proNOG,COG4176@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "E",
+        "X13": "ABC transporter permease protein"
+      }
     },
     {
       "seqnames": "MAG06_556",
@@ -46,7 +61,22 @@
       "sscore": "15.48",
       "rscore": "10.54",
       "uscore": "-1.73",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_596_5",
+        "X2": "266834.SMc02737",
+        "X3": 1.5e-170,
+        "X4": 604,
+        "X5": "PROX",
+        "X6": null,
+        "X7": "K02002",
+        "X8": "GLYBabcpp,PROabcpp",
+        "X9": "bactNOG[38]",
+        "X10": "01QFD@aproNOG,05P44@bactNOG,16SG4@proNOG,COG2113@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "E",
+        "X13": "ABC transporter"
+      }
     }
   ],
   "seqname": "MAG06_556",

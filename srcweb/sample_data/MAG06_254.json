@@ -22,7 +22,22 @@
       "sscore": "1.36",
       "rscore": "9.04",
       "uscore": "-0.22",
-      "tscore": "-4.62"
+      "tscore": "-4.62",
+      "eggnog": {
+        "X1": "MAG06_356_1",
+        "X2": "536019.Mesop_1218",
+        "X3": 3.7e-97,
+        "X4": 359.8,
+        "X5": "KDUI",
+        "X6": "GO:0005575,GO:0005622,GO:0005623,GO:0005737,GO:0005829,GO:0044424,GO:0044444,GO:0044464",
+        "X7": "K01815",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01RC2@aproNOG,05D50@bactNOG,16Q7C@proNOG,COG3717@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "G",
+        "X13": "Catalyzes the isomerization of 5-dehydro-4-deoxy-D- glucuronate to 3-deoxy-D-glycero-2,5-hexodiulosonate (By similarity)"
+      }
     },
     {
       "seqnames": "MAG06_254",
@@ -46,7 +61,22 @@
       "sscore": "-1.10",
       "rscore": "-4.56",
       "uscore": "0.92",
-      "tscore": "3.20"
+      "tscore": "3.20",
+      "eggnog": {
+        "X1": "MAG06_356_2",
+        "X2": "216596.RL4361",
+        "X3": 2.9e-108,
+        "X4": 396.7,
+        "X5": null,
+        "X6": null,
+        "X7": "K03710,K05799",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01ZIA@aproNOG,07EG7@bactNOG,17F1I@proNOG,COG2186@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "K",
+        "X13": "GntR family transcriptional regulator"
+      }
     },
     {
       "seqnames": "MAG06_254",
@@ -70,7 +100,22 @@
       "sscore": "16.73",
       "rscore": "12.94",
       "uscore": "0.59",
-      "tscore": "3.20"
+      "tscore": "3.20",
+      "eggnog": {
+        "X1": "MAG06_356_3",
+        "X2": "216596.RL4360",
+        "X3": 4.2e-200,
+        "X4": 702.6,
+        "X5": "YGIK",
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01Q6M@aproNOG,05CG6@bactNOG,16PBP@proNOG,COG1593@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "G",
+        "X13": "Trap dicarboxylate transporter, dctm subunit"
+      }
     },
     {
       "seqnames": "MAG06_254",
@@ -94,7 +139,22 @@
       "sscore": "-14.38",
       "rscore": "-4.56",
       "uscore": "-4.54",
-      "tscore": "-4.62"
+      "tscore": "-4.62",
+      "eggnog": {
+        "X1": "MAG06_356_4",
+        "X2": "216596.RL4359",
+        "X3": 5.8e-69,
+        "X4": 265.8,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "022TA@aproNOG,08VPA@bactNOG,178QC@proNOG,COG3090@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "G",
+        "X13": "tripartite ATP-independent periplasmic transporter, DctQ component"
+      }
     },
     {
       "seqnames": "MAG06_254",
@@ -118,7 +178,22 @@
       "sscore": "9.18",
       "rscore": "9.04",
       "uscore": "-3.06",
-      "tscore": "3.20"
+      "tscore": "3.20",
+      "eggnog": {
+        "X1": "MAG06_357_1",
+        "X2": "266834.SMc00326",
+        "X3": 1.1e-87,
+        "X4": 327.8,
+        "X5": "FABI",
+        "X6": "GO:0003674,GO:0003824,GO:0004312,GO:0004318,GO:0005575,GO:0005623,GO:0005886,GO:0006082,GO:0006461,GO:0006629,GO:0006631,GO:0006633,GO:0006766,GO:0006767,GO:0006768,GO:0006790,GO:0006807,GO:0008150,GO:0008152,GO:0008610,GO:0009058,GO:0009102,GO:0009110,GO:0009987,GO:0016020,GO:0016043,GO:0016053,GO:0016491,GO:0016627,GO:0016628,GO:0016740,GO:0016746,GO:0016747,GO:0018130,GO:0019752,GO:0022607,GO:0030497,GO:0032787,GO:0034641,GO:0042364,GO:0043436,GO:0043603,GO:0043604,GO:0043933,GO:0044085,GO:0044237,GO:0044238,GO:0044249,GO:0044255,GO:0044271,GO:0044272,GO:0044281,GO:0044283,GO:0044464,GO:0044710,GO:0044711,GO:0046394,GO:0046483,GO:0051186,GO:0051259,GO:0051260,GO:0051262,GO:0051289,GO:0055114,GO:0065003,GO:0070271,GO:0071704,GO:0071822,GO:0071840,GO:0071944,GO:0072330,GO:1901360,GO:1901362,GO:1901564,GO:1901566,GO:1901576",
+        "X7": "K00208",
+        "X8": "C120SN,C140SN,C141SN,C160SN,C161SN,C180SN,C181SN,EAR100x,EAR100y,EAR120x,EAR120y,EAR121x,EAR121y,EAR140x,EAR140y,EAR141x,EAR141y,EAR160x,EAR160y,EAR161x,EAR161y,EAR180x,EAR180y,EAR181x,EAR181y,EAR40x,EAR40y,EAR60x,EAR60y,EAR80x,EAR80y,EGMEACPR,EPMEACPR,KAS_HP2",
+        "X9": "bactNOG[38]",
+        "X10": "01R2P@aproNOG,05CSJ@bactNOG,16PM1@proNOG,COG0623@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "I",
+        "X13": "Enoyl- acyl-carrier-protein reductase NADH"
+      }
     }
   ],
   "seqname": "MAG06_254",

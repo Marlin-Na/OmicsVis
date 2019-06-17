@@ -22,7 +22,22 @@
       "sscore": "16.17",
       "rscore": "10.54",
       "uscore": "0.69",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_961_2",
+        "X2": "1117943.SFHH103_03034",
+        "X3": 1e-100,
+        "X4": 371.7,
+        "X5": null,
+        "X6": null,
+        "X7": "K00286",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01XUC@aproNOG,07ZKJ@bactNOG,17AWW@proNOG,COG0345@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "E",
+        "X13": "pyrroline-5-carboxylate reductase"
+      }
     },
     {
       "seqnames": "MAG06_11",
@@ -46,7 +61,22 @@
       "sscore": "7.56",
       "rscore": "2.03",
       "uscore": "0.60",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_961_3",
+        "X2": "411684.HPDFL43_02430",
+        "X3": 1.3e-122,
+        "X4": 444.9,
+        "X5": "MLTK",
+        "X6": null,
+        "X7": "K10111,K10191",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01Q68@aproNOG,05C53@bactNOG,16PDX@proNOG,COG3842@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "E",
+        "X13": "ABC transporter"
+      }
     },
     {
       "seqnames": "MAG06_11",
@@ -70,7 +100,22 @@
       "sscore": "6.97",
       "rscore": "10.54",
       "uscore": "-5.27",
-      "tscore": "-4.87"
+      "tscore": "-4.87",
+      "eggnog": {
+        "X1": "MAG06_961_4",
+        "X2": "311403.Arad_9548",
+        "X3": 0,
+        "X4": 1252.3,
+        "X5": "LACZ",
+        "X6": null,
+        "X7": "K01190",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01TRX@aproNOG,05CNT@bactNOG,16Q47@proNOG,COG3250@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "G",
+        "X13": "family 2"
+      }
     },
     {
       "seqnames": "MAG06_11",
@@ -94,7 +139,22 @@
       "sscore": "3.22",
       "rscore": "0.00",
       "uscore": "0.00",
-      "tscore": "3.22"
+      "tscore": "3.22",
+      "eggnog": {
+        "X1": "MAG06_961_5",
+        "X2": "391591.VSAK1_10763",
+        "X3": 5.6e-89,
+        "X4": 332.8,
+        "X5": "MALG4",
+        "X6": "GO:0005575,GO:0016020",
+        "X7": "K02026,K10190,K10194",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "060SR@bactNOG,0QPTG@gproNOG,175WX@proNOG,COG0395@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "G",
+        "X13": "sugar ABC transporter (Permease)"
+      }
     }
   ],
   "seqname": "MAG06_11",

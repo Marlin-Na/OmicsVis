@@ -22,7 +22,22 @@
       "sscore": "1.82",
       "rscore": "7.63",
       "uscore": "-0.93",
-      "tscore": "-4.87"
+      "tscore": "-4.87",
+      "eggnog": {
+        "X1": "MAG06_55_14",
+        "X2": "266834.SMc04010",
+        "X3": 1.1e-305,
+        "X4": 1053.9,
+        "X5": "YCBK",
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01SGN@aproNOG,05EAQ@bactNOG,16SQV@proNOG,COG3108@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "Tat (Twin-arginine translocation) pathway signal sequence domain protein"
+      }
     },
     {
       "seqnames": "MAG06_500",
@@ -46,7 +61,8 @@
       "sscore": "11.22",
       "rscore": "7.63",
       "uscore": "0.60",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {}
     },
     {
       "seqnames": "MAG06_500",
@@ -70,7 +86,22 @@
       "sscore": "6.70",
       "rscore": "2.03",
       "uscore": "1.03",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_55_15",
+        "X2": "266834.SMc04009",
+        "X3": 3.2e-41,
+        "X4": 172.6,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "021P0@aproNOG,05Y2X@bactNOG,17M1Q@proNOG,COG3750@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "D",
+        "X13": "UPF0335 protein"
+      }
     }
   ],
   "seqname": "MAG06_500",

@@ -22,7 +22,22 @@
       "sscore": "3.22",
       "rscore": "0.00",
       "uscore": "0.00",
-      "tscore": "3.22"
+      "tscore": "3.22",
+      "eggnog": {
+        "X1": "MAG06_335_3",
+        "X2": "392499.Swit_0761",
+        "X3": 4.9e-47,
+        "X4": 193,
+        "X5": "SUCB",
+        "X6": null,
+        "X7": "K00627,K00658,K09699",
+        "X8": "OIVD1r,OIVD2,OIVD3",
+        "X9": "bactNOG[38]",
+        "X10": "025EB@aproNOG,05C7S@bactNOG,177JB@proNOG,COG0508@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "C",
+        "X13": "2-oxoacid dehydrogenases acyltransferase (catalytic domain)"
+      }
     },
     {
       "seqnames": "MAG06_226",
@@ -46,7 +61,22 @@
       "sscore": "18.69",
       "rscore": "13.75",
       "uscore": "-4.09",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_336_1",
+        "X2": "266834.SMc04031",
+        "X3": 7.7e-24,
+        "X4": 114,
+        "X5": "PIP",
+        "X6": "GO:0005575,GO:0005623,GO:0031975,GO:0044464",
+        "X7": "K01259,K18457",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01TQR@aproNOG,07UGY@bactNOG,174E8@proNOG,COG0596@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "E",
+        "X13": "proline iminopeptidase"
+      }
     },
     {
       "seqnames": "MAG06_226",
@@ -70,7 +100,22 @@
       "sscore": "-0.63",
       "rscore": "-4.72",
       "uscore": "-0.21",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_336_2",
+        "X2": "266834.SMc04032",
+        "X3": 5.1e-148,
+        "X4": 528.9,
+        "X5": "AHYR",
+        "X6": null,
+        "X7": "K07782,K15852",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "020UV@aproNOG,08V59@bactNOG,11J4S@NOG,17AAC@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": "K",
+        "X13": "Transcriptional regulator"
+      }
     },
     {
       "seqnames": "MAG06_226",
@@ -94,7 +139,22 @@
       "sscore": "4.97",
       "rscore": "-0.69",
       "uscore": "0.76",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_336_3",
+        "X2": "266834.SMc04033",
+        "X3": 5.8e-180,
+        "X4": 635.2,
+        "X5": "PIP",
+        "X6": null,
+        "X7": "K01259,K18457",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "02DHG@aproNOG,07T66@bactNOG,0ZVIC@NOG,16UY0@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": "E",
+        "X13": "X-Pro dipeptidyl-peptidase (S15 family)"
+      }
     },
     {
       "seqnames": "MAG06_226",
@@ -118,7 +178,22 @@
       "sscore": "18.69",
       "rscore": "13.75",
       "uscore": "-0.55",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_336_4",
+        "X2": "266834.SMc04034",
+        "X3": 3e-163,
+        "X4": 579.7,
+        "X5": "OPPB",
+        "X6": "GO:0005575,GO:0016020",
+        "X7": "K02033",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01SJD@aproNOG,05CJM@bactNOG,16PNR@proNOG,COG0601@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "P",
+        "X13": "ABC transporter permease protein"
+      }
     }
   ],
   "seqname": "MAG06_226",

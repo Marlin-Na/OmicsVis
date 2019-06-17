@@ -22,7 +22,22 @@
       "sscore": "0.55",
       "rscore": "-0.18",
       "uscore": "-4.49",
-      "tscore": "3.98"
+      "tscore": "3.98",
+      "eggnog": {
+        "X1": "MAG06_766_4",
+        "X2": "266834.SMc03005",
+        "X3": 5.7e-44,
+        "X4": 181.8,
+        "X5": "CHEX",
+        "X6": null,
+        "X7": "K03409",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "0247A@aproNOG,069TY@bactNOG,17SYA@proNOG,COG1366@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "T",
+        "X13": "Inherit from COG: stage II sporulation protein"
+      }
     },
     {
       "seqnames": "MAG06_791",
@@ -46,7 +61,22 @@
       "sscore": "4.48",
       "rscore": "-0.18",
       "uscore": "1.33",
-      "tscore": "3.98"
+      "tscore": "3.98",
+      "eggnog": {
+        "X1": "MAG06_766_5",
+        "X2": "266834.SMc03004",
+        "X3": 3e-283,
+        "X4": 979.2,
+        "X5": "MCPE",
+        "X6": null,
+        "X7": "K03406",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01UBN@aproNOG,05UT3@bactNOG,10A9V@NOG,1756J@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "Methyl-accepting chemotaxis"
+      }
     },
     {
       "seqnames": "MAG06_791",
@@ -70,7 +100,22 @@
       "sscore": "2.20",
       "rscore": "-0.18",
       "uscore": "-1.60",
-      "tscore": "3.98"
+      "tscore": "3.98",
+      "eggnog": {
+        "X1": "MAG06_767_1",
+        "X2": "266834.SMc04342",
+        "X3": 5.2e-165,
+        "X4": 585.5,
+        "X5": "METH4",
+        "X6": null,
+        "X7": "K00548,K15023",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "02ED7@aproNOG,08J5I@bactNOG,1735I@proNOG,COG1410@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "E",
+        "X13": "methyltetrahydrofolate corrinoid iron-sulfur protein methyltransferase"
+      }
     },
     {
       "seqnames": "MAG06_791",
@@ -94,7 +139,22 @@
       "sscore": "12.43",
       "rscore": "9.39",
       "uscore": "-0.29",
-      "tscore": "3.98"
+      "tscore": "3.98",
+      "eggnog": {
+        "X1": "MAG06_141_5",
+        "X2": "266834.SMc04255",
+        "X3": 0,
+        "X4": 1627.8,
+        "X5": "MANB2",
+        "X6": null,
+        "X7": "K01190,K01192",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01S93@aproNOG,05D6I@bactNOG,16Z0S@proNOG,COG3250@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "G",
+        "X13": "beta-mannosidase EC 3.2.1.25"
+      }
     },
     {
       "seqnames": "MAG06_791",
@@ -118,7 +178,22 @@
       "sscore": "1.44",
       "rscore": "2.32",
       "uscore": "-4.86",
-      "tscore": "3.98"
+      "tscore": "3.98",
+      "eggnog": {
+        "X1": "MAG06_142_1",
+        "X2": "266834.SMc00865",
+        "X3": 2.9e-35,
+        "X4": 152.5,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01YWU@aproNOG,05H2X@bactNOG,17DC8@proNOG,COG0463@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "M",
+        "X13": "Inherit from COG: Glycosyl transferase, family 2"
+      }
     }
   ],
   "seqname": "MAG06_791",

@@ -22,7 +22,22 @@
       "sscore": "-3.50",
       "rscore": "-0.98",
       "uscore": "-3.88",
-      "tscore": "1.36"
+      "tscore": "1.36",
+      "eggnog": {
+        "X1": "MAG06_104_2",
+        "X2": "266835.mlr8184",
+        "X3": 5.9e-27,
+        "X4": 124.8,
+        "X5": "CSPE",
+        "X6": "GO:0003674,GO:0003676,GO:0003677,GO:0003697,GO:0003723,GO:0005488,GO:0005575,GO:0005618,GO:0005622,GO:0005623,GO:0005737,GO:0006355,GO:0006950,GO:0008150,GO:0009266,GO:0009409,GO:0009628,GO:0009889,GO:0010468,GO:0010556,GO:0019219,GO:0019222,GO:0030312,GO:0031323,GO:0031326,GO:0040007,GO:0043566,GO:0044424,GO:0044464,GO:0050789,GO:0050794,GO:0050896,GO:0051171,GO:0051252,GO:0060255,GO:0065007,GO:0071944,GO:0080090,GO:0097159,GO:1901363,GO:2000112,GO:2001141",
+        "X7": "K03704",
+        "X8": "OXPTNDH",
+        "X9": "bactNOG[38]",
+        "X10": "021RJ@aproNOG,05VEQ@bactNOG,17JS4@proNOG,COG1278@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "K",
+        "X13": "Cold shock protein"
+      }
     },
     {
       "seqnames": "MAG06_403",
@@ -46,7 +61,22 @@
       "sscore": "19.95",
       "rscore": "13.75",
       "uscore": "1.55",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_104_3",
+        "X2": "266835.mll4866",
+        "X3": 1.1e-10,
+        "X4": 71.6,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "029IY@aproNOG,07357@bactNOG,0Z8B6@NOG,185IK@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": null,
+        "X13": null
+      }
     },
     {
       "seqnames": "MAG06_403",
@@ -70,7 +100,22 @@
       "sscore": "-3.12",
       "rscore": "-4.72",
       "uscore": "-2.05",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_104_4",
+        "X2": "395492.Rleg2_0898",
+        "X3": 1.2e-109,
+        "X4": 401.4,
+        "X5": "DESA",
+        "X6": "GO:0005575,GO:0005623,GO:0005886,GO:0016020,GO:0044464,GO:0071944",
+        "X7": "K10255,K10256,K10257",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01SJ3@aproNOG,05ECK@bactNOG,16RJZ@proNOG,COG3239@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "I",
+        "X13": "Fatty acid desaturase"
+      }
     },
     {
       "seqnames": "MAG06_403",
@@ -94,7 +139,22 @@
       "sscore": "6.18",
       "rscore": "2.03",
       "uscore": "-0.76",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_1040_1",
+        "X2": "266834.SMc00342",
+        "X3": 1.2e-13,
+        "X4": 79.7,
+        "X5": "RND",
+        "X6": null,
+        "X7": "K03684",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01QKC@aproNOG,06AHI@bactNOG,16SZW@proNOG,COG0349@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "J",
+        "X13": "3-5 exonuclease"
+      }
     },
     {
       "seqnames": "MAG06_403",
@@ -118,7 +178,22 @@
       "sscore": "9.97",
       "rscore": "10.54",
       "uscore": "-4.21",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_1040_3",
+        "X2": "266834.SMc00340",
+        "X3": 6.5e-191,
+        "X4": 671.8,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01VFH@aproNOG,073G4@bactNOG,16QNI@proNOG,COG0111@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "C",
+        "X13": "D-isomer specific 2-hydroxyacid dehydrogenase, NAD-binding"
+      }
     }
   ],
   "seqname": "MAG06_403",

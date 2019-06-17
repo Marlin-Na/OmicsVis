@@ -22,7 +22,22 @@
       "sscore": "3.22",
       "rscore": "0.00",
       "uscore": "0.00",
-      "tscore": "3.22"
+      "tscore": "3.22",
+      "eggnog": {
+        "X1": "MAG06_717_1",
+        "X2": "266834.SMc01491",
+        "X3": 6.8e-263,
+        "X4": 911.4,
+        "X5": null,
+        "X6": null,
+        "X7": "K01768",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01RRH@aproNOG,07SM8@bactNOG,16SH1@proNOG,COG3899@NOG,COG3903@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "T",
+        "X13": "Guanylate cyclase"
+      }
     },
     {
       "seqnames": "MAG06_725",
@@ -46,7 +61,8 @@
       "sscore": "3.23",
       "rscore": "2.32",
       "uscore": "-3.08",
-      "tscore": "3.98"
+      "tscore": "3.98",
+      "eggnog": {}
     }
   ],
   "seqname": "MAG06_725",

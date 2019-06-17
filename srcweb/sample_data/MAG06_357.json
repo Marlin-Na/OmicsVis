@@ -22,7 +22,22 @@
       "sscore": "5.10",
       "rscore": "2.03",
       "uscore": "-1.80",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_440_2",
+        "X2": "266834.SMc02407",
+        "X3": 2e-104,
+        "X4": 383.6,
+        "X5": "OCAR_5835",
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01QZ1@aproNOG,08KHG@bactNOG,173PW@proNOG,COG1432@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "Pfam:DUF88"
+      }
     },
     {
       "seqnames": "MAG06_357",
@@ -46,7 +61,22 @@
       "sscore": "7.04",
       "rscore": "2.03",
       "uscore": "0.63",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_441_1",
+        "X2": "438753.AZC_3339",
+        "X3": 3.6e-31,
+        "X4": 139.8,
+        "X5": "YDFH",
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01WJY@aproNOG,07XBN@bactNOG,16RYT@proNOG,COG1802@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "K",
+        "X13": "GntR Family Transcriptional Regulator"
+      }
     },
     {
       "seqnames": "MAG06_357",
@@ -70,7 +100,8 @@
       "sscore": "5.27",
       "rscore": "-0.37",
       "uscore": "2.64",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {}
     },
     {
       "seqnames": "MAG06_357",
@@ -94,7 +125,22 @@
       "sscore": "6.45",
       "rscore": "2.03",
       "uscore": "0.78",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_441_2",
+        "X2": "398527.Bphyt_4182",
+        "X3": 3.1e-80,
+        "X4": 303.9,
+        "X5": null,
+        "X6": null,
+        "X7": "K00128,K00130",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "05C26@bactNOG,0BIJJ@bproNOG,16PDZ@proNOG,COG1012@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "C",
+        "X13": "Aldehyde dehydrogenase family"
+      }
     },
     {
       "seqnames": "MAG06_357",
@@ -118,7 +164,22 @@
       "sscore": "12.87",
       "rscore": "7.63",
       "uscore": "1.60",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_441_3",
+        "X2": "411684.HPDFL43_01840",
+        "X3": 1.3e-50,
+        "X4": 204.9,
+        "X5": null,
+        "X6": null,
+        "X7": "K00128",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01QA3@aproNOG,05C26@bactNOG,16PDZ@proNOG,COG1012@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "C",
+        "X13": "Aldehyde dehydrogenase"
+      }
     },
     {
       "seqnames": "MAG06_357",
@@ -142,7 +203,22 @@
       "sscore": "3.22",
       "rscore": "0.00",
       "uscore": "0.00",
-      "tscore": "3.22"
+      "tscore": "3.22",
+      "eggnog": {
+        "X1": "MAG06_441_4",
+        "X2": "765698.Mesci_3016",
+        "X3": 1.1e-10,
+        "X4": 72.4,
+        "X5": null,
+        "X6": null,
+        "X7": "K02058",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "06N8E@bactNOG,0YCGZ@NOG,17X38@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "ABC transporter binding protein"
+      }
     }
   ],
   "seqname": "MAG06_357",

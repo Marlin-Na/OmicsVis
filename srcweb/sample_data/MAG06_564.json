@@ -22,7 +22,22 @@
       "sscore": "3.22",
       "rscore": "0.00",
       "uscore": "0.00",
-      "tscore": "3.22"
+      "tscore": "3.22",
+      "eggnog": {
+        "X1": "MAG06_599_23",
+        "X2": "266834.SMc01984",
+        "X3": 7.6e-72,
+        "X4": 275,
+        "X5": "COXO",
+        "X6": "GO:0005575,GO:0016020",
+        "X7": "K02276",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01VUB@aproNOG,08SX8@bactNOG,178TG@proNOG,COG1845@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "C",
+        "X13": "cytochrome c oxidase, subunit III"
+      }
     },
     {
       "seqnames": "MAG06_564",
@@ -46,7 +61,22 @@
       "sscore": "12.55",
       "rscore": "7.63",
       "uscore": "-5.41",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_599_3",
+        "X2": "266834.SMc01965",
+        "X3": 2.1e-189,
+        "X4": 666.8,
+        "X5": null,
+        "X6": null,
+        "X7": "K02010,K02052,K10112,K11072,K11076",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01QP7@aproNOG,05C53@bactNOG,16QR8@proNOG,COG3842@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "E",
+        "X13": "ABC transporter"
+      }
     },
     {
       "seqnames": "MAG06_564",
@@ -70,7 +100,22 @@
       "sscore": "7.14",
       "rscore": "2.03",
       "uscore": "0.18",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_599_4",
+        "X2": "266834.SMc01966",
+        "X3": 5.7e-206,
+        "X4": 721.8,
+        "X5": null,
+        "X6": null,
+        "X7": "K02055,K11069",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01THB@aproNOG,07WB8@bactNOG,11DXU@NOG,177E1@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "ABC transporter"
+      }
     },
     {
       "seqnames": "MAG06_564",
@@ -94,7 +139,22 @@
       "sscore": "9.38",
       "rscore": "5.19",
       "uscore": "-0.70",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_599_5",
+        "X2": "266834.SMc01967",
+        "X3": 5e-207,
+        "X4": 725.3,
+        "X5": "SPEB",
+        "X6": null,
+        "X7": "K01476,K01480,K18459",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01RJ9@aproNOG,05CYW@bactNOG,16R9M@proNOG,COG0010@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "E",
+        "X13": "Agmatinase"
+      }
     },
     {
       "seqnames": "MAG06_564",
@@ -118,7 +178,8 @@
       "sscore": "1.42",
       "rscore": "-4.72",
       "uscore": "3.14",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {}
     },
     {
       "seqnames": "MAG06_564",
@@ -142,7 +203,22 @@
       "sscore": "10.06",
       "rscore": "6.31",
       "uscore": "1.22",
-      "tscore": "3.02"
+      "tscore": "3.02",
+      "eggnog": {
+        "X1": "MAG06_599_6",
+        "X2": "266834.SMc01968",
+        "X3": 2.2e-194,
+        "X4": 683.3,
+        "X5": "BMUL_3540",
+        "X6": null,
+        "X7": "K03566",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01UVV@aproNOG,0810E@bactNOG,10VPY@NOG,16ZCE@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": "K",
+        "X13": "transcriptional regulator, lysR family"
+      }
     },
     {
       "seqnames": "MAG06_564",
@@ -166,7 +242,22 @@
       "sscore": "13.73",
       "rscore": "10.54",
       "uscore": "0.19",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_599_7",
+        "X2": "266834.SMc01969",
+        "X3": 1.2e-225,
+        "X4": 787.3,
+        "X5": null,
+        "X6": null,
+        "X7": "K14267",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01R4H@aproNOG,05E0Z@bactNOG,16RMA@proNOG,COG0436@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "E",
+        "X13": "Aminotransferase"
+      }
     },
     {
       "seqnames": "MAG06_564",
@@ -190,7 +281,22 @@
       "sscore": "14.35",
       "rscore": "10.54",
       "uscore": "-0.63",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_599_8",
+        "X2": "266834.SMc01970",
+        "X3": 1.2e-142,
+        "X4": 511.1,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01VJM@aproNOG,07XS3@bactNOG,16ZE3@proNOG,COG0697@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "E, G",
+        "X13": "EamA-like transporter family"
+      }
     },
     {
       "seqnames": "MAG06_564",
@@ -214,7 +320,22 @@
       "sscore": "10.45",
       "rscore": "5.51",
       "uscore": "-1.64",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_599_9",
+        "X2": "266834.SMc01971",
+        "X3": 4.1e-268,
+        "X4": 928.7,
+        "X5": null,
+        "X6": null,
+        "X7": "K00128,K00130",
+        "X8": "SSALy",
+        "X9": "bactNOG[38]",
+        "X10": "01QA3@aproNOG,05C26@bactNOG,16PDZ@proNOG,COG1012@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "C",
+        "X13": "Aldehyde dehydrogenase"
+      }
     }
   ],
   "seqname": "MAG06_564",

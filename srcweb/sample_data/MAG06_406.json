@@ -22,7 +22,22 @@
       "sscore": "7.59",
       "rscore": "7.63",
       "uscore": "-3.69",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_476_4",
+        "X2": "266834.SMc01355",
+        "X3": 9.6e-84,
+        "X4": 314.7,
+        "X5": "RUVX",
+        "X6": "GO:0005575,GO:0005622,GO:0005623,GO:0005737,GO:0044424,GO:0044464",
+        "X7": "K07447",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01Y3J@aproNOG,07ZJC@bactNOG,16VUN@proNOG,COG0816@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "L",
+        "X13": "Could be a nuclease that resolves Holliday junction intermediates in genetic recombination (By similarity)"
+      }
     },
     {
       "seqnames": "MAG06_406",
@@ -46,7 +61,22 @@
       "sscore": "6.58",
       "rscore": "2.03",
       "uscore": "1.56",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_476_5",
+        "X2": "266834.SMc01354",
+        "X3": 1.2e-10,
+        "X4": 70.1,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01QHW@aproNOG,07T8T@bactNOG,16TG7@proNOG,COG2220@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "UPF0173 metal-dependent hydrolase"
+      }
     },
     {
       "seqnames": "MAG06_406",
@@ -70,7 +100,22 @@
       "sscore": "13.41",
       "rscore": "7.63",
       "uscore": "1.37",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_477_1",
+        "X2": "266834.SMc00096",
+        "X3": 1.3e-91,
+        "X4": 340.9,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01WB4@aproNOG,08T8I@bactNOG,11GM4@NOG,178K9@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "Protein of unknown function (DUF3750)"
+      }
     },
     {
       "seqnames": "MAG06_406",
@@ -94,7 +139,22 @@
       "sscore": "15.61",
       "rscore": "10.54",
       "uscore": "0.52",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_477_2",
+        "X2": "266834.SMc00035",
+        "X3": 2.8e-191,
+        "X4": 672.9,
+        "X5": "ANSA",
+        "X6": "GO:0003674,GO:0003824,GO:0004067,GO:0006082,GO:0006520,GO:0006807,GO:0008150,GO:0008152,GO:0009987,GO:0016787,GO:0016810,GO:0016811,GO:0019752,GO:0043436,GO:0044237,GO:0044238,GO:0044281,GO:0044710,GO:0071704,GO:1901564",
+        "X7": "K01424",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01TH8@aproNOG,08M50@bactNOG,174IY@proNOG,COG4448@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "E",
+        "X13": "L-asparaginase II"
+      }
     },
     {
       "seqnames": "MAG06_406",
@@ -118,7 +178,22 @@
       "sscore": "14.62",
       "rscore": "10.54",
       "uscore": "0.43",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_477_3",
+        "X2": "266834.SMc00036",
+        "X3": 2.2e-114,
+        "X4": 416.8,
+        "X5": "GST",
+        "X6": "GO:0003674,GO:0003824,GO:0004364,GO:0008150,GO:0008152,GO:0016740,GO:0016765",
+        "X7": "K00799",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01X97@aproNOG,08RX8@bactNOG,17828@proNOG,COG0625@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "O",
+        "X13": "Glutathione S-Transferase"
+      }
     },
     {
       "seqnames": "MAG06_406",
@@ -142,7 +217,22 @@
       "sscore": "3.22",
       "rscore": "0.00",
       "uscore": "0.00",
-      "tscore": "3.22"
+      "tscore": "3.22",
+      "eggnog": {
+        "X1": "MAG06_478_1",
+        "X2": "266834.SMc01546",
+        "X3": 1.5e-23,
+        "X4": 113.2,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "0214F@aproNOG,05N87@bactNOG,11V6H@NOG,17H0Y@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": null,
+        "X13": null
+      }
     }
   ],
   "seqname": "MAG06_406",

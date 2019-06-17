@@ -22,7 +22,8 @@
       "sscore": "6.30",
       "rscore": "2.03",
       "uscore": "0.62",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {}
     },
     {
       "seqnames": "MAG06_409",
@@ -46,7 +47,22 @@
       "sscore": "17.32",
       "rscore": "13.53",
       "uscore": "-0.80",
-      "tscore": "3.59"
+      "tscore": "3.59",
+      "eggnog": {
+        "X1": "MAG06_48_10",
+        "X2": "266834.SMc02041",
+        "X3": 3.1e-134,
+        "X4": 483,
+        "X5": "FABG1",
+        "X6": null,
+        "X7": "K00038,K00065,K03366",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01W05@aproNOG,08R85@bactNOG,178WU@proNOG,COG1028@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "short-chain dehydrogenase reductase"
+      }
     },
     {
       "seqnames": "MAG06_409",
@@ -70,7 +86,22 @@
       "sscore": "3.53",
       "rscore": "7.85",
       "uscore": "1.20",
-      "tscore": "-4.87"
+      "tscore": "-4.87",
+      "eggnog": {
+        "X1": "MAG06_48_11",
+        "X2": "266834.SMc02042",
+        "X3": 5.5e-124,
+        "X4": 448.7,
+        "X5": "PGIA",
+        "X6": "GO:0005575,GO:0005622,GO:0005623,GO:0005737,GO:0044424,GO:0044464",
+        "X7": "K06859",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01X1H@aproNOG,08Y83@bactNOG,179U1@proNOG,COG2140@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "G",
+        "X13": "glucose-6-phosphate isomerase"
+      }
     },
     {
       "seqnames": "MAG06_409",
@@ -94,7 +125,22 @@
       "sscore": "14.48",
       "rscore": "7.85",
       "uscore": "2.09",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_48_12",
+        "X2": "266834.SMc02043",
+        "X3": 4.6e-46,
+        "X4": 189.1,
+        "X5": "EDA",
+        "X6": "GO:0005575,GO:0005622,GO:0005623,GO:0005737,GO:0044424,GO:0044464",
+        "X7": "K01625",
+        "X8": "DDPGA,EDA",
+        "X9": "bactNOG[38]",
+        "X10": "08UHU@bactNOG,179N2@proNOG,COG0800@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "G",
+        "X13": "Aldolase"
+      }
     },
     {
       "seqnames": "MAG06_409",
@@ -118,7 +164,8 @@
       "sscore": "-8.45",
       "rscore": "-0.69",
       "uscore": "2.38",
-      "tscore": "-10.14"
+      "tscore": "-10.14",
+      "eggnog": {}
     },
     {
       "seqnames": "MAG06_409",
@@ -142,7 +189,22 @@
       "sscore": "14.02",
       "rscore": "7.63",
       "uscore": "1.46",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_48_2",
+        "X2": "266834.SMc02033",
+        "X3": 1.9e-223,
+        "X4": 780,
+        "X5": null,
+        "X6": null,
+        "X7": "K10439",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "06PFY@bactNOG,0ZU3Q@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "P",
+        "X13": "periplasmic binding protein"
+      }
     },
     {
       "seqnames": "MAG06_409",
@@ -166,7 +228,22 @@
       "sscore": "3.89",
       "rscore": "-0.37",
       "uscore": "1.26",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_48_3",
+        "X2": "266834.SMc02034",
+        "X3": 7.3e-139,
+        "X4": 498.4,
+        "X5": null,
+        "X6": null,
+        "X7": "K00046",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01RSZ@aproNOG,05CHR@bactNOG,0XNW1@NOG,176BU@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "Short-chain dehydrogenase reductase SDR"
+      }
     },
     {
       "seqnames": "MAG06_409",
@@ -190,7 +267,8 @@
       "sscore": "5.93",
       "rscore": "1.68",
       "uscore": "1.23",
-      "tscore": "3.02"
+      "tscore": "3.02",
+      "eggnog": {}
     },
     {
       "seqnames": "MAG06_409",
@@ -214,7 +292,22 @@
       "sscore": "-3.39",
       "rscore": "-4.72",
       "uscore": "-3.50",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_48_5",
+        "X2": "266834.SMc02035",
+        "X3": 1.4e-188,
+        "X4": 664.1,
+        "X5": "ALLD",
+        "X6": "GO:0000255,GO:0000256,GO:0003674,GO:0003824,GO:0005575,GO:0005622,GO:0005623,GO:0005737,GO:0006807,GO:0008150,GO:0008152,GO:0009040,GO:0009056,GO:0009442,GO:0009987,GO:0016491,GO:0016614,GO:0016616,GO:0034641,GO:0043603,GO:0043605,GO:0044237,GO:0044248,GO:0044270,GO:0044424,GO:0044464,GO:0044710,GO:0046483,GO:0046700,GO:0055114,GO:0071704,GO:1901360,GO:1901361,GO:1901564,GO:1901565,GO:1901575",
+        "X7": "K00073",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01RTS@aproNOG,05DG4@bactNOG,16THH@proNOG,COG2055@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "C",
+        "X13": "Dehydrogenase"
+      }
     }
   ],
   "seqname": "MAG06_409",

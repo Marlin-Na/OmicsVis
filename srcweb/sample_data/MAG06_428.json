@@ -22,7 +22,22 @@
       "sscore": "3.22",
       "rscore": "0.00",
       "uscore": "0.00",
-      "tscore": "3.22"
+      "tscore": "3.22",
+      "eggnog": {
+        "X1": "MAG06_491_2",
+        "X2": "266834.SMc03026",
+        "X3": 1.5e-98,
+        "X4": 364,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "020UN@aproNOG,05UX1@bactNOG,11WB0@NOG,17IEB@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": null,
+        "X13": null
+      }
     },
     {
       "seqnames": "MAG06_428",
@@ -46,7 +61,22 @@
       "sscore": "13.87",
       "rscore": "10.54",
       "uscore": "-0.31",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_491_3",
+        "X2": "266834.SMc03027",
+        "X3": 2.5e-63,
+        "X4": 246.5,
+        "X5": "FLGB",
+        "X6": "GO:0005575,GO:0005622,GO:0005623,GO:0006928,GO:0008150,GO:0009288,GO:0009425,GO:0009987,GO:0042995,GO:0043226,GO:0043228,GO:0043229,GO:0043232,GO:0044422,GO:0044424,GO:0044461,GO:0044463,GO:0044464,GO:0044699,GO:0044763",
+        "X7": "K02387",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01ZQX@aproNOG,05SFI@bactNOG,17GN2@proNOG,COG1815@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "N",
+        "X13": "flagellar basal-body rod protein"
+      }
     },
     {
       "seqnames": "MAG06_428",
@@ -70,7 +100,22 @@
       "sscore": "11.86",
       "rscore": "7.63",
       "uscore": "-0.48",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_491_4",
+        "X2": "266834.SMc03028",
+        "X3": 2.8e-68,
+        "X4": 263.1,
+        "X5": "FLGC",
+        "X6": "GO:0001539,GO:0003674,GO:0005198,GO:0005575,GO:0005618,GO:0005622,GO:0005623,GO:0006928,GO:0008150,GO:0009274,GO:0009276,GO:0009288,GO:0009425,GO:0009987,GO:0030312,GO:0030313,GO:0031975,GO:0040011,GO:0042995,GO:0043226,GO:0043228,GO:0043229,GO:0043232,GO:0044422,GO:0044424,GO:0044461,GO:0044463,GO:0044464,GO:0044699,GO:0044763,GO:0048870,GO:0051179,GO:0051674,GO:0071944",
+        "X7": "K02388",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01Y1W@aproNOG,08ZC9@bactNOG,17CP7@proNOG,COG1558@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "N",
+        "X13": "flagellar basal-body rod protein (FlgC)"
+      }
     },
     {
       "seqnames": "MAG06_428",
@@ -94,7 +139,22 @@
       "sscore": "3.22",
       "rscore": "0.00",
       "uscore": "0.00",
-      "tscore": "3.22"
+      "tscore": "3.22",
+      "eggnog": {
+        "X1": "MAG06_491_5",
+        "X2": "266834.SMc03029",
+        "X3": 4.4e-48,
+        "X4": 195.7,
+        "X5": "FLIE",
+        "X6": "GO:0005575,GO:0005622,GO:0005623,GO:0006928,GO:0008150,GO:0009288,GO:0009425,GO:0009987,GO:0042995,GO:0043226,GO:0043228,GO:0043229,GO:0043232,GO:0044422,GO:0044424,GO:0044461,GO:0044463,GO:0044464,GO:0044699,GO:0044763",
+        "X7": "K02408",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "021PQ@aproNOG,05X50@bactNOG,17KMP@proNOG,COG1677@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "N",
+        "X13": "Flagellar hook-basal body complex protein FliE"
+      }
     }
   ],
   "seqname": "MAG06_428",

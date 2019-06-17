@@ -22,7 +22,22 @@
       "sscore": "11.82",
       "rscore": "7.63",
       "uscore": "0.55",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_857_2",
+        "X2": "266834.SMc03998",
+        "X3": 1.2e-42,
+        "X4": 177.2,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01ZZC@aproNOG,05V1V@bactNOG,11ZHQ@NOG,17GC4@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": "K",
+        "X13": "Transcriptional regulator"
+      }
     },
     {
       "seqnames": "MAG06_904",
@@ -46,7 +61,8 @@
       "sscore": "5.71",
       "rscore": "2.03",
       "uscore": "0.69",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {}
     },
     {
       "seqnames": "MAG06_904",
@@ -70,7 +86,22 @@
       "sscore": "13.18",
       "rscore": "7.85",
       "uscore": "1.68",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_857_3",
+        "X2": "266834.SMc03999",
+        "X3": 1.3e-22,
+        "X4": 110.5,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "NOG[107]",
+        "X10": "COG5570@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "Protein of unknown function (DUF465)"
+      }
     },
     {
       "seqnames": "MAG06_904",
@@ -94,7 +125,22 @@
       "sscore": "5.88",
       "rscore": "1.19",
       "uscore": "1.04",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_857_4",
+        "X2": "266834.SMc04000",
+        "X3": 1.4e-28,
+        "X4": 130.2,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "021QS@aproNOG,064DH@bactNOG,17QWA@proNOG,COG5481@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "Protein of unknown function (DUF465)"
+      }
     },
     {
       "seqnames": "MAG06_904",
@@ -118,7 +164,8 @@
       "sscore": "4.78",
       "rscore": "0.21",
       "uscore": "1.57",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {}
     },
     {
       "seqnames": "MAG06_904",
@@ -142,7 +189,22 @@
       "sscore": "16.72",
       "rscore": "13.75",
       "uscore": "-0.68",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_857_5",
+        "X2": "266834.SMc04001",
+        "X3": 6.9e-85,
+        "X4": 318.5,
+        "X5": "PURE",
+        "X6": "GO:0003674,GO:0003824,GO:0004638,GO:0005575,GO:0005622,GO:0005623,GO:0005737,GO:0005829,GO:0006139,GO:0006163,GO:0006164,GO:0006725,GO:0006753,GO:0006793,GO:0006796,GO:0006807,GO:0008150,GO:0008152,GO:0009058,GO:0009117,GO:0009150,GO:0009152,GO:0009165,GO:0009259,GO:0009260,GO:0009987,GO:0016829,GO:0016830,GO:0016831,GO:0016853,GO:0016866,GO:0018130,GO:0019438,GO:0019637,GO:0019693,GO:0034023,GO:0034641,GO:0034654,GO:0040007,GO:0044237,GO:0044238,GO:0044249,GO:0044271,GO:0044281,GO:0044424,GO:0044444,GO:0044464,GO:0044710,GO:0046390,GO:0046483,GO:0055086,GO:0071704,GO:0072521,GO:0072522,GO:0090407,GO:1901135,GO:1901137,GO:1901293,GO:1901360,GO:1901362,GO:1901564,GO:1901566,GO:1901576",
+        "X7": "K01588",
+        "X8": "AIRC1,AIRC3,AIRCr",
+        "X9": "bactNOG[38]",
+        "X10": "01WWD@aproNOG,08UM6@bactNOG,179U6@proNOG,COG0041@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "F",
+        "X13": "Catalyzes the conversion of N5-carboxyaminoimidazole ribonucleotide (N5-CAIR) to 4-carboxy-5-aminoimidazole ribonucleotide (CAIR) (By similarity)"
+      }
     },
     {
       "seqnames": "MAG06_904",
@@ -166,7 +228,22 @@
       "sscore": "19.39",
       "rscore": "13.75",
       "uscore": "1.99",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_857_6",
+        "X2": "266834.SMc04002",
+        "X3": 2.6e-174,
+        "X4": 616.7,
+        "X5": "PURK",
+        "X6": "GO:0000166,GO:0001882,GO:0001883,GO:0003674,GO:0003824,GO:0004638,GO:0005488,GO:0005524,GO:0005575,GO:0005623,GO:0005886,GO:0006139,GO:0006163,GO:0006164,GO:0006725,GO:0006753,GO:0006793,GO:0006796,GO:0006807,GO:0008150,GO:0008152,GO:0009058,GO:0009117,GO:0009150,GO:0009152,GO:0009165,GO:0009259,GO:0009260,GO:0009987,GO:0016020,GO:0016829,GO:0016830,GO:0016831,GO:0016874,GO:0016879,GO:0017076,GO:0018130,GO:0019438,GO:0019637,GO:0019693,GO:0030554,GO:0032549,GO:0032550,GO:0032553,GO:0032555,GO:0032559,GO:0034028,GO:0034641,GO:0034654,GO:0035639,GO:0036094,GO:0043167,GO:0043168,GO:0044237,GO:0044238,GO:0044249,GO:0044271,GO:0044281,GO:0044464,GO:0044710,GO:0046390,GO:0046483,GO:0055086,GO:0071704,GO:0071944,GO:0072521,GO:0072522,GO:0090407,GO:0097159,GO:1901135,GO:1901137,GO:1901265,GO:1901293,GO:1901360,GO:1901362,GO:1901363,GO:1901564,GO:1901566,GO:1901576",
+        "X7": "K01589",
+        "X8": "AIRC1,AIRC2,AIRCr",
+        "X9": "bactNOG[38]",
+        "X10": "01Q94@aproNOG,05CY8@bactNOG,16QET@proNOG,COG0026@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "F",
+        "X13": "Phosphoribosylaminoimidazole carboxylase ATPase subunit"
+      }
     },
     {
       "seqnames": "MAG06_904",
@@ -190,7 +267,22 @@
       "sscore": "18.48",
       "rscore": "13.75",
       "uscore": "1.08",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_858_1",
+        "X2": "266834.SMc02022",
+        "X3": 1.3e-106,
+        "X4": 391,
+        "X5": null,
+        "X6": null,
+        "X7": "K02529",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01YHJ@aproNOG,08ZBD@bactNOG,0XTAD@NOG,17CFY@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": "K",
+        "X13": "Transcriptional regulator"
+      }
     },
     {
       "seqnames": "MAG06_904",
@@ -214,7 +306,22 @@
       "sscore": "3.22",
       "rscore": "0.00",
       "uscore": "0.00",
-      "tscore": "3.22"
+      "tscore": "3.22",
+      "eggnog": {
+        "X1": "MAG06_858_2",
+        "X2": "1051075.PDI_1160",
+        "X3": 8.9e-27,
+        "X4": 124.4,
+        "X5": "AVI_0689",
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "022HQ@aproNOG,05WZ5@bactNOG,1243Y@NOG,17KZ3@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "Inherit from proNOG: ISPpu13, transposase Orf3"
+      }
     }
   ],
   "seqname": "MAG06_904",

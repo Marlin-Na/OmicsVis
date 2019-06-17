@@ -22,7 +22,22 @@
       "sscore": "10.27",
       "rscore": "9.04",
       "uscore": "-1.32",
-      "tscore": "3.20"
+      "tscore": "3.20",
+      "eggnog": {
+        "X1": "MAG06_69_5",
+        "X2": "266834.SMc02416",
+        "X3": 5.7e-289,
+        "X4": 998,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "02DII@aproNOG,07T4U@bactNOG,16TAC@proNOG,COG0402@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "F",
+        "X13": "N-ethylammeline chlorohydrolase"
+      }
     },
     {
       "seqnames": "MAG06_687",
@@ -46,7 +61,8 @@
       "sscore": "-5.20",
       "rscore": "3.32",
       "uscore": "-1.38",
-      "tscore": "-7.14"
+      "tscore": "-7.14",
+      "eggnog": {}
     },
     {
       "seqnames": "MAG06_687",
@@ -70,7 +86,22 @@
       "sscore": "0.02",
       "rscore": "-3.03",
       "uscore": "0.50",
-      "tscore": "3.20"
+      "tscore": "3.20",
+      "eggnog": {
+        "X1": "MAG06_69_6",
+        "X2": "266834.SMc02415",
+        "X3": 3.4e-303,
+        "X4": 1045.4,
+        "X5": null,
+        "X6": null,
+        "X7": "K02035",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01QHB@aproNOG,05DEF@bactNOG,16QR5@proNOG,COG0747@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "E",
+        "X13": "extracellular solute-binding protein"
+      }
     },
     {
       "seqnames": "MAG06_687",
@@ -94,7 +125,22 @@
       "sscore": "16.13",
       "rscore": "9.04",
       "uscore": "3.89",
-      "tscore": "3.20"
+      "tscore": "3.20",
+      "eggnog": {
+        "X1": "MAG06_69_7",
+        "X2": "266834.SMc02414",
+        "X3": 1.4e-287,
+        "X4": 993.4,
+        "X5": null,
+        "X6": null,
+        "X7": "K12960",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01VA1@aproNOG,07VNN@bactNOG,16VM1@proNOG,COG0402@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "F",
+        "X13": "Amidohydrolase family"
+      }
     }
   ],
   "seqname": "MAG06_687",

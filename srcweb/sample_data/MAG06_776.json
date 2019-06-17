@@ -22,7 +22,8 @@
       "sscore": "23.17",
       "rscore": "16.52",
       "uscore": "0.73",
-      "tscore": "4.85"
+      "tscore": "4.85",
+      "eggnog": {}
     },
     {
       "seqnames": "MAG06_776",
@@ -46,7 +47,22 @@
       "sscore": "20.20",
       "rscore": "16.52",
       "uscore": "-2.40",
-      "tscore": "4.85"
+      "tscore": "4.85",
+      "eggnog": {
+        "X1": "MAG06_755_2",
+        "X2": "266834.SMc02360",
+        "X3": 5.5e-174,
+        "X4": 615.5,
+        "X5": null,
+        "X6": null,
+        "X7": "K01998",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01YV4@aproNOG,07WC2@bactNOG,17EYT@proNOG,COG4177@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "E",
+        "X13": "Branched-chain amino acid ABC transporter (Permease protein)"
+      }
     },
     {
       "seqnames": "MAG06_776",
@@ -70,7 +86,22 @@
       "sscore": "3.22",
       "rscore": "0.00",
       "uscore": "0.00",
-      "tscore": "3.22"
+      "tscore": "3.22",
+      "eggnog": {
+        "X1": "MAG06_755_3",
+        "X2": "266834.SMc02359",
+        "X3": 9.9e-148,
+        "X4": 528.1,
+        "X5": "LIVH",
+        "X6": null,
+        "X7": "K01997,K01998",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01RIW@aproNOG,05C32@bactNOG,16PET@proNOG,COG0559@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "E",
+        "X13": "Amino acid ABC transporter (Permease)"
+      }
     }
   ],
   "seqname": "MAG06_776",

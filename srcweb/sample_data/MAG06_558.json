@@ -22,7 +22,8 @@
       "sscore": "15.04",
       "rscore": "13.75",
       "uscore": "-1.70",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {}
     },
     {
       "seqnames": "MAG06_558",
@@ -46,7 +47,22 @@
       "sscore": "-9.76",
       "rscore": "-4.72",
       "uscore": "0.48",
-      "tscore": "-4.87"
+      "tscore": "-4.87",
+      "eggnog": {
+        "X1": "MAG06_597_2",
+        "X2": "266835.mll7814",
+        "X3": 4.5e-30,
+        "X4": 135.6,
+        "X5": null,
+        "X6": null,
+        "X7": "K00355",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01T5Q@aproNOG,05DYS@bactNOG,16S64@proNOG,COG2249@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "NADPH dehydrogenase quinone"
+      }
     },
     {
       "seqnames": "MAG06_558",
@@ -70,7 +86,22 @@
       "sscore": "17.23",
       "rscore": "13.75",
       "uscore": "-0.17",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_598_1",
+        "X2": "266834.SMc01237",
+        "X3": 0,
+        "X4": 1882.8,
+        "X5": "NRDJ",
+        "X6": "GO:0006139,GO:0006725,GO:0006753,GO:0006793,GO:0006796,GO:0006807,GO:0008150,GO:0008152,GO:0009058,GO:0009117,GO:0009165,GO:0009262,GO:0009263,GO:0009987,GO:0018130,GO:0019438,GO:0019637,GO:0034641,GO:0034654,GO:0044237,GO:0044238,GO:0044249,GO:0044271,GO:0044281,GO:0044710,GO:0046483,GO:0055086,GO:0071704,GO:0090407,GO:1901135,GO:1901137,GO:1901293,GO:1901360,GO:1901362,GO:1901576",
+        "X7": "K00525",
+        "X8": "RNDR1,RNDR2,RNDR3,RNDR4",
+        "X9": "bactNOG[38]",
+        "X10": "01RTI@aproNOG,07RTZ@bactNOG,16UID@proNOG,COG0209@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "F",
+        "X13": "reductase"
+      }
     },
     {
       "seqnames": "MAG06_558",
@@ -94,7 +125,22 @@
       "sscore": "6.62",
       "rscore": "5.19",
       "uscore": "-2.22",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_598_2",
+        "X2": "266834.SMc01238",
+        "X3": 2.2e-52,
+        "X4": 209.9,
+        "X5": "GST5",
+        "X6": null,
+        "X7": "K00799",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01X9N@aproNOG,06634@bactNOG,17MUI@proNOG,COG0625@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "O",
+        "X13": "Glutathione S-Transferase"
+      }
     }
   ],
   "seqname": "MAG06_558",

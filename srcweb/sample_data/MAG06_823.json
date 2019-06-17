@@ -22,7 +22,22 @@
       "sscore": "3.22",
       "rscore": "0.00",
       "uscore": "0.00",
-      "tscore": "3.22"
+      "tscore": "3.22",
+      "eggnog": {
+        "X1": "MAG06_791_2",
+        "X2": "266834.SMc01267",
+        "X3": 3.8e-216,
+        "X4": 755.7,
+        "X5": "PRKA",
+        "X6": "GO:0003674,GO:0003824,GO:0004672,GO:0006464,GO:0006468,GO:0006793,GO:0006796,GO:0008150,GO:0008152,GO:0009987,GO:0016301,GO:0016310,GO:0016740,GO:0016772,GO:0016773,GO:0019538,GO:0036211,GO:0043170,GO:0043412,GO:0044237,GO:0044238,GO:0044260,GO:0044267,GO:0071704",
+        "X7": "K07180",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01S4B@aproNOG,05CYN@bactNOG,16QF9@proNOG,COG2766@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "T",
+        "X13": "Serine protein kinase"
+      }
     },
     {
       "seqnames": "MAG06_823",
@@ -46,7 +61,22 @@
       "sscore": "8.35",
       "rscore": "3.33",
       "uscore": "0.12",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_791_3",
+        "X2": "266834.SMc01268",
+        "X3": 9.7e-144,
+        "X4": 514.6,
+        "X5": "LIPB",
+        "X6": "GO:0003674,GO:0003824,GO:0005575,GO:0005622,GO:0005623,GO:0005737,GO:0005886,GO:0006082,GO:0006464,GO:0006629,GO:0006631,GO:0006633,GO:0006732,GO:0006790,GO:0008150,GO:0008152,GO:0008610,GO:0009058,GO:0009106,GO:0009107,GO:0009108,GO:0009892,GO:0009987,GO:0010468,GO:0010605,GO:0010629,GO:0016020,GO:0016053,GO:0016740,GO:0016746,GO:0016747,GO:0017118,GO:0018130,GO:0019222,GO:0019538,GO:0019752,GO:0032787,GO:0033819,GO:0036211,GO:0040007,GO:0043170,GO:0043412,GO:0043436,GO:0044237,GO:0044238,GO:0044249,GO:0044255,GO:0044260,GO:0044267,GO:0044272,GO:0044281,GO:0044283,GO:0044424,GO:0044464,GO:0044710,GO:0044711,GO:0046394,GO:0046483,GO:0048519,GO:0050789,GO:0051186,GO:0051188,GO:0060255,GO:0065007,GO:0071704,GO:0071944,GO:0072330,GO:1901360,GO:1901362,GO:1901576",
+        "X7": "K03801",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01RHZ@aproNOG,08BDP@bactNOG,16RT1@proNOG,COG0321@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "H",
+        "X13": "Catalyzes the transfer of endogenously produced octanoic acid from octanoyl-acyl-carrier-protein onto the lipoyl domains of lipoate-dependent enzymes. Lipoyl-ACP can also act as a substrate although octanoyl-ACP is likely to be the physiological substrate (By similarity)"
+      }
     },
     {
       "seqnames": "MAG06_823",
@@ -70,7 +100,22 @@
       "sscore": "12.30",
       "rscore": "10.54",
       "uscore": "-1.89",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_791_4",
+        "X2": "266834.SMc01269",
+        "X3": 1.7e-67,
+        "X4": 260.4,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01ZR0@aproNOG,05P2I@bactNOG,11U5M@NOG,17FQF@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": "K",
+        "X13": "transcriptional regulator, XRE family"
+      }
     },
     {
       "seqnames": "MAG06_823",
@@ -94,7 +139,22 @@
       "sscore": "5.41",
       "rscore": "2.03",
       "uscore": "-0.26",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_791_5",
+        "X2": "266834.SMc01270",
+        "X3": 5.7e-10,
+        "X4": 67.4,
+        "X5": "ADHC",
+        "X6": "GO:0005575,GO:0005622,GO:0005623,GO:0005737,GO:0044424,GO:0044464",
+        "X7": "K00121",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01QX2@aproNOG,07QPD@bactNOG,16PKU@proNOG,COG1062@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "C",
+        "X13": "alcohol dehydrogenase"
+      }
     },
     {
       "seqnames": "MAG06_823",
@@ -118,7 +178,22 @@
       "sscore": "6.70",
       "rscore": "2.03",
       "uscore": "1.03",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_792_1",
+        "X2": "641118.OINT_2000226",
+        "X3": 6.9e-08,
+        "X4": 60.5,
+        "X5": "RAFR",
+        "X6": null,
+        "X7": "K02529",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01Q8Z@aproNOG,05FKQ@bactNOG,16R8K@proNOG,COG1609@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "K",
+        "X13": "Transcriptional regulator"
+      }
     },
     {
       "seqnames": "MAG06_823",
@@ -142,7 +217,22 @@
       "sscore": "12.10",
       "rscore": "7.85",
       "uscore": "0.60",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_792_2",
+        "X2": "1050720.Agau_L300439",
+        "X3": 1.3e-193,
+        "X4": 681,
+        "X5": "PALE",
+        "X6": null,
+        "X7": "K02027,K10236",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01T7B@aproNOG,06NFR@bactNOG,16SS6@proNOG,COG1653@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "G",
+        "X13": "extracellular solute-binding protein"
+      }
     },
     {
       "seqnames": "MAG06_823",
@@ -166,7 +256,22 @@
       "sscore": "4.26",
       "rscore": "-0.37",
       "uscore": "0.98",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_792_3",
+        "X2": "641118.OINT_2000228",
+        "X3": 1.3e-148,
+        "X4": 531.2,
+        "X5": "PALF",
+        "X6": "GO:0005575,GO:0016020",
+        "X7": "K02025,K10237",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01T6A@aproNOG,05HS6@bactNOG,16S4H@proNOG,COG1175@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "P",
+        "X13": "Binding-protein-dependent transport systems inner membrane component"
+      }
     }
   ],
   "seqname": "MAG06_823",

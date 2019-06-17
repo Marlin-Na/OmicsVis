@@ -22,7 +22,22 @@
       "sscore": "14.01",
       "rscore": "7.63",
       "uscore": "2.74",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_404_11",
+        "X2": "266834.SMc02378",
+        "X3": 7.6e-64,
+        "X4": 248.1,
+        "X5": "HISX",
+        "X6": null,
+        "X7": "K02002",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01UW8@aproNOG,05TIB@bactNOG,16SZ5@proNOG,COG2113@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "E",
+        "X13": "Glycine betaine"
+      }
     },
     {
       "seqnames": "MAG06_316",
@@ -46,7 +61,22 @@
       "sscore": "14.58",
       "rscore": "10.54",
       "uscore": "-0.86",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_404_2",
+        "X2": "266834.SMc02387",
+        "X3": 2.5e-53,
+        "X4": 213,
+        "X5": "YNFA",
+        "X6": "GO:0005575,GO:0005576,GO:0005623,GO:0005886,GO:0005887,GO:0016020,GO:0016021,GO:0031224,GO:0031226,GO:0044425,GO:0044459,GO:0044464,GO:0071944",
+        "X7": "K09771",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01ZN7@aproNOG,05KK4@bactNOG,17FGU@proNOG,COG1742@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "UPF0060 membrane protein"
+      }
     },
     {
       "seqnames": "MAG06_316",
@@ -70,7 +100,8 @@
       "sscore": "-3.56",
       "rscore": "2.03",
       "uscore": "-0.72",
-      "tscore": "-4.87"
+      "tscore": "-4.87",
+      "eggnog": {}
     },
     {
       "seqnames": "MAG06_316",
@@ -94,7 +125,22 @@
       "sscore": "10.15",
       "rscore": "5.51",
       "uscore": "0.99",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_103_3",
+        "X2": "266834.SMc03830",
+        "X3": 1.2e-66,
+        "X4": 257.7,
+        "X5": "BMUL_0472",
+        "X6": null,
+        "X7": "K01989,K05832",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01U7X@aproNOG,05DAZ@bactNOG,16QF5@proNOG,COG2984@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "ABC transporter"
+      }
     },
     {
       "seqnames": "MAG06_316",
@@ -118,7 +164,22 @@
       "sscore": "4.44",
       "rscore": "2.03",
       "uscore": "-1.23",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_1030_1",
+        "X2": "311402.Avi_5924",
+        "X3": 3.9e-22,
+        "X4": 109,
+        "X5": "EXOP",
+        "X6": "GO:0000271,GO:0005975,GO:0005976,GO:0008150,GO:0008152,GO:0009058,GO:0009059,GO:0016051,GO:0043170,GO:0044238,GO:0044723,GO:0071704,GO:1901576",
+        "X7": "K16554",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01RXZ@aproNOG,05D75@bactNOG,16RAV@proNOG,COG0489@NOG,COG3206@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "M",
+        "X13": "Exopolysaccharide"
+      }
     },
     {
       "seqnames": "MAG06_316",
@@ -142,7 +203,22 @@
       "sscore": "17.31",
       "rscore": "13.75",
       "uscore": "0.56",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_1030_2",
+        "X2": "1050720.Agau_L300516",
+        "X3": 1.8e-84,
+        "X4": 317.8,
+        "X5": "THID",
+        "X6": "GO:0003674,GO:0003824,GO:0006725,GO:0006766,GO:0006767,GO:0006772,GO:0006790,GO:0006793,GO:0006796,GO:0006807,GO:0008150,GO:0008152,GO:0008972,GO:0009058,GO:0009110,GO:0009228,GO:0009987,GO:0016301,GO:0016310,GO:0016740,GO:0016772,GO:0016776,GO:0018130,GO:0019438,GO:0034641,GO:0042364,GO:0042723,GO:0042724,GO:0044237,GO:0044249,GO:0044271,GO:0044272,GO:0044281,GO:0044283,GO:0044710,GO:0044711,GO:0046483,GO:0071704,GO:0072527,GO:0072528,GO:1901360,GO:1901362,GO:1901564,GO:1901566,GO:1901576",
+        "X7": "K00941",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01QKK@aproNOG,05DWF@bactNOG,16RGN@proNOG,COG0351@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "H",
+        "X13": "Phosphomethylpyrimidine kinase"
+      }
     },
     {
       "seqnames": "MAG06_316",
@@ -166,7 +242,22 @@
       "sscore": "8.43",
       "rscore": "5.19",
       "uscore": "-0.40",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_1030_3",
+        "X2": "216596.RL2003",
+        "X3": 4.8e-115,
+        "X4": 419.1,
+        "X5": null,
+        "X6": "GO:0003674,GO:0006950,GO:0006979,GO:0008150,GO:0016209,GO:0050896",
+        "X7": "K03386",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01SC2@aproNOG,05D3R@bactNOG,16RND@proNOG,COG0450@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "O",
+        "X13": "alkyl hydroperoxide reductase"
+      }
     },
     {
       "seqnames": "MAG06_316",
@@ -190,7 +281,22 @@
       "sscore": "10.95",
       "rscore": "7.63",
       "uscore": "0.34",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_1030_4",
+        "X2": "216596.RL4154",
+        "X3": 3.7e-143,
+        "X4": 513.1,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01UIG@aproNOG,05J41@bactNOG,16RB8@proNOG,COG1680@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "V",
+        "X13": "beta-lactamase"
+      }
     },
     {
       "seqnames": "MAG06_316",
@@ -214,7 +320,22 @@
       "sscore": "1.39",
       "rscore": "7.63",
       "uscore": "-1.37",
-      "tscore": "-4.87"
+      "tscore": "-4.87",
+      "eggnog": {
+        "X1": "MAG06_404_3",
+        "X2": "266834.SMc02386",
+        "X3": 7.4e-297,
+        "X4": 1024.2,
+        "X5": "AMN",
+        "X6": "GO:0003674,GO:0003824,GO:0003887,GO:0006139,GO:0006163,GO:0006725,GO:0006753,GO:0006793,GO:0006796,GO:0006807,GO:0008150,GO:0008152,GO:0008714,GO:0009117,GO:0009987,GO:0016740,GO:0016772,GO:0016779,GO:0016787,GO:0016798,GO:0016799,GO:0019637,GO:0034061,GO:0034641,GO:0044237,GO:0044238,GO:0044281,GO:0044710,GO:0046483,GO:0055086,GO:0071704,GO:0072521,GO:1901360,GO:1901564",
+        "X7": "K01241",
+        "X8": "AMPN",
+        "X9": "bactNOG[38]",
+        "X10": "01R42@aproNOG,05FYV@bactNOG,16RJC@proNOG,COG0775@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "F",
+        "X13": "Amp nucleosidase"
+      }
     }
   ],
   "seqname": "MAG06_316",

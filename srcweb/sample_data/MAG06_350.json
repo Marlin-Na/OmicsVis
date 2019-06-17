@@ -22,7 +22,22 @@
       "sscore": "12.05",
       "rscore": "9.04",
       "uscore": "0.46",
-      "tscore": "3.20"
+      "tscore": "3.20",
+      "eggnog": {
+        "X1": "MAG06_437_7",
+        "X2": "266834.SMc01921",
+        "X3": 5e-191,
+        "X4": 672.2,
+        "X5": "NUOH",
+        "X6": "GO:0003674,GO:0003824,GO:0003954,GO:0005575,GO:0005622,GO:0005623,GO:0005737,GO:0005886,GO:0008150,GO:0008152,GO:0009579,GO:0016020,GO:0016491,GO:0016651,GO:0016655,GO:0034357,GO:0042716,GO:0042717,GO:0044424,GO:0044436,GO:0044444,GO:0044464,GO:0044710,GO:0050136,GO:0055114,GO:0071944",
+        "X7": "K00337",
+        "X8": "NADH10,NADH2r,NADH5,NADH9",
+        "X9": "bactNOG[38]",
+        "X10": "01SC4@aproNOG,05CMZ@bactNOG,16PHN@proNOG,COG1005@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "C",
+        "X13": "NDH-1 shuttles electrons from NADH, via FMN and iron- sulfur (Fe-S) centers, to quinones in the respiratory chain. The immediate electron acceptor for the enzyme in this species is believed to be ubiquinone. Couples the redox reaction to proton translocation (for every two electrons transferred, four hydrogen ions are translocated across the cytoplasmic membrane), and thus conserves the redox energy in a proton gradient. This subunit may bind ubiquinone (By similarity)"
+      }
     },
     {
       "seqnames": "MAG06_350",
@@ -46,7 +61,22 @@
       "sscore": "16.07",
       "rscore": "11.01",
       "uscore": "1.85",
-      "tscore": "3.20"
+      "tscore": "3.20",
+      "eggnog": {
+        "X1": "MAG06_437_8",
+        "X2": "266834.SMc01922",
+        "X3": 1.1e-92,
+        "X4": 344.4,
+        "X5": "NUOI",
+        "X6": "GO:0003674,GO:0003824,GO:0003954,GO:0005575,GO:0005623,GO:0005886,GO:0008150,GO:0008152,GO:0016020,GO:0016491,GO:0016651,GO:0016655,GO:0044464,GO:0044710,GO:0050136,GO:0055114,GO:0071944",
+        "X7": "K00338,K03941",
+        "X8": "NDH_1",
+        "X9": "bactNOG[38]",
+        "X10": "01QDU@aproNOG,05P3U@bactNOG,16SPN@proNOG,COG1143@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "C",
+        "X13": "NDH-1 shuttles electrons from NADH, via FMN and iron- sulfur (Fe-S) centers, to quinones in the respiratory chain. The immediate electron acceptor for the enzyme in this species is believed to be ubiquinone. Couples the redox reaction to proton translocation (for every two electrons transferred, four hydrogen ions are translocated across the cytoplasmic membrane), and thus conserves the redox energy in a proton gradient (By similarity)"
+      }
     },
     {
       "seqnames": "MAG06_350",
@@ -70,7 +100,22 @@
       "sscore": "14.50",
       "rscore": "12.94",
       "uscore": "-2.41",
-      "tscore": "3.20"
+      "tscore": "3.20",
+      "eggnog": {
+        "X1": "MAG06_437_9",
+        "X2": "266834.SMc01923",
+        "X3": 5.5e-97,
+        "X4": 359,
+        "X5": "NUOJ",
+        "X6": "GO:0003674,GO:0003824,GO:0003954,GO:0005575,GO:0005622,GO:0005623,GO:0005737,GO:0005886,GO:0008150,GO:0008152,GO:0009579,GO:0016020,GO:0016491,GO:0016651,GO:0016655,GO:0034357,GO:0042716,GO:0042717,GO:0044424,GO:0044436,GO:0044444,GO:0044464,GO:0044710,GO:0050136,GO:0055114,GO:0071944",
+        "X7": "K00339",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01TRE@aproNOG,05DF2@bactNOG,1740R@proNOG,COG0839@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "C",
+        "X13": "NADH dehydrogenase subunit J"
+      }
     }
   ],
   "seqname": "MAG06_350",

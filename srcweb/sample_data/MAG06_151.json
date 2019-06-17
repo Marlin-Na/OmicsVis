@@ -22,7 +22,22 @@
       "sscore": "-0.12",
       "rscore": "0.72",
       "uscore": "-4.73",
-      "tscore": "4.54"
+      "tscore": "4.54",
+      "eggnog": {
+        "X1": "MAG06_268_2",
+        "X2": "266834.SMc01193",
+        "X3": 6.2e-146,
+        "X4": 521.9,
+        "X5": "YCFH",
+        "X6": null,
+        "X7": "K03424",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01R9X@aproNOG,05F8V@bactNOG,16Q01@proNOG,COG0084@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "L",
+        "X13": "hydrolase TatD family"
+      }
     },
     {
       "seqnames": "MAG06_151",
@@ -46,7 +61,22 @@
       "sscore": "4.26",
       "rscore": "0.72",
       "uscore": "-1.00",
-      "tscore": "4.54"
+      "tscore": "4.54",
+      "eggnog": {
+        "X1": "MAG06_268_3",
+        "X2": "266834.SMc01194",
+        "X3": 2.6e-166,
+        "X4": 589.7,
+        "X5": "PHNP",
+        "X6": null,
+        "X7": "K06167",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01RI3@aproNOG,05DNY@bactNOG,16R88@proNOG,COG1235@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "Beta-lactamase domain protein"
+      }
     }
   ],
   "seqname": "MAG06_151",

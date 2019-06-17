@@ -22,7 +22,22 @@
       "sscore": "5.99",
       "rscore": "2.03",
       "uscore": "0.31",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_538_3",
+        "X2": "266834.SMc00078",
+        "X3": 1.9e-111,
+        "X4": 407.1,
+        "X5": "BRAC",
+        "X6": null,
+        "X7": "K01999,K11959",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01UQJ@aproNOG,05CP9@bactNOG,16QV0@proNOG,COG0683@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "E",
+        "X13": "ABC transporter"
+      }
     },
     {
       "seqnames": "MAG06_486",
@@ -46,7 +61,22 @@
       "sscore": "3.22",
       "rscore": "0.00",
       "uscore": "0.00",
-      "tscore": "3.22"
+      "tscore": "3.22",
+      "eggnog": {
+        "X1": "MAG06_539_1",
+        "X2": "311402.Avi_5917",
+        "X3": 8.6e-32,
+        "X4": 141,
+        "X5": "THIC",
+        "X6": "GO:0003674,GO:0003824,GO:0005575,GO:0005622,GO:0005623,GO:0005737,GO:0005829,GO:0005886,GO:0006725,GO:0006766,GO:0006767,GO:0006772,GO:0006790,GO:0006807,GO:0008150,GO:0008152,GO:0009058,GO:0009110,GO:0009228,GO:0009987,GO:0016020,GO:0018130,GO:0019438,GO:0034641,GO:0040007,GO:0042364,GO:0042723,GO:0042724,GO:0044237,GO:0044249,GO:0044271,GO:0044272,GO:0044281,GO:0044283,GO:0044424,GO:0044444,GO:0044464,GO:0044710,GO:0044711,GO:0046483,GO:0071704,GO:0071944,GO:0072527,GO:0072528,GO:1901360,GO:1901362,GO:1901564,GO:1901566,GO:1901576",
+        "X7": "K03147",
+        "X8": "5HBZIDS2,AHMMPS,AHMMPS_1,AMPMS,AMPMS2",
+        "X9": "bactNOG[38]",
+        "X10": "01SIR@aproNOG,05CBF@bactNOG,16Q2G@proNOG,COG0422@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "H",
+        "X13": "Catalyzes the synthesis of the hydroxymethylpyrimidine phosphate (HMP-P) moiety of thiamine from aminoimidazole ribotide (AIR) in a radical S-adenosyl-L-methionine (SAM)-dependent reaction (By similarity)"
+      }
     }
   ],
   "seqname": "MAG06_486",

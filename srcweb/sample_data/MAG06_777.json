@@ -22,7 +22,22 @@
       "sscore": "13.09",
       "rscore": "12.94",
       "uscore": "-2.40",
-      "tscore": "3.20"
+      "tscore": "3.20",
+      "eggnog": {
+        "X1": "MAG06_755_4",
+        "X2": "266834.SMc02358",
+        "X3": 7.2e-117,
+        "X4": 425.2,
+        "X5": null,
+        "X6": null,
+        "X7": "K01996",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "02EB3@aproNOG,08IV0@bactNOG,172ZQ@proNOG,COG0410@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "E",
+        "X13": "ABC transporter"
+      }
     },
     {
       "seqnames": "MAG06_777",
@@ -46,7 +61,22 @@
       "sscore": "14.03",
       "rscore": "8.26",
       "uscore": "2.58",
-      "tscore": "3.20"
+      "tscore": "3.20",
+      "eggnog": {
+        "X1": "MAG06_755_5",
+        "X2": "266834.SMc02357",
+        "X3": 8.8e-126,
+        "X4": 454.9,
+        "X5": null,
+        "X6": null,
+        "X7": "K01995",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01QD5@aproNOG,05CAI@bactNOG,16PP8@proNOG,COG0411@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "E",
+        "X13": "branched-chain amino acid ABC transporter (ATP-binding protein)"
+      }
     },
     {
       "seqnames": "MAG06_777",
@@ -70,7 +100,22 @@
       "sscore": "4.35",
       "rscore": "2.74",
       "uscore": "-0.93",
-      "tscore": "3.20"
+      "tscore": "3.20",
+      "eggnog": {
+        "X1": "MAG06_755_6",
+        "X2": "266834.SMc02356",
+        "X3": 1.9e-223,
+        "X4": 780,
+        "X5": null,
+        "X6": null,
+        "X7": "K01999",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "020VA@aproNOG,07Z7R@bactNOG,17GNJ@proNOG,COG0683@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "E",
+        "X13": "amino acid ABC transporter, periplasmic"
+      }
     },
     {
       "seqnames": "MAG06_777",
@@ -94,7 +139,22 @@
       "sscore": "-1.69",
       "rscore": "-4.56",
       "uscore": "-1.56",
-      "tscore": "3.20"
+      "tscore": "3.20",
+      "eggnog": {
+        "X1": "MAG06_755_7",
+        "X2": "266834.SMc02355",
+        "X3": 2.9e-120,
+        "X4": 436.4,
+        "X5": "RUTB",
+        "X6": null,
+        "X7": "K09020",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01THX@aproNOG,06XMA@bactNOG,16Y01@proNOG,COG1335@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "F",
+        "X13": "In vivo, quickly hydrolyzes the ureidoacrylate peracid to avoid toxicity, but can also hydrolyzes ureidoacrylate that is formed spontaneously from ureidoacrylate peracid. One of the products of hydrolysis, carbamate, hydrolyzes spontaneously, thereby releasing one of the pyrimidine rings nitrogen atoms as ammonia and one of its carbons as CO2 (By similarity)"
+      }
     },
     {
       "seqnames": "MAG06_777",
@@ -118,7 +178,22 @@
       "sscore": "4.79",
       "rscore": "2.74",
       "uscore": "-0.50",
-      "tscore": "3.20"
+      "tscore": "3.20",
+      "eggnog": {
+        "X1": "MAG06_755_8",
+        "X2": "266834.SMc02354",
+        "X3": 1.4e-151,
+        "X4": 540.8,
+        "X5": "OCAR_5139",
+        "X6": null,
+        "X7": "K01458",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01W87@aproNOG,05EIA@bactNOG,16Q2W@proNOG,COG3931@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "E",
+        "X13": "N-formylglutamate amidohydrolase"
+      }
     },
     {
       "seqnames": "MAG06_777",
@@ -142,7 +217,22 @@
       "sscore": "3.22",
       "rscore": "0.00",
       "uscore": "0.00",
-      "tscore": "3.22"
+      "tscore": "3.22",
+      "eggnog": {
+        "X1": "MAG06_755_9",
+        "X2": "266834.SMc02353",
+        "X3": 5e-163,
+        "X4": 578.9,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01T2D@aproNOG,05CPZ@bactNOG,173PE@proNOG,COG1737@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "K",
+        "X13": "Transcriptional regulator, rpir family"
+      }
     }
   ],
   "seqname": "MAG06_777",

@@ -22,7 +22,22 @@
       "sscore": "6.29",
       "rscore": "2.03",
       "uscore": "0.62",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_373_4",
+        "X2": "216596.RL2376",
+        "X3": 4.1e-147,
+        "X4": 526.2,
+        "X5": "YTFQ",
+        "X6": "GO:0003674,GO:0005488,GO:0005534,GO:0005575,GO:0005623,GO:0006810,GO:0008150,GO:0008643,GO:0008645,GO:0015749,GO:0015757,GO:0030246,GO:0042597,GO:0044464,GO:0044699,GO:0044765,GO:0048029,GO:0051179,GO:0051234,GO:0071702",
+        "X7": "K02058,K10439,K17208",
+        "X8": "GALabcpp,RIBabc,RIBabcpp",
+        "X9": "bactNOG[38]",
+        "X10": "01RKY@aproNOG,07R5U@bactNOG,0XPC7@NOG,16QFA@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": "G",
+        "X13": "ABC transporter"
+      }
     },
     {
       "seqnames": "MAG06_267",
@@ -46,7 +61,22 @@
       "sscore": "3.22",
       "rscore": "0.00",
       "uscore": "0.00",
-      "tscore": "3.22"
+      "tscore": "3.22",
+      "eggnog": {
+        "X1": "MAG06_373_5",
+        "X2": "176299.Atu4147",
+        "X3": 5.3e-124,
+        "X4": 449.5,
+        "X5": "GSHB",
+        "X6": null,
+        "X7": "K01920",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "05D7Z@bactNOG,17D1K@proNOG,COG0189@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "H",
+        "X13": "glutathione synthase"
+      }
     }
   ],
   "seqname": "MAG06_267",

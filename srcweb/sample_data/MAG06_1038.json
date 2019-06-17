@@ -22,7 +22,22 @@
       "sscore": "3.93",
       "rscore": "2.03",
       "uscore": "-2.97",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_949_2",
+        "X2": "536019.Mesop_4055",
+        "X3": 3.3e-50,
+        "X4": 203.8,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "022EW@aproNOG,08ZWI@bactNOG,103AX@NOG,17KMU@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": "K",
+        "X13": "Transcriptional regulator"
+      }
     },
     {
       "seqnames": "MAG06_1038",
@@ -46,7 +61,22 @@
       "sscore": "18.15",
       "rscore": "10.54",
       "uscore": "2.67",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_949_3",
+        "X2": "311403.Arad_9962",
+        "X3": 4.2e-113,
+        "X4": 412.9,
+        "X5": null,
+        "X6": null,
+        "X7": "K02529",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01SKX@aproNOG,05ETE@bactNOG,16PW5@proNOG,COG1609@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "K",
+        "X13": "Transcriptional regulator"
+      }
     },
     {
       "seqnames": "MAG06_1038",
@@ -70,7 +100,22 @@
       "sscore": "3.22",
       "rscore": "0.00",
       "uscore": "0.00",
-      "tscore": "3.22"
+      "tscore": "3.22",
+      "eggnog": {
+        "X1": "MAG06_95_1",
+        "X2": "266834.SMc03852",
+        "X3": 1.3e-106,
+        "X4": 391,
+        "X5": null,
+        "X6": "GO:0005575,GO:0005623,GO:0005886,GO:0016020,GO:0044464,GO:0071944",
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01X2T@aproNOG,08VRQ@bactNOG,11JNG@NOG,17A5W@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "UPF0314 protein"
+      }
     }
   ],
   "seqname": "MAG06_1038",

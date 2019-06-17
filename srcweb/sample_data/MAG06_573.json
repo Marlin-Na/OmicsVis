@@ -22,7 +22,22 @@
       "sscore": "11.33",
       "rscore": "7.63",
       "uscore": "0.06",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_604_3",
+        "X2": "266834.SMc03001",
+        "X3": 2.5e-23,
+        "X4": 112.5,
+        "X5": "RHAQ",
+        "X6": null,
+        "X7": "K10440,K10557,K10561",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01S49@aproNOG,05F5R@bactNOG,0XS1A@NOG,173RC@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": "G",
+        "X13": "ABC transporter"
+      }
     },
     {
       "seqnames": "MAG06_573",
@@ -46,7 +61,22 @@
       "sscore": "8.06",
       "rscore": "5.51",
       "uscore": "-0.44",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_605_1",
+        "X2": "266779.Meso_0321",
+        "X3": 3.3e-27,
+        "X4": 125.9,
+        "X5": "MINE",
+        "X6": "GO:0000910,GO:0007049,GO:0008150,GO:0009987,GO:0010564,GO:0022402,GO:0032465,GO:0032954,GO:0032955,GO:0044087,GO:0044699,GO:0044763,GO:0050789,GO:0050794,GO:0051128,GO:0051301,GO:0051302,GO:0051726,GO:0065007,GO:1901891",
+        "X7": "K03608",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "021KZ@aproNOG,05VJP@bactNOG,16X5A@proNOG,COG0851@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "D",
+        "X13": "Prevents the cell division inhibition by proteins MinC and MinD at internal division sites while permitting inhibition at polar sites. This ensures cell division at the proper site by restricting the formation of a division septum at the midpoint of the long axis of the cell (By similarity)"
+      }
     },
     {
       "seqnames": "MAG06_573",
@@ -70,7 +100,22 @@
       "sscore": "-0.65",
       "rscore": "-4.72",
       "uscore": "1.08",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_605_2",
+        "X2": "311403.Arad_8857",
+        "X3": 6.5e-130,
+        "X4": 468.8,
+        "X5": "MIND",
+        "X6": "GO:0000003,GO:0000166,GO:0000910,GO:0000917,GO:0000918,GO:0001882,GO:0001883,GO:0003674,GO:0003824,GO:0004857,GO:0005488,GO:0005524,GO:0005575,GO:0005623,GO:0005886,GO:0006139,GO:0006152,GO:0006163,GO:0006195,GO:0006200,GO:0006725,GO:0006753,GO:0006793,GO:0006796,GO:0006807,GO:0007049,GO:0008150,GO:0008152,GO:0009056,GO:0009116,GO:0009117,GO:0009119,GO:0009123,GO:0009125,GO:0009126,GO:0009128,GO:0009141,GO:0009143,GO:0009144,GO:0009146,GO:0009150,GO:0009154,GO:0009158,GO:0009161,GO:0009164,GO:0009166,GO:0009167,GO:0009169,GO:0009199,GO:0009203,GO:0009205,GO:0009207,GO:0009259,GO:0009261,GO:0009987,GO:0016020,GO:0016043,GO:0016462,GO:0016787,GO:0016817,GO:0016818,GO:0016887,GO:0017076,GO:0017111,GO:0019222,GO:0019439,GO:0019637,GO:0019693,GO:0019954,GO:0022402,GO:0022607,GO:0030234,GO:0030554,GO:0032505,GO:0032506,GO:0032549,GO:0032550,GO:0032553,GO:0032555,GO:0032559,GO:0034641,GO:0034655,GO:0035639,GO:0036094,GO:0042278,GO:0042454,GO:0043086,GO:0043093,GO:0043167,GO:0043168,GO:0044085,GO:0044092,GO:0044237,GO:0044238,GO:0044248,GO:0044270,GO:0044281,GO:0044464,GO:0044699,GO:0044710,GO:0044763,GO:0046034,GO:0046128,GO:0046130,GO:0046434,GO:0046483,GO:0046700,GO:0050789,GO:0050790,GO:0051301,GO:0055086,GO:0065007,GO:0065009,GO:0071704,GO:0071840,GO:0071944,GO:0072521,GO:0072523,GO:0090529,GO:0097159,GO:1901135,GO:1901136,GO:1901265,GO:1901292,GO:1901360,GO:1901361,GO:1901363,GO:1901564,GO:1901565,GO:1901575,GO:1901657,GO:1901658",
+        "X7": "K03609",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01QJX@aproNOG,07QMS@bactNOG,16Q57@proNOG,COG2894@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "D",
+        "X13": "site-determining protein"
+      }
     },
     {
       "seqnames": "MAG06_573",
@@ -94,7 +139,22 @@
       "sscore": "7.96",
       "rscore": "5.22",
       "uscore": "1.41",
-      "tscore": "2.49"
+      "tscore": "2.49",
+      "eggnog": {
+        "X1": "MAG06_605_3",
+        "X2": "287752.SI859A1_00994",
+        "X3": 1e-92,
+        "X4": 345.1,
+        "X5": "MINC",
+        "X6": "GO:0000910,GO:0007049,GO:0008150,GO:0009987,GO:0022402,GO:0044699,GO:0044763,GO:0050789,GO:0050794,GO:0051301,GO:0051302,GO:0065007",
+        "X7": "K03610",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01WYC@aproNOG,05K7U@bactNOG,16S9Z@proNOG,COG0850@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "D",
+        "X13": "Cell division inhibitor that blocks the formation of polar Z ring septums. Rapidly oscillates between the poles of the cell to destabilize FtsZ filaments that have formed before they mature into polar Z rings. Prevents FtsZ polymerization (By similarity)"
+      }
     },
     {
       "seqnames": "MAG06_573",
@@ -118,7 +178,22 @@
       "sscore": "4.48",
       "rscore": "2.03",
       "uscore": "-0.54",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_606_1",
+        "X2": "536019.Mesop_5470",
+        "X3": 2e-104,
+        "X4": 384,
+        "X5": "RFBB",
+        "X6": "GO:0000271,GO:0003674,GO:0003824,GO:0005975,GO:0005976,GO:0008150,GO:0008152,GO:0008460,GO:0009058,GO:0009059,GO:0009987,GO:0016051,GO:0016829,GO:0016835,GO:0016836,GO:0033692,GO:0034637,GO:0034645,GO:0043170,GO:0044237,GO:0044238,GO:0044249,GO:0044260,GO:0044262,GO:0044264,GO:0044723,GO:0045226,GO:0046379,GO:0071704,GO:1901576",
+        "X7": "K01710,K08679",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01QW8@aproNOG,05C1B@bactNOG,16QWB@proNOG,COG1088@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "M",
+        "X13": "Dtdp-glucose 4,6-dehydratase"
+      }
     },
     {
       "seqnames": "MAG06_573",
@@ -142,7 +217,22 @@
       "sscore": "7.08",
       "rscore": "5.19",
       "uscore": "-1.76",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_606_2",
+        "X2": "536019.Mesop_5471",
+        "X3": 6e-66,
+        "X4": 255.8,
+        "X5": "RFBC",
+        "X6": null,
+        "X7": "K01790",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01X0N@aproNOG,08URP@bactNOG,177R7@proNOG,COG1898@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "M",
+        "X13": "DTDP-4-dehydrorhamnose 3,5-epimerase"
+      }
     }
   ],
   "seqname": "MAG06_573",

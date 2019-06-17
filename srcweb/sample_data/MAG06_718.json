@@ -22,7 +22,22 @@
       "sscore": "3.22",
       "rscore": "0.00",
       "uscore": "0.00",
-      "tscore": "3.22"
+      "tscore": "3.22",
+      "eggnog": {
+        "X1": "MAG06_71_5",
+        "X2": "394.NGR_c24150",
+        "X3": 6.5e-186,
+        "X4": 655.2,
+        "X5": "CHVE",
+        "X6": "GO:0005575,GO:0005623,GO:0042597,GO:0044464",
+        "X7": "K10543,K10546",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01RFA@aproNOG,05DFW@bactNOG,16SQ9@proNOG,COG4213@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "G",
+        "X13": "ABC transporter"
+      }
     },
     {
       "seqnames": "MAG06_718",
@@ -46,7 +61,22 @@
       "sscore": "4.43",
       "rscore": "2.74",
       "uscore": "-1.51",
-      "tscore": "3.20"
+      "tscore": "3.20",
+      "eggnog": {
+        "X1": "MAG06_71_6",
+        "X2": "394.NGR_c24140",
+        "X3": 3.1e-19,
+        "X4": 98.6,
+        "X5": "GGUA",
+        "X6": "GO:0005575,GO:0005623,GO:0005886,GO:0016020,GO:0044464,GO:0071944",
+        "X7": "K01995,K01996,K02056,K10441,K10545,K10548,K10562,K17207",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "05C2J@bactNOG,16PQI@proNOG,COG1129@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "P",
+        "X13": "ABC transPORTER"
+      }
     },
     {
       "seqnames": "MAG06_718",
@@ -70,7 +100,22 @@
       "sscore": "3.53",
       "rscore": "2.74",
       "uscore": "-1.75",
-      "tscore": "3.20"
+      "tscore": "3.20",
+      "eggnog": {
+        "X1": "MAG06_710_1",
+        "X2": "288000.BBta_1376",
+        "X3": 4.7e-27,
+        "X4": 126.7,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01Z97@aproNOG,05J96@bactNOG,11TDH@NOG,17CXH@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": null,
+        "X13": null
+      }
     },
     {
       "seqnames": "MAG06_718",
@@ -94,7 +139,22 @@
       "sscore": "5.98",
       "rscore": "3.32",
       "uscore": "-0.53",
-      "tscore": "3.20"
+      "tscore": "3.20",
+      "eggnog": {
+        "X1": "MAG06_710_3",
+        "X2": "314264.ROS217_14501",
+        "X3": 5.5e-22,
+        "X4": 110.2,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "024YK@aproNOG,06C11@bactNOG,0Y5UB@NOG,17SVF@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "anti-sigma factor"
+      }
     },
     {
       "seqnames": "MAG06_718",
@@ -118,7 +178,22 @@
       "sscore": "13.54",
       "rscore": "9.04",
       "uscore": "-3.08",
-      "tscore": "3.20"
+      "tscore": "3.20",
+      "eggnog": {
+        "X1": "MAG06_711_1",
+        "X2": "266834.SMc01795",
+        "X3": 0,
+        "X4": 1165.6,
+        "X5": "EXOP",
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01QQ9@aproNOG,07R71@bactNOG,16UQ5@proNOG,COG0489@NOG,COG3206@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "M",
+        "X13": "(lipopolysaccharide biosynthesis) protein"
+      }
     }
   ],
   "seqname": "MAG06_718",

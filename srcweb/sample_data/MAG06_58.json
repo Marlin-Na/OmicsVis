@@ -22,7 +22,22 @@
       "sscore": "10.48",
       "rscore": "7.63",
       "uscore": "-0.79",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_1006_1",
+        "X2": "536019.Mesop_5951",
+        "X3": 7.3e-62,
+        "X4": 241.9,
+        "X5": "HISD",
+        "X6": null,
+        "X7": "K00013,K15509",
+        "X8": "HISTD",
+        "X9": "bactNOG[38]",
+        "X10": "01RZU@aproNOG,05CEK@bactNOG,16PHT@proNOG,COG0141@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "E",
+        "X13": "Catalyzes the sequential NAD-dependent oxidations of L- histidinol to L-histidinaldehyde and then to L-histidine (By similarity)"
+      }
     },
     {
       "seqnames": "MAG06_58",
@@ -46,7 +61,22 @@
       "sscore": "11.27",
       "rscore": "7.63",
       "uscore": "0.65",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_179_4",
+        "X2": "266834.SMc02424",
+        "X3": 3.3e-42,
+        "X4": 176,
+        "X5": null,
+        "X6": null,
+        "X7": "K02032,K10823,K10824,K12372",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "02EHI@aproNOG,08JQ7@bactNOG,173F3@proNOG,COG4608@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "E",
+        "X13": "ABC transporter"
+      }
     },
     {
       "seqnames": "MAG06_58",
@@ -70,7 +100,22 @@
       "sscore": "-0.23",
       "rscore": "2.03",
       "uscore": "3.27",
-      "tscore": "-4.87"
+      "tscore": "-4.87",
+      "eggnog": {
+        "X1": "MAG06_18_1",
+        "X2": "266834.SMc00381",
+        "X3": 1.1e-109,
+        "X4": 401.7,
+        "X5": "PECM",
+        "X6": "GO:0005575,GO:0005623,GO:0005886,GO:0016020,GO:0044464,GO:0071944",
+        "X7": "K15269",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01RHX@aproNOG,08KTG@bactNOG,0XP9Q@NOG,16QD4@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "Membrane protein, drug metabolite transporter"
+      }
     },
     {
       "seqnames": "MAG06_58",
@@ -94,7 +139,22 @@
       "sscore": "4.59",
       "rscore": "1.92",
       "uscore": "-0.78",
-      "tscore": "3.46"
+      "tscore": "3.46",
+      "eggnog": {
+        "X1": "MAG06_18_2",
+        "X2": "266834.SMc00380",
+        "X3": 5.1e-85,
+        "X4": 318.9,
+        "X5": "PECS",
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "02EHX@aproNOG,08JRU@bactNOG,173G0@proNOG,COG1846@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "K",
+        "X13": "Transcriptional regulator"
+      }
     },
     {
       "seqnames": "MAG06_58",
@@ -118,7 +178,22 @@
       "sscore": "7.45",
       "rscore": "6.50",
       "uscore": "-1.51",
-      "tscore": "3.11"
+      "tscore": "3.11",
+      "eggnog": {
+        "X1": "MAG06_18_3",
+        "X2": "266834.SMc00379",
+        "X3": 1.4e-110,
+        "X4": 404.1,
+        "X5": null,
+        "X6": null,
+        "X7": "K00355",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01YIF@aproNOG,05HI2@bactNOG,17DDC@proNOG,COG2249@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "NADPH dehydrogenase quinone"
+      }
     },
     {
       "seqnames": "MAG06_58",
@@ -142,7 +217,22 @@
       "sscore": "-1.49",
       "rscore": "-4.72",
       "uscore": "-0.42",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_18_4",
+        "X2": "266834.SMc00378",
+        "X3": 2.1e-289,
+        "X4": 999.6,
+        "X5": "XSEA",
+        "X6": "GO:0003674,GO:0003824,GO:0004518,GO:0004527,GO:0004529,GO:0004536,GO:0005575,GO:0005622,GO:0005623,GO:0005737,GO:0006139,GO:0006259,GO:0006308,GO:0006725,GO:0006807,GO:0008150,GO:0008152,GO:0008855,GO:0009056,GO:0009057,GO:0009318,GO:0009987,GO:0016787,GO:0016788,GO:0016796,GO:0016895,GO:0019439,GO:0032991,GO:0034641,GO:0034655,GO:0043170,GO:0043234,GO:0044237,GO:0044238,GO:0044248,GO:0044260,GO:0044265,GO:0044270,GO:0044424,GO:0044464,GO:0046483,GO:0046700,GO:0071704,GO:0090304,GO:0090305,GO:1901360,GO:1901361,GO:1901575",
+        "X7": "K03601",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01SSU@aproNOG,05DVS@bactNOG,16R8T@proNOG,COG1570@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "L",
+        "X13": "Bidirectionally degrades single-stranded DNA into large acid-insoluble oligonucleotides, which are then degraded further into small acid-soluble oligonucleotides (By similarity)"
+      }
     },
     {
       "seqnames": "MAG06_58",
@@ -166,7 +256,22 @@
       "sscore": "14.30",
       "rscore": "7.63",
       "uscore": "2.36",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_18_5",
+        "X2": "266834.SMc00377",
+        "X3": 2.6e-130,
+        "X4": 469.9,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01Y0P@aproNOG,05DST@bactNOG,0XQ8Y@NOG,1740B@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": "K",
+        "X13": "transcriptional regulator, XRE family"
+      }
     },
     {
       "seqnames": "MAG06_58",
@@ -190,7 +295,22 @@
       "sscore": "5.33",
       "rscore": "2.03",
       "uscore": "-1.00",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_180_1",
+        "X2": "266834.SMc02271",
+        "X3": 7.1e-145,
+        "X4": 518.5,
+        "X5": "RKPH",
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "020MS@aproNOG,07XE8@bactNOG,0YF8M@NOG,17CSV@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "Dehydrogenase"
+      }
     },
     {
       "seqnames": "MAG06_58",
@@ -214,7 +334,22 @@
       "sscore": "8.98",
       "rscore": "2.03",
       "uscore": "2.01",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_180_2",
+        "X2": "266834.SMc02272",
+        "X3": 1.1e-262,
+        "X4": 910.6,
+        "X5": "WCBT",
+        "X6": null,
+        "X7": "K00639,K00643,K00652",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01RGT@aproNOG,07EEK@bactNOG,16R8V@proNOG,COG0156@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "E",
+        "X13": "8-Amino-7-oxononanoate synthase"
+      }
     },
     {
       "seqnames": "MAG06_58",
@@ -238,7 +373,22 @@
       "sscore": "1.71",
       "rscore": "0.21",
       "uscore": "-1.49",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_180_3",
+        "X2": "266834.SMc02273",
+        "X3": 0,
+        "X4": 4810,
+        "X5": "RKPA",
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "02CG6@aproNOG,07EEY@bactNOG,18A56@proNOG,COG3321@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "Q",
+        "X13": "synthase"
+      }
     }
   ],
   "seqname": "MAG06_58",

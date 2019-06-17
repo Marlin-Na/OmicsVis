@@ -22,7 +22,22 @@
       "sscore": "8.10",
       "rscore": "2.03",
       "uscore": "1.52",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_562_5",
+        "X2": "266834.SMc01636",
+        "X3": 1.8e-174,
+        "X4": 617.1,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01VQT@aproNOG,08NAP@bactNOG,1758H@proNOG,COG4977@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "K",
+        "X13": "Transcriptional Regulator AraC Family"
+      }
     },
     {
       "seqnames": "MAG06_519",
@@ -46,7 +61,22 @@
       "sscore": "3.22",
       "rscore": "0.00",
       "uscore": "0.00",
-      "tscore": "3.22"
+      "tscore": "3.22",
+      "eggnog": {
+        "X1": "MAG06_562_6",
+        "X2": "266834.SMc01635",
+        "X3": 4.4e-136,
+        "X4": 489.2,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01RH7@aproNOG,05FAF@bactNOG,0Y889@NOG,177F5@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "short-chain dehydrogenase reductase"
+      }
     }
   ],
   "seqname": "MAG06_519",

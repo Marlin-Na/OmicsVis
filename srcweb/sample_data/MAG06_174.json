@@ -22,7 +22,22 @@
       "sscore": "1.79",
       "rscore": "-0.37",
       "uscore": "-2.70",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_289_3",
+        "X2": "266834.SMc00858",
+        "X3": 8.1e-138,
+        "X4": 495,
+        "X5": "OCAR_6956",
+        "X6": null,
+        "X7": "K15460",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01YCZ@aproNOG,07U2V@bactNOG,173NW@proNOG,COG4123@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "methyltransferase small"
+      }
     },
     {
       "seqnames": "MAG06_174",
@@ -46,7 +61,8 @@
       "sscore": "13.12",
       "rscore": "7.85",
       "uscore": "0.80",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {}
     },
     {
       "seqnames": "MAG06_174",
@@ -70,7 +86,22 @@
       "sscore": "15.75",
       "rscore": "10.54",
       "uscore": "0.29",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_289_4",
+        "X2": "266834.SMc00857",
+        "X3": 3.3e-156,
+        "X4": 556.2,
+        "X5": "SPPA",
+        "X6": "GO:0005575,GO:0005623,GO:0005886,GO:0016020,GO:0044464,GO:0071944",
+        "X7": "K04773,K04774",
+        "X8": "MLDEP1pp,MLDEP2pp",
+        "X9": "bactNOG[38]",
+        "X10": "01QFY@aproNOG,05D07@bactNOG,16QK0@proNOG,COG0616@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "O, U",
+        "X13": "peptidase"
+      }
     },
     {
       "seqnames": "MAG06_174",
@@ -94,7 +125,22 @@
       "sscore": "5.54",
       "rscore": "2.03",
       "uscore": "-0.13",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_29_1",
+        "X2": "266834.SMc04057",
+        "X3": 0,
+        "X4": 1483,
+        "X5": null,
+        "X6": "GO:0005575,GO:0005623,GO:0005886,GO:0016020,GO:0044464,GO:0071944",
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01Q7C@aproNOG,05NPQ@bactNOG,1744B@proNOG,COG2307@NOG,COG2308@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "Pfam:DUF404"
+      }
     },
     {
       "seqnames": "MAG06_174",
@@ -118,7 +164,22 @@
       "sscore": "11.71",
       "rscore": "6.77",
       "uscore": "-1.00",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_29_2",
+        "X2": "266834.SMc04056",
+        "X3": 1.8e-196,
+        "X4": 690.3,
+        "X5": "MOCA",
+        "X6": null,
+        "X7": "K05882",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01SPT@aproNOG,05CPC@bactNOG,16QFE@proNOG,COG0667@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "C",
+        "X13": "aldo keto reductase"
+      }
     },
     {
       "seqnames": "MAG06_174",
@@ -142,7 +203,22 @@
       "sscore": "3.22",
       "rscore": "0.00",
       "uscore": "0.00",
-      "tscore": "3.22"
+      "tscore": "3.22",
+      "eggnog": {
+        "X1": "MAG06_29_3",
+        "X2": "266834.SMc04055",
+        "X3": 3.1e-48,
+        "X4": 196.1,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01T08@aproNOG,05HEI@bactNOG,0XRV0@NOG,16RBG@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": "K",
+        "X13": "LysR family transcriptional regulator"
+      }
     }
   ],
   "seqname": "MAG06_174",

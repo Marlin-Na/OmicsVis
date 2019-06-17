@@ -22,7 +22,22 @@
       "sscore": "18.69",
       "rscore": "13.75",
       "uscore": "-0.05",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_738_1",
+        "X2": "1031711.RSPO_c01535",
+        "X3": 4.1e-218,
+        "X4": 762.7,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "0727B@bactNOG,0BEQC@bproNOG,0XTBT@NOG,175KU@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": "L",
+        "X13": "DNA methylase"
+      }
     },
     {
       "seqnames": "MAG06_755",
@@ -46,7 +61,22 @@
       "sscore": "12.13",
       "rscore": "7.63",
       "uscore": "-0.29",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_739_1",
+        "X2": "266834.SMc00550",
+        "X3": 0,
+        "X4": 1088.9,
+        "X5": "ATM1",
+        "X6": "GO:0003674,GO:0003824,GO:0005215,GO:0005575,GO:0006139,GO:0006152,GO:0006163,GO:0006195,GO:0006200,GO:0006725,GO:0006753,GO:0006793,GO:0006796,GO:0006807,GO:0006810,GO:0008150,GO:0008152,GO:0009056,GO:0009116,GO:0009117,GO:0009119,GO:0009123,GO:0009125,GO:0009126,GO:0009128,GO:0009141,GO:0009143,GO:0009144,GO:0009146,GO:0009150,GO:0009154,GO:0009158,GO:0009161,GO:0009164,GO:0009166,GO:0009167,GO:0009169,GO:0009199,GO:0009203,GO:0009205,GO:0009207,GO:0009259,GO:0009261,GO:0009987,GO:0015399,GO:0015405,GO:0016020,GO:0016021,GO:0016462,GO:0016787,GO:0016817,GO:0016818,GO:0016820,GO:0016887,GO:0017111,GO:0019439,GO:0019637,GO:0019693,GO:0022804,GO:0022857,GO:0031224,GO:0034641,GO:0034655,GO:0042278,GO:0042454,GO:0042623,GO:0042626,GO:0043492,GO:0044237,GO:0044238,GO:0044248,GO:0044270,GO:0044281,GO:0044425,GO:0044699,GO:0044710,GO:0044763,GO:0044765,GO:0046034,GO:0046128,GO:0046130,GO:0046434,GO:0046483,GO:0046700,GO:0051179,GO:0051234,GO:0055085,GO:0055086,GO:0071704,GO:0072521,GO:0072523,GO:1901135,GO:1901136,GO:1901292,GO:1901360,GO:1901361,GO:1901564,GO:1901565,GO:1901575,GO:1901657,GO:1901658",
+        "X7": "K06147",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "02EFC@aproNOG,08JJ7@bactNOG,173BM@proNOG,COG5265@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "V",
+        "X13": "ABC transporter"
+      }
     },
     {
       "seqnames": "MAG06_755",
@@ -70,7 +100,22 @@
       "sscore": "16.05",
       "rscore": "10.54",
       "uscore": "0.62",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_739_2",
+        "X2": "266834.SMc00551",
+        "X3": 1.1e-128,
+        "X4": 464.5,
+        "X5": "PSD",
+        "X6": "GO:0005575,GO:0005623,GO:0005886,GO:0016020,GO:0044464,GO:0071944",
+        "X7": "K01613",
+        "X8": "PSD120,PSD140,PSD141,PSD160,PSD161,PSD180,PSD181",
+        "X9": "bactNOG[38]",
+        "X10": "01SBR@aproNOG,071I4@bactNOG,16S8H@proNOG,COG0688@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "I",
+        "X13": "Phosphatidylserine decarboxylase proenzyme"
+      }
     },
     {
       "seqnames": "MAG06_755",
@@ -94,7 +139,22 @@
       "sscore": "11.34",
       "rscore": "5.51",
       "uscore": "0.93",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_739_3",
+        "X2": "266834.SMc00552",
+        "X3": 8.8e-149,
+        "X4": 531.6,
+        "X5": "PSSA",
+        "X6": "GO:0003674,GO:0003824,GO:0004349,GO:0005575,GO:0005576,GO:0005623,GO:0005886,GO:0006629,GO:0006793,GO:0006796,GO:0008150,GO:0008152,GO:0009987,GO:0016020,GO:0016301,GO:0016310,GO:0016740,GO:0016772,GO:0016774,GO:0019202,GO:0044237,GO:0044238,GO:0044255,GO:0044464,GO:0044710,GO:0071704,GO:0071944",
+        "X7": "K17103",
+        "X8": "PSSA120,PSSA140,PSSA141,PSSA160,PSSA161,PSSA180,PSSA181,PSSA_HP",
+        "X9": "bactNOG[38]",
+        "X10": "01SW4@aproNOG,06PT6@bactNOG,16QDQ@proNOG,COG1183@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "I",
+        "X13": "CDP-diacylglycerol--serine O-phosphatidyltransferase"
+      }
     },
     {
       "seqnames": "MAG06_755",
@@ -118,7 +178,22 @@
       "sscore": "6.82",
       "rscore": "2.03",
       "uscore": "0.43",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_74_1",
+        "X2": "78245.Xaut_1026",
+        "X3": 4.2e-49,
+        "X4": 199.1,
+        "X5": "YGBM",
+        "X6": "GO:0003674,GO:0003824,GO:0006082,GO:0006090,GO:0008150,GO:0008152,GO:0008903,GO:0009987,GO:0016853,GO:0016860,GO:0016861,GO:0019752,GO:0032787,GO:0043436,GO:0044237,GO:0044281,GO:0044710,GO:0071704",
+        "X7": "K01816",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01QBC@aproNOG,05QG4@bactNOG,16PF7@proNOG,COG3622@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "G",
+        "X13": "Catalyzes the reversible isomerization between hydroxypyruvate and 2-hydroxy-3-oxopropanoate (also termed tartronate semialdehyde) (By similarity)"
+      }
     },
     {
       "seqnames": "MAG06_755",
@@ -142,7 +217,22 @@
       "sscore": "7.50",
       "rscore": "2.03",
       "uscore": "1.83",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_74_2",
+        "X2": "311403.Arad_9441",
+        "X3": 7.8e-170,
+        "X4": 602.1,
+        "X5": "YGBK",
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01QCZ@aproNOG,05G63@bactNOG,16PG9@proNOG,COG3395@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "Type III effector Hrp-dependent"
+      }
     },
     {
       "seqnames": "MAG06_755",
@@ -166,7 +256,22 @@
       "sscore": "12.47",
       "rscore": "7.85",
       "uscore": "-0.25",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_74_3",
+        "X2": "765698.Mesci_0587",
+        "X3": 2e-157,
+        "X4": 560.5,
+        "X5": "YTFQ",
+        "X6": "GO:0003674,GO:0005488,GO:0005534,GO:0005575,GO:0005623,GO:0006810,GO:0008150,GO:0008643,GO:0008645,GO:0015749,GO:0015757,GO:0030246,GO:0042597,GO:0044464,GO:0044699,GO:0044765,GO:0048029,GO:0051179,GO:0051234,GO:0071702",
+        "X7": "K02058,K10439,K17208",
+        "X8": "GALabcpp,RIBabc,RIBabcpp",
+        "X9": "bactNOG[38]",
+        "X10": "01RKY@aproNOG,07R5U@bactNOG,0XPC7@NOG,16QFA@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": "G",
+        "X13": "ABC transporter"
+      }
     },
     {
       "seqnames": "MAG06_755",
@@ -190,7 +295,8 @@
       "sscore": "4.66",
       "rscore": "2.03",
       "uscore": "-0.36",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {}
     },
     {
       "seqnames": "MAG06_755",
@@ -214,7 +320,22 @@
       "sscore": "7.43",
       "rscore": "2.03",
       "uscore": "1.76",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_137_7",
+        "X2": "266834.SMc02104",
+        "X3": 1.8e-139,
+        "X4": 500.4,
+        "X5": "UGPQ",
+        "X6": null,
+        "X7": "K01126",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01QZZ@aproNOG,07QVR@bactNOG,16USS@proNOG,COG0584@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "C",
+        "X13": "glycerophosphoryl diester phosphodiesterase"
+      }
     },
     {
       "seqnames": "MAG06_755",
@@ -238,7 +359,22 @@
       "sscore": "6.04",
       "rscore": "2.03",
       "uscore": "-0.85",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_137_8",
+        "X2": "266834.SMc02105",
+        "X3": 5e-20,
+        "X4": 101.3,
+        "X5": "BMUL_0877",
+        "X6": null,
+        "X7": "K09919",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01S1K@aproNOG,05D0F@bactNOG,16QH4@proNOG,COG3146@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "Protein of unknown function, DUF482"
+      }
     },
     {
       "seqnames": "MAG06_755",
@@ -262,7 +398,22 @@
       "sscore": "3.22",
       "rscore": "0.00",
       "uscore": "0.00",
-      "tscore": "3.22"
+      "tscore": "3.22",
+      "eggnog": {
+        "X1": "MAG06_138_2",
+        "X2": "266834.SMc01806",
+        "X3": 1.9e-145,
+        "X4": 520.4,
+        "X5": "YDBS",
+        "X6": null,
+        "X7": "K07537",
+        "X8": "CTECOAI6,CTECOAI7,CTECOAI8,ECOAH1,ECOAH2,ECOAH3,ECOAH4,ECOAH5,ECOAH6,ECOAH7,ECOAH8,VECOAH",
+        "X9": "bactNOG[38]",
+        "X10": "01Q8F@aproNOG,05E39@bactNOG,16RSV@proNOG,COG1024@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "I",
+        "X13": "Enoyl-CoA hydratase"
+      }
     }
   ],
   "seqname": "MAG06_755",

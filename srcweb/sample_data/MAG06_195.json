@@ -22,7 +22,22 @@
       "sscore": "3.22",
       "rscore": "0.00",
       "uscore": "0.00",
-      "tscore": "3.22"
+      "tscore": "3.22",
+      "eggnog": {
+        "X1": "MAG06_309_2",
+        "X2": "266834.SMc03195",
+        "X3": 8.5e-96,
+        "X4": 354.8,
+        "X5": "UNG",
+        "X6": "GO:0003674,GO:0003824,GO:0004844,GO:0005575,GO:0005622,GO:0005623,GO:0005737,GO:0006139,GO:0006259,GO:0006281,GO:0006284,GO:0006725,GO:0006807,GO:0006950,GO:0006974,GO:0008150,GO:0008152,GO:0009987,GO:0016787,GO:0016798,GO:0016799,GO:0019104,GO:0033554,GO:0034641,GO:0043170,GO:0044237,GO:0044238,GO:0044260,GO:0044424,GO:0044464,GO:0044699,GO:0044763,GO:0046483,GO:0050896,GO:0051716,GO:0071704,GO:0090304,GO:1901360",
+        "X7": "K03648",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01U3M@aproNOG,05D5S@bactNOG,16R5Y@proNOG,COG0692@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "L",
+        "X13": "Excises uracil residues from the DNA which can arise as a result of misincorporation of dUMP residues by DNA polymerase or due to deamination of cytosine (By similarity)"
+      }
     },
     {
       "seqnames": "MAG06_195",
@@ -46,7 +61,8 @@
       "sscore": "8.16",
       "rscore": "1.70",
       "uscore": "2.21",
-      "tscore": "3.06"
+      "tscore": "3.06",
+      "eggnog": {}
     },
     {
       "seqnames": "MAG06_195",
@@ -70,7 +86,22 @@
       "sscore": "19.08",
       "rscore": "13.75",
       "uscore": "2.34",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_31_2",
+        "X2": "765698.Mesci_2362",
+        "X3": 1.9e-238,
+        "X4": 830.1,
+        "X5": "MELA",
+        "X6": "GO:0000166,GO:0003674,GO:0003824,GO:0004553,GO:0004557,GO:0005488,GO:0005575,GO:0005622,GO:0005623,GO:0005737,GO:0005829,GO:0005975,GO:0005984,GO:0005994,GO:0005995,GO:0008150,GO:0008152,GO:0009056,GO:0009311,GO:0009313,GO:0009987,GO:0015925,GO:0016052,GO:0016787,GO:0016798,GO:0030145,GO:0036094,GO:0043167,GO:0043168,GO:0043169,GO:0044237,GO:0044238,GO:0044262,GO:0044275,GO:0044424,GO:0044444,GO:0044464,GO:0044723,GO:0044724,GO:0046352,GO:0046872,GO:0046914,GO:0048037,GO:0050662,GO:0051287,GO:0070403,GO:0071704,GO:0097159,GO:1901265,GO:1901363,GO:1901575",
+        "X7": "K07406",
+        "X8": "GALS3",
+        "X9": "bactNOG[38]",
+        "X10": "01SRZ@aproNOG,05F8D@bactNOG,16T2Q@proNOG,COG1486@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "G",
+        "X13": "glycoside hydrolase family 4"
+      }
     },
     {
       "seqnames": "MAG06_195",
@@ -94,7 +125,22 @@
       "sscore": "0.17",
       "rscore": "-4.72",
       "uscore": "1.24",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_31_3",
+        "X2": "311402.Avi_3350",
+        "X3": 1.9e-26,
+        "X4": 124.4,
+        "X5": "OCAR_7171",
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "020D3@aproNOG,05NPF@bactNOG,11WVD@NOG,17IND@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "Protein of unknown function (DUF992)"
+      }
     }
   ],
   "seqname": "MAG06_195",

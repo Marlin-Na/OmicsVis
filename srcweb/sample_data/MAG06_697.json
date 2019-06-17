@@ -22,7 +22,22 @@
       "sscore": "12.03",
       "rscore": "7.63",
       "uscore": "0.76",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_696_2",
+        "X2": "491916.RHECIAT_CH0003619",
+        "X3": 8.5e-206,
+        "X4": 721.5,
+        "X5": null,
+        "X6": null,
+        "X7": "K02027",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "02DXD@aproNOG,07VZH@bactNOG,0XSJ0@NOG,171U3@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": "G",
+        "X13": "sugar ABC transporter, substrate-binding protein"
+      }
     },
     {
       "seqnames": "MAG06_697",
@@ -46,7 +61,22 @@
       "sscore": "3.91",
       "rscore": "2.03",
       "uscore": "-1.11",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_696_3",
+        "X2": "296591.Bpro_0106",
+        "X3": 3e-22,
+        "X4": 109,
+        "X5": "VDLC",
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "05E1F@bactNOG,0B74I@bproNOG,16RMP@proNOG,COG1028@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "Short-chain dehydrogenase reductase SDR"
+      }
     },
     {
       "seqnames": "MAG06_697",
@@ -70,7 +100,22 @@
       "sscore": "19.41",
       "rscore": "13.75",
       "uscore": "2.02",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_697_1",
+        "X2": "543728.Vapar_0661",
+        "X3": 5.5e-81,
+        "X4": 305.8,
+        "X5": "GSTA",
+        "X6": "GO:0008150,GO:0009636,GO:0042221,GO:0050896",
+        "X7": "K00799",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "08RYS@bactNOG,0BBPS@bproNOG,1783R@proNOG,COG0625@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "O",
+        "X13": "Glutathione S-transferase"
+      }
     },
     {
       "seqnames": "MAG06_697",
@@ -94,7 +139,22 @@
       "sscore": "9.76",
       "rscore": "7.63",
       "uscore": "-2.51",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_697_2",
+        "X2": "266265.Bxe_B0926",
+        "X3": 2e-101,
+        "X4": 374.4,
+        "X5": null,
+        "X6": null,
+        "X7": "K07006",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "08EGG@bactNOG,0BR4S@bproNOG,170W1@proNOG,COG1018@NOG,COG3576@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "C",
+        "X13": "Pyridoxamine 5'-phosphate oxidase"
+      }
     }
   ],
   "seqname": "MAG06_697",

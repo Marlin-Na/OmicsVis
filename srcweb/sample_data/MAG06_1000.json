@@ -22,7 +22,22 @@
       "sscore": "16.39",
       "rscore": "13.75",
       "uscore": "-1.01",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_923_8",
+        "X2": "266834.SMc02792",
+        "X3": 6.1e-101,
+        "X4": 372.1,
+        "X5": "MAF",
+        "X6": "GO:0005575,GO:0005622,GO:0005623,GO:0005737,GO:0044424,GO:0044464",
+        "X7": "K06287",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01Y8I@aproNOG,08UHJ@bactNOG,179MU@proNOG,COG0424@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "D",
+        "X13": "Maf-like protein"
+      }
     },
     {
       "seqnames": "MAG06_1000",
@@ -46,7 +61,22 @@
       "sscore": "9.47",
       "rscore": "7.85",
       "uscore": "-1.37",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_923_9",
+        "X2": "266834.SMc02793",
+        "X3": 8.8e-151,
+        "X4": 538.1,
+        "X5": "YQFL",
+        "X6": null,
+        "X7": "K09773",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01SBX@aproNOG,05CF9@bactNOG,16S0C@proNOG,COG1806@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "Bifunctional serine threonine kinase and phosphorylase involved in the regulation of the pyruvate, phosphate dikinase (PPDK) by catalyzing its phosphorylation dephosphorylation (By similarity)"
+      }
     },
     {
       "seqnames": "MAG06_1000",
@@ -70,7 +100,22 @@
       "sscore": "3.22",
       "rscore": "0.00",
       "uscore": "0.00",
-      "tscore": "3.22"
+      "tscore": "3.22",
+      "eggnog": {
+        "X1": "MAG06_924_1",
+        "X2": "395492.Rleg2_2945",
+        "X3": 3.3e-16,
+        "X4": 89.4,
+        "X5": null,
+        "X6": null,
+        "X7": "K10439",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01VBT@aproNOG,08QGB@bactNOG,11I64@NOG,176M4@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": "G",
+        "X13": "ABC transporter"
+      }
     }
   ],
   "seqname": "MAG06_1000",

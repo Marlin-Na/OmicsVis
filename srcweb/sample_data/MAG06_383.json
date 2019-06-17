@@ -22,7 +22,22 @@
       "sscore": "7.85",
       "rscore": "7.63",
       "uscore": "-3.42",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_456_3",
+        "X2": "266834.SMc03015",
+        "X3": 2.3e-114,
+        "X4": 416.8,
+        "X5": "LUXR",
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01XET@aproNOG,08WFF@bactNOG,17BRB@proNOG,COG2771@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "K",
+        "X13": "LuxR family transcriptional regulator"
+      }
     },
     {
       "seqnames": "MAG06_383",
@@ -46,7 +61,8 @@
       "sscore": "6.98",
       "rscore": "0.21",
       "uscore": "2.10",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {}
     },
     {
       "seqnames": "MAG06_383",
@@ -70,7 +86,22 @@
       "sscore": "13.99",
       "rscore": "7.85",
       "uscore": "1.20",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_1038_2",
+        "X2": "311403.Arad_7432",
+        "X3": 2.9e-145,
+        "X4": 520,
+        "X5": "YAGS",
+        "X6": "GO:0000166,GO:0003674,GO:0003824,GO:0004854,GO:0005488,GO:0005575,GO:0005623,GO:0006139,GO:0006144,GO:0006725,GO:0006807,GO:0008150,GO:0008152,GO:0009112,GO:0009987,GO:0016491,GO:0016725,GO:0016726,GO:0016903,GO:0034641,GO:0036094,GO:0042597,GO:0043167,GO:0043168,GO:0044237,GO:0044238,GO:0044281,GO:0044464,GO:0044710,GO:0046110,GO:0046483,GO:0048037,GO:0050660,GO:0050662,GO:0055086,GO:0055114,GO:0071704,GO:0072521,GO:0097159,GO:1901265,GO:1901360,GO:1901363,GO:1901564",
+        "X7": "K11178",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01R50@aproNOG,05DIP@bactNOG,16Q2R@proNOG,COG1319@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "F",
+        "X13": "Molybdopterin dehydrogenase FAD-binding"
+      }
     },
     {
       "seqnames": "MAG06_383",
@@ -94,7 +125,22 @@
       "sscore": "12.77",
       "rscore": "7.63",
       "uscore": "0.21",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_1038_3",
+        "X2": "311403.Arad_7433",
+        "X3": 6.4e-27,
+        "X4": 124.8,
+        "X5": "XDHC",
+        "X6": "GO:0003674,GO:0003824,GO:0004854,GO:0006139,GO:0006144,GO:0006725,GO:0006807,GO:0008150,GO:0008152,GO:0009112,GO:0009987,GO:0016491,GO:0016725,GO:0016726,GO:0034641,GO:0044237,GO:0044238,GO:0044281,GO:0044710,GO:0046110,GO:0046483,GO:0055086,GO:0055114,GO:0071704,GO:0072521,GO:1901360,GO:1901564",
+        "X7": "K03518,K07302,K13480,K13483",
+        "X8": "HXAND,XAND",
+        "X9": "bactNOG[38]",
+        "X10": "01VXV@aproNOG,08UTP@bactNOG,17A4A@proNOG,COG2080@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "F",
+        "X13": "(2Fe-2S)-binding domain protein"
+      }
     },
     {
       "seqnames": "MAG06_383",
@@ -118,7 +164,22 @@
       "sscore": "13.70",
       "rscore": "7.63",
       "uscore": "1.13",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_457_1",
+        "X2": "266834.SMc02479",
+        "X3": 5.9e-11,
+        "X4": 70.9,
+        "X5": "MDH",
+        "X6": "GO:0003674,GO:0003824,GO:0006091,GO:0006099,GO:0008150,GO:0008152,GO:0009060,GO:0009987,GO:0015980,GO:0016491,GO:0016614,GO:0016615,GO:0016616,GO:0030060,GO:0044237,GO:0044238,GO:0044710,GO:0045333,GO:0055114",
+        "X7": "K00024",
+        "X8": "MDH",
+        "X9": "bactNOG[38]",
+        "X10": "01QQM@aproNOG,05C80@bactNOG,16Q71@proNOG,COG0039@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "C",
+        "X13": "Catalyzes the reversible oxidation of malate to oxaloacetate (By similarity)"
+      }
     },
     {
       "seqnames": "MAG06_383",
@@ -142,7 +203,22 @@
       "sscore": "12.90",
       "rscore": "10.54",
       "uscore": "-0.63",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_457_2",
+        "X2": "266834.SMc02480",
+        "X3": 2.9e-211,
+        "X4": 739.6,
+        "X5": "SUCC",
+        "X6": "GO:0003674,GO:0003824,GO:0004774,GO:0004775,GO:0005575,GO:0005618,GO:0005622,GO:0005623,GO:0005737,GO:0005829,GO:0006091,GO:0006099,GO:0008150,GO:0008152,GO:0009060,GO:0009987,GO:0015980,GO:0016405,GO:0016874,GO:0016877,GO:0016878,GO:0030312,GO:0040007,GO:0044237,GO:0044238,GO:0044424,GO:0044444,GO:0044464,GO:0044710,GO:0045333,GO:0055114,GO:0071944",
+        "X7": "K01903",
+        "X8": "SUCOAS",
+        "X9": "bactNOG[38]",
+        "X10": "01QF4@aproNOG,05CMV@bactNOG,16PX3@proNOG,COG0045@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "C",
+        "X13": "succinyl-CoA synthetase subunit beta"
+      }
     },
     {
       "seqnames": "MAG06_383",
@@ -166,7 +242,22 @@
       "sscore": "10.90",
       "rscore": "7.63",
       "uscore": "-0.38",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_457_3",
+        "X2": "266834.SMc02481",
+        "X3": 3.8e-163,
+        "X4": 579.3,
+        "X5": "SUCD",
+        "X6": "GO:0003674,GO:0003824,GO:0004774,GO:0004775,GO:0005575,GO:0005622,GO:0005623,GO:0005737,GO:0006091,GO:0006099,GO:0008150,GO:0008152,GO:0009060,GO:0009987,GO:0015980,GO:0016405,GO:0016874,GO:0016877,GO:0016878,GO:0044237,GO:0044238,GO:0044424,GO:0044464,GO:0044710,GO:0045333,GO:0055114",
+        "X7": "K01902",
+        "X8": "GLCOAS,SUCOAS",
+        "X9": "bactNOG[38]",
+        "X10": "01QV6@aproNOG,05CH8@bactNOG,16PUA@proNOG,COG0074@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "C",
+        "X13": "Succinyl-CoA ligase ADP-forming subunit alpha"
+      }
     }
   ],
   "seqname": "MAG06_383",

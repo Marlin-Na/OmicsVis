@@ -22,7 +22,22 @@
       "sscore": "-10.85",
       "rscore": "-4.72",
       "uscore": "-1.26",
-      "tscore": "-4.87"
+      "tscore": "-4.87",
+      "eggnog": {
+        "X1": "MAG06_874_6",
+        "X2": "266834.SMc00873",
+        "X3": 7e-249,
+        "X4": 864.8,
+        "X5": "KUP",
+        "X6": "GO:0005575,GO:0005623,GO:0005886,GO:0016020,GO:0044464,GO:0071944",
+        "X7": "K00818,K03549",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01QN4@aproNOG,05DFH@bactNOG,16PCS@proNOG,COG3158@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "P",
+        "X13": "Transport of potassium into the cell (By similarity)"
+      }
     },
     {
       "seqnames": "MAG06_921",
@@ -46,7 +61,22 @@
       "sscore": "11.63",
       "rscore": "10.54",
       "uscore": "-1.91",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_875_1",
+        "X2": "266834.SMc02716",
+        "X3": 3.5e-18,
+        "X4": 95.1,
+        "X5": null,
+        "X6": null,
+        "X7": "K19687",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "0252M@aproNOG,06CSM@bactNOG,17US2@proNOG,COG4423@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "Rv0623-like transcription factor"
+      }
     },
     {
       "seqnames": "MAG06_921",
@@ -70,7 +100,22 @@
       "sscore": "10.75",
       "rscore": "7.85",
       "uscore": "-0.75",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_875_2",
+        "X2": "266834.SMc02717",
+        "X3": 0,
+        "X4": 1144,
+        "X5": "LEUA",
+        "X6": null,
+        "X7": "K01649",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01QSK@aproNOG,07QXN@bactNOG,16UJ5@proNOG,COG0119@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "E",
+        "X13": "Catalyzes the condensation of the acetyl group of acetyl-CoA with 3-methyl-2-oxobutanoate (2-oxoisovalerate) to form 3-carboxy-3-hydroxy-4-methylpentanoate (2-isopropylmalate) (By similarity)"
+      }
     },
     {
       "seqnames": "MAG06_921",
@@ -94,7 +139,22 @@
       "sscore": "8.97",
       "rscore": "7.63",
       "uscore": "-1.65",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_876_1",
+        "X2": "1117943.SFHH103_02538",
+        "X3": 1.2e-126,
+        "X4": 458,
+        "X5": "SBP",
+        "X6": "GO:0003674,GO:0005488,GO:0005575,GO:0005623,GO:0006790,GO:0006810,GO:0008150,GO:0008152,GO:0009987,GO:0030288,GO:0030312,GO:0030313,GO:0031975,GO:0042597,GO:0043167,GO:0043168,GO:0043199,GO:0044237,GO:0044462,GO:0044464,GO:0051179,GO:0051234,GO:0071944,GO:1901681",
+        "X7": "K02048",
+        "X8": "CRO4abcpp,MOBDabcpp,SO3abcpp,SULabc,SULabcpp,TSULabc,TSULabcpp",
+        "X9": "bactNOG[38]",
+        "X10": "01SEB@aproNOG,05DE7@bactNOG,16QE3@proNOG,COG1613@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "P",
+        "X13": "Sulfate ABC transporter, periplasmic sulfate-binding protein"
+      }
     },
     {
       "seqnames": "MAG06_921",
@@ -118,7 +178,22 @@
       "sscore": "3.87",
       "rscore": "2.03",
       "uscore": "-1.80",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_876_10",
+        "X2": "395492.Rleg2_3125",
+        "X3": 7e-120,
+        "X4": 435.6,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01WKQ@aproNOG,083SV@bactNOG,12AU1@NOG,17983@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": "G",
+        "X13": "pfkb domain protein"
+      }
     }
   ],
   "seqname": "MAG06_921",

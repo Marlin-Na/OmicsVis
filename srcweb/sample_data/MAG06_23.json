@@ -22,7 +22,22 @@
       "sscore": "3.22",
       "rscore": "0.00",
       "uscore": "0.00",
-      "tscore": "3.22"
+      "tscore": "3.22",
+      "eggnog": {
+        "X1": "MAG06_974_1",
+        "X2": "266834.SMc04029",
+        "X3": 2e-195,
+        "X4": 686.8,
+        "X5": "LTAE",
+        "X6": "GO:0003674,GO:0003824,GO:0004793,GO:0006082,GO:0006520,GO:0006566,GO:0006567,GO:0006807,GO:0008150,GO:0008152,GO:0009056,GO:0009063,GO:0009066,GO:0009068,GO:0009987,GO:0016054,GO:0016829,GO:0016830,GO:0016832,GO:0019752,GO:0043436,GO:0044237,GO:0044238,GO:0044248,GO:0044281,GO:0044282,GO:0044710,GO:0044712,GO:0046395,GO:0071704,GO:1901564,GO:1901565,GO:1901575,GO:1901605,GO:1901606",
+        "X7": "K01620",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01QDM@aproNOG,05C5W@bactNOG,16UI7@proNOG,COG2008@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "E",
+        "X13": "Aldolase"
+      }
     },
     {
       "seqnames": "MAG06_23",
@@ -46,7 +61,8 @@
       "sscore": "12.22",
       "rscore": "7.85",
       "uscore": "0.72",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {}
     },
     {
       "seqnames": "MAG06_23",
@@ -70,7 +86,22 @@
       "sscore": "11.52",
       "rscore": "7.85",
       "uscore": "0.68",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_975_1",
+        "X2": "266834.SMc00935",
+        "X3": 6.9e-51,
+        "X4": 204.9,
+        "X5": "R01627",
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "022EU@aproNOG,05W3E@bactNOG,17M76@proNOG,COG5453@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "activator hlyU"
+      }
     },
     {
       "seqnames": "MAG06_23",
@@ -94,7 +125,22 @@
       "sscore": "6.98",
       "rscore": "2.03",
       "uscore": "1.31",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_975_10",
+        "X2": "266834.SMc00943",
+        "X3": 1.3e-13,
+        "X4": 79.7,
+        "X5": "WRBA",
+        "X6": null,
+        "X7": "K03809",
+        "X8": "NADH10,NADPHQR3",
+        "X9": "bactNOG[38]",
+        "X10": "01T0F@aproNOG,05CS1@bactNOG,172C9@proNOG,COG0655@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "C",
+        "X13": "NADPH, quinone oxidoreductase"
+      }
     },
     {
       "seqnames": "MAG06_23",
@@ -118,7 +164,22 @@
       "sscore": "10.60",
       "rscore": "7.85",
       "uscore": "-0.90",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_975_2",
+        "X2": "266834.SMc00936",
+        "X3": 8.2e-233,
+        "X4": 811.2,
+        "X5": "ILVA",
+        "X6": "GO:0003674,GO:0003824,GO:0004609,GO:0004611,GO:0004612,GO:0004794,GO:0005488,GO:0005575,GO:0005623,GO:0005886,GO:0006082,GO:0006520,GO:0006544,GO:0006549,GO:0006563,GO:0006566,GO:0006807,GO:0008150,GO:0008152,GO:0008652,GO:0009058,GO:0009066,GO:0009069,GO:0009081,GO:0009082,GO:0009097,GO:0009987,GO:0016020,GO:0016053,GO:0016597,GO:0016829,GO:0016830,GO:0016831,GO:0016840,GO:0016841,GO:0019752,GO:0031406,GO:0043167,GO:0043168,GO:0043436,GO:0044237,GO:0044238,GO:0044249,GO:0044281,GO:0044283,GO:0044464,GO:0044710,GO:0044711,GO:0046394,GO:0071704,GO:0071944,GO:1901564,GO:1901566,GO:1901576,GO:1901605,GO:1901607",
+        "X7": "K01754",
+        "X8": "SERD_L,SER_AL,THRD_L",
+        "X9": "bactNOG[38]",
+        "X10": "01Q8P@aproNOG,05C7B@bactNOG,16QMI@proNOG,COG1171@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "E",
+        "X13": "Threonine dehydratase"
+      }
     },
     {
       "seqnames": "MAG06_23",
@@ -142,7 +203,22 @@
       "sscore": "3.22",
       "rscore": "0.00",
       "uscore": "0.00",
-      "tscore": "3.22"
+      "tscore": "3.22",
+      "eggnog": {
+        "X1": "MAG06_975_3",
+        "X2": "266834.SMc00937",
+        "X3": 1.3e-267,
+        "X4": 927.2,
+        "X5": "TRKH",
+        "X6": "GO:0003674,GO:0005215,GO:0005575,GO:0005623,GO:0005886,GO:0006810,GO:0006811,GO:0006812,GO:0006813,GO:0008150,GO:0008324,GO:0009987,GO:0015075,GO:0015077,GO:0015079,GO:0015672,GO:0016020,GO:0022857,GO:0022890,GO:0022891,GO:0022892,GO:0030001,GO:0034220,GO:0044464,GO:0044699,GO:0044763,GO:0044765,GO:0046873,GO:0051179,GO:0051234,GO:0055085,GO:0071804,GO:0071805,GO:0071944",
+        "X7": "K03498",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01R09@aproNOG,05D37@bactNOG,16R05@proNOG,COG0168@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "P",
+        "X13": "Low-affinity potassium transport system. Interacts with Trk system potassium uptake protein TrkA (By similarity)"
+      }
     }
   ],
   "seqname": "MAG06_23",

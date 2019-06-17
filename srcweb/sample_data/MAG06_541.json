@@ -22,7 +22,22 @@
       "sscore": "10.61",
       "rscore": "7.63",
       "uscore": "-0.01",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_120_3",
+        "X2": "266834.SMc02333",
+        "X3": 2.6e-125,
+        "X4": 453.4,
+        "X5": "DEOC",
+        "X6": "GO:0005575,GO:0005622,GO:0005623,GO:0005737,GO:0044424,GO:0044464",
+        "X7": "K00852,K01619",
+        "X8": "DRPA",
+        "X9": "bactNOG[38]",
+        "X10": "05FCI@bactNOG,1770K@proNOG,COG0274@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "F",
+        "X13": "Catalyzes a reversible aldol reaction between acetaldehyde and D-glyceraldehyde 3-phosphate to generate 2-deoxy- D-ribose 5-phosphate (By similarity)"
+      }
     },
     {
       "seqnames": "MAG06_541",
@@ -46,7 +61,22 @@
       "sscore": "-0.97",
       "rscore": "-3.78",
       "uscore": "-0.84",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_579_3",
+        "X2": "311403.Arad_9522",
+        "X3": 1.7e-126,
+        "X4": 458,
+        "X5": "CYAC",
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01TBD@aproNOG,05F8Y@bactNOG,0XS2W@NOG,16SZ9@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "Adenylate cyclase protein"
+      }
     },
     {
       "seqnames": "MAG06_541",
@@ -70,7 +100,22 @@
       "sscore": "5.34",
       "rscore": "2.03",
       "uscore": "-0.33",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_579_4",
+        "X2": "266835.mlr3257",
+        "X3": 4.8e-96,
+        "X4": 356.3,
+        "X5": "OCAR_6190",
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01T3X@aproNOG,05ET2@bactNOG,176UD@proNOG,COG1235@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "metal-dependent hydrolase of the beta-lactamase superfamily"
+      }
     }
   ],
   "seqname": "MAG06_541",

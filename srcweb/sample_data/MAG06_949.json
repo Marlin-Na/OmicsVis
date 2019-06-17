@@ -22,7 +22,22 @@
       "sscore": "7.93",
       "rscore": "12.94",
       "uscore": "0.26",
-      "tscore": "-4.62"
+      "tscore": "-4.62",
+      "eggnog": {
+        "X1": "MAG06_894_1",
+        "X2": "460265.Mnod_3084",
+        "X3": 5.9e-47,
+        "X4": 192.6,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01WF5@aproNOG,06NZI@bactNOG,0YGF0@NOG,1797F@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": "K",
+        "X13": "LysR family transcriptional regulator"
+      }
     },
     {
       "seqnames": "MAG06_949",
@@ -46,7 +61,22 @@
       "sscore": "10.38",
       "rscore": "8.26",
       "uscore": "-1.08",
-      "tscore": "3.20"
+      "tscore": "3.20",
+      "eggnog": {
+        "X1": "MAG06_894_2",
+        "X2": "439375.Oant_0457",
+        "X3": 4e-111,
+        "X4": 406.4,
+        "X5": "ICLR",
+        "X6": "GO:0006355,GO:0008150,GO:0009889,GO:0010468,GO:0010556,GO:0019219,GO:0019222,GO:0031323,GO:0031326,GO:0050789,GO:0050794,GO:0051171,GO:0051252,GO:0060255,GO:0065007,GO:0080090,GO:2000112,GO:2001141",
+        "X7": "K13641",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01S2J@aproNOG,069M3@bactNOG,16XRQ@proNOG,COG1414@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "K",
+        "X13": "Transcriptional regulator IclR family"
+      }
     },
     {
       "seqnames": "MAG06_949",
@@ -70,7 +100,22 @@
       "sscore": "3.22",
       "rscore": "0.00",
       "uscore": "0.00",
-      "tscore": "3.22"
+      "tscore": "3.22",
+      "eggnog": {
+        "X1": "MAG06_894_3",
+        "X2": "641118.OINT_1000397",
+        "X3": 6.5e-233,
+        "X4": 811.6,
+        "X5": "GCL",
+        "X6": "GO:0003674,GO:0003824,GO:0003933,GO:0003934,GO:0005488,GO:0006066,GO:0006081,GO:0006082,GO:0008150,GO:0008152,GO:0009028,GO:0009056,GO:0009436,GO:0009441,GO:0009987,GO:0016054,GO:0016787,GO:0016810,GO:0016814,GO:0016829,GO:0016830,GO:0016831,GO:0019238,GO:0019752,GO:0019842,GO:0030976,GO:0032787,GO:0034308,GO:0034310,GO:0036094,GO:0043167,GO:0043168,GO:0043169,GO:0043436,GO:0044237,GO:0044248,GO:0044281,GO:0044282,GO:0044710,GO:0044712,GO:0046164,GO:0046185,GO:0046296,GO:0046395,GO:0046487,GO:0048037,GO:0050662,GO:0071704,GO:0072329,GO:0097159,GO:1901363,GO:1901575,GO:1901615,GO:1901616,GO:1901681",
+        "X7": "K01608",
+        "X8": "GLXCL",
+        "X9": "bactNOG[38]",
+        "X10": "01SU0@aproNOG,060W2@bactNOG,16TIT@proNOG,COG3960@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "glyoxylate carboligase"
+      }
     }
   ],
   "seqname": "MAG06_949",

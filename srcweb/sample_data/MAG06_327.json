@@ -22,7 +22,22 @@
       "sscore": "3.22",
       "rscore": "0.00",
       "uscore": "0.00",
-      "tscore": "3.22"
+      "tscore": "3.22",
+      "eggnog": {
+        "X1": "MAG06_415_5",
+        "X2": "388399.SSE37_19337",
+        "X3": 1.5e-25,
+        "X4": 120.2,
+        "X5": "VDLD",
+        "X6": null,
+        "X7": "K01073",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01WQ6@aproNOG,08S4H@bactNOG,177Z3@proNOG,COG1607@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "I",
+        "X13": "acyl-CoA thioester hydrolase"
+      }
     },
     {
       "seqnames": "MAG06_327",
@@ -46,7 +61,22 @@
       "sscore": "18.61",
       "rscore": "13.75",
       "uscore": "0.08",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_416_4",
+        "X2": "366394.Smed_0357",
+        "X3": 2.3e-55,
+        "X4": 220.3,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "020NW@aproNOG,05T36@bactNOG,11UNW@NOG,17H7S@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "translation initiation factor 2, gamma subunit, GTPase"
+      }
     },
     {
       "seqnames": "MAG06_327",
@@ -70,7 +100,22 @@
       "sscore": "6.05",
       "rscore": "2.03",
       "uscore": "-0.87",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_416_5",
+        "X2": "366394.Smed_0372",
+        "X3": 2.7e-34,
+        "X4": 150.2,
+        "X5": "PPX",
+        "X6": "GO:0005575,GO:0005623,GO:0005886,GO:0008150,GO:0016020,GO:0040007,GO:0044464,GO:0071944",
+        "X7": "K01524",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01S24@aproNOG,05C9X@bactNOG,16PKI@proNOG,COG0248@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "T",
+        "X13": "ppx gppa phosphatase"
+      }
     },
     {
       "seqnames": "MAG06_327",
@@ -94,7 +139,22 @@
       "sscore": "12.59",
       "rscore": "7.63",
       "uscore": "0.04",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_417_1",
+        "X2": "266834.SMc01452",
+        "X3": 1e-38,
+        "X4": 164.1,
+        "X5": "OCAR_5272",
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "021HQ@aproNOG,05X6S@bactNOG,17JXZ@proNOG,COG4321@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "arylsulfate sulfotransferase-like protein"
+      }
     },
     {
       "seqnames": "MAG06_327",
@@ -118,7 +178,22 @@
       "sscore": "-2.46",
       "rscore": "7.63",
       "uscore": "0.71",
-      "tscore": "-10.14"
+      "tscore": "-10.14",
+      "eggnog": {
+        "X1": "MAG06_417_10",
+        "X2": "266834.SMc01443",
+        "X3": 1.1e-19,
+        "X4": 100.1,
+        "X5": null,
+        "X6": null,
+        "X7": "K00799",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01XBP@aproNOG,08S9X@bactNOG,1780B@proNOG,COG0625@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "O",
+        "X13": "Glutathione S-Transferase"
+      }
     },
     {
       "seqnames": "MAG06_327",
@@ -142,7 +217,22 @@
       "sscore": "10.21",
       "rscore": "7.63",
       "uscore": "-1.06",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_417_2",
+        "X2": "266834.SMc01451",
+        "X3": 6.5e-29,
+        "X4": 131.3,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "023P8@aproNOG,0695J@bactNOG,0XWSV@NOG,17S5F@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": null,
+        "X13": null
+      }
     },
     {
       "seqnames": "MAG06_327",
@@ -166,7 +256,22 @@
       "sscore": "13.74",
       "rscore": "7.63",
       "uscore": "1.62",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_417_3",
+        "X2": "266834.SMc01450",
+        "X3": 5.3e-93,
+        "X4": 345.5,
+        "X5": "ERUM3420",
+        "X6": null,
+        "X7": "K09985",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01ZKC@aproNOG,05REZ@bactNOG,17GQZ@proNOG,COG3814@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "Stringent starvation protein B"
+      }
     },
     {
       "seqnames": "MAG06_327",
@@ -190,7 +295,22 @@
       "sscore": "5.61",
       "rscore": "2.03",
       "uscore": "-0.07",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_417_4",
+        "X2": "266834.SMc01449",
+        "X3": 6.2e-49,
+        "X4": 198.4,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "020IK@aproNOG,05RJ8@bactNOG,11U1X@NOG,17H3Y@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "Protein of unknown function (DUF2853)"
+      }
     },
     {
       "seqnames": "MAG06_327",
@@ -214,7 +334,22 @@
       "sscore": "14.39",
       "rscore": "10.54",
       "uscore": "-0.74",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_417_5",
+        "X2": "266834.SMc01448",
+        "X3": 8.9e-81,
+        "X4": 304.7,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01YC4@aproNOG,05ZJV@bactNOG,17KD9@proNOG,COG5502@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "Uncharacterized conserved protein (DUF2267)"
+      }
     },
     {
       "seqnames": "MAG06_327",
@@ -238,7 +373,22 @@
       "sscore": "14.52",
       "rscore": "10.54",
       "uscore": "0.34",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_417_6",
+        "X2": "266834.SMc01447",
+        "X3": 8.7e-31,
+        "X4": 137.5,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "0246Q@aproNOG,06E6X@bactNOG,0XWD7@NOG,17S0S@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": null,
+        "X13": null
+      }
     },
     {
       "seqnames": "MAG06_327",
@@ -262,7 +412,8 @@
       "sscore": "13.57",
       "rscore": "7.63",
       "uscore": "1.01",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {}
     },
     {
       "seqnames": "MAG06_327",
@@ -286,7 +437,8 @@
       "sscore": "3.22",
       "rscore": "0.00",
       "uscore": "0.00",
-      "tscore": "3.22"
+      "tscore": "3.22",
+      "eggnog": {}
     }
   ],
   "seqname": "MAG06_327",

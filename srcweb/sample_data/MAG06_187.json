@@ -22,7 +22,22 @@
       "sscore": "13.58",
       "rscore": "10.54",
       "uscore": "-0.61",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_300_2",
+        "X2": "266834.SMc04389",
+        "X3": 3.2e-224,
+        "X4": 782.7,
+        "X5": "TTUD",
+        "X6": null,
+        "X7": "K00050",
+        "X8": "GLYCK2",
+        "X9": "bactNOG[38]",
+        "X10": "01QT1@aproNOG,05D1Z@bactNOG,16QIZ@proNOG,COG2379@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "G",
+        "X13": "Hydroxypyruvate reductase"
+      }
     },
     {
       "seqnames": "MAG06_187",
@@ -46,7 +61,22 @@
       "sscore": "11.98",
       "rscore": "7.63",
       "uscore": "0.71",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_300_3",
+        "X2": "266834.SMc04388",
+        "X3": 7.9e-247,
+        "X4": 857.8,
+        "X5": "APTA",
+        "X6": null,
+        "X7": "K00822,K00833",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "02EGK@aproNOG,08JPX@bactNOG,173ED@proNOG,COG0161@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "E",
+        "X13": "Aminotransferase"
+      }
     }
   ],
   "seqname": "MAG06_187",

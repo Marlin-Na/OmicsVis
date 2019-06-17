@@ -22,7 +22,22 @@
       "sscore": "3.22",
       "rscore": "0.00",
       "uscore": "0.00",
-      "tscore": "3.22"
+      "tscore": "3.22",
+      "eggnog": {
+        "X1": "MAG06_564_7",
+        "X2": "371731.Rsw2DRAFT_3208",
+        "X3": 1.9e-82,
+        "X4": 310.8,
+        "X5": "FLHR",
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01W9D@aproNOG,08W5X@bactNOG,175ME@proNOG,COG2197@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "T",
+        "X13": "Transcriptional regulator"
+      }
     },
     {
       "seqnames": "MAG06_523",
@@ -46,7 +61,22 @@
       "sscore": "6.29",
       "rscore": "2.03",
       "uscore": "1.27",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_564_8",
+        "X2": "371731.Rsw2DRAFT_3209",
+        "X3": 2.5e-151,
+        "X4": 540.4,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01RQS@aproNOG,05F0D@bactNOG,16S82@proNOG,COG3287@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "GfdT protein"
+      }
     }
   ],
   "seqname": "MAG06_523",

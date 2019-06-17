@@ -22,7 +22,22 @@
       "sscore": "3.22",
       "rscore": "0.00",
       "uscore": "0.00",
-      "tscore": "3.22"
+      "tscore": "3.22",
+      "eggnog": {
+        "X1": "MAG06_221_3",
+        "X2": "347834.RHE_CH03730",
+        "X3": 7.5e-39,
+        "X4": 164.9,
+        "X5": "NUOK",
+        "X6": "GO:0003674,GO:0003824,GO:0005575,GO:0005622,GO:0005623,GO:0005886,GO:0008150,GO:0008152,GO:0009579,GO:0016020,GO:0016491,GO:0034357,GO:0042651,GO:0044424,GO:0044436,GO:0044464,GO:0044710,GO:0055114,GO:0071944",
+        "X7": "K00340,K05576",
+        "X8": "NADH17pp,NDH_1",
+        "X9": "bactNOG[38]",
+        "X10": "05M5H@bactNOG,17FVN@proNOG,COG0713@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "C",
+        "X13": "NDH-1 shuttles electrons from NADH, via FMN and iron- sulfur (Fe-S) centers, to quinones in the respiratory chain. The immediate electron acceptor for the enzyme in this species is believed to be ubiquinone. Couples the redox reaction to proton translocation (for every two electrons transferred, four hydrogen ions are translocated across the cytoplasmic membrane), and thus conserves the redox energy in a proton gradient (By similarity)"
+      }
     },
     {
       "seqnames": "MAG06_101",
@@ -46,7 +61,22 @@
       "sscore": "11.25",
       "rscore": "7.63",
       "uscore": "0.64",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_221_4",
+        "X2": "1117943.SFHH103_02110",
+        "X3": 1.1e-68,
+        "X4": 264.6,
+        "X5": "NUOL2",
+        "X6": "GO:0005575,GO:0016020",
+        "X7": "K00341,K05568",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "02E49@aproNOG,08I5Q@bactNOG,172IP@proNOG,COG0651@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "C",
+        "X13": "NADH dehydrogenase"
+      }
     },
     {
       "seqnames": "MAG06_101",
@@ -70,7 +100,22 @@
       "sscore": "16.59",
       "rscore": "13.75",
       "uscore": "-0.80",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_222_1",
+        "X2": "266834.SMc00658",
+        "X3": 3.3e-133,
+        "X4": 479.9,
+        "X5": null,
+        "X6": null,
+        "X7": "K07782,K18098,K18304,K19733",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "0207G@aproNOG,05U1Z@bactNOG,17V90@proNOG,COG2771@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "K",
+        "X13": "transcriptional regulator"
+      }
     },
     {
       "seqnames": "MAG06_101",
@@ -94,7 +139,22 @@
       "sscore": "2.05",
       "rscore": "13.75",
       "uscore": "-0.91",
-      "tscore": "-10.14"
+      "tscore": "-10.14",
+      "eggnog": {
+        "X1": "MAG06_222_2",
+        "X2": "266834.SMc00659",
+        "X3": 1.9e-226,
+        "X4": 790,
+        "X5": "MNMA",
+        "X6": "GO:0005575,GO:0005622,GO:0005623,GO:0005737,GO:0044424,GO:0044464",
+        "X7": "K00566",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01S90@aproNOG,05CCJ@bactNOG,16R40@proNOG,COG0482@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "J",
+        "X13": "Catalyzes the 2-thiolation of uridine at the wobble position (U34) of tRNA, leading to the formation of s(2)U34 (By similarity)"
+      }
     },
     {
       "seqnames": "MAG06_101",
@@ -118,7 +178,22 @@
       "sscore": "0.69",
       "rscore": "-4.72",
       "uscore": "1.76",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_223_1",
+        "X2": "266834.SMc00617",
+        "X3": 1.8e-125,
+        "X4": 453.8,
+        "X5": "ERUM1920",
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01YRP@aproNOG,07SBP@bactNOG,16V4W@proNOG,COG0593@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "L",
+        "X13": "chromosomal replication initiator"
+      }
     },
     {
       "seqnames": "MAG06_101",
@@ -142,7 +217,22 @@
       "sscore": "-8.12",
       "rscore": "2.03",
       "uscore": "-0.01",
-      "tscore": "-10.14"
+      "tscore": "-10.14",
+      "eggnog": {
+        "X1": "MAG06_223_10",
+        "X2": "266834.SMc01756",
+        "X3": 0,
+        "X4": 1224.5,
+        "X5": "ASPS",
+        "X6": "GO:0003674,GO:0003824,GO:0004812,GO:0004815,GO:0005575,GO:0005618,GO:0005622,GO:0005623,GO:0005737,GO:0005829,GO:0006082,GO:0006139,GO:0006399,GO:0006412,GO:0006418,GO:0006422,GO:0006520,GO:0006725,GO:0006807,GO:0008150,GO:0008152,GO:0009058,GO:0009059,GO:0009987,GO:0010467,GO:0016070,GO:0016874,GO:0016875,GO:0016876,GO:0019538,GO:0019752,GO:0030312,GO:0034641,GO:0034645,GO:0034660,GO:0043038,GO:0043039,GO:0043170,GO:0043436,GO:0044237,GO:0044238,GO:0044249,GO:0044260,GO:0044267,GO:0044281,GO:0044424,GO:0044444,GO:0044464,GO:0044710,GO:0046483,GO:0071704,GO:0071944,GO:0090304,GO:1901360,GO:1901564,GO:1901576",
+        "X7": "K01876",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01RXH@aproNOG,05C9M@bactNOG,16PIS@proNOG,COG0173@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "J",
+        "X13": "Aspartyl-tRNA synthetase"
+      }
     },
     {
       "seqnames": "MAG06_101",
@@ -166,7 +256,22 @@
       "sscore": "12.56",
       "rscore": "7.63",
       "uscore": "-2.04",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_223_11",
+        "X2": "266834.SMc01757",
+        "X3": 1.7e-64,
+        "X4": 250.4,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01YCM@aproNOG,05GJK@bactNOG,17CBX@proNOG,COG0607@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "P",
+        "X13": "Rhodanese-like protein"
+      }
     }
   ],
   "seqname": "MAG06_101",

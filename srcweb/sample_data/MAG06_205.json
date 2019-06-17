@@ -22,7 +22,22 @@
       "sscore": "3.22",
       "rscore": "0.00",
       "uscore": "0.00",
-      "tscore": "3.22"
+      "tscore": "3.22",
+      "eggnog": {
+        "X1": "MAG06_102_7",
+        "X2": "266834.SMc02218",
+        "X3": 2.7e-42,
+        "X4": 176,
+        "X5": "DCD",
+        "X6": "GO:0003674,GO:0003824,GO:0006139,GO:0006725,GO:0006753,GO:0006793,GO:0006796,GO:0006807,GO:0008150,GO:0008152,GO:0008829,GO:0009117,GO:0009262,GO:0009394,GO:0009987,GO:0016787,GO:0016810,GO:0016814,GO:0019239,GO:0019637,GO:0019692,GO:0034641,GO:0044237,GO:0044238,GO:0044281,GO:0044710,GO:0046483,GO:0055086,GO:0071704,GO:1901135,GO:1901360",
+        "X7": "K01494",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01RRP@aproNOG,05F5G@bactNOG,16SV9@proNOG,COG0717@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "F",
+        "X13": "2''-deoxycytidine 5''-triphosphate deaminase"
+      }
     },
     {
       "seqnames": "MAG06_205",
@@ -46,7 +61,22 @@
       "sscore": "-2.84",
       "rscore": "-4.56",
       "uscore": "-1.48",
-      "tscore": "3.20"
+      "tscore": "3.20",
+      "eggnog": {
+        "X1": "MAG06_318_4",
+        "X2": "266834.SMc00477",
+        "X3": 2.2e-293,
+        "X4": 1012.7,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01ST6@aproNOG,05CQH@bactNOG,16QS8@proNOG,COG5361@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "Protein of unknown function (DUF1254)"
+      }
     }
   ],
   "seqname": "MAG06_205",

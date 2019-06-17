@@ -22,7 +22,22 @@
       "sscore": "4.93",
       "rscore": "-4.72",
       "uscore": "-2.06",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_836_8",
+        "X2": "266834.SMc00192",
+        "X3": 3.5e-55,
+        "X4": 219.2,
+        "X5": "FDX",
+        "X6": null,
+        "X7": "K04755",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01Y8G@aproNOG,07Z7P@bactNOG,16W1H@proNOG,COG0633@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "C",
+        "X13": "Ferredoxin"
+      }
     },
     {
       "seqnames": "MAG06_881",
@@ -46,7 +61,22 @@
       "sscore": "3.38",
       "rscore": "-0.37",
       "uscore": "0.76",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_837_1",
+        "X2": "266834.SMc02285",
+        "X3": 4e-227,
+        "X4": 792.3,
+        "X5": null,
+        "X6": "GO:0005575,GO:0005623,GO:0005886,GO:0016020,GO:0044464,GO:0071944",
+        "X7": "K01768",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01X74@aproNOG,05F8J@bactNOG,16R78@proNOG,COG2114@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "T",
+        "X13": "Adenylate"
+      }
     },
     {
       "seqnames": "MAG06_881",
@@ -70,7 +100,22 @@
       "sscore": "17.44",
       "rscore": "13.75",
       "uscore": "0.05",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_837_10",
+        "X2": "266834.SMc02311",
+        "X3": 2e-110,
+        "X4": 403.7,
+        "X5": "MAF",
+        "X6": "GO:0000910,GO:0005575,GO:0005618,GO:0005622,GO:0005623,GO:0005737,GO:0007049,GO:0008150,GO:0009987,GO:0022402,GO:0030312,GO:0044424,GO:0044464,GO:0044699,GO:0044763,GO:0051301,GO:0071944",
+        "X7": "K06287",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01SSK@aproNOG,08Z03@bactNOG,17CMI@proNOG,COG0424@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "D",
+        "X13": "Maf-like protein"
+      }
     },
     {
       "seqnames": "MAG06_881",
@@ -94,7 +139,8 @@
       "sscore": "3.88",
       "rscore": "13.75",
       "uscore": "0.27",
-      "tscore": "-10.14"
+      "tscore": "-10.14",
+      "eggnog": {}
     },
     {
       "seqnames": "MAG06_881",
@@ -118,7 +164,22 @@
       "sscore": "2.72",
       "rscore": "0.00",
       "uscore": "0.00",
-      "tscore": "3.22"
+      "tscore": "3.22",
+      "eggnog": {
+        "X1": "MAG06_837_11",
+        "X2": "266834.SMc02312",
+        "X3": 1.6e-35,
+        "X4": 153.3,
+        "X5": "YACG",
+        "X6": "GO:0003674,GO:0004857,GO:0005488,GO:0006140,GO:0008150,GO:0008270,GO:0008657,GO:0009118,GO:0009894,GO:0010911,GO:0019219,GO:0019220,GO:0019222,GO:0030234,GO:0030811,GO:0031323,GO:0031329,GO:0032780,GO:0033121,GO:0042030,GO:0043086,GO:0043167,GO:0043169,GO:0043462,GO:0044092,GO:0046872,GO:0046914,GO:0050789,GO:0050790,GO:0050794,GO:0051171,GO:0051174,GO:0051336,GO:0051346,GO:0060589,GO:0060590,GO:0065007,GO:0065009,GO:0072586,GO:0080090,GO:1900542,GO:2000371,GO:2000372",
+        "X7": "K00859,K09862",
+        "X8": null,
+        "X9": "NOG[107]",
+        "X10": "COG3024@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "Inhibits all the catalytic activities of DNA gyrase by preventing its interaction with DNA. Acts by binding directly to the C-terminal domain of GyrB, which probably disrupts DNA binding by the gyrase (By similarity)"
+      }
     }
   ],
   "seqname": "MAG06_881",

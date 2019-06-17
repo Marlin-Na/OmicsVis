@@ -22,7 +22,22 @@
       "sscore": "14.68",
       "rscore": "10.54",
       "uscore": "-0.57",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_626_3",
+        "X2": "266834.SMc02400",
+        "X3": 8.2e-202,
+        "X4": 708,
+        "X5": "OCAR_5827",
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01WGR@aproNOG,08RY5@bactNOG,11I52@NOG,178TF@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": "M",
+        "X13": "porin outer membrane protein"
+      }
     },
     {
       "seqnames": "MAG06_602",
@@ -46,7 +61,22 @@
       "sscore": "4.74",
       "rscore": "3.33",
       "uscore": "-3.19",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_626_4",
+        "X2": "266834.SMc02401",
+        "X3": 1.4e-87,
+        "X4": 327.4,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "02948@aproNOG,071E8@bactNOG,0YUXB@NOG,18561@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "BA14K-like protein"
+      }
     },
     {
       "seqnames": "MAG06_602",
@@ -70,7 +100,22 @@
       "sscore": "3.22",
       "rscore": "0.00",
       "uscore": "0.00",
-      "tscore": "3.22"
+      "tscore": "3.22",
+      "eggnog": {
+        "X1": "MAG06_626_5",
+        "X2": "266834.SMc02403",
+        "X3": 0,
+        "X4": 1079.3,
+        "X5": "SLT",
+        "X6": null,
+        "X7": "K08309",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01R66@aproNOG,07SC1@bactNOG,16PKQ@proNOG,COG0741@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "M",
+        "X13": "transglycosylase"
+      }
     }
   ],
   "seqname": "MAG06_602",

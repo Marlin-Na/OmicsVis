@@ -22,7 +22,22 @@
       "sscore": "7.72",
       "rscore": "7.63",
       "uscore": "-3.55",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_296_1",
+        "X2": "765698.Mesci_2622",
+        "X3": 4.8e-74,
+        "X4": 282.7,
+        "X5": null,
+        "X6": null,
+        "X7": "K02027",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "025MQ@aproNOG,08K07@bactNOG,17Z8G@proNOG,COG1653@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "G",
+        "X13": "extracellular solute-binding protein, family 1"
+      }
     },
     {
       "seqnames": "MAG06_181",
@@ -46,7 +61,22 @@
       "sscore": "13.60",
       "rscore": "7.63",
       "uscore": "2.32",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_296_2",
+        "X2": "1082931.KKY_3079",
+        "X3": 7.9e-97,
+        "X4": 359,
+        "X5": null,
+        "X6": "GO:0005575,GO:0016020",
+        "X7": "K02025",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "0269Q@aproNOG,08YFH@bactNOG,17XFN@proNOG,COG1175@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "P",
+        "X13": "Binding-protein-dependent transport systems, inner membrane component"
+      }
     },
     {
       "seqnames": "MAG06_181",
@@ -70,7 +100,22 @@
       "sscore": "0.04",
       "rscore": "-3.78",
       "uscore": "0.83",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_296_3",
+        "X2": "765698.Mesci_2624",
+        "X3": 2.7e-29,
+        "X4": 133.7,
+        "X5": null,
+        "X6": "GO:0005575,GO:0016020",
+        "X7": "K02026,K10238,K15772",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "026QP@aproNOG,05EH6@bactNOG,16PCH@proNOG,COG0395@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "P",
+        "X13": "Binding-protein-dependent transport systems inner membrane component"
+      }
     },
     {
       "seqnames": "MAG06_181",
@@ -94,7 +139,22 @@
       "sscore": "5.57",
       "rscore": "2.03",
       "uscore": "-0.10",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_297_1",
+        "X2": "266834.SMc01934",
+        "X3": 3.2e-31,
+        "X4": 139,
+        "X5": "PROS",
+        "X6": "GO:0002161,GO:0003674,GO:0003824,GO:0004812,GO:0004827,GO:0005575,GO:0005618,GO:0005622,GO:0005623,GO:0005737,GO:0005829,GO:0005886,GO:0006082,GO:0006139,GO:0006399,GO:0006412,GO:0006417,GO:0006418,GO:0006433,GO:0006448,GO:0006450,GO:0006520,GO:0006725,GO:0006807,GO:0008150,GO:0008152,GO:0009058,GO:0009059,GO:0009889,GO:0009987,GO:0010467,GO:0010468,GO:0010556,GO:0010608,GO:0016020,GO:0016070,GO:0016787,GO:0016788,GO:0016874,GO:0016875,GO:0016876,GO:0019222,GO:0019538,GO:0019752,GO:0030312,GO:0031323,GO:0031326,GO:0032268,GO:0034641,GO:0034645,GO:0034660,GO:0040007,GO:0043038,GO:0043039,GO:0043170,GO:0043436,GO:0043906,GO:0044237,GO:0044238,GO:0044249,GO:0044260,GO:0044267,GO:0044281,GO:0044424,GO:0044444,GO:0044464,GO:0044710,GO:0046483,GO:0050789,GO:0050794,GO:0051246,GO:0052689,GO:0060255,GO:0065007,GO:0065008,GO:0071704,GO:0071944,GO:0080090,GO:0090304,GO:1901360,GO:1901564,GO:1901576,GO:2000112",
+        "X7": "K01881",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01QAI@aproNOG,05C90@bactNOG,16PEI@proNOG,COG0442@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "J",
+        "X13": "Catalyzes the attachment of proline to tRNA(Pro) in a two-step reaction proline is first activated by ATP to form Pro- AMP and then transferred to the acceptor end of tRNA(Pro) (By similarity)"
+      }
     }
   ],
   "seqname": "MAG06_181",

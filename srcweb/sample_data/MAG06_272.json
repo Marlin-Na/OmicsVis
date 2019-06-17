@@ -22,7 +22,22 @@
       "sscore": "-1.29",
       "rscore": "5.19",
       "uscore": "-0.96",
-      "tscore": "-4.87"
+      "tscore": "-4.87",
+      "eggnog": {
+        "X1": "MAG06_378_4",
+        "X2": "640510.BC1001_4087",
+        "X3": 2.5e-33,
+        "X4": 147.5,
+        "X5": "GST",
+        "X6": null,
+        "X7": "K00799",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "08K3A@bactNOG,1782M@proNOG,COG0625@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "O",
+        "X13": "Glutathione S-transferase"
+      }
     },
     {
       "seqnames": "MAG06_272",
@@ -46,7 +61,22 @@
       "sscore": "12.35",
       "rscore": "7.85",
       "uscore": "0.86",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_378_5",
+        "X2": "266779.Meso_1501",
+        "X3": 7e-86,
+        "X4": 322.4,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01SYC@aproNOG,05ECQ@bactNOG,16SF9@proNOG,COG4977@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "K",
+        "X13": "Transcriptional regulator, ARAC family"
+      }
     },
     {
       "seqnames": "MAG06_272",
@@ -70,7 +100,22 @@
       "sscore": "15.72",
       "rscore": "13.75",
       "uscore": "-1.68",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_379_1",
+        "X2": "311403.Arad_9490",
+        "X3": 2.9e-182,
+        "X4": 643.7,
+        "X5": "PCAF",
+        "X6": null,
+        "X7": "K00626,K00632,K02615,K07823",
+        "X8": "OGCOAAT",
+        "X9": "bactNOG[38]",
+        "X10": "01QDE@aproNOG,05CHU@bactNOG,16PGG@proNOG,COG0183@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "I",
+        "X13": "Beta-ketoadipyl CoA thiolase"
+      }
     }
   ],
   "seqname": "MAG06_272",

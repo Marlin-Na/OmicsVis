@@ -22,7 +22,8 @@
       "sscore": "-4.72",
       "rscore": "2.74",
       "uscore": "-0.32",
-      "tscore": "-7.14"
+      "tscore": "-7.14",
+      "eggnog": {}
     },
     {
       "seqnames": "MAG06_829",
@@ -46,7 +47,22 @@
       "sscore": "10.30",
       "rscore": "9.04",
       "uscore": "-1.28",
-      "tscore": "3.20"
+      "tscore": "3.20",
+      "eggnog": {
+        "X1": "MAG06_80_4",
+        "X2": "439375.Oant_0318",
+        "X3": 1e-138,
+        "X4": 498,
+        "X5": "HPCE",
+        "X6": null,
+        "X7": "K01826,K16165,K18336",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01QR9@aproNOG,05ERH@bactNOG,16PQY@proNOG,COG0179@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "Q",
+        "X13": "fumarylacetoacetate hydrolase family protein"
+      }
     },
     {
       "seqnames": "MAG06_829",
@@ -70,7 +86,22 @@
       "sscore": "16.50",
       "rscore": "12.94",
       "uscore": "-0.83",
-      "tscore": "3.20"
+      "tscore": "3.20",
+      "eggnog": {
+        "X1": "MAG06_80_5",
+        "X2": "311402.Avi_5129",
+        "X3": 1.7e-10,
+        "X4": 69.3,
+        "X5": "DGOA1",
+        "X6": null,
+        "X7": "K18334",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01UY8@aproNOG,05DIA@bactNOG,16RAS@proNOG,COG4948@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "M",
+        "X13": "mandelate racemase"
+      }
     },
     {
       "seqnames": "MAG06_829",
@@ -94,7 +125,22 @@
       "sscore": "3.34",
       "rscore": "1.81",
       "uscore": "0.08",
-      "tscore": "2.11"
+      "tscore": "2.11",
+      "eggnog": {
+        "X1": "MAG06_800_1",
+        "X2": "266834.SMc01345",
+        "X3": 3.5e-178,
+        "X4": 629.4,
+        "X5": "ACCC",
+        "X6": null,
+        "X7": "K01961",
+        "X8": "ACCOAC",
+        "X9": "bactNOG[38]",
+        "X10": "01R6S@aproNOG,05CER@bactNOG,16PUC@proNOG,COG0439@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "I",
+        "X13": "acetyl-CoA carboxylase, biotin carboxylase"
+      }
     },
     {
       "seqnames": "MAG06_829",
@@ -118,7 +164,22 @@
       "sscore": "12.00",
       "rscore": "9.04",
       "uscore": "-0.24",
-      "tscore": "3.20"
+      "tscore": "3.20",
+      "eggnog": {
+        "X1": "MAG06_800_2",
+        "X2": "266834.SMc01346",
+        "X3": 1.7e-114,
+        "X4": 417.2,
+        "X5": "AAT",
+        "X6": "GO:0003674,GO:0003824,GO:0005575,GO:0005622,GO:0005623,GO:0005737,GO:0006508,GO:0006511,GO:0008150,GO:0008152,GO:0008233,GO:0008914,GO:0009056,GO:0009057,GO:0009987,GO:0016740,GO:0016746,GO:0016755,GO:0016787,GO:0019538,GO:0019941,GO:0030163,GO:0043170,GO:0043632,GO:0044237,GO:0044238,GO:0044248,GO:0044257,GO:0044260,GO:0044265,GO:0044267,GO:0044424,GO:0044464,GO:0051603,GO:0071596,GO:0071704,GO:1901575",
+        "X7": "K00684",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01QA6@aproNOG,08R4Z@bactNOG,177SF@proNOG,COG2360@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "O",
+        "X13": "Functions in the N-end rule pathway of protein degradation where it conjugates Leu, Phe and, less efficiently, Met from aminoacyl-tRNAs to the N-termini of proteins containing an N-terminal arginine or lysine (By similarity)"
+      }
     }
   ],
   "seqname": "MAG06_829",

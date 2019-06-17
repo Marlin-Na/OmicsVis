@@ -22,7 +22,22 @@
       "sscore": "10.50",
       "rscore": "7.63",
       "uscore": "-1.91",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_83_3",
+        "X2": "266834.SMc00740",
+        "X3": 4.5e-46,
+        "X4": 188.7,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "020KV@aproNOG,05M45@bactNOG,17GKH@proNOG,COG4453@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "Protein of unknown function (DUF1778)"
+      }
     },
     {
       "seqnames": "MAG06_872",
@@ -46,7 +61,22 @@
       "sscore": "3.22",
       "rscore": "0.00",
       "uscore": "0.00",
-      "tscore": "3.22"
+      "tscore": "3.22",
+      "eggnog": {
+        "X1": "MAG06_83_4",
+        "X2": "266834.SMc00739",
+        "X3": 2.8e-88,
+        "X4": 329.7,
+        "X5": "MT0945",
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "020WF@aproNOG,08ZFK@bactNOG,178RX@proNOG,COG0454@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "K",
+        "X13": "GCN5-related N-acetyltransferase"
+      }
     }
   ],
   "seqname": "MAG06_872",

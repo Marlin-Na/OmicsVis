@@ -22,7 +22,22 @@
       "sscore": "3.22",
       "rscore": "0.00",
       "uscore": "0.00",
-      "tscore": "3.22"
+      "tscore": "3.22",
+      "eggnog": {
+        "X1": "MAG06_510_5",
+        "X2": "266834.SMc04094",
+        "X3": 9.4e-81,
+        "X4": 304.7,
+        "X5": "ERUM1390",
+        "X6": null,
+        "X7": "K09987",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01QBG@aproNOG,05DVJ@bactNOG,16QFB@proNOG,COG3820@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "Protein of unknown function (DUF1013)"
+      }
     },
     {
       "seqnames": "MAG06_450",
@@ -46,7 +61,22 @@
       "sscore": "8.27",
       "rscore": "3.33",
       "uscore": "-2.46",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_511_1",
+        "X2": "266834.SMc00323",
+        "X3": 1.6e-14,
+        "X4": 82.8,
+        "X5": "RPSO",
+        "X6": "GO:0003674,GO:0003676,GO:0003723,GO:0003735,GO:0005198,GO:0005488,GO:0005575,GO:0005622,GO:0005623,GO:0005737,GO:0005829,GO:0005840,GO:0005886,GO:0006139,GO:0006378,GO:0006396,GO:0006397,GO:0006412,GO:0006725,GO:0006807,GO:0008150,GO:0008152,GO:0009058,GO:0009059,GO:0009987,GO:0010467,GO:0015935,GO:0016020,GO:0016070,GO:0016071,GO:0019538,GO:0019843,GO:0022626,GO:0022627,GO:0030529,GO:0031123,GO:0031124,GO:0032991,GO:0034641,GO:0034645,GO:0043170,GO:0043226,GO:0043228,GO:0043229,GO:0043232,GO:0043631,GO:0044237,GO:0044238,GO:0044249,GO:0044260,GO:0044267,GO:0044391,GO:0044422,GO:0044424,GO:0044444,GO:0044445,GO:0044446,GO:0044464,GO:0046483,GO:0071704,GO:0071944,GO:0090304,GO:0097159,GO:1901360,GO:1901363,GO:1901576",
+        "X7": "K02956",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01ZWA@aproNOG,05K77@bactNOG,17FJ8@proNOG,COG0184@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "J",
+        "X13": "One of the primary rRNA binding proteins, it binds directly to 16S rRNA where it helps nucleate assembly of the platform of the 30S subunit by binding and bridging several RNA helices of the 16S rRNA (By similarity)"
+      }
     },
     {
       "seqnames": "MAG06_450",
@@ -70,7 +100,22 @@
       "sscore": "7.87",
       "rscore": "2.03",
       "uscore": "2.19",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_511_2",
+        "X2": "266834.SMc00322",
+        "X3": 0,
+        "X4": 1085.1,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01UD7@aproNOG,08MMT@bactNOG,1777I@proNOG,COG3920@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "T",
+        "X13": "Histidine kinase"
+      }
     },
     {
       "seqnames": "MAG06_450",
@@ -94,7 +139,22 @@
       "sscore": "9.30",
       "rscore": "7.63",
       "uscore": "-1.32",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_511_3",
+        "X2": "266834.SMc00321",
+        "X3": 1.2e-175,
+        "X4": 620.9,
+        "X5": "TRUB",
+        "X6": "GO:0001522,GO:0003674,GO:0003824,GO:0005575,GO:0005618,GO:0005623,GO:0006139,GO:0006396,GO:0006399,GO:0006400,GO:0006725,GO:0006807,GO:0008033,GO:0008150,GO:0008152,GO:0009451,GO:0009982,GO:0009987,GO:0010467,GO:0016070,GO:0016853,GO:0016866,GO:0030312,GO:0034470,GO:0034641,GO:0034660,GO:0043170,GO:0043412,GO:0044237,GO:0044238,GO:0044260,GO:0044464,GO:0046483,GO:0071704,GO:0071944,GO:0090304,GO:1901360",
+        "X7": "K03177",
+        "X8": "YUMPS",
+        "X9": "bactNOG[38]",
+        "X10": "01RX2@aproNOG,05D0T@bactNOG,16QHM@proNOG,COG0130@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "J",
+        "X13": "Responsible for synthesis of pseudouridine from uracil- 55 in the psi GC loop of transfer RNAs (By similarity)"
+      }
     },
     {
       "seqnames": "MAG06_450",
@@ -118,7 +178,22 @@
       "sscore": "4.34",
       "rscore": "2.03",
       "uscore": "-0.68",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_511_4",
+        "X2": "266834.SMc00320",
+        "X3": 9e-54,
+        "X4": 214.5,
+        "X5": "RBFA",
+        "X6": "GO:0005575,GO:0005622,GO:0005623,GO:0005737,GO:0044424,GO:0044464",
+        "X7": "K02834",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "0208H@aproNOG,07ZGG@bactNOG,16W4E@proNOG,COG0858@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "J",
+        "X13": "Associates with free 30S ribosomal subunits (but not with 30S subunits that are part of 70S ribosomes or polysomes). Essential for efficient processing of 16S rRNA. May interact with the 5'-terminal helix region of 16S rRNA (By similarity)"
+      }
     },
     {
       "seqnames": "MAG06_450",
@@ -142,7 +217,22 @@
       "sscore": "12.59",
       "rscore": "7.63",
       "uscore": "1.32",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_512_3",
+        "X2": "176299.Atu4145",
+        "X3": 2.7e-78,
+        "X4": 297.4,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "08W9E@bactNOG,11I9G@NOG,17R29@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "N-formylglutamate amidohydrolase"
+      }
     },
     {
       "seqnames": "MAG06_450",
@@ -166,7 +256,22 @@
       "sscore": "10.27",
       "rscore": "7.63",
       "uscore": "-0.35",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_512_4",
+        "X2": "861208.AGROH133_13007",
+        "X3": 6.9e-10,
+        "X4": 68.6,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "02B6A@aproNOG,06E0F@bactNOG,17IHS@proNOG,COG3930@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "DUF1704"
+      }
     },
     {
       "seqnames": "MAG06_450",
@@ -190,7 +295,22 @@
       "sscore": "9.86",
       "rscore": "7.85",
       "uscore": "-1.64",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_513_1",
+        "X2": "266834.SMc00357",
+        "X3": 1.7e-100,
+        "X4": 370.5,
+        "X5": "EFP",
+        "X6": "GO:0003674,GO:0003676,GO:0003723,GO:0003746,GO:0005488,GO:0005575,GO:0005622,GO:0005623,GO:0005737,GO:0006412,GO:0006414,GO:0008135,GO:0008150,GO:0008152,GO:0009058,GO:0009059,GO:0009987,GO:0010467,GO:0019538,GO:0034645,GO:0043170,GO:0044237,GO:0044238,GO:0044249,GO:0044260,GO:0044267,GO:0044424,GO:0044464,GO:0071704,GO:0097159,GO:1901363,GO:1901576",
+        "X7": "K02356",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01S4X@aproNOG,05DRH@bactNOG,16QQZ@proNOG,COG0231@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "J",
+        "X13": "Involved in peptide bond synthesis. Stimulates efficient translation and peptide-bond synthesis on native or reconstituted 70S ribosomes in vitro. Probably functions indirectly by altering the affinity of the ribosome for aminoacyl-tRNA, thus increasing their reactivity as acceptors for peptidyl transferase (By similarity)"
+      }
     },
     {
       "seqnames": "MAG06_450",
@@ -214,7 +334,22 @@
       "sscore": "4.88",
       "rscore": "2.03",
       "uscore": "-0.14",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_513_2",
+        "X2": "266834.SMc00358",
+        "X3": 2.9e-238,
+        "X4": 829.3,
+        "X5": "CFA",
+        "X6": null,
+        "X7": "K00574",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01R1H@aproNOG,05CV9@bactNOG,16PK5@proNOG,COG2230@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "M",
+        "X13": "cyclopropane-fatty-acyl-phospholipid synthase"
+      }
     },
     {
       "seqnames": "MAG06_450",
@@ -238,7 +373,22 @@
       "sscore": "4.44",
       "rscore": "2.03",
       "uscore": "-1.23",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_513_3",
+        "X2": "266834.SMc00359",
+        "X3": 1.3e-177,
+        "X4": 627.5,
+        "X5": "BFSE",
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01RNJ@aproNOG,05DGS@bactNOG,16R1N@proNOG,COG1633@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "Rubrerythrin"
+      }
     }
   ],
   "seqname": "MAG06_450",

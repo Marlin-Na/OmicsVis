@@ -22,7 +22,22 @@
       "sscore": "10.18",
       "rscore": "7.63",
       "uscore": "-0.44",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_704_6",
+        "X2": "266834.SMc01559",
+        "X3": 6.9e-75,
+        "X4": 285,
+        "X5": "YJBQ",
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01X6F@aproNOG,08YXI@bactNOG,17CJJ@proNOG,COG0432@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "Uncharacterised protein family UPF0047"
+      }
     },
     {
       "seqnames": "MAG06_711",
@@ -46,7 +61,22 @@
       "sscore": "7.67",
       "rscore": "3.33",
       "uscore": "0.70",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_704_7",
+        "X2": "366394.Smed_2218",
+        "X3": 3.5e-60,
+        "X4": 236.1,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01Y7Y@aproNOG,090NR@bactNOG,11NRT@NOG,17CPE@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "SnoaL-like polyketide cyclase"
+      }
     },
     {
       "seqnames": "MAG06_711",
@@ -70,7 +100,22 @@
       "sscore": "0.39",
       "rscore": "-4.72",
       "uscore": "0.24",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_704_8",
+        "X2": "266834.SMc01557",
+        "X3": 2.2e-60,
+        "X4": 236.9,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "023JX@aproNOG,06E7U@bactNOG,0Y57N@NOG,17S1A@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": null,
+        "X13": null
+      }
     }
   ],
   "seqname": "MAG06_711",

@@ -22,7 +22,22 @@
       "sscore": "-9.24",
       "rscore": "-4.72",
       "uscore": "-0.47",
-      "tscore": "-4.87"
+      "tscore": "-4.87",
+      "eggnog": {
+        "X1": "MAG06_558_3",
+        "X2": "216596.RL0293",
+        "X3": 1.7e-73,
+        "X4": 280.8,
+        "X5": "OGT",
+        "X6": "GO:0005575,GO:0005622,GO:0005623,GO:0005737,GO:0044424,GO:0044464",
+        "X7": "K00567,K13531",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01WNF@aproNOG,05K85@bactNOG,17A4Q@proNOG,COG0350@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "L",
+        "X13": "methylated-DNA-protein-cysteine methyltransferase"
+      }
     },
     {
       "seqnames": "MAG06_514",
@@ -46,7 +61,22 @@
       "sscore": "9.56",
       "rscore": "7.63",
       "uscore": "-1.06",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_115_6",
+        "X2": "266834.SMc01877",
+        "X3": 1.3e-297,
+        "X4": 1026.9,
+        "X5": "RECN",
+        "X6": "GO:0000724,GO:0000725,GO:0005575,GO:0005618,GO:0005622,GO:0005623,GO:0005737,GO:0006139,GO:0006259,GO:0006281,GO:0006302,GO:0006310,GO:0006725,GO:0006807,GO:0006950,GO:0006974,GO:0007154,GO:0008150,GO:0008152,GO:0009295,GO:0009432,GO:0009605,GO:0009987,GO:0009991,GO:0030312,GO:0031668,GO:0033554,GO:0034641,GO:0043170,GO:0043226,GO:0043228,GO:0043229,GO:0043232,GO:0043590,GO:0044237,GO:0044238,GO:0044260,GO:0044424,GO:0044464,GO:0044699,GO:0044763,GO:0046483,GO:0050896,GO:0051716,GO:0071496,GO:0071704,GO:0071944,GO:0090304,GO:1901360",
+        "X7": "K03631",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01QQX@aproNOG,05C4F@bactNOG,16PSH@proNOG,COG0497@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "L",
+        "X13": "May be involved in recombinational repair of damaged DNA (By similarity)"
+      }
     },
     {
       "seqnames": "MAG06_514",
@@ -70,7 +100,22 @@
       "sscore": "12.03",
       "rscore": "7.63",
       "uscore": "0.76",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_115_7",
+        "X2": "266834.SMc01878",
+        "X3": 2.3e-16,
+        "X4": 89,
+        "X5": "LIGA",
+        "X6": "GO:0000287,GO:0003674,GO:0003824,GO:0003909,GO:0003911,GO:0005488,GO:0005575,GO:0005618,GO:0005622,GO:0005623,GO:0005737,GO:0005829,GO:0005886,GO:0006139,GO:0006259,GO:0006260,GO:0006266,GO:0006281,GO:0006310,GO:0006725,GO:0006807,GO:0006950,GO:0006974,GO:0008150,GO:0008152,GO:0009058,GO:0009059,GO:0009987,GO:0016020,GO:0016874,GO:0016886,GO:0030312,GO:0033554,GO:0034641,GO:0034645,GO:0040007,GO:0043167,GO:0043169,GO:0043170,GO:0044237,GO:0044238,GO:0044249,GO:0044260,GO:0044424,GO:0044444,GO:0044464,GO:0044699,GO:0044763,GO:0046483,GO:0046872,GO:0050896,GO:0051716,GO:0071704,GO:0071944,GO:0090304,GO:1901360,GO:1901576",
+        "X7": "K01972",
+        "X8": "NADDP",
+        "X9": "bactNOG[38]",
+        "X10": "01QQ0@aproNOG,05C77@bactNOG,16PMQ@proNOG,COG0272@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "L",
+        "X13": "DNA ligase that catalyzes the formation of phosphodiester linkages between 5'-phosphoryl and 3'-hydroxyl groups in double-stranded DNA using NAD as a coenzyme and as the energy source for the reaction. It is essential for DNA replication and repair of damaged DNA (By similarity)"
+      }
     },
     {
       "seqnames": "MAG06_514",
@@ -94,7 +139,22 @@
       "sscore": "10.81",
       "rscore": "7.85",
       "uscore": "-0.03",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_116_1",
+        "X2": "641118.OINT_1000397",
+        "X3": 3.8e-132,
+        "X4": 476.1,
+        "X5": "GCL",
+        "X6": "GO:0003674,GO:0003824,GO:0003933,GO:0003934,GO:0005488,GO:0006066,GO:0006081,GO:0006082,GO:0008150,GO:0008152,GO:0009028,GO:0009056,GO:0009436,GO:0009441,GO:0009987,GO:0016054,GO:0016787,GO:0016810,GO:0016814,GO:0016829,GO:0016830,GO:0016831,GO:0019238,GO:0019752,GO:0019842,GO:0030976,GO:0032787,GO:0034308,GO:0034310,GO:0036094,GO:0043167,GO:0043168,GO:0043169,GO:0043436,GO:0044237,GO:0044248,GO:0044281,GO:0044282,GO:0044710,GO:0044712,GO:0046164,GO:0046185,GO:0046296,GO:0046395,GO:0046487,GO:0048037,GO:0050662,GO:0071704,GO:0072329,GO:0097159,GO:1901363,GO:1901575,GO:1901615,GO:1901616,GO:1901681",
+        "X7": "K01608",
+        "X8": "GLXCL",
+        "X9": "bactNOG[38]",
+        "X10": "01SU0@aproNOG,060W2@bactNOG,16TIT@proNOG,COG3960@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "glyoxylate carboligase"
+      }
     },
     {
       "seqnames": "MAG06_514",
@@ -118,7 +178,22 @@
       "sscore": "11.77",
       "rscore": "7.63",
       "uscore": "-0.48",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_116_2",
+        "X2": "439375.Oant_0459",
+        "X3": 4.1e-116,
+        "X4": 422.9,
+        "X5": "HYI",
+        "X6": "GO:0003674,GO:0003824,GO:0005488,GO:0005515,GO:0006081,GO:0006082,GO:0008150,GO:0008152,GO:0008903,GO:0009987,GO:0016853,GO:0016860,GO:0016861,GO:0019752,GO:0032787,GO:0042802,GO:0042803,GO:0043436,GO:0044237,GO:0044281,GO:0044710,GO:0046487,GO:0046983,GO:0071704",
+        "X7": "K01816",
+        "X8": "HPYRI",
+        "X9": "bactNOG[38]",
+        "X10": "01QBC@aproNOG,05QG4@bactNOG,16PF7@proNOG,COG3622@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "G",
+        "X13": "Catalyzes the reversible isomerization between hydroxypyruvate and 2-hydroxy-3-oxopropanoate (also termed tartronate semialdehyde) (By similarity)"
+      }
     },
     {
       "seqnames": "MAG06_514",
@@ -142,7 +217,22 @@
       "sscore": "8.76",
       "rscore": "6.77",
       "uscore": "-1.00",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_559_1",
+        "X2": "391600.BBAL3_73",
+        "X3": 4.3e-19,
+        "X4": 99.4,
+        "X5": "INT",
+        "X6": "GO:0003674,GO:0003824,GO:0006139,GO:0006259,GO:0006725,GO:0006807,GO:0008150,GO:0008152,GO:0008907,GO:0008979,GO:0009987,GO:0015074,GO:0016032,GO:0019042,GO:0019043,GO:0034641,GO:0043170,GO:0044237,GO:0044238,GO:0044260,GO:0044403,GO:0044419,GO:0044764,GO:0046483,GO:0051704,GO:0071704,GO:0075713,GO:0090304,GO:1901360",
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01T7Q@aproNOG,07M20@bactNOG,0Y81N@NOG,173P8@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": "L",
+        "X13": "integrase family"
+      }
     }
   ],
   "seqname": "MAG06_514",

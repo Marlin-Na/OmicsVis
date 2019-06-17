@@ -22,7 +22,22 @@
       "sscore": "3.87",
       "rscore": "2.03",
       "uscore": "-1.15",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_266_8",
+        "X2": "266834.SMc02691",
+        "X3": 1.3e-195,
+        "X4": 687.6,
+        "X5": "BENE",
+        "X6": "GO:0003674,GO:0005215,GO:0006810,GO:0008150,GO:0051179,GO:0051234",
+        "X7": "K05782",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01SRM@aproNOG,05DKK@bactNOG,16Q3N@proNOG,COG3135@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "Q",
+        "X13": "benzoate transporter"
+      }
     },
     {
       "seqnames": "MAG06_150",
@@ -46,7 +61,22 @@
       "sscore": "16.95",
       "rscore": "13.75",
       "uscore": "-1.16",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_267_1",
+        "X2": "266834.SMc02050",
+        "X3": 5e-261,
+        "X4": 905.2,
+        "X5": "TIG",
+        "X6": "GO:0000413,GO:0003674,GO:0003755,GO:0003824,GO:0005488,GO:0005515,GO:0005575,GO:0005618,GO:0005622,GO:0005623,GO:0005737,GO:0005829,GO:0005886,GO:0006457,GO:0006458,GO:0006461,GO:0006464,GO:0006950,GO:0007154,GO:0008150,GO:0008152,GO:0009267,GO:0009605,GO:0009636,GO:0009987,GO:0009991,GO:0016020,GO:0016043,GO:0016853,GO:0016859,GO:0018193,GO:0018208,GO:0019538,GO:0022607,GO:0030312,GO:0031667,GO:0031668,GO:0031669,GO:0033554,GO:0036211,GO:0042221,GO:0042594,GO:0043021,GO:0043022,GO:0043170,GO:0043412,GO:0043933,GO:0044085,GO:0044183,GO:0044237,GO:0044238,GO:0044260,GO:0044267,GO:0044424,GO:0044444,GO:0044464,GO:0044699,GO:0044763,GO:0046677,GO:0050896,GO:0051083,GO:0051716,GO:0065003,GO:0070271,GO:0071496,GO:0071704,GO:0071822,GO:0071840,GO:0071944",
+        "X7": "K01802,K03545",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01Q9P@aproNOG,05DEA@bactNOG,16PB0@proNOG,COG0544@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "O",
+        "X13": "Involved in protein export. Acts as a chaperone by maintaining the newly synthesized protein in an open conformation"
+      }
     },
     {
       "seqnames": "MAG06_150",
@@ -70,7 +100,22 @@
       "sscore": "6.26",
       "rscore": "5.51",
       "uscore": "-2.24",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_267_2",
+        "X2": "266834.SMc02049",
+        "X3": 6.1e-10,
+        "X4": 67,
+        "X5": "GCVP",
+        "X6": "GO:0003674,GO:0003824,GO:0004375,GO:0005575,GO:0005618,GO:0005622,GO:0005623,GO:0005737,GO:0005829,GO:0005886,GO:0008150,GO:0008152,GO:0016020,GO:0016491,GO:0016638,GO:0016642,GO:0030312,GO:0040007,GO:0044424,GO:0044444,GO:0044464,GO:0044710,GO:0055114,GO:0071944",
+        "X7": "K00281,K00283",
+        "X8": "GCCa,GLYCL",
+        "X9": "bactNOG[38]",
+        "X10": "01RRK@aproNOG,05CBI@bactNOG,16QJM@proNOG,COG0403@NOG,COG1003@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "E",
+        "X13": "The glycine cleavage system catalyzes the degradation of glycine. The P protein binds the alpha-amino group of glycine through its pyridoxal phosphate cofactor"
+      }
     },
     {
       "seqnames": "MAG06_150",
@@ -94,7 +139,22 @@
       "sscore": "13.00",
       "rscore": "7.63",
       "uscore": "2.23",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_268_1",
+        "X2": "266834.SMc01192",
+        "X3": 4.1e-251,
+        "X4": 872.1,
+        "X5": "METG",
+        "X6": "GO:0003674,GO:0003824,GO:0004812,GO:0004825,GO:0005575,GO:0005622,GO:0005623,GO:0005737,GO:0005829,GO:0005886,GO:0008150,GO:0008152,GO:0016020,GO:0016874,GO:0016875,GO:0016876,GO:0040007,GO:0044424,GO:0044444,GO:0044464,GO:0071944",
+        "X7": "K01874",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01Q7K@aproNOG,05CKH@bactNOG,16PBZ@proNOG,COG0143@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "J",
+        "X13": "Is required not only for elongation of protein synthesis but also for the initiation of all mRNA translation through initiator tRNA(fMet) aminoacylation (By similarity)"
+      }
     }
   ],
   "seqname": "MAG06_150",

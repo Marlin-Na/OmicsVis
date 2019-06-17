@@ -22,7 +22,22 @@
       "sscore": "17.76",
       "rscore": "13.75",
       "uscore": "1.02",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_36_5",
+        "X2": "491916.RHECIAT_CH0001873",
+        "X3": 1.1e-51,
+        "X4": 207.6,
+        "X5": "NIRD",
+        "X6": "GO:0003674,GO:0003824,GO:0004457,GO:0005575,GO:0005622,GO:0005623,GO:0005737,GO:0006807,GO:0008150,GO:0008152,GO:0008720,GO:0016491,GO:0016614,GO:0016616,GO:0044424,GO:0044464,GO:0044710,GO:0055114",
+        "X7": "K00363",
+        "X8": "NTRIR2x,NTRIRx,NTRIRy",
+        "X9": "bactNOG[38]",
+        "X10": "0201N@aproNOG,05KH3@bactNOG,17FCT@proNOG,COG2146@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "C",
+        "X13": "Nitrite reductase (NAD(P)H), small subunit"
+      }
     },
     {
       "seqnames": "MAG06_258",
@@ -46,7 +61,22 @@
       "sscore": "-1.09",
       "rscore": "-4.72",
       "uscore": "-0.02",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_36_6",
+        "X2": "491916.RHECIAT_CH0001872",
+        "X3": 0,
+        "X4": 1250.3,
+        "X5": "NASA",
+        "X6": "GO:0003674,GO:0003824,GO:0006091,GO:0008150,GO:0008152,GO:0009987,GO:0015980,GO:0016491,GO:0016651,GO:0044237,GO:0044710,GO:0045333,GO:0055114",
+        "X7": "K00123,K00372,K02567",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "02E6E@aproNOG,08IEF@bactNOG,172PQ@proNOG,COG0243@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "C",
+        "X13": "Nitrate reductase, large subunit"
+      }
     },
     {
       "seqnames": "MAG06_258",
@@ -70,7 +100,22 @@
       "sscore": "4.94",
       "rscore": "-4.72",
       "uscore": "-0.03",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_360_1",
+        "X2": "266834.SMc01225",
+        "X3": 2.5e-164,
+        "X4": 583.2,
+        "X5": "YOFA",
+        "X6": "GO:0005575,GO:0005622,GO:0005623,GO:0005737,GO:0044424,GO:0044464",
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01RW3@aproNOG,05SKE@bactNOG,16RH4@proNOG,COG0583@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "K",
+        "X13": "transcriptional Regulator, LysR family"
+      }
     },
     {
       "seqnames": "MAG06_258",
@@ -94,7 +139,22 @@
       "sscore": "12.02",
       "rscore": "7.63",
       "uscore": "1.40",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_360_2",
+        "X2": "266834.SMc01226",
+        "X3": 4.5e-49,
+        "X4": 198.7,
+        "X5": null,
+        "X6": null,
+        "X7": "K03892",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "02E8Q@aproNOG,08IN4@bactNOG,11VSN@NOG,172UX@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": "K",
+        "X13": "arsR family transcriptional regulator"
+      }
     },
     {
       "seqnames": "MAG06_258",
@@ -118,7 +178,22 @@
       "sscore": "1.18",
       "rscore": "-4.72",
       "uscore": "2.25",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_360_3",
+        "X2": "266834.SMc01227",
+        "X3": 3.3e-164,
+        "X4": 582.8,
+        "X5": "NERA",
+        "X6": "GO:0003674,GO:0003824,GO:0006805,GO:0008150,GO:0008152,GO:0009056,GO:0009410,GO:0009987,GO:0016491,GO:0042178,GO:0042221,GO:0044237,GO:0044248,GO:0044699,GO:0044710,GO:0044763,GO:0050896,GO:0051716,GO:0055114,GO:0070887,GO:0071466",
+        "X7": "K10680,K15552",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01QIA@aproNOG,05CCY@bactNOG,16PK7@proNOG,COG1902@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "C",
+        "X13": "NADH flavin oxidoreductase NADH oxidase"
+      }
     },
     {
       "seqnames": "MAG06_258",
@@ -142,7 +217,22 @@
       "sscore": "13.60",
       "rscore": "7.85",
       "uscore": "2.10",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_360_4",
+        "X2": "266834.SMc01227",
+        "X3": 3e-34,
+        "X4": 149.1,
+        "X5": "NERA",
+        "X6": "GO:0003674,GO:0003824,GO:0006805,GO:0008150,GO:0008152,GO:0009056,GO:0009410,GO:0009987,GO:0016491,GO:0042178,GO:0042221,GO:0044237,GO:0044248,GO:0044699,GO:0044710,GO:0044763,GO:0050896,GO:0051716,GO:0055114,GO:0070887,GO:0071466",
+        "X7": "K10680,K15552",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01QIA@aproNOG,05CCY@bactNOG,16PK7@proNOG,COG1902@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "C",
+        "X13": "NADH flavin oxidoreductase NADH oxidase"
+      }
     },
     {
       "seqnames": "MAG06_258",
@@ -166,7 +256,22 @@
       "sscore": "4.93",
       "rscore": "-4.72",
       "uscore": "-1.74",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_360_5",
+        "X2": "266834.SMc01228",
+        "X3": 4e-148,
+        "X4": 529.3,
+        "X5": "STRB",
+        "X6": "GO:0008150,GO:0009636,GO:0042221,GO:0046677,GO:0050896",
+        "X7": "K04343",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01W92@aproNOG,062S2@bactNOG,16UN3@proNOG,COG3570@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "V",
+        "X13": "antibiotic resistance"
+      }
     },
     {
       "seqnames": "MAG06_258",
@@ -190,7 +295,22 @@
       "sscore": "-2.66",
       "rscore": "-0.69",
       "uscore": "-5.62",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_361_1",
+        "X2": "266834.SMc04226",
+        "X3": 3.4e-103,
+        "X4": 379.4,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "023DR@aproNOG,061SP@bactNOG,0ZSFY@NOG,17N3S@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": "O",
+        "X13": "protease inhibitor"
+      }
     }
   ],
   "seqname": "MAG06_258",

@@ -22,7 +22,8 @@
       "sscore": "3.22",
       "rscore": "0.00",
       "uscore": "0.00",
-      "tscore": "3.22"
+      "tscore": "3.22",
+      "eggnog": {}
     },
     {
       "seqnames": "MAG06_740",
@@ -46,7 +47,22 @@
       "sscore": "7.24",
       "rscore": "2.03",
       "uscore": "0.31",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_730_7",
+        "X2": "861208.AGROH133_12819",
+        "X3": 5.4e-100,
+        "X4": 369.4,
+        "X5": "BGLS",
+        "X6": "GO:0000272,GO:0003674,GO:0003824,GO:0004553,GO:0005575,GO:0005576,GO:0005975,GO:0005976,GO:0008150,GO:0008152,GO:0009056,GO:0009057,GO:0016052,GO:0016787,GO:0016798,GO:0042972,GO:0043170,GO:0044238,GO:0071704,GO:1901575",
+        "X7": "K01179,K16559",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01WN8@aproNOG,08RZ2@bactNOG,179AZ@proNOG,COG2273@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "G",
+        "X13": "glycoside hydrolase family protein"
+      }
     },
     {
       "seqnames": "MAG06_740",
@@ -70,7 +86,22 @@
       "sscore": "13.31",
       "rscore": "13.75",
       "uscore": "-3.43",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_730_8",
+        "X2": "1050720.Agau_L100910",
+        "X3": 4.7e-11,
+        "X4": 72.4,
+        "X5": "EXOH",
+        "X6": null,
+        "X7": "K16560",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "027WZ@aproNOG,05NXS@bactNOG,11X4W@NOG,17M3G@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "Succinoglycan biosynthesis protein"
+      }
     }
   ],
   "seqname": "MAG06_740",

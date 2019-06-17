@@ -22,7 +22,22 @@
       "sscore": "9.72",
       "rscore": "7.85",
       "uscore": "-1.78",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_148_3",
+        "X2": "266834.SMc00237",
+        "X3": 4e-82,
+        "X4": 309.3,
+        "X5": "MOAC",
+        "X6": "GO:0003674,GO:0003824,GO:0005575,GO:0005622,GO:0005623,GO:0005737,GO:0006732,GO:0006777,GO:0006793,GO:0006796,GO:0006807,GO:0008150,GO:0008152,GO:0009058,GO:0009108,GO:0009987,GO:0018130,GO:0019538,GO:0019637,GO:0019720,GO:0032324,GO:0043170,GO:0043545,GO:0044237,GO:0044238,GO:0044249,GO:0044260,GO:0044267,GO:0044424,GO:0044464,GO:0046483,GO:0051186,GO:0051188,GO:0051189,GO:0071704,GO:0090407,GO:1901360,GO:1901362,GO:1901564,GO:1901566,GO:1901576",
+        "X7": "K03637",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01WVD@aproNOG,08YXW@bactNOG,179NF@proNOG,COG0315@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "H",
+        "X13": "Together with MoaA, is involved in the conversion of 5'- GTP to cyclic pyranopterin monophosphate (cPMP or molybdopterin precursor Z) (By similarity)"
+      }
     },
     {
       "seqnames": "MAG06_875",
@@ -46,7 +61,22 @@
       "sscore": "5.92",
       "rscore": "2.03",
       "uscore": "0.25",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_148_4",
+        "X2": "266834.SMc00238",
+        "X3": 9.9e-223,
+        "X4": 777.7,
+        "X5": "MOEA",
+        "X6": "GO:0005575,GO:0005622,GO:0005623,GO:0005737,GO:0005829,GO:0005886,GO:0016020,GO:0044424,GO:0044444,GO:0044464,GO:0071944",
+        "X7": "K00963,K03750",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01S59@aproNOG,05CVM@bactNOG,16PHA@proNOG,COG0303@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "H",
+        "X13": "biosynthesis protein"
+      }
     }
   ],
   "seqname": "MAG06_875",

@@ -22,7 +22,22 @@
       "sscore": "3.22",
       "rscore": "0.00",
       "uscore": "0.00",
-      "tscore": "3.22"
+      "tscore": "3.22",
+      "eggnog": {
+        "X1": "MAG06_206_3",
+        "X2": "266834.SMc02323",
+        "X3": 4.4e-107,
+        "X4": 392.5,
+        "X5": "ULAR",
+        "X6": "GO:0001071,GO:0003674,GO:0003700,GO:0005488,GO:0005575,GO:0005622,GO:0005623,GO:0005737,GO:0006139,GO:0006351,GO:0006355,GO:0006725,GO:0006807,GO:0008150,GO:0008152,GO:0009058,GO:0009059,GO:0009889,GO:0009987,GO:0010467,GO:0010468,GO:0010556,GO:0016070,GO:0018130,GO:0019219,GO:0019222,GO:0019438,GO:0019842,GO:0030246,GO:0031323,GO:0031326,GO:0031406,GO:0031418,GO:0032774,GO:0034641,GO:0034645,GO:0034654,GO:0036094,GO:0043167,GO:0043168,GO:0043170,GO:0044237,GO:0044238,GO:0044249,GO:0044260,GO:0044271,GO:0044424,GO:0044464,GO:0046483,GO:0048029,GO:0050789,GO:0050794,GO:0051171,GO:0051252,GO:0060255,GO:0065007,GO:0071704,GO:0080090,GO:0090304,GO:1901360,GO:1901362,GO:1901576,GO:2000112,GO:2001141",
+        "X7": "K02081,K02444,K03477",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01SQE@aproNOG,05DW5@bactNOG,16RG9@proNOG,COG1349@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "K",
+        "X13": "deoR family transcriptional regulator"
+      }
     },
     {
       "seqnames": "MAG06_80",
@@ -46,7 +61,22 @@
       "sscore": "4.65",
       "rscore": "2.74",
       "uscore": "-2.55",
-      "tscore": "3.20"
+      "tscore": "3.20",
+      "eggnog": {
+        "X1": "MAG06_207_1",
+        "X2": "744980.TRICHSKD4_3508",
+        "X3": 2e-113,
+        "X4": 416,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01Q6K@aproNOG,05DDI@bactNOG,16QU3@proNOG,COG2931@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "O",
+        "X13": "Hemolysin-type calcium-binding"
+      }
     },
     {
       "seqnames": "MAG06_80",
@@ -70,7 +100,22 @@
       "sscore": "14.75",
       "rscore": "9.04",
       "uscore": "1.22",
-      "tscore": "3.20"
+      "tscore": "3.20",
+      "eggnog": {
+        "X1": "MAG06_207_2",
+        "X2": "394.NGR_c30430",
+        "X3": 2.1e-147,
+        "X4": 526.9,
+        "X5": "FDH",
+        "X6": null,
+        "X7": "K00098,K00148",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01SJQ@aproNOG,05E2A@bactNOG,16RE7@proNOG,COG1063@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "C",
+        "X13": "Dehydrogenase"
+      }
     },
     {
       "seqnames": "MAG06_80",
@@ -94,7 +139,22 @@
       "sscore": "7.05",
       "rscore": "2.74",
       "uscore": "0.07",
-      "tscore": "3.20"
+      "tscore": "3.20",
+      "eggnog": {
+        "X1": "MAG06_208_2",
+        "X2": "311403.Arad_3542",
+        "X3": 4.6e-80,
+        "X4": 302.8,
+        "X5": "YAHD",
+        "X6": "GO:0005575,GO:0005622,GO:0005623,GO:0005737,GO:0044424,GO:0044464",
+        "X7": "K06999",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01XS9@aproNOG,05FBA@bactNOG,17B9K@proNOG,COG0400@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "K06999 phospholipase carboxylesterase"
+      }
     },
     {
       "seqnames": "MAG06_80",
@@ -118,7 +178,8 @@
       "sscore": "7.75",
       "rscore": "9.04",
       "uscore": "-4.49",
-      "tscore": "3.20"
+      "tscore": "3.20",
+      "eggnog": {}
     }
   ],
   "seqname": "MAG06_80",

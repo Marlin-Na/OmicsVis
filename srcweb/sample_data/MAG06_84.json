@@ -22,7 +22,22 @@
       "sscore": "8.44",
       "rscore": "7.63",
       "uscore": "-2.18",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_210_10",
+        "X2": "266834.SMc00595",
+        "X3": 4.2e-72,
+        "X4": 275.8,
+        "X5": "NDK",
+        "X6": "GO:0003674,GO:0003824,GO:0004518,GO:0004550,GO:0005575,GO:0005576,GO:0005622,GO:0005623,GO:0005737,GO:0005886,GO:0006139,GO:0006165,GO:0006464,GO:0006468,GO:0006725,GO:0006753,GO:0006793,GO:0006796,GO:0006807,GO:0008150,GO:0008152,GO:0009058,GO:0009117,GO:0009132,GO:0009165,GO:0009987,GO:0015949,GO:0016020,GO:0016301,GO:0016310,GO:0016740,GO:0016772,GO:0016776,GO:0016787,GO:0016788,GO:0018130,GO:0018995,GO:0019205,GO:0019438,GO:0019538,GO:0019637,GO:0033643,GO:0033646,GO:0033647,GO:0033648,GO:0034641,GO:0034654,GO:0036211,GO:0042025,GO:0043170,GO:0043245,GO:0043412,GO:0043656,GO:0043657,GO:0044215,GO:0044216,GO:0044217,GO:0044237,GO:0044238,GO:0044249,GO:0044260,GO:0044267,GO:0044271,GO:0044281,GO:0044421,GO:0044424,GO:0044464,GO:0044710,GO:0046483,GO:0046777,GO:0046939,GO:0055086,GO:0071704,GO:0071944,GO:0090304,GO:0090305,GO:0090407,GO:1901293,GO:1901360,GO:1901362,GO:1901576",
+        "X7": "K00940",
+        "X8": "NDPK1,NDPK10,NDPK2,NDPK3,NDPK4,NDPK5,NDPK6,NDPK7,NDPK8,NDPK9",
+        "X9": "bactNOG[38]",
+        "X10": "01X6B@aproNOG,08UGX@bactNOG,179MB@proNOG,COG0105@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "F",
+        "X13": "Major role in the synthesis of nucleoside triphosphates other than ATP. The ATP gamma phosphate is transferred to the NDP beta phosphate via a ping-pong mechanism, using a phosphorylated active-site intermediate (By similarity)"
+      }
     },
     {
       "seqnames": "MAG06_84",
@@ -46,7 +61,22 @@
       "sscore": "10.99",
       "rscore": "7.63",
       "uscore": "-0.28",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_210_11",
+        "X2": "266834.SMc00596",
+        "X3": 3.5e-89,
+        "X4": 332.8,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "020YC@aproNOG,05TSZ@bactNOG,11ZSH@NOG,17FQS@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": null,
+        "X13": null
+      }
     },
     {
       "seqnames": "MAG06_84",
@@ -70,7 +100,8 @@
       "sscore": "14.57",
       "rscore": "10.54",
       "uscore": "1.04",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {}
     },
     {
       "seqnames": "MAG06_84",
@@ -94,7 +125,22 @@
       "sscore": "6.42",
       "rscore": "3.33",
       "uscore": "-0.55",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_210_12",
+        "X2": "266834.SMc00597",
+        "X3": 1.8e-102,
+        "X4": 377.1,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "0245J@aproNOG,06180@bactNOG,17RZT@proNOG,COG5516@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "Protein of unknown function (DUF1470)"
+      }
     },
     {
       "seqnames": "MAG06_84",
@@ -118,7 +164,22 @@
       "sscore": "6.24",
       "rscore": "7.63",
       "uscore": "2.36",
-      "tscore": "-4.87"
+      "tscore": "-4.87",
+      "eggnog": {
+        "X1": "MAG06_210_13",
+        "X2": "266834.SMc00598",
+        "X3": 2.4e-157,
+        "X4": 560.1,
+        "X5": null,
+        "X6": null,
+        "X7": "K01997",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "025YA@aproNOG,06M15@bactNOG,17YW3@proNOG,COG0559@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "E",
+        "X13": "ABC transporter"
+      }
     },
     {
       "seqnames": "MAG06_84",
@@ -142,7 +203,22 @@
       "sscore": "2.70",
       "rscore": "1.56",
       "uscore": "-0.51",
-      "tscore": "2.80"
+      "tscore": "2.80",
+      "eggnog": {
+        "X1": "MAG06_210_14",
+        "X2": "266834.SMc00599",
+        "X3": 1e-82,
+        "X4": 311.2,
+        "X5": "MOAE",
+        "X6": "GO:0003674,GO:0003824,GO:0006732,GO:0006777,GO:0006793,GO:0006796,GO:0006807,GO:0008150,GO:0008152,GO:0009058,GO:0009108,GO:0009987,GO:0018130,GO:0019538,GO:0019637,GO:0019720,GO:0032324,GO:0043170,GO:0043545,GO:0044237,GO:0044238,GO:0044249,GO:0044260,GO:0044267,GO:0046483,GO:0051186,GO:0051188,GO:0051189,GO:0071704,GO:0090407,GO:1901360,GO:1901362,GO:1901564,GO:1901566,GO:1901576",
+        "X7": "K03635",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01XKZ@aproNOG,08ZAF@bactNOG,17CF9@proNOG,COG0314@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "H",
+        "X13": "molybdopterin converting factor subunit 2"
+      }
     },
     {
       "seqnames": "MAG06_84",
@@ -166,7 +242,22 @@
       "sscore": "8.48",
       "rscore": "5.51",
       "uscore": "-0.02",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_210_15",
+        "X2": "266834.SMc00600",
+        "X3": 5.6e-43,
+        "X4": 178.3,
+        "X5": "MOAD",
+        "X6": null,
+        "X7": "K03636",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "021H8@aproNOG,082EB@bactNOG,16WR3@proNOG,COG1977@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "H",
+        "X13": "Molybdopterin converting factor subunit 1"
+      }
     },
     {
       "seqnames": "MAG06_84",
@@ -190,7 +281,22 @@
       "sscore": "9.95",
       "rscore": "7.63",
       "uscore": "-1.32",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_210_16",
+        "X2": "394.NGR_c09190",
+        "X3": 9.3e-105,
+        "X4": 384.8,
+        "X5": "PGSA",
+        "X6": "GO:0003674,GO:0003824,GO:0005575,GO:0005618,GO:0005623,GO:0005886,GO:0006629,GO:0006644,GO:0006650,GO:0006793,GO:0006796,GO:0008150,GO:0008152,GO:0008444,GO:0008610,GO:0008654,GO:0009058,GO:0009987,GO:0016020,GO:0016021,GO:0016740,GO:0016772,GO:0016780,GO:0017169,GO:0019637,GO:0030312,GO:0031224,GO:0040007,GO:0044237,GO:0044238,GO:0044249,GO:0044255,GO:0044425,GO:0044464,GO:0044710,GO:0045017,GO:0046474,GO:0046486,GO:0071704,GO:0071944,GO:0090407,GO:1901576",
+        "X7": "K00995,K08744",
+        "X8": "PGSA120,PGSA140,PGSA141,PGSA160,PGSA161,PGSA180,PGSA181,PGSA_EC",
+        "X9": "bactNOG[38]",
+        "X10": "01YCY@aproNOG,05BZQ@bactNOG,179ZK@proNOG,COG0558@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "I",
+        "X13": "cdp-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase"
+      }
     },
     {
       "seqnames": "MAG06_84",
@@ -214,7 +320,22 @@
       "sscore": "3.22",
       "rscore": "0.00",
       "uscore": "0.00",
-      "tscore": "3.22"
+      "tscore": "3.22",
+      "eggnog": {
+        "X1": "MAG06_210_17",
+        "X2": "266834.SMc00602",
+        "X3": 2.4e-27,
+        "X4": 125.9,
+        "X5": "UVRC",
+        "X6": "GO:0003674,GO:0003824,GO:0004518,GO:0004519,GO:0004520,GO:0004536,GO:0005575,GO:0005618,GO:0005622,GO:0005623,GO:0005737,GO:0005886,GO:0006139,GO:0006259,GO:0006281,GO:0006725,GO:0006807,GO:0006950,GO:0006974,GO:0008150,GO:0008152,GO:0009380,GO:0009381,GO:0009987,GO:0016020,GO:0016787,GO:0016788,GO:0030312,GO:0032991,GO:0033554,GO:0034641,GO:0040007,GO:0043170,GO:0043234,GO:0044237,GO:0044238,GO:0044260,GO:0044424,GO:0044464,GO:0044699,GO:0044763,GO:0046483,GO:0050896,GO:0051716,GO:0071704,GO:0071944,GO:0090304,GO:0090305,GO:1901360",
+        "X7": "K03703",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01QHN@aproNOG,05CII@bactNOG,16PQC@proNOG,COG0322@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "L",
+        "X13": "The UvrABC repair system catalyzes the recognition and processing of DNA lesions. UvrC both incises the 5' and 3' sides of the lesion. The N-terminal half is responsible for the 3' incision and the C-terminal half is responsible for the 5' incision (By similarity)"
+      }
     }
   ],
   "seqname": "MAG06_84",

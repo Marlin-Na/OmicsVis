@@ -22,7 +22,22 @@
       "sscore": "3.22",
       "rscore": "0.00",
       "uscore": "0.00",
-      "tscore": "3.22"
+      "tscore": "3.22",
+      "eggnog": {
+        "X1": "MAG06_301_1",
+        "X2": "266834.SMc02160",
+        "X3": 2.1e-77,
+        "X4": 293.5,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01R92@aproNOG,05IPI@bactNOG,16W5N@proNOG,COG0628@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "permease"
+      }
     },
     {
       "seqnames": "MAG06_188",
@@ -46,7 +61,22 @@
       "sscore": "7.53",
       "rscore": "7.85",
       "uscore": "-3.32",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_301_2",
+        "X2": "266834.SMc02161",
+        "X3": 1.4e-216,
+        "X4": 757.3,
+        "X5": "ARAJ",
+        "X6": "GO:0005575,GO:0005623,GO:0005886,GO:0016020,GO:0044464,GO:0071944",
+        "X7": "K08156,K19577",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01SFZ@aproNOG,05F27@bactNOG,16PTQ@proNOG,COG2814@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "G",
+        "X13": "Major facilitator superfamily"
+      }
     }
   ],
   "seqname": "MAG06_188",

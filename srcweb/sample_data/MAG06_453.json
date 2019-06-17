@@ -22,7 +22,22 @@
       "sscore": "1.61",
       "rscore": "0.00",
       "uscore": "0.00",
-      "tscore": "1.61"
+      "tscore": "1.61",
+      "eggnog": {
+        "X1": "MAG06_517_2",
+        "X2": "391735.Veis_2684",
+        "X3": 5.2e-14,
+        "X4": 82.4,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "08EGE@bactNOG,170W0@proNOG,COG1069@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "G",
+        "X13": "carbohydrate kinase FGGY"
+      }
     }
   ],
   "seqname": "MAG06_453",

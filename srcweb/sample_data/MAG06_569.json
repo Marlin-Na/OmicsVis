@@ -22,7 +22,22 @@
       "sscore": "11.41",
       "rscore": "5.51",
       "uscore": "2.26",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_60_4",
+        "X2": "266834.SMc04265",
+        "X3": 4.4e-80,
+        "X4": 302.4,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "020K4@aproNOG,05KJ2@bactNOG,11U5Q@NOG,17FQH@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "Inherit from bactNOG: polyketide cyclase dehydrase"
+      }
     },
     {
       "seqnames": "MAG06_569",
@@ -46,7 +61,22 @@
       "sscore": "5.45",
       "rscore": "2.03",
       "uscore": "0.43",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_60_5",
+        "X2": "266834.SMc04264",
+        "X3": 2.9e-163,
+        "X4": 579.7,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "020Z8@aproNOG,081Z3@bactNOG,0ZWV3@NOG,17F07@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": "K",
+        "X13": "AraC family transcriptional regulator"
+      }
     },
     {
       "seqnames": "MAG06_569",
@@ -70,7 +100,22 @@
       "sscore": "12.25",
       "rscore": "7.85",
       "uscore": "0.75",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_60_6",
+        "X2": "266834.SMc04263",
+        "X3": 3.9e-255,
+        "X4": 885.6,
+        "X5": "ALST",
+        "X6": "GO:0005575,GO:0005623,GO:0005886,GO:0016020,GO:0044464,GO:0071944",
+        "X7": "K03310",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01RB4@aproNOG,05BZG@bactNOG,16PB8@proNOG,COG1115@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "E",
+        "X13": "Sodium alanine symporter family protein"
+      }
     },
     {
       "seqnames": "MAG06_569",
@@ -94,7 +139,22 @@
       "sscore": "6.84",
       "rscore": "2.03",
       "uscore": "1.82",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_60_7",
+        "X2": "266834.SMc04262",
+        "X3": 2.2e-269,
+        "X4": 932.9,
+        "X5": "GND",
+        "X6": "GO:0003674,GO:0003824,GO:0004616,GO:0005975,GO:0005996,GO:0006006,GO:0006007,GO:0006098,GO:0006139,GO:0006725,GO:0006732,GO:0006733,GO:0006739,GO:0006740,GO:0006753,GO:0006793,GO:0006796,GO:0006807,GO:0008150,GO:0008152,GO:0009056,GO:0009117,GO:0009987,GO:0016052,GO:0016491,GO:0016614,GO:0016616,GO:0019318,GO:0019320,GO:0019362,GO:0019637,GO:0034641,GO:0044237,GO:0044238,GO:0044281,GO:0044710,GO:0044723,GO:0044724,GO:0046365,GO:0046483,GO:0046496,GO:0051186,GO:0055086,GO:0055114,GO:0071704,GO:0072524,GO:1901360,GO:1901564,GO:1901575",
+        "X7": "K00033",
+        "X8": "GND",
+        "X9": "bactNOG[38]",
+        "X10": "01QXA@aproNOG,05C7Q@bactNOG,16PJW@proNOG,COG0362@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "G",
+        "X13": "Catalyzes the oxidative decarboxylation of 6- phosphogluconate to ribulose 5-phosphate and CO(2), with concomitant reduction of NADP to NADPH (By similarity)"
+      }
     },
     {
       "seqnames": "MAG06_569",
@@ -118,7 +178,22 @@
       "sscore": "-4.07",
       "rscore": "-4.72",
       "uscore": "-3.00",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_60_8",
+        "X2": "266834.SMc04261",
+        "X3": 1.5e-43,
+        "X4": 180.3,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "02AVE@aproNOG,078GT@bactNOG,0ZDB3@NOG,1870K@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": null,
+        "X13": null
+      }
     }
   ],
   "seqname": "MAG06_569",

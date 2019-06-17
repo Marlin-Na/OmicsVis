@@ -22,7 +22,22 @@
       "sscore": "3.22",
       "rscore": "0.00",
       "uscore": "0.00",
-      "tscore": "3.22"
+      "tscore": "3.22",
+      "eggnog": {
+        "X1": "MAG06_127_6",
+        "X2": "266834.SMc04386",
+        "X3": 1.1e-232,
+        "X4": 810.8,
+        "X5": "ASPC",
+        "X6": "GO:0003674,GO:0003824,GO:0004069,GO:0005575,GO:0005622,GO:0005623,GO:0005737,GO:0006082,GO:0006520,GO:0006531,GO:0006533,GO:0006807,GO:0008150,GO:0008152,GO:0008483,GO:0009056,GO:0009063,GO:0009066,GO:0009068,GO:0009987,GO:0016054,GO:0016740,GO:0016769,GO:0019752,GO:0043436,GO:0043648,GO:0043649,GO:0044237,GO:0044238,GO:0044248,GO:0044281,GO:0044282,GO:0044424,GO:0044464,GO:0044710,GO:0044712,GO:0046395,GO:0071704,GO:1901564,GO:1901565,GO:1901575,GO:1901605,GO:1901606",
+        "X7": "K00812",
+        "X8": "ASPTA,EHGLAT,PHETA1,TYRTA",
+        "X9": "bactNOG[38]",
+        "X10": "01R9D@aproNOG,05CHM@bactNOG,16PWZ@proNOG,COG0436@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "E",
+        "X13": "Aspartate aminotransferase"
+      }
     },
     {
       "seqnames": "MAG06_639",
@@ -46,7 +61,22 @@
       "sscore": "13.15",
       "rscore": "7.85",
       "uscore": "0.66",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_127_7",
+        "X2": "266834.SMc04387",
+        "X3": 4.7e-100,
+        "X4": 369,
+        "X5": "PUUR",
+        "X6": "GO:0006139,GO:0006351,GO:0006725,GO:0006807,GO:0008150,GO:0008152,GO:0009058,GO:0009059,GO:0009987,GO:0010467,GO:0016070,GO:0018130,GO:0019438,GO:0032774,GO:0034641,GO:0034645,GO:0034654,GO:0043170,GO:0044237,GO:0044238,GO:0044249,GO:0044260,GO:0044271,GO:0046483,GO:0071704,GO:0090304,GO:1901360,GO:1901362,GO:1901576",
+        "X7": "K14056",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01RR4@aproNOG,07VRI@bactNOG,11ISD@NOG,1780D@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": "K",
+        "X13": "Transcriptional Regulator, XRE family"
+      }
     },
     {
       "seqnames": "MAG06_639",
@@ -70,7 +100,22 @@
       "sscore": "4.75",
       "rscore": "-0.69",
       "uscore": "0.82",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_128_1",
+        "X2": "266834.SMc02229",
+        "X3": 1.5e-206,
+        "X4": 723.8,
+        "X5": "ACD1",
+        "X6": null,
+        "X7": "K00248,K00249",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01RDU@aproNOG,05CSU@bactNOG,16Q90@proNOG,COG1960@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "I",
+        "X13": "acyl-CoA dehydrogenase"
+      }
     },
     {
       "seqnames": "MAG06_639",
@@ -94,7 +139,22 @@
       "sscore": "12.56",
       "rscore": "7.63",
       "uscore": "-1.09",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_128_2",
+        "X2": "266834.SMc02228",
+        "X3": 1e-227,
+        "X4": 794.3,
+        "X5": "FADA",
+        "X6": null,
+        "X7": "K00626,K00632",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01QAZ@aproNOG,05CHU@bactNOG,16PGG@proNOG,COG0183@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "I",
+        "X13": "acetyl-coa acetyltransferase"
+      }
     }
   ],
   "seqname": "MAG06_639",

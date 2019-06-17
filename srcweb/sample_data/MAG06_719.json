@@ -22,7 +22,8 @@
       "sscore": "3.22",
       "rscore": "0.00",
       "uscore": "0.00",
-      "tscore": "3.22"
+      "tscore": "3.22",
+      "eggnog": {}
     },
     {
       "seqnames": "MAG06_719",
@@ -46,7 +47,22 @@
       "sscore": "14.63",
       "rscore": "10.54",
       "uscore": "-0.67",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_711_2",
+        "X2": "266834.SMc01794",
+        "X3": 3.7e-103,
+        "X4": 379.4,
+        "X5": "GUMB",
+        "X6": null,
+        "X7": "K01991",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01VXB@aproNOG,08T1Y@bactNOG,1782B@proNOG,COG1596@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "M",
+        "X13": "polysaccharide export protein"
+      }
     },
     {
       "seqnames": "MAG06_719",
@@ -70,7 +86,22 @@
       "sscore": "10.19",
       "rscore": "7.63",
       "uscore": "-0.43",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_711_3",
+        "X2": "266834.SMc01793",
+        "X3": 4.4e-74,
+        "X4": 282.3,
+        "X5": "OCAR_5886",
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01S5M@aproNOG,05EME@bactNOG,16SAE@proNOG,COG0438@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "M",
+        "X13": "glycosyl transferase group 1"
+      }
     },
     {
       "seqnames": "MAG06_719",
@@ -94,7 +125,22 @@
       "sscore": "7.22",
       "rscore": "2.03",
       "uscore": "2.20",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_712_1",
+        "X2": "366394.Smed_1248",
+        "X3": 1e-13,
+        "X4": 80.5,
+        "X5": "TRXB",
+        "X6": "GO:0000166,GO:0001666,GO:0003674,GO:0003824,GO:0004791,GO:0005488,GO:0005575,GO:0005622,GO:0005623,GO:0005737,GO:0005829,GO:0006950,GO:0008150,GO:0008152,GO:0009607,GO:0009628,GO:0009987,GO:0015035,GO:0015036,GO:0016209,GO:0016491,GO:0016651,GO:0016667,GO:0016668,GO:0019725,GO:0036094,GO:0036293,GO:0040007,GO:0042592,GO:0043167,GO:0043168,GO:0044403,GO:0044419,GO:0044424,GO:0044444,GO:0044464,GO:0044699,GO:0044710,GO:0044763,GO:0045454,GO:0048037,GO:0050660,GO:0050661,GO:0050662,GO:0050789,GO:0050794,GO:0050896,GO:0051701,GO:0051704,GO:0051707,GO:0052173,GO:0052200,GO:0052564,GO:0052572,GO:0055114,GO:0065007,GO:0065008,GO:0070402,GO:0070482,GO:0075136,GO:0097159,GO:1901265,GO:1901363",
+        "X7": "K00384,K03671",
+        "X8": "TRDR",
+        "X9": "bactNOG[38]",
+        "X10": "01RJB@aproNOG,05C3M@bactNOG,16PJU@proNOG,COG0492@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "O",
+        "X13": "thioredoxin reductase"
+      }
     },
     {
       "seqnames": "MAG06_719",
@@ -118,7 +164,22 @@
       "sscore": "16.60",
       "rscore": "13.75",
       "uscore": "-0.79",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_712_2",
+        "X2": "266834.SMc01223",
+        "X3": 3.6e-80,
+        "X4": 302.8,
+        "X5": "LRP",
+        "X6": null,
+        "X7": "K03719,K05800",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01RP5@aproNOG,05F7P@bactNOG,16TV9@proNOG,COG1522@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "K",
+        "X13": "transcriptional regulator AsnC family"
+      }
     },
     {
       "seqnames": "MAG06_719",
@@ -142,7 +203,22 @@
       "sscore": "1.13",
       "rscore": "-3.78",
       "uscore": "0.48",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_712_3",
+        "X2": "266834.SMc01222",
+        "X3": 6.5e-150,
+        "X4": 535.4,
+        "X5": "LPSC",
+        "X6": null,
+        "X7": null,
+        "X8": "GLCTR4,GLCTR4N",
+        "X9": "bactNOG[38]",
+        "X10": "01S0X@aproNOG,06WTF@bactNOG,16Y4F@proNOG,COG0463@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "M",
+        "X13": "Glycosyl transferase, family 2"
+      }
     },
     {
       "seqnames": "MAG06_719",
@@ -166,7 +242,22 @@
       "sscore": "1.52",
       "rscore": "1.34",
       "uscore": "-1.57",
-      "tscore": "2.41"
+      "tscore": "2.41",
+      "eggnog": {
+        "X1": "MAG06_712_4",
+        "X2": "266834.SMc01221",
+        "X3": 1.9e-198,
+        "X4": 696.8,
+        "X5": "LPSD",
+        "X6": "GO:0000271,GO:0005975,GO:0005976,GO:0006629,GO:0008150,GO:0008152,GO:0008610,GO:0008653,GO:0009058,GO:0009059,GO:0009103,GO:0009987,GO:0016051,GO:0033692,GO:0034637,GO:0034645,GO:0043170,GO:0044237,GO:0044238,GO:0044249,GO:0044255,GO:0044260,GO:0044262,GO:0044264,GO:0044710,GO:0044723,GO:0071704,GO:1901135,GO:1901137,GO:1901576",
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01U6D@aproNOG,07TYR@bactNOG,0ZW9N@NOG,16VEK@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": "M",
+        "X13": "Glycosyl Transferase"
+      }
     },
     {
       "seqnames": "MAG06_719",
@@ -190,7 +281,22 @@
       "sscore": "3.22",
       "rscore": "0.00",
       "uscore": "0.00",
-      "tscore": "3.22"
+      "tscore": "3.22",
+      "eggnog": {
+        "X1": "MAG06_712_5",
+        "X2": "266834.SMc01220",
+        "X3": 6.6e-196,
+        "X4": 688.3,
+        "X5": "LPSE",
+        "X6": "GO:0000271,GO:0005975,GO:0005976,GO:0006629,GO:0008150,GO:0008152,GO:0008610,GO:0008653,GO:0009058,GO:0009059,GO:0009103,GO:0009987,GO:0016051,GO:0033692,GO:0034637,GO:0034645,GO:0043170,GO:0044237,GO:0044238,GO:0044249,GO:0044255,GO:0044260,GO:0044262,GO:0044264,GO:0044710,GO:0044723,GO:0071704,GO:1901135,GO:1901137,GO:1901576",
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01U6D@aproNOG,07TYR@bactNOG,0ZW9N@NOG,16VEK@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": "M",
+        "X13": "Glycosyl Transferase"
+      }
     }
   ],
   "seqname": "MAG06_719",

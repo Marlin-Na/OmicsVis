@@ -22,7 +22,22 @@
       "sscore": "3.22",
       "rscore": "0.00",
       "uscore": "0.00",
-      "tscore": "3.22"
+      "tscore": "3.22",
+      "eggnog": {
+        "X1": "MAG06_190_1",
+        "X2": "311403.Arad_9540",
+        "X3": 1e-20,
+        "X4": 103.6,
+        "X5": "OPPC",
+        "X6": "GO:0005575,GO:0016020",
+        "X7": "K02034,K15582",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01T1T@aproNOG,05C2T@bactNOG,16R8W@proNOG,COG1173@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "P",
+        "X13": "ABC transporter, membrane spanning protein"
+      }
     },
     {
       "seqnames": "MAG06_66",
@@ -46,7 +61,22 @@
       "sscore": "11.52",
       "rscore": "7.63",
       "uscore": "1.40",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_190_2",
+        "X2": "311403.Arad_9539",
+        "X3": 3.6e-211,
+        "X4": 739.6,
+        "X5": "OPPD",
+        "X6": "GO:0003674,GO:0003824,GO:0005215,GO:0006139,GO:0006152,GO:0006163,GO:0006195,GO:0006200,GO:0006725,GO:0006753,GO:0006793,GO:0006796,GO:0006807,GO:0006810,GO:0008150,GO:0008152,GO:0009056,GO:0009116,GO:0009117,GO:0009119,GO:0009123,GO:0009125,GO:0009126,GO:0009128,GO:0009141,GO:0009143,GO:0009144,GO:0009146,GO:0009150,GO:0009154,GO:0009158,GO:0009161,GO:0009164,GO:0009166,GO:0009167,GO:0009169,GO:0009199,GO:0009203,GO:0009205,GO:0009207,GO:0009259,GO:0009261,GO:0009987,GO:0015399,GO:0015405,GO:0015833,GO:0016462,GO:0016787,GO:0016817,GO:0016818,GO:0016820,GO:0016887,GO:0017111,GO:0019439,GO:0019637,GO:0019693,GO:0022804,GO:0022857,GO:0034641,GO:0034655,GO:0042278,GO:0042454,GO:0042623,GO:0042626,GO:0042886,GO:0043492,GO:0044237,GO:0044238,GO:0044248,GO:0044270,GO:0044281,GO:0044699,GO:0044710,GO:0044763,GO:0044765,GO:0046034,GO:0046128,GO:0046130,GO:0046434,GO:0046483,GO:0046700,GO:0051179,GO:0051234,GO:0055085,GO:0055086,GO:0071702,GO:0071704,GO:0071705,GO:0072521,GO:0072523,GO:1901135,GO:1901136,GO:1901292,GO:1901360,GO:1901361,GO:1901564,GO:1901565,GO:1901575,GO:1901657,GO:1901658",
+        "X7": "K02031,K02032,K10823,K13896,K15583",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "02EH4@aproNOG,08JQ5@bactNOG,173EY@proNOG,COG4172@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "ABC transporter"
+      }
     },
     {
       "seqnames": "MAG06_66",
@@ -70,7 +100,22 @@
       "sscore": "16.29",
       "rscore": "13.75",
       "uscore": "-0.45",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_191_1",
+        "X2": "1117943.SFHH103_02297",
+        "X3": 1.3e-57,
+        "X4": 227.6,
+        "X5": null,
+        "X6": null,
+        "X7": "K01593",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01UBW@aproNOG,05DY8@bactNOG,16PT8@proNOG,COG0076@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "E",
+        "X13": "decarboxylase"
+      }
     },
     {
       "seqnames": "MAG06_66",
@@ -94,7 +139,22 @@
       "sscore": "15.07",
       "rscore": "10.54",
       "uscore": "0.89",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_191_2",
+        "X2": "1117943.SFHH103_02296",
+        "X3": 4.4e-40,
+        "X4": 169.5,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "022KP@aproNOG,06792@bactNOG,1287V@NOG,17NTK@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": null,
+        "X13": null
+      }
     },
     {
       "seqnames": "MAG06_66",
@@ -118,7 +178,22 @@
       "sscore": "14.84",
       "rscore": "11.72",
       "uscore": "0.68",
-      "tscore": "3.11"
+      "tscore": "3.11",
+      "eggnog": {
+        "X1": "MAG06_191_3",
+        "X2": "1117943.SFHH103_02295",
+        "X3": 4.7e-51,
+        "X4": 205.7,
+        "X5": "YEAO",
+        "X6": null,
+        "X7": null,
+        "X8": "NIabc",
+        "X9": "bactNOG[38]",
+        "X10": "05K78@bactNOG,17FI2@proNOG,COG3189@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "Protein of unknown function, DUF488"
+      }
     },
     {
       "seqnames": "MAG06_66",
@@ -142,7 +217,22 @@
       "sscore": "11.52",
       "rscore": "7.63",
       "uscore": "0.25",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_191_5",
+        "X2": "216596.RL2939",
+        "X3": 5.5e-113,
+        "X4": 412.5,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01WRH@aproNOG,08V6R@bactNOG,11J6H@NOG,17ABH@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "methyltransferase"
+      }
     },
     {
       "seqnames": "MAG06_66",
@@ -166,7 +256,22 @@
       "sscore": "3.36",
       "rscore": "-0.69",
       "uscore": "0.40",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_191_6",
+        "X2": "366394.Smed_1427",
+        "X3": 8.3e-133,
+        "X4": 478.4,
+        "X5": "OCAR_6719",
+        "X6": null,
+        "X7": "K10979",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01UK2@aproNOG,05FDF@bactNOG,16TUJ@proNOG,COG1273@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "L",
+        "X13": "Could be involved in DNA repair (By similarity)"
+      }
     },
     {
       "seqnames": "MAG06_66",
@@ -190,7 +295,22 @@
       "sscore": "12.23",
       "rscore": "7.63",
       "uscore": "-0.12",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_191_7",
+        "X2": "366394.Smed_1426",
+        "X3": 8.7e-136,
+        "X4": 488.4,
+        "X5": "OCAR_6719",
+        "X6": null,
+        "X7": "K10979",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01UUZ@aproNOG,05FDF@bactNOG,173VD@proNOG,COG1273@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "L",
+        "X13": "Could be involved in DNA repair (By similarity)"
+      }
     },
     {
       "seqnames": "MAG06_66",
@@ -214,7 +334,8 @@
       "sscore": "3.17",
       "rscore": "7.85",
       "uscore": "0.84",
-      "tscore": "-4.87"
+      "tscore": "-4.87",
+      "eggnog": {}
     },
     {
       "seqnames": "MAG06_66",
@@ -238,7 +359,8 @@
       "sscore": "9.93",
       "rscore": "7.85",
       "uscore": "-1.57",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {}
     },
     {
       "seqnames": "MAG06_66",
@@ -262,7 +384,22 @@
       "sscore": "-2.15",
       "rscore": "-4.72",
       "uscore": "-0.42",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_191_8",
+        "X2": "216596.RL0306",
+        "X3": 6.9e-106,
+        "X4": 388.7,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01UI5@aproNOG,05CHJ@bactNOG,16Q6S@proNOG,COG1335@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "Q",
+        "X13": "Isochorismatase family"
+      }
     },
     {
       "seqnames": "MAG06_66",
@@ -286,7 +423,22 @@
       "sscore": "-1.18",
       "rscore": "-4.72",
       "uscore": "-0.11",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_191_9",
+        "X2": "176299.Atu3810",
+        "X3": 3.9e-144,
+        "X4": 516.2,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01WCI@aproNOG,064GK@bactNOG,0XTJW@NOG,16WZX@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": "K",
+        "X13": "Transcriptional regulator"
+      }
     },
     {
       "seqnames": "MAG06_66",
@@ -310,7 +462,22 @@
       "sscore": "3.22",
       "rscore": "0.00",
       "uscore": "0.00",
-      "tscore": "3.22"
+      "tscore": "3.22",
+      "eggnog": {
+        "X1": "MAG06_192_1",
+        "X2": "266834.SMc01051",
+        "X3": 8.1e-152,
+        "X4": 541.6,
+        "X5": "MAZG",
+        "X6": "GO:0000287,GO:0003674,GO:0003824,GO:0005488,GO:0005575,GO:0005618,GO:0005623,GO:0006139,GO:0006152,GO:0006163,GO:0006184,GO:0006195,GO:0006200,GO:0006203,GO:0006213,GO:0006220,GO:0006244,GO:0006461,GO:0006725,GO:0006753,GO:0006793,GO:0006796,GO:0006807,GO:0006950,GO:0006979,GO:0007154,GO:0008150,GO:0008152,GO:0009056,GO:0009116,GO:0009117,GO:0009119,GO:0009123,GO:0009125,GO:0009126,GO:0009128,GO:0009141,GO:0009143,GO:0009144,GO:0009146,GO:0009147,GO:0009149,GO:0009150,GO:0009151,GO:0009154,GO:0009155,GO:0009158,GO:0009161,GO:0009164,GO:0009166,GO:0009167,GO:0009169,GO:0009199,GO:0009200,GO:0009203,GO:0009204,GO:0009205,GO:0009207,GO:0009208,GO:0009210,GO:0009211,GO:0009213,GO:0009215,GO:0009217,GO:0009218,GO:0009219,GO:0009222,GO:0009223,GO:0009259,GO:0009261,GO:0009262,GO:0009264,GO:0009267,GO:0009394,GO:0009605,GO:0009987,GO:0009991,GO:0016043,GO:0016462,GO:0016787,GO:0016817,GO:0016818,GO:0019439,GO:0019637,GO:0019692,GO:0019693,GO:0022607,GO:0030312,GO:0031667,GO:0031668,GO:0031669,GO:0033554,GO:0034641,GO:0034655,GO:0035539,GO:0042278,GO:0042454,GO:0042594,GO:0043167,GO:0043169,GO:0043933,GO:0044085,GO:0044237,GO:0044238,GO:0044248,GO:0044270,GO:0044281,GO:0044464,GO:0044699,GO:0044710,GO:0044763,GO:0046034,GO:0046039,GO:0046046,GO:0046047,GO:0046051,GO:0046052,GO:0046060,GO:0046061,GO:0046070,GO:0046075,GO:0046076,GO:0046080,GO:0046081,GO:0046128,GO:0046130,GO:0046131,GO:0046133,GO:0046135,GO:0046386,GO:0046434,GO:0046483,GO:0046700,GO:0046872,GO:0047429,GO:0047693,GO:0050896,GO:0051259,GO:0051260,GO:0051262,GO:0051289,GO:0051716,GO:0055086,GO:0065003,GO:0070271,GO:0071496,GO:0071704,GO:0071822,GO:0071840,GO:0071944,GO:0072521,GO:0072523,GO:0072527,GO:0072529,GO:1901068,GO:1901069,GO:1901135,GO:1901136,GO:1901292,GO:1901360,GO:1901361,GO:1901564,GO:1901565,GO:1901575,GO:1901657,GO:1901658",
+        "X7": "K02428,K02499,K04765",
+        "X8": "DUTPDP,GDPTPDP,NTPP1,NTPP2,NTPP3,NTPP4,NTPP5,NTPP6,NTPP7,NTPP8,PPA,PPGPPDP",
+        "X9": "bactNOG[38]",
+        "X10": "01QY8@aproNOG,05DXN@bactNOG,16RRG@proNOG,COG1694@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "F",
+        "X13": "mazG family"
+      }
     }
   ],
   "seqname": "MAG06_66",

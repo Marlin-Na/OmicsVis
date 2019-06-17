@@ -22,7 +22,22 @@
       "sscore": "3.81",
       "rscore": "-0.18",
       "uscore": "0.01",
-      "tscore": "3.98"
+      "tscore": "3.98",
+      "eggnog": {
+        "X1": "MAG06_219_9",
+        "X2": "266834.SMc01595",
+        "X3": 6.6e-163,
+        "X4": 578.6,
+        "X5": "ENVZ",
+        "X6": null,
+        "X7": "K07638",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01QYW@aproNOG,05E0F@bactNOG,0XTWD@NOG,16RKV@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": "T",
+        "X13": "Histidine kinase"
+      }
     },
     {
       "seqnames": "MAG06_97",
@@ -46,7 +61,22 @@
       "sscore": "4.34",
       "rscore": "-0.18",
       "uscore": "0.53",
-      "tscore": "3.98"
+      "tscore": "3.98",
+      "eggnog": {
+        "X1": "MAG06_22_1",
+        "X2": "266834.SMc00609",
+        "X3": 0,
+        "X4": 1450.6,
+        "X5": "YOAE",
+        "X6": "GO:0003674,GO:0003824,GO:0005575,GO:0005623,GO:0006091,GO:0008150,GO:0008152,GO:0009987,GO:0015980,GO:0016491,GO:0016651,GO:0042597,GO:0044237,GO:0044464,GO:0044710,GO:0045333,GO:0055114",
+        "X7": "K07812",
+        "X8": "FDH",
+        "X9": "bactNOG[38]",
+        "X10": "02ECS@aproNOG,08J2R@bactNOG,17346@proNOG,COG0243@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "C",
+        "X13": "Molybdopterin oxidoreductase"
+      }
     }
   ],
   "seqname": "MAG06_97",

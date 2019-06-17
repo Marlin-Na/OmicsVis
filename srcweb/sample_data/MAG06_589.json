@@ -22,7 +22,22 @@
       "sscore": "9.25",
       "rscore": "7.63",
       "uscore": "-1.36",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_123_4",
+        "X2": "266834.SMc00170",
+        "X3": 7.2e-136,
+        "X4": 488.4,
+        "X5": "SDIA",
+        "X6": "GO:0006355,GO:0008150,GO:0009889,GO:0009891,GO:0009893,GO:0010468,GO:0010556,GO:0010557,GO:0010564,GO:0010604,GO:0010628,GO:0019219,GO:0019222,GO:0031323,GO:0031325,GO:0031326,GO:0031328,GO:0031334,GO:0032465,GO:0032467,GO:0043254,GO:0044087,GO:0045893,GO:0045935,GO:0048518,GO:0048522,GO:0050789,GO:0050794,GO:0051128,GO:0051130,GO:0051171,GO:0051173,GO:0051252,GO:0051254,GO:0051302,GO:0051726,GO:0051781,GO:0060255,GO:0065007,GO:0080090,GO:0090068,GO:2000112,GO:2000142,GO:2000144,GO:2001141",
+        "X7": "K07782,K18098,K18099,K19666,K19731,K19733",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "021W3@aproNOG,05VJY@bactNOG,1792N@proNOG,COG2771@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "K",
+        "X13": "Transcriptional regulator"
+      }
     },
     {
       "seqnames": "MAG06_589",
@@ -46,7 +61,22 @@
       "sscore": "-0.93",
       "rscore": "-4.72",
       "uscore": "0.79",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_123_5",
+        "X2": "266834.SMc00169",
+        "X3": 0,
+        "X4": 1488.8,
+        "X5": "DME",
+        "X6": null,
+        "X7": "K00029",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01QFN@aproNOG,05C6K@bactNOG,16PJH@proNOG,COG0280@NOG,COG0281@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "C",
+        "X13": "Malic enzyme"
+      }
     },
     {
       "seqnames": "MAG06_589",
@@ -70,7 +100,22 @@
       "sscore": "-4.01",
       "rscore": "-3.78",
       "uscore": "-3.87",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_123_6",
+        "X2": "266834.SMc00171",
+        "X3": 1.3e-165,
+        "X4": 587.4,
+        "X5": "BMUL_1008",
+        "X6": "GO:0003674,GO:0003824,GO:0008150,GO:0008152",
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01Q9S@aproNOG,05E9D@bactNOG,16RWP@proNOG,COG2908@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "Metallophosphoesterase"
+      }
     }
   ],
   "seqname": "MAG06_589",

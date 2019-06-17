@@ -22,7 +22,22 @@
       "sscore": "12.63",
       "rscore": "7.63",
       "uscore": "0.28",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_976_2",
+        "X2": "1050720.Agau_C100254",
+        "X3": 4e-176,
+        "X4": 622.9,
+        "X5": "YTBD",
+        "X6": "GO:0005575,GO:0005623,GO:0005886,GO:0016020,GO:0044464,GO:0071944",
+        "X7": "K19577",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01QUN@aproNOG,05F27@bactNOG,16PTQ@proNOG,COG2814@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "G",
+        "X13": "Major facilitator superfamily"
+      }
     },
     {
       "seqnames": "MAG06_27",
@@ -46,7 +61,22 @@
       "sscore": "8.22",
       "rscore": "3.33",
       "uscore": "1.90",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_977_1",
+        "X2": "266834.SMc00037",
+        "X3": 5.5e-162,
+        "X4": 575.5,
+        "X5": null,
+        "X6": null,
+        "X7": "K03566",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01SRU@aproNOG,05DX8@bactNOG,0XQDQ@NOG,16RHU@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": "K",
+        "X13": "transcriptional regulator"
+      }
     },
     {
       "seqnames": "MAG06_27",
@@ -70,7 +100,22 @@
       "sscore": "7.45",
       "rscore": "2.03",
       "uscore": "1.78",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_977_2",
+        "X2": "266834.SMc00097",
+        "X3": 4.1e-122,
+        "X4": 442.6,
+        "X5": null,
+        "X6": null,
+        "X7": "K00799",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01XSE@aproNOG,08R8N@bactNOG,17AST@proNOG,COG0625@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "O",
+        "X13": "Glutathione S-transferase"
+      }
     },
     {
       "seqnames": "MAG06_27",
@@ -94,7 +139,22 @@
       "sscore": "15.61",
       "rscore": "13.75",
       "uscore": "-1.79",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_977_3",
+        "X2": "266834.SMc00038",
+        "X3": 0,
+        "X4": 1511.1,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": "CDGUNPD,DGUNC",
+        "X9": "bactNOG[38]",
+        "X10": "01QRS@aproNOG,05BZU@bactNOG,0XNMH@NOG,16PBJ@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": "T",
+        "X13": "Diguanylate cyclase phosphodiesterase"
+      }
     }
   ],
   "seqname": "MAG06_27",

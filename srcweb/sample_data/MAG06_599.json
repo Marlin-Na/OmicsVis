@@ -22,7 +22,22 @@
       "sscore": "12.56",
       "rscore": "7.63",
       "uscore": "-0.78",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_620_3",
+        "X2": "266834.SMc00371",
+        "X3": 4e-82,
+        "X4": 309.3,
+        "X5": "YCIF",
+        "X6": "GO:0006950,GO:0006974,GO:0008150,GO:0009987,GO:0033554,GO:0044699,GO:0044763,GO:0050896,GO:0051716",
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01XJB@aproNOG,08Z9Z@bactNOG,17B3B@proNOG,COG3685@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "Domain of unknown function (DUF892)"
+      }
     },
     {
       "seqnames": "MAG06_599",
@@ -46,7 +61,22 @@
       "sscore": "4.94",
       "rscore": "-4.72",
       "uscore": "-0.00",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_620_4",
+        "X2": "266834.SMc00372",
+        "X3": 1.2e-128,
+        "X4": 464.5,
+        "X5": "LINC",
+        "X6": "GO:0003674,GO:0003824,GO:0006805,GO:0008150,GO:0008152,GO:0009410,GO:0009987,GO:0016491,GO:0016627,GO:0016628,GO:0018502,GO:0018919,GO:0019497,GO:0042196,GO:0042197,GO:0042221,GO:0044237,GO:0044699,GO:0044710,GO:0044763,GO:0050896,GO:0051716,GO:0055114,GO:0070887,GO:0071466,GO:0071704",
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01SK3@aproNOG,05EJB@bactNOG,0XP16@NOG,16Q06@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "Short chain dehydrogenase"
+      }
     },
     {
       "seqnames": "MAG06_599",
@@ -70,7 +100,22 @@
       "sscore": "-0.86",
       "rscore": "-2.35",
       "uscore": "-2.16",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_621_1",
+        "X2": "266834.SMc00293",
+        "X3": 2.4e-145,
+        "X4": 520,
+        "X5": "HOM",
+        "X6": "GO:0005575,GO:0005618,GO:0005623,GO:0005886,GO:0008150,GO:0016020,GO:0030312,GO:0040007,GO:0044464,GO:0071944",
+        "X7": "K00003,K12524",
+        "X8": "HSDx,HSDy",
+        "X9": "bactNOG[38]",
+        "X10": "01RAE@aproNOG,05D6E@bactNOG,16Q19@proNOG,COG0460@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "E",
+        "X13": "homoserine dehydrogenase"
+      }
     },
     {
       "seqnames": "MAG06_599",
@@ -94,7 +139,22 @@
       "sscore": "18.08",
       "rscore": "13.75",
       "uscore": "0.69",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_621_2",
+        "X2": "266834.SMc00292",
+        "X3": 9.4e-116,
+        "X4": 421.4,
+        "X5": "RECJ",
+        "X6": "GO:0003674,GO:0003824,GO:0004518,GO:0004527,GO:0004529,GO:0004536,GO:0006139,GO:0006259,GO:0006310,GO:0006725,GO:0006807,GO:0008150,GO:0008152,GO:0008297,GO:0009987,GO:0016787,GO:0016788,GO:0016796,GO:0016895,GO:0034641,GO:0043170,GO:0044237,GO:0044238,GO:0044260,GO:0046483,GO:0071704,GO:0090304,GO:0090305,GO:1901360",
+        "X7": "K07462",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01QB9@aproNOG,05C2R@bactNOG,16Q5C@proNOG,COG0608@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "L",
+        "X13": "Single-stranded-DNA-specific exonuclease (RecJ)"
+      }
     },
     {
       "seqnames": "MAG06_599",
@@ -118,7 +178,8 @@
       "sscore": "13.94",
       "rscore": "10.54",
       "uscore": "0.41",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {}
     },
     {
       "seqnames": "MAG06_599",
@@ -142,7 +203,22 @@
       "sscore": "-2.60",
       "rscore": "7.63",
       "uscore": "-0.08",
-      "tscore": "-10.14"
+      "tscore": "-10.14",
+      "eggnog": {
+        "X1": "MAG06_622_1",
+        "X2": "340100.Bpet3874",
+        "X3": 1.5e-85,
+        "X4": 321.2,
+        "X5": "OCAR_6077",
+        "X6": "GO:0005575,GO:0016020",
+        "X7": "K02033",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "05CJM@bactNOG,17647@proNOG,COG0601@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "P",
+        "X13": "ABC transporter (Permease"
+      }
     },
     {
       "seqnames": "MAG06_599",
@@ -166,7 +242,22 @@
       "sscore": "13.93",
       "rscore": "7.85",
       "uscore": "1.65",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_622_2",
+        "X2": "340100.Bpet3875",
+        "X3": 1.9e-167,
+        "X4": 594.3,
+        "X5": null,
+        "X6": null,
+        "X7": "K02035",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "05D3V@bactNOG,17658@proNOG,COG0747@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "E",
+        "X13": "extracellular solute-binding protein"
+      }
     },
     {
       "seqnames": "MAG06_599",
@@ -190,7 +281,22 @@
       "sscore": "-2.54",
       "rscore": "-4.72",
       "uscore": "-0.81",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_622_3",
+        "X2": "391038.Bphy_5401",
+        "X3": 7.8e-66,
+        "X4": 256.1,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "08QH5@bactNOG,0BI48@bproNOG,17WGB@proNOG,COG0329@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "E, M",
+        "X13": "DHDPS"
+      }
     },
     {
       "seqnames": "MAG06_599",
@@ -214,7 +320,22 @@
       "sscore": "14.07",
       "rscore": "10.54",
       "uscore": "-0.11",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_622_4",
+        "X2": "742159.HMPREF0004_4193",
+        "X3": 1.4e-47,
+        "X4": 194.9,
+        "X5": null,
+        "X6": null,
+        "X7": "K05799",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "07EG7@bactNOG,0BMFP@bproNOG,17F1I@proNOG,COG2186@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "K",
+        "X13": "GntR family regulatory protein"
+      }
     },
     {
       "seqnames": "MAG06_599",
@@ -238,7 +359,22 @@
       "sscore": "3.97",
       "rscore": "4.48",
       "uscore": "-1.51",
-      "tscore": "2.14"
+      "tscore": "2.14",
+      "eggnog": {
+        "X1": "MAG06_623_1",
+        "X2": "266834.SMc00473",
+        "X3": 1.9e-168,
+        "X4": 597,
+        "X5": "YEII",
+        "X6": "GO:0003674,GO:0003824,GO:0006793,GO:0006796,GO:0008150,GO:0008152,GO:0009987,GO:0016301,GO:0016310,GO:0016740,GO:0016772,GO:0016773,GO:0044237,GO:0050225",
+        "X7": "K16328",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "02CZY@aproNOG,05DD7@bactNOG,16Z2I@proNOG,COG0524@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "G",
+        "X13": "pfkB family carbohydrate kinase"
+      }
     },
     {
       "seqnames": "MAG06_599",
@@ -262,7 +398,22 @@
       "sscore": "6.97",
       "rscore": "2.03",
       "uscore": "-0.35",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_623_2",
+        "X2": "266834.SMc00760",
+        "X3": 5.3e-85,
+        "X4": 318.9,
+        "X5": "RECA",
+        "X6": "GO:0003674,GO:0003676,GO:0003677,GO:0003697,GO:0005488,GO:0005575,GO:0005622,GO:0005623,GO:0005737,GO:0006139,GO:0006259,GO:0006281,GO:0006310,GO:0006725,GO:0006807,GO:0006928,GO:0006950,GO:0006974,GO:0007154,GO:0008150,GO:0008152,GO:0009432,GO:0009605,GO:0009987,GO:0009991,GO:0031668,GO:0033554,GO:0034641,GO:0040011,GO:0043170,GO:0043566,GO:0044237,GO:0044238,GO:0044260,GO:0044424,GO:0044464,GO:0044699,GO:0044763,GO:0046483,GO:0048870,GO:0050896,GO:0051179,GO:0051674,GO:0051716,GO:0071496,GO:0071704,GO:0090304,GO:0097159,GO:1901360,GO:1901363",
+        "X7": "K03553",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01QY1@aproNOG,05C68@bactNOG,16Q80@proNOG,COG0468@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "L",
+        "X13": "Can catalyze the hydrolysis of ATP in the presence of single-stranded DNA, the ATP-dependent uptake of single-stranded DNA by duplex DNA, and the ATP-dependent hybridization of homologous single-stranded DNAs. It interacts with LexA causing its activation and leading to its autocatalytic cleavage (By similarity)"
+      }
     },
     {
       "seqnames": "MAG06_599",
@@ -286,7 +437,22 @@
       "sscore": "-0.74",
       "rscore": "-4.72",
       "uscore": "0.99",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_623_3",
+        "X2": "317655.Sala_2022",
+        "X3": 1.1e-08,
+        "X4": 63.5,
+        "X5": "YJGR",
+        "X6": "GO:0008150,GO:0040007",
+        "X7": "K06915",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01QWY@aproNOG,05D7A@bactNOG,16PGX@proNOG,COG0433@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "Bacterial protein of unknown function (DUF853)"
+      }
     },
     {
       "seqnames": "MAG06_599",
@@ -310,7 +476,22 @@
       "sscore": "0.41",
       "rscore": "10.54",
       "uscore": "0.01",
-      "tscore": "-10.14"
+      "tscore": "-10.14",
+      "eggnog": {
+        "X1": "MAG06_624_1",
+        "X2": "266834.SMc01831",
+        "X3": 1.5e-27,
+        "X4": 126.7,
+        "X5": "UREF",
+        "X6": "GO:0005575,GO:0005622,GO:0005623,GO:0005737,GO:0044424,GO:0044464",
+        "X7": "K03188",
+        "X8": "UREA",
+        "X9": "bactNOG[38]",
+        "X10": "01Y30@aproNOG,08YH3@bactNOG,17C51@proNOG,COG0830@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "O",
+        "X13": "Required for maturation of urease via the functional incorporation of the urease nickel metallocenter (By similarity)"
+      }
     },
     {
       "seqnames": "MAG06_599",
@@ -334,7 +515,22 @@
       "sscore": "10.57",
       "rscore": "7.63",
       "uscore": "-0.05",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_624_2",
+        "X2": "266834.SMc01830",
+        "X3": 5.1e-111,
+        "X4": 405.6,
+        "X5": "UREG",
+        "X6": "GO:0003674,GO:0005575,GO:0005622,GO:0005623,GO:0005737,GO:0016530,GO:0044424,GO:0044464",
+        "X7": "K03189",
+        "X8": "UREA",
+        "X9": "bactNOG[38]",
+        "X10": "01QS7@aproNOG,05E8T@bactNOG,16RW3@proNOG,COG0378@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "F",
+        "X13": "Facilitates the functional incorporation of the urease nickel metallocenter. This process requires GTP hydrolysis, probably effectuated by UreG (By similarity)"
+      }
     },
     {
       "seqnames": "MAG06_599",
@@ -358,7 +554,22 @@
       "sscore": "14.41",
       "rscore": "7.85",
       "uscore": "1.62",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_624_3",
+        "X2": "266834.SMc01829",
+        "X3": 0,
+        "X4": 1960.7,
+        "X5": "ACRB",
+        "X6": null,
+        "X7": "K03296",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01QFF@aproNOG,05BZS@bactNOG,16PBH@proNOG,COG0841@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "P",
+        "X13": "acriflavin resistance protein"
+      }
     },
     {
       "seqnames": "MAG06_599",
@@ -382,7 +593,22 @@
       "sscore": "7.36",
       "rscore": "2.03",
       "uscore": "0.81",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_625_1",
+        "X2": "765698.Mesci_2051",
+        "X3": 2.4e-09,
+        "X4": 65.5,
+        "X5": null,
+        "X6": null,
+        "X7": "K02057",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "05DYV@bactNOG,16PMP@proNOG,COG1079@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "ABC transPORTER"
+      }
     },
     {
       "seqnames": "MAG06_599",
@@ -406,7 +632,22 @@
       "sscore": "5.47",
       "rscore": "-0.37",
       "uscore": "2.19",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_625_10",
+        "X2": "391616.OA238_5817",
+        "X3": 1.6e-18,
+        "X4": 97.1,
+        "X5": null,
+        "X6": null,
+        "X7": "K19686",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "021YK@aproNOG,08BI7@bactNOG,17PJ4@proNOG,COG3742@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "Toxic component of a toxin-antitoxin (TA) module. A"
+      }
     },
     {
       "seqnames": "MAG06_599",
@@ -430,7 +671,22 @@
       "sscore": "14.11",
       "rscore": "7.85",
       "uscore": "1.38",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_625_2",
+        "X2": "765698.Mesci_2052",
+        "X3": 1.2e-157,
+        "X4": 561.2,
+        "X5": null,
+        "X6": null,
+        "X7": "K02057",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01R1E@aproNOG,05UIB@bactNOG,16PUK@proNOG,COG4603@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "ABC transporter"
+      }
     },
     {
       "seqnames": "MAG06_599",
@@ -454,7 +710,22 @@
       "sscore": "5.49",
       "rscore": "2.03",
       "uscore": "-1.39",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_625_3",
+        "X2": "765698.Mesci_2053",
+        "X3": 1.8e-226,
+        "X4": 790.4,
+        "X5": "RBSA1",
+        "X6": null,
+        "X7": "K02056",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "02EHQ@aproNOG,08JQ9@bactNOG,173FB@proNOG,COG3845@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "ABC transporter"
+      }
     },
     {
       "seqnames": "MAG06_599",
@@ -478,7 +749,22 @@
       "sscore": "11.87",
       "rscore": "7.63",
       "uscore": "1.25",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_625_4",
+        "X2": "765698.Mesci_2054",
+        "X3": 3.5e-179,
+        "X4": 632.9,
+        "X5": null,
+        "X6": null,
+        "X7": "K02058,K07335",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01SYJ@aproNOG,07RMD@bactNOG,16PB2@proNOG,COG1744@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "Basic membrane lipoprotein"
+      }
     },
     {
       "seqnames": "MAG06_599",
@@ -502,7 +788,22 @@
       "sscore": "14.45",
       "rscore": "10.54",
       "uscore": "0.26",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_625_5",
+        "X2": "765698.Mesci_2055",
+        "X3": 3e-116,
+        "X4": 423.3,
+        "X5": "BMUL_1304",
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "08K6I@bactNOG,1704X@proNOG,COG1802@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "K",
+        "X13": "Transcriptional regulator, GntR family"
+      }
     },
     {
       "seqnames": "MAG06_599",
@@ -526,7 +827,22 @@
       "sscore": "13.41",
       "rscore": "10.54",
       "uscore": "-1.66",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_625_6",
+        "X2": "765698.Mesci_2057",
+        "X3": 1.4e-136,
+        "X4": 491.1,
+        "X5": "VANA",
+        "X6": null,
+        "X7": "K03862,K15982",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01ZWM@aproNOG,08XJY@bactNOG,178ZR@proNOG,COG4638@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "P",
+        "X13": "vanillate O-demethylase oxygenase subunit"
+      }
     },
     {
       "seqnames": "MAG06_599",
@@ -550,7 +866,8 @@
       "sscore": "4.94",
       "rscore": "-4.72",
       "uscore": "-1.81",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {}
     }
   ],
   "seqname": "MAG06_599",

@@ -22,7 +22,22 @@
       "sscore": "6.46",
       "rscore": "2.03",
       "uscore": "-0.40",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_542_3",
+        "X2": "266834.SMc01986",
+        "X3": 1.4e-55,
+        "X4": 220.7,
+        "X5": "R02520",
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01ZB9@aproNOG,05KF4@bactNOG,17FM6@proNOG,COG5605@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "cytochrome C oxidase subunit IV"
+      }
     },
     {
       "seqnames": "MAG06_490",
@@ -46,7 +61,22 @@
       "sscore": "16.76",
       "rscore": "10.54",
       "uscore": "1.56",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_542_4",
+        "X2": "266834.SMc01987",
+        "X3": 0,
+        "X4": 1167.9,
+        "X5": null,
+        "X6": null,
+        "X7": "K00302,K00315,K19191",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01QMU@aproNOG,05C5K@bactNOG,16QJ8@proNOG,COG0404@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "E",
+        "X13": "aminomethyl transferase"
+      }
     },
     {
       "seqnames": "MAG06_490",
@@ -70,7 +100,22 @@
       "sscore": "10.80",
       "rscore": "7.85",
       "uscore": "-1.76",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_543_1",
+        "X2": "316056.RPC_4640",
+        "X3": 1.6e-76,
+        "X4": 291.2,
+        "X5": "YAGR",
+        "X6": null,
+        "X7": "K03520,K04108,K11177",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01QY7@aproNOG,05C7W@bactNOG,16PWW@proNOG,COG1529@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "F",
+        "X13": "Xanthine dehydrogenase"
+      }
     },
     {
       "seqnames": "MAG06_490",
@@ -94,7 +139,22 @@
       "sscore": "7.01",
       "rscore": "2.03",
       "uscore": "0.28",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_543_2",
+        "X2": "266835.mll7005",
+        "X3": 2.5e-155,
+        "X4": 553.9,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01RV3@aproNOG,05G63@bactNOG,16PG9@proNOG,COG3395@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "Type III effector Hrp-dependent"
+      }
     },
     {
       "seqnames": "MAG06_490",
@@ -118,7 +178,22 @@
       "sscore": "-0.28",
       "rscore": "-4.72",
       "uscore": "1.45",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_543_3",
+        "X2": "311403.Arad_9230",
+        "X3": 3e-61,
+        "X4": 239.6,
+        "X5": "GOBS_1448",
+        "X6": null,
+        "X7": "K01601",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01SD1@aproNOG,05DT1@bactNOG,16RD8@proNOG,COG1850@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "G",
+        "X13": "RuBisCO catalyzes two reactions the carboxylation of D- ribulose 1,5-bisphosphate, the primary event in carbon dioxide fixation, as well as the oxidative fragmentation of the pentose substrate. Both reactions occur simultaneously and in competition at the same active site (By similarity)"
+      }
     },
     {
       "seqnames": "MAG06_490",
@@ -142,7 +217,22 @@
       "sscore": "3.22",
       "rscore": "-4.72",
       "uscore": "4.29",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_544_1",
+        "X2": "311403.Arad_9543",
+        "X3": 1.4e-25,
+        "X4": 120.6,
+        "X5": "OPPB",
+        "X6": "GO:0005575,GO:0005622,GO:0005623,GO:0005737,GO:0016020,GO:0044424,GO:0044464",
+        "X7": "K00759,K02033",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "05CJM@bactNOG,COG0601@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "P",
+        "X13": "Binding-protein-dependent transport systems, inner membrane component"
+      }
     },
     {
       "seqnames": "MAG06_490",
@@ -166,7 +256,22 @@
       "sscore": "-8.29",
       "rscore": "2.03",
       "uscore": "-1.21",
-      "tscore": "-10.14"
+      "tscore": "-10.14",
+      "eggnog": {
+        "X1": "MAG06_544_2",
+        "X2": "311402.Avi_5120",
+        "X3": 0,
+        "X4": 1178.3,
+        "X5": "AGPA",
+        "X6": null,
+        "X7": "K02035",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "05EN8@bactNOG,0XRAT@NOG,175SG@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "ABC transporter Substrate binding protein"
+      }
     }
   ],
   "seqname": "MAG06_490",

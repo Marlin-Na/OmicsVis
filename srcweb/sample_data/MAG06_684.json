@@ -22,7 +22,22 @@
       "sscore": "-11.21",
       "rscore": "0.21",
       "uscore": "-1.29",
-      "tscore": "-10.14"
+      "tscore": "-10.14",
+      "eggnog": {
+        "X1": "MAG06_688_5",
+        "X2": "266834.SMc01763",
+        "X3": 4.8e-83,
+        "X4": 312.4,
+        "X5": "SALY",
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01XHU@aproNOG,08WTJ@bactNOG,11JFA@NOG,17AIY@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "EamA-like transporter family"
+      }
     },
     {
       "seqnames": "MAG06_684",
@@ -46,7 +61,22 @@
       "sscore": "10.29",
       "rscore": "7.63",
       "uscore": "-0.33",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_689_2",
+        "X2": "639283.Snov_2682",
+        "X3": 6.4e-54,
+        "X4": 216.5,
+        "X5": null,
+        "X6": null,
+        "X7": "K07506",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "021UM@aproNOG,08WHK@bactNOG,1225V@NOG,17BEX@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": "K",
+        "X13": "AraC family transcriptional regulator"
+      }
     },
     {
       "seqnames": "MAG06_684",
@@ -70,7 +100,8 @@
       "sscore": "3.19",
       "rscore": "-0.46",
       "uscore": "1.26",
-      "tscore": "2.89"
+      "tscore": "2.89",
+      "eggnog": {}
     },
     {
       "seqnames": "MAG06_684",
@@ -94,7 +125,22 @@
       "sscore": "11.80",
       "rscore": "7.63",
       "uscore": "0.53",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_689_3",
+        "X2": "381666.H16_B1896",
+        "X3": 7.9e-59,
+        "X4": 232.3,
+        "X5": "XDHC",
+        "X6": null,
+        "X7": "K03518,K07302,K13480,K13483",
+        "X8": "HXAND,XAND",
+        "X9": "bactNOG[38]",
+        "X10": "08UTP@bactNOG,0BE2N@bproNOG,17A4A@proNOG,COG2080@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "F",
+        "X13": "Xanthine dehydrogenase"
+      }
     }
   ],
   "seqname": "MAG06_684",

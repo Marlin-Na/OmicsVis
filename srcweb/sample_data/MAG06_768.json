@@ -22,7 +22,22 @@
       "sscore": "12.23",
       "rscore": "13.75",
       "uscore": "-0.17",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_750_3",
+        "X2": "266834.SMc02577",
+        "X3": 6.8e-238,
+        "X4": 828.2,
+        "X5": "HSLU",
+        "X6": "GO:0003674,GO:0003824,GO:0005575,GO:0005622,GO:0005623,GO:0005737,GO:0006508,GO:0006950,GO:0008150,GO:0008152,GO:0008233,GO:0009266,GO:0009408,GO:0009628,GO:0016020,GO:0016787,GO:0019538,GO:0043170,GO:0044238,GO:0044424,GO:0044464,GO:0050896,GO:0071704",
+        "X7": "K03667",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01QJD@aproNOG,05C4N@bactNOG,16PVM@proNOG,COG1220@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "O",
+        "X13": "this subunit has chaperone activity. The binding of ATP and its subsequent hydrolysis by HslU are essential for unfolding of protein substrates subsequently hydrolyzed by HslV. HslU recognizes the N-terminal part of its protein substrates and unfolds these before they are guided to HslV for hydrolysis (By similarity)"
+      }
     },
     {
       "seqnames": "MAG06_768",
@@ -46,7 +61,22 @@
       "sscore": "3.22",
       "rscore": "0.00",
       "uscore": "0.00",
-      "tscore": "3.22"
+      "tscore": "3.22",
+      "eggnog": {
+        "X1": "MAG06_750_4",
+        "X2": "266834.SMc02576",
+        "X3": 7.2e-98,
+        "X4": 361.7,
+        "X5": null,
+        "X6": "GO:0003674,GO:0003824,GO:0008080,GO:0008150,GO:0008152,GO:0009987,GO:0016407,GO:0016410,GO:0016740,GO:0016746,GO:0016747,GO:0016999,GO:0017144,GO:0034069,GO:0044237,GO:0047663",
+        "X7": "K00663",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "020C2@aproNOG,05RF8@bactNOG,17IN2@proNOG,COG1670@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "J",
+        "X13": "N-acetyltransferase GCN5"
+      }
     }
   ],
   "seqname": "MAG06_768",

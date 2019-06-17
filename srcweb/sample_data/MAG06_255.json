@@ -22,7 +22,22 @@
       "sscore": "6.01",
       "rscore": "2.03",
       "uscore": "0.33",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_357_2",
+        "X2": "266834.SMc00327",
+        "X3": 1.5e-231,
+        "X4": 807,
+        "X5": "FABB",
+        "X6": "GO:0003674,GO:0003824,GO:0004312,GO:0004315,GO:0005575,GO:0005622,GO:0005623,GO:0005737,GO:0005829,GO:0006082,GO:0006629,GO:0006631,GO:0006633,GO:0008150,GO:0008152,GO:0008610,GO:0009058,GO:0009987,GO:0016053,GO:0016740,GO:0016746,GO:0016747,GO:0019752,GO:0032787,GO:0043436,GO:0044237,GO:0044238,GO:0044249,GO:0044255,GO:0044281,GO:0044283,GO:0044424,GO:0044444,GO:0044464,GO:0044710,GO:0044711,GO:0046394,GO:0071704,GO:0072330,GO:1901576",
+        "X7": "K00647",
+        "X8": "3OAS100,3OAS120,3OAS121,3OAS140,3OAS141,3OAS160,3OAS161,3OAS180,3OAS181,3OAS60,3OAS80,ACOATA,C120SN,C140SN,C141SN,C160SN,C161SN,C181SN,KAS14,KAS16,MACPD,OPMEACPS",
+        "X9": "bactNOG[38]",
+        "X10": "01Q6R@aproNOG,05C0Q@bactNOG,16PUQ@proNOG,COG0304@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "I",
+        "X13": "Catalyzes the condensation reaction of fatty acid synthesis by the addition to an acyl acceptor of two carbons from malonyl-ACP (By similarity)"
+      }
     },
     {
       "seqnames": "MAG06_255",
@@ -46,7 +61,8 @@
       "sscore": "16.56",
       "rscore": "13.75",
       "uscore": "-0.18",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {}
     },
     {
       "seqnames": "MAG06_255",
@@ -70,7 +86,22 @@
       "sscore": "7.05",
       "rscore": "2.03",
       "uscore": "1.38",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_357_3",
+        "X2": "266834.SMc00328",
+        "X3": 3.9e-96,
+        "X4": 355.9,
+        "X5": "FABA",
+        "X6": "GO:0003674,GO:0003824,GO:0005575,GO:0005622,GO:0005623,GO:0005737,GO:0006082,GO:0006629,GO:0006631,GO:0006633,GO:0008150,GO:0008152,GO:0008610,GO:0008693,GO:0009058,GO:0009987,GO:0016053,GO:0016829,GO:0016835,GO:0016836,GO:0019171,GO:0019752,GO:0032787,GO:0043436,GO:0044237,GO:0044238,GO:0044249,GO:0044255,GO:0044281,GO:0044283,GO:0044424,GO:0044464,GO:0044710,GO:0044711,GO:0046394,GO:0071704,GO:0072330,GO:1901576",
+        "X7": "K01716",
+        "X8": "3HAD100,3HAD120,3HAD121,3HAD140,3HAD141,3HAD160,3HAD161,3HAD180,3HAD181,3HAD40,3HAD60,3HAD80,C120SN,C140SN,C141SN,C160SN,C161SN,C181SN,T2DECAI",
+        "X9": "bactNOG[38]",
+        "X10": "01W3T@aproNOG,08RKI@bactNOG,177RS@proNOG,COG0764@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "I",
+        "X13": "Necessary for the introduction of cis unsaturation into fatty acids. Catalyzes the dehydration of (3R)-3-hydroxydecanoyl- ACP to E-(2)-decenoyl-ACP and then its isomerization to Z-(3)- decenoyl-ACP. Can catalyze the dehydratase reaction for beta- hydroxyacyl-ACPs with saturated chain lengths up to 16 0, being most active on intermediate chain length (By similarity)"
+      }
     },
     {
       "seqnames": "MAG06_255",
@@ -94,7 +125,22 @@
       "sscore": "3.22",
       "rscore": "0.00",
       "uscore": "0.00",
-      "tscore": "3.22"
+      "tscore": "3.22",
+      "eggnog": {
+        "X1": "MAG06_357_4",
+        "X2": "266834.SMc00329",
+        "X3": 3.2e-72,
+        "X4": 276.2,
+        "X5": "IRR",
+        "X6": null,
+        "X7": "K09826",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01Y11@aproNOG,07Z4V@bactNOG,17CHS@proNOG,COG0735@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "K",
+        "X13": "regulator Fur family"
+      }
     }
   ],
   "seqname": "MAG06_255",

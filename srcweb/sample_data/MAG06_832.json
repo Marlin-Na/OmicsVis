@@ -22,7 +22,22 @@
       "sscore": "1.61",
       "rscore": "0.00",
       "uscore": "0.00",
-      "tscore": "1.61"
+      "tscore": "1.61",
+      "eggnog": {
+        "X1": "MAG06_802_4",
+        "X2": "266834.SMc02618",
+        "X3": 2.2e-64,
+        "X4": 250,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "020SU@aproNOG,05KW4@bactNOG,11VGS@NOG,17GIC@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": null,
+        "X13": null
+      }
     }
   ],
   "seqname": "MAG06_832",

@@ -22,7 +22,22 @@
       "sscore": "3.22",
       "rscore": "0.00",
       "uscore": "0.00",
-      "tscore": "3.22"
+      "tscore": "3.22",
+      "eggnog": {
+        "X1": "MAG06_901_2",
+        "X2": "311403.Arad_7015",
+        "X3": 2.3e-124,
+        "X4": 450.3,
+        "X5": "SCLAV_0939",
+        "X6": null,
+        "X7": "K07793",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01QBX@aproNOG,05C1D@bactNOG,16PJ6@proNOG,COG3333@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "membrane"
+      }
     },
     {
       "seqnames": "MAG06_958",
@@ -46,7 +61,22 @@
       "sscore": "9.72",
       "rscore": "7.63",
       "uscore": "-0.90",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_902_1",
+        "X2": "266834.SMc01532",
+        "X3": 4.4e-111,
+        "X4": 406,
+        "X5": "AGLA2",
+        "X6": null,
+        "X7": "K01182,K01187",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01RC1@aproNOG,05CG3@bactNOG,16Q9W@proNOG,COG0366@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "G",
+        "X13": "Alpha amylase, catalytic region"
+      }
     },
     {
       "seqnames": "MAG06_958",
@@ -70,7 +100,22 @@
       "sscore": "8.34",
       "rscore": "2.03",
       "uscore": "2.67",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_902_2",
+        "X2": "266834.SMc01533",
+        "X3": 0,
+        "X4": 1133.2,
+        "X5": "ADE",
+        "X6": "GO:0000034,GO:0003674,GO:0003824,GO:0005488,GO:0006139,GO:0006144,GO:0006145,GO:0006146,GO:0006725,GO:0006807,GO:0008150,GO:0008152,GO:0009056,GO:0009058,GO:0009112,GO:0009113,GO:0009987,GO:0016787,GO:0016810,GO:0016814,GO:0018130,GO:0019239,GO:0019438,GO:0019439,GO:0030145,GO:0034641,GO:0042440,GO:0043167,GO:0043169,GO:0044237,GO:0044238,GO:0044248,GO:0044249,GO:0044270,GO:0044271,GO:0044281,GO:0044710,GO:0046083,GO:0046100,GO:0046101,GO:0046112,GO:0046113,GO:0046148,GO:0046483,GO:0046700,GO:0046872,GO:0046914,GO:0055086,GO:0071704,GO:0072521,GO:0072522,GO:0072523,GO:1901360,GO:1901361,GO:1901362,GO:1901564,GO:1901565,GO:1901566,GO:1901575,GO:1901576",
+        "X7": "K01486",
+        "X8": "ADD",
+        "X9": "bactNOG[38]",
+        "X10": "01RZ1@aproNOG,05CPN@bactNOG,16QVX@proNOG,COG1001@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "F",
+        "X13": "adenine deaminase"
+      }
     },
     {
       "seqnames": "MAG06_958",
@@ -94,7 +139,22 @@
       "sscore": "3.22",
       "rscore": "0.00",
       "uscore": "0.00",
-      "tscore": "3.22"
+      "tscore": "3.22",
+      "eggnog": {
+        "X1": "MAG06_902_3",
+        "X2": "266834.SMc01534",
+        "X3": 1.4e-259,
+        "X4": 900.2,
+        "X5": "APTA",
+        "X6": null,
+        "X7": "K00822,K00833",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "02EGK@aproNOG,08JPX@bactNOG,173ED@proNOG,COG0161@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "E",
+        "X13": "Aminotransferase"
+      }
     }
   ],
   "seqname": "MAG06_958",

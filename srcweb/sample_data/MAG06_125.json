@@ -22,7 +22,22 @@
       "sscore": "11.02",
       "rscore": "7.63",
       "uscore": "-0.25",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_245_4",
+        "X2": "460265.Mnod_0134",
+        "X3": 1.1e-19,
+        "X4": 101.7,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "025YN@aproNOG,081QX@bactNOG,0ZJ3A@NOG,1759X@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": null,
+        "X13": null
+      }
     },
     {
       "seqnames": "MAG06_125",
@@ -46,7 +61,22 @@
       "sscore": "13.15",
       "rscore": "7.63",
       "uscore": "0.78",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_246_1",
+        "X2": "266834.SMc01496",
+        "X3": 7.9e-244,
+        "X4": 847.8,
+        "X5": "SMOE",
+        "X6": null,
+        "X7": "K02027,K10227",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "02E75@aproNOG,08IHS@bactNOG,0XPU2@NOG,172RQ@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": "G",
+        "X13": "extracellular solute-binding protein"
+      }
     },
     {
       "seqnames": "MAG06_125",
@@ -70,7 +100,22 @@
       "sscore": "0.74",
       "rscore": "-4.72",
       "uscore": "1.81",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_246_2",
+        "X2": "266834.SMc01495",
+        "X3": 5.1e-174,
+        "X4": 615.5,
+        "X5": "SMOC",
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01T0N@aproNOG,05DKT@bactNOG,16SAC@proNOG,COG2390@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "K",
+        "X13": "Transcriptional regulator"
+      }
     },
     {
       "seqnames": "MAG06_125",
@@ -94,7 +139,22 @@
       "sscore": "12.42",
       "rscore": "7.63",
       "uscore": "0.27",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_246_3",
+        "X2": "266834.SMc01814",
+        "X3": 1.3e-255,
+        "X4": 887.1,
+        "X5": "GLTD",
+        "X6": "GO:0003674,GO:0003824,GO:0003954,GO:0005488,GO:0006139,GO:0006206,GO:0006208,GO:0006725,GO:0006807,GO:0008150,GO:0008152,GO:0009056,GO:0009112,GO:0009987,GO:0016491,GO:0016651,GO:0034641,GO:0044237,GO:0044238,GO:0044248,GO:0044270,GO:0044281,GO:0044710,GO:0046113,GO:0046483,GO:0046700,GO:0051536,GO:0051540,GO:0055086,GO:0055114,GO:0071704,GO:0072527,GO:0072529,GO:1901360,GO:1901361,GO:1901564,GO:1901565,GO:1901575",
+        "X7": "K00266,K15022,K17722",
+        "X8": "DURADx",
+        "X9": "bactNOG[38]",
+        "X10": "01SAZ@aproNOG,05BZ8@bactNOG,18A4V@proNOG,COG0493@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "E",
+        "X13": "Oxidoreductase"
+      }
     },
     {
       "seqnames": "MAG06_125",
@@ -118,7 +178,22 @@
       "sscore": "11.32",
       "rscore": "7.63",
       "uscore": "0.70",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_246_4",
+        "X2": "266834.SMc01815",
+        "X3": 7.3e-264,
+        "X4": 914.4,
+        "X5": "YEIA",
+        "X6": "GO:0003674,GO:0003824,GO:0003954,GO:0005488,GO:0006139,GO:0006206,GO:0006208,GO:0006725,GO:0006807,GO:0006928,GO:0008150,GO:0008152,GO:0009056,GO:0009112,GO:0009987,GO:0016491,GO:0016627,GO:0016634,GO:0016651,GO:0034641,GO:0044237,GO:0044238,GO:0044248,GO:0044270,GO:0044281,GO:0044699,GO:0044710,GO:0044763,GO:0046113,GO:0046483,GO:0046700,GO:0051536,GO:0051540,GO:0055086,GO:0055114,GO:0071704,GO:0072527,GO:0072529,GO:1901360,GO:1901361,GO:1901564,GO:1901565,GO:1901575",
+        "X7": "K00226,K17723",
+        "X8": "DURAD,DURADx",
+        "X9": "bactNOG[38]",
+        "X10": "01QC5@aproNOG,07SJI@bactNOG,16QHA@proNOG,COG0167@NOG,COG1146@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "C",
+        "X13": "dihydropyrimidine dehydrogenase"
+      }
     },
     {
       "seqnames": "MAG06_125",
@@ -142,7 +217,22 @@
       "sscore": "6.01",
       "rscore": "2.03",
       "uscore": "0.34",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_246_5",
+        "X2": "266834.SMc01816",
+        "X3": 3.1e-193,
+        "X4": 679.5,
+        "X5": null,
+        "X6": null,
+        "X7": "K00001,K00008,K13955",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01RAD@aproNOG,07RFM@bactNOG,0XPQW@NOG,16SAD@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": "C",
+        "X13": "alcohol dehydrogenase"
+      }
     },
     {
       "seqnames": "MAG06_125",
@@ -166,7 +256,22 @@
       "sscore": "15.02",
       "rscore": "10.54",
       "uscore": "0.83",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_246_6",
+        "X2": "266834.SMc01817",
+        "X3": 3.7e-166,
+        "X4": 589.3,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01VQJ@aproNOG,05MS1@bactNOG,0XS53@NOG,16RM2@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": "K",
+        "X13": "LysR family transcriptional regulator"
+      }
     },
     {
       "seqnames": "MAG06_125",
@@ -190,7 +295,22 @@
       "sscore": "16.49",
       "rscore": "13.75",
       "uscore": "-0.25",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_246_7",
+        "X2": "266834.SMc01818",
+        "X3": 6.5e-16,
+        "X4": 87.4,
+        "X5": "CYAA",
+        "X6": null,
+        "X7": "K01768",
+        "X8": "ADNCYC",
+        "X9": "bactNOG[38]",
+        "X10": "01Q90@aproNOG,05FCY@bactNOG,16PEU@proNOG,COG0633@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "T",
+        "X13": "Adenylate Guanylate cyclase"
+      }
     },
     {
       "seqnames": "MAG06_125",
@@ -214,7 +334,22 @@
       "sscore": "20.16",
       "rscore": "13.75",
       "uscore": "3.41",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_247_1",
+        "X2": "266834.SMc00978",
+        "X3": 2.2e-180,
+        "X4": 636.7,
+        "X5": null,
+        "X6": null,
+        "X7": "K03284,K16074",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01UR8@aproNOG,07RX3@bactNOG,16RGQ@proNOG,COG0598@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "P",
+        "X13": "Mg2 transporter protein, CorA family protein"
+      }
     },
     {
       "seqnames": "MAG06_125",
@@ -238,7 +373,22 @@
       "sscore": "7.76",
       "rscore": "2.03",
       "uscore": "0.84",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_247_2",
+        "X2": "266834.SMc00977",
+        "X3": 0,
+        "X4": 1170.6,
+        "X5": "MMGC",
+        "X6": null,
+        "X7": "K00248,K00249,K20035",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01RDU@aproNOG,05CSU@bactNOG,16Q90@proNOG,COG1960@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "I",
+        "X13": "acyl-CoA dehydrogenase"
+      }
     },
     {
       "seqnames": "MAG06_125",
@@ -262,7 +412,8 @@
       "sscore": "3.22",
       "rscore": "0.00",
       "uscore": "0.00",
-      "tscore": "3.22"
+      "tscore": "3.22",
+      "eggnog": {}
     }
   ],
   "seqname": "MAG06_125",

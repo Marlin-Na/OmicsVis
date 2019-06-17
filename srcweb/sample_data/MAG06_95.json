@@ -22,7 +22,22 @@
       "sscore": "5.61",
       "rscore": "7.85",
       "uscore": "1.33",
-      "tscore": "-4.87"
+      "tscore": "-4.87",
+      "eggnog": {
+        "X1": "MAG06_219_10",
+        "X2": "266834.SMc01595",
+        "X3": 6.1e-68,
+        "X4": 261.9,
+        "X5": "ENVZ",
+        "X6": null,
+        "X7": "K07638",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01QYW@aproNOG,05E0F@bactNOG,0XTWD@NOG,16RKV@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": "T",
+        "X13": "Histidine kinase"
+      }
     },
     {
       "seqnames": "MAG06_95",
@@ -46,7 +61,22 @@
       "sscore": "12.83",
       "rscore": "7.85",
       "uscore": "1.33",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_219_11",
+        "X2": "266834.SMc01593",
+        "X3": 4.5e-127,
+        "X4": 459.1,
+        "X5": "PETR",
+        "X6": null,
+        "X7": "K07659",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01R9M@aproNOG,05DPZ@bactNOG,16PT0@proNOG,COG0745@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "T",
+        "X13": "Two component transcriptional regulator, winged helix family"
+      }
     },
     {
       "seqnames": "MAG06_95",
@@ -70,7 +100,22 @@
       "sscore": "-4.71",
       "rscore": "-7.28",
       "uscore": "-1.03",
-      "tscore": "2.36"
+      "tscore": "2.36",
+      "eggnog": {
+        "X1": "MAG06_219_12",
+        "X2": "266834.SMc01592",
+        "X3": 2.3e-82,
+        "X4": 310.1,
+        "X5": "PETP",
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01YR8@aproNOG,090HR@bactNOG,11G0I@NOG,17C8G@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": "K",
+        "X13": "Transcriptional regulator"
+      }
     },
     {
       "seqnames": "MAG06_95",
@@ -94,7 +139,22 @@
       "sscore": "3.22",
       "rscore": "0.00",
       "uscore": "0.00",
-      "tscore": "3.22"
+      "tscore": "3.22",
+      "eggnog": {
+        "X1": "MAG06_219_2",
+        "X2": "266834.SMc02683",
+        "X3": 5.2e-148,
+        "X4": 528.9,
+        "X5": "YFIH",
+        "X6": "GO:0005575,GO:0005618,GO:0005623,GO:0030312,GO:0044464,GO:0071944",
+        "X7": "K05810",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01T4I@aproNOG,05DBW@bactNOG,16SDP@proNOG,COG1496@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "Multi-copper polyphenol oxidoreductase laccase"
+      }
     }
   ],
   "seqname": "MAG06_95",

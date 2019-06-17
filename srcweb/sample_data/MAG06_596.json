@@ -22,7 +22,22 @@
       "sscore": "10.80",
       "rscore": "7.63",
       "uscore": "-0.47",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_619_2",
+        "X2": "216596.RL1752",
+        "X3": 2.8e-59,
+        "X4": 233.8,
+        "X5": null,
+        "X6": null,
+        "X7": "K00863,K05879",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01WX6@aproNOG,08UTZ@bactNOG,179WA@proNOG,COG2376@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "G",
+        "X13": "Dihydroxyacetone kinase"
+      }
     },
     {
       "seqnames": "MAG06_596",
@@ -46,7 +61,22 @@
       "sscore": "17.61",
       "rscore": "13.75",
       "uscore": "-0.69",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_62_1",
+        "X2": "266834.SMc01608",
+        "X3": 5.3e-66,
+        "X4": 255.4,
+        "X5": null,
+        "X6": null,
+        "X7": "K02010,K02052,K11072,K11076",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01QP7@aproNOG,05C53@bactNOG,16QR8@proNOG,COG3842@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "E",
+        "X13": "ABC transporter"
+      }
     },
     {
       "seqnames": "MAG06_596",
@@ -70,7 +100,22 @@
       "sscore": "19.57",
       "rscore": "13.75",
       "uscore": "0.88",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_62_2",
+        "X2": "266834.SMc01607",
+        "X3": 1.3e-138,
+        "X4": 497.7,
+        "X5": null,
+        "X6": "GO:0005575,GO:0016020",
+        "X7": "K02053",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01RS4@aproNOG,05DPD@bactNOG,173UB@proNOG,COG1177@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "E",
+        "X13": "binding-protein-dependent transport systems inner membrane component"
+      }
     },
     {
       "seqnames": "MAG06_596",
@@ -94,7 +139,22 @@
       "sscore": "-0.96",
       "rscore": "2.03",
       "uscore": "1.88",
-      "tscore": "-4.87"
+      "tscore": "-4.87",
+      "eggnog": {
+        "X1": "MAG06_62_3",
+        "X2": "266834.SMc01606",
+        "X3": 2.1e-144,
+        "X4": 516.9,
+        "X5": null,
+        "X6": "GO:0005575,GO:0016020",
+        "X7": "K02054",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01T54@aproNOG,05HQH@bactNOG,17635@proNOG,COG4132@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "Binding-protein-dependent transport systems inner membrane component"
+      }
     },
     {
       "seqnames": "MAG06_596",
@@ -118,7 +178,22 @@
       "sscore": "11.17",
       "rscore": "7.63",
       "uscore": "0.55",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_62_4",
+        "X2": "266834.SMc01605",
+        "X3": 2.5e-209,
+        "X4": 733,
+        "X5": null,
+        "X6": null,
+        "X7": "K02055",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01SKK@aproNOG,05CY5@bactNOG,173RG@proNOG,COG1840@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "G",
+        "X13": "solute-binding protein"
+      }
     },
     {
       "seqnames": "MAG06_596",
@@ -142,7 +217,22 @@
       "sscore": "10.19",
       "rscore": "7.63",
       "uscore": "-1.08",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_62_5",
+        "X2": "266834.SMc01602",
+        "X3": 4.8e-97,
+        "X4": 359,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01T2D@aproNOG,05CPZ@bactNOG,173PE@proNOG,COG1737@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "K",
+        "X13": "Transcriptional regulator, rpir family"
+      }
     }
   ],
   "seqname": "MAG06_596",

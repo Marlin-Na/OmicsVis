@@ -22,7 +22,22 @@
       "sscore": "12.38",
       "rscore": "7.85",
       "uscore": "0.89",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_515_1",
+        "X2": "366394.Smed_0524",
+        "X3": 1.2e-09,
+        "X4": 66.2,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "02CJ7@aproNOG,08ZU0@bactNOG,17FZ5@proNOG,COG3034@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "ErfK YbiS YcfS YnhG family protein"
+      }
     },
     {
       "seqnames": "MAG06_452",
@@ -46,7 +61,22 @@
       "sscore": "10.10",
       "rscore": "7.63",
       "uscore": "-0.52",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_515_2",
+        "X2": "266834.SMc00014",
+        "X3": 3.9e-69,
+        "X4": 265.8,
+        "X5": "NHAM_0261",
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01ZT5@aproNOG,05KV2@bactNOG,17D0I@proNOG,COG5349@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "Protein of unknown function (DUF983)"
+      }
     },
     {
       "seqnames": "MAG06_452",
@@ -70,7 +100,22 @@
       "sscore": "-11.43",
       "rscore": "-4.72",
       "uscore": "-1.85",
-      "tscore": "-4.87"
+      "tscore": "-4.87",
+      "eggnog": {
+        "X1": "MAG06_515_3",
+        "X2": "266834.SMc00085",
+        "X3": 1.8e-134,
+        "X4": 483.8,
+        "X5": "SURF1",
+        "X6": null,
+        "X7": "K14998",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01XZR@aproNOG,08R6F@bactNOG,179FT@proNOG,COG3346@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "Surfeit locus 1 family protein"
+      }
     },
     {
       "seqnames": "MAG06_452",
@@ -94,7 +139,22 @@
       "sscore": "1.44",
       "rscore": "-3.78",
       "uscore": "1.57",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_515_4",
+        "X2": "266834.SMc00016",
+        "X3": 4e-185,
+        "X4": 652.5,
+        "X5": "ISPH",
+        "X6": "GO:0003674,GO:0003824,GO:0006732,GO:0006733,GO:0006743,GO:0006744,GO:0008150,GO:0008152,GO:0009058,GO:0009108,GO:0009636,GO:0009987,GO:0016491,GO:0042180,GO:0042181,GO:0042221,GO:0042375,GO:0042380,GO:0044237,GO:0044249,GO:0044281,GO:0044283,GO:0044710,GO:0044711,GO:0045426,GO:0046677,GO:0050896,GO:0051186,GO:0051188,GO:0055114,GO:0071704,GO:1901576,GO:1901661,GO:1901663",
+        "X7": "K02945,K03527",
+        "X8": "DMPPS,IPDPS",
+        "X9": "bactNOG[38]",
+        "X10": "01QQU@aproNOG,05C48@bactNOG,16PFS@proNOG,COG0761@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "I",
+        "X13": "Converts 1-hydroxy-2-methyl-2-(E)-butenyl 4-diphosphate into isopentenyl diphosphate (IPP) and dimethylallyl diphosphate (DMAPP) (By similarity)"
+      }
     },
     {
       "seqnames": "MAG06_452",
@@ -118,7 +178,22 @@
       "sscore": "-2.25",
       "rscore": "-0.37",
       "uscore": "1.32",
-      "tscore": "-4.87"
+      "tscore": "-4.87",
+      "eggnog": {
+        "X1": "MAG06_515_5",
+        "X2": "266834.SMc00017",
+        "X3": 2e-189,
+        "X4": 666.8,
+        "X5": "THRB",
+        "X6": null,
+        "X7": "K02204",
+        "X8": "HSK",
+        "X9": "bactNOG[38]",
+        "X10": "01QB6@aproNOG,05CUV@bactNOG,16T6Z@proNOG,COG2334@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "E",
+        "X13": "homoserine kinase"
+      }
     },
     {
       "seqnames": "MAG06_452",
@@ -142,7 +217,22 @@
       "sscore": "12.81",
       "rscore": "7.63",
       "uscore": "0.35",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_515_6",
+        "X2": "266834.SMc00018",
+        "X3": 1.6e-88,
+        "X4": 330.5,
+        "X5": "RNHA",
+        "X6": "GO:0003674,GO:0003676,GO:0003824,GO:0004518,GO:0004519,GO:0004521,GO:0004523,GO:0004540,GO:0005488,GO:0005575,GO:0005622,GO:0005623,GO:0005737,GO:0006139,GO:0006259,GO:0006260,GO:0006261,GO:0006271,GO:0006273,GO:0006401,GO:0006725,GO:0006807,GO:0008150,GO:0008152,GO:0009056,GO:0009057,GO:0009058,GO:0009059,GO:0009987,GO:0016070,GO:0016787,GO:0016788,GO:0016891,GO:0016893,GO:0019439,GO:0022616,GO:0033567,GO:0034641,GO:0034645,GO:0034655,GO:0043137,GO:0043170,GO:0044237,GO:0044238,GO:0044248,GO:0044249,GO:0044260,GO:0044265,GO:0044270,GO:0044424,GO:0044464,GO:0046483,GO:0046700,GO:0071704,GO:0090304,GO:0090305,GO:0097159,GO:1901360,GO:1901361,GO:1901363,GO:1901575,GO:1901576",
+        "X7": "K03469",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01WY3@aproNOG,08UMW@bactNOG,179MX@proNOG,COG0328@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "L",
+        "X13": "Endonuclease that specifically degrades the RNA of RNA- DNA hybrids (By similarity)"
+      }
     },
     {
       "seqnames": "MAG06_452",
@@ -166,7 +256,22 @@
       "sscore": "9.70",
       "rscore": "13.75",
       "uscore": "0.81",
-      "tscore": "-4.87"
+      "tscore": "-4.87",
+      "eggnog": {
+        "X1": "MAG06_516_1",
+        "X2": "266834.SMc01457",
+        "X3": 2.4e-183,
+        "X4": 646.7,
+        "X5": "ACRD",
+        "X6": null,
+        "X7": "K03296,K18138",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01QFF@aproNOG,05BZS@bactNOG,16PBH@proNOG,COG0841@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "P",
+        "X13": "acriflavin resistance protein"
+      }
     },
     {
       "seqnames": "MAG06_452",
@@ -190,7 +295,22 @@
       "sscore": "11.71",
       "rscore": "7.63",
       "uscore": "1.09",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_516_2",
+        "X2": "266834.SMc01458",
+        "X3": 8.8e-160,
+        "X4": 568.2,
+        "X5": null,
+        "X6": null,
+        "X7": "K03585",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01RVX@aproNOG,0624X@bactNOG,16SZN@proNOG,COG0845@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "M",
+        "X13": "efflux transporter, rnd family, mfp subunit"
+      }
     },
     {
       "seqnames": "MAG06_452",
@@ -214,7 +334,22 @@
       "sscore": "2.60",
       "rscore": "7.85",
       "uscore": "-0.38",
-      "tscore": "-4.87"
+      "tscore": "-4.87",
+      "eggnog": {
+        "X1": "MAG06_517_1",
+        "X2": "391735.Veis_2685",
+        "X3": 4.9e-71,
+        "X4": 273.5,
+        "X5": "LSRR",
+        "X6": "GO:0005575,GO:0005622,GO:0005623,GO:0005737,GO:0006139,GO:0006351,GO:0006725,GO:0006807,GO:0008150,GO:0008152,GO:0009058,GO:0009059,GO:0009987,GO:0010467,GO:0016070,GO:0018130,GO:0019438,GO:0032774,GO:0034641,GO:0034645,GO:0034654,GO:0043170,GO:0044237,GO:0044238,GO:0044249,GO:0044260,GO:0044271,GO:0044424,GO:0044464,GO:0046483,GO:0071704,GO:0090304,GO:1901360,GO:1901362,GO:1901576",
+        "X7": "K05346,K11531",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "05DKT@bactNOG,0BNJR@bproNOG,16SAC@proNOG,COG2390@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "K",
+        "X13": "Putative sugar-binding domain"
+      }
     }
   ],
   "seqname": "MAG06_452",

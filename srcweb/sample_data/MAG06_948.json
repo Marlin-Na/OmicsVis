@@ -22,7 +22,8 @@
       "sscore": "5.53",
       "rscore": "2.74",
       "uscore": "-1.64",
-      "tscore": "3.20"
+      "tscore": "3.20",
+      "eggnog": {}
     },
     {
       "seqnames": "MAG06_948",
@@ -46,7 +47,22 @@
       "sscore": "4.49",
       "rscore": "-0.25",
       "uscore": "-1.48",
-      "tscore": "3.20"
+      "tscore": "3.20",
+      "eggnog": {
+        "X1": "MAG06_893_7",
+        "X2": "266834.SMc02653",
+        "X3": 1e-142,
+        "X4": 511.1,
+        "X5": "LEPB",
+        "X6": "GO:0005575,GO:0005623,GO:0005886,GO:0016020,GO:0044464,GO:0071944",
+        "X7": "K03100",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01SZQ@aproNOG,05C3F@bactNOG,16PF2@proNOG,COG0681@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "U",
+        "X13": "Signal peptidase i"
+      }
     },
     {
       "seqnames": "MAG06_948",
@@ -70,7 +86,22 @@
       "sscore": "9.61",
       "rscore": "12.94",
       "uscore": "-0.51",
-      "tscore": "-4.62"
+      "tscore": "-4.62",
+      "eggnog": {
+        "X1": "MAG06_893_8",
+        "X2": "266834.SMc02652",
+        "X3": 5.7e-130,
+        "X4": 468.8,
+        "X5": "RNC",
+        "X6": "GO:0003674,GO:0003824,GO:0004518,GO:0004519,GO:0004521,GO:0004525,GO:0004540,GO:0005575,GO:0005622,GO:0005623,GO:0005737,GO:0006139,GO:0006396,GO:0006725,GO:0006807,GO:0008150,GO:0008152,GO:0009987,GO:0010467,GO:0016070,GO:0016787,GO:0016788,GO:0016891,GO:0016893,GO:0034641,GO:0040007,GO:0043170,GO:0044237,GO:0044238,GO:0044260,GO:0044424,GO:0044464,GO:0046483,GO:0071704,GO:0090304,GO:0090305,GO:1901360",
+        "X7": "K03685",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01R8S@aproNOG,08ZBM@bactNOG,16Q36@proNOG,COG0571@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "K",
+        "X13": "Digests double-stranded RNA. Involved in the processing of primary rRNA transcript to yield the immediate precursors to the large and small rRNAs (23S and 16S). Also processes some mRNAs, and tRNAs when they are encoded in the rRNA operon (By similarity)"
+      }
     },
     {
       "seqnames": "MAG06_948",
@@ -94,7 +125,22 @@
       "sscore": "3.22",
       "rscore": "0.00",
       "uscore": "0.00",
-      "tscore": "3.22"
+      "tscore": "3.22",
+      "eggnog": {
+        "X1": "MAG06_893_9",
+        "X2": "266834.SMc02651",
+        "X3": 1.3e-109,
+        "X4": 401,
+        "X5": "ERA",
+        "X6": "GO:0000028,GO:0000166,GO:0001882,GO:0001883,GO:0003674,GO:0003676,GO:0003723,GO:0003824,GO:0003924,GO:0005488,GO:0005525,GO:0005575,GO:0005622,GO:0005623,GO:0005737,GO:0005829,GO:0005886,GO:0006139,GO:0006152,GO:0006163,GO:0006184,GO:0006195,GO:0006464,GO:0006468,GO:0006725,GO:0006753,GO:0006793,GO:0006796,GO:0006807,GO:0006996,GO:0008150,GO:0008152,GO:0009056,GO:0009116,GO:0009117,GO:0009119,GO:0009141,GO:0009143,GO:0009144,GO:0009146,GO:0009150,GO:0009154,GO:0009164,GO:0009166,GO:0009199,GO:0009203,GO:0009205,GO:0009207,GO:0009259,GO:0009261,GO:0009987,GO:0016020,GO:0016043,GO:0016310,GO:0016462,GO:0016787,GO:0016817,GO:0016818,GO:0017076,GO:0017111,GO:0019001,GO:0019003,GO:0019439,GO:0019538,GO:0019637,GO:0019693,GO:0019843,GO:0022607,GO:0022613,GO:0022618,GO:0032549,GO:0032550,GO:0032553,GO:0032555,GO:0032561,GO:0034622,GO:0034641,GO:0034655,GO:0035639,GO:0036094,GO:0036211,GO:0040007,GO:0042254,GO:0042255,GO:0042274,GO:0042278,GO:0042454,GO:0043021,GO:0043024,GO:0043167,GO:0043168,GO:0043170,GO:0043412,GO:0043933,GO:0044085,GO:0044237,GO:0044238,GO:0044248,GO:0044260,GO:0044267,GO:0044270,GO:0044281,GO:0044424,GO:0044444,GO:0044464,GO:0044699,GO:0044710,GO:0044763,GO:0046039,GO:0046128,GO:0046130,GO:0046434,GO:0046483,GO:0046700,GO:0055086,GO:0065003,GO:0070181,GO:0070925,GO:0071704,GO:0071826,GO:0071840,GO:0071944,GO:0072521,GO:0072523,GO:0097159,GO:1901068,GO:1901069,GO:1901135,GO:1901136,GO:1901265,GO:1901292,GO:1901360,GO:1901361,GO:1901363,GO:1901564,GO:1901565,GO:1901575,GO:1901657,GO:1901658",
+        "X7": "K03595",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01RX6@aproNOG,05CWT@bactNOG,16PRE@proNOG,COG1159@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "K",
+        "X13": "An essential GTPase that binds both GDP and GTP, with rapid nucleotide exchange. Plays a role in 16S rRNA processing and 30S ribosomal subunit biogenesis and possibly also in cell cycle regulation and energy metabolism (By similarity)"
+      }
     }
   ],
   "seqname": "MAG06_948",

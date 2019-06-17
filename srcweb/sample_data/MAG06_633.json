@@ -22,7 +22,22 @@
       "sscore": "4.60",
       "rscore": "2.03",
       "uscore": "-1.07",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_653_6",
+        "X2": "266835.mll7129",
+        "X3": 5.1e-69,
+        "X4": 265.8,
+        "X5": null,
+        "X6": null,
+        "X7": "K03718,K03719,K15782",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01XNP@aproNOG,08RYR@bactNOG,178JH@proNOG,COG1522@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "K",
+        "X13": "transcriptional regulator AsnC family"
+      }
     },
     {
       "seqnames": "MAG06_633",
@@ -46,7 +61,22 @@
       "sscore": "8.81",
       "rscore": "13.75",
       "uscore": "-0.08",
-      "tscore": "-4.87"
+      "tscore": "-4.87",
+      "eggnog": {
+        "X1": "MAG06_653_7",
+        "X2": "536019.Mesop_5929",
+        "X3": 1e-199,
+        "X4": 701.4,
+        "X5": "BMUL_6146",
+        "X6": null,
+        "X7": "K00375",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01SEQ@aproNOG,07SQD@bactNOG,16SNT@proNOG,COG1167@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "K",
+        "X13": "Transcriptional regulator, gntR family"
+      }
     },
     {
       "seqnames": "MAG06_633",
@@ -70,7 +100,22 @@
       "sscore": "12.79",
       "rscore": "10.54",
       "uscore": "-2.35",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_653_8",
+        "X2": "765698.Mesci_2500",
+        "X3": 9.1e-121,
+        "X4": 438.3,
+        "X5": "GLNQ",
+        "X6": null,
+        "X7": "K02028,K09972,K10010",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01TTB@aproNOG,05CDA@bactNOG,16PHM@proNOG,COG1126@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "E",
+        "X13": "ABC transporter, (ATP-binding protein)"
+      }
     }
   ],
   "seqname": "MAG06_633",

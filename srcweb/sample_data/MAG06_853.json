@@ -22,7 +22,22 @@
       "sscore": "3.93",
       "rscore": "-0.37",
       "uscore": "-0.42",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_820_1",
+        "X2": "266834.SMc00488",
+        "X3": 0,
+        "X4": 1295,
+        "X5": "PURL",
+        "X6": "GO:0005575,GO:0005622,GO:0005623,GO:0005737,GO:0006139,GO:0006163,GO:0006164,GO:0006725,GO:0006753,GO:0006793,GO:0006796,GO:0006807,GO:0008150,GO:0008152,GO:0009058,GO:0009117,GO:0009165,GO:0009987,GO:0018130,GO:0019438,GO:0019637,GO:0034641,GO:0034654,GO:0040007,GO:0044237,GO:0044238,GO:0044249,GO:0044271,GO:0044281,GO:0044424,GO:0044464,GO:0044710,GO:0046483,GO:0055086,GO:0071704,GO:0072521,GO:0072522,GO:0090407,GO:1901293,GO:1901360,GO:1901362,GO:1901564,GO:1901566,GO:1901576",
+        "X7": "K01952",
+        "X8": "PRFGS,PRFGS_1",
+        "X9": "bactNOG[38]",
+        "X10": "02EF6@aproNOG,08JIU@bactNOG,173BB@proNOG,COG0046@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "F",
+        "X13": "phosphoribosylformylglycinamidine synthase ii"
+      }
     },
     {
       "seqnames": "MAG06_853",
@@ -46,7 +61,22 @@
       "sscore": "9.48",
       "rscore": "2.03",
       "uscore": "2.52",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_820_2",
+        "X2": "266834.SMc00489",
+        "X3": 1.7e-103,
+        "X4": 380.6,
+        "X5": null,
+        "X6": null,
+        "X7": "K12976",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "021WJ@aproNOG,0607B@bactNOG,122XX@NOG,17P4C@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "Lipid A 3-O-deacylase (PagL)"
+      }
     },
     {
       "seqnames": "MAG06_853",
@@ -70,7 +100,22 @@
       "sscore": "-1.21",
       "rscore": "-4.72",
       "uscore": "0.51",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_820_3",
+        "X2": "266834.SMc00490",
+        "X3": 8.1e-277,
+        "X4": 957.6,
+        "X5": "ESPR",
+        "X6": null,
+        "X7": "K00375",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01SEQ@aproNOG,07SQD@bactNOG,16SNT@proNOG,COG1167@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "K",
+        "X13": "Transcriptional regulator, gntR family"
+      }
     },
     {
       "seqnames": "MAG06_853",
@@ -94,7 +139,22 @@
       "sscore": "14.34",
       "rscore": "10.54",
       "uscore": "-0.55",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_821_2",
+        "X2": "311403.Arad_0281",
+        "X3": 9.1e-119,
+        "X4": 431.8,
+        "X5": "PHNC",
+        "X6": "GO:0003674,GO:0005215,GO:0005575,GO:0005623,GO:0005886,GO:0006810,GO:0008150,GO:0009987,GO:0015604,GO:0015716,GO:0016020,GO:0022857,GO:0044464,GO:0044699,GO:0044763,GO:0044765,GO:0051179,GO:0051234,GO:0055085,GO:0071702,GO:0071944",
+        "X7": "K02041",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01R5Y@aproNOG,05D5T@bactNOG,16QKX@proNOG,COG3638@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "P",
+        "X13": "Phosphonate ABC transporter, ATP-binding protein"
+      }
     },
     {
       "seqnames": "MAG06_853",
@@ -118,7 +178,22 @@
       "sscore": "3.15",
       "rscore": "7.63",
       "uscore": "1.04",
-      "tscore": "-4.87"
+      "tscore": "-4.87",
+      "eggnog": {
+        "X1": "MAG06_821_3",
+        "X2": "311402.Avi_0280",
+        "X3": 4.7e-82,
+        "X4": 309.3,
+        "X5": "PHND",
+        "X6": "GO:0003674,GO:0003824,GO:0005215,GO:0006139,GO:0006152,GO:0006163,GO:0006195,GO:0006200,GO:0006725,GO:0006753,GO:0006793,GO:0006796,GO:0006807,GO:0006810,GO:0008150,GO:0008152,GO:0009056,GO:0009116,GO:0009117,GO:0009119,GO:0009123,GO:0009125,GO:0009126,GO:0009128,GO:0009141,GO:0009143,GO:0009144,GO:0009146,GO:0009150,GO:0009154,GO:0009158,GO:0009161,GO:0009164,GO:0009166,GO:0009167,GO:0009169,GO:0009199,GO:0009203,GO:0009205,GO:0009207,GO:0009259,GO:0009261,GO:0009987,GO:0015399,GO:0015405,GO:0015716,GO:0016462,GO:0016787,GO:0016817,GO:0016818,GO:0016820,GO:0016887,GO:0017111,GO:0019439,GO:0019637,GO:0019693,GO:0022804,GO:0022857,GO:0034641,GO:0034655,GO:0042278,GO:0042454,GO:0042623,GO:0042626,GO:0043492,GO:0044237,GO:0044238,GO:0044248,GO:0044270,GO:0044281,GO:0044699,GO:0044710,GO:0044763,GO:0044765,GO:0046034,GO:0046128,GO:0046130,GO:0046434,GO:0046483,GO:0046700,GO:0051179,GO:0051234,GO:0055085,GO:0055086,GO:0071702,GO:0071704,GO:0072521,GO:0072523,GO:1901135,GO:1901136,GO:1901292,GO:1901360,GO:1901361,GO:1901564,GO:1901565,GO:1901575,GO:1901657,GO:1901658",
+        "X7": "K02044",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01T8H@aproNOG,05EHI@bactNOG,16QAJ@proNOG,COG3221@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "P",
+        "X13": "Phosphonate ABC transporter, periplasmic"
+      }
     },
     {
       "seqnames": "MAG06_853",
@@ -142,7 +217,22 @@
       "sscore": "9.53",
       "rscore": "5.19",
       "uscore": "-0.11",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_822_1",
+        "X2": "311402.Avi_5190",
+        "X3": 6e-306,
+        "X4": 1054.7,
+        "X5": "KATG",
+        "X6": "GO:0003674,GO:0003824,GO:0004601,GO:0005575,GO:0005622,GO:0005623,GO:0005737,GO:0005829,GO:0008150,GO:0008152,GO:0016209,GO:0016491,GO:0016684,GO:0044424,GO:0044444,GO:0044464,GO:0044710,GO:0055114",
+        "X7": "K03782",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01Q8C@aproNOG,05C1X@bactNOG,16PDN@proNOG,COG0376@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "P",
+        "X13": "Bifunctional enzyme with both catalase and broad- spectrum peroxidase activity (By similarity)"
+      }
     },
     {
       "seqnames": "MAG06_853",
@@ -166,7 +256,22 @@
       "sscore": "3.22",
       "rscore": "0.00",
       "uscore": "0.00",
-      "tscore": "3.22"
+      "tscore": "3.22",
+      "eggnog": {
+        "X1": "MAG06_823_1",
+        "X2": "266834.SMc00708",
+        "X3": 2.8e-64,
+        "X4": 249.6,
+        "X5": "GLOB",
+        "X6": "GO:0003674,GO:0003824,GO:0004416,GO:0006082,GO:0006518,GO:0006520,GO:0006575,GO:0006749,GO:0006790,GO:0006807,GO:0008150,GO:0008152,GO:0009987,GO:0016787,GO:0016788,GO:0016790,GO:0019752,GO:0034641,GO:0043436,GO:0043603,GO:0044237,GO:0044238,GO:0044281,GO:0044710,GO:0071704,GO:1901564",
+        "X7": "K01069",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "02EG0@aproNOG,08JMX@bactNOG,11FEZ@NOG,173D3@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": "C",
+        "X13": "Thiolesterase that catalyzes the hydrolysis of S-D- lactoyl-glutathione to form glutathione and D-lactic acid (By similarity)"
+      }
     }
   ],
   "seqname": "MAG06_853",

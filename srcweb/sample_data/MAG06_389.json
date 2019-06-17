@@ -22,7 +22,22 @@
       "sscore": "-0.80",
       "rscore": "2.32",
       "uscore": "-7.10",
-      "tscore": "3.98"
+      "tscore": "3.98",
+      "eggnog": {
+        "X1": "MAG06_1039_3",
+        "X2": "266834.SMc01987",
+        "X3": 7.9e-177,
+        "X4": 624.8,
+        "X5": null,
+        "X6": null,
+        "X7": "K00302,K00315,K19191",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01QMU@aproNOG,05C5K@bactNOG,16QJ8@proNOG,COG0404@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "E",
+        "X13": "aminomethyl transferase"
+      }
     },
     {
       "seqnames": "MAG06_389",
@@ -46,7 +61,22 @@
       "sscore": "10.68",
       "rscore": "0.50",
       "uscore": "6.85",
-      "tscore": "3.98"
+      "tscore": "3.98",
+      "eggnog": {
+        "X1": "MAG06_462_1",
+        "X2": "114615.BRADO0437",
+        "X3": 9.9e-118,
+        "X4": 428.7,
+        "X5": "OCAR_4611",
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01U66@aproNOG,07ZM9@bactNOG,1757Y@proNOG,COG1940@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "G, K",
+        "X13": "Inherit from COG: ROK family"
+      }
     },
     {
       "seqnames": "MAG06_389",
@@ -70,7 +100,22 @@
       "sscore": "5.85",
       "rscore": "2.32",
       "uscore": "-0.45",
-      "tscore": "3.98"
+      "tscore": "3.98",
+      "eggnog": {
+        "X1": "MAG06_462_2",
+        "X2": "439375.Oant_2956",
+        "X3": 6.1e-81,
+        "X4": 305.8,
+        "X5": "YHFE",
+        "X6": null,
+        "X7": "K01269",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01SEM@aproNOG,05DER@bactNOG,176I7@proNOG,COG1363@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "E",
+        "X13": "Peptidase M42 family"
+      }
     }
   ],
   "seqname": "MAG06_389",

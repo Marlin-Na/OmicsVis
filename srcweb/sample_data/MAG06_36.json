@@ -22,7 +22,22 @@
       "sscore": "6.97",
       "rscore": "2.03",
       "uscore": "-2.20",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_986_6",
+        "X2": "266834.SMc04179",
+        "X3": 0,
+        "X4": 1092,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01QPP@aproNOG,07QWE@bactNOG,16PZ0@proNOG,COG0471@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "P",
+        "X13": "domain protein"
+      }
     },
     {
       "seqnames": "MAG06_36",
@@ -46,7 +61,22 @@
       "sscore": "5.71",
       "rscore": "2.03",
       "uscore": "0.69",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_986_7",
+        "X2": "266834.SMc04178",
+        "X3": 8.5e-105,
+        "X4": 384.8,
+        "X5": "BMUL_1001",
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01SM5@aproNOG,08UM8@bactNOG,17CQG@proNOG,COG3803@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "Bacterial protein of unknown function (DUF924)"
+      }
     },
     {
       "seqnames": "MAG06_36",
@@ -70,7 +100,22 @@
       "sscore": "12.41",
       "rscore": "10.54",
       "uscore": "-1.12",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_986_8",
+        "X2": "266834.SMc04177",
+        "X3": 7e-89,
+        "X4": 331.6,
+        "X5": "GFA",
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01YAR@aproNOG,08SMU@bactNOG,11HCZ@NOG,177XU@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "Glutathione-dependent formaldehyde-activating"
+      }
     },
     {
       "seqnames": "MAG06_36",
@@ -94,7 +139,22 @@
       "sscore": "11.50",
       "rscore": "7.63",
       "uscore": "0.23",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_986_9",
+        "X2": "266834.SMc04176",
+        "X3": 3.8e-125,
+        "X4": 453,
+        "X5": "KEFA",
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01REZ@aproNOG,05EGS@bactNOG,16RTX@proNOG,COG3264@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "M",
+        "X13": "mechanosensitive ion channel"
+      }
     },
     {
       "seqnames": "MAG06_36",
@@ -118,7 +178,22 @@
       "sscore": "11.45",
       "rscore": "7.63",
       "uscore": "-1.06",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_987_1",
+        "X2": "266834.SMc00075",
+        "X3": 2.9e-88,
+        "X4": 329.7,
+        "X5": "RIMJ",
+        "X6": null,
+        "X7": "K03790",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01XE7@aproNOG,05D9U@bactNOG,16RUC@proNOG,COG1670@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "J",
+        "X13": "N-acetyltransferase"
+      }
     },
     {
       "seqnames": "MAG06_36",
@@ -142,7 +217,22 @@
       "sscore": "5.56",
       "rscore": "2.03",
       "uscore": "-1.36",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_987_2",
+        "X2": "266834.SMc00451",
+        "X3": 2.4e-243,
+        "X4": 846.3,
+        "X5": "PEPR",
+        "X6": "GO:0005575,GO:0005623,GO:0005886,GO:0016020,GO:0044464,GO:0071944",
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01QTR@aproNOG,05C1V@bactNOG,16RHY@proNOG,COG0612@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "O",
+        "X13": "peptidase"
+      }
     }
   ],
   "seqname": "MAG06_36",

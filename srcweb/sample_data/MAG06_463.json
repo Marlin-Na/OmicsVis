@@ -22,7 +22,22 @@
       "sscore": "3.22",
       "rscore": "0.00",
       "uscore": "0.00",
-      "tscore": "3.22"
+      "tscore": "3.22",
+      "eggnog": {
+        "X1": "MAG06_522_2",
+        "X2": "1117943.SFHH103_02286",
+        "X3": 1.5e-168,
+        "X4": 597.4,
+        "X5": "IDHA",
+        "X6": null,
+        "X7": "K00010",
+        "X8": "INOSR,INS2D",
+        "X9": "bactNOG[38]",
+        "X10": "01RDE@aproNOG,05DRI@bactNOG,16Q8M@proNOG,COG0673@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "G",
+        "X13": "Myo-inositol 2-dehydrogenase"
+      }
     },
     {
       "seqnames": "MAG06_463",
@@ -46,7 +61,8 @@
       "sscore": "5.34",
       "rscore": "2.03",
       "uscore": "-0.34",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {}
     }
   ],
   "seqname": "MAG06_463",

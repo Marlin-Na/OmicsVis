@@ -22,7 +22,22 @@
       "sscore": "3.22",
       "rscore": "0.00",
       "uscore": "0.00",
-      "tscore": "3.22"
+      "tscore": "3.22",
+      "eggnog": {
+        "X1": "MAG06_199_5",
+        "X2": "266834.SMc01369",
+        "X3": 3e-21,
+        "X4": 105.5,
+        "X5": "RPMG",
+        "X6": "GO:0003674,GO:0003735,GO:0005198,GO:0006412,GO:0008150,GO:0008152,GO:0009058,GO:0009059,GO:0009987,GO:0010467,GO:0019538,GO:0034645,GO:0043170,GO:0044237,GO:0044238,GO:0044249,GO:0044260,GO:0044267,GO:0071704,GO:1901576",
+        "X7": "K02913",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "021FF@aproNOG,05W0E@bactNOG,17K1W@proNOG,COG0267@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "J",
+        "X13": "50S ribosomal protein L33"
+      }
     },
     {
       "seqnames": "MAG06_73",
@@ -46,7 +61,22 @@
       "sscore": "1.42",
       "rscore": "-1.48",
       "uscore": "-0.75",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_199_6",
+        "X2": "266834.SMc01370",
+        "X3": 4.6e-253,
+        "X4": 878.6,
+        "X5": "PLED",
+        "X6": "GO:0003674,GO:0004871,GO:0005575,GO:0005622,GO:0005623,GO:0005737,GO:0007154,GO:0007165,GO:0008150,GO:0009987,GO:0023052,GO:0044424,GO:0044464,GO:0044699,GO:0044700,GO:0044763,GO:0050789,GO:0050794,GO:0050896,GO:0051716,GO:0060089,GO:0065007",
+        "X7": "K02488",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01QHF@aproNOG,05BZU@bactNOG,0XNMH@NOG,16S4F@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": "T",
+        "X13": "Diguanylate cyclase"
+      }
     },
     {
       "seqnames": "MAG06_73",
@@ -70,7 +100,22 @@
       "sscore": "10.79",
       "rscore": "7.85",
       "uscore": "-0.71",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_199_7",
+        "X2": "394.NGR_c10790",
+        "X3": 2.2e-58,
+        "X4": 229.9,
+        "X5": "DIVK",
+        "X6": "GO:0005575,GO:0005622,GO:0005623,GO:0005737,GO:0044424,GO:0044464",
+        "X7": "K11443",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01WSJ@aproNOG,08UXN@bactNOG,11I86@NOG,179M8@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": "T",
+        "X13": "response regulator"
+      }
     },
     {
       "seqnames": "MAG06_73",
@@ -94,7 +139,22 @@
       "sscore": "14.94",
       "rscore": "7.63",
       "uscore": "2.39",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_2_1",
+        "X2": "266834.SMc00072",
+        "X3": 1.7e-85,
+        "X4": 320.5,
+        "X5": "AHPC",
+        "X6": "GO:0003674,GO:0016209",
+        "X7": "K00428,K03386",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01XY7@aproNOG,05EHV@bactNOG,16S6D@proNOG,COG0678@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "O",
+        "X13": "Redoxin domain protein"
+      }
     },
     {
       "seqnames": "MAG06_73",
@@ -118,7 +178,22 @@
       "sscore": "2.47",
       "rscore": "-3.78",
       "uscore": "3.25",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_2_2",
+        "X2": "266834.SMc00073",
+        "X3": 3.3e-178,
+        "X4": 629.4,
+        "X5": "OCAR_7327",
+        "X6": null,
+        "X7": "K04084,K08344",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01S10@aproNOG,08RP7@bactNOG,16VU7@proNOG,COG4233@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "C, O",
+        "X13": "Inherit from COG: cytochrome c biogenesis protein, transmembrane region"
+      }
     },
     {
       "seqnames": "MAG06_73",
@@ -142,7 +217,22 @@
       "sscore": "15.50",
       "rscore": "13.75",
       "uscore": "-1.25",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_2_3",
+        "X2": "266834.SMc00019",
+        "X3": 1.3e-111,
+        "X4": 407.5,
+        "X5": "YQGE",
+        "X6": null,
+        "X7": "K07735",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01WV9@aproNOG,08UJU@bactNOG,179Q7@proNOG,COG1678@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "K",
+        "X13": "UPF0301 protein"
+      }
     },
     {
       "seqnames": "MAG06_73",
@@ -166,7 +256,22 @@
       "sscore": "8.38",
       "rscore": "2.03",
       "uscore": "2.71",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_20_1",
+        "X2": "266834.SMc04330",
+        "X3": 2.3e-301,
+        "X4": 1039.3,
+        "X5": "MTTB",
+        "X6": null,
+        "X7": "K14083",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01R79@aproNOG,05F5V@bactNOG,16SVI@proNOG,COG5598@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "H",
+        "X13": "trimethylamine methyltransferase"
+      }
     }
   ],
   "seqname": "MAG06_73",

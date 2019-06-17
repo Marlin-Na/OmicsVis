@@ -22,7 +22,22 @@
       "sscore": "3.22",
       "rscore": "0.00",
       "uscore": "0.00",
-      "tscore": "3.22"
+      "tscore": "3.22",
+      "eggnog": {
+        "X1": "MAG06_897_3",
+        "X2": "266834.SMc02172",
+        "X3": 2e-231,
+        "X4": 806.6,
+        "X5": "FRCR",
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01S1G@aproNOG,05FEY@bactNOG,16RAE@proNOG,COG1940@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "K",
+        "X13": "(ROK) family"
+      }
     },
     {
       "seqnames": "MAG06_954",
@@ -46,7 +61,22 @@
       "sscore": "-3.07",
       "rscore": "7.27",
       "uscore": "-0.81",
-      "tscore": "-8.88"
+      "tscore": "-8.88",
+      "eggnog": {
+        "X1": "MAG06_897_4",
+        "X2": "266834.SMc02173",
+        "X3": 8.3e-76,
+        "X4": 288.1,
+        "X5": "FUCU",
+        "X6": null,
+        "X7": "K02431",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01YR7@aproNOG,090Y4@bactNOG,17DV9@proNOG,COG4154@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "G",
+        "X13": "RbsD or FucU transport"
+      }
     },
     {
       "seqnames": "MAG06_954",
@@ -70,7 +100,22 @@
       "sscore": "15.75",
       "rscore": "12.94",
       "uscore": "0.27",
-      "tscore": "3.20"
+      "tscore": "3.20",
+      "eggnog": {
+        "X1": "MAG06_897_5",
+        "X2": "266834.SMc02174",
+        "X3": 1.4e-52,
+        "X4": 210.7,
+        "X5": "YQJF",
+        "X6": "GO:0005575,GO:0005623,GO:0005886,GO:0016020,GO:0044464,GO:0071944",
+        "X7": "K15977",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "021Y0@aproNOG,08VBZ@bactNOG,17ADB@proNOG,COG2259@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "DoxX family"
+      }
     },
     {
       "seqnames": "MAG06_954",
@@ -94,7 +139,22 @@
       "sscore": "10.12",
       "rscore": "8.26",
       "uscore": "-0.69",
-      "tscore": "3.20"
+      "tscore": "3.20",
+      "eggnog": {
+        "X1": "MAG06_898_1",
+        "X2": "266834.SMc03060",
+        "X3": 1.9e-198,
+        "X4": 696.8,
+        "X5": "AGLR",
+        "X6": null,
+        "X7": "K02529",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01Q8Z@aproNOG,05FKQ@bactNOG,16R8K@proNOG,COG1609@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "K",
+        "X13": "Transcriptional regulator"
+      }
     },
     {
       "seqnames": "MAG06_954",
@@ -118,7 +178,22 @@
       "sscore": "7.07",
       "rscore": "9.04",
       "uscore": "1.48",
-      "tscore": "-4.62"
+      "tscore": "-4.62",
+      "eggnog": {
+        "X1": "MAG06_898_2",
+        "X2": "266834.SMc03061",
+        "X3": 5.1e-257,
+        "X4": 891.7,
+        "X5": "AGLE",
+        "X6": "GO:0005575,GO:0005623,GO:0042597,GO:0044464",
+        "X7": "K10232",
+        "X8": "SUCRabcpp_syn",
+        "X9": "bactNOG[38]",
+        "X10": "01QS3@aproNOG,05EPJ@bactNOG,174J6@proNOG,COG1653@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "G",
+        "X13": "extracellular solute-binding protein, family 1"
+      }
     }
   ],
   "seqname": "MAG06_954",

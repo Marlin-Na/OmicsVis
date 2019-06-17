@@ -22,7 +22,22 @@
       "sscore": "-2.07",
       "rscore": "-4.72",
       "uscore": "-2.08",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_734_10",
+        "X2": "266834.SMc02257",
+        "X3": 3.4e-150,
+        "X4": 536.2,
+        "X5": "BMUL_5002",
+        "X6": "GO:0005575,GO:0016020",
+        "X7": "K02029,K10015",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01TTF@aproNOG,05DMR@bactNOG,16R72@proNOG,COG4160@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "E",
+        "X13": "ABC transporter"
+      }
     },
     {
       "seqnames": "MAG06_750",
@@ -46,7 +61,22 @@
       "sscore": "2.61",
       "rscore": "7.73",
       "uscore": "0.49",
-      "tscore": "-4.95"
+      "tscore": "-4.95",
+      "eggnog": {
+        "X1": "MAG06_734_11",
+        "X2": "266834.SMc02256",
+        "X3": 1.2e-222,
+        "X4": 777.3,
+        "X5": "HIPO",
+        "X6": null,
+        "X7": "K01436,K01451",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01QYE@aproNOG,05CH2@bactNOG,16PUF@proNOG,COG1473@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "E",
+        "X13": "amidohydrolase"
+      }
     },
     {
       "seqnames": "MAG06_750",
@@ -70,7 +100,22 @@
       "sscore": "14.63",
       "rscore": "7.63",
       "uscore": "2.07",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_734_12",
+        "X2": "266834.SMc02255",
+        "X3": 2e-124,
+        "X4": 450.3,
+        "X5": "CYDA",
+        "X6": null,
+        "X7": "K00425",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01Q71@aproNOG,05C4M@bactNOG,16Q51@proNOG,COG1271@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "C",
+        "X13": "oxidase, subunit i"
+      }
     },
     {
       "seqnames": "MAG06_750",
@@ -94,7 +139,22 @@
       "sscore": "11.53",
       "rscore": "7.63",
       "uscore": "-0.96",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_734_2",
+        "X2": "266834.SMc02265",
+        "X3": 0,
+        "X4": 1580.1,
+        "X5": "SECD",
+        "X6": "GO:0005575,GO:0005623,GO:0005886,GO:0016020,GO:0044464,GO:0071944",
+        "X7": "K03072,K12257",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01SEU@aproNOG,07QN8@bactNOG,16Q35@proNOG,COG0341@NOG,COG0342@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "U",
+        "X13": "Part of the Sec protein translocase complex. Interacts with the SecYEG preprotein conducting channel. SecDF uses the proton motive force (PMF) to complete protein translocation after the ATP-dependent function of SecA (By similarity)"
+      }
     },
     {
       "seqnames": "MAG06_750",
@@ -118,7 +178,22 @@
       "sscore": "4.49",
       "rscore": "2.03",
       "uscore": "-0.53",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_734_4",
+        "X2": "266834.SMc02263",
+        "X3": 1.4e-296,
+        "X4": 1023.5,
+        "X5": "ILVB_1",
+        "X6": null,
+        "X7": "K01652,K12253",
+        "X8": "OARGDC",
+        "X9": "bactNOG[38]",
+        "X10": "01QYH@aproNOG,05C7K@bactNOG,16QV2@proNOG,COG0028@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "E",
+        "X13": "Acetolactate synthase, large subunit"
+      }
     },
     {
       "seqnames": "MAG06_750",
@@ -142,7 +217,22 @@
       "sscore": "16.61",
       "rscore": "13.75",
       "uscore": "-0.79",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_734_5",
+        "X2": "266834.SMc02262",
+        "X3": 2.1e-222,
+        "X4": 776.5,
+        "X5": "ASPC",
+        "X6": "GO:0003674,GO:0003824,GO:0005488,GO:0006082,GO:0006105,GO:0006520,GO:0006525,GO:0006527,GO:0006807,GO:0008150,GO:0008152,GO:0008483,GO:0009056,GO:0009063,GO:0009064,GO:0009065,GO:0009987,GO:0016054,GO:0016740,GO:0016769,GO:0019545,GO:0019752,GO:0030170,GO:0043167,GO:0043168,GO:0043436,GO:0043648,GO:0044237,GO:0044238,GO:0044248,GO:0044281,GO:0044282,GO:0044710,GO:0044712,GO:0046395,GO:0048037,GO:0071704,GO:1901564,GO:1901565,GO:1901575,GO:1901605,GO:1901606",
+        "X7": "K00841,K10907,K12252",
+        "X8": "ARUH,ASPTA",
+        "X9": "bactNOG[38]",
+        "X10": "01SW0@aproNOG,05CHM@bactNOG,16PWZ@proNOG,COG0436@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "E",
+        "X13": "Aminotransferase"
+      }
     },
     {
       "seqnames": "MAG06_750",
@@ -166,7 +256,22 @@
       "sscore": "0.94",
       "rscore": "-4.72",
       "uscore": "1.02",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_734_6",
+        "X2": "266834.SMc02261",
+        "X3": 1.8e-108,
+        "X4": 397.1,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01X38@aproNOG,08RDG@bactNOG,11FWI@NOG,1782P@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": "K",
+        "X13": "Transcriptional regulator, TetR family"
+      }
     },
     {
       "seqnames": "MAG06_750",
@@ -190,7 +295,8 @@
       "sscore": "12.55",
       "rscore": "7.63",
       "uscore": "-0.36",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {}
     },
     {
       "seqnames": "MAG06_750",
@@ -214,7 +320,22 @@
       "sscore": "6.30",
       "rscore": "2.03",
       "uscore": "-0.30",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_734_7",
+        "X2": "266834.SMc02260",
+        "X3": 1.1e-139,
+        "X4": 501.1,
+        "X5": "HISP",
+        "X6": null,
+        "X7": "K02028,K10021,K10025",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "02EEH@aproNOG,08JEH@bactNOG,1739D@proNOG,COG4598@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "E",
+        "X13": "ABC transporter"
+      }
     },
     {
       "seqnames": "MAG06_750",
@@ -238,7 +359,22 @@
       "sscore": "7.58",
       "rscore": "2.03",
       "uscore": "0.61",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_734_8",
+        "X2": "266834.SMc02259",
+        "X3": 3.2e-142,
+        "X4": 509.6,
+        "X5": "HISJ",
+        "X6": null,
+        "X7": "K02030,K02424",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01RV4@aproNOG,05E89@bactNOG,16RER@proNOG,COG0834@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "E",
+        "X13": "ABC transporter"
+      }
     },
     {
       "seqnames": "MAG06_750",
@@ -262,7 +398,22 @@
       "sscore": "5.78",
       "rscore": "2.03",
       "uscore": "0.11",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_734_9",
+        "X2": "266834.SMc02258",
+        "X3": 3.1e-123,
+        "X4": 446.4,
+        "X5": null,
+        "X6": "GO:0005575,GO:0016020",
+        "X7": "K02029",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01QP4@aproNOG,05GBT@bactNOG,16RWR@proNOG,COG4215@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "E",
+        "X13": "ABC transporter"
+      }
     },
     {
       "seqnames": "MAG06_750",
@@ -286,7 +437,22 @@
       "sscore": "6.79",
       "rscore": "-4.72",
       "uscore": "1.85",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_735_1",
+        "X2": "266834.SMc01092",
+        "X3": 1.7e-166,
+        "X4": 590.5,
+        "X5": "LYSR18",
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01SH4@aproNOG,05CBN@bactNOG,0XNVB@NOG,16PQT@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": "K",
+        "X13": "LysR family transcriptional regulator"
+      }
     }
   ],
   "seqname": "MAG06_750",

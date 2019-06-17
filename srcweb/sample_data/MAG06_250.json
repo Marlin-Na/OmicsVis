@@ -22,7 +22,22 @@
       "sscore": "5.30",
       "rscore": "2.03",
       "uscore": "0.28",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_353_1",
+        "X2": "266834.SMc01666",
+        "X3": 9.2e-162,
+        "X4": 574.7,
+        "X5": "MDEA",
+        "X6": "GO:0000096,GO:0000098,GO:0003674,GO:0003824,GO:0006082,GO:0006520,GO:0006555,GO:0006790,GO:0006807,GO:0008150,GO:0008152,GO:0009056,GO:0009063,GO:0009066,GO:0009068,GO:0009087,GO:0009987,GO:0016054,GO:0016829,GO:0016846,GO:0018826,GO:0019752,GO:0043436,GO:0044237,GO:0044238,GO:0044248,GO:0044273,GO:0044281,GO:0044282,GO:0044710,GO:0044712,GO:0046395,GO:0071704,GO:1901564,GO:1901565,GO:1901575,GO:1901605,GO:1901606",
+        "X7": "K01739,K01760,K01761,K10764",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01T0S@aproNOG,05C28@bactNOG,16Q3E@proNOG,COG0626@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "E",
+        "X13": "methionine gamma-lyase"
+      }
     },
     {
       "seqnames": "MAG06_250",
@@ -46,7 +61,22 @@
       "sscore": "-1.13",
       "rscore": "-4.72",
       "uscore": "-0.06",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_353_2",
+        "X2": "266834.SMc01667",
+        "X3": 1.5e-62,
+        "X4": 243.8,
+        "X5": "BMUL_3632",
+        "X6": null,
+        "X7": "K01759",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01YPV@aproNOG,09091@bactNOG,11N93@NOG,17D4H@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "glyoxalase bleomycin resistance protein dioxygenase"
+      }
     },
     {
       "seqnames": "MAG06_250",
@@ -70,7 +100,22 @@
       "sscore": "8.22",
       "rscore": "2.03",
       "uscore": "2.55",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_353_3",
+        "X2": "266834.SMc01668",
+        "X3": 2.8e-106,
+        "X4": 389.8,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01W73@aproNOG,090E1@bactNOG,11V5M@NOG,179DA@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": "K",
+        "X13": "Transcriptional regulator tetR family"
+      }
     },
     {
       "seqnames": "MAG06_250",
@@ -94,7 +139,22 @@
       "sscore": "12.04",
       "rscore": "7.63",
       "uscore": "0.77",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_353_4",
+        "X2": "266834.SMc01669",
+        "X3": 1.3e-138,
+        "X4": 497.7,
+        "X5": "CRT",
+        "X6": null,
+        "X7": "K01715",
+        "X8": "CTECOAI6,CTECOAI7,CTECOAI8,ECOAH1,ECOAH2,ECOAH3,ECOAH4,ECOAH5,ECOAH6,ECOAH7,ECOAH8,VECOAH",
+        "X9": "bactNOG[38]",
+        "X10": "01SCI@aproNOG,05E39@bactNOG,16Z5B@proNOG,COG1024@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "I",
+        "X13": "Enoyl-CoA hydratase"
+      }
     },
     {
       "seqnames": "MAG06_250",
@@ -118,7 +178,22 @@
       "sscore": "6.87",
       "rscore": "2.03",
       "uscore": "1.85",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_353_5",
+        "X2": "266834.SMc01670",
+        "X3": 3.4e-78,
+        "X4": 296.2,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "020HZ@aproNOG,05NNK@bactNOG,17HR3@proNOG,COG5500@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "membrane"
+      }
     },
     {
       "seqnames": "MAG06_250",
@@ -142,7 +217,22 @@
       "sscore": "12.70",
       "rscore": "7.85",
       "uscore": "-0.02",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_353_6",
+        "X2": "266834.SMc01671",
+        "X3": 5.8e-261,
+        "X4": 904.8,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01S92@aproNOG,05R9V@bactNOG,17432@proNOG,COG5368@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "Pfam:DUF2329"
+      }
     },
     {
       "seqnames": "MAG06_250",
@@ -166,7 +256,22 @@
       "sscore": "4.09",
       "rscore": "2.03",
       "uscore": "-0.93",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_353_7",
+        "X2": "366394.Smed_2209",
+        "X3": 8.7e-46,
+        "X4": 188,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01WCY@aproNOG,089ZX@bactNOG,11GQI@NOG,178XS@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "Protein of unknown function (DUF1194)"
+      }
     },
     {
       "seqnames": "MAG06_250",
@@ -190,7 +295,22 @@
       "sscore": "4.66",
       "rscore": "2.03",
       "uscore": "-1.01",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_354_1",
+        "X2": "394.NGR_c30400",
+        "X3": 1.2e-50,
+        "X4": 205.3,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "020KI@aproNOG,05RU8@bactNOG,17FIW@proNOG,COG2823@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "BON domain"
+      }
     },
     {
       "seqnames": "MAG06_250",
@@ -214,7 +334,22 @@
       "sscore": "12.90",
       "rscore": "7.63",
       "uscore": "1.63",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_354_4",
+        "X2": "266779.Meso_2788",
+        "X3": 2.3e-41,
+        "X4": 173.7,
+        "X5": "BMUL_5465",
+        "X6": null,
+        "X7": "K00088",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01YDV@aproNOG,07ZWT@bactNOG,17KVP@proNOG,COG0517@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "CBS domain"
+      }
     }
   ],
   "seqname": "MAG06_250",

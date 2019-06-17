@@ -22,7 +22,22 @@
       "sscore": "3.22",
       "rscore": "0.00",
       "uscore": "0.00",
-      "tscore": "3.22"
+      "tscore": "3.22",
+      "eggnog": {
+        "X1": "MAG06_375_2",
+        "X2": "266834.SMc00866",
+        "X3": 1e-216,
+        "X4": 757.7,
+        "X5": "SPLB",
+        "X6": "GO:0005575,GO:0005623,GO:0005886,GO:0016020,GO:0044464,GO:0071944",
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01RAF@aproNOG,05DCH@bactNOG,16PQ5@proNOG,COG1533@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "L",
+        "X13": "radical SAM domain protein"
+      }
     },
     {
       "seqnames": "MAG06_271",
@@ -46,7 +61,22 @@
       "sscore": "12.78",
       "rscore": "7.05",
       "uscore": "2.37",
-      "tscore": "3.37"
+      "tscore": "3.37",
+      "eggnog": {
+        "X1": "MAG06_375_3",
+        "X2": "266834.SMc00867",
+        "X3": 1.8e-114,
+        "X4": 417.2,
+        "X5": "RNHB",
+        "X6": "GO:0003674,GO:0003824,GO:0004518,GO:0004519,GO:0004521,GO:0004523,GO:0004540,GO:0005575,GO:0005622,GO:0005623,GO:0005737,GO:0006139,GO:0006259,GO:0006260,GO:0006261,GO:0006271,GO:0006273,GO:0006401,GO:0006725,GO:0006807,GO:0008150,GO:0008152,GO:0009056,GO:0009057,GO:0009058,GO:0009059,GO:0009987,GO:0016070,GO:0016787,GO:0016788,GO:0016891,GO:0016893,GO:0019439,GO:0022616,GO:0033567,GO:0034641,GO:0034645,GO:0034655,GO:0043137,GO:0043170,GO:0044237,GO:0044238,GO:0044248,GO:0044249,GO:0044260,GO:0044265,GO:0044270,GO:0044424,GO:0044464,GO:0046483,GO:0046700,GO:0071704,GO:0090304,GO:0090305,GO:1901360,GO:1901361,GO:1901575,GO:1901576",
+        "X7": "K03470",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01YK7@aproNOG,08UH2@bactNOG,16T5P@proNOG,COG0164@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "L",
+        "X13": "Endonuclease that specifically degrades the RNA of RNA- DNA hybrids (By similarity)"
+      }
     },
     {
       "seqnames": "MAG06_271",
@@ -70,7 +100,22 @@
       "sscore": "11.09",
       "rscore": "7.32",
       "uscore": "-0.93",
-      "tscore": "3.50"
+      "tscore": "3.50",
+      "eggnog": {
+        "X1": "MAG06_376_1",
+        "X2": "266834.SMc00421",
+        "X3": 7.4e-173,
+        "X4": 611.7,
+        "X5": "CYSK",
+        "X6": null,
+        "X7": "K01738",
+        "X8": "CYSS",
+        "X9": "bactNOG[38]",
+        "X10": "01QMJ@aproNOG,05C6T@bactNOG,16Q08@proNOG,COG0031@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "E",
+        "X13": "Cysteine synthase"
+      }
     },
     {
       "seqnames": "MAG06_271",
@@ -94,7 +139,22 @@
       "sscore": "11.73",
       "rscore": "7.85",
       "uscore": "0.23",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_376_2",
+        "X2": "266834.SMc00422",
+        "X3": 3.2e-97,
+        "X4": 359.8,
+        "X5": null,
+        "X6": "GO:0005575,GO:0005623,GO:0005886,GO:0016020,GO:0044464,GO:0071944",
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01WAS@aproNOG,05KJ6@bactNOG,17H9U@proNOG,COG1280@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "E",
+        "X13": "LysE family"
+      }
     },
     {
       "seqnames": "MAG06_271",
@@ -118,7 +178,22 @@
       "sscore": "9.76",
       "rscore": "7.85",
       "uscore": "-1.08",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_376_3",
+        "X2": "266834.SMc00423",
+        "X3": 1.7e-83,
+        "X4": 313.9,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01SX9@aproNOG,063RB@bactNOG,16RPW@proNOG,COG1280@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "E",
+        "X13": "lysine exporter protein LysE YggA"
+      }
     },
     {
       "seqnames": "MAG06_271",
@@ -142,7 +217,22 @@
       "sscore": "6.83",
       "rscore": "2.03",
       "uscore": "0.50",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_377_1",
+        "X2": "266834.SMc04234",
+        "X3": 1.9e-33,
+        "X4": 146.4,
+        "X5": "CSPE",
+        "X6": "GO:0003674,GO:0003676,GO:0003677,GO:0003697,GO:0003723,GO:0005488,GO:0005575,GO:0005618,GO:0005622,GO:0005623,GO:0005737,GO:0006355,GO:0006950,GO:0008150,GO:0009266,GO:0009409,GO:0009628,GO:0009889,GO:0010468,GO:0010556,GO:0019219,GO:0019222,GO:0030312,GO:0031323,GO:0031326,GO:0040007,GO:0043566,GO:0044424,GO:0044464,GO:0050789,GO:0050794,GO:0050896,GO:0051171,GO:0051252,GO:0060255,GO:0065007,GO:0071944,GO:0080090,GO:0097159,GO:1901363,GO:2000112,GO:2001141",
+        "X7": "K03704",
+        "X8": "OXPTNDH",
+        "X9": "bactNOG[38]",
+        "X10": "021RJ@aproNOG,05VEQ@bactNOG,17JS4@proNOG,COG1278@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "K",
+        "X13": "Cold shock protein"
+      }
     },
     {
       "seqnames": "MAG06_271",
@@ -166,7 +256,22 @@
       "sscore": "13.60",
       "rscore": "7.63",
       "uscore": "1.03",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_377_2",
+        "X2": "266834.SMc04235",
+        "X3": 1.3e-205,
+        "X4": 720.7,
+        "X5": "DUSA",
+        "X6": "GO:0002943,GO:0003674,GO:0003824,GO:0006139,GO:0006396,GO:0006399,GO:0006400,GO:0006725,GO:0006807,GO:0008033,GO:0008150,GO:0008152,GO:0009451,GO:0009987,GO:0010467,GO:0016070,GO:0016491,GO:0016627,GO:0017150,GO:0034470,GO:0034641,GO:0034660,GO:0043170,GO:0043412,GO:0044237,GO:0044238,GO:0044260,GO:0044710,GO:0046483,GO:0055114,GO:0071704,GO:0090304,GO:1901360",
+        "X7": "K05539,K05540",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01R0T@aproNOG,05CEH@bactNOG,16Q84@proNOG,COG0042@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "J",
+        "X13": "Catalyzes the synthesis of dihydrouridine, a modified base found in the D-loop of most tRNAs (By similarity)"
+      }
     },
     {
       "seqnames": "MAG06_271",
@@ -190,7 +295,22 @@
       "sscore": "3.22",
       "rscore": "0.00",
       "uscore": "0.00",
-      "tscore": "3.22"
+      "tscore": "3.22",
+      "eggnog": {
+        "X1": "MAG06_378_3",
+        "X2": "439375.Oant_3355",
+        "X3": 4.8e-11,
+        "X4": 72.8,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "024PP@aproNOG,06E4C@bactNOG,12792@NOG,18BQN@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": null,
+        "X13": null
+      }
     }
   ],
   "seqname": "MAG06_271",

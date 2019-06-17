@@ -22,7 +22,22 @@
       "sscore": "10.34",
       "rscore": "7.63",
       "uscore": "-0.28",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_348_5",
+        "X2": "266834.SMc00386",
+        "X3": 7.3e-62,
+        "X4": 241.5,
+        "X5": "YFFB",
+        "X6": null,
+        "X7": "K00537",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01Y8R@aproNOG,05KUZ@bactNOG,17FBG@proNOG,COG1393@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "P",
+        "X13": "Arsenate reductase-like protein"
+      }
     },
     {
       "seqnames": "MAG06_247",
@@ -46,7 +61,22 @@
       "sscore": "14.71",
       "rscore": "10.54",
       "uscore": "0.52",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_348_6",
+        "X2": "266834.SMc00387",
+        "X3": 2.3e-216,
+        "X4": 756.5,
+        "X5": "TYRB",
+        "X6": "GO:0003674,GO:0003824,GO:0005575,GO:0005622,GO:0005623,GO:0005737,GO:0006082,GO:0006520,GO:0006807,GO:0008150,GO:0008152,GO:0008483,GO:0008652,GO:0009058,GO:0009987,GO:0016053,GO:0016740,GO:0016769,GO:0019752,GO:0043436,GO:0044237,GO:0044238,GO:0044249,GO:0044281,GO:0044283,GO:0044424,GO:0044464,GO:0044710,GO:0044711,GO:0046394,GO:0071704,GO:1901564,GO:1901566,GO:1901576",
+        "X7": "K00813,K00832",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01RU6@aproNOG,05CGF@bactNOG,16PWX@proNOG,COG1448@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "E",
+        "X13": "Aminotransferase"
+      }
     },
     {
       "seqnames": "MAG06_247",
@@ -70,7 +100,22 @@
       "sscore": "13.42",
       "rscore": "7.63",
       "uscore": "0.98",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_348_7",
+        "X2": "266834.SMc00388",
+        "X3": 3.6e-197,
+        "X4": 692.6,
+        "X5": "AOTO",
+        "X6": null,
+        "X7": "K06987",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01T2N@aproNOG,08A83@bactNOG,174Y7@proNOG,COG3608@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "succinylglutamate desuccinylase aspartoacylase"
+      }
     },
     {
       "seqnames": "MAG06_247",
@@ -94,7 +139,22 @@
       "sscore": "-1.20",
       "rscore": "-4.72",
       "uscore": "0.53",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_349_1",
+        "X2": "266834.SMc03065",
+        "X3": 1.9e-128,
+        "X4": 463.8,
+        "X5": "AGLK",
+        "X6": "GO:0005575,GO:0005623,GO:0005886,GO:0016020,GO:0044464,GO:0071944",
+        "X7": "K10111,K10112,K10235",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01Q68@aproNOG,05C53@bactNOG,16PDX@proNOG,COG3842@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "E",
+        "X13": "ABC transporter"
+      }
     },
     {
       "seqnames": "MAG06_247",
@@ -118,7 +178,8 @@
       "sscore": "7.00",
       "rscore": "-0.69",
       "uscore": "2.06",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {}
     },
     {
       "seqnames": "MAG06_247",
@@ -142,7 +203,22 @@
       "sscore": "0.22",
       "rscore": "-4.72",
       "uscore": "0.57",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_349_2",
+        "X2": "266834.SMc03066",
+        "X3": 5.9e-71,
+        "X4": 271.9,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "020WM@aproNOG,05U86@bactNOG,121DY@NOG,17ICU@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": null,
+        "X13": null
+      }
     },
     {
       "seqnames": "MAG06_247",
@@ -166,7 +242,22 @@
       "sscore": "0.72",
       "rscore": "7.63",
       "uscore": "-2.04",
-      "tscore": "-4.87"
+      "tscore": "-4.87",
+      "eggnog": {
+        "X1": "MAG06_35_1",
+        "X2": "627192.SLG_10410",
+        "X3": 2.9e-77,
+        "X4": 293.9,
+        "X5": "GLGX",
+        "X6": "GO:0005975,GO:0005976,GO:0005977,GO:0006073,GO:0006091,GO:0006112,GO:0008150,GO:0008152,GO:0009987,GO:0015980,GO:0043170,GO:0044042,GO:0044237,GO:0044238,GO:0044260,GO:0044262,GO:0044264,GO:0044710,GO:0055114,GO:0071704",
+        "X7": "K02438",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "02DPE@aproNOG,08ESZ@bactNOG,1716E@proNOG,COG1523@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "G",
+        "X13": "Glycogen debranching enzyme"
+      }
     }
   ],
   "seqname": "MAG06_247",

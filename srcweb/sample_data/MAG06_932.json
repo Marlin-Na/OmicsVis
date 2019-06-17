@@ -22,7 +22,22 @@
       "sscore": "-3.09",
       "rscore": "-4.72",
       "uscore": "-1.37",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_883_2",
+        "X2": "266834.SMc00024",
+        "X3": 2.1e-265,
+        "X4": 919.8,
+        "X5": "SMC",
+        "X6": "GO:0003674,GO:0003824,GO:0005575,GO:0005618,GO:0005622,GO:0005623,GO:0005737,GO:0005829,GO:0005886,GO:0007059,GO:0008150,GO:0008152,GO:0009987,GO:0016020,GO:0030312,GO:0044424,GO:0044444,GO:0044464,GO:0044699,GO:0044763,GO:0071944",
+        "X7": "K03529",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01Q8B@aproNOG,05CDB@bactNOG,16QHS@proNOG,COG1196@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "D",
+        "X13": "Required for chromosome condensation and partitioning (By similarity)"
+      }
     },
     {
       "seqnames": "MAG06_932",
@@ -46,7 +61,22 @@
       "sscore": "6.59",
       "rscore": "2.03",
       "uscore": "0.92",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_884_1",
+        "X2": "266834.SMc00055",
+        "X3": 1.1e-42,
+        "X4": 177.6,
+        "X5": "MRPE",
+        "X6": "GO:0005575,GO:0005623,GO:0005886,GO:0016020,GO:0044464,GO:0071944",
+        "X7": "K05569",
+        "X8": "NAt3_1",
+        "X9": "bactNOG[38]",
+        "X10": "01WXD@aproNOG,05SC1@bactNOG,17GIP@proNOG,COG1863@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "P",
+        "X13": "monovalent cation H antiporter subunit E"
+      }
     },
     {
       "seqnames": "MAG06_932",
@@ -70,7 +100,22 @@
       "sscore": "16.15",
       "rscore": "10.54",
       "uscore": "0.67",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_884_10",
+        "X2": "266834.SMc00048",
+        "X3": 2.1e-71,
+        "X4": 273.5,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "022J7@aproNOG,062J8@bactNOG,17NJ8@proNOG,COG0589@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "T",
+        "X13": "Universal stress protein"
+      }
     },
     {
       "seqnames": "MAG06_932",
@@ -94,7 +139,22 @@
       "sscore": "3.22",
       "rscore": "0.00",
       "uscore": "0.00",
-      "tscore": "3.22"
+      "tscore": "3.22",
+      "eggnog": {
+        "X1": "MAG06_884_11",
+        "X2": "266834.SMc00115",
+        "X3": 1.2e-50,
+        "X4": 204.1,
+        "X5": "CATE",
+        "X6": null,
+        "X7": "K07104",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01VTK@aproNOG,08TKW@bactNOG,1784Z@proNOG,COG2514@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "glyoxalase bleomycin resistance protein dioxygenase"
+      }
     }
   ],
   "seqname": "MAG06_932",

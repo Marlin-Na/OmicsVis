@@ -22,7 +22,22 @@
       "sscore": "3.22",
       "rscore": "0.00",
       "uscore": "0.00",
-      "tscore": "3.22"
+      "tscore": "3.22",
+      "eggnog": {
+        "X1": "MAG06_62_6",
+        "X2": "266834.SMc01602",
+        "X3": 1.9e-13,
+        "X4": 79.3,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01T2D@aproNOG,05CPZ@bactNOG,173PE@proNOG,COG1737@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "K",
+        "X13": "Transcriptional regulator, rpir family"
+      }
     },
     {
       "seqnames": "MAG06_597",
@@ -46,7 +61,22 @@
       "sscore": "-11.46",
       "rscore": "-2.35",
       "uscore": "-0.07",
-      "tscore": "-10.14"
+      "tscore": "-10.14",
+      "eggnog": {
+        "X1": "MAG06_620_1",
+        "X2": "366394.Smed_3489",
+        "X3": 7.5e-148,
+        "X4": 528.5,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01SJM@aproNOG,05CPC@bactNOG,16RUJ@proNOG,COG0667@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "C",
+        "X13": "Aldo keto reductase"
+      }
     },
     {
       "seqnames": "MAG06_597",
@@ -70,7 +100,22 @@
       "sscore": "11.97",
       "rscore": "7.63",
       "uscore": "0.03",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_620_2",
+        "X2": "266834.SMc00370",
+        "X3": 9.2e-162,
+        "X4": 574.7,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01RB2@aproNOG,05EQ2@bactNOG,0XRUN@NOG,174XS@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": "K",
+        "X13": "LysR family transcriptional Regulator"
+      }
     },
     {
       "seqnames": "MAG06_597",
@@ -94,7 +139,22 @@
       "sscore": "5.49",
       "rscore": "5.51",
       "uscore": "-3.02",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_125_1",
+        "X2": "266834.SMc01459",
+        "X3": 5.9e-155,
+        "X4": 552,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01RTB@aproNOG,06IPI@bactNOG,16QBM@proNOG,COG1878@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "E",
+        "X13": "Cyclase family"
+      }
     }
   ],
   "seqname": "MAG06_597",

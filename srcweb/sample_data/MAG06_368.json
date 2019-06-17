@@ -22,7 +22,22 @@
       "sscore": "11.86",
       "rscore": "7.63",
       "uscore": "1.24",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_449_1",
+        "X2": "266779.Meso_2884",
+        "X3": 2.8e-21,
+        "X4": 106.3,
+        "X5": "ASNB",
+        "X6": null,
+        "X7": "K01953",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01TCR@aproNOG,05CAQ@bactNOG,16QZ2@proNOG,COG0367@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "E",
+        "X13": "Asparagine synthetase"
+      }
     },
     {
       "seqnames": "MAG06_368",
@@ -46,7 +61,22 @@
       "sscore": "3.60",
       "rscore": "2.03",
       "uscore": "-2.07",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_449_10",
+        "X2": "311403.Arad_8128",
+        "X3": 2.3e-230,
+        "X4": 803.1,
+        "X5": null,
+        "X6": null,
+        "X7": "K02027",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01U3V@aproNOG,08I25@bactNOG,11VH6@NOG,175CW@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": "G",
+        "X13": "extracellular solute-binding protein, family 1"
+      }
     }
   ],
   "seqname": "MAG06_368",

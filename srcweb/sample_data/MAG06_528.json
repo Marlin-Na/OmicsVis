@@ -22,7 +22,22 @@
       "sscore": "15.12",
       "rscore": "10.54",
       "uscore": "0.94",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_117_1",
+        "X2": "266834.SMc01844",
+        "X3": 2.8e-72,
+        "X4": 276.6,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "08EWN@bactNOG,11G1Q@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "EamA-like transporter family"
+      }
     },
     {
       "seqnames": "MAG06_528",
@@ -46,7 +61,22 @@
       "sscore": "18.62",
       "rscore": "13.75",
       "uscore": "0.47",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_117_2",
+        "X2": "266834.SMc01845",
+        "X3": 4.4e-231,
+        "X4": 805.4,
+        "X5": "MLTB",
+        "X6": "GO:0003674,GO:0003824,GO:0008150,GO:0008152",
+        "X7": "K08305",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01SQP@aproNOG,05CVE@bactNOG,16QBZ@proNOG,COG2951@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "M",
+        "X13": "lytic murein transglycosylase"
+      }
     },
     {
       "seqnames": "MAG06_528",
@@ -70,7 +100,22 @@
       "sscore": "0.57",
       "rscore": "7.63",
       "uscore": "-2.19",
-      "tscore": "-4.87"
+      "tscore": "-4.87",
+      "eggnog": {
+        "X1": "MAG06_117_3",
+        "X2": "266834.SMc01846",
+        "X3": 6.7e-156,
+        "X4": 555.1,
+        "X5": "LYC",
+        "X6": null,
+        "X7": "K07273",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01URK@aproNOG,08MIX@bactNOG,16XGH@proNOG,COG3757@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "M",
+        "X13": "hydrolase, family 25"
+      }
     },
     {
       "seqnames": "MAG06_528",
@@ -94,7 +139,22 @@
       "sscore": "-0.26",
       "rscore": "-4.72",
       "uscore": "-0.43",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_117_4",
+        "X2": "266834.SMc01847",
+        "X3": 1.4e-122,
+        "X4": 444.1,
+        "X5": "BTAB",
+        "X6": null,
+        "X7": "K13623",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01X5T@aproNOG,08UTB@bactNOG,11JRD@NOG,17AD0@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "Methyltransferase"
+      }
     },
     {
       "seqnames": "MAG06_528",
@@ -118,7 +178,22 @@
       "sscore": "20.54",
       "rscore": "13.75",
       "uscore": "1.85",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_117_5",
+        "X2": "266834.SMc01848",
+        "X3": 8e-244,
+        "X4": 847.8,
+        "X5": "BTAA",
+        "X6": null,
+        "X7": "K13622",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01S01@aproNOG,05D8Z@bactNOG,16QSM@proNOG,COG5379@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "I",
+        "X13": "S-adenosylmethionine diacylglycerol 3-amino-3-carboxypropyl transferase"
+      }
     },
     {
       "seqnames": "MAG06_528",
@@ -142,7 +217,22 @@
       "sscore": "7.33",
       "rscore": "2.03",
       "uscore": "0.36",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_117_6",
+        "X2": "266834.SMc01849",
+        "X3": 6.8e-257,
+        "X4": 891.3,
+        "X5": "BMUL_3326",
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01UC8@aproNOG,07UKF@bactNOG,174RN@proNOG,COG1680@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "V",
+        "X13": "beta-lactamase"
+      }
     },
     {
       "seqnames": "MAG06_528",
@@ -166,7 +256,22 @@
       "sscore": "10.98",
       "rscore": "13.75",
       "uscore": "0.81",
-      "tscore": "-4.87"
+      "tscore": "-4.87",
+      "eggnog": {
+        "X1": "MAG06_117_7",
+        "X2": "266834.SMc01850",
+        "X3": 2e-107,
+        "X4": 393.7,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "0213K@aproNOG,05N59@bactNOG,17IRG@proNOG,COG0741@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "M",
+        "X13": "transglycosylase"
+      }
     },
     {
       "seqnames": "MAG06_528",
@@ -190,7 +295,22 @@
       "sscore": "12.78",
       "rscore": "7.85",
       "uscore": "-0.48",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_118_1",
+        "X2": "216596.RL2307",
+        "X3": 4.2e-16,
+        "X4": 88.2,
+        "X5": "YJBJ",
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "021HI@aproNOG,05VDW@bactNOG,17JRP@proNOG,COG3237@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "CsbD-like protein"
+      }
     },
     {
       "seqnames": "MAG06_528",
@@ -214,7 +334,22 @@
       "sscore": "11.24",
       "rscore": "8.08",
       "uscore": "-0.49",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_118_5",
+        "X2": "536019.Mesop_3010",
+        "X3": 9.5e-14,
+        "X4": 82.8,
+        "X5": "OCAR_4740",
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "021FG@aproNOG,05WTT@bactNOG,122YP@NOG,17P80@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "Protein of unknown function (DUF1236)"
+      }
     },
     {
       "seqnames": "MAG06_528",
@@ -238,7 +373,22 @@
       "sscore": "18.11",
       "rscore": "13.75",
       "uscore": "1.37",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_118_6",
+        "X2": "266779.Meso_2229",
+        "X3": 2.5e-63,
+        "X4": 247.3,
+        "X5": null,
+        "X6": "GO:0005575,GO:0005623,GO:0005886,GO:0005887,GO:0016020,GO:0016021,GO:0031224,GO:0031226,GO:0044425,GO:0044459,GO:0044464,GO:0071944",
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01WRA@aproNOG,05F4G@bactNOG,16QUY@proNOG,COG0628@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "Domain of unknown function DUF20"
+      }
     },
     {
       "seqnames": "MAG06_528",
@@ -262,7 +412,22 @@
       "sscore": "1.90",
       "rscore": "-4.72",
       "uscore": "2.97",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_119_1",
+        "X2": "176299.Atu2465",
+        "X3": 6.2e-13,
+        "X4": 78.2,
+        "X5": "TCTE",
+        "X6": null,
+        "X7": "K07649",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01RTM@aproNOG,05DAU@bactNOG,16QRZ@proNOG,COG0642@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "T",
+        "X13": "Histidine kinase"
+      }
     },
     {
       "seqnames": "MAG06_528",
@@ -286,7 +451,22 @@
       "sscore": "14.61",
       "rscore": "10.54",
       "uscore": "1.07",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_119_2",
+        "X2": "311403.Arad_3932",
+        "X3": 7.3e-157,
+        "X4": 558.5,
+        "X5": "RBSB",
+        "X6": null,
+        "X7": "K10439",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01U4G@aproNOG,07TZS@bactNOG,172E8@proNOG,COG1879@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "G",
+        "X13": "ABC ribose transporter periplasmic solute-binding protein"
+      }
     },
     {
       "seqnames": "MAG06_528",
@@ -310,7 +490,22 @@
       "sscore": "11.53",
       "rscore": "7.63",
       "uscore": "0.26",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_119_3",
+        "X2": "347834.RHE_CH03645",
+        "X3": 6.6e-156,
+        "X4": 555.4,
+        "X5": null,
+        "X6": null,
+        "X7": "K10440,K10538,K10541,K10553,K17214",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01RW5@aproNOG,05CNN@bactNOG,16RY1@proNOG,COG1172@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "G",
+        "X13": "ABC transporter"
+      }
     }
   ],
   "seqname": "MAG06_528",

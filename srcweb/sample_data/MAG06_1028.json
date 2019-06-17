@@ -22,7 +22,8 @@
       "sscore": "17.43",
       "rscore": "12.94",
       "uscore": "-2.48",
-      "tscore": "3.20"
+      "tscore": "3.20",
+      "eggnog": {}
     },
     {
       "seqnames": "MAG06_1028",
@@ -46,7 +47,22 @@
       "sscore": "14.45",
       "rscore": "11.83",
       "uscore": "-0.58",
-      "tscore": "3.20"
+      "tscore": "3.20",
+      "eggnog": {
+        "X1": "MAG06_943_2",
+        "X2": "479434.Sthe_3297",
+        "X3": 3.2e-52,
+        "X4": 211.1,
+        "X5": null,
+        "X6": null,
+        "X7": "K02055",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "05G5F@bactNOG,COG0687@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "E",
+        "X13": "extracellular solute-binding protein family 1"
+      }
     },
     {
       "seqnames": "MAG06_1028",
@@ -70,7 +86,22 @@
       "sscore": "12.40",
       "rscore": "11.01",
       "uscore": "-1.81",
-      "tscore": "3.20"
+      "tscore": "3.20",
+      "eggnog": {
+        "X1": "MAG06_943_3",
+        "X2": "247634.GPB2148_3832",
+        "X3": 3.4e-77,
+        "X4": 293.9,
+        "X5": null,
+        "X6": null,
+        "X7": "K01273",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "08IGT@bactNOG,0RAPV@gproNOG,172RD@proNOG,COG2355@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "E",
+        "X13": "Dipeptidase"
+      }
     }
   ],
   "seqname": "MAG06_1028",

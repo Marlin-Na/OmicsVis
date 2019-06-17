@@ -22,7 +22,22 @@
       "sscore": "2.91",
       "rscore": "2.03",
       "uscore": "-2.11",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_689_4",
+        "X2": "381666.H16_B1897",
+        "X3": 4.5e-108,
+        "X4": 396.4,
+        "X5": "YAGS",
+        "X6": null,
+        "X7": "K04109,K11178",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "05DIP@bactNOG,0BAFZ@bproNOG,16Q2R@proNOG,COG1319@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "F",
+        "X13": "Molybdopterin dehydrogenase FAD-binding"
+      }
     },
     {
       "seqnames": "MAG06_685",
@@ -46,7 +61,22 @@
       "sscore": "1.52",
       "rscore": "-0.37",
       "uscore": "-1.76",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_69_1",
+        "X2": "266834.SMc02420",
+        "X3": 5.8e-43,
+        "X4": 178.3,
+        "X5": "CODA",
+        "X6": null,
+        "X7": "K01485",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01UA8@aproNOG,05DZC@bactNOG,16R7B@proNOG,COG0402@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "F",
+        "X13": "cytosine deaminase"
+      }
     },
     {
       "seqnames": "MAG06_685",
@@ -70,7 +100,22 @@
       "sscore": "15.42",
       "rscore": "7.63",
       "uscore": "3.10",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_69_2",
+        "X2": "266834.SMc02419",
+        "X3": 1.3e-169,
+        "X4": 600.9,
+        "X5": null,
+        "X6": "GO:0005575,GO:0016020",
+        "X7": "K02034",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01RFK@aproNOG,05C2T@bactNOG,16QXW@proNOG,COG1173@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "P",
+        "X13": "permease protein"
+      }
     },
     {
       "seqnames": "MAG06_685",
@@ -94,7 +139,22 @@
       "sscore": "10.44",
       "rscore": "5.51",
       "uscore": "-0.17",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_69_3",
+        "X2": "266834.SMc02418",
+        "X3": 7.2e-168,
+        "X4": 595.1,
+        "X5": null,
+        "X6": "GO:0005575,GO:0016020",
+        "X7": "K02033,K15581",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01RN1@aproNOG,05CJM@bactNOG,16PNR@proNOG,COG0601@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "P",
+        "X13": "ABC transporter permease protein"
+      }
     }
   ],
   "seqname": "MAG06_685",

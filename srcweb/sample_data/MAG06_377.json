@@ -22,7 +22,8 @@
       "sscore": "11.36",
       "rscore": "6.60",
       "uscore": "1.71",
-      "tscore": "3.06"
+      "tscore": "3.06",
+      "eggnog": {}
     },
     {
       "seqnames": "MAG06_377",
@@ -46,7 +47,22 @@
       "sscore": "3.22",
       "rscore": "0.00",
       "uscore": "0.00",
-      "tscore": "3.22"
+      "tscore": "3.22",
+      "eggnog": {
+        "X1": "MAG06_451_9",
+        "X2": "266834.SMc02064",
+        "X3": 2.1e-189,
+        "X4": 666.8,
+        "X5": "SERS",
+        "X6": "GO:0000287,GO:0001887,GO:0003674,GO:0003824,GO:0004812,GO:0004828,GO:0005488,GO:0005575,GO:0005622,GO:0005623,GO:0005737,GO:0005829,GO:0006082,GO:0006139,GO:0006399,GO:0006412,GO:0006418,GO:0006434,GO:0006520,GO:0006575,GO:0006725,GO:0006807,GO:0008150,GO:0008152,GO:0008652,GO:0009058,GO:0009059,GO:0009069,GO:0009070,GO:0009987,GO:0010467,GO:0016053,GO:0016070,GO:0016259,GO:0016260,GO:0016874,GO:0016875,GO:0016876,GO:0019538,GO:0019752,GO:0034641,GO:0034645,GO:0034660,GO:0042398,GO:0043038,GO:0043039,GO:0043167,GO:0043169,GO:0043170,GO:0043436,GO:0044237,GO:0044238,GO:0044249,GO:0044260,GO:0044267,GO:0044281,GO:0044283,GO:0044424,GO:0044444,GO:0044464,GO:0044710,GO:0044711,GO:0046394,GO:0046483,GO:0046872,GO:0071704,GO:0090304,GO:1901360,GO:1901564,GO:1901566,GO:1901576,GO:1901605,GO:1901607",
+        "X7": "K01875,K07284",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01QS6@aproNOG,05CGR@bactNOG,16PX9@proNOG,COG0172@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "J",
+        "X13": "Catalyzes the attachment of serine to tRNA(Ser). Is also able to aminoacylate tRNA(Sec) with serine, to form the misacylated tRNA L-seryl-tRNA(Sec), which will be further converted into selenocysteinyl-tRNA(Sec) (By similarity)"
+      }
     }
   ],
   "seqname": "MAG06_377",

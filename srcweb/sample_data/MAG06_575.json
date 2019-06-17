@@ -22,7 +22,22 @@
       "sscore": "10.12",
       "rscore": "7.63",
       "uscore": "-0.50",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_606_3",
+        "X2": "536019.Mesop_5472",
+        "X3": 1.5e-127,
+        "X4": 461.1,
+        "X5": "RFBA",
+        "X6": "GO:0000271,GO:0000287,GO:0003674,GO:0003824,GO:0005488,GO:0005575,GO:0005618,GO:0005622,GO:0005623,GO:0005737,GO:0005829,GO:0005975,GO:0005976,GO:0008150,GO:0008152,GO:0008879,GO:0009058,GO:0009059,GO:0009274,GO:0009276,GO:0009987,GO:0016051,GO:0016740,GO:0016772,GO:0016779,GO:0030312,GO:0030313,GO:0031975,GO:0033692,GO:0034637,GO:0034645,GO:0043167,GO:0043169,GO:0043170,GO:0044237,GO:0044238,GO:0044249,GO:0044260,GO:0044262,GO:0044264,GO:0044424,GO:0044444,GO:0044464,GO:0044723,GO:0045226,GO:0046379,GO:0046872,GO:0071704,GO:0071944,GO:1901576",
+        "X7": "K00973",
+        "X8": "G1PTT",
+        "X9": "bactNOG[38]",
+        "X10": "02E3M@aproNOG,08I19@bactNOG,172GZ@proNOG,COG1209@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "M",
+        "X13": "Catalyzes the formation of dTDP-glucose, from dTTP and glucose 1-phosphate, as well as its pyrophosphorolysis (By similarity)"
+      }
     },
     {
       "seqnames": "MAG06_575",
@@ -46,7 +61,22 @@
       "sscore": "11.42",
       "rscore": "7.85",
       "uscore": "-0.08",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_606_5",
+        "X2": "641118.OINT_2000526",
+        "X3": 2.6e-164,
+        "X4": 583.6,
+        "X5": "BMUL_2604",
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01X4U@aproNOG,08UQ2@bactNOG,11IHY@NOG,179VD@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "Polysaccharide pyruvyl transferase"
+      }
     },
     {
       "seqnames": "MAG06_575",
@@ -70,7 +100,22 @@
       "sscore": "11.15",
       "rscore": "7.63",
       "uscore": "0.53",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_606_6",
+        "X2": "439375.Oant_3442",
+        "X3": 1.5e-146,
+        "X4": 524.6,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "02AXF@aproNOG,0628I@bactNOG,11I55@NOG,17NZN@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": "M",
+        "X13": "Polysaccharide pyruvyl transferase"
+      }
     },
     {
       "seqnames": "MAG06_575",
@@ -94,7 +139,22 @@
       "sscore": "-0.82",
       "rscore": "-4.72",
       "uscore": "0.25",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_606_7",
+        "X2": "439375.Oant_3441",
+        "X3": 8.4e-262,
+        "X4": 908.3,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "08P79@bactNOG,10VGA@NOG,174YX@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": "M",
+        "X13": "glycosyl transferase"
+      }
     }
   ],
   "seqname": "MAG06_575",

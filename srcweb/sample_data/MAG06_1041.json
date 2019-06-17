@@ -22,7 +22,22 @@
       "sscore": "5.49",
       "rscore": "2.03",
       "uscore": "0.47",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_951_3",
+        "X2": "460265.Mnod_1053",
+        "X3": 5.6e-33,
+        "X4": 146,
+        "X5": "BMUL_2198",
+        "X6": null,
+        "X7": "K00657",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01XWH@aproNOG,08V6C@bactNOG,179ZM@proNOG,COG0454@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "K",
+        "X13": "GCN5-related N-acetyltransferase"
+      }
     },
     {
       "seqnames": "MAG06_1041",
@@ -46,7 +61,22 @@
       "sscore": "5.90",
       "rscore": "2.03",
       "uscore": "0.23",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_951_4",
+        "X2": "491916.RHECIAT_CH0002353",
+        "X3": 3.4e-128,
+        "X4": 463,
+        "X5": "LYSM",
+        "X6": null,
+        "X7": "K07273",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01U5X@aproNOG,08P0J@bactNOG,17692@proNOG,COG3757@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "M",
+        "X13": "glycoside hydrolase family 25"
+      }
     }
   ],
   "seqname": "MAG06_1041",

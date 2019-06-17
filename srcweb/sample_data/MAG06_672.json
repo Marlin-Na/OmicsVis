@@ -22,7 +22,22 @@
       "sscore": "3.22",
       "rscore": "0.00",
       "uscore": "0.00",
-      "tscore": "3.22"
+      "tscore": "3.22",
+      "eggnog": {
+        "X1": "MAG06_68_10",
+        "X2": "311403.Arad_9498",
+        "X3": 1.4e-197,
+        "X4": 694.1,
+        "X5": "POBA",
+        "X6": "GO:0003674,GO:0003824,GO:0004497,GO:0006082,GO:0006725,GO:0008150,GO:0008152,GO:0009987,GO:0016491,GO:0016705,GO:0016709,GO:0018659,GO:0018874,GO:0019752,GO:0032787,GO:0042537,GO:0043436,GO:0044237,GO:0044281,GO:0044710,GO:0055114,GO:0071704,GO:1901360",
+        "X7": "K00481",
+        "X8": "4HBHYOX",
+        "X9": "bactNOG[38]",
+        "X10": "01SD8@aproNOG,072AC@bactNOG,16Q7V@proNOG,COG0654@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "Q",
+        "X13": "4-hydroxybenzoate 3-monooxygenase"
+      }
     },
     {
       "seqnames": "MAG06_672",
@@ -46,7 +61,22 @@
       "sscore": "13.54",
       "rscore": "8.88",
       "uscore": "-0.68",
-      "tscore": "4.54"
+      "tscore": "4.54",
+      "eggnog": {
+        "X1": "MAG06_68_11",
+        "X2": "311403.Arad_4559",
+        "X3": 1.3e-100,
+        "X4": 371.3,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01RTJ@aproNOG,07S1I@bactNOG,1762Z@proNOG,COG2041@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "Oxidoreductase molybdopterin binding"
+      }
     }
   ],
   "seqname": "MAG06_672",

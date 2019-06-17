@@ -22,7 +22,8 @@
       "sscore": "-3.83",
       "rscore": "-3.78",
       "uscore": "-3.05",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {}
     },
     {
       "seqnames": "MAG06_256",
@@ -46,7 +47,22 @@
       "sscore": "2.05",
       "rscore": "-0.69",
       "uscore": "-0.90",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_357_5",
+        "X2": "266834.SMc00330",
+        "X3": 5.5e-108,
+        "X4": 395.6,
+        "X5": "YADS",
+        "X6": "GO:0005575,GO:0005623,GO:0005886,GO:0016020,GO:0044464,GO:0071944",
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01X1Y@aproNOG,05EN6@bactNOG,16SBD@proNOG,COG2860@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "Membrane"
+      }
     },
     {
       "seqnames": "MAG06_256",
@@ -70,7 +86,22 @@
       "sscore": "17.62",
       "rscore": "13.75",
       "uscore": "0.88",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_357_6",
+        "X2": "266834.SMc00331",
+        "X3": 3.3e-56,
+        "X4": 222.6,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01WSR@aproNOG,07B04@bactNOG,173MT@proNOG,COG1434@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "DUF218 domain"
+      }
     },
     {
       "seqnames": "MAG06_256",
@@ -94,7 +125,22 @@
       "sscore": "0.93",
       "rscore": "-4.72",
       "uscore": "2.00",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_358_1",
+        "X2": "536019.Mesop_2104",
+        "X3": 5.2e-58,
+        "X4": 229.6,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "022V4@aproNOG,08MKG@bactNOG,0YPGR@NOG,17H35@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "Sulfotransferase"
+      }
     },
     {
       "seqnames": "MAG06_256",
@@ -118,7 +164,22 @@
       "sscore": "16.28",
       "rscore": "13.75",
       "uscore": "-2.36",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_358_2",
+        "X2": "536019.Mesop_2108",
+        "X3": 1.8e-87,
+        "X4": 328.2,
+        "X5": "YGHQ",
+        "X6": "GO:0005575,GO:0005623,GO:0005886,GO:0016020,GO:0044464,GO:0071944",
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01WQW@aproNOG,08S55@bactNOG,178R0@proNOG,COG2244@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "M",
+        "X13": "Polysaccharide biosynthesis protein"
+      }
     },
     {
       "seqnames": "MAG06_256",
@@ -142,7 +203,22 @@
       "sscore": "20.19",
       "rscore": "13.75",
       "uscore": "1.71",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_359_1",
+        "X2": "640511.BC1002_6645",
+        "X3": 3e-188,
+        "X4": 663.3,
+        "X5": "PHNY",
+        "X6": null,
+        "X7": "K00128,K12907,K19699",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "05C26@bactNOG,16PDZ@proNOG,COG1012@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "C",
+        "X13": "Dehydrogenase"
+      }
     },
     {
       "seqnames": "MAG06_256",
@@ -166,7 +242,22 @@
       "sscore": "16.36",
       "rscore": "10.54",
       "uscore": "1.03",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_359_2",
+        "X2": "640511.BC1002_6646",
+        "X3": 1.3e-103,
+        "X4": 381.3,
+        "X5": "PHNA",
+        "X6": null,
+        "X7": "K19670",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "05DDM@bactNOG,0BA1Q@bproNOG,16QXG@proNOG,COG1524@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "phosphonoacetate hydrolase"
+      }
     },
     {
       "seqnames": "MAG06_256",
@@ -190,7 +281,22 @@
       "sscore": "6.45",
       "rscore": "7.85",
       "uscore": "-0.69",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_36_2",
+        "X2": "288000.BBta_0129",
+        "X3": 2e-07,
+        "X4": 61.2,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "022TA@aproNOG,08VPA@bactNOG,178QC@proNOG,COG3090@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "G",
+        "X13": "tripartite ATP-independent periplasmic transporter, DctQ component"
+      }
     }
   ],
   "seqname": "MAG06_256",

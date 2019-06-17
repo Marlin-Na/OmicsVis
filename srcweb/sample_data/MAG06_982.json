@@ -22,7 +22,8 @@
       "sscore": "3.22",
       "rscore": "0.00",
       "uscore": "0.00",
-      "tscore": "3.22"
+      "tscore": "3.22",
+      "eggnog": {}
     },
     {
       "seqnames": "MAG06_982",
@@ -46,7 +47,22 @@
       "sscore": "2.60",
       "rscore": "-1.48",
       "uscore": "0.44",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_913_10",
+        "X2": "266834.SMc01712",
+        "X3": 5.6e-220,
+        "X4": 768.5,
+        "X5": "LLDD1",
+        "X6": "GO:0005575,GO:0005623,GO:0005886,GO:0016020,GO:0044464,GO:0071944",
+        "X7": "K00101,K00104",
+        "X8": "LDH_L,L_LACD",
+        "X9": "bactNOG[38]",
+        "X10": "01QVX@aproNOG,05DMF@bactNOG,16QN1@proNOG,COG1304@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "C",
+        "X13": "L-lactate dehydrogenase"
+      }
     },
     {
       "seqnames": "MAG06_982",
@@ -70,7 +86,22 @@
       "sscore": "4.26",
       "rscore": "2.03",
       "uscore": "-0.76",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_913_11",
+        "X2": "266834.SMc01711",
+        "X3": 2.1e-137,
+        "X4": 493.8,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01VC8@aproNOG,07WQ3@bactNOG,0ZGGH@NOG,173RB@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "NPCBM-associated, NEW3 domain of alpha-galactosidase"
+      }
     },
     {
       "seqnames": "MAG06_982",
@@ -94,7 +125,22 @@
       "sscore": "5.48",
       "rscore": "2.03",
       "uscore": "-0.19",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_913_2",
+        "X2": "366394.Smed_0080",
+        "X3": 9.4e-66,
+        "X4": 254.6,
+        "X5": "RNPA",
+        "X6": null,
+        "X7": "K03536",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01ZPK@aproNOG,05KK3@bactNOG,17FEV@proNOG,COG0594@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "J",
+        "X13": "RNaseP catalyzes the removal of the 5'-leader sequence from pre-tRNA to produce the mature 5'-terminus. It can also cleave other RNA substrates such as 4.5S RNA. The protein component plays an auxiliary but essential role in vivo by binding to the 5'-leader sequence and broadening the substrate specificity of the ribozyme (By similarity)"
+      }
     },
     {
       "seqnames": "MAG06_982",
@@ -118,7 +164,22 @@
       "sscore": "4.68",
       "rscore": "3.33",
       "uscore": "-1.64",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_913_3",
+        "X2": "266834.SMc01719",
+        "X3": 0,
+        "X4": 1184.9,
+        "X5": null,
+        "X6": null,
+        "X7": "K03406",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "07X8H@bactNOG,16VJ6@proNOG,COG0840@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "N, T",
+        "X13": "Methyl-accepting chemotaxis"
+      }
     },
     {
       "seqnames": "MAG06_982",
@@ -142,7 +203,22 @@
       "sscore": "7.49",
       "rscore": "7.63",
       "uscore": "-3.78",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_913_4",
+        "X2": "266834.SMc01718",
+        "X3": 6.2e-133,
+        "X4": 478.8,
+        "X5": "MERA_1",
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01QZC@aproNOG,06D12@bactNOG,16TJQ@proNOG,COG0398@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "SNARE associated Golgi protein"
+      }
     }
   ],
   "seqname": "MAG06_982",

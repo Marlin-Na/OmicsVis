@@ -22,7 +22,22 @@
       "sscore": "3.22",
       "rscore": "0.00",
       "uscore": "0.00",
-      "tscore": "3.22"
+      "tscore": "3.22",
+      "eggnog": {
+        "X1": "MAG06_656_4",
+        "X2": "266834.SMc00133",
+        "X3": 7.4e-156,
+        "X4": 555.1,
+        "X5": "MMSB",
+        "X6": "GO:0003674,GO:0003824,GO:0008150,GO:0008152,GO:0008679,GO:0016491,GO:0016614,GO:0016616,GO:0044710,GO:0055114",
+        "X7": "K00020,K00042",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01RIS@aproNOG,05CF3@bactNOG,16QDI@proNOG,COG2084@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "I",
+        "X13": "Dehydrogenase"
+      }
     },
     {
       "seqnames": "MAG06_640",
@@ -46,7 +61,22 @@
       "sscore": "4.45",
       "rscore": "2.03",
       "uscore": "-1.22",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_656_5",
+        "X2": "266834.SMc00132",
+        "X3": 1.2e-124,
+        "X4": 451.1,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01WHX@aproNOG,07ZZF@bactNOG,1790D@proNOG,COG4912@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "L",
+        "X13": "DNA alkylation repair enzyme"
+      }
     },
     {
       "seqnames": "MAG06_640",
@@ -70,7 +100,22 @@
       "sscore": "10.03",
       "rscore": "7.63",
       "uscore": "-2.38",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_656_6",
+        "X2": "266834.SMc00131",
+        "X3": 2.1e-83,
+        "X4": 313.5,
+        "X5": "YBAO",
+        "X6": "GO:0001071,GO:0003674,GO:0003700,GO:0006355,GO:0008150,GO:0009889,GO:0010468,GO:0010556,GO:0019219,GO:0019222,GO:0031323,GO:0031326,GO:0050789,GO:0050794,GO:0051171,GO:0051252,GO:0060255,GO:0065007,GO:0080090,GO:2000112,GO:2001141",
+        "X7": "K03719,K05800",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01S3C@aproNOG,08XM1@bactNOG,17AUX@proNOG,COG1522@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "K",
+        "X13": "transcriptional regulator AsnC family"
+      }
     },
     {
       "seqnames": "MAG06_640",
@@ -94,7 +139,22 @@
       "sscore": "4.30",
       "rscore": "-0.69",
       "uscore": "0.10",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_656_7",
+        "X2": "266834.SMc04210",
+        "X3": 2.7e-123,
+        "X4": 446.4,
+        "X5": "UNG",
+        "X6": "GO:0003674,GO:0003824,GO:0004844,GO:0006139,GO:0006259,GO:0006281,GO:0006725,GO:0006807,GO:0006950,GO:0006974,GO:0008150,GO:0008152,GO:0009987,GO:0016787,GO:0016798,GO:0016799,GO:0019104,GO:0033554,GO:0034641,GO:0043170,GO:0044237,GO:0044238,GO:0044260,GO:0044699,GO:0044763,GO:0046483,GO:0050896,GO:0051716,GO:0071704,GO:0090304,GO:1901360",
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01W0N@aproNOG,08RG0@bactNOG,1789K@proNOG,COG1573@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "L",
+        "X13": "Uracil-DNA glycosylase"
+      }
     },
     {
       "seqnames": "MAG06_640",
@@ -118,7 +178,22 @@
       "sscore": "4.86",
       "rscore": "2.03",
       "uscore": "-2.08",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_656_8",
+        "X2": "266834.SMc04211",
+        "X3": 3e-110,
+        "X4": 403.3,
+        "X5": "EXOI",
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01ZXG@aproNOG,07YTU@bactNOG,17HNT@proNOG,COG1525@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "L",
+        "X13": "Nuclease (SNase domain protein)"
+      }
     }
   ],
   "seqname": "MAG06_640",

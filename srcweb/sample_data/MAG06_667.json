@@ -22,7 +22,22 @@
       "sscore": "-7.19",
       "rscore": "-4.72",
       "uscore": "1.27",
-      "tscore": "-4.87"
+      "tscore": "-4.87",
+      "eggnog": {
+        "X1": "MAG06_677_2",
+        "X2": "641118.OINT_1001975",
+        "X3": 1.3e-158,
+        "X4": 564.7,
+        "X5": "YGAF",
+        "X6": "GO:0000166,GO:0001071,GO:0003674,GO:0003700,GO:0003824,GO:0003973,GO:0005488,GO:0005575,GO:0005622,GO:0005623,GO:0005737,GO:0006355,GO:0008150,GO:0008152,GO:0009889,GO:0010468,GO:0010556,GO:0016491,GO:0016614,GO:0016899,GO:0019219,GO:0019222,GO:0031323,GO:0031326,GO:0034419,GO:0036094,GO:0043167,GO:0043168,GO:0044424,GO:0044464,GO:0044710,GO:0048037,GO:0050660,GO:0050662,GO:0050789,GO:0050794,GO:0051171,GO:0051252,GO:0055114,GO:0060255,GO:0065007,GO:0080090,GO:0097159,GO:1901265,GO:1901363,GO:2000112,GO:2001141",
+        "X7": "K00109,K00111,K00116,K03153,K15736",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01QQI@aproNOG,05D5U@bactNOG,16SND@proNOG,COG0579@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "C",
+        "X13": "fad dependent oxidoreductase"
+      }
     },
     {
       "seqnames": "MAG06_667",
@@ -46,7 +61,22 @@
       "sscore": "9.42",
       "rscore": "5.19",
       "uscore": "-0.63",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_677_20",
+        "X2": "1050720.Agau_L101566",
+        "X3": 2.6e-12,
+        "X4": 75.9,
+        "X5": null,
+        "X6": "GO:0005575,GO:0005623,GO:0005886,GO:0016020,GO:0044464,GO:0071944",
+        "X7": null,
+        "X8": null,
+        "X9": "NOG[107]",
+        "X10": "0XUDB@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "UPF0391 membrane protein"
+      }
     },
     {
       "seqnames": "MAG06_667",
@@ -70,7 +100,22 @@
       "sscore": "20.02",
       "rscore": "13.75",
       "uscore": "1.54",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_677_3",
+        "X2": "756067.MicvaDRAFT_0654",
+        "X3": 3.5e-98,
+        "X4": 363.6,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "05INT@bactNOG,COG2141@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "C",
+        "X13": "F420-dependent oxidoreductase, g6pdh family"
+      }
     },
     {
       "seqnames": "MAG06_667",
@@ -94,7 +139,22 @@
       "sscore": "3.22",
       "rscore": "0.00",
       "uscore": "0.00",
-      "tscore": "3.22"
+      "tscore": "3.22",
+      "eggnog": {
+        "X1": "MAG06_677_4",
+        "X2": "266779.Meso_3686",
+        "X3": 1.6e-151,
+        "X4": 541.6,
+        "X5": null,
+        "X6": null,
+        "X7": "K00690,K01187,K05341,K05343",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01R1M@aproNOG,05CG3@bactNOG,16Q9W@proNOG,COG0366@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "G",
+        "X13": "alpha amylase, catalytic region"
+      }
     }
   ],
   "seqname": "MAG06_667",

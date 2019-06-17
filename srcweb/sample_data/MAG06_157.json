@@ -22,7 +22,22 @@
       "sscore": "-3.24",
       "rscore": "-0.18",
       "uscore": "3.21",
-      "tscore": "-7.14"
+      "tscore": "-7.14",
+      "eggnog": {
+        "X1": "MAG06_275_1",
+        "X2": "266834.SMc00110",
+        "X3": 7.9e-241,
+        "X4": 837.8,
+        "X5": "GCD",
+        "X6": null,
+        "X7": "K00117",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01QRB@aproNOG,05DZG@bactNOG,16RK0@proNOG,COG4993@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "G",
+        "X13": "Dehydrogenase"
+      }
     },
     {
       "seqnames": "MAG06_157",
@@ -46,7 +61,22 @@
       "sscore": "3.89",
       "rscore": "-0.18",
       "uscore": "-1.13",
-      "tscore": "3.98"
+      "tscore": "3.98",
+      "eggnog": {
+        "X1": "MAG06_275_10",
+        "X2": "266834.SMc00106",
+        "X3": 3.9e-75,
+        "X4": 285.8,
+        "X5": null,
+        "X6": null,
+        "X7": "K01759",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01Y97@aproNOG,08VCY@bactNOG,179WW@proNOG,COG0346@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "E",
+        "X13": "glyoxalase bleomycin resistance protein dioxygenase"
+      }
     },
     {
       "seqnames": "MAG06_157",
@@ -70,7 +100,22 @@
       "sscore": "-3.10",
       "rscore": "-0.18",
       "uscore": "-6.25",
-      "tscore": "3.98"
+      "tscore": "3.98",
+      "eggnog": {
+        "X1": "MAG06_275_11",
+        "X2": "266834.SMc00042",
+        "X3": 7.5e-172,
+        "X4": 608.2,
+        "X5": "ILVE",
+        "X6": null,
+        "X7": "K00826",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01Q9C@aproNOG,05WKU@bactNOG,16R5J@proNOG,COG0115@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "E",
+        "X13": "Branched-chain amino acid aminotransferase"
+      }
     },
     {
       "seqnames": "MAG06_157",
@@ -94,7 +139,22 @@
       "sscore": "8.69",
       "rscore": "6.39",
       "uscore": "-1.69",
-      "tscore": "3.98"
+      "tscore": "3.98",
+      "eggnog": {
+        "X1": "MAG06_275_12",
+        "X2": "266834.SMc00105",
+        "X3": 5.9e-200,
+        "X4": 701.8,
+        "X5": null,
+        "X6": null,
+        "X7": "K00001,K13953",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01RVU@aproNOG,05DQ4@bactNOG,16Q0J@proNOG,COG1064@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "C",
+        "X13": "alcohol dehydrogenase"
+      }
     }
   ],
   "seqname": "MAG06_157",

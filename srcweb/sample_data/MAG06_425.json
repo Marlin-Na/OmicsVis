@@ -22,7 +22,22 @@
       "sscore": "15.61",
       "rscore": "10.54",
       "uscore": "0.16",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_490_7",
+        "X2": "311403.Arad_0408",
+        "X3": 3.2e-106,
+        "X4": 389.8,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01RFD@aproNOG,07A6K@bactNOG,16QR3@proNOG,COG5476@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "MlrC domain protein"
+      }
     },
     {
       "seqnames": "MAG06_425",
@@ -46,7 +61,22 @@
       "sscore": "16.79",
       "rscore": "13.75",
       "uscore": "0.05",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_491_1",
+        "X2": "266834.SMc03025",
+        "X3": 3.3e-212,
+        "X4": 742.7,
+        "X5": "FLII",
+        "X6": "GO:0005575,GO:0005622,GO:0005623,GO:0005737,GO:0006928,GO:0008150,GO:0009288,GO:0009987,GO:0043226,GO:0043228,GO:0043229,GO:0043232,GO:0044424,GO:0044464,GO:0044699,GO:0044763",
+        "X7": "K02412",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "02EF4@aproNOG,08JIR@bactNOG,173B7@proNOG,COG1157@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "N, U",
+        "X13": "Flagellum-specific ATP synthase"
+      }
     },
     {
       "seqnames": "MAG06_425",
@@ -70,7 +100,22 @@
       "sscore": "9.76",
       "rscore": "7.85",
       "uscore": "-1.73",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_491_10",
+        "X2": "366394.Smed_0262",
+        "X3": 7e-128,
+        "X4": 461.8,
+        "X5": "FLGH",
+        "X6": "GO:0005575,GO:0005622,GO:0005623,GO:0005886,GO:0006928,GO:0008150,GO:0009279,GO:0009288,GO:0009425,GO:0009987,GO:0016020,GO:0019867,GO:0030312,GO:0030313,GO:0031975,GO:0042995,GO:0043226,GO:0043228,GO:0043229,GO:0043232,GO:0044422,GO:0044424,GO:0044461,GO:0044462,GO:0044463,GO:0044464,GO:0044699,GO:0044763,GO:0071944",
+        "X7": "K02393",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01QG8@aproNOG,07W7W@bactNOG,16SK3@proNOG,COG2063@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "N",
+        "X13": "Assembles around the rod to form the L-ring and probably protects the motor basal body from shearing forces during rotation (By similarity)"
+      }
     }
   ],
   "seqname": "MAG06_425",

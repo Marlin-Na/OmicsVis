@@ -22,7 +22,22 @@
       "sscore": "18.69",
       "rscore": "13.75",
       "uscore": "-0.72",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_837_3",
+        "X2": "266834.SMc02305",
+        "X3": 4.4e-237,
+        "X4": 825.5,
+        "X5": "MURA",
+        "X6": "GO:0000270,GO:0003674,GO:0003824,GO:0005575,GO:0005622,GO:0005623,GO:0005737,GO:0006022,GO:0006023,GO:0006024,GO:0006807,GO:0008150,GO:0008152,GO:0008760,GO:0009058,GO:0009059,GO:0009252,GO:0009273,GO:0009987,GO:0016740,GO:0016765,GO:0030203,GO:0034645,GO:0042546,GO:0043170,GO:0044036,GO:0044038,GO:0044085,GO:0044237,GO:0044249,GO:0044260,GO:0044424,GO:0044464,GO:0044699,GO:0044710,GO:0044763,GO:0070589,GO:0071554,GO:0071704,GO:0071840,GO:1901135,GO:1901137,GO:1901564,GO:1901566,GO:1901576",
+        "X7": "K00790",
+        "X8": "UAGCVT",
+        "X9": "bactNOG[38]",
+        "X10": "01RAZ@aproNOG,05CDF@bactNOG,16PC4@proNOG,COG0766@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "M",
+        "X13": "Cell wall formation. Adds enolpyruvyl to UDP-N- acetylglucosamine (By similarity)"
+      }
     },
     {
       "seqnames": "MAG06_884",
@@ -46,7 +61,22 @@
       "sscore": "4.65",
       "rscore": "-0.37",
       "uscore": "0.17",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_837_4",
+        "X2": "266834.SMc02306",
+        "X3": 9e-76,
+        "X4": 288.1,
+        "X5": "OCAR_4729",
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01ZKM@aproNOG,05K5Z@bactNOG,11TQ7@NOG,17FCR@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "Protein of unknown function (DUF2948)"
+      }
     },
     {
       "seqnames": "MAG06_884",
@@ -70,7 +100,22 @@
       "sscore": "14.15",
       "rscore": "7.63",
       "uscore": "1.59",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_837_5",
+        "X2": "266834.SMc02307",
+        "X3": 7.5e-237,
+        "X4": 824.7,
+        "X5": "HISD",
+        "X6": "GO:0005575,GO:0005618,GO:0005623,GO:0008150,GO:0030312,GO:0040007,GO:0044464,GO:0071944",
+        "X7": "K00013,K15509",
+        "X8": "HISTD",
+        "X9": "bactNOG[38]",
+        "X10": "01QQ4@aproNOG,05CEK@bactNOG,16PHT@proNOG,COG0141@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "E",
+        "X13": "Catalyzes the sequential NAD-dependent oxidations of L- histidinol to L-histidinaldehyde and then to L-histidine (By similarity)"
+      }
     },
     {
       "seqnames": "MAG06_884",
@@ -94,7 +139,22 @@
       "sscore": "18.69",
       "rscore": "13.75",
       "uscore": "-1.10",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_837_6",
+        "X2": "266834.SMc02308",
+        "X3": 1e-48,
+        "X4": 197.6,
+        "X5": "OCAR_4731",
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01Y7Q@aproNOG,08ZTZ@bactNOG,17CYB@proNOG,COG5328@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "T",
+        "X13": "UPF0262 protein"
+      }
     },
     {
       "seqnames": "MAG06_884",
@@ -118,7 +178,22 @@
       "sscore": "9.58",
       "rscore": "5.19",
       "uscore": "1.40",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_837_7",
+        "X2": "394.NGR_c02250",
+        "X3": 1.5e-17,
+        "X4": 92.8,
+        "X5": "OCAR_4731",
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01Y7Q@aproNOG,08ZTZ@bactNOG,17CYB@proNOG,COG5328@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "T",
+        "X13": "UPF0262 protein"
+      }
     },
     {
       "seqnames": "MAG06_884",
@@ -142,7 +217,8 @@
       "sscore": "18.71",
       "rscore": "13.75",
       "uscore": "1.31",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {}
     },
     {
       "seqnames": "MAG06_884",
@@ -166,7 +242,22 @@
       "sscore": "9.49",
       "rscore": "7.63",
       "uscore": "-1.13",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_15_2",
+        "X2": "266834.SMc00988",
+        "X3": 2.7e-175,
+        "X4": 619.8,
+        "X5": "UBIA",
+        "X6": "GO:0002094,GO:0003674,GO:0003824,GO:0004659,GO:0005575,GO:0005623,GO:0005886,GO:0006732,GO:0006733,GO:0006743,GO:0006744,GO:0008150,GO:0008152,GO:0008412,GO:0009058,GO:0009108,GO:0009987,GO:0016020,GO:0016740,GO:0016765,GO:0042180,GO:0042181,GO:0042375,GO:0044237,GO:0044249,GO:0044281,GO:0044283,GO:0044464,GO:0044710,GO:0044711,GO:0045426,GO:0051186,GO:0051188,GO:0071704,GO:0071944,GO:1901576,GO:1901661,GO:1901663",
+        "X7": "K03179",
+        "X8": "HBZOPT",
+        "X9": "bactNOG[38]",
+        "X10": "01Q6D@aproNOG,05C4G@bactNOG,16PG1@proNOG,COG0382@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "H",
+        "X13": "Synthesis of 3-octaprenyl-4-hydroxybenzoate (By similarity)"
+      }
     },
     {
       "seqnames": "MAG06_884",
@@ -190,7 +281,22 @@
       "sscore": "5.53",
       "rscore": "10.54",
       "uscore": "0.51",
-      "tscore": "-4.87"
+      "tscore": "-4.87",
+      "eggnog": {
+        "X1": "MAG06_837_8",
+        "X2": "266834.SMc02309",
+        "X3": 3e-82,
+        "X4": 309.7,
+        "X5": "ARSC_1",
+        "X6": null,
+        "X7": "K01104,K03741",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01VY9@aproNOG,08R91@bactNOG,17D1P@proNOG,COG0394@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "T",
+        "X13": "protein tyrosine phosphatase"
+      }
     },
     {
       "seqnames": "MAG06_884",
@@ -214,7 +320,22 @@
       "sscore": "16.28",
       "rscore": "13.75",
       "uscore": "-1.11",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_837_9",
+        "X2": "266834.SMc02310",
+        "X3": 2e-33,
+        "X4": 146.4,
+        "X5": "INFA",
+        "X6": "GO:0005575,GO:0005622,GO:0005623,GO:0005737,GO:0044424,GO:0044464",
+        "X7": "K02518",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01ZMI@aproNOG,05K9U@bactNOG,17FET@proNOG,COG0361@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "J",
+        "X13": "however, it seems to stimulate more or less all the activities of the other two initiation factors, IF-2 and IF-3 (By similarity)"
+      }
     },
     {
       "seqnames": "MAG06_884",
@@ -238,7 +359,22 @@
       "sscore": "12.54",
       "rscore": "7.85",
       "uscore": "1.70",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_838_3",
+        "X2": "366394.Smed_1927",
+        "X3": 3.1e-75,
+        "X4": 286.2,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "024D9@aproNOG,07NF2@bactNOG,0ZSXC@NOG,18D8B@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": null,
+        "X13": null
+      }
     },
     {
       "seqnames": "MAG06_884",
@@ -262,7 +398,22 @@
       "sscore": "2.17",
       "rscore": "2.03",
       "uscore": "-3.50",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_838_4",
+        "X2": "366394.Smed_1928",
+        "X3": 1.8e-85,
+        "X4": 320.5,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01W6B@aproNOG,08RWY@bactNOG,177PZ@proNOG,COG4333@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "Protein of unknown function (DUF1643)"
+      }
     }
   ],
   "seqname": "MAG06_884",

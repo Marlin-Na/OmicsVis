@@ -22,7 +22,22 @@
       "sscore": "3.22",
       "rscore": "0.00",
       "uscore": "0.00",
-      "tscore": "3.22"
+      "tscore": "3.22",
+      "eggnog": {
+        "X1": "MAG06_758_1",
+        "X2": "266834.SMc04247",
+        "X3": 2.9e-108,
+        "X4": 396.4,
+        "X5": "XYNB",
+        "X6": null,
+        "X7": "K01198",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01T4K@aproNOG,05DSG@bactNOG,16RXD@proNOG,COG3507@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "G",
+        "X13": "ec 3.2.1.37"
+      }
     },
     {
       "seqnames": "MAG06_780",
@@ -46,7 +61,22 @@
       "sscore": "23.07",
       "rscore": "16.52",
       "uscore": "0.54",
-      "tscore": "4.85"
+      "tscore": "4.85",
+      "eggnog": {
+        "X1": "MAG06_758_2",
+        "X2": "266834.SMc04246",
+        "X3": 3.2e-63,
+        "X4": 246.1,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "0243G@aproNOG,06A18@bactNOG,17U9B@proNOG,COG5455@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "transmembrane signal peptide protein"
+      }
     },
     {
       "seqnames": "MAG06_780",
@@ -70,7 +100,8 @@
       "sscore": "-6.70",
       "rscore": "1.49",
       "uscore": "-1.81",
-      "tscore": "-7.39"
+      "tscore": "-7.39",
+      "eggnog": {}
     }
   ],
   "seqname": "MAG06_780",

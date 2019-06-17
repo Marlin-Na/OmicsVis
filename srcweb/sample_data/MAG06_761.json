@@ -22,7 +22,8 @@
       "sscore": "6.90",
       "rscore": "2.74",
       "uscore": "-0.25",
-      "tscore": "3.20"
+      "tscore": "3.20",
+      "eggnog": {}
     },
     {
       "seqnames": "MAG06_761",
@@ -46,7 +47,8 @@
       "sscore": "9.09",
       "rscore": "9.04",
       "uscore": "-2.49",
-      "tscore": "3.20"
+      "tscore": "3.20",
+      "eggnog": {}
     },
     {
       "seqnames": "MAG06_761",
@@ -70,7 +72,8 @@
       "sscore": "5.98",
       "rscore": "2.74",
       "uscore": "0.69",
-      "tscore": "3.20"
+      "tscore": "3.20",
+      "eggnog": {}
     },
     {
       "seqnames": "MAG06_761",
@@ -94,7 +97,8 @@
       "sscore": "13.80",
       "rscore": "11.01",
       "uscore": "-0.42",
-      "tscore": "3.20"
+      "tscore": "3.20",
+      "eggnog": {}
     }
   ],
   "seqname": "MAG06_761",

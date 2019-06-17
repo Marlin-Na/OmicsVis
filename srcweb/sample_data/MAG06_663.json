@@ -22,7 +22,8 @@
       "sscore": "17.84",
       "rscore": "13.75",
       "uscore": "0.44",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {}
     },
     {
       "seqnames": "MAG06_663",
@@ -46,7 +47,22 @@
       "sscore": "12.39",
       "rscore": "7.63",
       "uscore": "1.78",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_129_8",
+        "X2": "266834.SMc01200",
+        "X3": 2e-87,
+        "X4": 327,
+        "X5": null,
+        "X6": null,
+        "X7": "K19235,K19236",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01WH7@aproNOG,08S79@bactNOG,1799A@proNOG,COG1376@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "ErfK YbiS YcfS YnhG family protein"
+      }
     },
     {
       "seqnames": "MAG06_663",
@@ -70,7 +86,22 @@
       "sscore": "0.83",
       "rscore": "-4.72",
       "uscore": "1.90",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_13_1",
+        "X2": "331869.BAL199_29255",
+        "X3": 3e-111,
+        "X4": 406.8,
+        "X5": null,
+        "X6": null,
+        "X7": "K14083",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "0260Z@aproNOG,06EUB@bactNOG,17Z8F@proNOG,COG5598@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "H",
+        "X13": "trimethylamine methyltransferase"
+      }
     },
     {
       "seqnames": "MAG06_663",
@@ -94,7 +125,22 @@
       "sscore": "6.96",
       "rscore": "2.03",
       "uscore": "-0.48",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_13_2",
+        "X2": "391735.Veis_2917",
+        "X3": 5.9e-133,
+        "X4": 479.2,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "06PXD@bactNOG,17WM4@proNOG,COG4977@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "K",
+        "X13": "transcriptional regulator"
+      }
     },
     {
       "seqnames": "MAG06_663",
@@ -118,7 +164,8 @@
       "sscore": "6.97",
       "rscore": "2.03",
       "uscore": "-0.24",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {}
     },
     {
       "seqnames": "MAG06_663",
@@ -142,7 +189,22 @@
       "sscore": "11.26",
       "rscore": "7.63",
       "uscore": "-0.02",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_676_2",
+        "X2": "266834.SMc02522",
+        "X3": 4.3e-139,
+        "X4": 499.2,
+        "X5": null,
+        "X6": null,
+        "X7": "K00059",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01UWW@aproNOG,05CYX@bactNOG,0XNUN@NOG,16QVI@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": "I",
+        "X13": "Short-chain dehydrogenase reductase SDR"
+      }
     },
     {
       "seqnames": "MAG06_663",
@@ -166,7 +228,22 @@
       "sscore": "3.22",
       "rscore": "0.00",
       "uscore": "0.00",
-      "tscore": "3.22"
+      "tscore": "3.22",
+      "eggnog": {
+        "X1": "MAG06_676_3",
+        "X2": "266834.SMc02523",
+        "X3": 3.4e-164,
+        "X4": 582.8,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01RGC@aproNOG,08KB8@bactNOG,0XQ4R@NOG,16R8F@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": "K",
+        "X13": "transcriptional regulator, lysR family"
+      }
     }
   ],
   "seqname": "MAG06_663",

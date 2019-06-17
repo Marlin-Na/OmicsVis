@@ -22,7 +22,22 @@
       "sscore": "12.80",
       "rscore": "7.85",
       "uscore": "0.36",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_687_3",
+        "X2": "1050720.Agau_C101182",
+        "X3": 4.7e-134,
+        "X4": 482.6,
+        "X5": "YAGP",
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01U6U@aproNOG,05EQ2@bactNOG,0XRUN@NOG,16SRU@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": "K",
+        "X13": "LysR family transcriptional regulator"
+      }
     },
     {
       "seqnames": "MAG06_681",
@@ -46,7 +61,8 @@
       "sscore": "3.22",
       "rscore": "0.00",
       "uscore": "0.00",
-      "tscore": "3.22"
+      "tscore": "3.22",
+      "eggnog": {}
     }
   ],
   "seqname": "MAG06_681",

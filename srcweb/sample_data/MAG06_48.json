@@ -22,7 +22,22 @@
       "sscore": "-3.50",
       "rscore": "-4.72",
       "uscore": "-2.43",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_167_4",
+        "X2": "347834.RHE_CH01246",
+        "X3": 1.9e-25,
+        "X4": 120.6,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "024R6@aproNOG,0685H@bactNOG,0XVEI@NOG,17VMB@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "SPW repeat"
+      }
     },
     {
       "seqnames": "MAG06_48",
@@ -46,7 +61,22 @@
       "sscore": "12.82",
       "rscore": "10.54",
       "uscore": "-0.72",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_168_2",
+        "X2": "765698.Mesci_2802",
+        "X3": 6e-117,
+        "X4": 425.6,
+        "X5": "XTHA",
+        "X6": null,
+        "X7": "K01142",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01UP5@aproNOG,05CGK@bactNOG,16S8I@proNOG,COG0708@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "L",
+        "X13": "Exodeoxyribonuclease III"
+      }
     },
     {
       "seqnames": "MAG06_48",
@@ -70,7 +100,22 @@
       "sscore": "10.18",
       "rscore": "7.85",
       "uscore": "-2.12",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_168_3",
+        "X2": "765698.Mesci_2801",
+        "X3": 2.3e-85,
+        "X4": 320.5,
+        "X5": "SCLAV_4081",
+        "X6": "GO:0005575,GO:0005622,GO:0005623,GO:0005737,GO:0005829,GO:0044424,GO:0044444,GO:0044464",
+        "X7": "K07020",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01U23@aproNOG,05GHB@bactNOG,17CVI@proNOG,COG3571@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "Inherit from proNOG: ,hydrolase"
+      }
     },
     {
       "seqnames": "MAG06_48",
@@ -94,7 +139,22 @@
       "sscore": "7.30",
       "rscore": "5.06",
       "uscore": "0.49",
-      "tscore": "1.75"
+      "tscore": "1.75",
+      "eggnog": {
+        "X1": "MAG06_168_4",
+        "X2": "266835.mll2073",
+        "X3": 1.9e-124,
+        "X4": 451.1,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "026SX@aproNOG,088DK@bactNOG,17J6W@proNOG,COG0457@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "TPR"
+      }
     },
     {
       "seqnames": "MAG06_48",
@@ -118,7 +178,22 @@
       "sscore": "5.19",
       "rscore": "2.03",
       "uscore": "0.17",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_168_5",
+        "X2": "266835.mll2074",
+        "X3": 1.2e-134,
+        "X4": 484.6,
+        "X5": "OCAR_6719",
+        "X6": null,
+        "X7": "K10979",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01VX6@aproNOG,05FDF@bactNOG,16TUJ@proNOG,COG1273@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "L",
+        "X13": "Could be involved in DNA repair (By similarity)"
+      }
     },
     {
       "seqnames": "MAG06_48",
@@ -142,7 +217,22 @@
       "sscore": "13.42",
       "rscore": "7.63",
       "uscore": "2.15",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_168_6",
+        "X2": "266835.mll2077",
+        "X3": 3.7e-102,
+        "X4": 376.3,
+        "X5": "LIGD",
+        "X6": null,
+        "X7": "K01971",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "05DQE@bactNOG,16PTE@proNOG,COG1793@NOG,COG3285@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "L",
+        "X13": "DNA ligase"
+      }
     },
     {
       "seqnames": "MAG06_48",
@@ -166,7 +256,22 @@
       "sscore": "10.88",
       "rscore": "7.63",
       "uscore": "0.27",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_169_1",
+        "X2": "266834.SMc02344",
+        "X3": 1.1e-173,
+        "X4": 614.4,
+        "X5": null,
+        "X6": null,
+        "X7": "K02051,K15553",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01RYY@aproNOG,08KK0@bactNOG,17411@proNOG,COG0715@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "P",
+        "X13": "Sulfate ester transport system substrate-binding protein"
+      }
     },
     {
       "seqnames": "MAG06_48",
@@ -190,7 +295,22 @@
       "sscore": "18.38",
       "rscore": "13.75",
       "uscore": "0.09",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_169_2",
+        "X2": "266834.SMc02343",
+        "X3": 8.8e-255,
+        "X4": 884.4,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01T70@aproNOG,05C0R@bactNOG,0XNN3@NOG,16Q5H@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": "G",
+        "X13": "Major facilitator superfamily MFS_1"
+      }
     },
     {
       "seqnames": "MAG06_48",
@@ -214,7 +334,22 @@
       "sscore": "17.64",
       "rscore": "10.54",
       "uscore": "2.37",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_169_3",
+        "X2": "266834.SMc02342",
+        "X3": 0,
+        "X4": 1339.7,
+        "X5": "TKTA",
+        "X6": "GO:0003674,GO:0003824,GO:0004802,GO:0005488,GO:0005975,GO:0005996,GO:0006006,GO:0006007,GO:0006091,GO:0006098,GO:0006139,GO:0006725,GO:0006732,GO:0006733,GO:0006739,GO:0006740,GO:0006753,GO:0006793,GO:0006796,GO:0006807,GO:0008150,GO:0008152,GO:0009052,GO:0009056,GO:0009117,GO:0009987,GO:0016052,GO:0016740,GO:0016744,GO:0019318,GO:0019320,GO:0019321,GO:0019362,GO:0019637,GO:0019842,GO:0030145,GO:0030976,GO:0034641,GO:0036094,GO:0043167,GO:0043168,GO:0043169,GO:0044237,GO:0044238,GO:0044281,GO:0044710,GO:0044723,GO:0044724,GO:0046365,GO:0046483,GO:0046496,GO:0046872,GO:0046914,GO:0048037,GO:0050662,GO:0051186,GO:0055086,GO:0055114,GO:0071704,GO:0072524,GO:0097159,GO:1901360,GO:1901363,GO:1901564,GO:1901575,GO:1901681",
+        "X7": "K00615",
+        "X8": "TKT1,TKT2",
+        "X9": "bactNOG[38]",
+        "X10": "01S5E@aproNOG,05CV1@bactNOG,16PHV@proNOG,COG0021@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "G",
+        "X13": "transketolase (EC 2.2.1.1)"
+      }
     },
     {
       "seqnames": "MAG06_48",
@@ -238,7 +373,22 @@
       "sscore": "13.50",
       "rscore": "7.85",
       "uscore": "0.74",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_169_4",
+        "X2": "266834.SMc02341",
+        "X3": 2.2e-274,
+        "X4": 949.5,
+        "X5": null,
+        "X6": null,
+        "X7": "K00854",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "05CMG@bactNOG,17YZN@proNOG,COG1070@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "G",
+        "X13": "Carbohydrate kinase"
+      }
     },
     {
       "seqnames": "MAG06_48",
@@ -262,7 +412,22 @@
       "sscore": "-0.69",
       "rscore": "7.63",
       "uscore": "0.88",
-      "tscore": "-10.14"
+      "tscore": "-10.14",
+      "eggnog": {
+        "X1": "MAG06_169_5",
+        "X2": "266834.SMc02340",
+        "X3": 5.7e-133,
+        "X4": 478.8,
+        "X5": "PHNF",
+        "X6": null,
+        "X7": "K02043,K03710",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01VZK@aproNOG,07RJJ@bactNOG,16PU9@proNOG,COG2188@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "K",
+        "X13": "Transcriptional regulator"
+      }
     },
     {
       "seqnames": "MAG06_48",
@@ -286,7 +451,22 @@
       "sscore": "12.79",
       "rscore": "7.85",
       "uscore": "-0.37",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_169_6",
+        "X2": "266834.SMc02339",
+        "X3": 1.2e-139,
+        "X4": 501.1,
+        "X5": null,
+        "X6": null,
+        "X7": "K00046",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01RSZ@aproNOG,05CHR@bactNOG,0XNW1@NOG,176BU@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "Short-chain dehydrogenase reductase SDR"
+      }
     }
   ],
   "seqname": "MAG06_48",

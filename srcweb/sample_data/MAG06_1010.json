@@ -22,7 +22,22 @@
       "sscore": "3.15",
       "rscore": "2.03",
       "uscore": "-2.52",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_932_4",
+        "X2": "266834.SMc00356",
+        "X3": 4.4e-150,
+        "X4": 535.8,
+        "X5": "GENX",
+        "X6": null,
+        "X7": "K04568",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "02EI4@aproNOG,08JTT@bactNOG,173GY@proNOG,COG2269@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "J",
+        "X13": "lysyL-tRNA synthetase"
+      }
     }
   ],
   "seqname": "MAG06_1010",

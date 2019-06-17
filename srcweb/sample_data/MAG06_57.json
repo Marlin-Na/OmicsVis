@@ -22,7 +22,22 @@
       "sscore": "7.09",
       "rscore": "-0.18",
       "uscore": "3.29",
-      "tscore": "3.98"
+      "tscore": "3.98",
+      "eggnog": {
+        "X1": "MAG06_1005_4",
+        "X2": "266834.SMc02878",
+        "X3": 2.2e-216,
+        "X4": 756.5,
+        "X5": "NAGA",
+        "X6": "GO:0003674,GO:0003824,GO:0006040,GO:0008150,GO:0008152,GO:0008448,GO:0016787,GO:0016810,GO:0016811,GO:0019213,GO:0071704,GO:1901135",
+        "X7": "K01443",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01R3I@aproNOG,05CE4@bactNOG,16PWA@proNOG,COG1820@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "G",
+        "X13": "GlcNAc 6-P deacetylase"
+      }
     }
   ],
   "seqname": "MAG06_57",

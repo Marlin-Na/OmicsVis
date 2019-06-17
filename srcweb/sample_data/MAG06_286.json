@@ -22,7 +22,22 @@
       "sscore": "2.99",
       "rscore": "2.03",
       "uscore": "-3.46",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_388_4",
+        "X2": "266834.SMc02702",
+        "X3": 1.6e-126,
+        "X4": 457.2,
+        "X5": "OCAR_7007",
+        "X6": null,
+        "X7": "K09986",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01Y5J@aproNOG,05FCR@bactNOG,16T34@proNOG,COG3816@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "Protein of unknown function (DUF1285)"
+      }
     },
     {
       "seqnames": "MAG06_286",
@@ -46,7 +61,22 @@
       "sscore": "-6.21",
       "rscore": "2.03",
       "uscore": "0.64",
-      "tscore": "-10.14"
+      "tscore": "-10.14",
+      "eggnog": {
+        "X1": "MAG06_388_5",
+        "X2": "266834.SMc02703",
+        "X3": 4.1e-182,
+        "X4": 642.5,
+        "X5": "MOXR",
+        "X6": "GO:0003674,GO:0003824,GO:0008150,GO:0008152",
+        "X7": "K03924",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01QHX@aproNOG,05C7R@bactNOG,16PJX@proNOG,COG0714@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "ATPase associated with various cellular activities, AAA_3"
+      }
     },
     {
       "seqnames": "MAG06_286",
@@ -70,7 +100,22 @@
       "sscore": "-1.55",
       "rscore": "2.03",
       "uscore": "1.94",
-      "tscore": "-4.87"
+      "tscore": "-4.87",
+      "eggnog": {
+        "X1": "MAG06_388_6",
+        "X2": "266834.SMc02704",
+        "X3": 1.1e-173,
+        "X4": 614.4,
+        "X5": "OCAR_7009",
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01QNF@aproNOG,07TKR@bactNOG,173K9@proNOG,COG1721@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "Protein of unknown function DUF58"
+      }
     },
     {
       "seqnames": "MAG06_286",
@@ -94,7 +139,8 @@
       "sscore": "5.98",
       "rscore": "2.03",
       "uscore": "0.31",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {}
     },
     {
       "seqnames": "MAG06_286",
@@ -118,7 +164,22 @@
       "sscore": "11.30",
       "rscore": "5.51",
       "uscore": "0.88",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_388_7",
+        "X2": "266834.SMc02705",
+        "X3": 0,
+        "X4": 1822,
+        "X5": "OCAR_7010",
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01QXB@aproNOG,05ECN@bactNOG,0XQC8@NOG,16RFU@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "N-terminal double-transmembrane domain protein"
+      }
     },
     {
       "seqnames": "MAG06_286",
@@ -142,7 +203,22 @@
       "sscore": "4.22",
       "rscore": "-0.37",
       "uscore": "0.27",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_388_8",
+        "X2": "266834.SMc02706",
+        "X3": 0,
+        "X4": 1354.3,
+        "X5": "OCAR_7011",
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01QFB@aproNOG,05D12@bactNOG,0XPEB@NOG,16QHX@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "Protein of unknown function (DUF1355)"
+      }
     },
     {
       "seqnames": "MAG06_286",
@@ -166,7 +242,22 @@
       "sscore": "5.78",
       "rscore": "2.03",
       "uscore": "0.11",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_388_9",
+        "X2": "266834.SMc02707",
+        "X3": 2.6e-98,
+        "X4": 363.2,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01WXT@aproNOG,090CY@bactNOG,17AAH@proNOG,COG3153@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "Gcn5-related n-acetyltransferase"
+      }
     }
   ],
   "seqname": "MAG06_286",

@@ -22,7 +22,8 @@
       "sscore": "15.02",
       "rscore": "13.75",
       "uscore": "-2.38",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {}
     },
     {
       "seqnames": "MAG06_274",
@@ -46,7 +47,22 @@
       "sscore": "8.91",
       "rscore": "5.51",
       "uscore": "-0.24",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_380_4",
+        "X2": "1117943.SFHH103_03726",
+        "X3": 7e-254,
+        "X4": 881.7,
+        "X5": "YJDB",
+        "X6": null,
+        "X7": "K03760,K19353",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01TXH@aproNOG,05DIJ@bactNOG,16S5B@proNOG,COG2194@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "Phosphoethanolamine transferase"
+      }
     },
     {
       "seqnames": "MAG06_274",
@@ -70,7 +86,8 @@
       "sscore": "3.22",
       "rscore": "0.00",
       "uscore": "0.00",
-      "tscore": "3.22"
+      "tscore": "3.22",
+      "eggnog": {}
     }
   ],
   "seqname": "MAG06_274",

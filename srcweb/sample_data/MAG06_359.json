@@ -22,7 +22,22 @@
       "sscore": "3.43",
       "rscore": "-3.31",
       "uscore": "0.95",
-      "tscore": "4.54"
+      "tscore": "4.54",
+      "eggnog": {
+        "X1": "MAG06_442_10",
+        "X2": "266834.SMc02561",
+        "X3": 1.5e-95,
+        "X4": 354,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01YPN@aproNOG,05HHY@bactNOG,179P6@proNOG,COG5350@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "Tyrosine phosphatase protein"
+      }
     },
     {
       "seqnames": "MAG06_359",
@@ -46,7 +61,22 @@
       "sscore": "3.22",
       "rscore": "0.00",
       "uscore": "0.00",
-      "tscore": "3.22"
+      "tscore": "3.22",
+      "eggnog": {
+        "X1": "MAG06_442_11",
+        "X2": "266834.SMc02565",
+        "X3": 2.9e-185,
+        "X4": 652.9,
+        "X5": "OCAR_6936",
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01QMM@aproNOG,07QMI@bactNOG,16TJK@proNOG,COG4111@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "Inherit from proNOG: cytoplasmic membrane protein"
+      }
     }
   ],
   "seqname": "MAG06_359",

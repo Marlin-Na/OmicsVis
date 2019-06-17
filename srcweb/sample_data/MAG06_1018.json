@@ -22,7 +22,22 @@
       "sscore": "3.00",
       "rscore": "2.03",
       "uscore": "-2.02",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_939_2",
+        "X2": "266834.SMc02784",
+        "X3": 6.4e-100,
+        "X4": 368.6,
+        "X5": "ERUM2980",
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "021Q4@aproNOG,07WMI@bactNOG,16V17@proNOG,COG2840@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "Smr protein MutS2"
+      }
     },
     {
       "seqnames": "MAG06_1018",
@@ -46,7 +61,22 @@
       "sscore": "14.32",
       "rscore": "10.54",
       "uscore": "0.13",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_939_3",
+        "X2": "266834.SMc02783",
+        "X3": 6.9e-11,
+        "X4": 70.5,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01ZZE@aproNOG,05KQF@bactNOG,17G3E@proNOG,COG1396@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "K",
+        "X13": "transcriptional regulator"
+      }
     },
     {
       "seqnames": "MAG06_1018",
@@ -70,7 +100,22 @@
       "sscore": "16.49",
       "rscore": "13.75",
       "uscore": "-0.90",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_94_1",
+        "X2": "266834.SMc02473",
+        "X3": 9.1e-102,
+        "X4": 374.8,
+        "X5": null,
+        "X6": "GO:0005575,GO:0016020",
+        "X7": "K10119",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01V0T@aproNOG,05E4W@bactNOG,0XQNW@NOG,176A4@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": "G",
+        "X13": "ABC transporter (Permease)"
+      }
     },
     {
       "seqnames": "MAG06_1018",
@@ -94,7 +139,22 @@
       "sscore": "6.51",
       "rscore": "13.75",
       "uscore": "1.60",
-      "tscore": "-10.14"
+      "tscore": "-10.14",
+      "eggnog": {
+        "X1": "MAG06_94_10",
+        "X2": "266834.SMc02464",
+        "X3": 2.7e-62,
+        "X4": 243,
+        "X5": "SDHD",
+        "X6": null,
+        "X7": "K00242",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "0203N@aproNOG,05RJ5@bactNOG,17HI1@proNOG,COG2142@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "C",
+        "X13": "Succinate dehydrogenase hydrophobic membrane anchor"
+      }
     },
     {
       "seqnames": "MAG06_1018",
@@ -118,7 +178,22 @@
       "sscore": "-0.75",
       "rscore": "-4.72",
       "uscore": "-0.85",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_94_11",
+        "X2": "266834.SMc02463",
+        "X3": 2.4e-69,
+        "X4": 266.5,
+        "X5": "SDHC",
+        "X6": "GO:0005575,GO:0005623,GO:0005886,GO:0016020,GO:0044464,GO:0071944",
+        "X7": "K00241",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01Z23@aproNOG,0612Q@bactNOG,17K2X@proNOG,COG2009@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "C",
+        "X13": "Succinate dehydrogenase cytochrome b556 subunit"
+      }
     },
     {
       "seqnames": "MAG06_1018",
@@ -142,7 +217,22 @@
       "sscore": "3.22",
       "rscore": "0.00",
       "uscore": "0.00",
-      "tscore": "3.22"
+      "tscore": "3.22",
+      "eggnog": {
+        "X1": "MAG06_94_12",
+        "X2": "266834.SMc03225",
+        "X3": 5.9e-115,
+        "X4": 418.7,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "029Q5@aproNOG,07CBS@bactNOG,0Z1Q7@NOG,187ZU@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": null,
+        "X13": null
+      }
     }
   ],
   "seqname": "MAG06_1018",

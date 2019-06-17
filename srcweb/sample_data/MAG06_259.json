@@ -22,7 +22,22 @@
       "sscore": "4.94",
       "rscore": "-0.37",
       "uscore": "-0.94",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_361_2",
+        "X2": "266834.SMc04225",
+        "X3": 9.7e-223,
+        "X4": 777.7,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01W2R@aproNOG,08WUK@bactNOG,174BC@proNOG,COG3921@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "Extensin family"
+      }
     },
     {
       "seqnames": "MAG06_259",
@@ -46,7 +61,8 @@
       "sscore": "0.52",
       "rscore": "-4.72",
       "uscore": "0.36",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {}
     },
     {
       "seqnames": "MAG06_259",
@@ -70,7 +86,22 @@
       "sscore": "5.06",
       "rscore": "-0.37",
       "uscore": "1.78",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_362_1",
+        "X2": "491916.RHECIAT_CH0003670",
+        "X3": 2.2e-124,
+        "X4": 450.7,
+        "X5": "DCTB",
+        "X6": "GO:0000155,GO:0000160,GO:0003674,GO:0003824,GO:0004672,GO:0004673,GO:0004871,GO:0004872,GO:0006464,GO:0006468,GO:0006793,GO:0006796,GO:0006810,GO:0006811,GO:0006820,GO:0006835,GO:0007154,GO:0007165,GO:0008150,GO:0008152,GO:0009987,GO:0015711,GO:0015740,GO:0015849,GO:0016301,GO:0016310,GO:0016740,GO:0016772,GO:0016773,GO:0016775,GO:0019538,GO:0023014,GO:0023052,GO:0036211,GO:0038023,GO:0043170,GO:0043412,GO:0044237,GO:0044238,GO:0044260,GO:0044267,GO:0044699,GO:0044700,GO:0044763,GO:0044765,GO:0046942,GO:0050789,GO:0050794,GO:0050896,GO:0051179,GO:0051234,GO:0051716,GO:0060089,GO:0065007,GO:0071702,GO:0071704",
+        "X7": "K10125,K14986",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01QWX@aproNOG,05CQZ@bactNOG,16Q6G@proNOG,COG4191@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "T",
+        "X13": "c4-dicarboxylate transport sensor protein"
+      }
     },
     {
       "seqnames": "MAG06_259",
@@ -94,7 +125,22 @@
       "sscore": "-1.48",
       "rscore": "-3.78",
       "uscore": "2.10",
-      "tscore": "-4.87"
+      "tscore": "-4.87",
+      "eggnog": {
+        "X1": "MAG06_362_2",
+        "X2": "347834.RHE_CH03433",
+        "X3": 3.2e-195,
+        "X4": 686.4,
+        "X5": "DCTD",
+        "X6": "GO:0000156,GO:0000160,GO:0001071,GO:0003674,GO:0003700,GO:0004871,GO:0006355,GO:0006810,GO:0006811,GO:0006820,GO:0006835,GO:0007154,GO:0007165,GO:0008150,GO:0009889,GO:0009987,GO:0010468,GO:0010556,GO:0015711,GO:0015740,GO:0015849,GO:0019219,GO:0019222,GO:0023052,GO:0031323,GO:0031326,GO:0035556,GO:0044699,GO:0044700,GO:0044763,GO:0044765,GO:0046942,GO:0050789,GO:0050794,GO:0050896,GO:0051171,GO:0051179,GO:0051234,GO:0051252,GO:0051716,GO:0060089,GO:0060255,GO:0065007,GO:0071702,GO:0080090,GO:2000112,GO:2001141",
+        "X7": "K10126",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01QUP@aproNOG,05C1W@bactNOG,16PNY@proNOG,COG2204@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "T",
+        "X13": "two component, sigma54 specific, transcriptional regulator, Fis family"
+      }
     },
     {
       "seqnames": "MAG06_259",
@@ -118,7 +164,22 @@
       "sscore": "12.24",
       "rscore": "7.63",
       "uscore": "1.63",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_363_1",
+        "X2": "266834.SMc01883",
+        "X3": 7.8e-44,
+        "X4": 181.4,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "023TZ@aproNOG,06A9W@bactNOG,17TKB@proNOG,COG4541@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "E",
+        "X13": "Branched-chain amino acid transport protein (AzlD)"
+      }
     },
     {
       "seqnames": "MAG06_259",
@@ -142,7 +203,22 @@
       "sscore": "8.57",
       "rscore": "8.09",
       "uscore": "-1.66",
-      "tscore": "2.14"
+      "tscore": "2.14",
+      "eggnog": {
+        "X1": "MAG06_363_2",
+        "X2": "266834.SMc01884",
+        "X3": 1.7e-33,
+        "X4": 146.7,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "0249V@aproNOG,06C5C@bactNOG,0XUNZ@NOG,17RGF@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "signal peptide protein"
+      }
     },
     {
       "seqnames": "MAG06_259",
@@ -166,7 +242,22 @@
       "sscore": "6.05",
       "rscore": "-4.72",
       "uscore": "1.11",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_363_3",
+        "X2": "266834.SMc01885",
+        "X3": 0,
+        "X4": 1221.1,
+        "X5": "PEPP",
+        "X6": "GO:0006508,GO:0008150,GO:0008152,GO:0019538,GO:0043170,GO:0044238,GO:0071704",
+        "X7": "K01262,K01271",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01QRW@aproNOG,07QW9@bactNOG,16UIH@proNOG,COG0006@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "E",
+        "X13": "aminopeptidase"
+      }
     },
     {
       "seqnames": "MAG06_259",
@@ -190,7 +281,22 @@
       "sscore": "5.76",
       "rscore": "2.03",
       "uscore": "0.09",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_363_5",
+        "X2": "266834.SMc01472",
+        "X3": 1.5e-159,
+        "X4": 567.4,
+        "X5": "PRMA",
+        "X6": "GO:0005575,GO:0005622,GO:0005623,GO:0005737,GO:0044424,GO:0044464",
+        "X7": "K02687",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01R0M@aproNOG,05F59@bactNOG,16TP2@proNOG,COG2264@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "J",
+        "X13": "Methylates ribosomal protein L11 (By similarity)"
+      }
     },
     {
       "seqnames": "MAG06_259",
@@ -214,7 +320,22 @@
       "sscore": "-3.28",
       "rscore": "-4.72",
       "uscore": "-1.55",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_363_6",
+        "X2": "266834.SMc01471",
+        "X3": 2.6e-112,
+        "X4": 409.8,
+        "X5": "SENC",
+        "X6": "GO:0005575,GO:0005623,GO:0009279,GO:0016020,GO:0019867,GO:0030312,GO:0030313,GO:0031975,GO:0044462,GO:0044464,GO:0071944",
+        "X7": "K07152",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01YGD@aproNOG,08ZX6@bactNOG,17CF5@proNOG,COG1999@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "Electron transport protein SCO1 SenC"
+      }
     }
   ],
   "seqname": "MAG06_259",

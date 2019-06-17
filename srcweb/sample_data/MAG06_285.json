@@ -22,7 +22,22 @@
       "sscore": "10.83",
       "rscore": "7.63",
       "uscore": "-0.44",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_387_9",
+        "X2": "266834.SMc01573",
+        "X3": 2.1e-58,
+        "X4": 229.9,
+        "X5": null,
+        "X6": null,
+        "X7": "K17218",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01RHF@aproNOG,05WA2@bactNOG,17NVN@proNOG,COG3453@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "Putative phosphatase (DUF442)"
+      }
     },
     {
       "seqnames": "MAG06_285",
@@ -46,7 +61,22 @@
       "sscore": "6.82",
       "rscore": "-4.72",
       "uscore": "1.88",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_388_1",
+        "X2": "266834.SMc02699",
+        "X3": 6.2e-28,
+        "X4": 127.9,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "02957@aproNOG,06YAF@bactNOG,1858D@proNOG,COG5466@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "Protein of unknown function (DUF1059)"
+      }
     },
     {
       "seqnames": "MAG06_285",
@@ -70,7 +100,22 @@
       "sscore": "1.84",
       "rscore": "-3.78",
       "uscore": "0.89",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_388_10",
+        "X2": "266834.SMc02708",
+        "X3": 1.9e-195,
+        "X4": 686.8,
+        "X5": "YQJG",
+        "X6": null,
+        "X7": "K07393",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01R8E@aproNOG,05CHF@bactNOG,16PXZ@proNOG,COG0435@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "O",
+        "X13": "Glutathione S-transferase"
+      }
     },
     {
       "seqnames": "MAG06_285",
@@ -94,7 +139,22 @@
       "sscore": "-0.25",
       "rscore": "-4.72",
       "uscore": "1.47",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_388_12",
+        "X2": "266834.SMc02710",
+        "X3": 7e-173,
+        "X4": 611.7,
+        "X5": "FIC",
+        "X6": "GO:0003674,GO:0003824,GO:0005575,GO:0005576,GO:0006464,GO:0008150,GO:0008152,GO:0009987,GO:0016740,GO:0016772,GO:0016779,GO:0018117,GO:0018175,GO:0019538,GO:0036211,GO:0043170,GO:0043412,GO:0044237,GO:0044238,GO:0044260,GO:0044267,GO:0070566,GO:0070733,GO:0071704",
+        "X7": "K04095",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "023BK@aproNOG,05MZU@bactNOG,1750M@proNOG,COG2184@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "D",
+        "X13": "cell filamentation protein"
+      }
     },
     {
       "seqnames": "MAG06_285",
@@ -118,7 +178,22 @@
       "sscore": "12.62",
       "rscore": "7.85",
       "uscore": "1.12",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_388_13",
+        "X2": "266834.SMc02711",
+        "X3": 5.6e-92,
+        "X4": 342,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01ZNT@aproNOG,05KFR@bactNOG,17FMT@proNOG,COG0494@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "L",
+        "X13": "nudix hydrolase"
+      }
     },
     {
       "seqnames": "MAG06_285",
@@ -142,7 +217,22 @@
       "sscore": "4.80",
       "rscore": "-1.48",
       "uscore": "1.45",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_388_14",
+        "X2": "266834.SMc02712",
+        "X3": 1.5e-41,
+        "X4": 173.7,
+        "X5": "OCAR_7019",
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01T5G@aproNOG,08KRQ@bactNOG,16VNS@proNOG,COG1409@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "Metallophosphoesterase"
+      }
     },
     {
       "seqnames": "MAG06_285",
@@ -166,7 +256,22 @@
       "sscore": "2.50",
       "rscore": "-1.17",
       "uscore": "0.61",
-      "tscore": "2.14"
+      "tscore": "2.14",
+      "eggnog": {
+        "X1": "MAG06_388_2",
+        "X2": "266834.SMc02700",
+        "X3": 8.3e-233,
+        "X4": 811.2,
+        "X5": "PCNB",
+        "X6": "GO:0003674,GO:0003676,GO:0003723,GO:0003824,GO:0004652,GO:0005488,GO:0005575,GO:0005622,GO:0005623,GO:0005737,GO:0006139,GO:0006276,GO:0006378,GO:0006396,GO:0006397,GO:0006725,GO:0006807,GO:0008150,GO:0008152,GO:0009451,GO:0009987,GO:0010467,GO:0016070,GO:0016071,GO:0016740,GO:0016772,GO:0016779,GO:0031123,GO:0031124,GO:0034641,GO:0043170,GO:0043412,GO:0043631,GO:0044237,GO:0044238,GO:0044260,GO:0044424,GO:0044464,GO:0044699,GO:0044763,GO:0046483,GO:0070566,GO:0071704,GO:0090304,GO:0097159,GO:1901360,GO:1901363",
+        "X7": "K00970,K00974",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01QWH@aproNOG,05DJ0@bactNOG,16R4D@proNOG,COG0617@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "J",
+        "X13": "polyA polymerase"
+      }
     },
     {
       "seqnames": "MAG06_285",
@@ -190,7 +295,22 @@
       "sscore": "15.47",
       "rscore": "12.21",
       "uscore": "0.02",
-      "tscore": "3.24"
+      "tscore": "3.24",
+      "eggnog": {
+        "X1": "MAG06_388_3",
+        "X2": "266834.SMc02701",
+        "X3": 5.3e-119,
+        "X4": 432.2,
+        "X5": "NUDL",
+        "X6": "GO:0003674,GO:0003824,GO:0006139,GO:0006259,GO:0006281,GO:0006725,GO:0006807,GO:0006950,GO:0006974,GO:0008150,GO:0008152,GO:0009987,GO:0016787,GO:0016817,GO:0016818,GO:0033554,GO:0034641,GO:0043170,GO:0044237,GO:0044238,GO:0044260,GO:0044699,GO:0044763,GO:0046483,GO:0050896,GO:0051716,GO:0071704,GO:0090304,GO:1901360",
+        "X7": "K18568",
+        "X8": "ACPS",
+        "X9": "bactNOG[38]",
+        "X10": "01WFP@aproNOG,05P8F@bactNOG,17DFN@proNOG,COG0494@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "L",
+        "X13": "Nudix hydrolase"
+      }
     }
   ],
   "seqname": "MAG06_285",

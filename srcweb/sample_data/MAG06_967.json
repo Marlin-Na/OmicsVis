@@ -22,7 +22,22 @@
       "sscore": "3.22",
       "rscore": "0.00",
       "uscore": "0.00",
-      "tscore": "3.22"
+      "tscore": "3.22",
+      "eggnog": {
+        "X1": "MAG06_904_7",
+        "X2": "266834.SMc00431",
+        "X3": 1.1e-77,
+        "X4": 294.3,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01YSJ@aproNOG,05TCR@bactNOG,17H09@proNOG,COG3791@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "Glutathione-dependent formaldehyde-activating"
+      }
     },
     {
       "seqnames": "MAG06_967",
@@ -46,7 +61,22 @@
       "sscore": "1.26",
       "rscore": "-4.72",
       "uscore": "1.38",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_904_8",
+        "X2": "266834.SMc00432",
+        "X3": 2.6e-155,
+        "X4": 553.1,
+        "X5": "IOLB",
+        "X6": null,
+        "X7": "K03337",
+        "X8": "D5KGK,DKDID,INSCR",
+        "X9": "bactNOG[38]",
+        "X10": "01QMF@aproNOG,05DH8@bactNOG,16R2F@proNOG,COG3718@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "G",
+        "X13": "myoinositol catabolism"
+      }
     },
     {
       "seqnames": "MAG06_967",
@@ -70,7 +100,22 @@
       "sscore": "0.42",
       "rscore": "7.85",
       "uscore": "1.45",
-      "tscore": "-10.14"
+      "tscore": "-10.14",
+      "eggnog": {
+        "X1": "MAG06_904_9",
+        "X2": "266834.SMc00433",
+        "X3": 1.8e-139,
+        "X4": 500.4,
+        "X5": "IOLE",
+        "X6": "GO:0003674,GO:0003824,GO:0005975,GO:0006020,GO:0006021,GO:0006066,GO:0008150,GO:0008152,GO:0009056,GO:0009058,GO:0009987,GO:0016051,GO:0016052,GO:0016829,GO:0016835,GO:0016836,GO:0019310,GO:0019751,GO:0034637,GO:0044237,GO:0044238,GO:0044249,GO:0044262,GO:0044275,GO:0044281,GO:0044282,GO:0044283,GO:0044710,GO:0044711,GO:0044712,GO:0044723,GO:0044724,GO:0046164,GO:0046165,GO:0046173,GO:0046174,GO:0050114,GO:0071704,GO:1901575,GO:1901576,GO:1901615,GO:1901616,GO:1901617",
+        "X7": "K03335",
+        "X8": "2INSD,INSCR",
+        "X9": "bactNOG[38]",
+        "X10": "01TV3@aproNOG,05CJK@bactNOG,16REV@proNOG,COG1082@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "G",
+        "X13": "catabolism protein"
+      }
     },
     {
       "seqnames": "MAG06_967",
@@ -94,7 +139,22 @@
       "sscore": "18.11",
       "rscore": "13.75",
       "uscore": "0.71",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_905_1",
+        "X2": "266834.SMc01852",
+        "X3": 5.4e-119,
+        "X4": 432.2,
+        "X5": "PFK",
+        "X6": "GO:0005575,GO:0005622,GO:0005623,GO:0005737,GO:0044424,GO:0044464",
+        "X7": "K00850,K00895",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01VC5@aproNOG,07R15@bactNOG,16UVX@proNOG,COG0205@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "G",
+        "X13": "pyrophosphate-fructose-6-phosphate 1-phosphotransferase"
+      }
     },
     {
       "seqnames": "MAG06_967",
@@ -118,7 +178,22 @@
       "sscore": "3.22",
       "rscore": "0.00",
       "uscore": "0.00",
-      "tscore": "3.22"
+      "tscore": "3.22",
+      "eggnog": {
+        "X1": "MAG06_905_2",
+        "X2": "266834.SMc01851",
+        "X3": 1.6e-107,
+        "X4": 394,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01WJ8@aproNOG,0829K@bactNOG,16T1K@proNOG,COG1280@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "E",
+        "X13": "Efflux protein"
+      }
     }
   ],
   "seqname": "MAG06_967",

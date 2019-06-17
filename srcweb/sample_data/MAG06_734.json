@@ -22,7 +22,22 @@
       "sscore": "14.45",
       "rscore": "11.88",
       "uscore": "0.08",
-      "tscore": "3.15"
+      "tscore": "3.15",
+      "eggnog": {
+        "X1": "MAG06_724_3",
+        "X2": "266834.SMc01522",
+        "X3": 1.5e-96,
+        "X4": 357.5,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "021AH@aproNOG,05J28@bactNOG,11VXK@NOG,17GID@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": "K",
+        "X13": "TETR family transcriptional regulator"
+      }
     },
     {
       "seqnames": "MAG06_734",
@@ -46,7 +61,22 @@
       "sscore": "4.94",
       "rscore": "2.03",
       "uscore": "-0.73",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_724_4",
+        "X2": "266834.SMc03949",
+        "X3": 1.8e-44,
+        "X4": 183.3,
+        "X5": "NTRP",
+        "X6": null,
+        "X7": "K18829",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "021GU@aproNOG,05W78@bactNOG,17KDV@proNOG,COG4456@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "SpoVT AbrB-like protein"
+      }
     },
     {
       "seqnames": "MAG06_734",
@@ -70,7 +100,22 @@
       "sscore": "4.95",
       "rscore": "-0.37",
       "uscore": "2.17",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_724_5",
+        "X2": "266834.SMc01521",
+        "X3": 1.2e-68,
+        "X4": 264.2,
+        "X5": "NTRR",
+        "X6": null,
+        "X7": "K18828",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "02E6V@aproNOG,08IGI@bactNOG,11JC8@NOG,172R3@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "Toxic component of a toxin-antitoxin (TA) module. A"
+      }
     },
     {
       "seqnames": "MAG06_734",
@@ -94,7 +139,8 @@
       "sscore": "19.28",
       "rscore": "13.75",
       "uscore": "0.59",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {}
     },
     {
       "seqnames": "MAG06_734",
@@ -118,7 +164,22 @@
       "sscore": "1.25",
       "rscore": "7.63",
       "uscore": "2.75",
-      "tscore": "-10.14"
+      "tscore": "-10.14",
+      "eggnog": {
+        "X1": "MAG06_724_6",
+        "X2": "266834.SMc01520",
+        "X3": 1e-72,
+        "X4": 277.7,
+        "X5": "GLBO",
+        "X6": "GO:0003674,GO:0005488,GO:0005575,GO:0005623,GO:0005886,GO:0006461,GO:0006810,GO:0008150,GO:0015669,GO:0015671,GO:0016020,GO:0016043,GO:0019825,GO:0020037,GO:0022607,GO:0043933,GO:0044085,GO:0044464,GO:0044699,GO:0044765,GO:0046906,GO:0051179,GO:0051234,GO:0051259,GO:0051260,GO:0065003,GO:0070271,GO:0071822,GO:0071840,GO:0071944,GO:0097159,GO:1901363",
+        "X7": "K06886",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01Z90@aproNOG,08Z18@bactNOG,17FH5@proNOG,COG2346@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "Bacterial-like globin"
+      }
     },
     {
       "seqnames": "MAG06_734",
@@ -142,7 +203,22 @@
       "sscore": "-9.65",
       "rscore": "-4.72",
       "uscore": "0.59",
-      "tscore": "-4.87"
+      "tscore": "-4.87",
+      "eggnog": {
+        "X1": "MAG06_724_7",
+        "X2": "266834.SMc01519",
+        "X3": 1.1e-60,
+        "X4": 237.7,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "0235S@aproNOG,05YF7@bactNOG,17N0Z@proNOG,COG2363@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "Protein of unknown function (DUF423)"
+      }
     },
     {
       "seqnames": "MAG06_734",
@@ -166,7 +242,22 @@
       "sscore": "17.39",
       "rscore": "13.75",
       "uscore": "-0.00",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_725_1",
+        "X2": "266834.SMc01312",
+        "X3": 4.1e-142,
+        "X4": 509.2,
+        "X5": "FUSA",
+        "X6": "GO:0005575,GO:0005618,GO:0005622,GO:0005623,GO:0005737,GO:0005886,GO:0008150,GO:0016020,GO:0030312,GO:0040007,GO:0044424,GO:0044464,GO:0071944",
+        "X7": "K02355",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01S82@aproNOG,05CEJ@bactNOG,16PY2@proNOG,COG0480@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "J",
+        "X13": "Catalyzes the GTP-dependent ribosomal translocation step during translation elongation. During this step, the ribosome changes from the pre-translocational (PRE) to the post- translocational (POST) state as the newly formed A-site-bound peptidyl-tRNA and P-site-bound deacylated tRNA move to the P and E sites, respectively. Catalyzes the coordinated movement of the two tRNA molecules, the mRNA and conformational changes in the ribosome (By similarity)"
+      }
     },
     {
       "seqnames": "MAG06_734",
@@ -190,7 +281,22 @@
       "sscore": "7.57",
       "rscore": "2.03",
       "uscore": "1.02",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_725_2",
+        "X2": "366394.Smed_0969",
+        "X3": 2.1e-124,
+        "X4": 450.3,
+        "X5": "TUF",
+        "X6": "GO:0001666,GO:0003674,GO:0003676,GO:0003723,GO:0003746,GO:0005488,GO:0005575,GO:0005618,GO:0005622,GO:0005623,GO:0005737,GO:0005829,GO:0005886,GO:0006412,GO:0006414,GO:0006950,GO:0008135,GO:0008150,GO:0008152,GO:0009058,GO:0009059,GO:0009628,GO:0009987,GO:0010035,GO:0010038,GO:0010039,GO:0010467,GO:0016020,GO:0019538,GO:0030312,GO:0034645,GO:0036293,GO:0040007,GO:0042221,GO:0043170,GO:0044237,GO:0044238,GO:0044249,GO:0044260,GO:0044267,GO:0044424,GO:0044444,GO:0044464,GO:0050896,GO:0070482,GO:0071704,GO:0071944,GO:0097159,GO:1901363,GO:1901576",
+        "X7": "K02358",
+        "X8": "SADT2",
+        "X9": "bactNOG[38]",
+        "X10": "01QSB@aproNOG,05CGV@bactNOG,16PJC@proNOG,COG0050@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "J",
+        "X13": "This protein promotes the GTP-dependent binding of aminoacyl-tRNA to the A-site of ribosomes during protein biosynthesis (By similarity)"
+      }
     },
     {
       "seqnames": "MAG06_734",
@@ -214,7 +320,8 @@
       "sscore": "-1.10",
       "rscore": "7.63",
       "uscore": "1.41",
-      "tscore": "-10.14"
+      "tscore": "-10.14",
+      "eggnog": {}
     },
     {
       "seqnames": "MAG06_734",
@@ -238,7 +345,22 @@
       "sscore": "12.56",
       "rscore": "7.63",
       "uscore": "-1.61",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_726_1",
+        "X2": "749927.AMED_2552",
+        "X3": 3.7e-52,
+        "X4": 209.9,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "00RQB@actNOG,05W8W@bactNOG,COG0412@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "Q",
+        "X13": "Dienelactone hydrolase"
+      }
     },
     {
       "seqnames": "MAG06_734",
@@ -262,7 +384,22 @@
       "sscore": "1.13",
       "rscore": "-4.72",
       "uscore": "0.94",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_726_2",
+        "X2": "224914.BAWG_1972",
+        "X3": 0,
+        "X4": 1802.3,
+        "X5": "OPLAH",
+        "X6": "GO:0005575,GO:0005623,GO:0005886,GO:0016020,GO:0044464,GO:0071944",
+        "X7": "K01469,K01474",
+        "X8": "OPAH",
+        "X9": "bactNOG[38]",
+        "X10": "01Q72@aproNOG,05C5J@bactNOG,16PE9@proNOG,COG0145@NOG,COG0146@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "E",
+        "X13": "5-oxoprolinase"
+      }
     },
     {
       "seqnames": "MAG06_734",
@@ -286,7 +423,22 @@
       "sscore": "1.27",
       "rscore": "7.85",
       "uscore": "-1.06",
-      "tscore": "-4.87"
+      "tscore": "-4.87",
+      "eggnog": {
+        "X1": "MAG06_727_1",
+        "X2": "366394.Smed_1878",
+        "X3": 1.2e-25,
+        "X4": 121.3,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "021ED@aproNOG,05SPD@bactNOG,121DZ@NOG,17IYP@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": null,
+        "X13": null
+      }
     }
   ],
   "seqname": "MAG06_734",

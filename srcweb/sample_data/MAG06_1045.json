@@ -22,7 +22,22 @@
       "sscore": "5.16",
       "rscore": "2.03",
       "uscore": "-0.51",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_955_10",
+        "X2": "266834.SMc01729",
+        "X3": 6e-156,
+        "X4": 555.4,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01U3A@aproNOG,08Z4F@bactNOG,0XS9A@NOG,1759N@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "membrane"
+      }
     },
     {
       "seqnames": "MAG06_1045",
@@ -46,7 +61,22 @@
       "sscore": "8.71",
       "rscore": "5.09",
       "uscore": "1.40",
-      "tscore": "3.37"
+      "tscore": "3.37",
+      "eggnog": {
+        "X1": "MAG06_955_11",
+        "X2": "266834.SMc01730",
+        "X3": 2.2e-143,
+        "X4": 513.5,
+        "X5": "OCAR_7534",
+        "X6": null,
+        "X7": "K07025",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01R4B@aproNOG,07I2D@bactNOG,175R4@proNOG,COG1011@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "Pyrimidine 5''-nucleotidase"
+      }
     },
     {
       "seqnames": "MAG06_1045",
@@ -70,7 +100,22 @@
       "sscore": "-0.50",
       "rscore": "7.41",
       "uscore": "2.51",
-      "tscore": "-10.43"
+      "tscore": "-10.43",
+      "eggnog": {
+        "X1": "MAG06_955_3",
+        "X2": "266834.SMc01722",
+        "X3": 3.5e-118,
+        "X4": 429.5,
+        "X5": "ENGB",
+        "X6": "GO:0000910,GO:0005575,GO:0005622,GO:0005623,GO:0005737,GO:0005829,GO:0007049,GO:0008150,GO:0009987,GO:0022402,GO:0044424,GO:0044444,GO:0044464,GO:0044699,GO:0044763,GO:0051301",
+        "X7": "K03978",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01R8A@aproNOG,05WHM@bactNOG,16VJD@proNOG,COG0218@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "Necessary for normal cell division and for the maintenance of normal septation (By similarity)"
+      }
     },
     {
       "seqnames": "MAG06_1045",
@@ -94,7 +139,22 @@
       "sscore": "13.17",
       "rscore": "7.63",
       "uscore": "0.62",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_955_4",
+        "X2": "266834.SMc01723",
+        "X3": 7.5e-90,
+        "X4": 335.1,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01XK9@aproNOG,08ZEA@bactNOG,17D8B@proNOG,COG4803@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "membrane protein of uknown function UCP014873"
+      }
     }
   ],
   "seqname": "MAG06_1045",

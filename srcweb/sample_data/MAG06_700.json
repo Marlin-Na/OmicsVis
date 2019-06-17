@@ -22,7 +22,22 @@
       "sscore": "13.08",
       "rscore": "7.63",
       "uscore": "0.51",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_698_3",
+        "X2": "266834.SMc00530",
+        "X3": 8.4e-285,
+        "X4": 984.2,
+        "X5": "SUFB",
+        "X6": "GO:0003674,GO:0003824,GO:0004518,GO:0004519,GO:0005488,GO:0005575,GO:0005622,GO:0005623,GO:0005737,GO:0005829,GO:0006139,GO:0006725,GO:0006807,GO:0008150,GO:0008152,GO:0009058,GO:0009987,GO:0016043,GO:0016226,GO:0016787,GO:0016788,GO:0022607,GO:0031163,GO:0034641,GO:0040007,GO:0043170,GO:0044085,GO:0044237,GO:0044238,GO:0044424,GO:0044444,GO:0044464,GO:0046483,GO:0051536,GO:0051539,GO:0051540,GO:0071704,GO:0071840,GO:0090304,GO:0090305,GO:1901360",
+        "X7": "K07033,K09014",
+        "X8": "S2FE2SS,S2FE2SS2,S2FE2ST,S4FE4SR,S4FE4ST",
+        "X9": "bactNOG[38]",
+        "X10": "01QJI@aproNOG,05DIW@bactNOG,16PMG@proNOG,COG0719@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "O",
+        "X13": "fes assembly protein sufb"
+      }
     },
     {
       "seqnames": "MAG06_700",
@@ -46,7 +61,22 @@
       "sscore": "12.03",
       "rscore": "7.63",
       "uscore": "1.42",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_100_5",
+        "X2": "266834.SMc04278",
+        "X3": 2.5e-44,
+        "X4": 183,
+        "X5": "ACPXL",
+        "X6": "GO:0005575,GO:0005622,GO:0005623,GO:0005737,GO:0044424,GO:0044464",
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "02135@aproNOG,05J3Q@bactNOG,17E1X@proNOG,COG0236@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "I, Q",
+        "X13": "acyl carrier protein"
+      }
     },
     {
       "seqnames": "MAG06_700",
@@ -70,7 +100,22 @@
       "sscore": "5.95",
       "rscore": "2.03",
       "uscore": "0.27",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_100_6",
+        "X2": "266834.SMc04277",
+        "X3": 2.3e-79,
+        "X4": 300.1,
+        "X5": null,
+        "X6": null,
+        "X7": "K02372",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01YTX@aproNOG,05IE9@bactNOG,17DQA@proNOG,COG0764@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "I",
+        "X13": "beta-hydroxyacyl-(acyl-carrier-protein) dehydratase, FabA FabZ"
+      }
     },
     {
       "seqnames": "MAG06_700",
@@ -94,7 +139,22 @@
       "sscore": "11.25",
       "rscore": "7.85",
       "uscore": "-0.25",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_100_7",
+        "X2": "266834.SMc04275",
+        "X3": 6.5e-219,
+        "X4": 765,
+        "X5": "FABF2",
+        "X6": null,
+        "X7": "K09458",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01TD7@aproNOG,05KWK@bactNOG,16VYJ@proNOG,COG0304@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "I",
+        "X13": "3-Oxoacyl-(Acyl carrier protein) synthase"
+      }
     },
     {
       "seqnames": "MAG06_700",
@@ -118,7 +178,22 @@
       "sscore": "10.10",
       "rscore": "7.05",
       "uscore": "0.84",
-      "tscore": "3.37"
+      "tscore": "3.37",
+      "eggnog": {
+        "X1": "MAG06_100_8",
+        "X2": "266834.SMc04273",
+        "X3": 1.1e-237,
+        "X4": 827.4,
+        "X5": "FABF2",
+        "X6": null,
+        "X7": "K00647,K09458",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01TN6@aproNOG,067BF@bactNOG,16SCE@proNOG,COG0304@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "I",
+        "X13": "3-oxoacyl-(Acyl carrier protein) synthase II"
+      }
     },
     {
       "seqnames": "MAG06_700",
@@ -142,7 +217,22 @@
       "sscore": "0.44",
       "rscore": "-4.72",
       "uscore": "1.51",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_132_7",
+        "X2": "266834.SMc00068",
+        "X3": 1.1e-218,
+        "X4": 764.2,
+        "X5": "DACF",
+        "X6": null,
+        "X7": "K01286,K07258",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01QHC@aproNOG,05DZ1@bactNOG,16R4N@proNOG,COG1686@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "M",
+        "X13": "carboxypeptidase"
+      }
     },
     {
       "seqnames": "MAG06_700",
@@ -166,7 +256,22 @@
       "sscore": "9.96",
       "rscore": "7.63",
       "uscore": "-2.45",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_132_8",
+        "X2": "266834.SMc00001",
+        "X3": 2.3e-199,
+        "X4": 699.9,
+        "X5": "OCAR_4641",
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01UJ3@aproNOG,05KEU@bactNOG,16TRD@proNOG,COG0726@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "G",
+        "X13": "polysaccharide deacetylase"
+      }
     },
     {
       "seqnames": "MAG06_700",
@@ -190,7 +295,22 @@
       "sscore": "7.82",
       "rscore": "3.33",
       "uscore": "1.50",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_132_9",
+        "X2": "266834.SMc00069",
+        "X3": 1.5e-118,
+        "X4": 430.6,
+        "X5": "PDXH",
+        "X6": "GO:0000166,GO:0003674,GO:0003824,GO:0004733,GO:0005488,GO:0006725,GO:0006732,GO:0006766,GO:0006767,GO:0006793,GO:0006796,GO:0006807,GO:0008150,GO:0008152,GO:0008614,GO:0008615,GO:0009058,GO:0009108,GO:0009110,GO:0009443,GO:0009987,GO:0010181,GO:0016491,GO:0016638,GO:0016641,GO:0018130,GO:0019438,GO:0019637,GO:0032553,GO:0034641,GO:0036094,GO:0042364,GO:0042816,GO:0042819,GO:0042822,GO:0042823,GO:0043094,GO:0043167,GO:0043168,GO:0044237,GO:0044249,GO:0044271,GO:0044281,GO:0044283,GO:0044710,GO:0044711,GO:0046483,GO:0048037,GO:0050662,GO:0051186,GO:0051188,GO:0055114,GO:0071704,GO:0072524,GO:0072525,GO:0090407,GO:0097159,GO:1901265,GO:1901360,GO:1901362,GO:1901363,GO:1901564,GO:1901566,GO:1901576,GO:1901615,GO:1901617",
+        "X7": "K00275",
+        "X8": "PDX5POi,PYAM5PO",
+        "X9": "bactNOG[38]",
+        "X10": "01RC5@aproNOG,08S7T@bactNOG,16S47@proNOG,COG0259@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "H",
+        "X13": "Catalyzes the oxidation of either pyridoxine 5'- phosphate (PNP) or pyridoxamine 5'-phosphate (PMP) into pyridoxal 5'-phosphate (PLP) (By similarity)"
+      }
     },
     {
       "seqnames": "MAG06_700",
@@ -214,7 +334,22 @@
       "sscore": "4.55",
       "rscore": "2.03",
       "uscore": "-1.12",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_133_1",
+        "X2": "266834.SMc01590",
+        "X3": 1.2e-110,
+        "X4": 404.4,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01ZSS@aproNOG,05M98@bactNOG,17G9V@proNOG,COG4991@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "Protein of unknown function (DUF1236)"
+      }
     }
   ],
   "seqname": "MAG06_700",

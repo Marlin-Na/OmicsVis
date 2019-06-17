@@ -22,7 +22,22 @@
       "sscore": "4.89",
       "rscore": "2.03",
       "uscore": "-0.13",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_933_4",
+        "X2": "509190.Cseg_3085",
+        "X3": 1.4e-13,
+        "X4": 79.7,
+        "X5": "BMUL_3200",
+        "X6": "GO:0005575,GO:0005623,GO:0009279,GO:0016020,GO:0019867,GO:0030312,GO:0030313,GO:0031975,GO:0044462,GO:0044464,GO:0071944",
+        "X7": "K02014",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01UXS@aproNOG,05E0K@bactNOG,16QPN@proNOG,COG1629@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "P",
+        "X13": "tonB-dependent siderophore receptor"
+      }
     },
     {
       "seqnames": "MAG06_1012",
@@ -46,7 +61,22 @@
       "sscore": "6.97",
       "rscore": "2.03",
       "uscore": "-1.89",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_934_1",
+        "X2": "266834.SMc02846",
+        "X3": 9e-182,
+        "X4": 641.3,
+        "X5": "PFKB",
+        "X6": null,
+        "X7": "K00847,K00852,K00856,K00892",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01Q8Q@aproNOG,05CRY@bactNOG,16R74@proNOG,COG0524@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "G",
+        "X13": "pfkb domain protein"
+      }
     },
     {
       "seqnames": "MAG06_1012",
@@ -70,7 +100,22 @@
       "sscore": "10.62",
       "rscore": "7.85",
       "uscore": "-1.82",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_934_2",
+        "X2": "266834.SMc02845",
+        "X3": 1.7e-54,
+        "X4": 216.9,
+        "X5": "SCLAV_5573",
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01ZAD@aproNOG,08Y2C@bactNOG,17BB0@proNOG,COG0346@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "E",
+        "X13": "glyoxalase bleomycin resistance protein"
+      }
     },
     {
       "seqnames": "MAG06_1012",
@@ -94,7 +139,22 @@
       "sscore": "12.19",
       "rscore": "7.63",
       "uscore": "1.57",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_934_3",
+        "X2": "266834.SMc02844",
+        "X3": 1.8e-68,
+        "X4": 263.8,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01X10@aproNOG,08WCG@bactNOG,11NY0@NOG,17B6I@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": "K",
+        "X13": "Transcriptional regulator, TetR family"
+      }
     },
     {
       "seqnames": "MAG06_1012",
@@ -118,7 +178,22 @@
       "sscore": "12.60",
       "rscore": "7.63",
       "uscore": "1.33",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_159_5",
+        "X2": "331869.BAL199_18701",
+        "X3": 1e-14,
+        "X4": 84,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "021X9@aproNOG,069FK@bactNOG,0XVJV@NOG,17RS5@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "Protein of unknwon function (DUF3008)"
+      }
     },
     {
       "seqnames": "MAG06_1012",
@@ -142,7 +217,22 @@
       "sscore": "0.45",
       "rscore": "-4.72",
       "uscore": "1.52",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_159_6",
+        "X2": "311403.Arad_0258",
+        "X3": 2.3e-53,
+        "X4": 213.8,
+        "X5": "YHJE",
+        "X6": "GO:0005575,GO:0005623,GO:0005886,GO:0016020,GO:0044464,GO:0071944",
+        "X7": "K03762",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01S67@aproNOG,05CSH@bactNOG,0XP7I@NOG,16R1Z@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": "G",
+        "X13": ")transporter"
+      }
     },
     {
       "seqnames": "MAG06_1012",
@@ -166,7 +256,22 @@
       "sscore": "-3.35",
       "rscore": "-4.72",
       "uscore": "-2.28",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_935_1",
+        "X2": "311403.Arad_7349",
+        "X3": 5.4e-118,
+        "X4": 429.1,
+        "X5": null,
+        "X6": null,
+        "X7": "K02057",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01SR0@aproNOG,05DYV@bactNOG,16S01@proNOG,COG1079@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "G",
+        "X13": "ABC sugar transporter, inner membrane subunit"
+      }
     }
   ],
   "seqname": "MAG06_1012",

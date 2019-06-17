@@ -22,7 +22,8 @@
       "sscore": "16.54",
       "rscore": "12.94",
       "uscore": "0.40",
-      "tscore": "3.20"
+      "tscore": "3.20",
+      "eggnog": {}
     },
     {
       "seqnames": "MAG06_234",
@@ -46,7 +47,22 @@
       "sscore": "-14.23",
       "rscore": "-4.56",
       "uscore": "-1.88",
-      "tscore": "-7.14"
+      "tscore": "-7.14",
+      "eggnog": {
+        "X1": "MAG06_338_5",
+        "X2": "266834.SMc01930",
+        "X3": 2.4e-69,
+        "X4": 266.5,
+        "X5": "MCE",
+        "X6": "GO:0003674,GO:0003824,GO:0004493,GO:0005975,GO:0005996,GO:0006006,GO:0006082,GO:0006091,GO:0006104,GO:0006105,GO:0006113,GO:0006629,GO:0006631,GO:0006637,GO:0006725,GO:0006732,GO:0006778,GO:0006779,GO:0006780,GO:0006781,GO:0006793,GO:0006807,GO:0008150,GO:0008152,GO:0009058,GO:0009987,GO:0015980,GO:0016053,GO:0016853,GO:0016854,GO:0018130,GO:0019318,GO:0019438,GO:0019541,GO:0019657,GO:0019660,GO:0019678,GO:0019752,GO:0032787,GO:0033013,GO:0033014,GO:0034641,GO:0035383,GO:0043436,GO:0043648,GO:0044237,GO:0044238,GO:0044249,GO:0044255,GO:0044271,GO:0044281,GO:0044283,GO:0044710,GO:0044711,GO:0044723,GO:0046394,GO:0046459,GO:0046483,GO:0046502,GO:0051186,GO:0051188,GO:0055114,GO:0071704,GO:1901360,GO:1901362,GO:1901564,GO:1901566,GO:1901576",
+        "X7": "K01759,K05606",
+        "X8": "MME",
+        "X9": "bactNOG[38]",
+        "X10": "01WVR@aproNOG,08ZVT@bactNOG,17A8C@proNOG,COG0346@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "I",
+        "X13": "methylmalonyl-CoA epimerase"
+      }
     },
     {
       "seqnames": "MAG06_234",
@@ -70,7 +86,22 @@
       "sscore": "4.66",
       "rscore": "2.74",
       "uscore": "-1.28",
-      "tscore": "3.20"
+      "tscore": "3.20",
+      "eggnog": {
+        "X1": "MAG06_338_6",
+        "X2": "266834.SMc01931",
+        "X3": 3.2e-41,
+        "X4": 172.6,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "021S9@aproNOG,0631N@bactNOG,17PVN@proNOG,COG5454@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "Protein of unknown function (DUF1467)"
+      }
     },
     {
       "seqnames": "MAG06_234",
@@ -94,7 +125,22 @@
       "sscore": "16.79",
       "rscore": "9.04",
       "uscore": "3.66",
-      "tscore": "3.20"
+      "tscore": "3.20",
+      "eggnog": {
+        "X1": "MAG06_339_1",
+        "X2": "266834.SMc00460",
+        "X3": 2.1e-211,
+        "X4": 740,
+        "X5": null,
+        "X6": null,
+        "X7": "K09947",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01SUU@aproNOG,077SZ@bactNOG,177QY@proNOG,COG3490@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "twin-arginine translocation pathway signal"
+      }
     },
     {
       "seqnames": "MAG06_234",
@@ -118,7 +164,22 @@
       "sscore": "3.22",
       "rscore": "0.00",
       "uscore": "0.00",
-      "tscore": "3.22"
+      "tscore": "3.22",
+      "eggnog": {
+        "X1": "MAG06_339_2",
+        "X2": "266834.SMc00397",
+        "X3": 3.5e-101,
+        "X4": 372.9,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01YP7@aproNOG,05VRR@bactNOG,11NHW@NOG,17DBE@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "GCN5-related N-acetyltransferase"
+      }
     }
   ],
   "seqname": "MAG06_234",

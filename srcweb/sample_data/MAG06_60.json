@@ -22,7 +22,22 @@
       "sscore": "8.16",
       "rscore": "7.85",
       "uscore": "-3.34",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_181_3",
+        "X2": "266834.SMc00946",
+        "X3": 6.9e-271,
+        "X4": 937.9,
+        "X5": "NNRD",
+        "X6": "GO:0003674,GO:0003824,GO:0005575,GO:0005622,GO:0005623,GO:0005737,GO:0008150,GO:0008152,GO:0016829,GO:0016835,GO:0016836,GO:0016853,GO:0016854,GO:0044424,GO:0044464,GO:0052855,GO:0052856,GO:0052857",
+        "X7": "K17758,K17759",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01RBK@aproNOG,05DR1@bactNOG,16QCV@proNOG,COG0062@NOG,COG0063@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "G",
+        "X13": "carbohydrate kinase, YjeF related protein"
+      }
     },
     {
       "seqnames": "MAG06_60",
@@ -46,7 +61,22 @@
       "sscore": "1.51",
       "rscore": "-3.78",
       "uscore": "0.48",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_181_4",
+        "X2": "266834.SMc00947",
+        "X3": 4e-31,
+        "X4": 138.7,
+        "X5": "GLNB",
+        "X6": null,
+        "X7": "K04751,K04752",
+        "X8": null,
+        "X9": "NOG[107]",
+        "X10": "COG0347@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "E",
+        "X13": "Nitrogen regulatory protein pii"
+      }
     },
     {
       "seqnames": "MAG06_60",
@@ -70,7 +100,8 @@
       "sscore": "5.27",
       "rscore": "0.21",
       "uscore": "0.26",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {}
     },
     {
       "seqnames": "MAG06_60",
@@ -94,7 +125,22 @@
       "sscore": "12.11",
       "rscore": "7.63",
       "uscore": "0.84",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_182_2",
+        "X2": "1117943.SFHH103_03617",
+        "X3": 2.9e-116,
+        "X4": 423.3,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "07H2E@bactNOG,0ZKJK@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "Protein of unknown function (DUF3365)"
+      }
     },
     {
       "seqnames": "MAG06_60",
@@ -118,7 +164,22 @@
       "sscore": "1.46",
       "rscore": "-2.35",
       "uscore": "0.17",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_182_3",
+        "X2": "1117943.SFHH103_03616",
+        "X3": 0,
+        "X4": 1270.8,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01QYP@aproNOG,05BZU@bactNOG,0XNMH@NOG,16PBK@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": "T",
+        "X13": "Histidine kinase"
+      }
     },
     {
       "seqnames": "MAG06_60",
@@ -142,7 +203,22 @@
       "sscore": "16.37",
       "rscore": "13.75",
       "uscore": "-0.38",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_183_1",
+        "X2": "266834.SMc04303",
+        "X3": 3.5e-308,
+        "X4": 1062,
+        "X5": "COBN",
+        "X6": "GO:0005575,GO:0005622,GO:0005623,GO:0005737,GO:0044424,GO:0044464",
+        "X7": "K02230",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01SD9@aproNOG,05CTK@bactNOG,16PB9@proNOG,COG1429@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "H",
+        "X13": "cobaltochelatase subunit CobN"
+      }
     },
     {
       "seqnames": "MAG06_60",
@@ -166,7 +242,22 @@
       "sscore": "5.47",
       "rscore": "10.54",
       "uscore": "-0.20",
-      "tscore": "-4.87"
+      "tscore": "-4.87",
+      "eggnog": {
+        "X1": "MAG06_184_1",
+        "X2": "216596.RL2745",
+        "X3": 9e-286,
+        "X4": 987.6,
+        "X5": "SCLAV_3818",
+        "X6": null,
+        "X7": "K00128,K00138",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01QA3@aproNOG,05C26@bactNOG,16PDZ@proNOG,COG1012@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "C",
+        "X13": "Aldehyde dehydrogenase"
+      }
     },
     {
       "seqnames": "MAG06_60",
@@ -190,7 +281,22 @@
       "sscore": "9.02",
       "rscore": "5.51",
       "uscore": "-0.13",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_184_2",
+        "X2": "1037409.BJ6T_39490",
+        "X3": 1.4e-150,
+        "X4": 537.7,
+        "X5": "DEOC",
+        "X6": "GO:0005575,GO:0005622,GO:0005623,GO:0005737,GO:0044424,GO:0044464",
+        "X7": "K01619",
+        "X8": "DRPA",
+        "X9": "bactNOG[38]",
+        "X10": "01RIX@aproNOG,05FCI@bactNOG,16PYJ@proNOG,COG0274@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "F",
+        "X13": "Catalyzes a reversible aldol reaction between acetaldehyde and D-glyceraldehyde 3-phosphate to generate 2-deoxy- D-ribose 5-phosphate (By similarity)"
+      }
     },
     {
       "seqnames": "MAG06_60",
@@ -214,7 +320,22 @@
       "sscore": "-0.79",
       "rscore": "5.19",
       "uscore": "-0.46",
-      "tscore": "-4.87"
+      "tscore": "-4.87",
+      "eggnog": {
+        "X1": "MAG06_184_3",
+        "X2": "266835.mll1922",
+        "X3": 5.4e-89,
+        "X4": 332.8,
+        "X5": "DEOR",
+        "X6": "GO:0000975,GO:0000976,GO:0000984,GO:0000986,GO:0000987,GO:0001017,GO:0001067,GO:0001159,GO:0003674,GO:0003676,GO:0003677,GO:0005488,GO:0006355,GO:0008150,GO:0009889,GO:0009890,GO:0009892,GO:0010468,GO:0010556,GO:0010558,GO:0010605,GO:0010629,GO:0019219,GO:0019222,GO:0031323,GO:0031324,GO:0031326,GO:0031327,GO:0031333,GO:0043254,GO:0043565,GO:0044087,GO:0044212,GO:0045892,GO:0045934,GO:0048519,GO:0048523,GO:0050789,GO:0050794,GO:0051128,GO:0051129,GO:0051171,GO:0051172,GO:0051252,GO:0051253,GO:0060255,GO:0065007,GO:0080090,GO:0097159,GO:1901363,GO:2000112,GO:2000113,GO:2000142,GO:2000143,GO:2001141",
+        "X7": "K11534",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01VY6@aproNOG,07FB0@bactNOG,16WBA@proNOG,COG1349@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "K",
+        "X13": "Transcriptional Regulator, DeoR family"
+      }
     },
     {
       "seqnames": "MAG06_60",
@@ -238,7 +359,22 @@
       "sscore": "9.75",
       "rscore": "10.54",
       "uscore": "-0.09",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_184_4",
+        "X2": "311403.Arad_0449",
+        "X3": 0,
+        "X4": 1721.8,
+        "X5": "YFHM",
+        "X6": "GO:0003674,GO:0004857,GO:0004866,GO:0005575,GO:0005623,GO:0005886,GO:0005887,GO:0008150,GO:0009897,GO:0009986,GO:0010466,GO:0010951,GO:0016020,GO:0016021,GO:0019222,GO:0030234,GO:0030414,GO:0031224,GO:0031226,GO:0031233,GO:0043086,GO:0044092,GO:0044425,GO:0044459,GO:0044464,GO:0050789,GO:0050790,GO:0051336,GO:0051346,GO:0052547,GO:0052548,GO:0061134,GO:0061135,GO:0065007,GO:0065009,GO:0071575,GO:0071944",
+        "X7": "K06894",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01QG1@aproNOG,05DN3@bactNOG,16QDC@proNOG,COG2373@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "alpha-2-macroglobulin domain protein"
+      }
     }
   ],
   "seqname": "MAG06_60",

@@ -22,7 +22,22 @@
       "sscore": "3.22",
       "rscore": "0.00",
       "uscore": "0.00",
-      "tscore": "3.22"
+      "tscore": "3.22",
+      "eggnog": {
+        "X1": "MAG06_599_1",
+        "X2": "266834.SMc01963",
+        "X3": 2e-99,
+        "X4": 367.9,
+        "X5": null,
+        "X6": "GO:0005575,GO:0016020",
+        "X7": "K02053",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01V23@aproNOG,08QU5@bactNOG,0ZMBF@NOG,175ET@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": "P",
+        "X13": "Binding-protein-dependent transport systems, inner membrane component"
+      }
     },
     {
       "seqnames": "MAG06_559",
@@ -46,7 +61,22 @@
       "sscore": "6.56",
       "rscore": "1.44",
       "uscore": "-0.49",
-      "tscore": "3.83"
+      "tscore": "3.83",
+      "eggnog": {
+        "X1": "MAG06_599_11",
+        "X2": "266834.SMc01972",
+        "X3": 1.9e-256,
+        "X4": 889.8,
+        "X5": "PUUB",
+        "X6": "GO:0003674,GO:0003824,GO:0008150,GO:0008152,GO:0016491,GO:0044710,GO:0055114",
+        "X7": "K09471",
+        "X8": "GGPTRCO",
+        "X9": "bactNOG[38]",
+        "X10": "01REP@aproNOG,05CJP@bactNOG,0XWBT@NOG,16Q0H@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": "C",
+        "X13": "oxidoreductase"
+      }
     },
     {
       "seqnames": "MAG06_559",
@@ -70,7 +100,22 @@
       "sscore": "12.94",
       "rscore": "8.92",
       "uscore": "0.19",
-      "tscore": "3.83"
+      "tscore": "3.83",
+      "eggnog": {
+        "X1": "MAG06_120_5",
+        "X2": "266834.SMc02335",
+        "X3": 2.5e-300,
+        "X4": 1035.8,
+        "X5": "LYX",
+        "X6": "GO:0003674,GO:0003824,GO:0004856,GO:0005975,GO:0005996,GO:0006793,GO:0006796,GO:0008150,GO:0008152,GO:0008744,GO:0009987,GO:0016301,GO:0016310,GO:0016740,GO:0016772,GO:0016773,GO:0019200,GO:0019321,GO:0019324,GO:0044237,GO:0044238,GO:0044262,GO:0044723,GO:0046835,GO:0071704",
+        "X7": "K00854,K00880,K11216",
+        "X8": "3KGK,XYLK2",
+        "X9": "bactNOG[38]",
+        "X10": "01VEZ@aproNOG,05CMG@bactNOG,16QR6@proNOG,COG1070@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "G",
+        "X13": "Carbohydrate kinase"
+      }
     },
     {
       "seqnames": "MAG06_559",
@@ -94,7 +139,22 @@
       "sscore": "7.28",
       "rscore": "8.62",
       "uscore": "-4.52",
-      "tscore": "3.83"
+      "tscore": "3.83",
+      "eggnog": {
+        "X1": "MAG06_120_6",
+        "X2": "266834.SMc02336",
+        "X3": 3.5e-26,
+        "X4": 122.1,
+        "X5": null,
+        "X6": null,
+        "X7": "K00059",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01YUP@aproNOG,05CHR@bactNOG,0XNW1@NOG,174YP@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "Short-chain dehydrogenase reductase SDR"
+      }
     }
   ],
   "seqname": "MAG06_559",

@@ -22,7 +22,22 @@
       "sscore": "3.22",
       "rscore": "0.00",
       "uscore": "0.00",
-      "tscore": "3.22"
+      "tscore": "3.22",
+      "eggnog": {
+        "X1": "MAG06_48_7",
+        "X2": "266834.SMc02037",
+        "X3": 1.3e-138,
+        "X4": 497.7,
+        "X5": null,
+        "X6": null,
+        "X7": "K00046",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01RSZ@aproNOG,05CHR@bactNOG,0XNW1@NOG,176BU@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "Short-chain dehydrogenase reductase SDR"
+      }
     },
     {
       "seqnames": "MAG06_411",
@@ -46,7 +61,22 @@
       "sscore": "7.46",
       "rscore": "2.03",
       "uscore": "1.79",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_48_8",
+        "X2": "266834.SMc02038",
+        "X3": 3.3e-201,
+        "X4": 706.1,
+        "X5": "GLDA",
+        "X6": null,
+        "X7": "K00005",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01VHS@aproNOG,05DCT@bactNOG,16TFH@proNOG,COG0371@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "C",
+        "X13": "iron-containing alcohol dehydrogenase"
+      }
     },
     {
       "seqnames": "MAG06_411",
@@ -70,7 +100,22 @@
       "sscore": "14.61",
       "rscore": "10.54",
       "uscore": "-0.83",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_48_9",
+        "X2": "366394.Smed_2461",
+        "X3": 1.8e-126,
+        "X4": 457.2,
+        "X5": null,
+        "X6": "GO:0003674,GO:0003824,GO:0008150,GO:0008152,GO:0016491,GO:0044710,GO:0055114",
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01RJE@aproNOG,05EMU@bactNOG,16RRW@proNOG,COG4221@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "short-chain dehydrogenase reductase"
+      }
     },
     {
       "seqnames": "MAG06_411",
@@ -94,7 +139,22 @@
       "sscore": "5.83",
       "rscore": "2.03",
       "uscore": "0.15",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_480_1",
+        "X2": "394.NGR_c34440",
+        "X3": 3e-150,
+        "X4": 536.6,
+        "X5": null,
+        "X6": null,
+        "X7": "K01768",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01YEG@aproNOG,08VSS@bactNOG,17AYT@proNOG,COG2114@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "T",
+        "X13": "Adenylate Guanylate cyclase"
+      }
     }
   ],
   "seqname": "MAG06_411",

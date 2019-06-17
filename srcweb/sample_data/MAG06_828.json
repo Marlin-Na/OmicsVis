@@ -22,7 +22,22 @@
       "sscore": "-1.75",
       "rscore": "2.03",
       "uscore": "1.09",
-      "tscore": "-4.87"
+      "tscore": "-4.87",
+      "eggnog": {
+        "X1": "MAG06_80_2",
+        "X2": "311403.Arad_3983",
+        "X3": 2.2e-74,
+        "X4": 283.5,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01XXY@aproNOG,07YT6@bactNOG,17ATJ@proNOG,COG2030@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "I",
+        "X13": "dehydratase"
+      }
     },
     {
       "seqnames": "MAG06_828",
@@ -46,7 +61,22 @@
       "sscore": "4.08",
       "rscore": "2.03",
       "uscore": "-2.76",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_80_3",
+        "X2": "430066.BAbS19_I02310",
+        "X3": 3.6e-103,
+        "X4": 379.8,
+        "X5": "UCPA",
+        "X6": null,
+        "X7": "K18335",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01RZM@aproNOG,05I7Z@bactNOG,0XSIT@NOG,16QCB@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "Short-chain dehydrogenase reductase SDR"
+      }
     }
   ],
   "seqname": "MAG06_828",

@@ -22,7 +22,22 @@
       "sscore": "2.88",
       "rscore": "7.85",
       "uscore": "0.55",
-      "tscore": "-4.87"
+      "tscore": "-4.87",
+      "eggnog": {
+        "X1": "MAG06_343_3",
+        "X2": "536019.Mesop_5914",
+        "X3": 3.6e-131,
+        "X4": 473,
+        "X5": "PHNW",
+        "X6": "GO:0003674,GO:0003824,GO:0008150,GO:0008152",
+        "X7": "K00830,K03430",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01TCP@aproNOG,07STF@bactNOG,16RZ7@proNOG,COG0075@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "E",
+        "X13": "Involved in phosphonate degradation (By similarity)"
+      }
     },
     {
       "seqnames": "MAG06_242",
@@ -46,7 +61,22 @@
       "sscore": "5.76",
       "rscore": "2.03",
       "uscore": "0.09",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_344_1",
+        "X2": "216591.BCAM1796",
+        "X3": 6.7e-51,
+        "X4": 206.5,
+        "X5": null,
+        "X6": "GO:0001071,GO:0003674,GO:0003700,GO:0006355,GO:0008150,GO:0009889,GO:0010468,GO:0010556,GO:0019219,GO:0019222,GO:0031323,GO:0031326,GO:0050789,GO:0050794,GO:0051171,GO:0051252,GO:0060255,GO:0065007,GO:0080090,GO:2000112,GO:2001141",
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "08NTA@bactNOG,174ZR@proNOG,COG0583@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "K",
+        "X13": "TRANSCRIPTIONal REGULATOR, LysR family"
+      }
     },
     {
       "seqnames": "MAG06_242",
@@ -70,7 +100,22 @@
       "sscore": "-2.89",
       "rscore": "2.03",
       "uscore": "-0.05",
-      "tscore": "-4.87"
+      "tscore": "-4.87",
+      "eggnog": {
+        "X1": "MAG06_344_2",
+        "X2": "216591.BCAM1795",
+        "X3": 5.8e-47,
+        "X4": 193.4,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "05DV7@bactNOG,COG0702@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "G, M",
+        "X13": "NmrA family"
+      }
     },
     {
       "seqnames": "MAG06_242",
@@ -94,7 +139,22 @@
       "sscore": "16.88",
       "rscore": "13.75",
       "uscore": "-0.52",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_345_1",
+        "X2": "394.NGR_c23790",
+        "X3": 6.4e-132,
+        "X4": 475.3,
+        "X5": "MAP",
+        "X6": null,
+        "X7": "K01265",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01TC0@aproNOG,05CA1@bactNOG,16PNP@proNOG,COG0024@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "J",
+        "X13": "Removes the N-terminal methionine from nascent proteins (By similarity)"
+      }
     },
     {
       "seqnames": "MAG06_242",
@@ -118,7 +178,22 @@
       "sscore": "17.10",
       "rscore": "13.75",
       "uscore": "-0.29",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_345_10",
+        "X2": "394.NGR_c23860",
+        "X3": 4.8e-232,
+        "X4": 808.9,
+        "X5": "XDHA",
+        "X6": "GO:0003674,GO:0003824,GO:0004096,GO:0004601,GO:0004854,GO:0006139,GO:0006725,GO:0006753,GO:0006793,GO:0006796,GO:0006807,GO:0008150,GO:0008152,GO:0009117,GO:0009987,GO:0016209,GO:0016491,GO:0016684,GO:0016725,GO:0016726,GO:0019637,GO:0034641,GO:0044237,GO:0044238,GO:0044281,GO:0044710,GO:0046483,GO:0055086,GO:0055114,GO:0071704,GO:1901360",
+        "X7": "K01474,K03518,K13479,K13481",
+        "X8": "HXAND,XAND",
+        "X9": "bactNOG[38]",
+        "X10": "01Q7I@aproNOG,05DCJ@bactNOG,16PS5@proNOG,COG4630@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "F",
+        "X13": "Xanthine dehydrogenase"
+      }
     },
     {
       "seqnames": "MAG06_242",
@@ -142,7 +217,22 @@
       "sscore": "3.22",
       "rscore": "0.00",
       "uscore": "0.00",
-      "tscore": "3.22"
+      "tscore": "3.22",
+      "eggnog": {
+        "X1": "MAG06_345_2",
+        "X2": "1117943.SFHH103_02251",
+        "X3": 5.9e-176,
+        "X4": 622.1,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01TH2@aproNOG,05ETW@bactNOG,16TKB@proNOG,COG2141@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "C",
+        "X13": "oxidoreductase protein"
+      }
     }
   ],
   "seqname": "MAG06_242",

@@ -22,7 +22,22 @@
       "sscore": "3.22",
       "rscore": "0.00",
       "uscore": "0.00",
-      "tscore": "3.22"
+      "tscore": "3.22",
+      "eggnog": {
+        "X1": "MAG06_546_3",
+        "X2": "266834.SMc01004",
+        "X3": 9.7e-83,
+        "X4": 311.2,
+        "X5": "HISI",
+        "X6": "GO:0005575,GO:0005622,GO:0005623,GO:0005737,GO:0044424,GO:0044464",
+        "X7": "K01496,K11755",
+        "X8": "PRAMPC,PRATPP",
+        "X9": "bactNOG[38]",
+        "X10": "01YKD@aproNOG,05K8F@bactNOG,16SFP@proNOG,COG0139@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "E",
+        "X13": "phosphoribosyl-AMP cyclohydrolase"
+      }
     },
     {
       "seqnames": "MAG06_494",
@@ -46,7 +61,22 @@
       "sscore": "5.52",
       "rscore": "2.03",
       "uscore": "-0.15",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_546_4",
+        "X2": "266834.SMc01003",
+        "X3": 1.2e-178,
+        "X4": 630.9,
+        "X5": "RSSA",
+        "X6": null,
+        "X7": "K07001",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01UUE@aproNOG,05D78@bactNOG,16QW3@proNOG,COG1752@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "M",
+        "X13": "K07001 NTE family protein"
+      }
     },
     {
       "seqnames": "MAG06_494",
@@ -70,7 +100,22 @@
       "sscore": "10.18",
       "rscore": "13.75",
       "uscore": "-1.12",
-      "tscore": "-4.87"
+      "tscore": "-4.87",
+      "eggnog": {
+        "X1": "MAG06_546_5",
+        "X2": "266834.SMc01002",
+        "X3": 5.6e-72,
+        "X4": 275.4,
+        "X5": "OCAR_5609",
+        "X6": null,
+        "X7": "K07182",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01ZKK@aproNOG,05KT1@bactNOG,17CHI@proNOG,COG0517@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "protein with cbs domains"
+      }
     }
   ],
   "seqname": "MAG06_494",

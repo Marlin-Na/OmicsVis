@@ -22,7 +22,22 @@
       "sscore": "-3.53",
       "rscore": "-4.72",
       "uscore": "-1.80",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_713_2",
+        "X2": "366394.Smed_0276",
+        "X3": 4.1e-213,
+        "X4": 745.7,
+        "X5": "FLGE",
+        "X6": "GO:0005575,GO:0005622,GO:0005623,GO:0009288,GO:0009425,GO:0042995,GO:0043226,GO:0043228,GO:0043229,GO:0043232,GO:0044422,GO:0044424,GO:0044461,GO:0044463,GO:0044464",
+        "X7": "K02390",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01R0K@aproNOG,05BZE@bactNOG,16PB6@proNOG,COG1749@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "N",
+        "X13": "Flagellar hook protein flgE"
+      }
     },
     {
       "seqnames": "MAG06_721",
@@ -46,7 +61,22 @@
       "sscore": "4.36",
       "rscore": "7.85",
       "uscore": "1.38",
-      "tscore": "-4.87"
+      "tscore": "-4.87",
+      "eggnog": {
+        "X1": "MAG06_713_3",
+        "X2": "266834.SMc03048",
+        "X3": 1e-247,
+        "X4": 860.9,
+        "X5": "FLGK",
+        "X6": null,
+        "X7": "K02396",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01RSX@aproNOG,07QT8@bactNOG,16UR5@proNOG,COG1256@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "N",
+        "X13": "flagellar hook-associated protein"
+      }
     },
     {
       "seqnames": "MAG06_721",
@@ -70,7 +100,22 @@
       "sscore": "5.49",
       "rscore": "4.33",
       "uscore": "-0.21",
-      "tscore": "2.01"
+      "tscore": "2.01",
+      "eggnog": {
+        "X1": "MAG06_713_4",
+        "X2": "266834.SMc03049",
+        "X3": 2.6e-171,
+        "X4": 606.7,
+        "X5": "FLGL",
+        "X6": null,
+        "X7": "K02397",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01W3I@aproNOG,08U7I@bactNOG,17AN3@proNOG,COG1344@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "N",
+        "X13": "flagellar hook-associated protein"
+      }
     },
     {
       "seqnames": "MAG06_721",
@@ -94,7 +139,22 @@
       "sscore": "3.96",
       "rscore": "2.03",
       "uscore": "-1.06",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_713_5",
+        "X2": "266834.SMc03050",
+        "X3": 4.1e-57,
+        "X4": 225.7,
+        "X5": "FLAF",
+        "X6": null,
+        "X7": "K06602",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "021J6@aproNOG,05XK1@bactNOG,17ME9@proNOG,COG5442@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "N",
+        "X13": "flagellar biosynthesis regulatory protein FlaF"
+      }
     }
   ],
   "seqname": "MAG06_721",

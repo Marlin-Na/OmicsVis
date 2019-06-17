@@ -22,7 +22,22 @@
       "sscore": "3.22",
       "rscore": "0.00",
       "uscore": "0.00",
-      "tscore": "3.22"
+      "tscore": "3.22",
+      "eggnog": {
+        "X1": "MAG06_133_10",
+        "X2": "266834.SMc01578",
+        "X3": 1e-232,
+        "X4": 810.8,
+        "X5": "AATA",
+        "X6": "GO:0003674,GO:0003824,GO:0004069,GO:0005575,GO:0005622,GO:0005623,GO:0005737,GO:0006082,GO:0006520,GO:0006531,GO:0006532,GO:0006533,GO:0006807,GO:0008150,GO:0008152,GO:0008483,GO:0008652,GO:0009056,GO:0009058,GO:0009063,GO:0009066,GO:0009067,GO:0009068,GO:0009987,GO:0016053,GO:0016054,GO:0016740,GO:0016769,GO:0019752,GO:0043436,GO:0043648,GO:0043649,GO:0043650,GO:0044237,GO:0044238,GO:0044248,GO:0044249,GO:0044281,GO:0044282,GO:0044283,GO:0044424,GO:0044464,GO:0044710,GO:0044711,GO:0044712,GO:0046394,GO:0046395,GO:0071704,GO:1901564,GO:1901565,GO:1901566,GO:1901575,GO:1901576,GO:1901605,GO:1901606,GO:1901607",
+        "X7": "K00812",
+        "X8": "ASPTA,EHGLAT,PHETA1,TYRTA",
+        "X9": "bactNOG[38]",
+        "X10": "01R9D@aproNOG,05CHM@bactNOG,16PWZ@proNOG,COG0436@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "E",
+        "X13": "Aspartate aminotransferase"
+      }
     },
     {
       "seqnames": "MAG06_701",
@@ -46,7 +61,22 @@
       "sscore": "5.28",
       "rscore": "-0.18",
       "uscore": "-7.99",
-      "tscore": "3.98"
+      "tscore": "3.98",
+      "eggnog": {
+        "X1": "MAG06_133_11",
+        "X2": "366394.Smed_2232",
+        "X3": 2.2e-44,
+        "X4": 183.3,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "08QX9@bactNOG,0XTEH@NOG,17IV4@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "6-phosphogluconate dehydrogenase, NAD-binding"
+      }
     },
     {
       "seqnames": "MAG06_701",
@@ -70,7 +100,22 @@
       "sscore": "7.04",
       "rscore": "-0.18",
       "uscore": "1.77",
-      "tscore": "3.98"
+      "tscore": "3.98",
+      "eggnog": {
+        "X1": "MAG06_133_3",
+        "X2": "266834.SMc01587",
+        "X3": 7.7e-126,
+        "X4": 454.9,
+        "X5": "YCBL",
+        "X6": "GO:0003674,GO:0003824,GO:0008150,GO:0008152",
+        "X7": "K01069",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01U1A@aproNOG,05C5X@bactNOG,16QTV@proNOG,COG0491@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "Beta-lactamase domain protein"
+      }
     },
     {
       "seqnames": "MAG06_701",
@@ -94,7 +139,22 @@
       "sscore": "3.53",
       "rscore": "-0.18",
       "uscore": "-1.49",
-      "tscore": "3.98"
+      "tscore": "3.98",
+      "eggnog": {
+        "X1": "MAG06_699_1",
+        "X2": "266834.SMc03178",
+        "X3": 0,
+        "X4": 1319.7,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01QRS@aproNOG,05BZU@bactNOG,0XNMH@NOG,16PBJ@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": "T",
+        "X13": "Diguanylate cyclase phosphodiesterase"
+      }
     }
   ],
   "seqname": "MAG06_701",

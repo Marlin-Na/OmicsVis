@@ -22,7 +22,22 @@
       "sscore": "1.61",
       "rscore": "0.00",
       "uscore": "0.00",
-      "tscore": "1.61"
+      "tscore": "1.61",
+      "eggnog": {
+        "X1": "MAG06_730_3",
+        "X2": "311402.Avi_5925",
+        "X3": 1.1e-102,
+        "X4": 378.6,
+        "X5": "EXOO",
+        "X6": null,
+        "X7": "K16555",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01ZHG@aproNOG,080TS@bactNOG,17CXC@proNOG,COG0463@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "M",
+        "X13": "Glycosyl transferase, family 2"
+      }
     }
   ],
   "seqname": "MAG06_738",

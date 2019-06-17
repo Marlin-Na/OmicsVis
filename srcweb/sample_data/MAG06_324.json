@@ -22,7 +22,22 @@
       "sscore": "3.22",
       "rscore": "0.00",
       "uscore": "0.00",
-      "tscore": "3.22"
+      "tscore": "3.22",
+      "eggnog": {
+        "X1": "MAG06_41_1",
+        "X2": "266834.SMc02136",
+        "X3": 7e-148,
+        "X4": 528.5,
+        "X5": "HSLO",
+        "X6": "GO:0005575,GO:0005622,GO:0005623,GO:0005737,GO:0006950,GO:0008150,GO:0009266,GO:0009408,GO:0009628,GO:0044424,GO:0044464,GO:0050896",
+        "X7": "K04083",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01R9P@aproNOG,05F4C@bactNOG,16RNK@proNOG,COG1281@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "O",
+        "X13": "Redox regulated molecular chaperone. Protects both thermally unfolding and oxidatively damaged proteins from irreversible aggregation. Plays an important role in the bacterial defense system toward oxidative stress (By similarity)"
+      }
     },
     {
       "seqnames": "MAG06_324",
@@ -46,7 +61,8 @@
       "sscore": "12.01",
       "rscore": "7.63",
       "uscore": "-0.52",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {}
     },
     {
       "seqnames": "MAG06_324",
@@ -70,7 +86,22 @@
       "sscore": "6.67",
       "rscore": "2.03",
       "uscore": "1.00",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_41_2",
+        "X2": "266834.SMc02135",
+        "X3": 1.7e-72,
+        "X4": 276.9,
+        "X5": "APAG",
+        "X6": null,
+        "X7": "K06195",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01YK4@aproNOG,05NWN@bactNOG,17FMU@proNOG,COG2967@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "P",
+        "X13": "ApaG protein"
+      }
     },
     {
       "seqnames": "MAG06_324",
@@ -94,7 +125,22 @@
       "sscore": "12.71",
       "rscore": "10.54",
       "uscore": "-1.48",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_41_3",
+        "X2": "266834.SMc02134",
+        "X3": 3.3e-102,
+        "X4": 376.3,
+        "X5": "YNJF",
+        "X6": "GO:0005575,GO:0005623,GO:0005886,GO:0016020,GO:0044464,GO:0071944",
+        "X7": "K00995",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01XCN@aproNOG,08T9J@bactNOG,178WX@proNOG,COG0558@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "I",
+        "X13": "CDP-alcohol phosphatidyltransferase"
+      }
     },
     {
       "seqnames": "MAG06_324",
@@ -118,7 +164,22 @@
       "sscore": "4.86",
       "rscore": "2.03",
       "uscore": "-0.16",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_41_4",
+        "X2": "266834.SMc02217",
+        "X3": 7.2e-113,
+        "X4": 411.8,
+        "X5": "METZ",
+        "X6": null,
+        "X7": "K01739,K01760,K01761,K10764",
+        "X8": "SHSL1,SHSL4r",
+        "X9": "bactNOG[38]",
+        "X10": "01RD2@aproNOG,05C28@bactNOG,16Q3E@proNOG,COG0626@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "E",
+        "X13": "O-succinylhomoserine sulfhydrylase"
+      }
     },
     {
       "seqnames": "MAG06_324",
@@ -142,7 +203,22 @@
       "sscore": "2.15",
       "rscore": "-4.72",
       "uscore": "3.22",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_410_3",
+        "X2": "266834.SMc02390",
+        "X3": 9e-136,
+        "X4": 488,
+        "X5": "GST7",
+        "X6": null,
+        "X7": "K11209",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01QD1@aproNOG,05CYM@bactNOG,16QF6@proNOG,COG0625@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "O",
+        "X13": "Glutathione S-transferase"
+      }
     }
   ],
   "seqname": "MAG06_324",

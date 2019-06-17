@@ -22,7 +22,22 @@
       "sscore": "3.22",
       "rscore": "0.00",
       "uscore": "0.00",
-      "tscore": "3.22"
+      "tscore": "3.22",
+      "eggnog": {
+        "X1": "MAG06_282_4",
+        "X2": "366394.Smed_1578",
+        "X3": 6.9e-144,
+        "X4": 515.4,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01XIU@aproNOG,05M4F@bactNOG,11TRE@NOG,17GJ0@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "Inherit from proNOG: hydrolase"
+      }
     },
     {
       "seqnames": "MAG06_167",
@@ -46,7 +61,22 @@
       "sscore": "2.78",
       "rscore": "13.75",
       "uscore": "-0.17",
-      "tscore": "-10.14"
+      "tscore": "-10.14",
+      "eggnog": {
+        "X1": "MAG06_282_5",
+        "X2": "266834.SMc00146",
+        "X3": 7.3e-84,
+        "X4": 315.1,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01YCN@aproNOG,05J3C@bactNOG,17E6P@proNOG,COG1846@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "K",
+        "X13": "Transcriptional regulator"
+      }
     },
     {
       "seqnames": "MAG06_167",
@@ -70,7 +100,22 @@
       "sscore": "12.56",
       "rscore": "7.63",
       "uscore": "-1.55",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_282_6",
+        "X2": "266834.SMc00145",
+        "X3": 3.9e-91,
+        "X4": 339.3,
+        "X5": "BMUL_0566",
+        "X6": null,
+        "X7": "K01814",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01ZWF@aproNOG,05MNW@bactNOG,17G7E@proNOG,COG3536@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "Protein of unknown function (DUF971)"
+      }
     },
     {
       "seqnames": "MAG06_167",
@@ -94,7 +139,22 @@
       "sscore": "15.31",
       "rscore": "10.54",
       "uscore": "1.12",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_1018_3",
+        "X2": "266834.SMc02440",
+        "X3": 2.3e-137,
+        "X4": 493.4,
+        "X5": "UBIG",
+        "X6": null,
+        "X7": "K00568",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "02E2B@aproNOG,08HWB@bactNOG,172E6@proNOG,COG2227@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "H",
+        "X13": "Non-specific O-methyltransferase that catalyzes the 2 O- methylation steps in the ubiquinone biosynthetic pathway (By similarity)"
+      }
     }
   ],
   "seqname": "MAG06_167",

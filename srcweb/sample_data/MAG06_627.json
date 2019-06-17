@@ -22,7 +22,22 @@
       "sscore": "7.88",
       "rscore": "7.63",
       "uscore": "-2.74",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_65_1",
+        "X2": "266834.SMc04132",
+        "X3": 3.9e-34,
+        "X4": 148.7,
+        "X5": "OA238_5031",
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01SKI@aproNOG,05F0W@bactNOG,0XRSJ@NOG,1758V@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "Protein of unknown function (DUF993)"
+      }
     },
     {
       "seqnames": "MAG06_627",
@@ -46,7 +61,22 @@
       "sscore": "-1.00",
       "rscore": "-4.72",
       "uscore": "0.07",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_65_2",
+        "X2": "266834.SMc04133",
+        "X3": 3.5e-230,
+        "X4": 802.4,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01SAV@aproNOG,05DG3@bactNOG,0XPYA@NOG,16R2P@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "Oxidoreductase"
+      }
     },
     {
       "seqnames": "MAG06_627",
@@ -70,7 +100,22 @@
       "sscore": "11.26",
       "rscore": "8.08",
       "uscore": "-0.47",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_65_3",
+        "X2": "266834.SMc04134",
+        "X3": 2.4e-117,
+        "X4": 426.8,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "02DVC@aproNOG,08WZQ@bactNOG,11JBZ@NOG,171P5@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": "K",
+        "X13": "Transcriptional regulator"
+      }
     }
   ],
   "seqname": "MAG06_627",

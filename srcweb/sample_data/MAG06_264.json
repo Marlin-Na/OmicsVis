@@ -22,7 +22,22 @@
       "sscore": "14.93",
       "rscore": "14.12",
       "uscore": "-3.02",
-      "tscore": "3.83"
+      "tscore": "3.83",
+      "eggnog": {
+        "X1": "MAG06_369_4",
+        "X2": "311402.Avi_5936",
+        "X3": 6.1e-97,
+        "X4": 359,
+        "X5": "EXOY",
+        "X6": "GO:0000271,GO:0005975,GO:0005976,GO:0008150,GO:0008152,GO:0009058,GO:0009059,GO:0016051,GO:0043170,GO:0044238,GO:0044723,GO:0071704,GO:1901576",
+        "X7": "K00996,K16566",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01W0X@aproNOG,05D3Q@bactNOG,16Q7W@proNOG,COG2148@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "M",
+        "X13": "exopolysaccharide production protein"
+      }
     },
     {
       "seqnames": "MAG06_264",
@@ -46,7 +61,22 @@
       "sscore": "5.82",
       "rscore": "3.45",
       "uscore": "-0.81",
-      "tscore": "3.83"
+      "tscore": "3.83",
+      "eggnog": {
+        "X1": "MAG06_369_5",
+        "X2": "311402.Avi_5937",
+        "X3": 2.8e-140,
+        "X4": 503.8,
+        "X5": "EXOF",
+        "X6": null,
+        "X7": "K16552",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01XSV@aproNOG,08V8N@bactNOG,17AZB@proNOG,COG1596@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "M",
+        "X13": "polysaccharide export protein"
+      }
     },
     {
       "seqnames": "MAG06_264",
@@ -70,7 +100,22 @@
       "sscore": "6.75",
       "rscore": "8.92",
       "uscore": "-6.00",
-      "tscore": "3.83"
+      "tscore": "3.83",
+      "eggnog": {
+        "X1": "MAG06_369_6",
+        "X2": "311403.Arad_9561",
+        "X3": 4.8e-151,
+        "X4": 539.7,
+        "X5": "EXOQ",
+        "X6": null,
+        "X7": "K16567",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01V95@aproNOG,08QUV@bactNOG,175P8@proNOG,COG3307@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "M",
+        "X13": "O-Antigen polymerase"
+      }
     }
   ],
   "seqname": "MAG06_264",

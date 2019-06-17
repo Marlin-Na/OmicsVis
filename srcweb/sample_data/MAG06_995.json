@@ -22,7 +22,22 @@
       "sscore": "3.22",
       "rscore": "0.00",
       "uscore": "0.00",
-      "tscore": "3.22"
+      "tscore": "3.22",
+      "eggnog": {
+        "X1": "MAG06_921_2",
+        "X2": "266834.SMc00651",
+        "X3": 1.8e-108,
+        "X4": 397.1,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01VSZ@aproNOG,08RBC@bactNOG,177T8@proNOG,COG5400@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "Conserved protein"
+      }
     },
     {
       "seqnames": "MAG06_995",
@@ -46,7 +61,22 @@
       "sscore": "9.12",
       "rscore": "3.33",
       "uscore": "0.93",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_921_3",
+        "X2": "266834.SMc00652",
+        "X3": 7.4e-116,
+        "X4": 421.8,
+        "X5": "CHPT",
+        "X6": null,
+        "X7": "K13588",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01WU7@aproNOG,08VFF@bactNOG,179RT@proNOG,COG5385@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "Uncharacterized protein conserved in bacteria (DUF2328)"
+      }
     }
   ],
   "seqname": "MAG06_995",

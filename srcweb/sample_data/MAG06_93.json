@@ -22,7 +22,22 @@
       "sscore": "3.22",
       "rscore": "0.00",
       "uscore": "0.00",
-      "tscore": "3.22"
+      "tscore": "3.22",
+      "eggnog": {
+        "X1": "MAG06_216_2",
+        "X2": "266834.SMc04129",
+        "X3": 6.3e-252,
+        "X4": 874.8,
+        "X5": null,
+        "X6": null,
+        "X7": "K19181",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01V19@aproNOG,05DDC@bactNOG,16QCS@proNOG,COG0673@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "Oxidoreductase"
+      }
     }
   ],
   "seqname": "MAG06_93",

@@ -22,7 +22,22 @@
       "sscore": "17.09",
       "rscore": "13.75",
       "uscore": "0.35",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_255_2",
+        "X2": "266834.SMc02693",
+        "X3": 1.9e-133,
+        "X4": 480.3,
+        "X5": "PTH",
+        "X6": "GO:0003674,GO:0003824,GO:0004045,GO:0005575,GO:0005622,GO:0005623,GO:0005737,GO:0005886,GO:0006508,GO:0006515,GO:0008150,GO:0008152,GO:0009056,GO:0009057,GO:0009987,GO:0016020,GO:0016787,GO:0016788,GO:0019538,GO:0030163,GO:0040007,GO:0043170,GO:0044237,GO:0044238,GO:0044248,GO:0044257,GO:0044260,GO:0044265,GO:0044267,GO:0044424,GO:0044464,GO:0051603,GO:0052689,GO:0071704,GO:0071944,GO:1901575",
+        "X7": "K01056",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01S0R@aproNOG,08ZPD@bactNOG,16T5S@proNOG,COG0193@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "J",
+        "X13": "The natural substrate for this enzyme may be peptidyl- tRNAs which drop off the ribosome during protein synthesis (By similarity)"
+      }
     },
     {
       "seqnames": "MAG06_133",
@@ -46,7 +61,22 @@
       "sscore": "5.42",
       "rscore": "4.67",
       "uscore": "-1.48",
-      "tscore": "2.23"
+      "tscore": "2.23",
+      "eggnog": {
+        "X1": "MAG06_255_3",
+        "X2": "266834.SMc02692",
+        "X3": 8.2e-109,
+        "X4": 398.3,
+        "X5": "RPLY",
+        "X6": "GO:0003674,GO:0003735,GO:0005198,GO:0005575,GO:0005622,GO:0005623,GO:0005737,GO:0005829,GO:0006412,GO:0008150,GO:0008152,GO:0009058,GO:0009059,GO:0009987,GO:0010467,GO:0019538,GO:0034645,GO:0043170,GO:0044237,GO:0044238,GO:0044249,GO:0044260,GO:0044267,GO:0044424,GO:0044444,GO:0044464,GO:0071704,GO:1901576",
+        "X7": "K02897",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01WSM@aproNOG,05KW6@bactNOG,17FJ9@proNOG,COG1825@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "J",
+        "X13": "This is one of the proteins that binds to the 5S RNA in the ribosome where it forms part of the central protuberance (By similarity)"
+      }
     },
     {
       "seqnames": "MAG06_133",
@@ -70,7 +100,22 @@
       "sscore": "12.64",
       "rscore": "7.63",
       "uscore": "1.37",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_256_1",
+        "X2": "258594.RPA2378",
+        "X3": 9.8e-141,
+        "X4": 505.4,
+        "X5": null,
+        "X6": "GO:0005575,GO:0005623,GO:0009279,GO:0016020,GO:0019867,GO:0030312,GO:0030313,GO:0031975,GO:0044462,GO:0044464,GO:0071944",
+        "X7": "K02014",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01UTB@aproNOG,05CB4@bactNOG,0XPYS@NOG,16PQB@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": "P",
+        "X13": "tonB-dependent siderophore receptor"
+      }
     },
     {
       "seqnames": "MAG06_133",
@@ -94,7 +139,22 @@
       "sscore": "12.37",
       "rscore": "7.85",
       "uscore": "0.88",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_256_2",
+        "X2": "266834.SMc02351",
+        "X3": 2.6e-83,
+        "X4": 313.2,
+        "X5": "BMUL_1424",
+        "X6": "GO:0005575,GO:0005622,GO:0005623,GO:0005737,GO:0044424,GO:0044464",
+        "X7": "K06886",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01ZIH@aproNOG,05VIG@bactNOG,17MMK@proNOG,COG2346@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "Inherit from proNOG: SEC-independent protein translocase protein"
+      }
     },
     {
       "seqnames": "MAG06_133",
@@ -118,7 +178,22 @@
       "sscore": "9.28",
       "rscore": "6.69",
       "uscore": "0.13",
-      "tscore": "3.11"
+      "tscore": "3.11",
+      "eggnog": {
+        "X1": "MAG06_256_3",
+        "X2": "266834.SMc02350",
+        "X3": 8.6e-108,
+        "X4": 394.8,
+        "X5": "ERUM0960",
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01WWV@aproNOG,08R5Q@bactNOG,177VQ@proNOG,COG0526@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "O",
+        "X13": "Redoxin"
+      }
     },
     {
       "seqnames": "MAG06_133",
@@ -142,7 +217,22 @@
       "sscore": "2.26",
       "rscore": "7.63",
       "uscore": "0.16",
-      "tscore": "-4.87"
+      "tscore": "-4.87",
+      "eggnog": {
+        "X1": "MAG06_256_4",
+        "X2": "266834.SMc02349",
+        "X3": 2.2e-310,
+        "X4": 1069.3,
+        "X5": "ASFA",
+        "X6": null,
+        "X7": "K00278",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01XFN@aproNOG,05DUI@bactNOG,16T9J@proNOG,COG1053@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "C",
+        "X13": "Fumarate reductase flavoprotein C-term"
+      }
     },
     {
       "seqnames": "MAG06_133",
@@ -166,7 +256,22 @@
       "sscore": "14.24",
       "rscore": "10.54",
       "uscore": "0.05",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_256_5",
+        "X2": "266834.SMc02347",
+        "X3": 8.3e-60,
+        "X4": 234.6,
+        "X5": "ASFB",
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "022TF@aproNOG,05QXY@bactNOG,17NKM@proNOG,COG1146@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "C",
+        "X13": "4Fe-4S ferredoxin iron-sulfur binding domain protein"
+      }
     },
     {
       "seqnames": "MAG06_133",
@@ -190,7 +295,22 @@
       "sscore": "11.95",
       "rscore": "7.63",
       "uscore": "-0.57",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_256_6",
+        "X2": "266834.SMc02346",
+        "X3": 4e-151,
+        "X4": 539.3,
+        "X5": null,
+        "X6": null,
+        "X7": "K02049",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01TG3@aproNOG,05D7T@bactNOG,16PZ1@proNOG,COG1116@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "P",
+        "X13": "ABC transporter"
+      }
     },
     {
       "seqnames": "MAG06_133",
@@ -214,7 +334,22 @@
       "sscore": "1.16",
       "rscore": "-0.88",
       "uscore": "-0.15",
-      "tscore": "2.84"
+      "tscore": "2.84",
+      "eggnog": {
+        "X1": "MAG06_256_7",
+        "X2": "266834.SMc02345",
+        "X3": 7.1e-151,
+        "X4": 538.5,
+        "X5": null,
+        "X6": "GO:0005575,GO:0016020",
+        "X7": "K02050",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01VDI@aproNOG,08Q8V@bactNOG,1773D@proNOG,COG0600@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "P",
+        "X13": "transport system, permease ABC transporter protein"
+      }
     },
     {
       "seqnames": "MAG06_133",
@@ -238,7 +373,22 @@
       "sscore": "13.26",
       "rscore": "7.85",
       "uscore": "1.77",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_257_1",
+        "X2": "641118.OINT_2001787",
+        "X3": 1.8e-64,
+        "X4": 250.4,
+        "X5": "ASNB",
+        "X6": null,
+        "X7": "K01953",
+        "X8": "ASNS1",
+        "X9": "bactNOG[38]",
+        "X10": "01TCR@aproNOG,05CAQ@bactNOG,16QZ2@proNOG,COG0367@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "E",
+        "X13": "Asparagine synthetase"
+      }
     },
     {
       "seqnames": "MAG06_133",
@@ -262,7 +412,22 @@
       "sscore": "3.22",
       "rscore": "0.00",
       "uscore": "0.00",
-      "tscore": "3.22"
+      "tscore": "3.22",
+      "eggnog": {
+        "X1": "MAG06_257_2",
+        "X2": "641118.OINT_2001789",
+        "X3": 2.8e-239,
+        "X4": 833.2,
+        "X5": "CPHA",
+        "X6": "GO:0005575,GO:0005622,GO:0005623,GO:0005737,GO:0044424,GO:0044464",
+        "X7": "K01919,K03802",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01RHQ@aproNOG,05D9M@bactNOG,16T4J@proNOG,COG0456@NOG,COG1181@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "M",
+        "X13": "Gnat-family acetyltransferase"
+      }
     }
   ],
   "seqname": "MAG06_133",

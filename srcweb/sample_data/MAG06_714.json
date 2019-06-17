@@ -22,7 +22,22 @@
       "sscore": "3.22",
       "rscore": "0.00",
       "uscore": "0.00",
-      "tscore": "3.22"
+      "tscore": "3.22",
+      "eggnog": {
+        "X1": "MAG06_707_3",
+        "X2": "491916.RHECIAT_CH0003558",
+        "X3": 4e-173,
+        "X4": 612.8,
+        "X5": "URTC",
+        "X6": null,
+        "X7": "K01998,K11961",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01QE9@aproNOG,05C5P@bactNOG,16PHB@proNOG,COG4177@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "E",
+        "X13": "ABC transporter permease protein"
+      }
     },
     {
       "seqnames": "MAG06_714",
@@ -46,7 +61,22 @@
       "sscore": "4.89",
       "rscore": "2.03",
       "uscore": "-1.99",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_707_4",
+        "X2": "311403.Arad_3478",
+        "X3": 5e-174,
+        "X4": 615.9,
+        "X5": "LIVH",
+        "X6": null,
+        "X7": "K01997,K11960",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01R37@aproNOG,07RB5@bactNOG,16QNH@proNOG,COG0559@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "E",
+        "X13": "ABC transporter permease protein"
+      }
     },
     {
       "seqnames": "MAG06_714",
@@ -70,7 +100,22 @@
       "sscore": "18.17",
       "rscore": "13.75",
       "uscore": "0.77",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_708_1",
+        "X2": "266779.Meso_0262",
+        "X3": 1e-98,
+        "X4": 365.2,
+        "X5": "CYTR",
+        "X6": "GO:0000975,GO:0000976,GO:0001067,GO:0001071,GO:0003674,GO:0003676,GO:0003677,GO:0003700,GO:0005488,GO:0006355,GO:0008150,GO:0009889,GO:0009890,GO:0009892,GO:0010468,GO:0010556,GO:0010558,GO:0010605,GO:0010629,GO:0019219,GO:0019222,GO:0031323,GO:0031324,GO:0031326,GO:0031327,GO:0043565,GO:0044212,GO:0045892,GO:0045934,GO:0048519,GO:0048523,GO:0050789,GO:0050794,GO:0051171,GO:0051172,GO:0051252,GO:0051253,GO:0060255,GO:0065007,GO:0080090,GO:0097159,GO:1901363,GO:2000112,GO:2000113,GO:2001141",
+        "X7": "K05499",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01UIB@aproNOG,05ETE@bactNOG,16PW5@proNOG,COG1609@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "K",
+        "X13": "Transcriptional regulator, LacI family"
+      }
     },
     {
       "seqnames": "MAG06_714",
@@ -94,7 +139,22 @@
       "sscore": "15.28",
       "rscore": "10.54",
       "uscore": "1.09",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_708_2",
+        "X2": "266779.Meso_0263",
+        "X3": 1.1e-131,
+        "X4": 474.9,
+        "X5": null,
+        "X6": null,
+        "X7": "K10440",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01ZNV@aproNOG,05G20@bactNOG,11FNG@NOG,17HD4@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": "G",
+        "X13": "ABC transporter"
+      }
     },
     {
       "seqnames": "MAG06_714",
@@ -118,7 +178,22 @@
       "sscore": "-0.60",
       "rscore": "-4.72",
       "uscore": "-0.26",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_708_3",
+        "X2": "266779.Meso_0264",
+        "X3": 4.7e-122,
+        "X4": 443,
+        "X5": null,
+        "X6": null,
+        "X7": "K10440",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "026IG@aproNOG,06B40@bactNOG,17ZBY@proNOG,COG1172@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "G",
+        "X13": "ABC transporter, membrane spanning protein"
+      }
     },
     {
       "seqnames": "MAG06_714",
@@ -142,7 +217,22 @@
       "sscore": "11.43",
       "rscore": "7.85",
       "uscore": "-0.94",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_708_4",
+        "X2": "266779.Meso_0265",
+        "X3": 2.7e-185,
+        "X4": 653.7,
+        "X5": "RBSA1",
+        "X6": "GO:0005575,GO:0005623,GO:0005886,GO:0016020,GO:0044464,GO:0071944",
+        "X7": "K01995,K01996,K02056,K10441,K10548",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "025JT@aproNOG,05C2J@bactNOG,17WFX@proNOG,COG1129@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "E",
+        "X13": "ABC transporter, nucleotide binding ATPase protein"
+      }
     }
   ],
   "seqname": "MAG06_714",

@@ -22,7 +22,22 @@
       "sscore": "1.00",
       "rscore": "0.21",
       "uscore": "-2.20",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_144_15",
+        "X2": "765698.Mesci_5294",
+        "X3": 0,
+        "X4": 1462.2,
+        "X5": null,
+        "X6": null,
+        "X7": "K00302,K00315,K19191",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01U95@aproNOG,05C5K@bactNOG,16QJ8@proNOG,COG0404@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "E",
+        "X13": "FAD dependent oxidoreductase"
+      }
     },
     {
       "seqnames": "MAG06_835",
@@ -46,7 +61,22 @@
       "sscore": "12.82",
       "rscore": "7.63",
       "uscore": "0.53",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_144_16",
+        "X2": "765698.Mesci_5293",
+        "X3": 2.4e-122,
+        "X4": 443.7,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01ZKF@aproNOG,07UDS@bactNOG,11RI8@NOG,17E7M@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": "K",
+        "X13": "transcriptional Regulator, LysR family"
+      }
     },
     {
       "seqnames": "MAG06_835",
@@ -70,7 +100,22 @@
       "sscore": "5.34",
       "rscore": "2.03",
       "uscore": "0.32",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_803_3",
+        "X2": "266834.SMc02049",
+        "X3": 0,
+        "X4": 1933.3,
+        "X5": "GCVP",
+        "X6": "GO:0003674,GO:0003824,GO:0004375,GO:0005575,GO:0005618,GO:0005622,GO:0005623,GO:0005737,GO:0005829,GO:0005886,GO:0008150,GO:0008152,GO:0016020,GO:0016491,GO:0016638,GO:0016642,GO:0030312,GO:0040007,GO:0044424,GO:0044444,GO:0044464,GO:0044710,GO:0055114,GO:0071944",
+        "X7": "K00281,K00283",
+        "X8": "GCCa,GLYCL",
+        "X9": "bactNOG[38]",
+        "X10": "01RRK@aproNOG,05CBI@bactNOG,16QJM@proNOG,COG0403@NOG,COG1003@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "E",
+        "X13": "The glycine cleavage system catalyzes the degradation of glycine. The P protein binds the alpha-amino group of glycine through its pyridoxal phosphate cofactor"
+      }
     },
     {
       "seqnames": "MAG06_835",
@@ -94,7 +139,22 @@
       "sscore": "3.22",
       "rscore": "0.00",
       "uscore": "0.00",
-      "tscore": "3.22"
+      "tscore": "3.22",
+      "eggnog": {
+        "X1": "MAG06_804_1",
+        "X2": "176299.Atu1195",
+        "X3": 1.4e-236,
+        "X4": 824.3,
+        "X5": "CTPA",
+        "X6": "GO:0005575,GO:0005576,GO:0005618,GO:0005622,GO:0005623,GO:0005737,GO:0005829,GO:0005886,GO:0005887,GO:0008150,GO:0009405,GO:0009607,GO:0010035,GO:0010038,GO:0016020,GO:0016021,GO:0030312,GO:0031224,GO:0031226,GO:0042221,GO:0044403,GO:0044419,GO:0044424,GO:0044425,GO:0044444,GO:0044459,GO:0044464,GO:0046688,GO:0050896,GO:0051701,GO:0051704,GO:0051707,GO:0052173,GO:0052200,GO:0052564,GO:0052572,GO:0071944,GO:0075136",
+        "X7": "K01533,K12949,K12956,K17686",
+        "X8": "Cuabc,Cut1",
+        "X9": "bactNOG[38]",
+        "X10": "01Q98@aproNOG,05C59@bactNOG,16PUR@proNOG,COG2217@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "P",
+        "X13": "p-type atpase"
+      }
     }
   ],
   "seqname": "MAG06_835",

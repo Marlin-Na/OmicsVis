@@ -22,7 +22,22 @@
       "sscore": "4.93",
       "rscore": "-0.69",
       "uscore": "-2.43",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_86_2",
+        "X2": "1117943.SFHH103_01177",
+        "X3": 2.2e-214,
+        "X4": 750,
+        "X5": "FDH",
+        "X6": null,
+        "X7": "K00122",
+        "X8": "FDH",
+        "X9": "bactNOG[38]",
+        "X10": "01SDE@aproNOG,05FDJ@bactNOG,16T06@proNOG,COG1052@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "C",
+        "X13": "d-isomer specific 2-hydroxyacid dehydrogenase nad-binding"
+      }
     },
     {
       "seqnames": "MAG06_906",
@@ -46,7 +61,22 @@
       "sscore": "10.38",
       "rscore": "7.63",
       "uscore": "-0.24",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_860_1",
+        "X2": "266834.SMc02733",
+        "X3": 0,
+        "X4": 1244.6,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01T8M@aproNOG,06CQS@bactNOG,173RR@proNOG,COG0464@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "O",
+        "X13": "ATPase family associated with various cellular activities (AAA)"
+      }
     },
     {
       "seqnames": "MAG06_906",
@@ -70,7 +100,22 @@
       "sscore": "5.41",
       "rscore": "1.19",
       "uscore": "0.57",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_860_2",
+        "X2": "266834.SMc02734",
+        "X3": 3.8e-61,
+        "X4": 239.2,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01QIP@aproNOG,05EIQ@bactNOG,0XNSV@NOG,16PKN@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": null,
+        "X13": null
+      }
     },
     {
       "seqnames": "MAG06_906",
@@ -94,7 +139,22 @@
       "sscore": "15.45",
       "rscore": "7.85",
       "uscore": "2.69",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_861_1",
+        "X2": "266834.SMc02634",
+        "X3": 0,
+        "X4": 1313.9,
+        "X5": "SCLAV_3021",
+        "X6": null,
+        "X7": "K07093",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01RWK@aproNOG,05E4M@bactNOG,16PXX@proNOG,COG3211@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "twin-arginine translocation pathway signal"
+      }
     },
     {
       "seqnames": "MAG06_906",
@@ -118,7 +178,22 @@
       "sscore": "13.71",
       "rscore": "10.54",
       "uscore": "-0.48",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_861_2",
+        "X2": "266834.SMc02633",
+        "X3": 0,
+        "X4": 1719.9,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01TK3@aproNOG,062T5@bactNOG,177EY@proNOG,COG5373@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "Predicted membrane protein (DUF2339)"
+      }
     },
     {
       "seqnames": "MAG06_906",
@@ -142,7 +217,22 @@
       "sscore": "12.29",
       "rscore": "7.63",
       "uscore": "1.67",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_861_3",
+        "X2": "266834.SMc02632",
+        "X3": 8.2e-115,
+        "X4": 418.3,
+        "X5": "YEDJ",
+        "X6": null,
+        "X7": "K06950",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01W0G@aproNOG,05EST@bactNOG,174Z7@proNOG,COG1418@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "Metal dependent phosphohydrolase"
+      }
     },
     {
       "seqnames": "MAG06_906",
@@ -166,7 +256,22 @@
       "sscore": "7.36",
       "rscore": "2.03",
       "uscore": "1.69",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_861_4",
+        "X2": "266834.SMc02631",
+        "X3": 1.1e-164,
+        "X4": 584.3,
+        "X5": "YCBX",
+        "X6": "GO:0008150,GO:0008152,GO:0009056,GO:0009404,GO:0009407,GO:0009987,GO:0019748,GO:0044237,GO:0044248,GO:0044710",
+        "X7": "K07140",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01WPV@aproNOG,05QVC@bactNOG,16TKC@proNOG,COG3217@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "MOSC domain-containing protein"
+      }
     }
   ],
   "seqname": "MAG06_906",

@@ -22,7 +22,22 @@
       "sscore": "9.79",
       "rscore": "9.39",
       "uscore": "-3.58",
-      "tscore": "3.98"
+      "tscore": "3.98",
+      "eggnog": {
+        "X1": "MAG06_276_4",
+        "X2": "216596.RL3890",
+        "X3": 1.4e-57,
+        "X4": 227.6,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01YT2@aproNOG,090UX@bactNOG,11PTP@NOG,17F9F@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "Pfam:DUF1468"
+      }
     },
     {
       "seqnames": "MAG06_162",
@@ -46,7 +61,22 @@
       "sscore": "2.53",
       "rscore": "-0.18",
       "uscore": "-1.27",
-      "tscore": "3.98"
+      "tscore": "3.98",
+      "eggnog": {
+        "X1": "MAG06_276_5",
+        "X2": "216596.RL3889",
+        "X3": 7.1e-247,
+        "X4": 858.2,
+        "X5": null,
+        "X6": null,
+        "X7": "K07793",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01QBX@aproNOG,05C1D@bactNOG,16PJ6@proNOG,COG3333@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "membrane"
+      }
     },
     {
       "seqnames": "MAG06_162",
@@ -70,7 +100,22 @@
       "sscore": "0.48",
       "rscore": "-0.18",
       "uscore": "-4.53",
-      "tscore": "3.98"
+      "tscore": "3.98",
+      "eggnog": {
+        "X1": "MAG06_277_2",
+        "X2": "266834.SMc00459",
+        "X3": 8.6e-177,
+        "X4": 624.8,
+        "X5": "YCJG",
+        "X6": null,
+        "X7": "K02549,K19802",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01R8U@aproNOG,07S8C@bactNOG,16RYB@proNOG,COG4948@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "M",
+        "X13": "mandelate racemase muconate lactonizing"
+      }
     },
     {
       "seqnames": "MAG06_162",
@@ -94,7 +139,22 @@
       "sscore": "3.55",
       "rscore": "-0.23",
       "uscore": "-0.60",
-      "tscore": "3.16"
+      "tscore": "3.16",
+      "eggnog": {
+        "X1": "MAG06_277_3",
+        "X2": "266834.SMc00172",
+        "X3": 2.7e-74,
+        "X4": 283.1,
+        "X5": "HCAT",
+        "X6": "GO:0005575,GO:0005623,GO:0005886,GO:0016020,GO:0044464,GO:0071944",
+        "X7": "K05820",
+        "X8": "PPPNt2r,PPPNt2rpp",
+        "X9": "bactNOG[38]",
+        "X10": "01XRQ@aproNOG,05D8G@bactNOG,0XQVS@NOG,16SGU@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": "P",
+        "X13": "major facilitator superfamily MFS_1"
+      }
     },
     {
       "seqnames": "MAG06_162",
@@ -118,7 +178,22 @@
       "sscore": "10.45",
       "rscore": "-0.18",
       "uscore": "6.65",
-      "tscore": "3.98"
+      "tscore": "3.98",
+      "eggnog": {
+        "X1": "MAG06_278_1",
+        "X2": "316274.Haur_4006",
+        "X3": 5.7e-10,
+        "X4": 69.7,
+        "X5": null,
+        "X6": "GO:0000271,GO:0005975,GO:0005976,GO:0008150,GO:0008152,GO:0009058,GO:0009059,GO:0009987,GO:0016051,GO:0033692,GO:0034637,GO:0034645,GO:0043170,GO:0044237,GO:0044238,GO:0044249,GO:0044260,GO:0044262,GO:0044264,GO:0044723,GO:0045226,GO:0046379,GO:0071704,GO:1901576",
+        "X7": "K08252,K08253",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "05D75@bactNOG,0D2E5@chloNOG,0D6G3@chlorNOG,COG0489@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "D",
+        "X13": "exopolysaccharide tyrosine-protein kinase"
+      }
     }
   ],
   "seqname": "MAG06_162",

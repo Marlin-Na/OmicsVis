@@ -22,7 +22,22 @@
       "sscore": "14.61",
       "rscore": "10.54",
       "uscore": "0.42",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_702_2",
+        "X2": "266834.SMc01117",
+        "X3": 5.5e-87,
+        "X4": 325.5,
+        "X5": "RIMI",
+        "X6": "GO:0003674,GO:0003824,GO:0004596,GO:0008080,GO:0008150,GO:0008152,GO:0008999,GO:0016407,GO:0016410,GO:0016740,GO:0016746,GO:0016747,GO:0034212",
+        "X7": "K03789",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "021FX@aproNOG,080T4@bactNOG,16WQ5@proNOG,COG0456@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "Ribosomal-protein-alanine acetyltransferase"
+      }
     },
     {
       "seqnames": "MAG06_706",
@@ -46,7 +61,22 @@
       "sscore": "-0.53",
       "rscore": "-4.72",
       "uscore": "0.54",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_702_3",
+        "X2": "266834.SMc01116",
+        "X3": 4.1e-162,
+        "X4": 575.9,
+        "X5": "PLSC",
+        "X6": null,
+        "X7": "K00655",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01UWG@aproNOG,08Z20@bactNOG,16WBM@proNOG,COG0204@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "I",
+        "X13": "Acyltransferase"
+      }
     }
   ],
   "seqname": "MAG06_706",

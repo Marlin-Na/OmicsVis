@@ -22,7 +22,22 @@
       "sscore": "6.53",
       "rscore": "13.75",
       "uscore": "-1.70",
-      "tscore": "-4.87"
+      "tscore": "-4.87",
+      "eggnog": {
+        "X1": "MAG06_445_5",
+        "X2": "266834.SMc04143",
+        "X3": 2.1e-127,
+        "X4": 460.3,
+        "X5": null,
+        "X6": null,
+        "X7": "K05799",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01ZIA@aproNOG,07EG7@bactNOG,17F1I@proNOG,COG2186@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "K",
+        "X13": "GntR family transcriptional regulator"
+      }
     },
     {
       "seqnames": "MAG06_364",
@@ -46,7 +61,22 @@
       "sscore": "12.19",
       "rscore": "7.63",
       "uscore": "0.92",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_445_6",
+        "X2": "266834.SMc04144",
+        "X3": 8.7e-72,
+        "X4": 274.6,
+        "X5": "ILVD1",
+        "X6": null,
+        "X7": "K01687",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01QPT@aproNOG,05C01@bactNOG,16PQJ@proNOG,COG0129@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "E",
+        "X13": "Dihydroxy-acid dehydratase"
+      }
     },
     {
       "seqnames": "MAG06_364",
@@ -70,7 +100,22 @@
       "sscore": "3.22",
       "rscore": "0.00",
       "uscore": "0.00",
-      "tscore": "3.22"
+      "tscore": "3.22",
+      "eggnog": {
+        "X1": "MAG06_446_1",
+        "X2": "266834.SMc02147",
+        "X3": 9.9e-18,
+        "X4": 93.6,
+        "X5": "PHOR",
+        "X6": null,
+        "X7": "K07636,K11383",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01QID@aproNOG,05BZU@bactNOG,0XNMH@NOG,16Q12@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": "T",
+        "X13": "Histidine kinase"
+      }
     }
   ],
   "seqname": "MAG06_364",

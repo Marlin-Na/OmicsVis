@@ -22,7 +22,22 @@
       "sscore": "3.89",
       "rscore": "2.03",
       "uscore": "-1.78",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_114_1",
+        "X2": "765698.Mesci_5172",
+        "X3": 1.2e-103,
+        "X4": 381.7,
+        "X5": null,
+        "X6": null,
+        "X7": "K02056",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "05EPY@bactNOG,0XRD2@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "(ABC) transporter"
+      }
     },
     {
       "seqnames": "MAG06_492",
@@ -46,7 +61,22 @@
       "sscore": "4.32",
       "rscore": "2.03",
       "uscore": "-0.70",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_114_2",
+        "X2": "765698.Mesci_5171",
+        "X3": 1.8e-60,
+        "X4": 237.7,
+        "X5": "ARAH6",
+        "X6": null,
+        "X7": "K02057,K10440,K10538,K10541,K10553,K17203,K17206,K17209,K17214",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "05CNN@bactNOG,16T5V@proNOG,COG1172@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "G",
+        "X13": "ABC transporter (permease)"
+      }
     },
     {
       "seqnames": "MAG06_492",
@@ -70,7 +100,22 @@
       "sscore": "4.95",
       "rscore": "3.02",
       "uscore": "0.49",
-      "tscore": "1.44"
+      "tscore": "1.44",
+      "eggnog": {
+        "X1": "MAG06_544_4",
+        "X2": "311402.Avi_5122",
+        "X3": 2.4e-136,
+        "X4": 490.3,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "05TSY@bactNOG,11G16@NOG,17K79@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": "K",
+        "X13": "Transcriptional Regulator AraC Family"
+      }
     },
     {
       "seqnames": "MAG06_492",
@@ -94,7 +139,22 @@
       "sscore": "3.78",
       "rscore": "2.03",
       "uscore": "-1.24",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_544_5",
+        "X2": "1033810.HLPCO_14609",
+        "X3": 5.2e-66,
+        "X4": 256.9,
+        "X5": "GALR",
+        "X6": "GO:0006355,GO:0008150,GO:0009889,GO:0009890,GO:0009892,GO:0010468,GO:0010556,GO:0010558,GO:0010605,GO:0010629,GO:0019219,GO:0019222,GO:0031323,GO:0031324,GO:0031326,GO:0031327,GO:0045892,GO:0045934,GO:0048519,GO:0048523,GO:0050789,GO:0050794,GO:0051171,GO:0051172,GO:0051252,GO:0051253,GO:0060255,GO:0065007,GO:0080090,GO:2000112,GO:2000113,GO:2001141",
+        "X7": "K02529,K12113",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "05CQ4@bactNOG,COG1609@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "K",
+        "X13": "Transcriptional regulator"
+      }
     }
   ],
   "seqname": "MAG06_492",

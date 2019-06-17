@@ -22,7 +22,22 @@
       "sscore": "-3.75",
       "rscore": "-4.72",
       "uscore": "-2.03",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_835_4",
+        "X2": "266834.SMc01566",
+        "X3": 4.6e-305,
+        "X4": 1051.6,
+        "X5": "RECQ",
+        "X6": "GO:0006139,GO:0006259,GO:0006725,GO:0006807,GO:0008150,GO:0008152,GO:0009987,GO:0034641,GO:0043170,GO:0044237,GO:0044238,GO:0044260,GO:0046483,GO:0071704,GO:0090304,GO:1901360",
+        "X7": "K03169,K03654",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01R5T@aproNOG,05C9U@bactNOG,16PKD@proNOG,COG0514@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "L",
+        "X13": "ATP-dependent DNA helicase RecQ"
+      }
     },
     {
       "seqnames": "MAG06_879",
@@ -46,7 +61,22 @@
       "sscore": "-6.86",
       "rscore": "-6.77",
       "uscore": "-3.27",
-      "tscore": "2.54"
+      "tscore": "2.54",
+      "eggnog": {
+        "X1": "MAG06_836_1",
+        "X2": "266834.SMc00466",
+        "X3": 1.7e-39,
+        "X4": 166.8,
+        "X5": "YCJF",
+        "X6": "GO:0005575,GO:0005623,GO:0005886,GO:0016020,GO:0044464,GO:0071944",
+        "X7": "K08990",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01SBU@aproNOG,06K28@bactNOG,173XU@proNOG,COG3768@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "UPF0283 membrane protein"
+      }
     },
     {
       "seqnames": "MAG06_879",
@@ -70,7 +100,22 @@
       "sscore": "14.24",
       "rscore": "10.54",
       "uscore": "0.05",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_836_2",
+        "X2": "266834.SMc00548",
+        "X3": 2.4e-96,
+        "X4": 356.7,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01XHG@aproNOG,08V0W@bactNOG,11IVK@NOG,17A16@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": null,
+        "X13": null
+      }
     },
     {
       "seqnames": "MAG06_879",
@@ -94,7 +139,22 @@
       "sscore": "12.80",
       "rscore": "7.63",
       "uscore": "2.18",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_836_3",
+        "X2": "266834.SMc00465",
+        "X3": 1.8e-81,
+        "X4": 307,
+        "X5": "FOLK",
+        "X6": "GO:0000287,GO:0003674,GO:0003824,GO:0003848,GO:0005488,GO:0005575,GO:0005622,GO:0005623,GO:0005737,GO:0006082,GO:0006520,GO:0006575,GO:0006725,GO:0006732,GO:0006760,GO:0006807,GO:0008150,GO:0008152,GO:0009987,GO:0016740,GO:0016772,GO:0016778,GO:0019752,GO:0042558,GO:0043167,GO:0043169,GO:0043436,GO:0044237,GO:0044238,GO:0044281,GO:0044424,GO:0044464,GO:0044710,GO:0046483,GO:0046872,GO:0051186,GO:0071704,GO:1901360,GO:1901564,GO:1901605",
+        "X7": "K00950,K13940",
+        "X8": "DHNPA_1,HPPK,HPPK2",
+        "X9": "bactNOG[38]",
+        "X10": "01XFC@aproNOG,05K8U@bactNOG,17FWJ@proNOG,COG0801@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "H",
+        "X13": "2-amino-4-hydroxy-6-hydroxymethyldihydropteridine pyrophosphokinase"
+      }
     },
     {
       "seqnames": "MAG06_879",
@@ -118,7 +178,8 @@
       "sscore": "18.76",
       "rscore": "13.75",
       "uscore": "1.37",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {}
     }
   ],
   "seqname": "MAG06_879",

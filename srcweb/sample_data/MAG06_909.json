@@ -22,7 +22,22 @@
       "sscore": "8.47",
       "rscore": "9.04",
       "uscore": "-3.12",
-      "tscore": "3.20"
+      "tscore": "3.20",
+      "eggnog": {
+        "X1": "MAG06_862_3",
+        "X2": "395963.Bind_2089",
+        "X3": 6.3e-121,
+        "X4": 439.1,
+        "X5": "OCAR_6810",
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01T3R@aproNOG,05EGJ@bactNOG,0XR3H@NOG,16S4D@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": "K",
+        "X13": "LysR family transcriptional regulator"
+      }
     },
     {
       "seqnames": "MAG06_909",
@@ -46,7 +61,22 @@
       "sscore": "15.93",
       "rscore": "12.94",
       "uscore": "-0.21",
-      "tscore": "3.20"
+      "tscore": "3.20",
+      "eggnog": {
+        "X1": "MAG06_862_4",
+        "X2": "395963.Bind_2090",
+        "X3": 8.9e-15,
+        "X4": 84,
+        "X5": "BMUL_3948",
+        "X6": null,
+        "X7": "K08081",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01XRD@aproNOG,05CGW@bactNOG,0XNWU@NOG,16PTC@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "Short-chain dehydrogenase reductase SDR"
+      }
     }
   ],
   "seqname": "MAG06_909",

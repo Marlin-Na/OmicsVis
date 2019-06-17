@@ -22,7 +22,22 @@
       "sscore": "10.97",
       "rscore": "10.54",
       "uscore": "-3.21",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_529_1",
+        "X2": "311403.Arad_9306",
+        "X3": 9.3e-25,
+        "X4": 117.9,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01Y2I@aproNOG,0901B@bactNOG,11KKD@NOG,17C4U@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": "M",
+        "X13": "Glycosyl Transferase"
+      }
     },
     {
       "seqnames": "MAG06_473",
@@ -46,7 +61,22 @@
       "sscore": "-3.59",
       "rscore": "2.03",
       "uscore": "-1.99",
-      "tscore": "-4.87"
+      "tscore": "-4.87",
+      "eggnog": {
+        "X1": "MAG06_529_2",
+        "X2": "311403.Arad_9308",
+        "X3": 2e-256,
+        "X4": 890.2,
+        "X5": "PEAH",
+        "X6": null,
+        "X7": "K06147,K06148,K11085",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01W78@aproNOG,05BZ1@bactNOG,1793F@proNOG,COG1132@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "V",
+        "X13": "ABC transporter"
+      }
     },
     {
       "seqnames": "MAG06_473",
@@ -70,7 +100,22 @@
       "sscore": "13.98",
       "rscore": "10.54",
       "uscore": "-1.47",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_529_3",
+        "X2": "269084.syc0113_c",
+        "X3": 2.7e-136,
+        "X4": 490.3,
+        "X5": "FBA",
+        "X6": null,
+        "X7": "K01624",
+        "X8": "FBA,FBA2,FBA3",
+        "X9": "NOG[107]",
+        "X10": "COG0191@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "G",
+        "X13": "Aldolase"
+      }
     },
     {
       "seqnames": "MAG06_473",
@@ -94,7 +139,8 @@
       "sscore": "8.22",
       "rscore": "5.19",
       "uscore": "0.04",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {}
     },
     {
       "seqnames": "MAG06_473",
@@ -118,7 +164,8 @@
       "sscore": "7.25",
       "rscore": "2.03",
       "uscore": "1.58",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {}
     },
     {
       "seqnames": "MAG06_473",
@@ -142,7 +189,8 @@
       "sscore": "7.74",
       "rscore": "5.49",
       "uscore": "-0.79",
-      "tscore": "2.62"
+      "tscore": "2.62",
+      "eggnog": {}
     },
     {
       "seqnames": "MAG06_473",
@@ -166,7 +214,22 @@
       "sscore": "13.13",
       "rscore": "7.63",
       "uscore": "0.57",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_529_4",
+        "X2": "1050720.Agau_L100675",
+        "X3": 2.9e-267,
+        "X4": 926,
+        "X5": "OPPA",
+        "X6": null,
+        "X7": "K02035,K15580,K16199",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "02ED3@aproNOG,08J59@bactNOG,1735B@proNOG,COG4166@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "E",
+        "X13": "Extracellular solute-binding protein, family 5"
+      }
     },
     {
       "seqnames": "MAG06_473",
@@ -190,7 +253,22 @@
       "sscore": "6.86",
       "rscore": "3.33",
       "uscore": "-0.11",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_529_5",
+        "X2": "1050720.Agau_L100672",
+        "X3": 3.3e-146,
+        "X4": 523.1,
+        "X5": "OPPB",
+        "X6": "GO:0005575,GO:0016020",
+        "X7": "K02033,K15581",
+        "X8": "GALMAN4abc,GALMAN6abc,GLCMAN4abc,GLCMAN6abc",
+        "X9": "bactNOG[38]",
+        "X10": "01QES@aproNOG,05CJM@bactNOG,16PNR@proNOG,COG0601@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "P",
+        "X13": "Binding-protein-dependent transport systems inner membrane component"
+      }
     },
     {
       "seqnames": "MAG06_473",
@@ -214,7 +292,22 @@
       "sscore": "3.22",
       "rscore": "0.00",
       "uscore": "0.00",
-      "tscore": "3.22"
+      "tscore": "3.22",
+      "eggnog": {
+        "X1": "MAG06_529_6",
+        "X2": "861208.AGROH133_13211",
+        "X3": 9.5e-63,
+        "X4": 245,
+        "X5": "OPPC",
+        "X6": "GO:0005575,GO:0016020",
+        "X7": "K02034,K15582",
+        "X8": "GALMAN4abc,GALMAN6abc,GLCMAN4abc,GLCMAN6abc",
+        "X9": "bactNOG[38]",
+        "X10": "01TJ0@aproNOG,05C2T@bactNOG,16R8W@proNOG,COG1173@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "P",
+        "X13": "Binding-protein-dependent transport systems inner membrane component"
+      }
     }
   ],
   "seqname": "MAG06_473",

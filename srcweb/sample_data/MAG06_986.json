@@ -22,7 +22,22 @@
       "sscore": "3.22",
       "rscore": "0.00",
       "uscore": "0.00",
-      "tscore": "3.22"
+      "tscore": "3.22",
+      "eggnog": {
+        "X1": "MAG06_916_1",
+        "X2": "340100.Bpet3873",
+        "X3": 5.7e-29,
+        "X4": 131.7,
+        "X5": "OCAR_6078",
+        "X6": "GO:0005575,GO:0016020",
+        "X7": "K02034",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "05F92@bactNOG,0ZBMK@NOG,16SZD@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": "P",
+        "X13": "Dipeptide transport system permease DppC"
+      }
     },
     {
       "seqnames": "MAG06_986",
@@ -46,7 +61,22 @@
       "sscore": "4.57",
       "rscore": "-4.85",
       "uscore": "0.23",
-      "tscore": "3.54"
+      "tscore": "3.54",
+      "eggnog": {
+        "X1": "MAG06_916_2",
+        "X2": "340100.Bpet3872",
+        "X3": 1.1e-200,
+        "X4": 704.9,
+        "X5": null,
+        "X6": null,
+        "X7": "K02031,K02032,K10823,K10824,K13892,K13896,K15587",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "08JQ6@bactNOG,173F0@proNOG,COG1123@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "(ABC) transporter"
+      }
     },
     {
       "seqnames": "MAG06_986",
@@ -70,7 +100,22 @@
       "sscore": "14.17",
       "rscore": "10.54",
       "uscore": "-0.01",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_916_3",
+        "X2": "412597.PaTRP_010100014298",
+        "X3": 2.3e-32,
+        "X4": 144.8,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01R5C@aproNOG,05F3P@bactNOG,0XPSQ@NOG,16QW9@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "Integral membrane protein"
+      }
     },
     {
       "seqnames": "MAG06_986",
@@ -94,7 +139,22 @@
       "sscore": "12.96",
       "rscore": "7.63",
       "uscore": "0.80",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_917_1",
+        "X2": "311403.Arad_8420",
+        "X3": 1.9e-63,
+        "X4": 247.3,
+        "X5": null,
+        "X6": null,
+        "X7": "K10440",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01VJP@aproNOG,065XH@bactNOG,11G9K@NOG,174W4@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": "G",
+        "X13": "Branched-chain amino acid transport system / permease component"
+      }
     },
     {
       "seqnames": "MAG06_986",
@@ -118,7 +178,22 @@
       "sscore": "5.89",
       "rscore": "10.54",
       "uscore": "0.87",
-      "tscore": "-4.87"
+      "tscore": "-4.87",
+      "eggnog": {
+        "X1": "MAG06_917_2",
+        "X2": "311403.Arad_8422",
+        "X3": 1.8e-131,
+        "X4": 474.2,
+        "X5": null,
+        "X6": null,
+        "X7": "K10440",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01RR6@aproNOG,07C11@bactNOG,17656@proNOG,COG1172@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "G",
+        "X13": "ABC transporter"
+      }
     },
     {
       "seqnames": "MAG06_986",
@@ -142,7 +217,22 @@
       "sscore": "7.18",
       "rscore": "2.03",
       "uscore": "1.51",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_917_3",
+        "X2": "176299.Atu4032",
+        "X3": 9.5e-10,
+        "X4": 67,
+        "X5": null,
+        "X6": null,
+        "X7": "K10441",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01RAM@aproNOG,05CQQ@bactNOG,0XP59@NOG,16Q63@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": "P",
+        "X13": "ABC transporter"
+      }
     },
     {
       "seqnames": "MAG06_986",
@@ -166,7 +256,22 @@
       "sscore": "10.33",
       "rscore": "5.19",
       "uscore": "1.49",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_918_2",
+        "X2": "1007104.SUS17_2792",
+        "X3": 7.3e-25,
+        "X4": 118.2,
+        "X5": "DD703_0305",
+        "X6": null,
+        "X7": "K07746",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "023HC@aproNOG,05N0N@bactNOG,17GUR@proNOG,COG3609@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "K",
+        "X13": "Uncharacterised protein family (UPF0156)"
+      }
     },
     {
       "seqnames": "MAG06_986",
@@ -190,7 +295,22 @@
       "sscore": "19.83",
       "rscore": "13.75",
       "uscore": "1.58",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_918_3",
+        "X2": "491916.RHECIAT_CH0001328",
+        "X3": 2.2e-149,
+        "X4": 533.9,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01QZV@aproNOG,05DRF@bactNOG,16STI@proNOG,COG0438@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "M",
+        "X13": "glycosyl transferase group 1"
+      }
     },
     {
       "seqnames": "MAG06_986",
@@ -214,7 +334,22 @@
       "sscore": "-4.09",
       "rscore": "-4.72",
       "uscore": "-3.67",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_918_4",
+        "X2": "323098.Nwi_2111",
+        "X3": 1.3e-161,
+        "X4": 574.7,
+        "X5": "BMUL_3686",
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01R2Z@aproNOG,05D4C@bactNOG,16Q00@proNOG,COG3408@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "G",
+        "X13": "Amylo-alpha-1,6-glucosidase"
+      }
     }
   ],
   "seqname": "MAG06_986",

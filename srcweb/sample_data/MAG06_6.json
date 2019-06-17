@@ -22,7 +22,8 @@
       "sscore": "3.22",
       "rscore": "0.00",
       "uscore": "0.00",
-      "tscore": "3.22"
+      "tscore": "3.22",
+      "eggnog": {}
     },
     {
       "seqnames": "MAG06_6",
@@ -46,7 +47,22 @@
       "sscore": "17.63",
       "rscore": "13.75",
       "uscore": "-0.64",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_1003_5",
+        "X2": "266834.SMc03819",
+        "X3": 3.5e-72,
+        "X4": 276.2,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01ZGE@aproNOG,090Y7@bactNOG,125F9@NOG,17DV1@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": "T",
+        "X13": "cNMP"
+      }
     },
     {
       "seqnames": "MAG06_6",
@@ -70,7 +86,8 @@
       "sscore": "2.49",
       "rscore": "-0.69",
       "uscore": "0.19",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {}
     },
     {
       "seqnames": "MAG06_6",
@@ -94,7 +111,22 @@
       "sscore": "2.96",
       "rscore": "7.32",
       "uscore": "1.36",
-      "tscore": "-5.07"
+      "tscore": "-5.07",
+      "eggnog": {
+        "X1": "MAG06_1003_6",
+        "X2": "266834.SMc03818",
+        "X3": 1.2e-160,
+        "X4": 570.9,
+        "X5": "XTHA1",
+        "X6": null,
+        "X7": "K01142",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01RVI@aproNOG,07QTV@bactNOG,16QZE@proNOG,COG0708@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "L",
+        "X13": "Exodeoxyribonuclease III"
+      }
     },
     {
       "seqnames": "MAG06_6",
@@ -118,7 +150,22 @@
       "sscore": "12.36",
       "rscore": "7.63",
       "uscore": "1.09",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_1003_7",
+        "X2": "266834.SMc03809",
+        "X3": 4.2e-119,
+        "X4": 432.6,
+        "X5": "LOLA",
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01W07@aproNOG,08TUR@bactNOG,179HB@proNOG,COG2834@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "M",
+        "X13": "outer membrane lipoprotein carrier protein"
+      }
     },
     {
       "seqnames": "MAG06_6",
@@ -142,7 +189,8 @@
       "sscore": "-5.18",
       "rscore": "-1.48",
       "uscore": "0.34",
-      "tscore": "-4.87"
+      "tscore": "-4.87",
+      "eggnog": {}
     },
     {
       "seqnames": "MAG06_6",
@@ -166,7 +214,22 @@
       "sscore": "12.13",
       "rscore": "7.85",
       "uscore": "1.29",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_1003_8",
+        "X2": "266834.SMc03808",
+        "X3": 8.1e-172,
+        "X4": 608.2,
+        "X5": "FTSK",
+        "X6": "GO:0005575,GO:0005623,GO:0005886,GO:0016020,GO:0044464,GO:0071944",
+        "X7": "K03466",
+        "X8": null,
+        "X9": "NOG[107]",
+        "X10": "COG1674@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "D",
+        "X13": "cell division protein FtsK"
+      }
     }
   ],
   "seqname": "MAG06_6",

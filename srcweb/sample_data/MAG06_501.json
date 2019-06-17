@@ -22,7 +22,22 @@
       "sscore": "0.29",
       "rscore": "-4.72",
       "uscore": "1.36",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_55_16",
+        "X2": "266834.SMc04008",
+        "X3": 8.6e-51,
+        "X4": 204.5,
+        "X5": "OCAR_5085",
+        "X6": null,
+        "X7": "K09948",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01ZR2@aproNOG,05K8A@bactNOG,17FEI@proNOG,COG3492@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "Deoxycytidine triphosphate deaminase"
+      }
     },
     {
       "seqnames": "MAG06_501",
@@ -46,7 +61,22 @@
       "sscore": "10.43",
       "rscore": "6.95",
       "uscore": "0.80",
-      "tscore": "3.32"
+      "tscore": "3.32",
+      "eggnog": {
+        "X1": "MAG06_55_17",
+        "X2": "266834.SMc04007",
+        "X3": 2.6e-155,
+        "X4": 553.1,
+        "X5": "OCAR_5139",
+        "X6": null,
+        "X7": "K01458",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01SSA@aproNOG,05EIA@bactNOG,16Q2W@proNOG,COG3931@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "E",
+        "X13": "N-formylglutamate amidohydrolase"
+      }
     },
     {
       "seqnames": "MAG06_501",
@@ -70,7 +100,22 @@
       "sscore": "13.29",
       "rscore": "6.68",
       "uscore": "2.12",
-      "tscore": "3.19"
+      "tscore": "3.19",
+      "eggnog": {
+        "X1": "MAG06_55_18",
+        "X2": "266834.SMc04006",
+        "X3": 2.5e-80,
+        "X4": 303.1,
+        "X5": "OCAR_5084",
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01WWG@aproNOG,08VT1@bactNOG,179Q4@proNOG,COG5480@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "Protein of unknown function (DUF1036)"
+      }
     },
     {
       "seqnames": "MAG06_501",
@@ -94,7 +139,22 @@
       "sscore": "15.94",
       "rscore": "9.61",
       "uscore": "1.71",
-      "tscore": "3.32"
+      "tscore": "3.32",
+      "eggnog": {
+        "X1": "MAG06_55_19",
+        "X2": "266834.SMc04005",
+        "X3": 9.4e-265,
+        "X4": 917.5,
+        "X5": "PYK",
+        "X6": null,
+        "X7": "K00873",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01R3S@aproNOG,05CA9@bactNOG,16PEB@proNOG,COG0469@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "G",
+        "X13": "Pyruvate kinase"
+      }
     },
     {
       "seqnames": "MAG06_501",
@@ -118,7 +178,22 @@
       "sscore": "13.02",
       "rscore": "7.63",
       "uscore": "0.52",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_55_2",
+        "X2": "266834.SMc04021",
+        "X3": 8.8e-76,
+        "X4": 288.1,
+        "X5": "YBBJ",
+        "X6": "GO:0005575,GO:0005623,GO:0005886,GO:0016020,GO:0044464,GO:0071944",
+        "X7": "K07340",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "020X2@aproNOG,05G5H@bactNOG,17CE3@proNOG,COG1585@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "O, U",
+        "X13": "NfeD-like C-terminal, partner-binding"
+      }
     }
   ],
   "seqname": "MAG06_501",

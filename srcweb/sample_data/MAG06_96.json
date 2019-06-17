@@ -22,7 +22,22 @@
       "sscore": "7.11",
       "rscore": "2.03",
       "uscore": "1.43",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_219_3",
+        "X2": "266834.SMc02682",
+        "X3": 2e-206,
+        "X4": 723.4,
+        "X5": "BMUL_2972",
+        "X6": null,
+        "X7": "K00574,K18164",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01QJC@aproNOG,05HD3@bactNOG,16SB8@proNOG,COG1565@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "ATP synthase beta subunit transription termination factor rho"
+      }
     },
     {
       "seqnames": "MAG06_96",
@@ -46,7 +61,22 @@
       "sscore": "8.00",
       "rscore": "2.03",
       "uscore": "1.30",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_219_4",
+        "X2": "266834.SMc02681",
+        "X3": 1.3e-157,
+        "X4": 560.8,
+        "X5": "LGT",
+        "X6": "GO:0003674,GO:0003824,GO:0005575,GO:0005623,GO:0005886,GO:0005887,GO:0006464,GO:0008150,GO:0008152,GO:0008961,GO:0009058,GO:0009059,GO:0009987,GO:0016020,GO:0016021,GO:0016740,GO:0016757,GO:0019538,GO:0031224,GO:0031226,GO:0034645,GO:0036211,GO:0042157,GO:0042158,GO:0043170,GO:0043412,GO:0044237,GO:0044238,GO:0044249,GO:0044260,GO:0044267,GO:0044425,GO:0044459,GO:0044464,GO:0071704,GO:0071944,GO:1901576",
+        "X7": "K13292",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01QQP@aproNOG,05C3B@bactNOG,16PEZ@proNOG,COG0682@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "M",
+        "X13": "Transfers the N-acyl diglyceride group on what will become the N-terminal cysteine of membrane lipoproteins (By similarity)"
+      }
     },
     {
       "seqnames": "MAG06_96",
@@ -70,7 +100,22 @@
       "sscore": "8.65",
       "rscore": "2.03",
       "uscore": "1.73",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_219_5",
+        "X2": "266834.SMc03744",
+        "X3": 4e-42,
+        "X4": 175.6,
+        "X5": "OCAR_7192",
+        "X6": null,
+        "X7": "K09806",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "0227N@aproNOG,05WEQ@bactNOG,17JU5@proNOG,COG2960@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "Pfam:DUF526"
+      }
     },
     {
       "seqnames": "MAG06_96",
@@ -94,7 +139,22 @@
       "sscore": "-1.66",
       "rscore": "2.03",
       "uscore": "1.18",
-      "tscore": "-4.87"
+      "tscore": "-4.87",
+      "eggnog": {
+        "X1": "MAG06_219_6",
+        "X2": "266834.SMc02678",
+        "X3": 2.4e-90,
+        "X4": 336.7,
+        "X5": "OCAR_7199",
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01WU5@aproNOG,08WCU@bactNOG,17A0W@proNOG,COG5465@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "Pfam:DUF1790"
+      }
     },
     {
       "seqnames": "MAG06_96",
@@ -118,7 +178,22 @@
       "sscore": "7.60",
       "rscore": "2.03",
       "uscore": "0.73",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_219_7",
+        "X2": "266834.SMc02677",
+        "X3": 1.7e-141,
+        "X4": 507.3,
+        "X5": "PROC",
+        "X6": "GO:0005575,GO:0005622,GO:0005623,GO:0005737,GO:0044424,GO:0044464",
+        "X7": "K00286",
+        "X8": "HPROa,P5CR",
+        "X9": "bactNOG[38]",
+        "X10": "01WHA@aproNOG,05II7@bactNOG,16TM4@proNOG,COG0345@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "E",
+        "X13": "Pyrroline-5-carboxylate reductase"
+      }
     },
     {
       "seqnames": "MAG06_96",
@@ -142,7 +217,22 @@
       "sscore": "3.22",
       "rscore": "0.00",
       "uscore": "0.00",
-      "tscore": "3.22"
+      "tscore": "3.22",
+      "eggnog": {
+        "X1": "MAG06_219_8",
+        "X2": "266834.SMc04456",
+        "X3": 2.4e-57,
+        "X4": 226.5,
+        "X5": "CSAA",
+        "X6": "GO:0005575,GO:0005622,GO:0005623,GO:0005737,GO:0006457,GO:0006810,GO:0008150,GO:0008152,GO:0009987,GO:0019538,GO:0043170,GO:0044237,GO:0044238,GO:0044260,GO:0044267,GO:0044424,GO:0044464,GO:0044699,GO:0044765,GO:0046903,GO:0051179,GO:0051234,GO:0071704",
+        "X7": "K06878",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01Y2G@aproNOG,08Z7R@bactNOG,17C9R@proNOG,COG0073@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "J",
+        "X13": "Chaperone CsaA"
+      }
     }
   ],
   "seqname": "MAG06_96",

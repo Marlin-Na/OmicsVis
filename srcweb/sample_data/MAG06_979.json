@@ -22,7 +22,22 @@
       "sscore": "5.87",
       "rscore": "2.03",
       "uscore": "0.20",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_911_2",
+        "X2": "266834.SMc02727",
+        "X3": 1.2e-158,
+        "X4": 564.3,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01W2R@aproNOG,08WUK@bactNOG,174BC@proNOG,COG3921@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "Extensin family"
+      }
     }
   ],
   "seqname": "MAG06_979",

@@ -22,7 +22,22 @@
       "sscore": "2.39",
       "rscore": "2.03",
       "uscore": "-3.29",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_677_8",
+        "X2": "536019.Mesop_6521",
+        "X3": 2.3e-133,
+        "X4": 480.7,
+        "X5": "SPXB",
+        "X6": null,
+        "X7": "K00156,K00158",
+        "X8": "POX,POX2",
+        "X9": "bactNOG[38]",
+        "X10": "01VBY@aproNOG,05C7K@bactNOG,16QTY@proNOG,COG0028@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "C",
+        "X13": "Thiamine pyrophosphate protein"
+      }
     },
     {
       "seqnames": "MAG06_669",
@@ -46,7 +61,22 @@
       "sscore": "16.27",
       "rscore": "13.75",
       "uscore": "-0.47",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_677_9",
+        "X2": "765698.Mesci_5470",
+        "X3": 2.8e-76,
+        "X4": 290.4,
+        "X5": "SPXB",
+        "X6": null,
+        "X7": "K00156,K00158",
+        "X8": "POX,POX2",
+        "X9": "bactNOG[38]",
+        "X10": "01QU4@aproNOG,05C7K@bactNOG,16QTY@proNOG,COG0028@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "C",
+        "X13": "Pyruvate dehydrogenase"
+      }
     },
     {
       "seqnames": "MAG06_669",
@@ -70,7 +100,22 @@
       "sscore": "8.95",
       "rscore": "5.51",
       "uscore": "-0.20",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_678_1",
+        "X2": "266834.SMc00611",
+        "X3": 0,
+        "X4": 1556.2,
+        "X5": "MPRF",
+        "X6": "GO:0005575,GO:0005623,GO:0005886,GO:0006629,GO:0008150,GO:0008152,GO:0009405,GO:0009636,GO:0009987,GO:0016020,GO:0030258,GO:0042221,GO:0044237,GO:0044238,GO:0044255,GO:0044464,GO:0044710,GO:0050896,GO:0051704,GO:0071704,GO:0071944",
+        "X7": "K07027,K14205",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01QJB@aproNOG,05FF5@bactNOG,16PMD@proNOG,COG0392@NOG,COG2898@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "Oxacillin resistance-associated protein fmtc"
+      }
     },
     {
       "seqnames": "MAG06_669",
@@ -94,7 +139,8 @@
       "sscore": "10.51",
       "rscore": "13.75",
       "uscore": "-2.53",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {}
     }
   ],
   "seqname": "MAG06_669",

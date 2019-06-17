@@ -22,7 +22,22 @@
       "sscore": "16.56",
       "rscore": "13.75",
       "uscore": "-0.83",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_89_2",
+        "X2": "266834.SMc00896",
+        "X3": 2.3e-151,
+        "X4": 540,
+        "X5": "SUHB2",
+        "X6": null,
+        "X7": "K01092,K05602",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01TFI@aproNOG,05ERR@bactNOG,16SEB@proNOG,COG0483@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "G",
+        "X13": "Inositol monophosphatase"
+      }
     },
     {
       "seqnames": "MAG06_943",
@@ -46,7 +61,22 @@
       "sscore": "16.68",
       "rscore": "13.75",
       "uscore": "-0.71",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_89_3",
+        "X2": "266834.SMc00895",
+        "X3": 2.6e-39,
+        "X4": 166,
+        "X5": "OCAR_7254",
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "021F1@aproNOG,05VMW@bactNOG,122CC@NOG,17KJJ@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "Inositol monophosphatase family protein"
+      }
     },
     {
       "seqnames": "MAG06_943",
@@ -70,7 +100,22 @@
       "sscore": "7.89",
       "rscore": "2.03",
       "uscore": "1.07",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_89_4",
+        "X2": "266834.SMc00894",
+        "X3": 3e-249,
+        "X4": 865.9,
+        "X5": "KDTA",
+        "X6": "GO:0000271,GO:0003674,GO:0003824,GO:0005575,GO:0005623,GO:0005886,GO:0005975,GO:0005976,GO:0006629,GO:0008150,GO:0008152,GO:0008610,GO:0008653,GO:0009058,GO:0009059,GO:0009103,GO:0009244,GO:0009311,GO:0009312,GO:0009987,GO:0016020,GO:0016051,GO:0016740,GO:0033692,GO:0034637,GO:0034645,GO:0043170,GO:0044237,GO:0044238,GO:0044249,GO:0044255,GO:0044260,GO:0044262,GO:0044264,GO:0044464,GO:0044710,GO:0044723,GO:0046401,GO:0071704,GO:0071944,GO:1901135,GO:1901137,GO:1901576",
+        "X7": "K02527",
+        "X8": "MOAT,MOAT2,MOAT2N,MOATN",
+        "X9": "bactNOG[38]",
+        "X10": "01R3X@aproNOG,05D8A@bactNOG,16Q3U@proNOG,COG1519@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "M",
+        "X13": "3-Deoxy-D-manno-octulosonic-acid transferase"
+      }
     },
     {
       "seqnames": "MAG06_943",
@@ -94,7 +139,22 @@
       "sscore": "12.56",
       "rscore": "7.63",
       "uscore": "-0.03",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_89_5",
+        "X2": "266834.SMc00893",
+        "X3": 1.5e-130,
+        "X4": 470.7,
+        "X5": null,
+        "X6": null,
+        "X7": "K01091",
+        "X8": "GMHEPPA,PGLYCP",
+        "X9": "bactNOG[38]",
+        "X10": "01ZSW@aproNOG,0616A@bactNOG,17HUN@proNOG,COG0546@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "had-superfamily hydrolase, subfamily ia, variant"
+      }
     },
     {
       "seqnames": "MAG06_943",
@@ -118,7 +178,22 @@
       "sscore": "17.90",
       "rscore": "13.75",
       "uscore": "-0.76",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_89_6",
+        "X2": "266834.SMc00892",
+        "X3": 1e-131,
+        "X4": 474.6,
+        "X5": "LPXK",
+        "X6": "GO:0000271,GO:0003674,GO:0003824,GO:0005575,GO:0005975,GO:0005976,GO:0006629,GO:0006643,GO:0006644,GO:0006664,GO:0006793,GO:0006796,GO:0008150,GO:0008152,GO:0008610,GO:0008653,GO:0008654,GO:0009029,GO:0009058,GO:0009059,GO:0009103,GO:0009244,GO:0009245,GO:0009247,GO:0009311,GO:0009312,GO:0009987,GO:0016020,GO:0016051,GO:0016301,GO:0016310,GO:0016740,GO:0016772,GO:0016773,GO:0019637,GO:0033692,GO:0034637,GO:0034645,GO:0043170,GO:0044237,GO:0044238,GO:0044249,GO:0044255,GO:0044260,GO:0044262,GO:0044264,GO:0044710,GO:0044723,GO:0046401,GO:0046467,GO:0046493,GO:0071704,GO:0090407,GO:1901135,GO:1901137,GO:1901269,GO:1901271,GO:1901576",
+        "X7": "K00912",
+        "X8": "TDSK,TDSKN",
+        "X9": "bactNOG[38]",
+        "X10": "01QZ4@aproNOG,05CHD@bactNOG,16PXU@proNOG,COG1663@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "M",
+        "X13": "Transfers the gamma-phosphate of ATP to the 4'-position of a tetraacyldisaccharide 1-phosphate intermediate (termed DS-1- P) to form tetraacyldisaccharide 1,4'-bis-phosphate (lipid IVA) (By similarity)"
+      }
     },
     {
       "seqnames": "MAG06_943",
@@ -142,7 +217,22 @@
       "sscore": "3.64",
       "rscore": "-0.37",
       "uscore": "1.01",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_890_1",
+        "X2": "266834.SMc00141",
+        "X3": 9.2e-260,
+        "X4": 901,
+        "X5": "OCAR_4293",
+        "X6": null,
+        "X7": "K03286",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01T89@aproNOG,08TMB@bactNOG,17806@proNOG,COG2885@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "M",
+        "X13": "OmpA MotB"
+      }
     },
     {
       "seqnames": "MAG06_943",
@@ -166,7 +256,22 @@
       "sscore": "14.07",
       "rscore": "7.63",
       "uscore": "1.68",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_890_2",
+        "X2": "266834.SMc00142",
+        "X3": 8.3e-94,
+        "X4": 348.2,
+        "X5": "MOBB",
+        "X6": "GO:0005575,GO:0005622,GO:0005623,GO:0005737,GO:0044424,GO:0044464",
+        "X7": "K03753",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01XB7@aproNOG,05FNP@bactNOG,17ANT@proNOG,COG1763@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "H",
+        "X13": "Molybdopterin-guanine dinucleotide biosynthesis protein B"
+      }
     },
     {
       "seqnames": "MAG06_943",
@@ -190,7 +295,22 @@
       "sscore": "12.19",
       "rscore": "7.63",
       "uscore": "1.57",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_890_3",
+        "X2": "266834.SMc00143",
+        "X3": 4.2e-119,
+        "X4": 432.6,
+        "X5": "MOBA",
+        "X6": "GO:0003674,GO:0003824,GO:0005575,GO:0005622,GO:0005623,GO:0005737,GO:0006732,GO:0006777,GO:0006793,GO:0006796,GO:0006807,GO:0008150,GO:0008152,GO:0009058,GO:0009108,GO:0009987,GO:0018130,GO:0019538,GO:0019637,GO:0019720,GO:0032324,GO:0043170,GO:0043545,GO:0044237,GO:0044238,GO:0044249,GO:0044260,GO:0044267,GO:0044424,GO:0044464,GO:0046483,GO:0051186,GO:0051188,GO:0051189,GO:0071704,GO:0090407,GO:1901360,GO:1901362,GO:1901564,GO:1901566,GO:1901576",
+        "X7": "K02379,K03752,K13818",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01UMV@aproNOG,05C6R@bactNOG,17C4D@proNOG,COG0746@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "H",
+        "X13": "Transfers a GMP moiety from GTP to Mo-molybdopterin (Mo- MPT) cofactor (Moco or molybdenum cofactor) to form Mo- molybdopterin guanine dinucleotide (Mo-MGD) cofactor (By similarity)"
+      }
     },
     {
       "seqnames": "MAG06_943",
@@ -214,7 +334,22 @@
       "sscore": "4.67",
       "rscore": "2.03",
       "uscore": "-1.00",
-      "tscore": "3.65"
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_890_4",
+        "X2": "266834.SMc00197",
+        "X3": 6.8e-160,
+        "X4": 568.5,
+        "X5": null,
+        "X6": null,
+        "X7": "K15270",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01S3G@aproNOG,05DBR@bactNOG,0XPS2@NOG,16QVH@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "transporter, RhaT family, DMT superfamily"
+      }
     }
   ],
   "seqname": "MAG06_943",

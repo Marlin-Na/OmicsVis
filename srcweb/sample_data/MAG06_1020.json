@@ -22,7 +22,8 @@
       "sscore": "16.49",
       "rscore": "11.72",
       "uscore": "0.34",
-      "tscore": "3.34"
+      "tscore": "3.34",
+      "eggnog": {}
     },
     {
       "seqnames": "MAG06_1020",
@@ -46,7 +47,22 @@
       "sscore": "5.75",
       "rscore": "11.72",
       "uscore": "-0.55",
-      "tscore": "-4.77"
+      "tscore": "-4.77",
+      "eggnog": {
+        "X1": "MAG06_94_6",
+        "X2": "266834.SMc02468",
+        "X3": 1.2e-123,
+        "X4": 447.6,
+        "X5": null,
+        "X6": null,
+        "X7": "K09992",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01VQD@aproNOG,0604I@bactNOG,1775R@proNOG,COG3828@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "Trehalose utilisation"
+      }
     },
     {
       "seqnames": "MAG06_1020",
@@ -70,7 +86,22 @@
       "sscore": "16.79",
       "rscore": "13.21",
       "uscore": "0.24",
-      "tscore": "3.34"
+      "tscore": "3.34",
+      "eggnog": {
+        "X1": "MAG06_94_7",
+        "X2": "266834.SMc02467",
+        "X3": 1.6e-114,
+        "X4": 417.2,
+        "X5": "MSRA2",
+        "X6": null,
+        "X7": "K07304,K12267",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01RJI@aproNOG,07R50@bactNOG,16UXT@proNOG,COG0225@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "O",
+        "X13": "Has an important function as a repair enzyme for proteins that have been inactivated by oxidation. Catalyzes the reversible oxidation-reduction of methionine sulfoxide in proteins to methionine (By similarity)"
+      }
     },
     {
       "seqnames": "MAG06_1020",
@@ -94,7 +125,22 @@
       "sscore": "-3.47",
       "rscore": "-6.29",
       "uscore": "-0.88",
-      "tscore": "-4.77"
+      "tscore": "-4.77",
+      "eggnog": {
+        "X1": "MAG06_94_8",
+        "X2": "366394.Smed_2956",
+        "X3": 2.2e-159,
+        "X4": 566.6,
+        "X5": "SDHB",
+        "X6": "GO:0005575,GO:0005623,GO:0005886,GO:0016020,GO:0044464,GO:0071944",
+        "X7": "K00240",
+        "X8": "FRD2,FRD3,SUCD1",
+        "X9": "bactNOG[38]",
+        "X10": "01Q9F@aproNOG,05E33@bactNOG,16R1C@proNOG,COG0479@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "C",
+        "X13": "succinate dehydrogenase"
+      }
     }
   ],
   "seqname": "MAG06_1020",

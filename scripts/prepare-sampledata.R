@@ -2,6 +2,10 @@
 library(here)
 library(GenomicRanges)
 
+GFF <- here("sample_data/MAG06.gff")
+EGGNOG <- here("sample_data/MAG06.faa.eggnog.txt")
+
+
 process_gff <- function(file) {
     ## There are some comments in the GFF file that contains useful
     ## information (e.g. seqlength).
@@ -26,12 +30,38 @@ process_gff <- function(file) {
     gff
 }
 
-gff <- process_gff(here("sample_data/MAG06.gff"))
-gff
+process_eggnog <- function(file, gff) {
+    eggnog <- readr::read_tsv(file, FALSE)
+    id <- eggnog$X1
+    eggnog_align_lst <- vector("list", length = length(gff))
+    names(eggnog_align_lst) <- local({
+        seqnames <- as.character(seqnames(gff))
+        seqnames <- split(seqnames, seqnames)
+        for (i in seq_along(seqnames)) {
+            seqnames[[i]] <- paste0(seqnames[[i]], "_", seq(length(seqnames[[i]])))
+        }
+        unlist(seqnames)
+    })
+    eggnog_align_lst[id] <- split(eggnog, id)
+    eggnog_align_lst[sapply(eggnog_align_lst, is.null)] <- list(data.frame())
+    names(eggnog_align_lst) <- NULL
+    eggnog_align_lst <- lapply(eggnog_align_lst, as.list)
+    eggnog_align_lst
+}
+
+gff <- process_gff(GFF)
+eggnog <- process_eggnog(EGGNOG, gff)
+
+length(gff)
+length(eggnog)
 
 seqlengths(gff)
 
-li <- split(as.data.frame(gff), seqnames(gff), drop = TRUE)
+library(jsonlite)
+
+df_gff <- as.data.frame(gff)
+df_gff$eggnog <- eggnog
+li <- split(df_gff, seqnames(gff), drop = TRUE)
 li <- lapply(li, function(x) list(gene_track = (x)))
 li <- lapply(li, function(x) {
     x$seqname <- unbox(as.character(unique(x$gene_track$seqnames)))
@@ -46,9 +76,9 @@ dist <- here("srcweb/sample_data/")
 if (!dir.exists(dist))
     dir.create(dist)
 
-library(jsonlite)
 for (el in li) {
-    jsonlite::write_json(el, file.path(dist, paste0(el$seqname, ".json")), pretty = TRUE)
+    jsonlite::write_json(el, file.path(dist, paste0(el$seqname, ".json")), pretty = TRUE,
+                         auto_unbox = TRUE)
 }
 
 
