@@ -5,6 +5,7 @@ class TrackView {
     constructor(div) {
         this.dom = div;
         this.board = tnt.board();
+        this.board.allow_drag(false);
         this.data_src = null;
     }
     init_vis() {
@@ -32,7 +33,19 @@ class TrackView {
             .height(30)
             .color("white")
             .data(tnt.board.track.data.sync().retriever(() => []))
-            .display(tnt.board.track.feature.block().color("#AD9274"));
+            .display(
+                tnt.board.track.feature.block().color("#AD9274")
+                    .on("click", function(d) {
+                        tnt.tooltip.table()
+                            .width(300)
+                            .call(this, {
+                                header: "EGGNOG Annotation",
+                                rows: [
+                                    {"label": "Type", "value": d.eggnog.X13},
+                                ]
+                            });
+                    })
+            );
 
         // Initialize the board
         this.board(this.dom);
@@ -61,7 +74,6 @@ class TrackView {
                 let seqlen = data.seqlen;
                 let seqname = data.seqname;
                 let gtrack_data = data.gene_track;
-                console.log(seqlen);
 
                 board.from(0).to(seqlen+1)
                     .max(seqlen+1)
