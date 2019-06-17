@@ -118,45 +118,6 @@ class TrackView {
     }
 }
 
-async function load_contig_list() {
-    let res;
-    res = await fetch("/sample_data/index.txt");
-    if (res.ok)
-        res = await res.text();
-    else
-        throw "Network error";
-    res = res.split("\n").filter(d => ! (d === ""));
-    let dom_contig_list = document.getElementById("contig-list");
-    let dom_ul = document.createElement("ul");
-    dom_contig_list.appendChild(dom_ul);
-    function on_click() {
-        let is_checked = this.checked;
-        let contig_id = this.dataset.contigId;
-        let vis_dom = document.getElementById("vis");
-        if (is_checked) {
-            let container = document.createElement("div");
-            container.id = "vis-" + contig_id;
-            vis_dom.appendChild(container);
-            let view = new TrackView(container);
-            view.set_data_src(contig_id);
-            view.init_vis();
-            view.update_vis();
-        }
-        else
-            document.getElementById("vis-" + contig_id).remove();
-    }
-    for (let each of res) {
-        let el = document.createElement("li");
-        let checkbox = document.createElement("input");
-        checkbox.type = "checkbox";
-        checkbox.onclick = on_click;
-        checkbox.dataset.contigId = each;
-        el.appendChild(checkbox);
-        el.appendChild(document.createTextNode(each));
-        dom_ul.appendChild(el);
-    }
-}
-
 async function load_data_table() {
     // Alternative to load_contig_list
     let res;
@@ -207,7 +168,6 @@ async function load_data_table() {
 
 
 async function main() {
-    //await load_contig_list();
     await load_data_table();
 }
 main();

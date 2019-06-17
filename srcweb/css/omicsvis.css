@@ -1,34 +1,4 @@
 
-/*
-main {
-    width: 70%;
-    margin: 0 auto;
-    border: 1px solid black;
-    min-height: 600px;
-}
-
-header {
-    height: 50px;
-}
-
-#sidebar {
-    height: 100%;
-    width: 200px;
-    position: fixed;
-    top: 0;
-    left: 0;
-    overflow-x: hidden;
-    padding-top: 20px;
-    padding-left: 10px;
-}
-
-#main {
-    margin-left: 200px;
-    padding: 0px 10px;
-}
-
-*/
-
 .scroll {
     height: calc(100vh - 60px);
     overflow: hidden;
@@ -43,8 +13,24 @@ body {
     height: 60px;
 }
 
+#sidebar {
+    position: fixed;
+    top: 60px;
+    height: calc(100vh - 60px);
+    width: 200px;
+}
+
 #contig-table {
-    width: 300px;
-    height: 600px;
+    width: 200px;
+    height: 100%;
+}
+
+#viscontainer {
+    position: fixed;
+    height: calc(100vh - 60px);
+    width: calc(100vw - 200px);
+    top: 60px;
+    left: 200px;
+    overflow-y: scroll;
 }
 
