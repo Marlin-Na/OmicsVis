@@ -28,3 +28,23 @@ header {
 }
 
 */
+
+.scroll {
+    height: calc(100vh - 60px);
+    overflow: hidden;
+    overflow-y: scroll;
+}
+
+body {
+    padding-top: 60px;
+}
+
+#global-navbar {
+    height: 60px;
+}
+
+#contig-table {
+    width: 300px;
+    height: 600px;
+}
+

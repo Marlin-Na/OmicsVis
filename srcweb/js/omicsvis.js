@@ -157,18 +157,58 @@ async function load_contig_list() {
     }
 }
 
+async function load_data_table() {
+    // Alternative to load_contig_list
+    let res;
+    res = await fetch("/sample_data/index.txt");
+    if (res.ok)
+        res = await res.text();
+    else
+        throw "Network error";
+    res = res.split("\n").filter(d => ! (d === ""));
+    // Convert to json
+    res = res.map(d => {return {contig_id: d}});
+
+    let columnDefs = [
+        {headerName: "Contig ID", field: "contig_id"}
+    ];
+    let rowData = res;
+
+    function onRowSelected(event) {
+        console.log(event);
+        window.event = event;
+        let contig_id = event.data.contig_id;
+        let is_checked = event.node.isSelected();
+
+        let vis_dom = document.getElementById("vis");
+        if (is_checked) {
+            let container = document.createElement("div");
+            container.id = "vis-" + contig_id;
+            vis_dom.appendChild(container);
+            let view = new TrackView(container);
+            view.set_data_src(contig_id);
+            view.init_vis();
+            view.update_vis();
+        }
+        else
+            document.getElementById("vis-" + contig_id).remove();
+    }
+
+    let gridOptions = {
+        columnDefs: columnDefs,
+        rowData: rowData,
+        rowSelection: "multiple",
+        rowMultiSelectWithClick: true,
+        onRowSelected: onRowSelected
+    };
+    let dom_table = document.getElementById("contig-table");
+    let table = new agGrid.Grid(dom_table, gridOptions);
+}
+
 
 async function main() {
-    await load_contig_list();
-
-    //let trackview = new TrackView("#vis");
-    //window.trackview = trackview;
-
-    //trackview
-    //    .set_data_src("MAG06_80");
-
-    //trackview.init_vis();
-    //trackview.update_vis();
+    //await load_contig_list();
+    await load_data_table();
 }
 main();
 
