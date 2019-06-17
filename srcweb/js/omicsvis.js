@@ -41,6 +41,7 @@ class TrackView {
                             .call(this, {
                                 header: "EGGNOG Annotation",
                                 rows: [
+                                    {"label": "RBS Motif", "value": d.rbs_motif},
                                     {"label": "Type", "value": d.eggnog.X13},
                                 ]
                             });
