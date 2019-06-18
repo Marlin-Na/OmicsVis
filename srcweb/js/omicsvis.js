@@ -8,10 +8,10 @@ class TrackView {
         this.board.allow_drag(false);
         this.data_src = null;
     }
-    init_vis() {
+    init_vis(concise = false) {
         // width is determined from the width of div
         // let width = d3v5.select(this.dom).node().getBoundingClientRect().width/1.1;
-        let width = 800; // Fixed width
+        let width = concise? 300 : 800; // Fixed width
         this.board.from(0).to(1000).max(1000).width(width);
 
         // Initialize tracks
@@ -51,8 +51,11 @@ class TrackView {
 
         // Initialize the board
         this.board(this.dom);
+
+        if (!concise)
+            this.board.add_track(axis_track);
+
         this.board
-            .add_track(axis_track)
             .add_track(contig_track)
             .add_track(gene_track);
 
@@ -163,6 +166,8 @@ async function load_data_table() {
     let gridOptions = {
         columnDefs: columnDefs,
         rowData: rowData,
+        pagination: true,
+        paginationAutoPageSize: true,
         rowSelection: "multiple",
         rowMultiSelectWithClick: true,
         onRowSelected: onRowSelected
