@@ -10,14 +10,15 @@ class TrackView {
     }
     init_vis() {
         // width is determined from the width of div
-        let width = d3v5.select(this.dom).node().getBoundingClientRect().width/1.1;
+        // let width = d3v5.select(this.dom).node().getBoundingClientRect().width/1.1;
+        let width = 800; // Fixed width
         this.board.from(0).to(1000).max(1000).width(width);
 
         // Initialize tracks
 
         let axis_track = tnt.board.track()
             .id("axis")
-            .height(20)
+            .height(5)
             .color("white")
             .display(tnt.board.track.feature.axis().orientation("top"));
 
@@ -30,7 +31,7 @@ class TrackView {
 
         let gene_track = tnt.board.track()
             .id("gene")
-            .height(30)
+            .height(20)
             .color("white")
             .data(tnt.board.track.data.sync().retriever(() => []))
             .display(
@@ -58,6 +59,10 @@ class TrackView {
         this.board.start();
         return this;
     }
+    // resize_vis() {
+    //     let width = d3v5.select(this.dom).node().getBoundingClientRect().width/1.1;
+    //     this.board.width(width);
+    // }
     update_vis() {
         let board = this.board;
         let contig_track = board.find_track("contig");
