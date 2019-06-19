@@ -147,6 +147,8 @@ async function load_data_table() {
             headerName: "Contig ID",
             field: "contig",
             sortable: true,
+            checkboxSelection: true,
+            //headerCheckboxSelection: true,
         },
         {
             headerName: "Len",
