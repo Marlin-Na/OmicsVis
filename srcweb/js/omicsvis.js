@@ -129,24 +129,19 @@ class TrackView {
 async function load_data_table() {
     // Alternative to load_contig_list
     let res;
-    res = await fetch("/sample_data/index.txt");
+    res = await fetch("/sample_data/index.json");
     if (res.ok)
-        res = await res.text();
+        res = await res.json();
     else
         throw "Network error";
-    res = res.split("\n").filter(d => ! (d === ""));
-    // Convert to json
-    res = res.map(d => {return {contig_id: d}});
 
     let columnDefs = [
-        {headerName: "Contig ID", field: "contig_id"}
+        {headerName: "Contig ID", field: "contig"}
     ];
     let rowData = res;
 
     function onRowSelected(event) {
-        console.log(event);
-        window.event = event;
-        let contig_id = event.data.contig_id;
+        let contig_id = event.data.contig;
         let is_checked = event.node.isSelected();
 
         let vis_dom = document.getElementById("vis");
