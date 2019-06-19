@@ -135,10 +135,45 @@ async function load_data_table() {
     else
         throw "Network error";
 
+
+
+    let colorScale_contiglength = d3v5.scaleSequential(d3v5.interpolateReds)
+        .domain(res.map(d => d.length));
+    let colorScale_NGenes = d3v5.scaleSequential(d3v5.interpolateReds)
+        .domain(res.map(d => d.number_gene));
+
     let columnDefs = [
-        {headerName: "Contig ID", field: "contig"},
-        {headerName: "Contig Length", field: "length"},
-        {headerName: "Number of Genes", field: "number_gene"},
+        {
+            headerName: "Contig ID",
+            field: "contig",
+            sortable: true,
+        },
+        {
+            headerName: "Len",
+            headerTooltip: "Contig Length",
+            field: "length",
+            filter: "agNumberColumnFilter",
+            type: "numericColumn",
+            sortable: true,
+            width: 100,
+            cellStyle: function(params) {
+                let color = colorScale_contiglength(params.value);
+                return {backgroundColor: color, color: "grey"};
+            }
+        },
+        {
+            headerName: "NGenes",
+            headerTooltip: "Number of Genes",
+            field: "number_gene",
+            filter: "agNumberColumnFilter",
+            type: "numericColumn",
+            sortable: true,
+            width: 100,
+            cellStyle: function(params) {
+                let color = colorScale_NGenes(params.value);
+                return {backgroundColor: color, color: "grey"};
+            }
+        },
     ];
     let rowData = res;
 
