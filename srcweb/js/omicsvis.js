@@ -136,7 +136,9 @@ async function load_data_table() {
         throw "Network error";
 
     let columnDefs = [
-        {headerName: "Contig ID", field: "contig"}
+        {headerName: "Contig ID", field: "contig"},
+        {headerName: "Contig Length", field: "length"},
+        {headerName: "Number of Genes", field: "number_gene"},
     ];
     let rowData = res;
 
