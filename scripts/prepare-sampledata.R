@@ -82,4 +82,24 @@ for (el in li) {
 }
 
 
+## Create index.json
+
+index_table <- dplyr::bind_rows(
+    lapply(li, function(x) {
+        contig <- as.character(x$seqname)
+        length <- as.integer(x$seqlen)
+        number_gene <- NROW(x$gene_track)
+        data.frame(contig = contig, length = length, number_gene = number_gene,
+                   stringsAsFactors = FALSE)
+    })
+)
+
+index_table
+jsonlite::write_json(index_table, file.path(dist, "index.json"),
+                     pretty = TRUE, auto_unbox = TRUE)
+
+
+
+
+
 
