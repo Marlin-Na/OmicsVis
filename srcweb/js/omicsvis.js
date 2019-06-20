@@ -126,6 +126,15 @@ class TrackView {
     }
 }
 
+let gridOptions;
+let option_filterSelected = false;
+
+// Header filter handler
+function binding_filterSelected(node) {
+    option_filterSelected = node.checked;
+    gridOptions.api.onFilterChanged();
+}
+
 async function load_data_table() {
     // Alternative to load_contig_list
     let res;
@@ -134,8 +143,6 @@ async function load_data_table() {
         res = await res.json();
     else
         throw "Network error";
-
-
 
     let colorScale_contiglength = d3v5.scaleSequential(d3v5.interpolateReds)
         .domain(res.map(d => d.length));
@@ -196,15 +203,27 @@ async function load_data_table() {
         else
             document.getElementById("vis-" + contig_id).remove();
     }
+    function isExternalFilterPresent() {
+        if (option_filterSelected === false)
+            return false;
+        else
+            return true;
+    }
+    function doesExternalFilterPass(node) {
+        if (option_filterSelected)
+            return node.isSelected();
+    }
 
-    let gridOptions = {
+    gridOptions = {
         columnDefs: columnDefs,
         rowData: rowData,
         pagination: true,
         paginationAutoPageSize: true,
         rowSelection: "multiple",
         rowMultiSelectWithClick: true,
-        onRowSelected: onRowSelected
+        onRowSelected: onRowSelected,
+        isExternalFilterPresent: isExternalFilterPresent,
+        doesExternalFilterPass: doesExternalFilterPass
     };
     let dom_table = document.getElementById("contig-table");
     let table = new agGrid.Grid(dom_table, gridOptions);
