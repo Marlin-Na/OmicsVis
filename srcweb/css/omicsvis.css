@@ -16,8 +16,12 @@ body {
 #sidebar {
     position: fixed;
     top: 60px;
-    height: calc(100vh - 60px);
+    height: calc(100vh - 60px - 25px);
     width: 500px;
+}
+
+#sidebar-header {
+    height: 25px;
 }
 
 #contig-table {
