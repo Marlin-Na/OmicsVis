@@ -186,6 +186,8 @@ async function load_data_table() {
     ];
     let rowData = res;
 
+    let ActiveViews = new Map();
+
     function onRowSelected(event) {
         let contig_id = event.data.contig;
         let is_checked = event.node.isSelected();
@@ -199,9 +201,12 @@ async function load_data_table() {
             view.set_data_src(contig_id);
             view.init_vis();
             view.update_vis();
+            ActiveViews.set(contig_id, view);
         }
-        else
+        else {
             document.getElementById("vis-" + contig_id).remove();
+            ActiveViews.delete(contig_id);
+        }
     }
     function isExternalFilterPresent() {
         if (option_filterSelected === false)
@@ -213,6 +218,17 @@ async function load_data_table() {
         if (option_filterSelected)
             return node.isSelected();
     }
+    function onCellMouseOver(event) {
+        // if (event.node.selected) {
+        //     let contig_id = event.data.contig;
+        //     let container_dom = document.getElementById("vis-" + contig_id);
+        //     let the_board = ActiveViews.get(contig_id).board;
+        //     container_dom.style.border = "thick bold black";
+        //     container_dom.style.backgroundColor = "green";
+        // }
+    }
+    function onCellMouseOut(event) {
+    }
 
     gridOptions = {
         columnDefs: columnDefs,
@@ -223,7 +239,9 @@ async function load_data_table() {
         rowMultiSelectWithClick: true,
         onRowSelected: onRowSelected,
         isExternalFilterPresent: isExternalFilterPresent,
-        doesExternalFilterPass: doesExternalFilterPass
+        doesExternalFilterPass: doesExternalFilterPass,
+        onCellMouseOver: onCellMouseOver,
+        onCellMouseOut: onCellMouseOut
     };
     let dom_table = document.getElementById("contig-table");
     let table = new agGrid.Grid(dom_table, gridOptions);
