@@ -19,20 +19,17 @@ class TrackView {
         let axis_track = tnt.board.track()
             .id("axis")
             .height(5)
-            .color("white")
             .display(tnt.board.track.feature.axis().orientation("top"));
 
         let contig_track = tnt.board.track()
             .id("contig")
             .height(10)
-            .color("white")
             .data(tnt.board.track.data.sync().retriever(() => []))
             .display(tnt.board.track.feature.block().color("#082A46"));
 
         let gene_track = tnt.board.track()
             .id("gene")
             .height(20)
-            .color("white")
             .data(tnt.board.track.data.sync().retriever(() => []))
             .display(
                 tnt.board.track.feature.block().color("#AD9274")
@@ -219,15 +216,20 @@ async function load_data_table() {
             return node.isSelected();
     }
     function onCellMouseOver(event) {
-        // if (event.node.selected) {
-        //     let contig_id = event.data.contig;
-        //     let container_dom = document.getElementById("vis-" + contig_id);
-        //     let the_board = ActiveViews.get(contig_id).board;
-        //     container_dom.style.border = "thick bold black";
-        //     container_dom.style.backgroundColor = "green";
-        // }
+        if (event.node.selected) {
+            let contig_id = event.data.contig;
+            let vis_dom = document.getElementById("vis-" + contig_id);
+            let the_board = ActiveViews.get(contig_id).board;
+            d3v5.select(vis_dom).classed("tntboard-highlight", true);
+        }
     }
     function onCellMouseOut(event) {
+        let contig_id = event.data.contig;
+        if (ActiveViews.has(contig_id)) {
+            let vis_dom = document.getElementById("vis-" + contig_id);
+            let the_board = ActiveViews.get(contig_id).board;
+            d3v5.select(vis_dom).classed("tntboard-highlight", false);
+        }
     }
 
     gridOptions = {

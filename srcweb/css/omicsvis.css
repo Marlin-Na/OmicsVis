@@ -38,3 +38,6 @@ body {
     overflow-y: scroll;
 }
 
+.tntboard-highlight {
+    background-color: cadetblue;
+}
