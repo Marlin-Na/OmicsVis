@@ -1,0 +1,45 @@
+{
+  "gene_track": [
+    {
+      "seqnames": "MAG06_751",
+      "start": 2,
+      "end": 1726,
+      "width": 1725,
+      "strand": "+",
+      "source": "Prodigal_v2.6.3",
+      "type": "CDS",
+      "score": 278.7,
+      "phase": 0,
+      "ID": "751_1",
+      "partial": "11",
+      "start_type": "Edge",
+      "rbs_motif": "None",
+      "rbs_spacer": "None",
+      "gc_cont": "0.642",
+      "conf": "99.99",
+      "score.1": "278.71",
+      "cscore": "277.10",
+      "sscore": "1.61",
+      "rscore": "0.00",
+      "uscore": "0.00",
+      "tscore": "1.61",
+      "eggnog": {
+        "X1": "MAG06_735_2",
+        "X2": "762376.AXYL_06106",
+        "X3": 1.3e-35,
+        "X4": 154.5,
+        "X5": "YTFH",
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "0816S@bactNOG,0BDZZ@bproNOG,17DQB@proNOG,COG1733@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "K",
+        "X13": "HxlR family transcriptional regulator"
+      }
+    }
+  ],
+  "seqname": "MAG06_751",
+  "seqlen": 1726
+}

@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+
+    <!-- D3 V5 -->
+    <script src="http://d3js.org/d3.v5.min.js"></script>
+    <script>window.d3v5 = window.d3;</script>
+
+    <!-- D3 V3 -->
+    <script src="http://d3js.org/d3.v3.min.js"></script>
+    <script>window.d3v3 = window.d3;</script>
+
+    <!-- TnT Genome -->
+    <link rel="stylesheet" href="http://tntvis.github.io/tnt.genome/build/tnt.genome.css" type="text/css"/>
+    <script src="http://tntvis.github.io/tnt.genome/build/tnt.genome.min.js"></script>
+
+    <!-- TnT Tooltips -->
+    <link rel="stylesheet" href="http://tntvis.github.io/tnt.tooltip/build/tnt.tooltip.css" type="text/css"/>
+    <!--
+         <script src="http://tntvis.github.io/tnt.tooltip/build/tnt.tooltip.min.js"></script>
+    -->
+    <script src="https://raw.githack.com/Marlin-Na/TnT/master/inst/htmlwidgets/lib/tnt.tooltip/tnt.tooltip.js"></script>
+
+    <!-- ag-Grid -->
+    <script src="https://unpkg.com/ag-grid-community/dist/ag-grid-community.min.noStyle.js"></script>
+    <link rel="stylesheet" href="https://unpkg.com/ag-grid-community/dist/styles/ag-grid.css">
+    <link rel="stylesheet" href="https://unpkg.com/ag-grid-community/dist/styles/ag-theme-balham.css">
+
+    <!-- CSS -->
+    <link rel="stylesheet" href="/css/omicsvis.css" type="text/css">
+</head>
+
+<body>
+    <nav id="global-navbar" class="navbar fixed-top navbar-expand navbar-dark bg-dark">
+        <a href="#" class="navbar-brand">OmicsVis</a>
+        <ul class="navbar-nav">
+            <li class="nav-item text-light">Help</li>
+        </ul>
+    </nav>
+
+    <main>
+        <div id="sidebar">
+            <div id="sidebar-header">
+                <label style="padding-left: 30px">
+                    <input type="checkbox" onchange="binding_filterSelected(this)"> Selected
+                </label>
+            </div>
+            <div id="contig-table" class="ag-theme-balham"></div>
+        </div>
+        <div id="viscontainer">
+            <div id="vis"></div>
+        </div>
+    </main>
+
+    <!-- JS -->
+    <script src="/js/omicsvis.js"></script>
+</body>
+</html>
+

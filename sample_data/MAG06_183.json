@@ -1,0 +1,45 @@
+{
+  "gene_track": [
+    {
+      "seqnames": "MAG06_183",
+      "start": 1,
+      "end": 1614,
+      "width": 1614,
+      "strand": "+",
+      "source": "Prodigal_v2.6.3",
+      "type": "CDS",
+      "score": 212.7,
+      "phase": 0,
+      "ID": "183_1",
+      "partial": "11",
+      "start_type": "Edge",
+      "rbs_motif": "None",
+      "rbs_spacer": "None",
+      "gc_cont": "0.666",
+      "conf": "99.99",
+      "score.1": "212.66",
+      "cscore": "211.05",
+      "sscore": "1.61",
+      "rscore": "0.00",
+      "uscore": "0.00",
+      "tscore": "1.61",
+      "eggnog": {
+        "X1": "MAG06_298_1",
+        "X2": "1082931.KKY_1977",
+        "X3": 2e-24,
+        "X4": 117.1,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01UTE@aproNOG,05E1F@bactNOG,16RMP@proNOG,COG1028@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "Short-chain dehydrogenase reductase SDR"
+      }
+    }
+  ],
+  "seqname": "MAG06_183",
+  "seqlen": 1616
+}

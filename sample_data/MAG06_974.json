@@ -1,0 +1,45 @@
+{
+  "gene_track": [
+    {
+      "seqnames": "MAG06_974",
+      "start": 131,
+      "end": 1177,
+      "width": 1047,
+      "strand": "-",
+      "source": "Prodigal_v2.6.3",
+      "type": "CDS",
+      "score": 128,
+      "phase": 0,
+      "ID": "974_1",
+      "partial": "00",
+      "start_type": "ATG",
+      "rbs_motif": "None",
+      "rbs_spacer": "None",
+      "gc_cont": "0.655",
+      "conf": "100.00",
+      "score.1": "128.05",
+      "cscore": "127.88",
+      "sscore": "0.17",
+      "rscore": "-0.18",
+      "uscore": "-3.63",
+      "tscore": "3.98",
+      "eggnog": {
+        "X1": "MAG06_155_3",
+        "X2": "266834.SMc03931",
+        "X3": 0,
+        "X4": 1567.4,
+        "X5": "SOXA",
+        "X6": "GO:0003674,GO:0003824,GO:0005575,GO:0005622,GO:0005623,GO:0005737,GO:0006082,GO:0006520,GO:0006807,GO:0008115,GO:0008150,GO:0008152,GO:0009056,GO:0009063,GO:0009987,GO:0016054,GO:0016491,GO:0016645,GO:0016647,GO:0019752,GO:0043436,GO:0044237,GO:0044238,GO:0044248,GO:0044281,GO:0044282,GO:0044424,GO:0044464,GO:0044710,GO:0044712,GO:0046395,GO:0055114,GO:0071704,GO:1901564,GO:1901565,GO:1901575",
+        "X7": "K00302,K00605",
+        "X8": "SARCOX",
+        "X9": "bactNOG[38]",
+        "X10": "01QDI@aproNOG,05D43@bactNOG,16PGP@proNOG,COG0404@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "E",
+        "X13": "sarcosine oxidase alpha subunit"
+      }
+    }
+  ],
+  "seqname": "MAG06_974",
+  "seqlen": 1763
+}

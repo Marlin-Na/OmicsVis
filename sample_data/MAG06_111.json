@@ -1,0 +1,45 @@
+{
+  "gene_track": [
+    {
+      "seqnames": "MAG06_111",
+      "start": 3,
+      "end": 2573,
+      "width": 2571,
+      "strand": "+",
+      "source": "Prodigal_v2.6.3",
+      "type": "CDS",
+      "score": 436.8,
+      "phase": 0,
+      "ID": "111_1",
+      "partial": "10",
+      "start_type": "Edge",
+      "rbs_motif": "None",
+      "rbs_spacer": "None",
+      "gc_cont": "0.643",
+      "conf": "99.99",
+      "score.1": "436.82",
+      "cscore": "433.60",
+      "sscore": "3.22",
+      "rscore": "0.00",
+      "uscore": "0.00",
+      "tscore": "3.22",
+      "eggnog": {
+        "X1": "MAG06_101_5",
+        "X2": "266834.SMc00468",
+        "X3": 1.5e-95,
+        "X4": 354,
+        "X5": "SIXA",
+        "X6": null,
+        "X7": "K08296",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "021TT@aproNOG,05M4E@bactNOG,17MW9@proNOG,COG2062@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "T",
+        "X13": "phosphohistidine phosphatase"
+      }
+    }
+  ],
+  "seqname": "MAG06_111",
+  "seqlen": 2688
+}

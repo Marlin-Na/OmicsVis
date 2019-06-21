@@ -1,0 +1,45 @@
+{
+  "gene_track": [
+    {
+      "seqnames": "MAG06_804",
+      "start": 2,
+      "end": 1816,
+      "width": 1815,
+      "strand": "+",
+      "source": "Prodigal_v2.6.3",
+      "type": "CDS",
+      "score": 266.6,
+      "phase": 0,
+      "ID": "804_1",
+      "partial": "11",
+      "start_type": "Edge",
+      "rbs_motif": "None",
+      "rbs_spacer": "None",
+      "gc_cont": "0.647",
+      "conf": "99.99",
+      "score.1": "266.56",
+      "cscore": "264.96",
+      "sscore": "1.61",
+      "rscore": "0.00",
+      "uscore": "0.00",
+      "tscore": "1.61",
+      "eggnog": {
+        "X1": "MAG06_777_5",
+        "X2": "266834.SMc01321",
+        "X3": 8.9e-70,
+        "X4": 268.1,
+        "X5": "RPLK",
+        "X6": "GO:0003674,GO:0003735,GO:0005198,GO:0005575,GO:0005618,GO:0005623,GO:0006412,GO:0008150,GO:0008152,GO:0009058,GO:0009059,GO:0009987,GO:0010467,GO:0019538,GO:0030312,GO:0034645,GO:0040007,GO:0043170,GO:0044237,GO:0044238,GO:0044249,GO:0044260,GO:0044267,GO:0044464,GO:0071704,GO:0071944,GO:1901576",
+        "X7": "K02867",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01WTX@aproNOG,08UIK@bactNOG,177SZ@proNOG,COG0080@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "J",
+        "X13": "This protein binds directly to 23S ribosomal RNA (By similarity)"
+      }
+    }
+  ],
+  "seqname": "MAG06_804",
+  "seqlen": 1817
+}

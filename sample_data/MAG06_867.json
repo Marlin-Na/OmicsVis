@@ -1,0 +1,45 @@
+{
+  "gene_track": [
+    {
+      "seqnames": "MAG06_867",
+      "start": 118,
+      "end": 1662,
+      "width": 1545,
+      "strand": "-",
+      "source": "Prodigal_v2.6.3",
+      "type": "CDS",
+      "score": 161.6,
+      "phase": 0,
+      "ID": "867_1",
+      "partial": "00",
+      "start_type": "ATG",
+      "rbs_motif": "GGAGG",
+      "rbs_spacer": "5-10bp",
+      "gc_cont": "0.608",
+      "conf": "100.00",
+      "score.1": "161.55",
+      "cscore": "148.59",
+      "sscore": "12.96",
+      "rscore": "11.01",
+      "uscore": "-1.25",
+      "tscore": "3.20",
+      "eggnog": {
+        "X1": "MAG06_827_7",
+        "X2": "266834.SMc01151",
+        "X3": 6.4e-64,
+        "X4": 248.4,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01YIV@aproNOG,05GRZ@bactNOG,17CMT@proNOG,COG3795@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "Ycii-related protein"
+      }
+    }
+  ],
+  "seqname": "MAG06_867",
+  "seqlen": 1859
+}

@@ -1,0 +1,43 @@
+
+.scroll {
+    height: calc(100vh - 60px);
+    overflow: hidden;
+    overflow-y: scroll;
+}
+
+body {
+    padding-top: 60px;
+}
+
+#global-navbar {
+    height: 60px;
+}
+
+#sidebar {
+    position: fixed;
+    top: 60px;
+    height: calc(100vh - 60px - 25px);
+    width: 500px;
+}
+
+#sidebar-header {
+    height: 25px;
+}
+
+#contig-table {
+    width: 500px;
+    height: 100%;
+}
+
+#viscontainer {
+    position: fixed;
+    height: calc(100vh - 60px);
+    width: calc(100vw - 500px);
+    top: 60px;
+    left: 500px;
+    overflow-y: scroll;
+}
+
+.tntboard-highlight {
+    background-color: cadetblue;
+}

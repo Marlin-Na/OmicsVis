@@ -1,0 +1,45 @@
+{
+  "gene_track": [
+    {
+      "seqnames": "MAG06_212",
+      "start": 1,
+      "end": 4461,
+      "width": 4461,
+      "strand": "+",
+      "source": "Prodigal_v2.6.3",
+      "type": "CDS",
+      "score": 666.8,
+      "phase": 0,
+      "ID": "212_1",
+      "partial": "11",
+      "start_type": "Edge",
+      "rbs_motif": "None",
+      "rbs_spacer": "None",
+      "gc_cont": "0.656",
+      "conf": "99.99",
+      "score.1": "666.76",
+      "cscore": "665.15",
+      "sscore": "1.61",
+      "rscore": "0.00",
+      "uscore": "0.00",
+      "tscore": "1.61",
+      "eggnog": {
+        "X1": "MAG06_325_10",
+        "X2": "266834.SMc04338",
+        "X3": 3.2e-133,
+        "X4": 479.6,
+        "X5": null,
+        "X6": null,
+        "X7": null,
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "01VNZ@aproNOG,07NNW@bactNOG,117BN@NOG,1757V@proNOG",
+        "X11": "NA|NA|NA",
+        "X12": "S",
+        "X13": "ErfK YbiS YcfS YnhG family protein"
+      }
+    }
+  ],
+  "seqname": "MAG06_212",
+  "seqlen": 4462
+}

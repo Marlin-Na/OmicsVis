@@ -1,0 +1,45 @@
+{
+  "gene_track": [
+    {
+      "seqnames": "MAG06_914",
+      "start": 3,
+      "end": 1445,
+      "width": 1443,
+      "strand": "-",
+      "source": "Prodigal_v2.6.3",
+      "type": "CDS",
+      "score": 171.8,
+      "phase": 0,
+      "ID": "914_1",
+      "partial": "10",
+      "start_type": "ATG",
+      "rbs_motif": "AGGA/GGAG/GAGG",
+      "rbs_spacer": "11-12bp",
+      "gc_cont": "0.669",
+      "conf": "100.00",
+      "score.1": "171.82",
+      "cscore": "171.10",
+      "sscore": "0.72",
+      "rscore": "3.33",
+      "uscore": "-6.25",
+      "tscore": "3.65",
+      "eggnog": {
+        "X1": "MAG06_869_1",
+        "X2": "272943.RSP_3503",
+        "X3": 1.7e-54,
+        "X4": 217.6,
+        "X5": "LSRA",
+        "X6": "GO:0005575,GO:0005623,GO:0005886,GO:0016020,GO:0044464,GO:0071944",
+        "X7": "K01995,K01996,K02056,K10441,K10558",
+        "X8": null,
+        "X9": "bactNOG[38]",
+        "X10": "05C2J@bactNOG,173N0@proNOG,COG1129@NOG",
+        "X11": "NA|NA|NA",
+        "X12": "G",
+        "X13": "Part of the ABC transporter complex LsrABCD involved in autoinducer 2 (AI-2) import. Responsible for energy coupling to the transport system"
+      }
+    }
+  ],
+  "seqname": "MAG06_914",
+  "seqlen": 1647
+}
