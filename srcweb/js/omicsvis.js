@@ -109,7 +109,7 @@ class TrackView {
     }
     set_data_src(name) {
         // such as MAG06_80
-        let data_src = fetch("/sample_data/" + name + ".json")
+        let data_src = fetch("sample_data/" + name + ".json")
             .then(res => {
                 if (!res.ok)
                     throw new Error("HTTP error: " + res.status);
@@ -135,7 +135,7 @@ function binding_filterSelected(node) {
 async function load_data_table() {
     // Alternative to load_contig_list
     let res;
-    res = await fetch("/sample_data/index.json");
+    res = await fetch("sample_data/index.json");
     if (res.ok)
         res = await res.json();
     else
