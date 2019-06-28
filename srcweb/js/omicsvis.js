@@ -46,6 +46,14 @@ class TrackView {
                     })
             );
 
+        let diamond_track = tnt.board.track()
+            .id("diamond")
+            .height(30)
+            .data(tnt.board.track.data.sync().retriever(() => []))
+            .display(
+                tnt.board.track.feature.genome.gene().color("green")
+            );
+
         // Initialize the board
         this.board(this.dom);
 
@@ -54,7 +62,8 @@ class TrackView {
 
         this.board
             .add_track(contig_track)
-            .add_track(gene_track);
+            .add_track(gene_track)
+            .add_track(diamond_track);
 
         this.board.start();
         return this;
@@ -67,6 +76,7 @@ class TrackView {
         let board = this.board;
         let contig_track = board.find_track("contig");
         let gene_track = board.find_track("gene");
+        let diamond_track = board.find_track("diamond");
         let _this = this;
 
         if (this.data_src === null) {
@@ -105,6 +115,18 @@ class TrackView {
                         }];
                     });
                 contig_track.data(contig_data_retriever);
+
+                let diamond_data_retriever = tnt.board.track.data.sync()
+                    .retriever(function(loc) {
+                        dtrack_data.forEach(e => {
+                            e.start = e.eggnog_pos_start;
+                            e.end = e.eggnog_pos_end;
+                            e.id = e.gene_ID;
+                            e.display_label = e.gene_ID;
+                        });
+                        return dtrack_data;
+                    });
+                diamond_track.data(diamond_data_retriever);
 
                 board.start();
                 return data;
