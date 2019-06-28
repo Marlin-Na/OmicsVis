@@ -39,8 +39,8 @@ class TrackView {
                             .call(this, {
                                 header: "EGGNOG Annotation",
                                 rows: [
-                                    {"label": "RBS Motif", "value": d.rbs_motif},
-                                    {"label": "Type", "value": d.eggnog.X13},
+                                    {"label": "RBS Motif", "value": d.gene_rbs_motif},
+                                    {"label": "Type", "value": d.eggnog_X13},
                                 ]
                             });
                     })
@@ -77,9 +77,10 @@ class TrackView {
         // Attaching callbacks to the promise
         this.data_src = this.data_src
             .then(data => {
-                let seqlen = data.seqlen;
-                let seqname = data.seqname;
+                let seqlen = data.meta.seqlen;
+                let seqname = data.meta.seqname;
                 let gtrack_data = data.gene_track;
+                let dtrack_data = data.diamond_track;
 
                 board.from(0).to(seqlen+1)
                     .max(seqlen+1)
@@ -88,6 +89,10 @@ class TrackView {
                 let gene_data_retriever = tnt.board.track.data.sync()
                     .retriever(function(loc) {
                         // We are using start and end
+                        gtrack_data.forEach(e => {
+                            e.start = e.gene_start;
+                            e.end = e.gene_end;
+                        });
                         return gtrack_data;
                     });
                 gene_track.data(gene_data_retriever);
