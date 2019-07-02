@@ -48,7 +48,7 @@ class TrackView {
 
         let diamond_track = tnt.board.track()
             .id("diamond")
-            .height(30)
+            .height(60)
             .data(tnt.board.track.data.sync().retriever(() => []))
             .display(
                 tnt.board.track.feature.genome.gene().color("green")
