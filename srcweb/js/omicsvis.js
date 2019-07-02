@@ -34,13 +34,15 @@ class TrackView {
             .display(
                 tnt.board.track.feature.block().color("#AD9274")
                     .on("click", function(d) {
+                        console.log(d);
                         tnt.tooltip.table()
                             .width(300)
                             .call(this, {
-                                header: "EGGNOG Annotation",
+                                header: `Gene: ${d.gene_ID}`,
                                 rows: [
-                                    {"label": "RBS Motif", "value": d.gene_rbs_motif},
-                                    {"label": "Type", "value": d.eggnog_X13},
+                                    {label: "Gene Strand", value: d.gene_strand},
+                                    {label: "RBS Motif", value: d.gene_rbs_motif},
+                                    {label: "Type", value: d.eggnog_X13},
                                 ]
                             });
                     })
@@ -52,6 +54,26 @@ class TrackView {
             .data(tnt.board.track.data.sync().retriever(() => []))
             .display(
                 tnt.board.track.feature.genome.gene().color("green")
+                    .on("click", function(d) {
+                        console.log(d);
+
+                        // ad hoc
+                        let mapped_to = d.eggnog_pos_X2.split(".");
+                        let taxonomy = mapped_to[0];
+                        let gene = mapped_to[1];
+                        taxonomy = `<a target="_blank" href="https://www.uniprot.org/taxonomy/${taxonomy}">${taxonomy}</a>`
+                        gene = `<a target="_blank" href="https://www.uniprot.org/uniprot/?query=+${gene}">${gene}</a>`
+                        
+                        tnt.tooltip.table()
+                            .width(300)
+                            .call(this, {
+                                header: `${d.gene_ID} Mapping`,
+                                rows: [
+                                    {label: "Taxonomy", value: taxonomy},
+                                    {label: "Gene", value: gene},
+                                ]
+                            })
+                    })
             );
 
         // Initialize the board
