@@ -1,17 +1,20 @@
 'use strict';
 
 // Assuming global tnt and d3v5 variable.
+
 class TrackView {
+
     constructor(div) {
         this.dom = div;
         this.board = tnt.board();
         this.board.allow_drag(false);
         this.data_src = null;
     }
-    init_vis(concise = false) {
+
+    init_vis() {
         // width is determined from the width of div
         // let width = d3v5.select(this.dom).node().getBoundingClientRect().width/1.1;
-        let width = concise? 300 : 800; // Fixed width
+        let width = 800; // Fixed width
         this.board.from(0).to(1000).max(1000).width(width);
 
         // Initialize tracks
@@ -79,8 +82,7 @@ class TrackView {
         // Initialize the board
         this.board(this.dom);
 
-        if (!concise)
-            this.board.add_track(axis_track);
+        this.board.add_track(axis_track);
 
         this.board
             .add_track(contig_track)
