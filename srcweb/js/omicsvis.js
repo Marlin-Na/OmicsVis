@@ -6,15 +6,24 @@ class TrackView {
 
     constructor(div) {
         this.dom = div;
-        this.board = tnt.board();
-        this.board.allow_drag(false);
+        this.opt = {
+            width: 800,
+        };
+        this.board = null;
         this.data_src = null;
+        this.data = null;
     }
 
     init_vis() {
         // width is determined from the width of div
         // let width = d3v5.select(this.dom).node().getBoundingClientRect().width/1.1;
-        let width = 800; // Fixed width
+        let opt = this.opt;
+        let width = opt.width; // Fixed width
+
+        if (this.board !== null)
+            console.error("This board has already been initialized.");
+        this.board = tnt.board();
+        this.board.allow_drag(false);
         this.board.from(0).to(1000).max(1000).width(width);
 
         // Initialize tracks
@@ -27,15 +36,13 @@ class TrackView {
         let contig_track = tnt.board.track()
             .id("contig")
             .height(10)
-            .data(tnt.board.track.data.sync().retriever(() => []))
             .display(tnt.board.track.feature.block().color("#082A46"));
 
         let gene_track = tnt.board.track()
             .id("gene")
             .height(20)
-            .data(tnt.board.track.data.sync().retriever(() => []))
             .display(
-                tnt.board.track.feature.block().color("#AD9274")
+                tnt.board.track.feature.block().color("#AD9274") // default color
                     .on("click", function(d) {
                         console.log(d);
                         tnt.tooltip.table()
@@ -54,9 +61,8 @@ class TrackView {
         let diamond_track = tnt.board.track()
             .id("diamond")
             .height(60)
-            .data(tnt.board.track.data.sync().retriever(() => []))
             .display(
-                tnt.board.track.feature.genome.gene().color("green")
+                tnt.board.track.feature.genome.gene().color("green") // default color
                     .on("click", function(d) {
                         console.log(d);
 
@@ -89,75 +95,87 @@ class TrackView {
             .add_track(gene_track)
             .add_track(diamond_track);
 
-        this.board.start();
+        // Do not start
+        //this.board.start();
         return this;
     }
     // resize_vis() {
     //     let width = d3v5.select(this.dom).node().getBoundingClientRect().width/1.1;
     //     this.board.width(width);
     // }
-    update_vis() {
+
+    async fetch_data_src() {
+        if (this.data_src === null) {
+            console.error("data_src is not set");
+            return;
+        }
+        if (this.data !== null) {
+            // i.e. we should assume it has been already fetched
+            return;
+        }
+        let data = await this.data_src;
+        this.data = data;
+        return;
+    }
+
+    async update_vis() {
+        if (this.board === null)
+            console.error("The board has not been initialized");
+
+        await this.fetch_data_src();
+        let data = this.data;
         let board = this.board;
+
         let contig_track = board.find_track("contig");
         let gene_track = board.find_track("gene");
         let diamond_track = board.find_track("diamond");
+
         let _this = this;
 
-        if (this.data_src === null) {
-            console.error("data_src is not set");
-            return this;
-        }
+        // Modify the board range
+        board
+            .from(-1)
+            .to(data.meta.seqlen+1);
+        
+        // Add contig track data
+        contig_track.data(tnt.board.track.data.sync().retriever(
+            function(loc) {
+                return [{
+                    start: 1, end: data.meta.seqlen
+                }];
+            }
+        ));
 
-        // Attaching callbacks to the promise
-        this.data_src = this.data_src
-            .then(data => {
-                let seqlen = data.meta.seqlen;
-                let seqname = data.meta.seqname;
+        // Add gene track data
+        gene_track.data(tnt.board.track.data.sync().retriever(
+            function(loc) {
                 let gtrack_data = data.gene_track;
+                gtrack_data.forEach(e => {
+                    e.start = e.gene_start;
+                    e.end = e.gene_end;
+                });
+                return gtrack_data;
+            }
+        ));
+
+        // Add diamond track data
+        diamond_track.data(tnt.board.track.data.sync().retriever(
+            function(loc) {
                 let dtrack_data = data.diamond_track;
+                dtrack_data.forEach(e => {
+                    e.start = e.eggnog_pos_start;
+                    e.end = e.eggnog_pos_end;
+                    e.id = e.gene_ID;
+                    e.display_label = e.gene_ID;
+                    //e.color = "green";
+                })
+                return dtrack_data;
+            }
+        ));
 
-                board.from(0).to(seqlen+1)
-                    .max(seqlen+1)
-                    .zoom_out(seqlen+1); // Maximum extent
-
-                let gene_data_retriever = tnt.board.track.data.sync()
-                    .retriever(function(loc) {
-                        // We are using start and end
-                        gtrack_data.forEach(e => {
-                            e.start = e.gene_start;
-                            e.end = e.gene_end;
-                        });
-                        return gtrack_data;
-                    });
-                gene_track.data(gene_data_retriever);
-
-                let contig_data_retriever = tnt.board.track.data.sync()
-                    .retriever(function(loc) {
-                        return [{
-                            start: 0,
-                            end: seqlen + 1
-                        }];
-                    });
-                contig_track.data(contig_data_retriever);
-
-                let diamond_data_retriever = tnt.board.track.data.sync()
-                    .retriever(function(loc) {
-                        dtrack_data.forEach(e => {
-                            e.start = e.eggnog_pos_start;
-                            e.end = e.eggnog_pos_end;
-                            e.id = e.gene_ID;
-                            e.display_label = e.gene_ID;
-                        });
-                        return dtrack_data;
-                    });
-                diamond_track.data(diamond_data_retriever);
-
-                board.start();
-                return data;
-            })
-            .catch(err => console.log(err));
-        return this;
+        board.start();
     }
+
     set_data_src(name) {
         // such as MAG06_80
         let data_src = fetch("sample_data/" + name + ".json")
@@ -235,6 +253,7 @@ async function load_data_table() {
     let rowData = res;
 
     let ActiveViews = new Map();
+    window.ActiveViews = ActiveViews;
 
     function onRowSelected(event) {
         let contig_id = event.data.contig;
@@ -246,7 +265,7 @@ async function load_data_table() {
             container.id = "vis-" + contig_id;
             vis_dom.appendChild(container);
             let view = new TrackView(container);
-            view.set_data_src(contig_id);
+            view.set_data_src(contig_id)
             view.init_vis();
             view.update_vis();
             ActiveViews.set(contig_id, view);
