@@ -101,7 +101,11 @@ for (i in seq_along(li.metas)) {
     ans$diamond_track <- li.diamond_tracks[[i]]
     dist_file <- file.path(dist, paste0(ans$meta$seqname, ".json"))
     print(dist_file)
+    
+    ## Open a binary connection so that it writes unix line ending
+    dist_file <- file(dist_file, "wb")
     jsonlite::write_json(ans, dist_file, pretty = TRUE, auto_unbox = TRUE)
+    close(dist_file)
 }
 
 
