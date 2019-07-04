@@ -26,6 +26,8 @@ class TrackView {
         this.board.allow_drag(false);
         this.board.from(0).to(1000).max(1000).width(width);
 
+        let _this = this;
+
         // Initialize tracks
 
         let axis_track = tnt.board.track()
@@ -84,6 +86,18 @@ class TrackView {
                             })
                     })
             );
+        // Refer http://bl.ocks.org/emepyc/7c73519ee7a1300eb68a
+        diamond_track.display().layout()
+            .fixed_slot_type("expanded")
+            .keep_slots(false)
+            .on_layout_run(function(types, current) {
+                let needed_height = types.expanded.needed_slots * types.expanded.slot_height;
+                if (needed_height !== diamond_track.height()) {
+                    diamond_track.height(needed_height);
+                    //genome.tracks(genome.tracks());
+                    _this.board.tracks(_this.board.tracks())
+                }
+            })
 
         // Initialize the board
         this.board(this.dom);
@@ -167,6 +181,7 @@ class TrackView {
                     e.end = e.eggnog_pos_end;
                     e.id = e.gene_ID;
                     e.display_label = e.gene_ID;
+                    //e.display_label = "";
                     //e.color = "green";
                 })
                 return dtrack_data;
