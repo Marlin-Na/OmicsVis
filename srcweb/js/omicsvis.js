@@ -44,7 +44,7 @@ class TrackView {
             .id("gene")
             .height(20)
             .display(
-                tnt.board.track.feature.block().color("#AD9274") // default color
+                tnt.board.track.feature.genome.gene().color("#AD9274") // default color
                     .on("click", function(d) {
                         console.log(d);
                         tnt.tooltip.table()
@@ -167,6 +167,8 @@ class TrackView {
                 gtrack_data.forEach(e => {
                     e.start = e.gene_start;
                     e.end = e.gene_end;
+                    e.id = e.gene_ID;
+                    e.display_label = "";
                 });
                 return gtrack_data;
             }
