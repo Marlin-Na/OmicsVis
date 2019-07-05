@@ -74,6 +74,7 @@
     {
       "seqnames": "MAG06_330",
       "gene_ID": "MAG06_330_1",
+      "gene_strand": "-",
       "eggnog_pos_X2": "861208.AGROH133_12331",
       "eggnog_pos_X3": 71.3,
       "eggnog_pos_X4": 275,
@@ -91,6 +92,7 @@
     {
       "seqnames": "MAG06_330",
       "gene_ID": "MAG06_330_2",
+      "gene_strand": "+",
       "eggnog_pos_X2": "861208.AGROH133_12328",
       "eggnog_pos_X3": 78.2,
       "eggnog_pos_X4": 284,

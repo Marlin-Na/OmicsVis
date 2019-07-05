@@ -76,6 +76,7 @@
     {
       "seqnames": "MAG06_859",
       "gene_ID": "MAG06_859_1",
+      "gene_strand": "+",
       "eggnog_pos_X2": "266834.SMc02543",
       "eggnog_pos_X3": 98.7,
       "eggnog_pos_X4": 558,
@@ -93,6 +94,7 @@
     {
       "seqnames": "MAG06_859",
       "gene_ID": "MAG06_859_2",
+      "gene_strand": "+",
       "eggnog_pos_X2": "266834.SMc00550",
       "eggnog_pos_X3": 100,
       "eggnog_pos_X4": 126,

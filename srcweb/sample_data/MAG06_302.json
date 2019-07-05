@@ -67,6 +67,7 @@
     {
       "seqnames": "MAG06_302",
       "gene_ID": "MAG06_302_1",
+      "gene_strand": "+",
       "eggnog_pos_X2": "371731.Rsw2DRAFT_3210",
       "eggnog_pos_X3": 68.4,
       "eggnog_pos_X4": 554,
@@ -83,7 +84,8 @@
     },
     {
       "seqnames": "MAG06_302",
-      "gene_ID": "MAG06_302_2"
+      "gene_ID": "MAG06_302_2",
+      "gene_strand": "+"
     }
   ]
 }

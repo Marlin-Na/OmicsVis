@@ -251,6 +251,7 @@
     {
       "seqnames": "MAG06_1012",
       "gene_ID": "MAG06_1012_1",
+      "gene_strand": "-",
       "eggnog_pos_X2": "266834.SMc03872",
       "eggnog_pos_X3": 100,
       "eggnog_pos_X4": 497,
@@ -268,6 +269,7 @@
     {
       "seqnames": "MAG06_1012",
       "gene_ID": "MAG06_1012_2",
+      "gene_strand": "-",
       "eggnog_pos_X2": "266834.SMc03871",
       "eggnog_pos_X3": 97.9,
       "eggnog_pos_X4": 238,
@@ -285,6 +287,7 @@
     {
       "seqnames": "MAG06_1012",
       "gene_ID": "MAG06_1012_3",
+      "gene_strand": "-",
       "eggnog_pos_X2": "266834.SMc03870",
       "eggnog_pos_X3": 99.3,
       "eggnog_pos_X4": 535,
@@ -302,6 +305,7 @@
     {
       "seqnames": "MAG06_1012",
       "gene_ID": "MAG06_1012_4",
+      "gene_strand": "-",
       "eggnog_pos_X2": "311403.Arad_4663",
       "eggnog_pos_X3": 73.3,
       "eggnog_pos_X4": 330,
@@ -319,6 +323,7 @@
     {
       "seqnames": "MAG06_1012",
       "gene_ID": "MAG06_1012_5",
+      "gene_strand": "+",
       "eggnog_pos_X2": "266834.SMc03868",
       "eggnog_pos_X3": 98.8,
       "eggnog_pos_X4": 161,
@@ -336,6 +341,7 @@
     {
       "seqnames": "MAG06_1012",
       "gene_ID": "MAG06_1012_6",
+      "gene_strand": "+",
       "eggnog_pos_X2": "266834.SMc03867",
       "eggnog_pos_X3": 99.5,
       "eggnog_pos_X4": 216,
@@ -353,6 +359,7 @@
     {
       "seqnames": "MAG06_1012",
       "gene_ID": "MAG06_1012_7",
+      "gene_strand": "+",
       "eggnog_pos_X2": "266834.SMc03866",
       "eggnog_pos_X3": 99.5,
       "eggnog_pos_X4": 198,
@@ -370,6 +377,7 @@
     {
       "seqnames": "MAG06_1012",
       "gene_ID": "MAG06_1012_7",
+      "gene_strand": "+",
       "eggnog_pos_X2": "266834.SMc03866",
       "eggnog_pos_X3": 34,
       "eggnog_pos_X4": 191,
@@ -387,6 +395,7 @@
     {
       "seqnames": "MAG06_1012",
       "gene_ID": "MAG06_1012_7",
+      "gene_strand": "+",
       "eggnog_pos_X2": "394.NGR_c32570",
       "eggnog_pos_X3": 95.1,
       "eggnog_pos_X4": 206,
@@ -404,6 +413,7 @@
     {
       "seqnames": "MAG06_1012",
       "gene_ID": "MAG06_1012_7",
+      "gene_strand": "+",
       "eggnog_pos_X2": "394.NGR_c32570",
       "eggnog_pos_X3": 33.5,
       "eggnog_pos_X4": 191,

@@ -76,6 +76,7 @@
     {
       "seqnames": "MAG06_444",
       "gene_ID": "MAG06_444_1",
+      "gene_strand": "-",
       "eggnog_pos_X2": "981222.Cabther_A1690",
       "eggnog_pos_X3": 41.5,
       "eggnog_pos_X4": 147,
@@ -93,6 +94,7 @@
     {
       "seqnames": "MAG06_444",
       "gene_ID": "MAG06_444_2",
+      "gene_strand": "-",
       "eggnog_pos_X2": "412597.PaTRP_010100007069",
       "eggnog_pos_X3": 66.7,
       "eggnog_pos_X4": 403,

@@ -77,6 +77,7 @@
     {
       "seqnames": "MAG06_402",
       "gene_ID": "MAG06_402_1",
+      "gene_strand": "+",
       "eggnog_pos_X2": "311403.Arad_1375",
       "eggnog_pos_X3": 78.7,
       "eggnog_pos_X4": 127,
@@ -94,6 +95,7 @@
     {
       "seqnames": "MAG06_402",
       "gene_ID": "MAG06_402_2",
+      "gene_strand": "+",
       "eggnog_pos_X2": "311403.Arad_1376",
       "eggnog_pos_X3": 72.9,
       "eggnog_pos_X4": 495,

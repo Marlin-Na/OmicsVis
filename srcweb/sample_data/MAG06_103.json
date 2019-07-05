@@ -113,6 +113,7 @@
     {
       "seqnames": "MAG06_103",
       "gene_ID": "MAG06_103_1",
+      "gene_strand": "-",
       "eggnog_pos_X2": "266834.SMc03828",
       "eggnog_pos_X3": 100,
       "eggnog_pos_X4": 264,
@@ -130,6 +131,7 @@
     {
       "seqnames": "MAG06_103",
       "gene_ID": "MAG06_103_1",
+      "gene_strand": "-",
       "eggnog_pos_X2": "366394.Smed_3065",
       "eggnog_pos_X3": 97.3,
       "eggnog_pos_X4": 264,
@@ -147,6 +149,7 @@
     {
       "seqnames": "MAG06_103",
       "gene_ID": "MAG06_103_2",
+      "gene_strand": "-",
       "eggnog_pos_X2": "491916.RHECIAT_CH0004211",
       "eggnog_pos_X3": 91.8,
       "eggnog_pos_X4": 292,
@@ -164,6 +167,7 @@
     {
       "seqnames": "MAG06_103",
       "gene_ID": "MAG06_103_2",
+      "gene_strand": "-",
       "eggnog_pos_X2": "216596.RL4520",
       "eggnog_pos_X3": 91.1,
       "eggnog_pos_X4": 292,
@@ -181,6 +185,7 @@
     {
       "seqnames": "MAG06_103",
       "gene_ID": "MAG06_103_2",
+      "gene_strand": "-",
       "eggnog_pos_X2": "395492.Rleg2_3722",
       "eggnog_pos_X3": 91.1,
       "eggnog_pos_X4": 292,
@@ -198,6 +203,7 @@
     {
       "seqnames": "MAG06_103",
       "gene_ID": "MAG06_103_2",
+      "gene_strand": "-",
       "eggnog_pos_X2": "347834.RHE_CH03928",
       "eggnog_pos_X3": 90.8,
       "eggnog_pos_X4": 292,
@@ -215,6 +221,7 @@
     {
       "seqnames": "MAG06_103",
       "gene_ID": "MAG06_103_3",
+      "gene_strand": "-",
       "eggnog_pos_X2": "266834.SMc03830",
       "eggnog_pos_X3": 97.9,
       "eggnog_pos_X4": 146,
@@ -232,6 +239,7 @@
     {
       "seqnames": "MAG06_103",
       "gene_ID": "MAG06_103_3",
+      "gene_strand": "-",
       "eggnog_pos_X2": "366394.Smed_3067",
       "eggnog_pos_X3": 96.6,
       "eggnog_pos_X4": 146,

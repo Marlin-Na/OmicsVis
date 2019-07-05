@@ -322,6 +322,7 @@
     {
       "seqnames": "MAG06_58",
       "gene_ID": "MAG06_58_1",
+      "gene_strand": "-",
       "eggnog_pos_X2": "266834.SMc01184",
       "eggnog_pos_X3": 100,
       "eggnog_pos_X4": 124,
@@ -339,6 +340,7 @@
     {
       "seqnames": "MAG06_58",
       "gene_ID": "MAG06_58_2",
+      "gene_strand": "-",
       "eggnog_pos_X2": "266834.SMc01185",
       "eggnog_pos_X3": 98.6,
       "eggnog_pos_X4": 495,
@@ -355,19 +357,23 @@
     },
     {
       "seqnames": "MAG06_58",
-      "gene_ID": "MAG06_58_3"
+      "gene_ID": "MAG06_58_3",
+      "gene_strand": "-"
     },
     {
       "seqnames": "MAG06_58",
-      "gene_ID": "MAG06_58_4"
+      "gene_ID": "MAG06_58_4",
+      "gene_strand": "-"
     },
     {
       "seqnames": "MAG06_58",
-      "gene_ID": "MAG06_58_5"
+      "gene_ID": "MAG06_58_5",
+      "gene_strand": "-"
     },
     {
       "seqnames": "MAG06_58",
       "gene_ID": "MAG06_58_6",
+      "gene_strand": "+",
       "eggnog_pos_X2": "266834.SMc01187",
       "eggnog_pos_X3": 99.7,
       "eggnog_pos_X4": 346,
@@ -385,6 +391,7 @@
     {
       "seqnames": "MAG06_58",
       "gene_ID": "MAG06_58_7",
+      "gene_strand": "+",
       "eggnog_pos_X2": "266834.SMc01188",
       "eggnog_pos_X3": 99.7,
       "eggnog_pos_X4": 384,
@@ -402,6 +409,7 @@
     {
       "seqnames": "MAG06_58",
       "gene_ID": "MAG06_58_8",
+      "gene_strand": "+",
       "eggnog_pos_X2": "266834.SMc01189",
       "eggnog_pos_X3": 99.1,
       "eggnog_pos_X4": 234,
@@ -419,6 +427,7 @@
     {
       "seqnames": "MAG06_58",
       "gene_ID": "MAG06_58_9",
+      "gene_strand": "+",
       "eggnog_pos_X2": "266834.SMc01190",
       "eggnog_pos_X3": 98.8,
       "eggnog_pos_X4": 343,
@@ -436,6 +445,7 @@
     {
       "seqnames": "MAG06_58",
       "gene_ID": "MAG06_58_10",
+      "gene_strand": "+",
       "eggnog_pos_X2": "266834.SMc01192",
       "eggnog_pos_X3": 100,
       "eggnog_pos_X4": 89,
@@ -453,6 +463,7 @@
     {
       "seqnames": "MAG06_58",
       "gene_ID": "MAG06_58_10",
+      "gene_strand": "+",
       "eggnog_pos_X2": "366394.Smed_1290",
       "eggnog_pos_X3": 100,
       "eggnog_pos_X4": 89,

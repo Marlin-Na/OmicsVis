@@ -41,6 +41,7 @@
     {
       "seqnames": "MAG06_738",
       "gene_ID": "MAG06_738_1",
+      "gene_strand": "-",
       "eggnog_pos_X2": "1031711.RSPO_c01535",
       "eggnog_pos_X3": 78.3,
       "eggnog_pos_X4": 475,

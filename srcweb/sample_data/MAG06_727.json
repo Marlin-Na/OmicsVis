@@ -69,6 +69,7 @@
     {
       "seqnames": "MAG06_727",
       "gene_ID": "MAG06_727_1",
+      "gene_strand": "-",
       "eggnog_pos_X2": "366394.Smed_1878",
       "eggnog_pos_X3": 52,
       "eggnog_pos_X4": 125,
@@ -86,6 +87,7 @@
     {
       "seqnames": "MAG06_727",
       "gene_ID": "MAG06_727_2",
+      "gene_strand": "-",
       "eggnog_pos_X2": "366394.Smed_1646",
       "eggnog_pos_X3": 92,
       "eggnog_pos_X4": 573,

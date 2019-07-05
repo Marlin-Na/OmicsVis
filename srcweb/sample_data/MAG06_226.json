@@ -141,6 +141,7 @@
     {
       "seqnames": "MAG06_226",
       "gene_ID": "MAG06_226_1",
+      "gene_strand": "+",
       "eggnog_pos_X2": "697303.Thewi_0107",
       "eggnog_pos_X3": 41.9,
       "eggnog_pos_X4": 74,
@@ -158,6 +159,7 @@
     {
       "seqnames": "MAG06_226",
       "gene_ID": "MAG06_226_1",
+      "gene_strand": "+",
       "eggnog_pos_X2": "340099.Teth39_2146",
       "eggnog_pos_X3": 44,
       "eggnog_pos_X4": 75,
@@ -175,6 +177,7 @@
     {
       "seqnames": "MAG06_226",
       "gene_ID": "MAG06_226_1",
+      "gene_strand": "+",
       "eggnog_pos_X2": "580331.Thit_0089",
       "eggnog_pos_X3": 40.5,
       "eggnog_pos_X4": 74,
@@ -192,6 +195,7 @@
     {
       "seqnames": "MAG06_226",
       "gene_ID": "MAG06_226_2",
+      "gene_strand": "+",
       "eggnog_pos_X2": "78245.Xaut_3604",
       "eggnog_pos_X3": 36.1,
       "eggnog_pos_X4": 158,
@@ -208,11 +212,13 @@
     },
     {
       "seqnames": "MAG06_226",
-      "gene_ID": "MAG06_226_3"
+      "gene_ID": "MAG06_226_3",
+      "gene_strand": "+"
     },
     {
       "seqnames": "MAG06_226",
       "gene_ID": "MAG06_226_4",
+      "gene_strand": "+",
       "eggnog_pos_X2": "266779.Meso_0203",
       "eggnog_pos_X3": 31.3,
       "eggnog_pos_X4": 134,
@@ -229,7 +235,8 @@
     },
     {
       "seqnames": "MAG06_226",
-      "gene_ID": "MAG06_226_5"
+      "gene_ID": "MAG06_226_5",
+      "gene_strand": "+"
     }
   ]
 }

@@ -95,6 +95,7 @@
     {
       "seqnames": "MAG06_746",
       "gene_ID": "MAG06_746_1",
+      "gene_strand": "+",
       "eggnog_pos_X2": "266779.Meso_2870",
       "eggnog_pos_X3": 55.7,
       "eggnog_pos_X4": 79,
@@ -112,6 +113,7 @@
     {
       "seqnames": "MAG06_746",
       "gene_ID": "MAG06_746_2",
+      "gene_strand": "-",
       "eggnog_pos_X2": "491916.RHECIAT_CH0001255",
       "eggnog_pos_X3": 73,
       "eggnog_pos_X4": 185,
@@ -129,6 +131,7 @@
     {
       "seqnames": "MAG06_746",
       "gene_ID": "MAG06_746_2",
+      "gene_strand": "-",
       "eggnog_pos_X2": "216596.RL1297",
       "eggnog_pos_X3": 72.4,
       "eggnog_pos_X4": 185,
@@ -146,6 +149,7 @@
     {
       "seqnames": "MAG06_746",
       "gene_ID": "MAG06_746_2",
+      "gene_strand": "-",
       "eggnog_pos_X2": "395492.Rleg2_0808",
       "eggnog_pos_X3": 72.4,
       "eggnog_pos_X4": 185,
@@ -163,6 +167,7 @@
     {
       "seqnames": "MAG06_746",
       "gene_ID": "MAG06_746_2",
+      "gene_strand": "-",
       "eggnog_pos_X2": "347834.RHE_CH01168",
       "eggnog_pos_X3": 71.9,
       "eggnog_pos_X4": 185,
@@ -180,6 +185,7 @@
     {
       "seqnames": "MAG06_746",
       "gene_ID": "MAG06_746_2",
+      "gene_strand": "-",
       "eggnog_pos_X2": "311402.Avi_1187",
       "eggnog_pos_X3": 73,
       "eggnog_pos_X4": 185,
@@ -197,6 +203,7 @@
     {
       "seqnames": "MAG06_746",
       "gene_ID": "MAG06_746_2",
+      "gene_strand": "-",
       "eggnog_pos_X2": "861208.AGROH133_04590",
       "eggnog_pos_X3": 73,
       "eggnog_pos_X4": 185,
@@ -214,6 +221,7 @@
     {
       "seqnames": "MAG06_746",
       "gene_ID": "MAG06_746_2",
+      "gene_strand": "-",
       "eggnog_pos_X2": "176299.Atu0845",
       "eggnog_pos_X3": 73,
       "eggnog_pos_X4": 185,
@@ -231,6 +239,7 @@
     {
       "seqnames": "MAG06_746",
       "gene_ID": "MAG06_746_2",
+      "gene_strand": "-",
       "eggnog_pos_X2": "1050720.Agau_C102320",
       "eggnog_pos_X3": 73,
       "eggnog_pos_X4": 185,
@@ -247,7 +256,8 @@
     },
     {
       "seqnames": "MAG06_746",
-      "gene_ID": "MAG06_746_3"
+      "gene_ID": "MAG06_746_3",
+      "gene_strand": "-"
     }
   ]
 }

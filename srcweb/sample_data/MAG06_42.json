@@ -97,11 +97,13 @@
   "diamond_track": [
     {
       "seqnames": "MAG06_42",
-      "gene_ID": "MAG06_42_1"
+      "gene_ID": "MAG06_42_1",
+      "gene_strand": "-"
     },
     {
       "seqnames": "MAG06_42",
       "gene_ID": "MAG06_42_2",
+      "gene_strand": "-",
       "eggnog_pos_X2": "176299.Atu0270",
       "eggnog_pos_X3": 77,
       "eggnog_pos_X4": 396,
@@ -119,6 +121,7 @@
     {
       "seqnames": "MAG06_42",
       "gene_ID": "MAG06_42_2",
+      "gene_strand": "-",
       "eggnog_pos_X2": "861208.AGROH133_03378",
       "eggnog_pos_X3": 76.8,
       "eggnog_pos_X4": 396,
@@ -136,6 +139,7 @@
     {
       "seqnames": "MAG06_42",
       "gene_ID": "MAG06_42_2",
+      "gene_strand": "-",
       "eggnog_pos_X2": "1050720.Agau_C101428",
       "eggnog_pos_X3": 76.5,
       "eggnog_pos_X4": 396,
@@ -153,6 +157,7 @@
     {
       "seqnames": "MAG06_42",
       "gene_ID": "MAG06_42_2",
+      "gene_strand": "-",
       "eggnog_pos_X2": "439375.Oant_3761",
       "eggnog_pos_X3": 75.3,
       "eggnog_pos_X4": 396,
@@ -170,6 +175,7 @@
     {
       "seqnames": "MAG06_42",
       "gene_ID": "MAG06_42_2",
+      "gene_strand": "-",
       "eggnog_pos_X2": "641118.OINT_2000848",
       "eggnog_pos_X3": 73.5,
       "eggnog_pos_X4": 396,
@@ -187,6 +193,7 @@
     {
       "seqnames": "MAG06_42",
       "gene_ID": "MAG06_42_3",
+      "gene_strand": "-",
       "eggnog_pos_X2": "536019.Mesop_2858",
       "eggnog_pos_X3": 51.6,
       "eggnog_pos_X4": 223,
@@ -204,6 +211,7 @@
     {
       "seqnames": "MAG06_42",
       "gene_ID": "MAG06_42_3",
+      "gene_strand": "-",
       "eggnog_pos_X2": "176299.Atu0271",
       "eggnog_pos_X3": 53,
       "eggnog_pos_X4": 217,
@@ -221,6 +229,7 @@
     {
       "seqnames": "MAG06_42",
       "gene_ID": "MAG06_42_3",
+      "gene_strand": "-",
       "eggnog_pos_X2": "861208.AGROH133_03379",
       "eggnog_pos_X3": 52.5,
       "eggnog_pos_X4": 217,
@@ -238,6 +247,7 @@
     {
       "seqnames": "MAG06_42",
       "gene_ID": "MAG06_42_3",
+      "gene_strand": "-",
       "eggnog_pos_X2": "1050720.Agau_C101430",
       "eggnog_pos_X3": 52.1,
       "eggnog_pos_X4": 217,
@@ -255,6 +265,7 @@
     {
       "seqnames": "MAG06_42",
       "gene_ID": "MAG06_42_3",
+      "gene_strand": "-",
       "eggnog_pos_X2": "266835.mll7378",
       "eggnog_pos_X3": 51.6,
       "eggnog_pos_X4": 217,

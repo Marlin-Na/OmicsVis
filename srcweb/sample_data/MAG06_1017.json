@@ -44,6 +44,7 @@
     {
       "seqnames": "MAG06_1017",
       "gene_ID": "MAG06_1017_1",
+      "gene_strand": "-",
       "eggnog_pos_X2": "411684.HPDFL43_06570",
       "eggnog_pos_X3": 89.2,
       "eggnog_pos_X4": 1300,

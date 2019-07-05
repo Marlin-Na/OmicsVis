@@ -259,6 +259,7 @@
     {
       "seqnames": "MAG06_271",
       "gene_ID": "MAG06_271_1",
+      "gene_strand": "+",
       "eggnog_pos_X2": "266834.SMc00488",
       "eggnog_pos_X3": 95.7,
       "eggnog_pos_X4": 23,
@@ -276,6 +277,7 @@
     {
       "seqnames": "MAG06_271",
       "gene_ID": "MAG06_271_2",
+      "gene_strand": "+",
       "eggnog_pos_X2": "366394.Smed_1506",
       "eggnog_pos_X3": 100,
       "eggnog_pos_X4": 77,
@@ -293,6 +295,7 @@
     {
       "seqnames": "MAG06_271",
       "gene_ID": "MAG06_271_2",
+      "gene_strand": "+",
       "eggnog_pos_X2": "266834.SMc00487",
       "eggnog_pos_X3": 98.7,
       "eggnog_pos_X4": 77,
@@ -310,6 +313,7 @@
     {
       "seqnames": "MAG06_271",
       "gene_ID": "MAG06_271_2",
+      "gene_strand": "+",
       "eggnog_pos_X2": "1117943.SFHH103_01517",
       "eggnog_pos_X3": 98.7,
       "eggnog_pos_X4": 77,
@@ -326,11 +330,13 @@
     },
     {
       "seqnames": "MAG06_271",
-      "gene_ID": "MAG06_271_3"
+      "gene_ID": "MAG06_271_3",
+      "gene_strand": "+"
     },
     {
       "seqnames": "MAG06_271",
       "gene_ID": "MAG06_271_4",
+      "gene_strand": "+",
       "eggnog_pos_X2": "266834.SMc00538",
       "eggnog_pos_X3": 100,
       "eggnog_pos_X4": 111,
@@ -348,6 +354,7 @@
     {
       "seqnames": "MAG06_271",
       "gene_ID": "MAG06_271_4",
+      "gene_strand": "+",
       "eggnog_pos_X2": "366394.Smed_1508",
       "eggnog_pos_X3": 97.3,
       "eggnog_pos_X4": 111,
@@ -365,6 +372,7 @@
     {
       "seqnames": "MAG06_271",
       "gene_ID": "MAG06_271_5",
+      "gene_strand": "+",
       "eggnog_pos_X2": "266834.SMc00537",
       "eggnog_pos_X3": 99.3,
       "eggnog_pos_X4": 412,
@@ -382,6 +390,7 @@
     {
       "seqnames": "MAG06_271",
       "gene_ID": "MAG06_271_6",
+      "gene_strand": "+",
       "eggnog_pos_X2": "366394.Smed_1510",
       "eggnog_pos_X3": 94.1,
       "eggnog_pos_X4": 437,
@@ -399,6 +408,7 @@
     {
       "seqnames": "MAG06_271",
       "gene_ID": "MAG06_271_6",
+      "gene_strand": "+",
       "eggnog_pos_X2": "266834.SMc00536",
       "eggnog_pos_X3": 99.5,
       "eggnog_pos_X4": 409,
@@ -416,6 +426,7 @@
     {
       "seqnames": "MAG06_271",
       "gene_ID": "MAG06_271_7",
+      "gene_strand": "-",
       "eggnog_pos_X2": "266834.SMc00535",
       "eggnog_pos_X3": 100,
       "eggnog_pos_X4": 274,
@@ -433,6 +444,7 @@
     {
       "seqnames": "MAG06_271",
       "gene_ID": "MAG06_271_8",
+      "gene_strand": "-",
       "eggnog_pos_X2": "266779.Meso_1271",
       "eggnog_pos_X3": 78.5,
       "eggnog_pos_X4": 265,
@@ -450,6 +462,7 @@
     {
       "seqnames": "MAG06_271",
       "gene_ID": "MAG06_271_8",
+      "gene_strand": "-",
       "eggnog_pos_X2": "765698.Mesci_4369",
       "eggnog_pos_X3": 77.7,
       "eggnog_pos_X4": 264,
@@ -467,6 +480,7 @@
     {
       "seqnames": "MAG06_271",
       "gene_ID": "MAG06_271_8",
+      "gene_strand": "-",
       "eggnog_pos_X2": "430066.BAbS19_I07940",
       "eggnog_pos_X3": 77.6,
       "eggnog_pos_X4": 263,
@@ -484,6 +498,7 @@
     {
       "seqnames": "MAG06_271",
       "gene_ID": "MAG06_271_8",
+      "gene_strand": "-",
       "eggnog_pos_X2": "224914.BAWG_1077",
       "eggnog_pos_X3": 77.2,
       "eggnog_pos_X4": 263,
@@ -501,6 +516,7 @@
     {
       "seqnames": "MAG06_271",
       "gene_ID": "MAG06_271_8",
+      "gene_strand": "-",
       "eggnog_pos_X2": "536019.Mesop_4812",
       "eggnog_pos_X3": 76.1,
       "eggnog_pos_X4": 264,
@@ -518,6 +534,7 @@
     {
       "seqnames": "MAG06_271",
       "gene_ID": "MAG06_271_8",
+      "gene_strand": "-",
       "eggnog_pos_X2": "1082931.KKY_1830",
       "eggnog_pos_X3": 75.6,
       "eggnog_pos_X4": 262,
@@ -535,6 +552,7 @@
     {
       "seqnames": "MAG06_271",
       "gene_ID": "MAG06_271_8",
+      "gene_strand": "-",
       "eggnog_pos_X2": "266835.mlr0047",
       "eggnog_pos_X3": 77.9,
       "eggnog_pos_X4": 258,
@@ -552,6 +570,7 @@
     {
       "seqnames": "MAG06_271",
       "gene_ID": "MAG06_271_8",
+      "gene_strand": "-",
       "eggnog_pos_X2": "439375.Oant_2394",
       "eggnog_pos_X3": 76.4,
       "eggnog_pos_X4": 263,

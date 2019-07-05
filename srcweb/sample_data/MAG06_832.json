@@ -44,6 +44,7 @@
     {
       "seqnames": "MAG06_832",
       "gene_ID": "MAG06_832_1",
+      "gene_strand": "-",
       "eggnog_pos_X2": "536019.Mesop_2103",
       "eggnog_pos_X3": 57.7,
       "eggnog_pos_X4": 520,

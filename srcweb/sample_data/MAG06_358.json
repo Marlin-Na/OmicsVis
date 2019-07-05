@@ -75,6 +75,7 @@
     {
       "seqnames": "MAG06_358",
       "gene_ID": "MAG06_358_1",
+      "gene_strand": "-",
       "eggnog_pos_X2": "536019.Mesop_2104",
       "eggnog_pos_X3": 61.5,
       "eggnog_pos_X4": 187,
@@ -92,6 +93,7 @@
     {
       "seqnames": "MAG06_358",
       "gene_ID": "MAG06_358_2",
+      "gene_strand": "-",
       "eggnog_pos_X2": "536019.Mesop_2108",
       "eggnog_pos_X3": 51.6,
       "eggnog_pos_X4": 349,

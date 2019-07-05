@@ -74,6 +74,7 @@
     {
       "seqnames": "MAG06_149",
       "gene_ID": "MAG06_149_1",
+      "gene_strand": "-",
       "eggnog_pos_X2": "371731.Rsw2DRAFT_3213",
       "eggnog_pos_X3": 66.3,
       "eggnog_pos_X4": 169,
@@ -91,6 +92,7 @@
     {
       "seqnames": "MAG06_149",
       "gene_ID": "MAG06_149_2",
+      "gene_strand": "+",
       "eggnog_pos_X2": "371731.Rsw2DRAFT_3214",
       "eggnog_pos_X3": 58,
       "eggnog_pos_X4": 343,

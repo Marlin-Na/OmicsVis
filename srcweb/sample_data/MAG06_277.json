@@ -102,11 +102,13 @@
   "diamond_track": [
     {
       "seqnames": "MAG06_277",
-      "gene_ID": "MAG06_277_1"
+      "gene_ID": "MAG06_277_1",
+      "gene_strand": "+"
     },
     {
       "seqnames": "MAG06_277",
       "gene_ID": "MAG06_277_2",
+      "gene_strand": "+",
       "eggnog_pos_X2": "366394.Smed_1555",
       "eggnog_pos_X3": 86.2,
       "eggnog_pos_X4": 327,
@@ -124,6 +126,7 @@
     {
       "seqnames": "MAG06_277",
       "gene_ID": "MAG06_277_3",
+      "gene_strand": "-",
       "eggnog_pos_X2": "266834.SMc00172",
       "eggnog_pos_X3": 99.3,
       "eggnog_pos_X4": 143,
@@ -141,6 +144,7 @@
     {
       "seqnames": "MAG06_277",
       "gene_ID": "MAG06_277_3",
+      "gene_strand": "-",
       "eggnog_pos_X2": "366394.Smed_1556",
       "eggnog_pos_X3": 95.8,
       "eggnog_pos_X4": 143,

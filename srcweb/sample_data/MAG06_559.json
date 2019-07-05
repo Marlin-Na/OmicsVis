@@ -126,6 +126,7 @@
     {
       "seqnames": "MAG06_559",
       "gene_ID": "MAG06_559_1",
+      "gene_strand": "+",
       "eggnog_pos_X2": "391600.BBAL3_73",
       "eggnog_pos_X3": 49.5,
       "eggnog_pos_X4": 111,
@@ -142,11 +143,13 @@
     },
     {
       "seqnames": "MAG06_559",
-      "gene_ID": "MAG06_559_2"
+      "gene_ID": "MAG06_559_2",
+      "gene_strand": "+"
     },
     {
       "seqnames": "MAG06_559",
       "gene_ID": "MAG06_559_3",
+      "gene_strand": "+",
       "eggnog_pos_X2": "391038.Bphy_3413",
       "eggnog_pos_X3": 43.9,
       "eggnog_pos_X4": 66,
@@ -163,7 +166,8 @@
     },
     {
       "seqnames": "MAG06_559",
-      "gene_ID": "MAG06_559_4"
+      "gene_ID": "MAG06_559_4",
+      "gene_strand": "+"
     }
   ]
 }

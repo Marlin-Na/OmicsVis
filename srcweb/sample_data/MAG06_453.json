@@ -44,6 +44,7 @@
     {
       "seqnames": "MAG06_453",
       "gene_ID": "MAG06_453_1",
+      "gene_strand": "+",
       "eggnog_pos_X2": "366394.Smed_3001",
       "eggnog_pos_X3": 46.3,
       "eggnog_pos_X4": 549,
