@@ -75,7 +75,7 @@ gene_tracks <- dplyr::distinct(gene_tracks)
 gene_tracks
 
 diamond_tracks <- dplyr::select(data, seqnames = "gene_seqnames",
-                                "gene_ID", starts_with("eggnog_pos"))
+                                "gene_ID", "gene_strand", starts_with("eggnog_pos"))
 stopifnot(nrow(dplyr::distinct(diamond_tracks)) == nrow(diamond_tracks))
 diamond_tracks
 
