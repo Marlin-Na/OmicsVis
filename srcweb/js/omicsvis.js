@@ -43,6 +43,7 @@ class TrackView {
         let gene_track = tnt.board.track()
             .id("gene")
             .height(20)
+            .color("white")
             .display(
                 tnt.board.track.feature.genome.gene().color("#AD9274") // default color
                     .on("click", function(d) {
@@ -63,6 +64,7 @@ class TrackView {
         let diamond_track = tnt.board.track()
             .id("diamond")
             .height(60)
+            .color("white")
             .display(
                 tnt.board.track.feature.genome.gene().color("green") // default color
                     .on("click", function(d) {
