@@ -193,6 +193,27 @@ class TrackView {
         ));
 
         board.start();
+
+        // tmp
+        this.set_color_by("strand");
+        board.start();
+    }
+
+    set_color_by(what) {
+        let _this = this;
+        if (this.data === null) {
+            console.error("The board is not yet loaded");
+            return;
+        }
+        if (what === "strand") {
+            console.log("color by strand");
+            let scale = d3v5.scaleOrdinal();
+            scale.domain(["-", "+"]);
+            scale.range(d3v5.schemeAccent.slice(6, 8));
+            this.data.gene_track.forEach(e => {
+                e.color = scale(e.gene_strand);
+            });
+        }
     }
 
     set_data_src(name) {
