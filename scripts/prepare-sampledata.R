@@ -90,6 +90,13 @@ li.diamond_tracks <- split(diamond_tracks, diamond_tracks$seqnames)
 stopifnot(identical(names(li.metas), names(li.gene_tracks)))
 stopifnot(identical(names(li.metas), names(li.diamond_tracks)))
 
+## Ad hoc way to remove the NA rows
+for (i in seq_along(li.diamond_tracks)) {
+    df <- li.diamond_tracks[[i]]
+    df <- dplyr::filter(df, !is.na(eggnog_pos_X2))
+    li.diamond_tracks[[i]] <- df
+}
+
 dist <- here("srcweb/sample_data/")
 if (!dir.exists(dist))
     dir.create(dist)
