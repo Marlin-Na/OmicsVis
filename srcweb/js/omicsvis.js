@@ -387,9 +387,18 @@ class IndexTable {
     }
 }
 
+let table;
+
 async function main() {
-    let table = new IndexTable("#contig-table");
+    table = new IndexTable("#contig-table");
     await table.load();
 }
 main();
+
+// Header filter handler
+function binding_filterSelected(node) {
+    table.option_filterSelected = node.checked;
+    table.gridOptions.api.onFilterChanged();
+}
+
 
