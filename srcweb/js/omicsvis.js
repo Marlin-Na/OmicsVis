@@ -60,6 +60,17 @@ class TrackView {
                             });
                     })
             );
+        gene_track.display().layout()
+            .fixed_slot_type("collapsed") //.fixed_slot_type("expanded")
+            .keep_slots(false)
+            .on_layout_run(function(types, current) {
+                // With some extra space
+                let needed_height = types.collapsed.needed_slots * types.collapsed.slot_height + 20;
+                if (needed_height !== gene_track.height()) {
+                    gene_track.height(needed_height);
+                    _this.board.tracks(_this.board.tracks());
+                }
+            });
 
         let diamond_track = tnt.board.track()
             .id("diamond")
@@ -74,9 +85,9 @@ class TrackView {
                         let mapped_to = d.eggnog_pos_X2.split(".");
                         let taxonomy = mapped_to[0];
                         let gene = mapped_to[1];
-                        taxonomy = `<a target="_blank" href="https://www.uniprot.org/taxonomy/${taxonomy}">${taxonomy}</a>`
-                        gene = `<a target="_blank" href="https://www.uniprot.org/uniprot/?query=+${gene}">${gene}</a>`
-                        
+                        taxonomy = `<a target="_blank" href="https://www.uniprot.org/taxonomy/${taxonomy}">${taxonomy}</a>`;
+                        gene = `<a target="_blank" href="https://www.uniprot.org/uniprot/?query=+${gene}">${gene}</a>`;
+
                         tnt.tooltip.table()
                             .width(300)
                             .call(this, {
@@ -85,7 +96,7 @@ class TrackView {
                                     {label: "Taxonomy", value: taxonomy},
                                     {label: "Gene", value: gene},
                                 ]
-                            })
+                            });
                     })
             );
         // Refer http://bl.ocks.org/emepyc/7c73519ee7a1300eb68a
@@ -97,9 +108,9 @@ class TrackView {
                 if (needed_height !== diamond_track.height()) {
                     diamond_track.height(needed_height);
                     //genome.tracks(genome.tracks());
-                    _this.board.tracks(_this.board.tracks())
+                    _this.board.tracks(_this.board.tracks());
                 }
-            })
+            });
 
         // Initialize the board
         this.board(this.dom);
