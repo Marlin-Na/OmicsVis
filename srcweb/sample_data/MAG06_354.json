@@ -320,11 +320,6 @@
     },
     {
       "seqnames": "MAG06_354",
-      "gene_ID": "MAG06_354_5",
-      "gene_strand": "+"
-    },
-    {
-      "seqnames": "MAG06_354",
       "gene_ID": "MAG06_354_6",
       "gene_strand": "-",
       "eggnog_pos_X2": "395492.Rleg2_2332",

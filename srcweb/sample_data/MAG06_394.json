@@ -298,16 +298,6 @@
     },
     {
       "seqnames": "MAG06_394",
-      "gene_ID": "MAG06_394_4",
-      "gene_strand": "+"
-    },
-    {
-      "seqnames": "MAG06_394",
-      "gene_ID": "MAG06_394_5",
-      "gene_strand": "+"
-    },
-    {
-      "seqnames": "MAG06_394",
       "gene_ID": "MAG06_394_6",
       "gene_strand": "+",
       "eggnog_pos_X2": "311403.Arad_9570",

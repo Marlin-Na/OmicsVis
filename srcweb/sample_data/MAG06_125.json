@@ -482,11 +482,6 @@
     },
     {
       "seqnames": "MAG06_125",
-      "gene_ID": "MAG06_125_8",
-      "gene_strand": "-"
-    },
-    {
-      "seqnames": "MAG06_125",
       "gene_ID": "MAG06_125_9",
       "gene_strand": "-",
       "eggnog_pos_X2": "7070.TC006981-PA",

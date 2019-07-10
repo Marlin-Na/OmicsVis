@@ -245,16 +245,6 @@
     },
     {
       "seqnames": "MAG06_408",
-      "gene_ID": "MAG06_408_2",
-      "gene_strand": "-"
-    },
-    {
-      "seqnames": "MAG06_408",
-      "gene_ID": "MAG06_408_3",
-      "gene_strand": "-"
-    },
-    {
-      "seqnames": "MAG06_408",
       "gene_ID": "MAG06_408_4",
       "gene_strand": "+",
       "eggnog_pos_X2": "156889.Mmc1_2179",
@@ -648,11 +638,6 @@
       "eggnog_pos_X12": 163.7,
       "eggnog_pos_start": 2347,
       "eggnog_pos_end": 2770
-    },
-    {
-      "seqnames": "MAG06_408",
-      "gene_ID": "MAG06_408_7",
-      "gene_strand": "-"
     }
   ]
 }

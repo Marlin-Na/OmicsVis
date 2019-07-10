@@ -275,11 +275,6 @@
       "eggnog_pos_X12": 276.9,
       "eggnog_pos_start": 1693,
       "eggnog_pos_end": 2236
-    },
-    {
-      "seqnames": "MAG06_558",
-      "gene_ID": "MAG06_558_4",
-      "gene_strand": "+"
     }
   ]
 }

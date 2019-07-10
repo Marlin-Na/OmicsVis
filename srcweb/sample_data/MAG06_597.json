@@ -266,11 +266,6 @@
     },
     {
       "seqnames": "MAG06_597",
-      "gene_ID": "MAG06_597_3",
-      "gene_strand": "+"
-    },
-    {
-      "seqnames": "MAG06_597",
       "gene_ID": "MAG06_597_4",
       "gene_strand": "+",
       "eggnog_pos_X2": "266265.Bxe_A2767",

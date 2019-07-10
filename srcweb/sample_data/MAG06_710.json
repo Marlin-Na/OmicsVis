@@ -112,11 +112,6 @@
     },
     {
       "seqnames": "MAG06_710",
-      "gene_ID": "MAG06_710_2",
-      "gene_strand": "+"
-    },
-    {
-      "seqnames": "MAG06_710",
       "gene_ID": "MAG06_710_3",
       "gene_strand": "-",
       "eggnog_pos_X2": "314264.ROS217_14501",

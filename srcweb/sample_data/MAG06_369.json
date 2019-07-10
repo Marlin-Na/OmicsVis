@@ -307,11 +307,6 @@
     },
     {
       "seqnames": "MAG06_369",
-      "gene_ID": "MAG06_369_3",
-      "gene_strand": "-"
-    },
-    {
-      "seqnames": "MAG06_369",
       "gene_ID": "MAG06_369_4",
       "gene_strand": "+",
       "eggnog_pos_X2": "311402.Avi_5936",

@@ -309,11 +309,6 @@
     },
     {
       "seqnames": "MAG06_96",
-      "gene_ID": "MAG06_96_5",
-      "gene_strand": "-"
-    },
-    {
-      "seqnames": "MAG06_96",
       "gene_ID": "MAG06_96_6",
       "gene_strand": "-",
       "eggnog_pos_X2": "266779.Meso_2791",

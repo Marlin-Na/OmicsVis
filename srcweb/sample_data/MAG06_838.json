@@ -198,16 +198,6 @@
   "diamond_track": [
     {
       "seqnames": "MAG06_838",
-      "gene_ID": "MAG06_838_1",
-      "gene_strand": "-"
-    },
-    {
-      "seqnames": "MAG06_838",
-      "gene_ID": "MAG06_838_2",
-      "gene_strand": "+"
-    },
-    {
-      "seqnames": "MAG06_838",
       "gene_ID": "MAG06_838_3",
       "gene_strand": "+",
       "eggnog_pos_X2": "366394.Smed_1927",
@@ -241,16 +231,6 @@
       "eggnog_pos_X12": 313.5,
       "eggnog_pos_start": 1016,
       "eggnog_pos_end": 1523
-    },
-    {
-      "seqnames": "MAG06_838",
-      "gene_ID": "MAG06_838_5",
-      "gene_strand": "+"
-    },
-    {
-      "seqnames": "MAG06_838",
-      "gene_ID": "MAG06_838_6",
-      "gene_strand": "+"
     },
     {
       "seqnames": "MAG06_838",

@@ -468,11 +468,6 @@
     },
     {
       "seqnames": "MAG06_84",
-      "gene_ID": "MAG06_84_6",
-      "gene_strand": "-"
-    },
-    {
-      "seqnames": "MAG06_84",
       "gene_ID": "MAG06_84_7",
       "gene_strand": "-",
       "eggnog_pos_X2": "394.NGR_c26940",

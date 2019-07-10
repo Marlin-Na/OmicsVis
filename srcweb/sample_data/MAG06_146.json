@@ -119,11 +119,6 @@
     },
     {
       "seqnames": "MAG06_146",
-      "gene_ID": "MAG06_146_2",
-      "gene_strand": "-"
-    },
-    {
-      "seqnames": "MAG06_146",
       "gene_ID": "MAG06_146_3",
       "gene_strand": "+",
       "eggnog_pos_X2": "394.NGR_c18240",

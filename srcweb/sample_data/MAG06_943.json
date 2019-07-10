@@ -453,11 +453,6 @@
     },
     {
       "seqnames": "MAG06_943",
-      "gene_ID": "MAG06_943_4",
-      "gene_strand": "-"
-    },
-    {
-      "seqnames": "MAG06_943",
       "gene_ID": "MAG06_943_5",
       "gene_strand": "-",
       "eggnog_pos_X2": "632772.ROP_45280",

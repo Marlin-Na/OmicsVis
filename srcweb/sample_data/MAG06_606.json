@@ -450,11 +450,6 @@
     },
     {
       "seqnames": "MAG06_606",
-      "gene_ID": "MAG06_606_4",
-      "gene_strand": "-"
-    },
-    {
-      "seqnames": "MAG06_606",
       "gene_ID": "MAG06_606_5",
       "gene_strand": "-",
       "eggnog_pos_X2": "641118.OINT_2000526",

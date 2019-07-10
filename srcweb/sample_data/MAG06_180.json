@@ -238,11 +238,6 @@
     },
     {
       "seqnames": "MAG06_180",
-      "gene_ID": "MAG06_180_4",
-      "gene_strand": "-"
-    },
-    {
-      "seqnames": "MAG06_180",
       "gene_ID": "MAG06_180_5",
       "gene_strand": "+",
       "eggnog_pos_X2": "366394.Smed_0198",

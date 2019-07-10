@@ -345,11 +345,6 @@
     },
     {
       "seqnames": "MAG06_684",
-      "gene_ID": "MAG06_684_3",
-      "gene_strand": "+"
-    },
-    {
-      "seqnames": "MAG06_684",
       "gene_ID": "MAG06_684_4",
       "gene_strand": "+",
       "eggnog_pos_X2": "639283.Snov_2517",

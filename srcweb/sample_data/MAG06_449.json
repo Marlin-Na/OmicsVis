@@ -395,16 +395,6 @@
     },
     {
       "seqnames": "MAG06_449",
-      "gene_ID": "MAG06_449_2",
-      "gene_strand": "+"
-    },
-    {
-      "seqnames": "MAG06_449",
-      "gene_ID": "MAG06_449_3",
-      "gene_strand": "+"
-    },
-    {
-      "seqnames": "MAG06_449",
       "gene_ID": "MAG06_449_4",
       "gene_strand": "+",
       "eggnog_pos_X2": "347834.RHE_CH02818",
@@ -456,11 +446,6 @@
       "eggnog_pos_X12": 95.9,
       "eggnog_pos_start": 1458,
       "eggnog_pos_end": 1653
-    },
-    {
-      "seqnames": "MAG06_449",
-      "gene_ID": "MAG06_449_5",
-      "gene_strand": "-"
     },
     {
       "seqnames": "MAG06_449",

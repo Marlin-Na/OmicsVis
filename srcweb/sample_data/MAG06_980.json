@@ -124,11 +124,6 @@
   "diamond_track": [
     {
       "seqnames": "MAG06_980",
-      "gene_ID": "MAG06_980_1",
-      "gene_strand": "+"
-    },
-    {
-      "seqnames": "MAG06_980",
       "gene_ID": "MAG06_980_2",
       "gene_strand": "+",
       "eggnog_pos_X2": "414684.RC1_0498",

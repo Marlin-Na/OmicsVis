@@ -383,11 +383,6 @@
     },
     {
       "seqnames": "MAG06_473",
-      "gene_ID": "MAG06_473_6",
-      "gene_strand": "+"
-    },
-    {
-      "seqnames": "MAG06_473",
       "gene_ID": "MAG06_473_7",
       "gene_strand": "-",
       "eggnog_pos_X2": "371731.Rsw2DRAFT_1619",

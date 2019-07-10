@@ -133,11 +133,6 @@
   "diamond_track": [
     {
       "seqnames": "MAG06_24",
-      "gene_ID": "MAG06_24_1",
-      "gene_strand": "+"
-    },
-    {
-      "seqnames": "MAG06_24",
       "gene_ID": "MAG06_24_2",
       "gene_strand": "-",
       "eggnog_pos_X2": "861208.AGROH133_09422",

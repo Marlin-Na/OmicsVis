@@ -99,11 +99,6 @@
   "diamond_track": [
     {
       "seqnames": "MAG06_317",
-      "gene_ID": "MAG06_317_1",
-      "gene_strand": "-"
-    },
-    {
-      "seqnames": "MAG06_317",
       "gene_ID": "MAG06_317_2",
       "gene_strand": "+",
       "eggnog_pos_X2": "1117943.SFHH103_02247",

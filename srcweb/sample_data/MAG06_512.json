@@ -138,11 +138,6 @@
     },
     {
       "seqnames": "MAG06_512",
-      "gene_ID": "MAG06_512_2",
-      "gene_strand": "+"
-    },
-    {
-      "seqnames": "MAG06_512",
       "gene_ID": "MAG06_512_3",
       "gene_strand": "+",
       "eggnog_pos_X2": "176299.Atu4145",

@@ -789,11 +789,6 @@
     },
     {
       "seqnames": "MAG06_325",
-      "gene_ID": "MAG06_325_8",
-      "gene_strand": "-"
-    },
-    {
-      "seqnames": "MAG06_325",
       "gene_ID": "MAG06_325_9",
       "gene_strand": "-",
       "eggnog_pos_X2": "266834.SMc04324",
@@ -863,11 +858,6 @@
       "eggnog_pos_X12": 620.2,
       "eggnog_pos_start": 8377,
       "eggnog_pos_end": 9325
-    },
-    {
-      "seqnames": "MAG06_325",
-      "gene_ID": "MAG06_325_13",
-      "gene_strand": "+"
     },
     {
       "seqnames": "MAG06_325",
