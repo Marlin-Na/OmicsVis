@@ -217,7 +217,6 @@ class TrackView {
             return;
         }
         if (what === "strand") {
-            console.log("color by strand");
             let scale = d3v5.scaleOrdinal();
             scale.domain(["-", "+"]);
             scale.range(d3v5.schemeAccent.slice(6, 8));
@@ -243,136 +242,154 @@ class TrackView {
     }
 }
 
-let gridOptions;
-let option_filterSelected = false;
-
-// Header filter handler
-function binding_filterSelected(node) {
-    option_filterSelected = node.checked;
-    gridOptions.api.onFilterChanged();
+class TrackViewPanel {
+    constructor(div) {
+        this.dom = div;
+        this.ActiveViews = new Map();
+        window.ActiveViews = this.ActiveViews;
+    }
+    add_view(contig_id) {
+        let vis_dom = d3v5.select(this.dom).node();
+        let container = document.createElement("div");
+        container.id = "vis-" + contig_id;
+        vis_dom.appendChild(container);
+        let view = new TrackView(container);
+        view.set_data_src(contig_id);
+        view.init_vis();
+        this.ActiveViews.set(contig_id, view);
+        view.update_vis();
+    }
+    remove_view(contig_id) {
+        document.getElementById("vis-" + contig_id).remove();
+        ActiveViews.delete(contig_id);
+    }
 }
 
-async function load_data_table() {
-    // Alternative to load_contig_list
-    let res;
-    res = await fetch("sample_data/index.json");
-    if (res.ok)
-        res = await res.json();
-    else
-        throw "Network error";
+class IndexTable {
+    constructor(div) {
+        this.dom = div;
+        this.gridOptions = null;
+        this.option_filterSelected = false;
 
-    let colorScale_contiglength = d3v5.scaleSequential(d3v5.interpolateReds)
-        .domain(res.map(d => d.length));
-    let colorScale_NGenes = d3v5.scaleSequential(d3v5.interpolateReds)
-        .domain(res.map(d => d.number_gene));
-
-    let columnDefs = [
-        {
-            headerName: "Contig ID",
-            field: "contig",
-            sortable: true,
-            checkboxSelection: true,
-            //headerCheckboxSelection: true,
-        },
-        {
-            headerName: "Len",
-            headerTooltip: "Contig Length",
-            field: "length",
-            filter: "agNumberColumnFilter",
-            type: "numericColumn",
-            sortable: true,
-            width: 100,
-            cellStyle: function(params) {
-                let color = colorScale_contiglength(params.value);
-                return {backgroundColor: color, color: "grey"};
-            }
-        },
-        {
-            headerName: "NGenes",
-            headerTooltip: "Number of Genes",
-            field: "number_gene",
-            filter: "agNumberColumnFilter",
-            type: "numericColumn",
-            sortable: true,
-            width: 100,
-            cellStyle: function(params) {
-                let color = colorScale_NGenes(params.value);
-                return {backgroundColor: color, color: "grey"};
-            }
-        },
-    ];
-    let rowData = res;
-
-    let ActiveViews = new Map();
-    window.ActiveViews = ActiveViews;
-
-    function onRowSelected(event) {
-        let contig_id = event.data.contig;
-        let is_checked = event.node.isSelected();
-
-        let vis_dom = document.getElementById("vis");
-        if (is_checked) {
-            let container = document.createElement("div");
-            container.id = "vis-" + contig_id;
-            vis_dom.appendChild(container);
-            let view = new TrackView(container);
-            view.set_data_src(contig_id)
-            view.init_vis();
-            view.update_vis();
-            ActiveViews.set(contig_id, view);
-        }
-        else {
-            document.getElementById("vis-" + contig_id).remove();
-            ActiveViews.delete(contig_id);
-        }
+        // TODO: move outside of this class.
+        this.vispanel = new TrackViewPanel("#vis");
     }
-    function isExternalFilterPresent() {
-        if (option_filterSelected === false)
-            return false;
+    async load() {
+        let _this = this;
+        let res;
+        res = await fetch("sample_data/index.json");
+        if (res.ok)
+            res = await res.json();
         else
-            return true;
-    }
-    function doesExternalFilterPass(node) {
-        if (option_filterSelected)
-            return node.isSelected();
-    }
-    function onCellMouseOver(event) {
-        if (event.node.selected) {
+            throw "Network error";
+
+        let colorScale_contiglength = d3v5.scaleSequential(d3v5.interpolateReds)
+            .domain(res.map(d => d.length));
+        let colorScale_NGenes = d3v5.scaleSequential(d3v5.interpolateReds)
+            .domain(res.map(d => d.number_gene));
+
+        let columnDefs = [
+            {
+                headerName: "Contig ID",
+                field: "contig",
+                sortable: true,
+                checkboxSelection: true,
+                //headerCheckboxSelection: true,
+            },
+            {
+                headerName: "Len",
+                headerTooltip: "Contig Length",
+                field: "length",
+                filter: "agNumberColumnFilter",
+                type: "numericColumn",
+                sortable: true,
+                width: 100,
+                cellStyle: function(params) {
+                    let color = colorScale_contiglength(params.value);
+                    return {backgroundColor: color, color: "grey"};
+                }
+            },
+            {
+                headerName: "NGenes",
+                headerTooltip: "Number of Genes",
+                field: "number_gene",
+                filter: "agNumberColumnFilter",
+                type: "numericColumn",
+                sortable: true,
+                width: 100,
+                cellStyle: function(params) {
+                    let color = colorScale_NGenes(params.value);
+                    return {backgroundColor: color, color: "grey"};
+                }
+            },
+        ];
+
+        this.gridOptions = {
+            columnDefs: columnDefs,
+            rowData: res,
+            pagination: true,
+            paginationAutoPageSize: true,
+            rowSelection: "multiple",
+            rowMultiSelectWithClick: true,
+            onRowSelected: onRowSelected,
+            isExternalFilterPresent: isExternalFilterPresent,
+            doesExternalFilterPass: doesExternalFilterPass,
+            onCellMouseOver: onCellMouseOver,
+            onCellMouseOut: onCellMouseOut
+        };
+
+
+
+
+        let dom_table = d3v5.select(this.dom).node();
+        let table = new agGrid.Grid(dom_table, this.gridOptions);
+
+
+        function onRowSelected(event) {
             let contig_id = event.data.contig;
-            let vis_dom = document.getElementById("vis-" + contig_id);
-            let the_board = ActiveViews.get(contig_id).board;
-            d3v5.select(vis_dom).classed("tntboard-highlight", true);
-        }
-    }
-    function onCellMouseOut(event) {
-        let contig_id = event.data.contig;
-        if (ActiveViews.has(contig_id)) {
-            let vis_dom = document.getElementById("vis-" + contig_id);
-            let the_board = ActiveViews.get(contig_id).board;
-            d3v5.select(vis_dom).classed("tntboard-highlight", false);
-        }
-    }
+            let is_checked = event.node.isSelected();
 
-    gridOptions = {
-        columnDefs: columnDefs,
-        rowData: rowData,
-        pagination: true,
-        paginationAutoPageSize: true,
-        rowSelection: "multiple",
-        rowMultiSelectWithClick: true,
-        onRowSelected: onRowSelected,
-        isExternalFilterPresent: isExternalFilterPresent,
-        doesExternalFilterPass: doesExternalFilterPass,
-        onCellMouseOver: onCellMouseOver,
-        onCellMouseOut: onCellMouseOut
-    };
-    let dom_table = document.getElementById("contig-table");
-    let table = new agGrid.Grid(dom_table, gridOptions);
+            if (is_checked) {
+                _this.vispanel.add_view(contig_id);
+            }
+            else {
+                _this.vispanel.remove_view(contig_id);
+            }
+        }
+        function isExternalFilterPresent() {
+            if (_this.option_filterSelected === false)
+                return false;
+            else
+                return true;
+        }
+        function doesExternalFilterPass(node) {
+            if (_this.option_filterSelected)
+                return node.isSelected();
+        }
+        // TODO: move to the TrackViewPanel class
+        function onCellMouseOver(event) {
+            if (event.node.selected) {
+                let contig_id = event.data.contig;
+                let vis_dom = document.getElementById("vis-" + contig_id);
+                let the_board = ActiveViews.get(contig_id).board;
+                d3v5.select(vis_dom).classed("tntboard-highlight", true);
+            }
+        }
+        function onCellMouseOut(event) {
+            let contig_id = event.data.contig;
+            if (ActiveViews.has(contig_id)) {
+                let vis_dom = document.getElementById("vis-" + contig_id);
+                let the_board = ActiveViews.get(contig_id).board;
+                d3v5.select(vis_dom).classed("tntboard-highlight", false);
+            }
+        }
+
+    }
 }
-
 
 async function main() {
-    await load_data_table();
+    let table = new IndexTable("#contig-table");
+    await table.load();
 }
 main();
 
