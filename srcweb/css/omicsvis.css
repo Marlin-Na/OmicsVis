@@ -32,10 +32,18 @@ body {
 #viscontainer {
     position: fixed;
     height: calc(100vh - 60px);
-    width: calc(100vw - 500px);
+    width: calc(100vw - 500px - 100px);
     top: 60px;
     left: 500px;
     overflow-y: scroll;
+}
+
+#controlpanel {
+    position: fixed;
+    height: calc(100vh - 60px);
+    width: 100px;
+    top: 60px;
+    right: 0px;
 }
 
 .tntboard-highlight {

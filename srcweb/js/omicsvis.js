@@ -224,6 +224,11 @@ class TrackView {
                 e.color = scale(e.gene_strand);
             });
         }
+        if (what === null) {
+            this.data.gene_track.forEach(e => {
+                e.color = undefined;
+            });
+        }
     }
 
     set_data_src(name) {
@@ -338,12 +343,8 @@ class IndexTable {
             onCellMouseOut: onCellMouseOut
         };
 
-
-
-
         let dom_table = d3v5.select(this.dom).node();
         let table = new agGrid.Grid(dom_table, this.gridOptions);
-
 
         function onRowSelected(event) {
             let contig_id = event.data.contig;
@@ -400,5 +401,6 @@ function binding_filterSelected(node) {
     table.option_filterSelected = node.checked;
     table.gridOptions.api.onFilterChanged();
 }
-
-
+function binding_color_by_strand(node) {
+    console.log(node.checked);
+}
