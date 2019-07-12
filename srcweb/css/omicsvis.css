@@ -1,10 +1,4 @@
 
-.scroll {
-    height: calc(100vh - 60px);
-    overflow: hidden;
-    overflow-y: scroll;
-}
-
 body {
     padding-top: 60px;
 }
@@ -13,39 +7,43 @@ body {
     height: 60px;
 }
 
-#sidebar {
+main {
+    display: flex;
     position: fixed;
     top: 60px;
-    height: calc(100vh - 60px - 25px);
-    width: 500px;
+    height: calc(100vh - 60px);
 }
 
-#sidebar-header {
+#tablepanel {
+    height: 100%;
+    flex-grow: 0;
+    flex-shrink: 0;
+    flex-basis: 430px;
+
+    display: flex;
+    flex-direction: column;
+}
+
+#tablepanel > #tablepanel-header {
     height: 25px;
 }
 
-#contig-table {
-    width: 500px;
-    height: 100%;
+#tablepanel > #contig-table {
+    flex-grow: 1;
 }
 
-#viscontainer {
-    position: fixed;
-    height: calc(100vh - 60px);
-    width: calc(100vw - 500px - 100px);
-    top: 60px;
-    left: 500px;
+#vispanel {
+    flex-basis: 820px;
+    flex-grow: 0;
+    flex-shrink: 0;
     overflow-y: scroll;
 }
 
 #controlpanel {
-    position: fixed;
-    height: calc(100vh - 60px);
-    width: 100px;
-    top: 60px;
-    right: 0px;
+    flex-grow: 1;
 }
 
 .tntboard-highlight {
     background-color: cadetblue;
 }
+

@@ -396,11 +396,10 @@ async function main() {
 }
 main();
 
-// Header filter handler
+
+//// Callback used in buttons, checkboxes, etc.
 function binding_filterSelected(node) {
     table.option_filterSelected = node.checked;
     table.gridOptions.api.onFilterChanged();
 }
-function binding_color_by_strand(node) {
-    console.log(node.checked);
-}
+
