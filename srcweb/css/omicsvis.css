@@ -33,10 +33,12 @@ main {
 }
 
 #vispanel {
-    flex-basis: 820px;
+    flex-basis: 830px;
     flex-grow: 0;
     flex-shrink: 0;
     overflow-y: scroll;
+    border-left: 1px solid grey;
+    border-right: 1px solid grey;
 }
 
 #controlpanel {
