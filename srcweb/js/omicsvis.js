@@ -211,10 +211,13 @@ class TrackView {
         ));
 
         board.start();
+    }
 
-        // // tmp
-        // this.set_color_by("strand");
-        // board.start();
+    reload() {
+        if (this.board === null) {
+            return; // do nothing
+        }
+        this.board.start();
     }
 
     set_gene_colorby(what) {
@@ -222,6 +225,7 @@ class TrackView {
             this.gene_colorgen = function(d) {
                 return undefined;
             };
+            this.reload();
             return;
         }
         if (what === "strand") {
@@ -231,31 +235,11 @@ class TrackView {
             this.gene_colorgen = function(d) {
                 return scale(d.gene_strand);
             };
+            this.reload();
             return;
         }
-        // else
+        // else TODO
     }
-
-    // set_color_by(what) {
-    //     let _this = this;
-    //     if (this.data === null) {
-    //         console.error("The board is not yet loaded");
-    //         return;
-    //     }
-    //     if (what === "strand") {
-    //         let scale = d3v5.scaleOrdinal();
-    //         scale.domain(["-", "+"]);
-    //         scale.range(d3v5.schemeAccent.slice(6, 8));
-    //         this.data.gene_track.forEach(e => {
-    //             e.color = scale(e.gene_strand);
-    //         });
-    //     }
-    //     if (what === null) {
-    //         this.data.gene_track.forEach(e => {
-    //             e.color = undefined;
-    //         });
-    //     }
-    // }
 
     set_data_src(name) {
         // such as MAG06_80
@@ -277,7 +261,15 @@ class TrackViewPanel {
     constructor(div) {
         this.dom = div;
         this.ActiveViews = new Map();
+        this.opt_gene_colorby = null;
         window.ActiveViews = this.ActiveViews;
+    }
+    set_gene_colorby(what) {
+        // Calls the set_gene_colorby method of TrackView
+        this.opt_gene_colorby = what;
+        this.ActiveViews.forEach(v => {
+            v.set_gene_colorby(what);
+        });
     }
     add_view(contig_id) {
         let vis_dom = d3v5.select(this.dom).node();
@@ -286,6 +278,9 @@ class TrackViewPanel {
         vis_dom.appendChild(container);
         let view = new TrackView(container);
         view.set_data_src(contig_id);
+        // Set gene color callback
+        if (this.opt_gene_colorby !== null)
+            view.set_gene_colorby(this.opt_gene_colorby);
         view.init_vis();
         this.ActiveViews.set(contig_id, view);
         view.update_vis();
@@ -398,7 +393,7 @@ class IndexTable {
             if (event.node.selected) {
                 let contig_id = event.data.contig;
                 let vis_dom = document.getElementById("vis-" + contig_id);
-                let the_board = ActiveViews.get(contig_id).board;
+                let the_board = _this.vispanel.ActiveViews.get(contig_id).board;
                 d3v5.select(vis_dom).classed("tntboard-highlight", true);
             }
         }
@@ -406,11 +401,17 @@ class IndexTable {
             let contig_id = event.data.contig;
             if (ActiveViews.has(contig_id)) {
                 let vis_dom = document.getElementById("vis-" + contig_id);
-                let the_board = ActiveViews.get(contig_id).board;
+                let the_board = _this.vispanel.ActiveViews.get(contig_id).board;
                 d3v5.select(vis_dom).classed("tntboard-highlight", false);
             }
         }
 
+    }
+    set_gene_colorby(what) {
+        // Calls set_gene_colorby method from TrackViewPanel
+        let _this = this;
+        let vispanel = this.vispanel;
+        vispanel.set_gene_colorby(what);
     }
 }
 
@@ -427,5 +428,13 @@ main();
 function binding_filterSelected(node) {
     table.option_filterSelected = node.checked;
     table.gridOptions.api.onFilterChanged();
+}
+
+function binding_color_by_strand(node) {
+    let checked = node.checked;
+    if (checked)
+        table.set_gene_colorby("strand");
+    else
+        table.set_gene_colorby(null);
 }
 
