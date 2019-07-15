@@ -12,6 +12,11 @@ class TrackView {
         this.board = null;
         this.data_src = null;
         this.data = null;
+        // tnt actually does not accept a color callback for individual features,
+        // thus we embed this callback to the data retriever.
+        this.gene_colorgen = function(d) {
+            return undefined;
+        };
     }
 
     init_vis() {
@@ -182,6 +187,8 @@ class TrackView {
                     e.end = e.gene_end;
                     e.id = e.gene_ID;
                     e.display_label = "";
+                    // Set color
+                    e.color = _this.gene_colorgen(e);
                 });
                 return gtrack_data;
             }
@@ -205,31 +212,50 @@ class TrackView {
 
         board.start();
 
-        // tmp
-        this.set_color_by("strand");
-        board.start();
+        // // tmp
+        // this.set_color_by("strand");
+        // board.start();
     }
 
-    set_color_by(what) {
-        let _this = this;
-        if (this.data === null) {
-            console.error("The board is not yet loaded");
+    set_gene_colorby(what) {
+        if (what === null) {
+            this.gene_colorgen = function(d) {
+                return undefined;
+            };
             return;
         }
         if (what === "strand") {
             let scale = d3v5.scaleOrdinal();
             scale.domain(["-", "+"]);
             scale.range(d3v5.schemeAccent.slice(6, 8));
-            this.data.gene_track.forEach(e => {
-                e.color = scale(e.gene_strand);
-            });
+            this.gene_colorgen = function(d) {
+                return scale(d.gene_strand);
+            };
+            return;
         }
-        if (what === null) {
-            this.data.gene_track.forEach(e => {
-                e.color = undefined;
-            });
-        }
+        // else
     }
+
+    // set_color_by(what) {
+    //     let _this = this;
+    //     if (this.data === null) {
+    //         console.error("The board is not yet loaded");
+    //         return;
+    //     }
+    //     if (what === "strand") {
+    //         let scale = d3v5.scaleOrdinal();
+    //         scale.domain(["-", "+"]);
+    //         scale.range(d3v5.schemeAccent.slice(6, 8));
+    //         this.data.gene_track.forEach(e => {
+    //             e.color = scale(e.gene_strand);
+    //         });
+    //     }
+    //     if (what === null) {
+    //         this.data.gene_track.forEach(e => {
+    //             e.color = undefined;
+    //         });
+    //     }
+    // }
 
     set_data_src(name) {
         // such as MAG06_80
