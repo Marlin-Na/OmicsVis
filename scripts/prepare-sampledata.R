@@ -74,6 +74,16 @@ gene_tracks <- dplyr::select(data, starts_with("gene"), starts_with("eggnog_X"))
 gene_tracks <- dplyr::distinct(gene_tracks)
 gene_tracks
 
+## Generating random metrics for gene_track
+set.seed(42L)
+for (i in seq(30)) {
+    ## Random values from 1 to 99
+    gene_tracks[[sprintf("metric_%s", i)]] <- sample(1:99, nrow(gene_tracks), TRUE)
+    ## 20% - 30% of the genes are expected to have a metric
+    gene_tracks[[sprintf("metric_%s", i)]][
+        sample(seq(nrow(gene_tracks)), round(nrow(gene_tracks)*3L/4L), TRUE)] <- NA
+}
+
 diamond_tracks <- dplyr::select(data, seqnames = "gene_seqnames",
                                 "gene_ID", "gene_strand", starts_with("eggnog_pos"))
 stopifnot(nrow(dplyr::distinct(diamond_tracks)) == nrow(diamond_tracks))
