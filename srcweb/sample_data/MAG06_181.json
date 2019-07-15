@@ -35,7 +35,20 @@
       "eggnog_X10": "02DQB@aproNOG,08EWA@bactNOG,1719K@proNOG,COG1058@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "H",
-      "eggnog_X13": "molybdopterin binding domain"
+      "eggnog_X13": "molybdopterin binding domain",
+      "metric_4": 93,
+      "metric_7": 61,
+      "metric_8": 82,
+      "metric_10": 32,
+      "metric_14": 15,
+      "metric_15": 84,
+      "metric_16": 4,
+      "metric_17": 20,
+      "metric_23": 98,
+      "metric_24": 35,
+      "metric_27": 37,
+      "metric_29": 12,
+      "metric_30": 76
     },
     {
       "gene_seqnames": "MAG06_181",
@@ -71,7 +84,17 @@
       "eggnog_X10": "01SSM@aproNOG,05DYA@bactNOG,173YC@proNOG,COG0503@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "F",
-      "eggnog_X13": "Acts on guanine, xanthine and to a lesser extent hypoxanthine (By similarity)"
+      "eggnog_X13": "Acts on guanine, xanthine and to a lesser extent hypoxanthine (By similarity)",
+      "metric_2": 25,
+      "metric_4": 31,
+      "metric_11": 20,
+      "metric_12": 38,
+      "metric_14": 54,
+      "metric_21": 51,
+      "metric_23": 48,
+      "metric_28": 12,
+      "metric_29": 58,
+      "metric_30": 23
     },
     {
       "gene_seqnames": "MAG06_181",
@@ -106,7 +129,17 @@
       "eggnog_X10": "01RBK@aproNOG,05DR1@bactNOG,16QCV@proNOG,COG0062@NOG,COG0063@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "G",
-      "eggnog_X13": "carbohydrate kinase, YjeF related protein"
+      "eggnog_X13": "carbohydrate kinase, YjeF related protein",
+      "metric_6": 41,
+      "metric_13": 65,
+      "metric_14": 61,
+      "metric_16": 20,
+      "metric_21": 81,
+      "metric_22": 7,
+      "metric_23": 48,
+      "metric_24": 30,
+      "metric_25": 98,
+      "metric_27": 5
     },
     {
       "gene_seqnames": "MAG06_181",
@@ -140,7 +173,27 @@
       "eggnog_X10": "COG0347@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "E",
-      "eggnog_X13": "Nitrogen regulatory protein pii"
+      "eggnog_X13": "Nitrogen regulatory protein pii",
+      "metric_1": 55,
+      "metric_2": 37,
+      "metric_3": 99,
+      "metric_4": 59,
+      "metric_5": 27,
+      "metric_6": 84,
+      "metric_10": 71,
+      "metric_12": 47,
+      "metric_13": 85,
+      "metric_14": 68,
+      "metric_15": 21,
+      "metric_16": 4,
+      "metric_17": 28,
+      "metric_19": 84,
+      "metric_20": 49,
+      "metric_22": 47,
+      "metric_23": 94,
+      "metric_27": 95,
+      "metric_28": 48,
+      "metric_29": 42
     }
   ],
   "diamond_track": [

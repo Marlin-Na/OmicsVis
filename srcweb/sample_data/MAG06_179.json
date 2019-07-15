@@ -36,7 +36,19 @@
       "eggnog_X10": "01UA8@aproNOG,05DZC@bactNOG,16R7B@proNOG,COG0402@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "F",
-      "eggnog_X13": "cytosine deaminase"
+      "eggnog_X13": "cytosine deaminase",
+      "metric_1": 45,
+      "metric_3": 93,
+      "metric_4": 58,
+      "metric_6": 81,
+      "metric_9": 22,
+      "metric_15": 97,
+      "metric_16": 66,
+      "metric_18": 26,
+      "metric_20": 51,
+      "metric_21": 15,
+      "metric_23": 54,
+      "metric_24": 35
     },
     {
       "gene_seqnames": "MAG06_179",
@@ -69,7 +81,24 @@
       "eggnog_X10": "02DII@aproNOG,07T4U@bactNOG,16TAC@proNOG,COG0402@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "F",
-      "eggnog_X13": "N-ethylammeline chlorohydrolase"
+      "eggnog_X13": "N-ethylammeline chlorohydrolase",
+      "metric_1": 19,
+      "metric_5": 42,
+      "metric_6": 44,
+      "metric_9": 7,
+      "metric_10": 61,
+      "metric_15": 59,
+      "metric_16": 81,
+      "metric_17": 21,
+      "metric_18": 61,
+      "metric_20": 8,
+      "metric_21": 22,
+      "metric_22": 90,
+      "metric_23": 39,
+      "metric_26": 89,
+      "metric_27": 59,
+      "metric_29": 4,
+      "metric_30": 22
     },
     {
       "gene_seqnames": "MAG06_179",
@@ -103,7 +132,19 @@
       "eggnog_X10": "01QJ5@aproNOG,05C3U@bactNOG,16PI9@proNOG,COG0444@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "E, P",
-      "eggnog_X13": "ABC transporter"
+      "eggnog_X13": "ABC transporter",
+      "metric_1": 50,
+      "metric_5": 64,
+      "metric_9": 94,
+      "metric_10": 47,
+      "metric_16": 3,
+      "metric_17": 52,
+      "metric_18": 44,
+      "metric_19": 26,
+      "metric_24": 55,
+      "metric_28": 27,
+      "metric_29": 22,
+      "metric_30": 53
     },
     {
       "gene_seqnames": "MAG06_179",
@@ -136,7 +177,13 @@
       "eggnog_X10": "02EHI@aproNOG,08JQ7@bactNOG,173F3@proNOG,COG4608@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "E",
-      "eggnog_X13": "ABC transporter"
+      "eggnog_X13": "ABC transporter",
+      "metric_4": 7,
+      "metric_13": 82,
+      "metric_17": 20,
+      "metric_24": 70,
+      "metric_25": 88,
+      "metric_26": 60
     }
   ],
   "diamond_track": [

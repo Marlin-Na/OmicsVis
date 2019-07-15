@@ -38,7 +38,20 @@
       "eggnog_X10": "01TJ0@aproNOG,05C2T@bactNOG,16R8W@proNOG,COG1173@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "P",
-      "eggnog_X13": "Binding-protein-dependent transport systems inner membrane component"
+      "eggnog_X13": "Binding-protein-dependent transport systems inner membrane component",
+      "metric_1": 96,
+      "metric_3": 21,
+      "metric_4": 42,
+      "metric_5": 82,
+      "metric_7": 2,
+      "metric_8": 1,
+      "metric_9": 97,
+      "metric_11": 81,
+      "metric_19": 51,
+      "metric_20": 16,
+      "metric_21": 35,
+      "metric_22": 28,
+      "metric_23": 21
     },
     {
       "gene_seqnames": "MAG06_147",
@@ -73,7 +86,21 @@
       "eggnog_X10": "02EH6@aproNOG,08JQ5@bactNOG,173EY@proNOG,COG4172@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "S",
-      "eggnog_X13": "ABC transporter"
+      "eggnog_X13": "ABC transporter",
+      "metric_4": 7,
+      "metric_7": 37,
+      "metric_8": 51,
+      "metric_10": 78,
+      "metric_11": 83,
+      "metric_12": 58,
+      "metric_17": 82,
+      "metric_18": 93,
+      "metric_21": 64,
+      "metric_22": 3,
+      "metric_24": 4,
+      "metric_25": 25,
+      "metric_27": 99,
+      "metric_28": 93
     }
   ],
   "diamond_track": [

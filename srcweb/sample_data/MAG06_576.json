@@ -34,7 +34,22 @@
       "eggnog_X10": "022DH@aproNOG,067K3@bactNOG,12BCZ@NOG,17Q7H@proNOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "S",
-      "eggnog_X13": "Hpt domain protein"
+      "eggnog_X13": "Hpt domain protein",
+      "metric_1": 37,
+      "metric_2": 3,
+      "metric_3": 15,
+      "metric_5": 42,
+      "metric_6": 12,
+      "metric_9": 6,
+      "metric_11": 5,
+      "metric_12": 56,
+      "metric_13": 69,
+      "metric_17": 87,
+      "metric_18": 79,
+      "metric_21": 40,
+      "metric_22": 36,
+      "metric_29": 73,
+      "metric_30": 77
     },
     {
       "gene_seqnames": "MAG06_576",
@@ -67,7 +82,22 @@
       "eggnog_X10": "01RSG@aproNOG,05D2U@bactNOG,0XPG5@NOG,16QEE@proNOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "S",
-      "eggnog_X13": "Inherit from NOG: KH domain containing 3-like, subcortical maternal complex member"
+      "eggnog_X13": "Inherit from NOG: KH domain containing 3-like, subcortical maternal complex member",
+      "metric_1": 81,
+      "metric_2": 5,
+      "metric_3": 77,
+      "metric_4": 14,
+      "metric_5": 62,
+      "metric_12": 47,
+      "metric_13": 13,
+      "metric_16": 83,
+      "metric_17": 26,
+      "metric_18": 66,
+      "metric_21": 14,
+      "metric_23": 70,
+      "metric_25": 39,
+      "metric_27": 4,
+      "metric_29": 62
     }
   ],
   "diamond_track": [

@@ -26,7 +26,16 @@
       "gene_sscore": "3.22",
       "gene_rscore": "0.00",
       "gene_uscore": "0.00",
-      "gene_tscore": "3.22"
+      "gene_tscore": "3.22",
+      "metric_6": 23,
+      "metric_7": 95,
+      "metric_10": 78,
+      "metric_11": 70,
+      "metric_15": 77,
+      "metric_19": 98,
+      "metric_21": 2,
+      "metric_22": 62,
+      "metric_25": 68
     },
     {
       "gene_seqnames": "MAG06_182",
@@ -58,7 +67,22 @@
       "eggnog_X10": "07H2E@bactNOG,0ZKJK@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "S",
-      "eggnog_X13": "Protein of unknown function (DUF3365)"
+      "eggnog_X13": "Protein of unknown function (DUF3365)",
+      "metric_1": 43,
+      "metric_3": 80,
+      "metric_4": 98,
+      "metric_5": 37,
+      "metric_7": 52,
+      "metric_8": 28,
+      "metric_12": 38,
+      "metric_14": 85,
+      "metric_16": 75,
+      "metric_18": 76,
+      "metric_19": 27,
+      "metric_20": 50,
+      "metric_21": 10,
+      "metric_22": 67,
+      "metric_23": 50
     },
     {
       "gene_seqnames": "MAG06_182",
@@ -90,7 +114,21 @@
       "eggnog_X10": "01QYP@aproNOG,05BZU@bactNOG,0XNMH@NOG,16PBK@proNOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "T",
-      "eggnog_X13": "Histidine kinase"
+      "eggnog_X13": "Histidine kinase",
+      "metric_2": 21,
+      "metric_4": 19,
+      "metric_5": 29,
+      "metric_7": 5,
+      "metric_9": 38,
+      "metric_12": 10,
+      "metric_14": 65,
+      "metric_15": 7,
+      "metric_16": 7,
+      "metric_17": 30,
+      "metric_18": 26,
+      "metric_19": 88,
+      "metric_24": 45,
+      "metric_26": 3
     }
   ],
   "diamond_track": [

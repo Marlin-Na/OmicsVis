@@ -34,7 +34,22 @@
       "eggnog_X10": "0727B@bactNOG,0BEQC@bproNOG,0XTBT@NOG,175KU@proNOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "L",
-      "eggnog_X13": "DNA methylase"
+      "eggnog_X13": "DNA methylase",
+      "metric_2": 62,
+      "metric_4": 11,
+      "metric_5": 73,
+      "metric_7": 88,
+      "metric_9": 49,
+      "metric_10": 48,
+      "metric_13": 96,
+      "metric_15": 18,
+      "metric_16": 62,
+      "metric_18": 12,
+      "metric_23": 80,
+      "metric_24": 13,
+      "metric_26": 20,
+      "metric_27": 54,
+      "metric_28": 2
     }
   ],
   "diamond_track": [

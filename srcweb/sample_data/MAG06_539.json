@@ -38,7 +38,16 @@
       "eggnog_X10": "01SIR@aproNOG,05CBF@bactNOG,16Q2G@proNOG,COG0422@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "H",
-      "eggnog_X13": "Catalyzes the synthesis of the hydroxymethylpyrimidine phosphate (HMP-P) moiety of thiamine from aminoimidazole ribotide (AIR) in a radical S-adenosyl-L-methionine (SAM)-dependent reaction (By similarity)"
+      "eggnog_X13": "Catalyzes the synthesis of the hydroxymethylpyrimidine phosphate (HMP-P) moiety of thiamine from aminoimidazole ribotide (AIR) in a radical S-adenosyl-L-methionine (SAM)-dependent reaction (By similarity)",
+      "metric_1": 73,
+      "metric_9": 17,
+      "metric_12": 82,
+      "metric_19": 75,
+      "metric_24": 37,
+      "metric_25": 76,
+      "metric_28": 67,
+      "metric_29": 22,
+      "metric_30": 98
     },
     {
       "gene_seqnames": "MAG06_539",
@@ -72,7 +81,20 @@
       "eggnog_X10": "01RBG@aproNOG,07S07@bactNOG,16T29@proNOG,COG0665@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "E",
-      "eggnog_X13": "Glycine oxidase ThiO"
+      "eggnog_X13": "Glycine oxidase ThiO",
+      "metric_6": 26,
+      "metric_7": 4,
+      "metric_9": 40,
+      "metric_10": 41,
+      "metric_11": 6,
+      "metric_12": 91,
+      "metric_14": 57,
+      "metric_16": 74,
+      "metric_20": 55,
+      "metric_22": 40,
+      "metric_25": 51,
+      "metric_29": 71,
+      "metric_30": 39
     },
     {
       "gene_seqnames": "MAG06_539",
@@ -106,7 +128,23 @@
       "eggnog_X10": "023K2@aproNOG,084WM@bactNOG,16X5P@proNOG,COG2104@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "H",
-      "eggnog_X13": "thiamine biosynthesis protein ThiS"
+      "eggnog_X13": "thiamine biosynthesis protein ThiS",
+      "metric_1": 40,
+      "metric_3": 50,
+      "metric_4": 77,
+      "metric_6": 82,
+      "metric_7": 65,
+      "metric_9": 68,
+      "metric_11": 81,
+      "metric_12": 54,
+      "metric_14": 73,
+      "metric_15": 75,
+      "metric_16": 27,
+      "metric_21": 51,
+      "metric_25": 75,
+      "metric_27": 65,
+      "metric_28": 67,
+      "metric_30": 48
     },
     {
       "gene_seqnames": "MAG06_539",
@@ -141,7 +179,18 @@
       "eggnog_X10": "01QX4@aproNOG,05CA8@bactNOG,16PUM@proNOG,COG2022@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "H",
-      "eggnog_X13": "Catalyzes the rearrangement of 1-deoxy-D-xylulose 5- phosphate (DXP) to produce the thiazole phosphate moiety of thiamine. Sulfur is provided by the thiocarboxylate moiety of the carrier protein ThiS. In vitro, sulfur can be provided by H(2)S (By similarity)"
+      "eggnog_X13": "Catalyzes the rearrangement of 1-deoxy-D-xylulose 5- phosphate (DXP) to produce the thiazole phosphate moiety of thiamine. Sulfur is provided by the thiocarboxylate moiety of the carrier protein ThiS. In vitro, sulfur can be provided by H(2)S (By similarity)",
+      "metric_2": 81,
+      "metric_9": 72,
+      "metric_13": 78,
+      "metric_14": 64,
+      "metric_18": 58,
+      "metric_19": 48,
+      "metric_22": 34,
+      "metric_24": 4,
+      "metric_25": 51,
+      "metric_28": 46,
+      "metric_29": 64
     }
   ],
   "diamond_track": [

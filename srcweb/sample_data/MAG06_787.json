@@ -36,7 +36,22 @@
       "eggnog_X10": "01QFF@aproNOG,05BZS@bactNOG,16PBH@proNOG,COG0841@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "P",
-      "eggnog_X13": "acriflavin resistance protein"
+      "eggnog_X13": "acriflavin resistance protein",
+      "metric_2": 65,
+      "metric_3": 7,
+      "metric_9": 2,
+      "metric_10": 90,
+      "metric_11": 60,
+      "metric_12": 70,
+      "metric_13": 24,
+      "metric_16": 24,
+      "metric_18": 13,
+      "metric_20": 57,
+      "metric_24": 41,
+      "metric_25": 84,
+      "metric_26": 82,
+      "metric_29": 34,
+      "metric_30": 60
     }
   ],
   "diamond_track": [

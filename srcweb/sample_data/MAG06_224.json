@@ -35,7 +35,22 @@
       "eggnog_X10": "01QRS@aproNOG,05BZU@bactNOG,0XNMH@NOG,16PBJ@proNOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "T",
-      "eggnog_X13": "Diguanylate cyclase phosphodiesterase"
+      "eggnog_X13": "Diguanylate cyclase phosphodiesterase",
+      "metric_2": 37,
+      "metric_3": 12,
+      "metric_4": 43,
+      "metric_6": 8,
+      "metric_9": 72,
+      "metric_12": 95,
+      "metric_14": 73,
+      "metric_16": 18,
+      "metric_17": 90,
+      "metric_18": 97,
+      "metric_25": 74,
+      "metric_26": 6,
+      "metric_27": 38,
+      "metric_29": 43,
+      "metric_30": 70
     },
     {
       "gene_seqnames": "MAG06_224",
@@ -59,7 +74,21 @@
       "gene_sscore": "-1.18",
       "gene_rscore": "3.36",
       "gene_uscore": "0.08",
-      "gene_tscore": "-4.62"
+      "gene_tscore": "-4.62",
+      "metric_3": 99,
+      "metric_4": 42,
+      "metric_6": 64,
+      "metric_7": 38,
+      "metric_10": 50,
+      "metric_13": 35,
+      "metric_14": 43,
+      "metric_15": 57,
+      "metric_17": 9,
+      "metric_21": 27,
+      "metric_22": 90,
+      "metric_23": 57,
+      "metric_26": 27,
+      "metric_27": 72
     }
   ],
   "diamond_track": [

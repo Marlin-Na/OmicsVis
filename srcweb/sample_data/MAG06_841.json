@@ -34,7 +34,22 @@
       "eggnog_X10": "01Y2I@aproNOG,0901B@bactNOG,11KKD@NOG,17C4U@proNOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "M",
-      "eggnog_X13": "Glycosyl Transferase"
+      "eggnog_X13": "Glycosyl Transferase",
+      "metric_1": 87,
+      "metric_4": 71,
+      "metric_6": 70,
+      "metric_7": 29,
+      "metric_10": 54,
+      "metric_11": 52,
+      "metric_14": 89,
+      "metric_15": 29,
+      "metric_17": 36,
+      "metric_18": 41,
+      "metric_23": 67,
+      "metric_24": 55,
+      "metric_25": 40,
+      "metric_28": 16,
+      "metric_30": 11
     },
     {
       "gene_seqnames": "MAG06_841",
@@ -67,7 +82,16 @@
       "eggnog_X10": "01Z8E@aproNOG,07S6X@bactNOG,0ZVME@NOG,17C76@proNOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "M",
-      "eggnog_X13": "Glycosyl transferase, family 2"
+      "eggnog_X13": "Glycosyl transferase, family 2",
+      "metric_4": 6,
+      "metric_6": 62,
+      "metric_11": 32,
+      "metric_17": 68,
+      "metric_22": 32,
+      "metric_23": 3,
+      "metric_24": 62,
+      "metric_28": 66,
+      "metric_30": 12
     }
   ],
   "diamond_track": [

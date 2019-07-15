@@ -26,7 +26,17 @@
       "gene_sscore": "3.22",
       "gene_rscore": "0.00",
       "gene_uscore": "0.00",
-      "gene_tscore": "3.22"
+      "gene_tscore": "3.22",
+      "metric_1": 69,
+      "metric_2": 48,
+      "metric_3": 7,
+      "metric_8": 5,
+      "metric_18": 47,
+      "metric_19": 49,
+      "metric_21": 56,
+      "metric_23": 97,
+      "metric_24": 68,
+      "metric_28": 61
     },
     {
       "gene_seqnames": "MAG06_14",
@@ -50,7 +60,22 @@
       "gene_sscore": "7.42",
       "gene_rscore": "5.46",
       "gene_uscore": "-0.58",
-      "gene_tscore": "2.54"
+      "gene_tscore": "2.54",
+      "metric_7": 85,
+      "metric_8": 15,
+      "metric_12": 99,
+      "metric_16": 87,
+      "metric_17": 93,
+      "metric_18": 5,
+      "metric_19": 15,
+      "metric_20": 93,
+      "metric_22": 52,
+      "metric_23": 79,
+      "metric_24": 55,
+      "metric_25": 81,
+      "metric_27": 50,
+      "metric_28": 37,
+      "metric_30": 71
     },
     {
       "gene_seqnames": "MAG06_14",
@@ -80,7 +105,18 @@
       "eggnog_X4": 114.8,
       "eggnog_X9": "bactNOG[38]",
       "eggnog_X10": "0212Z@aproNOG,063KM@bactNOG,124I8@NOG,17QMR@proNOG",
-      "eggnog_X11": "NA|NA|NA"
+      "eggnog_X11": "NA|NA|NA",
+      "metric_1": 40,
+      "metric_3": 46,
+      "metric_7": 47,
+      "metric_9": 95,
+      "metric_12": 87,
+      "metric_13": 72,
+      "metric_14": 21,
+      "metric_15": 45,
+      "metric_16": 36,
+      "metric_20": 69,
+      "metric_22": 46
     },
     {
       "gene_seqnames": "MAG06_14",
@@ -113,7 +149,17 @@
       "eggnog_X10": "01TBN@aproNOG,05P6X@bactNOG,16RAW@proNOG,COG1415@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "S",
-      "eggnog_X13": "Protein of unknown function (DUF763)"
+      "eggnog_X13": "Protein of unknown function (DUF763)",
+      "metric_1": 21,
+      "metric_8": 55,
+      "metric_12": 52,
+      "metric_13": 7,
+      "metric_15": 16,
+      "metric_16": 74,
+      "metric_17": 5,
+      "metric_18": 8,
+      "metric_25": 51,
+      "metric_26": 67
     }
   ],
   "diamond_track": [

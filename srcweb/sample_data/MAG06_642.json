@@ -36,7 +36,17 @@
       "eggnog_X10": "01R32@aproNOG,07RZC@bactNOG,16QBC@proNOG,COG1502@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "I",
-      "eggnog_X13": "phospholipase d"
+      "eggnog_X13": "phospholipase d",
+      "metric_5": 58,
+      "metric_6": 11,
+      "metric_8": 75,
+      "metric_10": 31,
+      "metric_13": 30,
+      "metric_16": 23,
+      "metric_21": 92,
+      "metric_23": 23,
+      "metric_25": 28,
+      "metric_27": 89
     },
     {
       "gene_seqnames": "MAG06_642",
@@ -71,7 +81,17 @@
       "eggnog_X10": "01RYC@aproNOG,05CCQ@bactNOG,16PDJ@proNOG,COG0740@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "O",
-      "eggnog_X13": "Cleaves peptides in various proteins in a process that requires ATP hydrolysis. Has a chymotrypsin-like activity. Plays a major role in the degradation of misfolded proteins (By similarity)"
+      "eggnog_X13": "Cleaves peptides in various proteins in a process that requires ATP hydrolysis. Has a chymotrypsin-like activity. Plays a major role in the degradation of misfolded proteins (By similarity)",
+      "metric_1": 33,
+      "metric_4": 87,
+      "metric_5": 8,
+      "metric_7": 52,
+      "metric_8": 35,
+      "metric_11": 1,
+      "metric_16": 40,
+      "metric_22": 66,
+      "metric_27": 49,
+      "metric_29": 12
     },
     {
       "gene_seqnames": "MAG06_642",
@@ -106,7 +126,21 @@
       "eggnog_X10": "01R1Z@aproNOG,05CHN@bactNOG,16PKE@proNOG,COG1219@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "O",
-      "eggnog_X13": "ATP-dependent specificity component of the Clp protease. It directs the protease to specific substrates. Can perform chaperone functions in the absence of ClpP (By similarity)"
+      "eggnog_X13": "ATP-dependent specificity component of the Clp protease. It directs the protease to specific substrates. Can perform chaperone functions in the absence of ClpP (By similarity)",
+      "metric_3": 93,
+      "metric_5": 51,
+      "metric_6": 8,
+      "metric_13": 9,
+      "metric_14": 93,
+      "metric_16": 72,
+      "metric_18": 21,
+      "metric_20": 48,
+      "metric_22": 55,
+      "metric_23": 73,
+      "metric_24": 22,
+      "metric_27": 61,
+      "metric_28": 68,
+      "metric_29": 43
     }
   ],
   "diamond_track": [

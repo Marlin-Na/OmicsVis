@@ -36,7 +36,15 @@
       "eggnog_X10": "01SMT@aproNOG,06DVF@bactNOG,16R52@proNOG,COG1840@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "P",
-      "eggnog_X13": "extracellular solute-binding protein, family 1"
+      "eggnog_X13": "extracellular solute-binding protein, family 1",
+      "metric_1": 23,
+      "metric_13": 82,
+      "metric_16": 39,
+      "metric_18": 85,
+      "metric_19": 48,
+      "metric_20": 76,
+      "metric_23": 39,
+      "metric_27": 71
     },
     {
       "gene_seqnames": "MAG06_842",
@@ -70,7 +78,19 @@
       "eggnog_X10": "01S74@aproNOG,05FD5@bactNOG,16XJF@proNOG,COG3181@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "S",
-      "eggnog_X13": "transport protein TctC"
+      "eggnog_X13": "transport protein TctC",
+      "metric_1": 38,
+      "metric_3": 36,
+      "metric_5": 28,
+      "metric_8": 36,
+      "metric_9": 27,
+      "metric_11": 8,
+      "metric_13": 39,
+      "metric_14": 66,
+      "metric_15": 34,
+      "metric_24": 43,
+      "metric_26": 77,
+      "metric_28": 43
     },
     {
       "gene_seqnames": "MAG06_842",
@@ -103,7 +123,19 @@
       "eggnog_X10": "01YXT@aproNOG,05IS4@bactNOG,11PXD@NOG,17F9U@proNOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "S",
-      "eggnog_X13": "Tricarboxylic transport membrane protein"
+      "eggnog_X13": "Tricarboxylic transport membrane protein",
+      "metric_1": 34,
+      "metric_2": 11,
+      "metric_4": 83,
+      "metric_5": 1,
+      "metric_11": 55,
+      "metric_12": 33,
+      "metric_13": 98,
+      "metric_17": 55,
+      "metric_20": 87,
+      "metric_23": 25,
+      "metric_26": 18,
+      "metric_28": 71
     }
   ],
   "diamond_track": [

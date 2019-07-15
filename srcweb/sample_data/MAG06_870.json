@@ -38,7 +38,19 @@
       "eggnog_X10": "01QKM@aproNOG,05ECY@bactNOG,16Q31@proNOG,COG0483@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "G",
-      "eggnog_X13": "inositol mono-phosphatase"
+      "eggnog_X13": "inositol mono-phosphatase",
+      "metric_1": 81,
+      "metric_4": 50,
+      "metric_6": 10,
+      "metric_9": 77,
+      "metric_10": 43,
+      "metric_20": 35,
+      "metric_23": 46,
+      "metric_24": 85,
+      "metric_26": 32,
+      "metric_27": 47,
+      "metric_29": 49,
+      "metric_30": 96
     },
     {
       "gene_seqnames": "MAG06_870",
@@ -71,7 +83,19 @@
       "eggnog_X10": "01SJ7@aproNOG,060ME@bactNOG,0ZQA4@NOG,174T6@proNOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "S",
-      "eggnog_X13": "motA TolQ ExbB proton channel family"
+      "eggnog_X13": "motA TolQ ExbB proton channel family",
+      "metric_3": 28,
+      "metric_4": 48,
+      "metric_5": 76,
+      "metric_8": 69,
+      "metric_12": 99,
+      "metric_13": 62,
+      "metric_14": 41,
+      "metric_21": 4,
+      "metric_22": 11,
+      "metric_23": 7,
+      "metric_24": 45,
+      "metric_27": 63
     },
     {
       "gene_seqnames": "MAG06_870",
@@ -106,7 +130,20 @@
       "eggnog_X10": "01RKG@aproNOG,0608B@bactNOG,16TFJ@proNOG,COG1360@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "N",
-      "eggnog_X13": "ompa motb domain protein"
+      "eggnog_X13": "ompa motb domain protein",
+      "metric_2": 4,
+      "metric_4": 45,
+      "metric_5": 78,
+      "metric_6": 26,
+      "metric_9": 58,
+      "metric_10": 42,
+      "metric_12": 36,
+      "metric_13": 66,
+      "metric_16": 55,
+      "metric_20": 61,
+      "metric_22": 55,
+      "metric_25": 39,
+      "metric_30": 31
     },
     {
       "gene_seqnames": "MAG06_870",
@@ -141,7 +178,23 @@
       "eggnog_X10": "01QSH@aproNOG,05BZ1@bactNOG,16PGA@proNOG,COG1132@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "V",
-      "eggnog_X13": "ABC transporter"
+      "eggnog_X13": "ABC transporter",
+      "metric_1": 56,
+      "metric_2": 63,
+      "metric_4": 92,
+      "metric_5": 4,
+      "metric_7": 62,
+      "metric_10": 85,
+      "metric_15": 45,
+      "metric_16": 9,
+      "metric_18": 66,
+      "metric_19": 45,
+      "metric_20": 21,
+      "metric_22": 87,
+      "metric_25": 37,
+      "metric_27": 87,
+      "metric_29": 56,
+      "metric_30": 84
     }
   ],
   "diamond_track": [

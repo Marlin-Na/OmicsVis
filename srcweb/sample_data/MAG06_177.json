@@ -37,7 +37,19 @@
       "eggnog_X10": "01Q7S@aproNOG,05CJW@bactNOG,16Q94@proNOG,COG2239@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "P",
-      "eggnog_X13": "magnesium transporter"
+      "eggnog_X13": "magnesium transporter",
+      "metric_1": 59,
+      "metric_4": 43,
+      "metric_9": 77,
+      "metric_13": 80,
+      "metric_15": 92,
+      "metric_16": 64,
+      "metric_19": 9,
+      "metric_22": 52,
+      "metric_23": 85,
+      "metric_25": 54,
+      "metric_27": 75,
+      "metric_29": 19
     },
     {
       "gene_seqnames": "MAG06_177",
@@ -71,7 +83,21 @@
       "eggnog_X10": "01WT1@aproNOG,08XEG@bactNOG,17AB8@proNOG,COG0242@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "J",
-      "eggnog_X13": "Removes the formyl group from the N-terminal Met of newly synthesized proteins. Requires at least a dipeptide for an efficient rate of reaction. N-terminal L-methionine is a prerequisite for activity but the enzyme has broad specificity at other positions (By similarity)"
+      "eggnog_X13": "Removes the formyl group from the N-terminal Met of newly synthesized proteins. Requires at least a dipeptide for an efficient rate of reaction. N-terminal L-methionine is a prerequisite for activity but the enzyme has broad specificity at other positions (By similarity)",
+      "metric_1": 56,
+      "metric_2": 16,
+      "metric_5": 76,
+      "metric_6": 17,
+      "metric_7": 33,
+      "metric_12": 86,
+      "metric_13": 62,
+      "metric_16": 71,
+      "metric_20": 1,
+      "metric_21": 17,
+      "metric_23": 88,
+      "metric_27": 17,
+      "metric_28": 4,
+      "metric_30": 43
     },
     {
       "gene_seqnames": "MAG06_177",
@@ -101,7 +127,20 @@
       "eggnog_X4": 68.9,
       "eggnog_X9": "bactNOG[38]",
       "eggnog_X10": "028E0@aproNOG,0725T@bactNOG,0YW4I@NOG,18540@proNOG",
-      "eggnog_X11": "NA|NA|NA"
+      "eggnog_X11": "NA|NA|NA",
+      "metric_1": 84,
+      "metric_2": 76,
+      "metric_3": 8,
+      "metric_5": 21,
+      "metric_8": 69,
+      "metric_13": 86,
+      "metric_14": 62,
+      "metric_15": 18,
+      "metric_16": 50,
+      "metric_24": 5,
+      "metric_25": 24,
+      "metric_26": 47,
+      "metric_29": 22
     },
     {
       "gene_seqnames": "MAG06_177",
@@ -125,7 +164,18 @@
       "gene_sscore": "10.93",
       "gene_rscore": "7.63",
       "gene_uscore": "-0.34",
-      "gene_tscore": "3.65"
+      "gene_tscore": "3.65",
+      "metric_2": 33,
+      "metric_5": 57,
+      "metric_7": 1,
+      "metric_8": 3,
+      "metric_12": 9,
+      "metric_14": 74,
+      "metric_16": 85,
+      "metric_17": 10,
+      "metric_22": 92,
+      "metric_25": 99,
+      "metric_26": 79
     }
   ],
   "diamond_track": [

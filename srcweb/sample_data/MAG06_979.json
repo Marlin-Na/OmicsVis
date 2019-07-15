@@ -35,7 +35,20 @@
       "eggnog_X10": "01W0V@aproNOG,08TBM@bactNOG,11FDJ@NOG,1795K@proNOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "S",
-      "eggnog_X13": "Sporulation domain protein"
+      "eggnog_X13": "Sporulation domain protein",
+      "metric_2": 42,
+      "metric_3": 92,
+      "metric_9": 89,
+      "metric_10": 19,
+      "metric_11": 4,
+      "metric_12": 6,
+      "metric_13": 20,
+      "metric_15": 67,
+      "metric_17": 95,
+      "metric_21": 19,
+      "metric_23": 11,
+      "metric_25": 12,
+      "metric_28": 62
     }
   ],
   "diamond_track": [

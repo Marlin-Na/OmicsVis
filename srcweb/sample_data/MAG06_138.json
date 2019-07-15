@@ -26,7 +26,22 @@
       "gene_sscore": "3.22",
       "gene_rscore": "0.00",
       "gene_uscore": "0.00",
-      "gene_tscore": "3.22"
+      "gene_tscore": "3.22",
+      "metric_2": 98,
+      "metric_3": 77,
+      "metric_4": 79,
+      "metric_6": 99,
+      "metric_7": 49,
+      "metric_11": 39,
+      "metric_14": 23,
+      "metric_16": 77,
+      "metric_17": 36,
+      "metric_18": 50,
+      "metric_19": 33,
+      "metric_22": 98,
+      "metric_23": 1,
+      "metric_25": 70,
+      "metric_27": 2
     },
     {
       "gene_seqnames": "MAG06_138",
@@ -61,7 +76,20 @@
       "eggnog_X10": "01Q8F@aproNOG,05E39@bactNOG,16RSV@proNOG,COG1024@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "I",
-      "eggnog_X13": "Enoyl-CoA hydratase"
+      "eggnog_X13": "Enoyl-CoA hydratase",
+      "metric_1": 51,
+      "metric_4": 20,
+      "metric_8": 15,
+      "metric_9": 66,
+      "metric_12": 68,
+      "metric_13": 83,
+      "metric_15": 58,
+      "metric_21": 91,
+      "metric_22": 19,
+      "metric_23": 53,
+      "metric_25": 15,
+      "metric_27": 17,
+      "metric_29": 77
     },
     {
       "gene_seqnames": "MAG06_138",
@@ -95,7 +123,21 @@
       "eggnog_X10": "01WG6@aproNOG,08SP6@bactNOG,11JSY@NOG,174GP@proNOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "S",
-      "eggnog_X13": "integral membrane protein"
+      "eggnog_X13": "integral membrane protein",
+      "metric_4": 23,
+      "metric_5": 40,
+      "metric_6": 76,
+      "metric_11": 8,
+      "metric_12": 29,
+      "metric_13": 20,
+      "metric_15": 21,
+      "metric_16": 58,
+      "metric_18": 68,
+      "metric_20": 4,
+      "metric_22": 43,
+      "metric_26": 49,
+      "metric_29": 19,
+      "metric_30": 74
     }
   ],
   "diamond_track": [

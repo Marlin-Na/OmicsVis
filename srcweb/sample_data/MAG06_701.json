@@ -35,7 +35,14 @@
       "eggnog_X10": "01XS8@aproNOG,08NB3@bactNOG,1745W@proNOG,COG5618@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "S",
-      "eggnog_X13": "Predicted periplasmic lipoprotein (DUF2291)"
+      "eggnog_X13": "Predicted periplasmic lipoprotein (DUF2291)",
+      "metric_3": 81,
+      "metric_12": 32,
+      "metric_16": 78,
+      "metric_17": 24,
+      "metric_19": 24,
+      "metric_23": 21,
+      "metric_25": 33
     },
     {
       "gene_seqnames": "MAG06_701",
@@ -71,7 +78,19 @@
       "eggnog_X10": "01TCW@aproNOG,05C2J@bactNOG,16PQI@proNOG,COG1129@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "E",
-      "eggnog_X13": "ABC transporter"
+      "eggnog_X13": "ABC transporter",
+      "metric_5": 65,
+      "metric_6": 60,
+      "metric_8": 57,
+      "metric_9": 16,
+      "metric_16": 65,
+      "metric_20": 95,
+      "metric_23": 40,
+      "metric_24": 52,
+      "metric_25": 1,
+      "metric_26": 78,
+      "metric_27": 85,
+      "metric_30": 31
     },
     {
       "gene_seqnames": "MAG06_701",
@@ -105,7 +124,23 @@
       "eggnog_X10": "01UQ5@aproNOG,05CNN@bactNOG,16RY1@proNOG,COG1172@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "G",
-      "eggnog_X13": "ABC transporter permease protein"
+      "eggnog_X13": "ABC transporter permease protein",
+      "metric_1": 61,
+      "metric_5": 6,
+      "metric_7": 60,
+      "metric_8": 38,
+      "metric_10": 37,
+      "metric_11": 79,
+      "metric_13": 96,
+      "metric_14": 16,
+      "metric_16": 27,
+      "metric_19": 81,
+      "metric_21": 70,
+      "metric_23": 35,
+      "metric_24": 1,
+      "metric_27": 62,
+      "metric_29": 29,
+      "metric_30": 92
     },
     {
       "gene_seqnames": "MAG06_701",
@@ -137,7 +172,23 @@
       "eggnog_X10": "01UDF@aproNOG,089GP@bactNOG,0XSS6@NOG,16TH1@proNOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "S",
-      "eggnog_X13": "Oxidoreductase domain-containing protein"
+      "eggnog_X13": "Oxidoreductase domain-containing protein",
+      "metric_1": 87,
+      "metric_3": 41,
+      "metric_5": 18,
+      "metric_9": 65,
+      "metric_12": 1,
+      "metric_13": 67,
+      "metric_14": 41,
+      "metric_15": 27,
+      "metric_17": 91,
+      "metric_18": 84,
+      "metric_21": 40,
+      "metric_23": 94,
+      "metric_24": 10,
+      "metric_26": 94,
+      "metric_27": 80,
+      "metric_30": 36
     }
   ],
   "diamond_track": [

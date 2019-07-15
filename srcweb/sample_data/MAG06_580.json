@@ -35,7 +35,20 @@
       "eggnog_X10": "02DN2@aproNOG,08EMQ@bactNOG,1711C@proNOG,COG0451@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "M",
-      "eggnog_X13": "nad-dependent epimerase dehydratase"
+      "eggnog_X13": "nad-dependent epimerase dehydratase",
+      "metric_3": 12,
+      "metric_6": 32,
+      "metric_8": 89,
+      "metric_10": 85,
+      "metric_15": 18,
+      "metric_19": 42,
+      "metric_21": 18,
+      "metric_22": 17,
+      "metric_25": 64,
+      "metric_26": 92,
+      "metric_27": 43,
+      "metric_28": 81,
+      "metric_30": 15
     },
     {
       "gene_seqnames": "MAG06_580",
@@ -68,7 +81,19 @@
       "eggnog_X10": "01URC@aproNOG,05FBK@bactNOG,174MU@proNOG,COG1063@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "E",
-      "eggnog_X13": "Alcohol dehydrogenase GroES-like domain"
+      "eggnog_X13": "Alcohol dehydrogenase GroES-like domain",
+      "metric_1": 58,
+      "metric_9": 87,
+      "metric_10": 32,
+      "metric_12": 3,
+      "metric_13": 35,
+      "metric_14": 18,
+      "metric_17": 96,
+      "metric_18": 97,
+      "metric_21": 71,
+      "metric_23": 14,
+      "metric_27": 33,
+      "metric_28": 9
     },
     {
       "gene_seqnames": "MAG06_580",
@@ -101,7 +126,21 @@
       "eggnog_X10": "01S2B@aproNOG,05CK5@bactNOG,16RVT@proNOG,COG0673@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "S",
-      "eggnog_X13": "Oxidoreductase"
+      "eggnog_X13": "Oxidoreductase",
+      "metric_2": 47,
+      "metric_4": 23,
+      "metric_8": 31,
+      "metric_9": 35,
+      "metric_14": 46,
+      "metric_17": 67,
+      "metric_18": 9,
+      "metric_22": 3,
+      "metric_23": 20,
+      "metric_25": 28,
+      "metric_26": 6,
+      "metric_28": 37,
+      "metric_29": 3,
+      "metric_30": 20
     },
     {
       "gene_seqnames": "MAG06_580",
@@ -131,7 +170,19 @@
       "eggnog_X4": 466.8,
       "eggnog_X9": "bactNOG[38]",
       "eggnog_X10": "081QX@bactNOG,0ZJ3A@NOG,1759X@proNOG",
-      "eggnog_X11": "NA|NA|NA"
+      "eggnog_X11": "NA|NA|NA",
+      "metric_2": 96,
+      "metric_5": 4,
+      "metric_7": 44,
+      "metric_8": 1,
+      "metric_10": 72,
+      "metric_13": 39,
+      "metric_15": 66,
+      "metric_19": 66,
+      "metric_23": 11,
+      "metric_24": 42,
+      "metric_28": 95,
+      "metric_30": 5
     }
   ],
   "diamond_track": [

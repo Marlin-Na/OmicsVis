@@ -35,7 +35,24 @@
       "eggnog_X10": "01SE3@aproNOG,05CMT@bactNOG,16QFR@proNOG,COG2376@NOG,COG2390@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "G",
-      "eggnog_X13": "Dihydroxyacetone kinase"
+      "eggnog_X13": "Dihydroxyacetone kinase",
+      "metric_1": 14,
+      "metric_2": 2,
+      "metric_3": 25,
+      "metric_4": 85,
+      "metric_6": 26,
+      "metric_7": 22,
+      "metric_9": 44,
+      "metric_12": 1,
+      "metric_13": 98,
+      "metric_14": 30,
+      "metric_15": 75,
+      "metric_17": 67,
+      "metric_19": 30,
+      "metric_21": 66,
+      "metric_23": 69,
+      "metric_25": 11,
+      "metric_29": 54
     }
   ],
   "diamond_track": [

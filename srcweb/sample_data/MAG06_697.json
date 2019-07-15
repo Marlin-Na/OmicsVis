@@ -37,7 +37,16 @@
       "eggnog_X10": "08RYS@bactNOG,0BBPS@bproNOG,1783R@proNOG,COG0625@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "O",
-      "eggnog_X13": "Glutathione S-transferase"
+      "eggnog_X13": "Glutathione S-transferase",
+      "metric_1": 85,
+      "metric_5": 75,
+      "metric_6": 41,
+      "metric_13": 40,
+      "metric_18": 33,
+      "metric_19": 88,
+      "metric_21": 65,
+      "metric_27": 93,
+      "metric_29": 86
     },
     {
       "gene_seqnames": "MAG06_697",
@@ -70,7 +79,21 @@
       "eggnog_X10": "08EGG@bactNOG,0BR4S@bproNOG,170W1@proNOG,COG1018@NOG,COG3576@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "C",
-      "eggnog_X13": "Pyridoxamine 5'-phosphate oxidase"
+      "eggnog_X13": "Pyridoxamine 5'-phosphate oxidase",
+      "metric_1": 14,
+      "metric_2": 25,
+      "metric_4": 30,
+      "metric_5": 55,
+      "metric_7": 56,
+      "metric_9": 99,
+      "metric_10": 24,
+      "metric_12": 32,
+      "metric_18": 17,
+      "metric_21": 67,
+      "metric_23": 52,
+      "metric_25": 58,
+      "metric_29": 3,
+      "metric_30": 98
     },
     {
       "gene_seqnames": "MAG06_697",
@@ -105,7 +128,20 @@
       "eggnog_X10": "01T0W@aproNOG,05CH6@bactNOG,16R3S@proNOG,COG0753@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "P",
-      "eggnog_X13": "catalase (EC 1.11.1.6"
+      "eggnog_X13": "catalase (EC 1.11.1.6",
+      "metric_1": 83,
+      "metric_5": 45,
+      "metric_6": 85,
+      "metric_7": 17,
+      "metric_9": 59,
+      "metric_13": 25,
+      "metric_15": 5,
+      "metric_18": 33,
+      "metric_20": 47,
+      "metric_21": 37,
+      "metric_22": 89,
+      "metric_25": 98,
+      "metric_30": 18
     },
     {
       "gene_seqnames": "MAG06_697",
@@ -139,7 +175,19 @@
       "eggnog_X10": "01URP@aproNOG,05GN4@bactNOG,175S3@proNOG,COG1793@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "L",
-      "eggnog_X13": "DNA ligase"
+      "eggnog_X13": "DNA ligase",
+      "metric_1": 46,
+      "metric_7": 40,
+      "metric_11": 31,
+      "metric_12": 49,
+      "metric_15": 14,
+      "metric_18": 21,
+      "metric_21": 65,
+      "metric_23": 71,
+      "metric_25": 15,
+      "metric_27": 14,
+      "metric_29": 4,
+      "metric_30": 46
     }
   ],
   "diamond_track": [

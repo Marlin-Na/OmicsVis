@@ -37,7 +37,19 @@
       "eggnog_X10": "01XIN@aproNOG,08UM5@bactNOG,179R6@proNOG,COG0102@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "J",
-      "eggnog_X13": "This protein is one of the early assembly proteins of the 50S ribosomal subunit, although it is not seen to bind rRNA by itself. It is important during the early stages of 50S assembly (By similarity)"
+      "eggnog_X13": "This protein is one of the early assembly proteins of the 50S ribosomal subunit, although it is not seen to bind rRNA by itself. It is important during the early stages of 50S assembly (By similarity)",
+      "metric_1": 6,
+      "metric_6": 93,
+      "metric_7": 48,
+      "metric_12": 84,
+      "metric_15": 83,
+      "metric_16": 44,
+      "metric_18": 73,
+      "metric_21": 81,
+      "metric_22": 31,
+      "metric_24": 70,
+      "metric_26": 54,
+      "metric_29": 39
     },
     {
       "gene_seqnames": "MAG06_638",
@@ -72,7 +84,17 @@
       "eggnog_X10": "01VV1@aproNOG,08UJD@bactNOG,179RU@proNOG,COG0103@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "J",
-      "eggnog_X13": "30S ribosomal protein S9"
+      "eggnog_X13": "30S ribosomal protein S9",
+      "metric_3": 24,
+      "metric_4": 21,
+      "metric_6": 52,
+      "metric_8": 32,
+      "metric_13": 24,
+      "metric_16": 95,
+      "metric_22": 59,
+      "metric_26": 18,
+      "metric_27": 20,
+      "metric_29": 40
     },
     {
       "gene_seqnames": "MAG06_638",
@@ -108,7 +130,18 @@
       "eggnog_X10": "01RJ9@aproNOG,05CYW@bactNOG,16R9M@proNOG,COG0010@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "E",
-      "eggnog_X13": "Agmatinase"
+      "eggnog_X13": "Agmatinase",
+      "metric_1": 83,
+      "metric_3": 27,
+      "metric_4": 49,
+      "metric_9": 63,
+      "metric_11": 93,
+      "metric_15": 71,
+      "metric_21": 43,
+      "metric_22": 63,
+      "metric_25": 36,
+      "metric_28": 90,
+      "metric_30": 92
     },
     {
       "gene_seqnames": "MAG06_638",
@@ -143,7 +176,21 @@
       "eggnog_X10": "02DXQ@aproNOG,07SQ0@bactNOG,171V8@proNOG,COG0002@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "E",
-      "eggnog_X13": "N-acetyl-gamma-glutamyl-phosphate reductase"
+      "eggnog_X13": "N-acetyl-gamma-glutamyl-phosphate reductase",
+      "metric_1": 33,
+      "metric_2": 85,
+      "metric_3": 2,
+      "metric_4": 44,
+      "metric_6": 36,
+      "metric_8": 74,
+      "metric_9": 12,
+      "metric_11": 43,
+      "metric_15": 67,
+      "metric_16": 45,
+      "metric_18": 98,
+      "metric_19": 42,
+      "metric_24": 59,
+      "metric_29": 28
     },
     {
       "gene_seqnames": "MAG06_638",
@@ -178,7 +225,19 @@
       "eggnog_X10": "01SIQ@aproNOG,07TQK@bactNOG,16V2W@proNOG,COG1612@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "O",
-      "eggnog_X13": "Catalyzes the oxidation of the C8 methyl side group on heme O porphyrin ring into a formyl group (By similarity)"
+      "eggnog_X13": "Catalyzes the oxidation of the C8 methyl side group on heme O porphyrin ring into a formyl group (By similarity)",
+      "metric_2": 73,
+      "metric_8": 10,
+      "metric_9": 7,
+      "metric_10": 27,
+      "metric_13": 4,
+      "metric_14": 78,
+      "metric_16": 11,
+      "metric_17": 51,
+      "metric_18": 73,
+      "metric_23": 34,
+      "metric_24": 27,
+      "metric_25": 51
     }
   ],
   "diamond_track": [

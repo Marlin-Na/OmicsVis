@@ -34,7 +34,22 @@
       "eggnog_X10": "01TIK@aproNOG,05E0T@bactNOG,0XRR8@NOG,173V9@proNOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "S",
-      "eggnog_X13": "Short-chain dehydrogenase reductase SDR"
+      "eggnog_X13": "Short-chain dehydrogenase reductase SDR",
+      "metric_1": 98,
+      "metric_3": 44,
+      "metric_4": 82,
+      "metric_5": 47,
+      "metric_6": 61,
+      "metric_7": 70,
+      "metric_12": 14,
+      "metric_13": 37,
+      "metric_16": 31,
+      "metric_17": 73,
+      "metric_23": 73,
+      "metric_24": 44,
+      "metric_25": 3,
+      "metric_26": 59,
+      "metric_30": 35
     },
     {
       "gene_seqnames": "MAG06_166",
@@ -68,7 +83,22 @@
       "eggnog_X10": "01RQK@aproNOG,08SKM@bactNOG,16S1T@proNOG,COG0664@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "T",
-      "eggnog_X13": "Transcriptional regulator, Crp Fnr family"
+      "eggnog_X13": "Transcriptional regulator, Crp Fnr family",
+      "metric_1": 38,
+      "metric_2": 17,
+      "metric_3": 81,
+      "metric_6": 83,
+      "metric_7": 95,
+      "metric_10": 79,
+      "metric_12": 11,
+      "metric_13": 17,
+      "metric_17": 92,
+      "metric_19": 13,
+      "metric_20": 42,
+      "metric_21": 26,
+      "metric_24": 86,
+      "metric_26": 90,
+      "metric_28": 50
     }
   ],
   "diamond_track": [

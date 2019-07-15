@@ -37,7 +37,19 @@
       "eggnog_X10": "01SD9@aproNOG,05CTK@bactNOG,16PB9@proNOG,COG1429@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "H",
-      "eggnog_X13": "cobaltochelatase subunit CobN"
+      "eggnog_X13": "cobaltochelatase subunit CobN",
+      "metric_2": 64,
+      "metric_3": 79,
+      "metric_11": 44,
+      "metric_13": 22,
+      "metric_16": 54,
+      "metric_17": 55,
+      "metric_18": 35,
+      "metric_25": 66,
+      "metric_26": 15,
+      "metric_27": 18,
+      "metric_29": 57,
+      "metric_30": 74
     },
     {
       "gene_seqnames": "MAG06_81",
@@ -73,7 +85,20 @@
       "eggnog_X10": "01Q9B@aproNOG,068B1@bactNOG,16R00@proNOG,COG2109@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "H",
-      "eggnog_X13": "cob(I)yrinic acid a,c-diamide adenosyltransferase"
+      "eggnog_X13": "cob(I)yrinic acid a,c-diamide adenosyltransferase",
+      "metric_1": 62,
+      "metric_2": 74,
+      "metric_3": 53,
+      "metric_4": 23,
+      "metric_7": 47,
+      "metric_11": 29,
+      "metric_17": 38,
+      "metric_20": 88,
+      "metric_22": 65,
+      "metric_23": 62,
+      "metric_24": 33,
+      "metric_26": 71,
+      "metric_27": 49
     },
     {
       "gene_seqnames": "MAG06_81",
@@ -107,7 +132,20 @@
       "eggnog_X10": "01U3B@aproNOG,07QZR@bactNOG,16Q4R@proNOG,COG0683@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "E",
-      "eggnog_X13": "aliphatic amidase expression-regulating protein"
+      "eggnog_X13": "aliphatic amidase expression-regulating protein",
+      "metric_2": 23,
+      "metric_4": 19,
+      "metric_9": 55,
+      "metric_11": 32,
+      "metric_13": 20,
+      "metric_15": 32,
+      "metric_16": 19,
+      "metric_17": 7,
+      "metric_19": 22,
+      "metric_22": 9,
+      "metric_24": 7,
+      "metric_25": 84,
+      "metric_27": 94
     }
   ],
   "diamond_track": [

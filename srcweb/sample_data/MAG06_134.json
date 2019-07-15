@@ -36,7 +36,24 @@
       "eggnog_X10": "02E26@aproNOG,08HW5@bactNOG,0XR35@NOG,172DY@proNOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "E",
-      "eggnog_X13": "ABC transporter"
+      "eggnog_X13": "ABC transporter",
+      "metric_1": 3,
+      "metric_2": 74,
+      "metric_3": 98,
+      "metric_5": 44,
+      "metric_7": 51,
+      "metric_8": 68,
+      "metric_9": 67,
+      "metric_13": 8,
+      "metric_14": 9,
+      "metric_15": 90,
+      "metric_21": 5,
+      "metric_22": 87,
+      "metric_24": 75,
+      "metric_26": 4,
+      "metric_27": 54,
+      "metric_29": 90,
+      "metric_30": 51
     },
     {
       "gene_seqnames": "MAG06_134",
@@ -71,7 +88,22 @@
       "eggnog_X10": "01UCJ@aproNOG,05CDA@bactNOG,16PHM@proNOG,COG1126@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "E",
-      "eggnog_X13": "ABC transporter"
+      "eggnog_X13": "ABC transporter",
+      "metric_3": 4,
+      "metric_6": 85,
+      "metric_7": 40,
+      "metric_9": 5,
+      "metric_10": 84,
+      "metric_12": 58,
+      "metric_13": 61,
+      "metric_14": 19,
+      "metric_16": 92,
+      "metric_21": 96,
+      "metric_22": 14,
+      "metric_24": 20,
+      "metric_27": 47,
+      "metric_28": 79,
+      "metric_30": 31
     },
     {
       "gene_seqnames": "MAG06_134",
@@ -107,7 +139,14 @@
       "eggnog_X10": "02EEZ@aproNOG,08JIJ@bactNOG,173B3@proNOG,COG1038@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "C",
-      "eggnog_X13": "Catalyzes a 2-step reaction, involving the ATP-dependent carboxylation of the covalently attached biotin in the first step and the transfer of the carboxyl group to pyruvate in the second (By similarity)"
+      "eggnog_X13": "Catalyzes a 2-step reaction, involving the ATP-dependent carboxylation of the covalently attached biotin in the first step and the transfer of the carboxyl group to pyruvate in the second (By similarity)",
+      "metric_5": 78,
+      "metric_9": 78,
+      "metric_11": 7,
+      "metric_15": 40,
+      "metric_17": 90,
+      "metric_20": 67,
+      "metric_28": 14
     }
   ],
   "diamond_track": [

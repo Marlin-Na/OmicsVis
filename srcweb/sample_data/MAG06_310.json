@@ -35,7 +35,19 @@
       "eggnog_X10": "01S6I@aproNOG,076HS@bactNOG,16SKJ@proNOG,COG0053@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "P",
-      "eggnog_X13": "cation diffusion facilitator family transporter"
+      "eggnog_X13": "cation diffusion facilitator family transporter",
+      "metric_1": 51,
+      "metric_2": 59,
+      "metric_7": 27,
+      "metric_10": 72,
+      "metric_12": 83,
+      "metric_13": 85,
+      "metric_15": 39,
+      "metric_19": 27,
+      "metric_22": 44,
+      "metric_25": 99,
+      "metric_27": 85,
+      "metric_28": 53
     },
     {
       "gene_seqnames": "MAG06_310",
@@ -71,7 +83,24 @@
       "eggnog_X10": "01RJ3@aproNOG,05CRQ@bactNOG,16R32@proNOG,COG0147@NOG,COG0512@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "E",
-      "eggnog_X13": "anthranilate synthase component i"
+      "eggnog_X13": "anthranilate synthase component i",
+      "metric_1": 76,
+      "metric_3": 60,
+      "metric_4": 39,
+      "metric_8": 15,
+      "metric_13": 97,
+      "metric_15": 88,
+      "metric_17": 80,
+      "metric_18": 91,
+      "metric_19": 98,
+      "metric_20": 40,
+      "metric_21": 60,
+      "metric_22": 18,
+      "metric_24": 45,
+      "metric_25": 9,
+      "metric_28": 24,
+      "metric_29": 60,
+      "metric_30": 7
     }
   ],
   "diamond_track": [

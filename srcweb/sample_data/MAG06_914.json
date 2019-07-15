@@ -37,7 +37,22 @@
       "eggnog_X10": "01RDW@aproNOG,05DEI@bactNOG,16QQD@proNOG,COG0246@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "G",
-      "eggnog_X13": "Mannitol dehydrogenase"
+      "eggnog_X13": "Mannitol dehydrogenase",
+      "metric_1": 27,
+      "metric_2": 78,
+      "metric_3": 24,
+      "metric_5": 38,
+      "metric_7": 86,
+      "metric_8": 25,
+      "metric_11": 58,
+      "metric_13": 7,
+      "metric_15": 97,
+      "metric_16": 60,
+      "metric_17": 96,
+      "metric_19": 59,
+      "metric_20": 28,
+      "metric_26": 13,
+      "metric_28": 59
     }
   ],
   "diamond_track": [

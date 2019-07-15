@@ -26,7 +26,18 @@
       "gene_sscore": "12.23",
       "gene_rscore": "13.75",
       "gene_uscore": "-0.17",
-      "gene_tscore": "3.65"
+      "gene_tscore": "3.65",
+      "metric_4": 35,
+      "metric_9": 50,
+      "metric_11": 68,
+      "metric_13": 11,
+      "metric_15": 69,
+      "metric_17": 77,
+      "metric_20": 20,
+      "metric_25": 88,
+      "metric_27": 64,
+      "metric_29": 55,
+      "metric_30": 28
     },
     {
       "gene_seqnames": "MAG06_768",
@@ -61,7 +72,22 @@
       "eggnog_X10": "01RGK@aproNOG,07R6Y@bactNOG,16PSP@proNOG,COG0823@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "U",
-      "eggnog_X13": "Involved in the TonB-independent uptake of proteins (By similarity)"
+      "eggnog_X13": "Involved in the TonB-independent uptake of proteins (By similarity)",
+      "metric_2": 21,
+      "metric_6": 74,
+      "metric_7": 49,
+      "metric_8": 12,
+      "metric_10": 61,
+      "metric_13": 95,
+      "metric_14": 70,
+      "metric_15": 25,
+      "metric_16": 89,
+      "metric_23": 70,
+      "metric_24": 79,
+      "metric_25": 19,
+      "metric_26": 5,
+      "metric_29": 74,
+      "metric_30": 79
     }
   ],
   "diamond_track": [

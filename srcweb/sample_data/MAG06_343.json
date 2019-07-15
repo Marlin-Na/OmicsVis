@@ -36,7 +36,17 @@
       "eggnog_X10": "025GA@aproNOG,05C26@bactNOG,16PDZ@proNOG,COG1012@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "C",
-      "eggnog_X13": "Dehydrogenase"
+      "eggnog_X13": "Dehydrogenase",
+      "metric_11": 73,
+      "metric_12": 67,
+      "metric_13": 82,
+      "metric_14": 13,
+      "metric_15": 19,
+      "metric_16": 91,
+      "metric_17": 31,
+      "metric_18": 95,
+      "metric_22": 26,
+      "metric_30": 95
     },
     {
       "gene_seqnames": "MAG06_343",
@@ -70,7 +80,25 @@
       "eggnog_X10": "01S5J@aproNOG,05DDM@bactNOG,16QXG@proNOG,COG1524@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "S",
-      "eggnog_X13": "phosphonoacetate hydrolase"
+      "eggnog_X13": "phosphonoacetate hydrolase",
+      "metric_1": 98,
+      "metric_2": 47,
+      "metric_4": 90,
+      "metric_6": 22,
+      "metric_8": 32,
+      "metric_10": 43,
+      "metric_12": 59,
+      "metric_13": 72,
+      "metric_16": 83,
+      "metric_17": 18,
+      "metric_18": 53,
+      "metric_21": 82,
+      "metric_22": 74,
+      "metric_23": 78,
+      "metric_24": 24,
+      "metric_26": 92,
+      "metric_28": 78,
+      "metric_29": 64
     },
     {
       "gene_seqnames": "MAG06_343",
@@ -105,7 +133,19 @@
       "eggnog_X10": "01TCP@aproNOG,07STF@bactNOG,16RZ7@proNOG,COG0075@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "E",
-      "eggnog_X13": "Involved in phosphonate degradation (By similarity)"
+      "eggnog_X13": "Involved in phosphonate degradation (By similarity)",
+      "metric_3": 63,
+      "metric_7": 4,
+      "metric_12": 45,
+      "metric_17": 40,
+      "metric_19": 7,
+      "metric_20": 34,
+      "metric_21": 87,
+      "metric_22": 28,
+      "metric_23": 65,
+      "metric_25": 27,
+      "metric_27": 29,
+      "metric_28": 41
     }
   ],
   "diamond_track": [

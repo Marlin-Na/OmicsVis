@@ -34,7 +34,24 @@
       "eggnog_X10": "01VJ5@aproNOG,07AJV@bactNOG,0XQU3@NOG,16RWA@proNOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "S",
-      "eggnog_X13": "Inherit from proNOG: Conserved repeat domain"
+      "eggnog_X13": "Inherit from proNOG: Conserved repeat domain",
+      "metric_1": 89,
+      "metric_2": 96,
+      "metric_6": 97,
+      "metric_7": 9,
+      "metric_8": 15,
+      "metric_9": 65,
+      "metric_10": 4,
+      "metric_12": 98,
+      "metric_15": 26,
+      "metric_16": 63,
+      "metric_18": 68,
+      "metric_23": 19,
+      "metric_24": 74,
+      "metric_25": 89,
+      "metric_27": 17,
+      "metric_29": 59,
+      "metric_30": 17
     }
   ],
   "diamond_track": [

@@ -34,7 +34,21 @@
       "eggnog_X10": "01VQJ@aproNOG,05MS1@bactNOG,0XS53@NOG,16RM2@proNOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "K",
-      "eggnog_X13": "LysR family transcriptional regulator"
+      "eggnog_X13": "LysR family transcriptional regulator",
+      "metric_1": 18,
+      "metric_3": 14,
+      "metric_7": 47,
+      "metric_8": 97,
+      "metric_9": 46,
+      "metric_15": 41,
+      "metric_16": 4,
+      "metric_19": 46,
+      "metric_20": 1,
+      "metric_21": 80,
+      "metric_25": 56,
+      "metric_26": 18,
+      "metric_27": 62,
+      "metric_29": 75
     },
     {
       "gene_seqnames": "MAG06_578",
@@ -68,7 +82,15 @@
       "eggnog_X10": "01R9C@aproNOG,05C5H@bactNOG,16PJF@proNOG,COG0488@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "S",
-      "eggnog_X13": "ABC transporter"
+      "eggnog_X13": "ABC transporter",
+      "metric_1": 80,
+      "metric_5": 90,
+      "metric_11": 23,
+      "metric_13": 15,
+      "metric_17": 37,
+      "metric_19": 98,
+      "metric_21": 99,
+      "metric_28": 49
     },
     {
       "gene_seqnames": "MAG06_578",
@@ -92,7 +114,18 @@
       "gene_sscore": "5.10",
       "gene_rscore": "2.03",
       "gene_uscore": "-0.57",
-      "gene_tscore": "3.65"
+      "gene_tscore": "3.65",
+      "metric_1": 39,
+      "metric_4": 84,
+      "metric_6": 26,
+      "metric_8": 10,
+      "metric_13": 86,
+      "metric_14": 23,
+      "metric_17": 47,
+      "metric_18": 37,
+      "metric_19": 36,
+      "metric_22": 6,
+      "metric_24": 44
     }
   ],
   "diamond_track": [

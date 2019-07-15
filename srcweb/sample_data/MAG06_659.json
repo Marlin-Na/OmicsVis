@@ -37,7 +37,22 @@
       "eggnog_X10": "01RET@aproNOG,05E1P@bactNOG,16PB4@proNOG,COG2844@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "O",
-      "eggnog_X13": "Modifies, by uridylylation or deuridylylation the PII (GlnB) regulatory protein (By similarity)"
+      "eggnog_X13": "Modifies, by uridylylation or deuridylylation the PII (GlnB) regulatory protein (By similarity)",
+      "metric_1": 51,
+      "metric_2": 43,
+      "metric_4": 73,
+      "metric_6": 91,
+      "metric_8": 38,
+      "metric_11": 87,
+      "metric_13": 70,
+      "metric_16": 4,
+      "metric_17": 40,
+      "metric_18": 36,
+      "metric_20": 65,
+      "metric_23": 23,
+      "metric_24": 21,
+      "metric_26": 17,
+      "metric_30": 89
     },
     {
       "gene_seqnames": "MAG06_659",
@@ -73,7 +88,18 @@
       "eggnog_X10": "01QN0@aproNOG,05D86@bactNOG,16R17@proNOG,COG0249@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "L",
-      "eggnog_X13": "that it carries out the mismatch recognition step. This protein has a weak ATPase activity (By similarity)"
+      "eggnog_X13": "that it carries out the mismatch recognition step. This protein has a weak ATPase activity (By similarity)",
+      "metric_2": 21,
+      "metric_5": 87,
+      "metric_6": 68,
+      "metric_11": 2,
+      "metric_12": 79,
+      "metric_14": 66,
+      "metric_15": 84,
+      "metric_17": 84,
+      "metric_20": 90,
+      "metric_24": 40,
+      "metric_26": 9
     },
     {
       "gene_seqnames": "MAG06_659",
@@ -108,7 +134,19 @@
       "eggnog_X10": "01QFN@aproNOG,05C6K@bactNOG,16PJH@proNOG,COG0280@NOG,COG0281@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "C",
-      "eggnog_X13": "Malic enzyme"
+      "eggnog_X13": "Malic enzyme",
+      "metric_5": 54,
+      "metric_8": 48,
+      "metric_11": 36,
+      "metric_15": 3,
+      "metric_17": 84,
+      "metric_18": 24,
+      "metric_20": 55,
+      "metric_21": 47,
+      "metric_25": 98,
+      "metric_27": 50,
+      "metric_28": 13,
+      "metric_30": 97
     }
   ],
   "diamond_track": [

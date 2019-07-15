@@ -35,7 +35,23 @@
       "eggnog_X10": "05EPY@bactNOG,0XRD2@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "S",
-      "eggnog_X13": "(ABC) transporter"
+      "eggnog_X13": "(ABC) transporter",
+      "metric_1": 21,
+      "metric_2": 98,
+      "metric_3": 27,
+      "metric_4": 73,
+      "metric_6": 90,
+      "metric_8": 90,
+      "metric_9": 90,
+      "metric_10": 27,
+      "metric_12": 88,
+      "metric_13": 10,
+      "metric_17": 28,
+      "metric_19": 67,
+      "metric_22": 40,
+      "metric_24": 19,
+      "metric_25": 8,
+      "metric_30": 43
     },
     {
       "gene_seqnames": "MAG06_114",
@@ -69,7 +85,20 @@
       "eggnog_X10": "05CNN@bactNOG,16T5V@proNOG,COG1172@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "G",
-      "eggnog_X13": "ABC transporter (permease)"
+      "eggnog_X13": "ABC transporter (permease)",
+      "metric_4": 43,
+      "metric_5": 65,
+      "metric_7": 22,
+      "metric_9": 60,
+      "metric_10": 25,
+      "metric_14": 81,
+      "metric_15": 8,
+      "metric_16": 57,
+      "metric_23": 64,
+      "metric_24": 98,
+      "metric_26": 67,
+      "metric_28": 60,
+      "metric_30": 44
     }
   ],
   "diamond_track": [

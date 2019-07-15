@@ -35,7 +35,21 @@
       "eggnog_X10": "01S9U@aproNOG,05C1I@bactNOG,16Q21@proNOG,COG1167@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "K",
-      "eggnog_X13": "Transcriptional regulator"
+      "eggnog_X13": "Transcriptional regulator",
+      "metric_2": 56,
+      "metric_3": 55,
+      "metric_5": 59,
+      "metric_8": 50,
+      "metric_12": 78,
+      "metric_15": 59,
+      "metric_16": 97,
+      "metric_17": 13,
+      "metric_19": 51,
+      "metric_20": 29,
+      "metric_23": 80,
+      "metric_24": 73,
+      "metric_25": 28,
+      "metric_27": 11
     },
     {
       "gene_seqnames": "MAG06_849",
@@ -67,7 +81,25 @@
       "eggnog_X10": "01U32@aproNOG,08T8Q@bactNOG,179DR@proNOG,COG0785@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "O",
-      "eggnog_X13": "cytochrome c biogenesis protein"
+      "eggnog_X13": "cytochrome c biogenesis protein",
+      "metric_1": 92,
+      "metric_3": 45,
+      "metric_5": 28,
+      "metric_7": 92,
+      "metric_8": 12,
+      "metric_11": 3,
+      "metric_12": 16,
+      "metric_13": 58,
+      "metric_14": 27,
+      "metric_17": 83,
+      "metric_18": 98,
+      "metric_20": 57,
+      "metric_21": 58,
+      "metric_22": 28,
+      "metric_24": 34,
+      "metric_27": 38,
+      "metric_29": 94,
+      "metric_30": 38
     },
     {
       "gene_seqnames": "MAG06_849",
@@ -101,7 +133,15 @@
       "eggnog_X10": "01W2Y@aproNOG,07S9B@bactNOG,175WC@proNOG,COG0169@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "E",
-      "eggnog_X13": "shikimate 5-dehydrogenase"
+      "eggnog_X13": "shikimate 5-dehydrogenase",
+      "metric_5": 34,
+      "metric_6": 80,
+      "metric_10": 93,
+      "metric_11": 99,
+      "metric_12": 64,
+      "metric_20": 80,
+      "metric_21": 58,
+      "metric_29": 87
     }
   ],
   "diamond_track": [

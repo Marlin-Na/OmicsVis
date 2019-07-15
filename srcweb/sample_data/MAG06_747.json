@@ -34,7 +34,20 @@
       "eggnog_X10": "01TGU@aproNOG,07SHF@bactNOG,16SBR@proNOG,COG4927@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "S",
-      "eggnog_X13": "Acyl-coenzyme A 6-aminopenicillanic acid acyl-transferase subfamily"
+      "eggnog_X13": "Acyl-coenzyme A 6-aminopenicillanic acid acyl-transferase subfamily",
+      "metric_3": 41,
+      "metric_5": 67,
+      "metric_6": 31,
+      "metric_10": 61,
+      "metric_15": 12,
+      "metric_16": 38,
+      "metric_19": 30,
+      "metric_20": 55,
+      "metric_21": 9,
+      "metric_22": 52,
+      "metric_26": 96,
+      "metric_27": 21,
+      "metric_28": 54
     },
     {
       "gene_seqnames": "MAG06_747",
@@ -67,7 +80,21 @@
       "eggnog_X10": "01Y0U@aproNOG,05MDH@bactNOG,17CV3@proNOG,COG2128@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "S",
-      "eggnog_X13": "Antioxidant protein with alkyl hydroperoxidase activity. Required for the reduction of the AhpC active site cysteine residues and for the regeneration of the AhpC enzyme activity (By similarity)"
+      "eggnog_X13": "Antioxidant protein with alkyl hydroperoxidase activity. Required for the reduction of the AhpC active site cysteine residues and for the regeneration of the AhpC enzyme activity (By similarity)",
+      "metric_2": 28,
+      "metric_3": 92,
+      "metric_4": 90,
+      "metric_5": 10,
+      "metric_6": 96,
+      "metric_7": 42,
+      "metric_8": 57,
+      "metric_10": 86,
+      "metric_14": 70,
+      "metric_23": 7,
+      "metric_24": 64,
+      "metric_25": 66,
+      "metric_26": 20,
+      "metric_28": 40
     }
   ],
   "diamond_track": [

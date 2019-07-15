@@ -35,7 +35,15 @@
       "eggnog_X10": "01QCB@aproNOG,05CB2@bactNOG,16RDE@proNOG,COG0604@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "C",
-      "eggnog_X13": "Quinone oxidoreductase"
+      "eggnog_X13": "Quinone oxidoreductase",
+      "metric_4": 54,
+      "metric_5": 46,
+      "metric_11": 47,
+      "metric_12": 36,
+      "metric_14": 15,
+      "metric_16": 1,
+      "metric_21": 87,
+      "metric_24": 61
     },
     {
       "gene_seqnames": "MAG06_959",
@@ -68,7 +76,20 @@
       "eggnog_X10": "01T3P@aproNOG,05C7K@bactNOG,16PKP@proNOG,COG0028@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "E",
-      "eggnog_X13": "Acetolactate synthase large subunit"
+      "eggnog_X13": "Acetolactate synthase large subunit",
+      "metric_2": 3,
+      "metric_4": 70,
+      "metric_7": 19,
+      "metric_11": 29,
+      "metric_12": 54,
+      "metric_13": 76,
+      "metric_14": 6,
+      "metric_16": 76,
+      "metric_17": 72,
+      "metric_18": 70,
+      "metric_22": 3,
+      "metric_23": 69,
+      "metric_29": 38
     }
   ],
   "diamond_track": [

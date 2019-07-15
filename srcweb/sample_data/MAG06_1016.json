@@ -37,7 +37,18 @@
       "eggnog_X10": "01RMM@aproNOG,05C8S@bactNOG,16QJ3@proNOG,COG1008@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "C",
-      "eggnog_X13": "subunit m"
+      "eggnog_X13": "subunit m",
+      "metric_1": 23,
+      "metric_3": 89,
+      "metric_8": 80,
+      "metric_10": 2,
+      "metric_11": 80,
+      "metric_12": 56,
+      "metric_13": 87,
+      "metric_15": 80,
+      "metric_19": 57,
+      "metric_20": 50,
+      "metric_26": 65
     },
     {
       "gene_seqnames": "MAG06_1016",
@@ -73,7 +84,17 @@
       "eggnog_X10": "01QZU@aproNOG,05D65@bactNOG,16QW2@proNOG,COG1009@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "C",
-      "eggnog_X13": "subunit l"
+      "eggnog_X13": "subunit l",
+      "metric_6": 99,
+      "metric_8": 95,
+      "metric_11": 37,
+      "metric_12": 17,
+      "metric_18": 25,
+      "metric_21": 93,
+      "metric_22": 11,
+      "metric_24": 37,
+      "metric_26": 59,
+      "metric_29": 30
     }
   ],
   "diamond_track": [

@@ -37,7 +37,18 @@
       "eggnog_X10": "01QEV@aproNOG,05D27@bactNOG,16PNC@proNOG,COG0086@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "K",
-      "eggnog_X13": "DNA-dependent RNA polymerase catalyzes the transcription of DNA into RNA using the four ribonucleoside triphosphates as substrates (By similarity)"
+      "eggnog_X13": "DNA-dependent RNA polymerase catalyzes the transcription of DNA into RNA using the four ribonucleoside triphosphates as substrates (By similarity)",
+      "metric_1": 32,
+      "metric_2": 96,
+      "metric_5": 59,
+      "metric_7": 73,
+      "metric_9": 11,
+      "metric_18": 58,
+      "metric_19": 25,
+      "metric_21": 62,
+      "metric_22": 98,
+      "metric_25": 27,
+      "metric_26": 25
     }
   ],
   "diamond_track": [

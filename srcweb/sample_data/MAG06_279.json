@@ -38,7 +38,19 @@
       "eggnog_X10": "01R7C@aproNOG,05DRP@bactNOG,16RBY@proNOG,COG0765@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "E",
-      "eggnog_X13": "amino acid ABC transporter"
+      "eggnog_X13": "amino acid ABC transporter",
+      "metric_1": 48,
+      "metric_7": 34,
+      "metric_9": 90,
+      "metric_15": 38,
+      "metric_18": 12,
+      "metric_20": 24,
+      "metric_23": 28,
+      "metric_24": 12,
+      "metric_27": 88,
+      "metric_28": 19,
+      "metric_29": 27,
+      "metric_30": 53
     },
     {
       "gene_seqnames": "MAG06_279",
@@ -74,7 +86,21 @@
       "eggnog_X10": "01SFB@aproNOG,05EZ7@bactNOG,16QRB@proNOG,COG4597@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "E",
-      "eggnog_X13": "amino acid ABC transporter"
+      "eggnog_X13": "amino acid ABC transporter",
+      "metric_1": 23,
+      "metric_2": 96,
+      "metric_3": 28,
+      "metric_4": 42,
+      "metric_5": 48,
+      "metric_6": 6,
+      "metric_7": 63,
+      "metric_8": 43,
+      "metric_10": 77,
+      "metric_16": 33,
+      "metric_18": 33,
+      "metric_21": 99,
+      "metric_25": 94,
+      "metric_29": 94
     },
     {
       "gene_seqnames": "MAG06_279",
@@ -110,7 +136,21 @@
       "eggnog_X10": "01QIC@aproNOG,07QXX@bactNOG,16Q97@proNOG,COG0834@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "E",
-      "eggnog_X13": "glutamate glutamine aspartate asparagine ABC transporter, periplasmic substrate-binding protein"
+      "eggnog_X13": "glutamate glutamine aspartate asparagine ABC transporter, periplasmic substrate-binding protein",
+      "metric_1": 92,
+      "metric_3": 46,
+      "metric_5": 63,
+      "metric_7": 31,
+      "metric_9": 84,
+      "metric_11": 50,
+      "metric_16": 15,
+      "metric_19": 32,
+      "metric_20": 94,
+      "metric_21": 75,
+      "metric_24": 13,
+      "metric_25": 53,
+      "metric_27": 30,
+      "metric_28": 15
     }
   ],
   "diamond_track": [

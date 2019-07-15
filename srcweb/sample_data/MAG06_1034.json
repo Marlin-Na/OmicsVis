@@ -37,7 +37,16 @@
       "eggnog_X10": "01V8H@aproNOG,05C6X@bactNOG,0ZVCH@NOG,16S8A@proNOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "P",
-      "eggnog_X13": "Multi-drug resistance efflux"
+      "eggnog_X13": "Multi-drug resistance efflux",
+      "metric_6": 41,
+      "metric_7": 50,
+      "metric_8": 48,
+      "metric_12": 77,
+      "metric_13": 95,
+      "metric_15": 83,
+      "metric_17": 13,
+      "metric_18": 48,
+      "metric_28": 39
     },
     {
       "gene_seqnames": "MAG06_1034",
@@ -71,7 +80,21 @@
       "eggnog_X10": "07RF9@bactNOG,0QJX4@gproNOG,16QU7@proNOG,COG0614@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "P",
-      "eggnog_X13": "periplasmic binding protein"
+      "eggnog_X13": "periplasmic binding protein",
+      "metric_1": 52,
+      "metric_3": 82,
+      "metric_4": 25,
+      "metric_5": 8,
+      "metric_6": 66,
+      "metric_7": 46,
+      "metric_9": 9,
+      "metric_13": 57,
+      "metric_17": 46,
+      "metric_18": 66,
+      "metric_19": 9,
+      "metric_22": 14,
+      "metric_27": 1,
+      "metric_28": 11
     }
   ],
   "diamond_track": [

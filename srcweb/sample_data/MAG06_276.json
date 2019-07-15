@@ -38,7 +38,14 @@
       "eggnog_X10": "01Q72@aproNOG,05C5J@bactNOG,16PE9@proNOG,COG0145@NOG,COG0146@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "E",
-      "eggnog_X13": "5-oxoprolinase"
+      "eggnog_X13": "5-oxoprolinase",
+      "metric_2": 47,
+      "metric_7": 51,
+      "metric_9": 11,
+      "metric_10": 86,
+      "metric_12": 76,
+      "metric_20": 1,
+      "metric_25": 44
     },
     {
       "gene_seqnames": "MAG06_276",
@@ -72,7 +79,19 @@
       "eggnog_X10": "0259V@aproNOG,08RUS@bactNOG,1789Z@proNOG,COG1187@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "J",
-      "eggnog_X13": "Pseudouridine synthase"
+      "eggnog_X13": "Pseudouridine synthase",
+      "metric_1": 32,
+      "metric_2": 76,
+      "metric_7": 88,
+      "metric_9": 84,
+      "metric_11": 45,
+      "metric_12": 83,
+      "metric_19": 79,
+      "metric_20": 27,
+      "metric_22": 13,
+      "metric_27": 51,
+      "metric_29": 54,
+      "metric_30": 7
     },
     {
       "gene_seqnames": "MAG06_276",
@@ -105,7 +124,19 @@
       "eggnog_X10": "01SC3@aproNOG,05DFJ@bactNOG,16QZS@proNOG,COG3181@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "S",
-      "eggnog_X13": "Pfam:Bug"
+      "eggnog_X13": "Pfam:Bug",
+      "metric_2": 2,
+      "metric_10": 86,
+      "metric_11": 77,
+      "metric_12": 26,
+      "metric_15": 49,
+      "metric_17": 15,
+      "metric_19": 12,
+      "metric_20": 74,
+      "metric_21": 51,
+      "metric_22": 1,
+      "metric_26": 98,
+      "metric_29": 4
     },
     {
       "gene_seqnames": "MAG06_276",
@@ -137,7 +168,23 @@
       "eggnog_X10": "01YT2@aproNOG,090UX@bactNOG,11PTP@NOG,17F9F@proNOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "S",
-      "eggnog_X13": "Pfam:DUF1468"
+      "eggnog_X13": "Pfam:DUF1468",
+      "metric_2": 96,
+      "metric_4": 25,
+      "metric_5": 12,
+      "metric_6": 64,
+      "metric_7": 27,
+      "metric_8": 53,
+      "metric_10": 15,
+      "metric_11": 1,
+      "metric_14": 78,
+      "metric_16": 13,
+      "metric_20": 69,
+      "metric_22": 30,
+      "metric_24": 40,
+      "metric_27": 56,
+      "metric_29": 83,
+      "metric_30": 86
     },
     {
       "gene_seqnames": "MAG06_276",
@@ -170,7 +217,21 @@
       "eggnog_X10": "01QBX@aproNOG,05C1D@bactNOG,16PJ6@proNOG,COG3333@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "S",
-      "eggnog_X13": "membrane"
+      "eggnog_X13": "membrane",
+      "metric_1": 56,
+      "metric_4": 24,
+      "metric_8": 38,
+      "metric_10": 71,
+      "metric_11": 33,
+      "metric_15": 92,
+      "metric_17": 72,
+      "metric_22": 7,
+      "metric_23": 90,
+      "metric_26": 41,
+      "metric_27": 75,
+      "metric_28": 97,
+      "metric_29": 88,
+      "metric_30": 63
     }
   ],
   "diamond_track": [

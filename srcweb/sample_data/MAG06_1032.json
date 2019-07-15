@@ -36,7 +36,23 @@
       "eggnog_X10": "01SGF@aproNOG,05CTU@bactNOG,173KW@proNOG,COG3938@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "E",
-      "eggnog_X13": "Proline racemase"
+      "eggnog_X13": "Proline racemase",
+      "metric_1": 85,
+      "metric_4": 80,
+      "metric_5": 73,
+      "metric_6": 34,
+      "metric_9": 18,
+      "metric_10": 15,
+      "metric_11": 56,
+      "metric_12": 47,
+      "metric_14": 8,
+      "metric_16": 34,
+      "metric_18": 24,
+      "metric_19": 72,
+      "metric_20": 10,
+      "metric_21": 56,
+      "metric_24": 82,
+      "metric_30": 2
     },
     {
       "gene_seqnames": "MAG06_1032",
@@ -70,7 +86,21 @@
       "eggnog_X10": "01S7A@aproNOG,05DEY@bactNOG,16QZ3@proNOG,COG1679@NOG,COG1786@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "S",
-      "eggnog_X13": "Protein of unknown function (DUF521)"
+      "eggnog_X13": "Protein of unknown function (DUF521)",
+      "metric_2": 74,
+      "metric_5": 18,
+      "metric_7": 44,
+      "metric_8": 89,
+      "metric_12": 2,
+      "metric_13": 89,
+      "metric_15": 88,
+      "metric_16": 9,
+      "metric_18": 27,
+      "metric_19": 23,
+      "metric_23": 88,
+      "metric_24": 52,
+      "metric_26": 94,
+      "metric_29": 3
     }
   ],
   "diamond_track": [

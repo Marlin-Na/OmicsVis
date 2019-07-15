@@ -32,7 +32,18 @@
       "eggnog_X4": 258.1,
       "eggnog_X9": "bactNOG[38]",
       "eggnog_X10": "020UP@aproNOG,05SH4@bactNOG,11VSG@NOG,17GGV@proNOG",
-      "eggnog_X11": "NA|NA|NA"
+      "eggnog_X11": "NA|NA|NA",
+      "metric_1": 7,
+      "metric_6": 2,
+      "metric_8": 2,
+      "metric_9": 88,
+      "metric_11": 74,
+      "metric_12": 23,
+      "metric_16": 12,
+      "metric_20": 18,
+      "metric_21": 4,
+      "metric_23": 37,
+      "metric_25": 78
     },
     {
       "gene_seqnames": "MAG06_882",
@@ -68,7 +79,16 @@
       "eggnog_X10": "01SFG@aproNOG,05D21@bactNOG,16SA1@proNOG,COG0047@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "F",
-      "eggnog_X13": "Phosphoribosylformylglycinamidine synthase I"
+      "eggnog_X13": "Phosphoribosylformylglycinamidine synthase I",
+      "metric_1": 71,
+      "metric_3": 8,
+      "metric_5": 21,
+      "metric_8": 36,
+      "metric_13": 47,
+      "metric_16": 17,
+      "metric_17": 82,
+      "metric_22": 19,
+      "metric_27": 68
     },
     {
       "gene_seqnames": "MAG06_882",
@@ -92,7 +112,20 @@
       "gene_sscore": "3.22",
       "gene_rscore": "0.00",
       "gene_uscore": "0.00",
-      "gene_tscore": "3.22"
+      "gene_tscore": "3.22",
+      "metric_1": 20,
+      "metric_2": 18,
+      "metric_3": 96,
+      "metric_4": 22,
+      "metric_7": 30,
+      "metric_9": 11,
+      "metric_10": 75,
+      "metric_15": 21,
+      "metric_16": 24,
+      "metric_19": 25,
+      "metric_21": 21,
+      "metric_24": 27,
+      "metric_30": 10
     }
   ],
   "diamond_track": [

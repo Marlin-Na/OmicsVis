@@ -36,7 +36,18 @@
       "eggnog_X10": "01QY7@aproNOG,05C7W@bactNOG,16PWW@proNOG,COG1529@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "F",
-      "eggnog_X13": "Xanthine dehydrogenase"
+      "eggnog_X13": "Xanthine dehydrogenase",
+      "metric_1": 26,
+      "metric_5": 55,
+      "metric_7": 40,
+      "metric_13": 68,
+      "metric_14": 71,
+      "metric_15": 31,
+      "metric_17": 76,
+      "metric_18": 63,
+      "metric_21": 1,
+      "metric_29": 22,
+      "metric_30": 8
     },
     {
       "gene_seqnames": "MAG06_543",
@@ -68,7 +79,19 @@
       "eggnog_X10": "01RV3@aproNOG,05G63@bactNOG,16PG9@proNOG,COG3395@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "S",
-      "eggnog_X13": "Type III effector Hrp-dependent"
+      "eggnog_X13": "Type III effector Hrp-dependent",
+      "metric_1": 81,
+      "metric_4": 84,
+      "metric_8": 13,
+      "metric_10": 1,
+      "metric_12": 80,
+      "metric_14": 51,
+      "metric_16": 90,
+      "metric_18": 74,
+      "metric_20": 23,
+      "metric_22": 49,
+      "metric_26": 70,
+      "metric_30": 83
     },
     {
       "gene_seqnames": "MAG06_543",
@@ -102,7 +125,24 @@
       "eggnog_X10": "01SD1@aproNOG,05DT1@bactNOG,16RD8@proNOG,COG1850@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "G",
-      "eggnog_X13": "RuBisCO catalyzes two reactions the carboxylation of D- ribulose 1,5-bisphosphate, the primary event in carbon dioxide fixation, as well as the oxidative fragmentation of the pentose substrate. Both reactions occur simultaneously and in competition at the same active site (By similarity)"
+      "eggnog_X13": "RuBisCO catalyzes two reactions the carboxylation of D- ribulose 1,5-bisphosphate, the primary event in carbon dioxide fixation, as well as the oxidative fragmentation of the pentose substrate. Both reactions occur simultaneously and in competition at the same active site (By similarity)",
+      "metric_1": 1,
+      "metric_4": 43,
+      "metric_6": 24,
+      "metric_7": 71,
+      "metric_8": 28,
+      "metric_9": 4,
+      "metric_13": 85,
+      "metric_14": 36,
+      "metric_15": 37,
+      "metric_19": 83,
+      "metric_21": 17,
+      "metric_22": 88,
+      "metric_23": 34,
+      "metric_27": 68,
+      "metric_28": 45,
+      "metric_29": 62,
+      "metric_30": 91
     }
   ],
   "diamond_track": [

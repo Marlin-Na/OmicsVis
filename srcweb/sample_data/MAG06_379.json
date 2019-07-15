@@ -37,7 +37,22 @@
       "eggnog_X10": "01QDE@aproNOG,05CHU@bactNOG,16PGG@proNOG,COG0183@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "I",
-      "eggnog_X13": "Beta-ketoadipyl CoA thiolase"
+      "eggnog_X13": "Beta-ketoadipyl CoA thiolase",
+      "metric_1": 15,
+      "metric_2": 95,
+      "metric_3": 46,
+      "metric_8": 14,
+      "metric_9": 48,
+      "metric_10": 6,
+      "metric_11": 65,
+      "metric_15": 87,
+      "metric_16": 48,
+      "metric_18": 50,
+      "metric_20": 9,
+      "metric_24": 79,
+      "metric_26": 19,
+      "metric_29": 5,
+      "metric_30": 21
     },
     {
       "gene_seqnames": "MAG06_379",
@@ -71,7 +86,23 @@
       "eggnog_X10": "01VZZ@aproNOG,07Z8Y@bactNOG,11J9D@NOG,17BS9@proNOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "K",
-      "eggnog_X13": "RNA polymerase sigma factor"
+      "eggnog_X13": "RNA polymerase sigma factor",
+      "metric_1": 64,
+      "metric_3": 15,
+      "metric_4": 27,
+      "metric_5": 96,
+      "metric_6": 46,
+      "metric_7": 15,
+      "metric_10": 6,
+      "metric_12": 8,
+      "metric_13": 14,
+      "metric_17": 90,
+      "metric_22": 59,
+      "metric_23": 32,
+      "metric_25": 69,
+      "metric_28": 38,
+      "metric_29": 13,
+      "metric_30": 51
     }
   ],
   "diamond_track": [

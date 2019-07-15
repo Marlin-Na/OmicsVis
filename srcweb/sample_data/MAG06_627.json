@@ -34,7 +34,18 @@
       "eggnog_X10": "01Q6K@aproNOG,05DDI@bactNOG,16QU3@proNOG,COG2931@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "O",
-      "eggnog_X13": "Hemolysin-type calcium-binding"
+      "eggnog_X13": "Hemolysin-type calcium-binding",
+      "metric_3": 39,
+      "metric_11": 3,
+      "metric_13": 58,
+      "metric_17": 75,
+      "metric_20": 17,
+      "metric_21": 38,
+      "metric_22": 16,
+      "metric_23": 6,
+      "metric_25": 16,
+      "metric_28": 24,
+      "metric_30": 10
     },
     {
       "gene_seqnames": "MAG06_627",
@@ -69,7 +80,21 @@
       "eggnog_X10": "01SH2@aproNOG,05DKQ@bactNOG,16QXD@proNOG,COG1940@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "G",
-      "eggnog_X13": "(ROK) family"
+      "eggnog_X13": "(ROK) family",
+      "metric_5": 27,
+      "metric_8": 31,
+      "metric_9": 98,
+      "metric_10": 39,
+      "metric_18": 97,
+      "metric_19": 25,
+      "metric_20": 92,
+      "metric_21": 56,
+      "metric_22": 98,
+      "metric_23": 85,
+      "metric_25": 23,
+      "metric_27": 93,
+      "metric_29": 79,
+      "metric_30": 92
     },
     {
       "gene_seqnames": "MAG06_627",
@@ -102,7 +127,21 @@
       "eggnog_X10": "01ZZS@aproNOG,090KN@bactNOG,17CSH@proNOG,COG4702@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "S",
-      "eggnog_X13": "UPF0303 protein"
+      "eggnog_X13": "UPF0303 protein",
+      "metric_2": 53,
+      "metric_3": 15,
+      "metric_6": 3,
+      "metric_9": 53,
+      "metric_11": 91,
+      "metric_12": 15,
+      "metric_19": 55,
+      "metric_20": 89,
+      "metric_21": 77,
+      "metric_24": 38,
+      "metric_25": 45,
+      "metric_26": 13,
+      "metric_28": 47,
+      "metric_30": 53
     }
   ],
   "diamond_track": [

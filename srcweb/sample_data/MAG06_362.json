@@ -37,7 +37,18 @@
       "eggnog_X10": "01QWX@aproNOG,05CQZ@bactNOG,16Q6G@proNOG,COG4191@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "T",
-      "eggnog_X13": "c4-dicarboxylate transport sensor protein"
+      "eggnog_X13": "c4-dicarboxylate transport sensor protein",
+      "metric_1": 27,
+      "metric_2": 2,
+      "metric_4": 75,
+      "metric_5": 95,
+      "metric_7": 5,
+      "metric_9": 40,
+      "metric_10": 76,
+      "metric_12": 45,
+      "metric_13": 27,
+      "metric_20": 31,
+      "metric_27": 29
     },
     {
       "gene_seqnames": "MAG06_362",
@@ -72,7 +83,24 @@
       "eggnog_X10": "01QUP@aproNOG,05C1W@bactNOG,16PNY@proNOG,COG2204@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "T",
-      "eggnog_X13": "two component, sigma54 specific, transcriptional regulator, Fis family"
+      "eggnog_X13": "two component, sigma54 specific, transcriptional regulator, Fis family",
+      "metric_1": 66,
+      "metric_3": 26,
+      "metric_4": 41,
+      "metric_5": 50,
+      "metric_7": 10,
+      "metric_8": 11,
+      "metric_11": 70,
+      "metric_12": 27,
+      "metric_17": 61,
+      "metric_19": 26,
+      "metric_20": 1,
+      "metric_23": 72,
+      "metric_25": 27,
+      "metric_26": 92,
+      "metric_28": 52,
+      "metric_29": 60,
+      "metric_30": 8
     }
   ],
   "diamond_track": [

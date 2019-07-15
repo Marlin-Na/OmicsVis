@@ -35,7 +35,22 @@
       "eggnog_X10": "07QS3@bactNOG,09A46@bctoNOG,0FVQY@cytNOG,COG1529@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "F",
-      "eggnog_X13": "aldehyde oxidase and xanthine dehydrogenase molybdopterin binding"
+      "eggnog_X13": "aldehyde oxidase and xanthine dehydrogenase molybdopterin binding",
+      "metric_2": 21,
+      "metric_3": 88,
+      "metric_4": 83,
+      "metric_6": 29,
+      "metric_11": 10,
+      "metric_13": 79,
+      "metric_15": 10,
+      "metric_18": 65,
+      "metric_21": 47,
+      "metric_23": 6,
+      "metric_24": 93,
+      "metric_25": 93,
+      "metric_26": 45,
+      "metric_27": 61,
+      "metric_28": 29
     },
     {
       "gene_seqnames": "MAG06_448",
@@ -70,7 +85,21 @@
       "eggnog_X10": "01R29@aproNOG,05CKD@bactNOG,16Q58@proNOG,COG0475@NOG,COG1226@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "P",
-      "eggnog_X13": "glutathione-regulated potassium-efflux system protein"
+      "eggnog_X13": "glutathione-regulated potassium-efflux system protein",
+      "metric_4": 64,
+      "metric_5": 3,
+      "metric_7": 47,
+      "metric_8": 76,
+      "metric_10": 47,
+      "metric_11": 48,
+      "metric_12": 40,
+      "metric_16": 85,
+      "metric_21": 5,
+      "metric_22": 12,
+      "metric_23": 24,
+      "metric_24": 27,
+      "metric_28": 5,
+      "metric_30": 87
     },
     {
       "gene_seqnames": "MAG06_448",
@@ -94,7 +123,19 @@
       "gene_sscore": "6.00",
       "gene_rscore": "6.73",
       "gene_uscore": "-2.61",
-      "gene_tscore": "2.38"
+      "gene_tscore": "2.38",
+      "metric_4": 11,
+      "metric_5": 30,
+      "metric_9": 52,
+      "metric_10": 8,
+      "metric_11": 75,
+      "metric_12": 5,
+      "metric_13": 92,
+      "metric_16": 9,
+      "metric_19": 6,
+      "metric_20": 95,
+      "metric_26": 88,
+      "metric_29": 38
     }
   ],
   "diamond_track": [

@@ -37,7 +37,19 @@
       "eggnog_X10": "01WNF@aproNOG,05K85@bactNOG,17A4Q@proNOG,COG0350@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "L",
-      "eggnog_X13": "methylated-DNA-protein-cysteine methyltransferase"
+      "eggnog_X13": "methylated-DNA-protein-cysteine methyltransferase",
+      "metric_1": 83,
+      "metric_8": 63,
+      "metric_9": 81,
+      "metric_13": 29,
+      "metric_14": 37,
+      "metric_18": 19,
+      "metric_22": 52,
+      "metric_23": 79,
+      "metric_24": 97,
+      "metric_27": 82,
+      "metric_28": 7,
+      "metric_30": 24
     },
     {
       "gene_seqnames": "MAG06_683",
@@ -71,7 +83,14 @@
       "eggnog_X10": "01UZG@aproNOG,08MC0@bactNOG,10GPE@NOG,175V1@proNOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "T",
-      "eggnog_X13": "Adenylate guanylate Cyclase"
+      "eggnog_X13": "Adenylate guanylate Cyclase",
+      "metric_5": 79,
+      "metric_8": 28,
+      "metric_11": 83,
+      "metric_12": 16,
+      "metric_15": 11,
+      "metric_16": 3,
+      "metric_25": 41
     },
     {
       "gene_seqnames": "MAG06_683",
@@ -105,7 +124,21 @@
       "eggnog_X10": "02EE7@aproNOG,08JDA@bactNOG,0YVP9@NOG,1738M@proNOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "E",
-      "eggnog_X13": "ABC transporter periplasmic amino acid-binding protein"
+      "eggnog_X13": "ABC transporter periplasmic amino acid-binding protein",
+      "metric_3": 47,
+      "metric_7": 66,
+      "metric_8": 80,
+      "metric_9": 71,
+      "metric_10": 4,
+      "metric_11": 8,
+      "metric_14": 1,
+      "metric_15": 76,
+      "metric_16": 35,
+      "metric_18": 64,
+      "metric_19": 1,
+      "metric_23": 79,
+      "metric_28": 25,
+      "metric_29": 71
     }
   ],
   "diamond_track": [

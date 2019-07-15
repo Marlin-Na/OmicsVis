@@ -37,7 +37,23 @@
       "eggnog_X10": "01QHN@aproNOG,05CII@bactNOG,16PQC@proNOG,COG0322@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "L",
-      "eggnog_X13": "The UvrABC repair system catalyzes the recognition and processing of DNA lesions. UvrC both incises the 5' and 3' sides of the lesion. The N-terminal half is responsible for the 3' incision and the C-terminal half is responsible for the 5' incision (By similarity)"
+      "eggnog_X13": "The UvrABC repair system catalyzes the recognition and processing of DNA lesions. UvrC both incises the 5' and 3' sides of the lesion. The N-terminal half is responsible for the 3' incision and the C-terminal half is responsible for the 5' incision (By similarity)",
+      "metric_1": 68,
+      "metric_3": 66,
+      "metric_4": 45,
+      "metric_6": 3,
+      "metric_7": 38,
+      "metric_9": 17,
+      "metric_10": 67,
+      "metric_11": 10,
+      "metric_14": 53,
+      "metric_16": 8,
+      "metric_17": 82,
+      "metric_18": 94,
+      "metric_20": 17,
+      "metric_21": 34,
+      "metric_23": 43,
+      "metric_27": 70
     }
   ],
   "diamond_track": [

@@ -26,7 +26,23 @@
       "gene_sscore": "6.21",
       "gene_rscore": "5.51",
       "gene_uscore": "-2.30",
-      "gene_tscore": "3.65"
+      "gene_tscore": "3.65",
+      "metric_2": 59,
+      "metric_3": 11,
+      "metric_4": 69,
+      "metric_5": 82,
+      "metric_7": 27,
+      "metric_8": 82,
+      "metric_12": 60,
+      "metric_14": 59,
+      "metric_15": 94,
+      "metric_16": 8,
+      "metric_17": 46,
+      "metric_18": 70,
+      "metric_20": 84,
+      "metric_21": 37,
+      "metric_27": 21,
+      "metric_30": 91
     },
     {
       "gene_seqnames": "MAG06_830",
@@ -61,7 +77,20 @@
       "eggnog_X10": "02E7F@aproNOG,08IIJ@bactNOG,172SA@proNOG,COG0085@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "K",
-      "eggnog_X13": "DNA-dependent RNA polymerase catalyzes the transcription of DNA into RNA using the four ribonucleoside triphosphates as substrates (By similarity)"
+      "eggnog_X13": "DNA-dependent RNA polymerase catalyzes the transcription of DNA into RNA using the four ribonucleoside triphosphates as substrates (By similarity)",
+      "metric_6": 61,
+      "metric_7": 47,
+      "metric_9": 96,
+      "metric_11": 98,
+      "metric_12": 60,
+      "metric_15": 46,
+      "metric_20": 49,
+      "metric_21": 2,
+      "metric_23": 95,
+      "metric_25": 9,
+      "metric_28": 88,
+      "metric_29": 75,
+      "metric_30": 32
     }
   ],
   "diamond_track": [

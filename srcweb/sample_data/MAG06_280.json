@@ -35,7 +35,21 @@
       "eggnog_X10": "01S0A@aproNOG,07NTX@bactNOG,0Z8FE@NOG,16QM0@proNOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "S",
-      "eggnog_X13": "Enoyl-CoA hydratase"
+      "eggnog_X13": "Enoyl-CoA hydratase",
+      "metric_1": 37,
+      "metric_2": 13,
+      "metric_3": 64,
+      "metric_6": 13,
+      "metric_8": 88,
+      "metric_10": 60,
+      "metric_12": 10,
+      "metric_14": 97,
+      "metric_18": 81,
+      "metric_19": 68,
+      "metric_22": 25,
+      "metric_23": 10,
+      "metric_25": 97,
+      "metric_30": 15
     },
     {
       "gene_seqnames": "MAG06_280",
@@ -68,7 +82,18 @@
       "eggnog_X10": "01QA3@aproNOG,05C26@bactNOG,16PDZ@proNOG,COG1012@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "C",
-      "eggnog_X13": "Aldehyde dehydrogenase"
+      "eggnog_X13": "Aldehyde dehydrogenase",
+      "metric_1": 1,
+      "metric_13": 24,
+      "metric_15": 25,
+      "metric_16": 89,
+      "metric_19": 56,
+      "metric_21": 39,
+      "metric_22": 38,
+      "metric_25": 53,
+      "metric_27": 76,
+      "metric_29": 37,
+      "metric_30": 11
     },
     {
       "gene_seqnames": "MAG06_280",
@@ -102,7 +127,23 @@
       "eggnog_X10": "02EG9@aproNOG,08JP0@bactNOG,0XQ0Q@NOG,173DQ@proNOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "G",
-      "eggnog_X13": "ABC transporter"
+      "eggnog_X13": "ABC transporter",
+      "metric_1": 22,
+      "metric_3": 61,
+      "metric_5": 41,
+      "metric_6": 67,
+      "metric_8": 66,
+      "metric_11": 41,
+      "metric_12": 28,
+      "metric_13": 44,
+      "metric_16": 45,
+      "metric_17": 17,
+      "metric_20": 31,
+      "metric_21": 34,
+      "metric_24": 25,
+      "metric_26": 7,
+      "metric_28": 23,
+      "metric_29": 69
     }
   ],
   "diamond_track": [

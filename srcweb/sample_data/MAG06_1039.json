@@ -34,7 +34,21 @@
       "eggnog_X10": "020Z6@aproNOG,08YZ1@bactNOG,17NUS@proNOG,COG0346@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "E",
-      "eggnog_X13": "glyoxalase bleomycin resistance protein dioxygenase"
+      "eggnog_X13": "glyoxalase bleomycin resistance protein dioxygenase",
+      "metric_2": 25,
+      "metric_5": 32,
+      "metric_6": 9,
+      "metric_8": 46,
+      "metric_10": 87,
+      "metric_11": 86,
+      "metric_13": 93,
+      "metric_15": 89,
+      "metric_16": 44,
+      "metric_17": 1,
+      "metric_18": 48,
+      "metric_19": 30,
+      "metric_24": 58,
+      "metric_29": 79
     },
     {
       "gene_seqnames": "MAG06_1039",
@@ -65,7 +79,18 @@
       "eggnog_X5": "OA238_1799",
       "eggnog_X9": "bactNOG[38]",
       "eggnog_X10": "01V81@aproNOG,08MNV@bactNOG,0XSR2@NOG,176W7@proNOG",
-      "eggnog_X11": "NA|NA|NA"
+      "eggnog_X11": "NA|NA|NA",
+      "metric_8": 19,
+      "metric_12": 44,
+      "metric_17": 95,
+      "metric_18": 61,
+      "metric_20": 34,
+      "metric_21": 56,
+      "metric_23": 1,
+      "metric_25": 98,
+      "metric_26": 54,
+      "metric_28": 85,
+      "metric_30": 16
     },
     {
       "gene_seqnames": "MAG06_1039",
@@ -98,7 +123,22 @@
       "eggnog_X10": "01QMU@aproNOG,05C5K@bactNOG,16QJ8@proNOG,COG0404@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "E",
-      "eggnog_X13": "aminomethyl transferase"
+      "eggnog_X13": "aminomethyl transferase",
+      "metric_1": 51,
+      "metric_3": 8,
+      "metric_4": 70,
+      "metric_7": 67,
+      "metric_9": 49,
+      "metric_10": 19,
+      "metric_12": 72,
+      "metric_13": 71,
+      "metric_15": 14,
+      "metric_17": 81,
+      "metric_19": 71,
+      "metric_20": 9,
+      "metric_22": 82,
+      "metric_26": 43,
+      "metric_29": 54
     }
   ],
   "diamond_track": [

@@ -35,7 +35,18 @@
       "eggnog_X10": "01REZ@aproNOG,05EGS@bactNOG,16RTX@proNOG,COG3264@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "M",
-      "eggnog_X13": "mechanosensitive ion channel"
+      "eggnog_X13": "mechanosensitive ion channel",
+      "metric_5": 54,
+      "metric_6": 33,
+      "metric_10": 50,
+      "metric_11": 84,
+      "metric_13": 32,
+      "metric_14": 48,
+      "metric_15": 98,
+      "metric_19": 29,
+      "metric_21": 90,
+      "metric_29": 9,
+      "metric_30": 78
     },
     {
       "gene_seqnames": "MAG06_534",
@@ -68,7 +79,21 @@
       "eggnog_X10": "01WYB@aproNOG,08ZCF@bactNOG,179W0@proNOG,COG0861@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "P",
-      "eggnog_X13": "integral membrane protein TerC"
+      "eggnog_X13": "integral membrane protein TerC",
+      "metric_2": 9,
+      "metric_3": 22,
+      "metric_10": 4,
+      "metric_11": 72,
+      "metric_13": 86,
+      "metric_14": 69,
+      "metric_15": 82,
+      "metric_16": 84,
+      "metric_17": 11,
+      "metric_18": 63,
+      "metric_20": 45,
+      "metric_22": 9,
+      "metric_24": 35,
+      "metric_30": 53
     }
   ],
   "diamond_track": [

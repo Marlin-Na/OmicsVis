@@ -38,7 +38,14 @@
       "eggnog_X10": "01QDR@aproNOG,05C17@bactNOG,16PMS@proNOG,COG0057@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "G",
-      "eggnog_X13": "Glyceraldehyde-3-phosphate dehydrogenase"
+      "eggnog_X13": "Glyceraldehyde-3-phosphate dehydrogenase",
+      "metric_6": 71,
+      "metric_7": 3,
+      "metric_9": 72,
+      "metric_13": 1,
+      "metric_17": 74,
+      "metric_23": 16,
+      "metric_28": 43
     },
     {
       "gene_seqnames": "MAG06_560",
@@ -72,7 +79,22 @@
       "eggnog_X10": "01W9X@aproNOG,08SNE@bactNOG,178MI@proNOG,COG3554@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "S",
-      "eggnog_X13": "Pfam:DUF1089"
+      "eggnog_X13": "Pfam:DUF1089",
+      "metric_2": 35,
+      "metric_3": 44,
+      "metric_5": 70,
+      "metric_8": 49,
+      "metric_9": 34,
+      "metric_11": 97,
+      "metric_12": 15,
+      "metric_13": 13,
+      "metric_16": 52,
+      "metric_18": 85,
+      "metric_21": 38,
+      "metric_22": 14,
+      "metric_24": 91,
+      "metric_25": 13,
+      "metric_27": 98
     },
     {
       "gene_seqnames": "MAG06_560",
@@ -108,7 +130,19 @@
       "eggnog_X10": "01SP1@aproNOG,05BZA@bactNOG,16PB3@proNOG,COG0126@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "G",
-      "eggnog_X13": "phosphoglycerate kinase"
+      "eggnog_X13": "phosphoglycerate kinase",
+      "metric_1": 80,
+      "metric_2": 58,
+      "metric_3": 74,
+      "metric_4": 90,
+      "metric_6": 81,
+      "metric_9": 60,
+      "metric_10": 5,
+      "metric_16": 1,
+      "metric_17": 6,
+      "metric_21": 79,
+      "metric_28": 18,
+      "metric_30": 40
     }
   ],
   "diamond_track": [

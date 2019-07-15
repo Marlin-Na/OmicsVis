@@ -37,7 +37,20 @@
       "eggnog_X10": "01U10@aproNOG,05F85@bactNOG,0XNWR@NOG,16PSV@proNOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "E",
-      "eggnog_X13": "ABC transporter substrate-binding protein"
+      "eggnog_X13": "ABC transporter substrate-binding protein",
+      "metric_5": 84,
+      "metric_6": 3,
+      "metric_7": 35,
+      "metric_8": 76,
+      "metric_9": 69,
+      "metric_13": 54,
+      "metric_14": 53,
+      "metric_15": 24,
+      "metric_17": 95,
+      "metric_18": 11,
+      "metric_25": 70,
+      "metric_29": 97,
+      "metric_30": 13
     },
     {
       "gene_seqnames": "MAG06_366",
@@ -70,7 +83,20 @@
       "eggnog_X10": "01S6B@aproNOG,05CAI@bactNOG,16PP8@proNOG,COG0411@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "E",
-      "eggnog_X13": "ABC transporter"
+      "eggnog_X13": "ABC transporter",
+      "metric_1": 67,
+      "metric_2": 88,
+      "metric_4": 84,
+      "metric_5": 74,
+      "metric_6": 10,
+      "metric_9": 31,
+      "metric_10": 52,
+      "metric_11": 65,
+      "metric_12": 46,
+      "metric_18": 24,
+      "metric_20": 78,
+      "metric_22": 30,
+      "metric_26": 86
     },
     {
       "gene_seqnames": "MAG06_366",
@@ -103,7 +129,19 @@
       "eggnog_X10": "01SFQ@aproNOG,05EB7@bactNOG,16RYK@proNOG,COG0410@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "E",
-      "eggnog_X13": "ABC transporter"
+      "eggnog_X13": "ABC transporter",
+      "metric_3": 12,
+      "metric_8": 70,
+      "metric_10": 78,
+      "metric_12": 16,
+      "metric_13": 43,
+      "metric_14": 33,
+      "metric_17": 74,
+      "metric_20": 49,
+      "metric_21": 16,
+      "metric_22": 54,
+      "metric_25": 29,
+      "metric_29": 2
     },
     {
       "gene_seqnames": "MAG06_366",
@@ -136,7 +174,18 @@
       "eggnog_X10": "01S0T@aproNOG,05CCK@bactNOG,16RJH@proNOG,COG0559@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "E",
-      "eggnog_X13": "Inner-membrane translocator"
+      "eggnog_X13": "Inner-membrane translocator",
+      "metric_1": 58,
+      "metric_2": 72,
+      "metric_3": 93,
+      "metric_5": 3,
+      "metric_8": 94,
+      "metric_13": 70,
+      "metric_16": 32,
+      "metric_18": 76,
+      "metric_20": 1,
+      "metric_23": 32,
+      "metric_26": 89
     },
     {
       "gene_seqnames": "MAG06_366",
@@ -170,7 +219,16 @@
       "eggnog_X10": "01SYR@aproNOG,062GI@bactNOG,16UIJ@proNOG,COG4177@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "E",
-      "eggnog_X13": "Branched-chain amino acid ABC transporter, permease protein"
+      "eggnog_X13": "Branched-chain amino acid ABC transporter, permease protein",
+      "metric_2": 21,
+      "metric_7": 62,
+      "metric_11": 15,
+      "metric_12": 96,
+      "metric_17": 72,
+      "metric_20": 68,
+      "metric_24": 21,
+      "metric_26": 83,
+      "metric_30": 52
     },
     {
       "gene_seqnames": "MAG06_366",
@@ -205,7 +263,19 @@
       "eggnog_X10": "01QKF@aproNOG,05CZ6@bactNOG,16Q7M@proNOG,COG2303@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "E",
-      "eggnog_X13": "Can catalyze the oxidation of choline to betaine aldehyde and betaine aldehyde to glycine betaine (By similarity)"
+      "eggnog_X13": "Can catalyze the oxidation of choline to betaine aldehyde and betaine aldehyde to glycine betaine (By similarity)",
+      "metric_2": 49,
+      "metric_3": 55,
+      "metric_6": 22,
+      "metric_8": 91,
+      "metric_11": 81,
+      "metric_12": 91,
+      "metric_13": 57,
+      "metric_16": 96,
+      "metric_20": 52,
+      "metric_23": 37,
+      "metric_25": 73,
+      "metric_26": 57
     }
   ],
   "diamond_track": [

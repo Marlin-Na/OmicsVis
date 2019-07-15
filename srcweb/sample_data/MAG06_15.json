@@ -32,7 +32,22 @@
       "eggnog_X4": 377.5,
       "eggnog_X9": "bactNOG[38]",
       "eggnog_X10": "01XB3@aproNOG,08Y1N@bactNOG,11KU4@NOG,17AVX@proNOG",
-      "eggnog_X11": "NA|NA|NA"
+      "eggnog_X11": "NA|NA|NA",
+      "metric_1": 57,
+      "metric_2": 78,
+      "metric_6": 2,
+      "metric_7": 88,
+      "metric_9": 83,
+      "metric_10": 8,
+      "metric_14": 17,
+      "metric_15": 24,
+      "metric_17": 88,
+      "metric_20": 61,
+      "metric_22": 81,
+      "metric_23": 70,
+      "metric_24": 95,
+      "metric_27": 89,
+      "metric_29": 49
     },
     {
       "gene_seqnames": "MAG06_15",
@@ -68,7 +83,21 @@
       "eggnog_X10": "01Q6D@aproNOG,05C4G@bactNOG,16PG1@proNOG,COG0382@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "H",
-      "eggnog_X13": "Synthesis of 3-octaprenyl-4-hydroxybenzoate (By similarity)"
+      "eggnog_X13": "Synthesis of 3-octaprenyl-4-hydroxybenzoate (By similarity)",
+      "metric_4": 68,
+      "metric_5": 22,
+      "metric_7": 22,
+      "metric_8": 68,
+      "metric_9": 47,
+      "metric_10": 18,
+      "metric_16": 37,
+      "metric_18": 43,
+      "metric_21": 43,
+      "metric_22": 50,
+      "metric_23": 97,
+      "metric_24": 63,
+      "metric_27": 34,
+      "metric_28": 92
     },
     {
       "gene_seqnames": "MAG06_15",
@@ -101,7 +130,17 @@
       "eggnog_X10": "COG3713@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "M",
-      "eggnog_X13": "MltA-interacting MipA family protein"
+      "eggnog_X13": "MltA-interacting MipA family protein",
+      "metric_1": 18,
+      "metric_2": 34,
+      "metric_3": 69,
+      "metric_11": 54,
+      "metric_13": 7,
+      "metric_14": 34,
+      "metric_19": 52,
+      "metric_23": 80,
+      "metric_25": 85,
+      "metric_30": 54
     }
   ],
   "diamond_track": [

@@ -37,7 +37,20 @@
       "eggnog_X10": "01S82@aproNOG,05CEJ@bactNOG,16PY2@proNOG,COG0480@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "J",
-      "eggnog_X13": "Catalyzes the GTP-dependent ribosomal translocation step during translation elongation. During this step, the ribosome changes from the pre-translocational (PRE) to the post- translocational (POST) state as the newly formed A-site-bound peptidyl-tRNA and P-site-bound deacylated tRNA move to the P and E sites, respectively. Catalyzes the coordinated movement of the two tRNA molecules, the mRNA and conformational changes in the ribosome (By similarity)"
+      "eggnog_X13": "Catalyzes the GTP-dependent ribosomal translocation step during translation elongation. During this step, the ribosome changes from the pre-translocational (PRE) to the post- translocational (POST) state as the newly formed A-site-bound peptidyl-tRNA and P-site-bound deacylated tRNA move to the P and E sites, respectively. Catalyzes the coordinated movement of the two tRNA molecules, the mRNA and conformational changes in the ribosome (By similarity)",
+      "metric_4": 82,
+      "metric_6": 86,
+      "metric_8": 91,
+      "metric_11": 75,
+      "metric_12": 31,
+      "metric_13": 43,
+      "metric_14": 96,
+      "metric_16": 28,
+      "metric_17": 2,
+      "metric_21": 49,
+      "metric_23": 77,
+      "metric_24": 98,
+      "metric_30": 37
     },
     {
       "gene_seqnames": "MAG06_725",
@@ -73,7 +86,17 @@
       "eggnog_X10": "01QSB@aproNOG,05CGV@bactNOG,16PJC@proNOG,COG0050@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "J",
-      "eggnog_X13": "This protein promotes the GTP-dependent binding of aminoacyl-tRNA to the A-site of ribosomes during protein biosynthesis (By similarity)"
+      "eggnog_X13": "This protein promotes the GTP-dependent binding of aminoacyl-tRNA to the A-site of ribosomes during protein biosynthesis (By similarity)",
+      "metric_3": 96,
+      "metric_4": 87,
+      "metric_9": 48,
+      "metric_10": 29,
+      "metric_11": 78,
+      "metric_12": 43,
+      "metric_15": 61,
+      "metric_20": 26,
+      "metric_21": 73,
+      "metric_30": 82
     }
   ],
   "diamond_track": [

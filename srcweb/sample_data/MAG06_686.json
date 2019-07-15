@@ -38,7 +38,21 @@
       "eggnog_X10": "01QI5@aproNOG,05CBC@bactNOG,16QWG@proNOG,COG0067@NOG,COG0069@NOG,COG0070@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "E",
-      "eggnog_X13": "Glutamate synthase"
+      "eggnog_X13": "Glutamate synthase",
+      "metric_1": 19,
+      "metric_2": 71,
+      "metric_4": 63,
+      "metric_6": 30,
+      "metric_7": 77,
+      "metric_11": 37,
+      "metric_13": 14,
+      "metric_15": 78,
+      "metric_16": 46,
+      "metric_18": 6,
+      "metric_23": 17,
+      "metric_24": 43,
+      "metric_27": 89,
+      "metric_29": 79
     }
   ],
   "diamond_track": [

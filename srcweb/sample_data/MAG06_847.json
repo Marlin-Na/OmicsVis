@@ -37,7 +37,20 @@
       "eggnog_X10": "01QIB@aproNOG,05D8J@bactNOG,16UR0@proNOG,COG2813@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "J",
-      "eggnog_X13": "Methyltransferase"
+      "eggnog_X13": "Methyltransferase",
+      "metric_2": 18,
+      "metric_9": 16,
+      "metric_10": 74,
+      "metric_13": 74,
+      "metric_15": 51,
+      "metric_17": 52,
+      "metric_18": 6,
+      "metric_19": 20,
+      "metric_21": 85,
+      "metric_23": 15,
+      "metric_25": 64,
+      "metric_27": 79,
+      "metric_28": 76
     },
     {
       "gene_seqnames": "MAG06_847",
@@ -73,7 +86,21 @@
       "eggnog_X10": "01R2P@aproNOG,05CSJ@bactNOG,16PM1@proNOG,COG0623@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "I",
-      "eggnog_X13": "Enoyl- acyl-carrier-protein reductase NADH"
+      "eggnog_X13": "Enoyl- acyl-carrier-protein reductase NADH",
+      "metric_1": 91,
+      "metric_5": 7,
+      "metric_7": 57,
+      "metric_8": 71,
+      "metric_9": 41,
+      "metric_10": 51,
+      "metric_11": 65,
+      "metric_13": 44,
+      "metric_14": 85,
+      "metric_17": 28,
+      "metric_19": 65,
+      "metric_25": 19,
+      "metric_26": 70,
+      "metric_28": 40
     },
     {
       "gene_seqnames": "MAG06_847",
@@ -97,7 +124,18 @@
       "gene_sscore": "3.22",
       "gene_rscore": "0.00",
       "gene_uscore": "0.00",
-      "gene_tscore": "3.22"
+      "gene_tscore": "3.22",
+      "metric_2": 7,
+      "metric_3": 75,
+      "metric_4": 29,
+      "metric_6": 71,
+      "metric_11": 33,
+      "metric_13": 37,
+      "metric_16": 38,
+      "metric_19": 14,
+      "metric_22": 32,
+      "metric_26": 37,
+      "metric_28": 78
     }
   ],
   "diamond_track": [

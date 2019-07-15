@@ -38,7 +38,21 @@
       "eggnog_X10": "01SPS@aproNOG,05CR3@bactNOG,16PWI@proNOG,COG0020@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "I",
-      "eggnog_X13": "Catalyzes the condensation of isopentenyl diphosphate (IPP) with allylic pyrophosphates generating different type of terpenoids (By similarity)"
+      "eggnog_X13": "Catalyzes the condensation of isopentenyl diphosphate (IPP) with allylic pyrophosphates generating different type of terpenoids (By similarity)",
+      "metric_1": 90,
+      "metric_2": 66,
+      "metric_6": 71,
+      "metric_7": 89,
+      "metric_9": 98,
+      "metric_10": 76,
+      "metric_14": 88,
+      "metric_18": 60,
+      "metric_19": 97,
+      "metric_20": 12,
+      "metric_22": 41,
+      "metric_25": 71,
+      "metric_27": 22,
+      "metric_29": 3
     },
     {
       "gene_seqnames": "MAG06_107",
@@ -74,7 +88,18 @@
       "eggnog_X10": "01ZZG@aproNOG,05KNE@bactNOG,16TPY@proNOG,COG0575@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "I",
-      "eggnog_X13": "Phosphatidate cytidylyltransferase"
+      "eggnog_X13": "Phosphatidate cytidylyltransferase",
+      "metric_2": 66,
+      "metric_4": 29,
+      "metric_5": 28,
+      "metric_7": 14,
+      "metric_8": 41,
+      "metric_13": 62,
+      "metric_14": 54,
+      "metric_19": 47,
+      "metric_21": 34,
+      "metric_22": 67,
+      "metric_27": 70
     }
   ],
   "diamond_track": [

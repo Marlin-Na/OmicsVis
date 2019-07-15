@@ -37,7 +37,20 @@
       "eggnog_X10": "01QNI@aproNOG,05C6A@bactNOG,16Q23@proNOG,COG0072@NOG,COG0073@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "J",
-      "eggnog_X13": "Phenylalanyl-tRNA synthetase, beta subunit"
+      "eggnog_X13": "Phenylalanyl-tRNA synthetase, beta subunit",
+      "metric_2": 9,
+      "metric_3": 20,
+      "metric_4": 69,
+      "metric_7": 95,
+      "metric_10": 15,
+      "metric_13": 11,
+      "metric_18": 52,
+      "metric_19": 5,
+      "metric_22": 83,
+      "metric_24": 17,
+      "metric_26": 45,
+      "metric_29": 1,
+      "metric_30": 48
     },
     {
       "gene_seqnames": "MAG06_519",
@@ -72,7 +85,24 @@
       "eggnog_X10": "01RPH@aproNOG,05CSS@bactNOG,16Q8Y@proNOG,COG0016@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "J",
-      "eggnog_X13": "Phenylalanyl-tRNA synthetase alpha subunit"
+      "eggnog_X13": "Phenylalanyl-tRNA synthetase alpha subunit",
+      "metric_2": 43,
+      "metric_3": 4,
+      "metric_4": 83,
+      "metric_7": 67,
+      "metric_8": 27,
+      "metric_9": 60,
+      "metric_12": 25,
+      "metric_14": 88,
+      "metric_15": 29,
+      "metric_17": 7,
+      "metric_20": 91,
+      "metric_23": 59,
+      "metric_25": 21,
+      "metric_26": 4,
+      "metric_27": 19,
+      "metric_28": 43,
+      "metric_30": 86
     }
   ],
   "diamond_track": [

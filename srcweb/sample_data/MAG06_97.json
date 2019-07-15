@@ -38,7 +38,22 @@
       "eggnog_X10": "01Q7W@aproNOG,05CM3@bactNOG,16Q25@proNOG,COG0136@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "E",
-      "eggnog_X13": "Catalyzes the NADPH-dependent formation of L-aspartate- semialdehyde (L-ASA) by the reductive dephosphorylation of L- aspartyl-4-phosphate (By similarity)"
+      "eggnog_X13": "Catalyzes the NADPH-dependent formation of L-aspartate- semialdehyde (L-ASA) by the reductive dephosphorylation of L- aspartyl-4-phosphate (By similarity)",
+      "metric_1": 84,
+      "metric_6": 43,
+      "metric_7": 57,
+      "metric_12": 43,
+      "metric_13": 98,
+      "metric_14": 46,
+      "metric_15": 74,
+      "metric_16": 23,
+      "metric_18": 68,
+      "metric_19": 88,
+      "metric_21": 8,
+      "metric_24": 84,
+      "metric_25": 81,
+      "metric_27": 44,
+      "metric_30": 94
     },
     {
       "gene_seqnames": "MAG06_97",
@@ -73,7 +88,19 @@
       "eggnog_X10": "01TN7@aproNOG,05CVE@bactNOG,16QBZ@proNOG,COG2951@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "M",
-      "eggnog_X13": "lytic murein transglycosylase"
+      "eggnog_X13": "lytic murein transglycosylase",
+      "metric_1": 55,
+      "metric_4": 89,
+      "metric_6": 40,
+      "metric_9": 54,
+      "metric_10": 80,
+      "metric_12": 76,
+      "metric_14": 81,
+      "metric_16": 22,
+      "metric_19": 35,
+      "metric_25": 93,
+      "metric_27": 65,
+      "metric_28": 23
     }
   ],
   "diamond_track": [

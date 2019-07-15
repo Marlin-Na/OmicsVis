@@ -38,7 +38,19 @@
       "eggnog_X10": "01R3P@aproNOG,05CMY@bactNOG,16Q0F@proNOG,COG0128@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "E",
-      "eggnog_X13": "5-enolpyruvylshikimate-3-phosphate synthase"
+      "eggnog_X13": "5-enolpyruvylshikimate-3-phosphate synthase",
+      "metric_2": 69,
+      "metric_4": 51,
+      "metric_10": 98,
+      "metric_11": 7,
+      "metric_14": 34,
+      "metric_15": 84,
+      "metric_16": 53,
+      "metric_20": 39,
+      "metric_22": 16,
+      "metric_26": 4,
+      "metric_27": 68,
+      "metric_30": 48
     },
     {
       "gene_seqnames": "MAG06_636",
@@ -74,7 +86,22 @@
       "eggnog_X10": "01W0R@aproNOG,05CAT@bactNOG,16QJ6@proNOG,COG0283@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "F",
-      "eggnog_X13": "Cytidine monophosphate kinase"
+      "eggnog_X13": "Cytidine monophosphate kinase",
+      "metric_5": 29,
+      "metric_7": 5,
+      "metric_8": 89,
+      "metric_10": 49,
+      "metric_12": 80,
+      "metric_13": 56,
+      "metric_14": 36,
+      "metric_15": 15,
+      "metric_17": 25,
+      "metric_20": 50,
+      "metric_22": 83,
+      "metric_23": 98,
+      "metric_24": 74,
+      "metric_25": 51,
+      "metric_27": 49
     },
     {
       "gene_seqnames": "MAG06_636",
@@ -109,7 +136,18 @@
       "eggnog_X10": "01QN1@aproNOG,05CAV@bactNOG,16QAF@proNOG,COG0539@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "J",
-      "eggnog_X13": "thus facilitating recognition of the initiation point. It is needed to translate mRNA with a short Shine-Dalgarno (SD) purine-rich sequence (By similarity)"
+      "eggnog_X13": "thus facilitating recognition of the initiation point. It is needed to translate mRNA with a short Shine-Dalgarno (SD) purine-rich sequence (By similarity)",
+      "metric_1": 53,
+      "metric_2": 67,
+      "metric_3": 64,
+      "metric_8": 3,
+      "metric_10": 49,
+      "metric_17": 60,
+      "metric_18": 98,
+      "metric_20": 49,
+      "metric_21": 47,
+      "metric_23": 43,
+      "metric_28": 23
     }
   ],
   "diamond_track": [

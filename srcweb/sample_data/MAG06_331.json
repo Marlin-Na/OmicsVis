@@ -36,7 +36,23 @@
       "eggnog_X10": "01R1B@aproNOG,05CDY@bactNOG,16PTD@proNOG,COG0217@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "K",
-      "eggnog_X13": "transcriptional regulatory protein"
+      "eggnog_X13": "transcriptional regulatory protein",
+      "metric_1": 65,
+      "metric_4": 49,
+      "metric_5": 95,
+      "metric_7": 78,
+      "metric_9": 7,
+      "metric_12": 77,
+      "metric_14": 12,
+      "metric_15": 65,
+      "metric_16": 34,
+      "metric_19": 90,
+      "metric_20": 96,
+      "metric_21": 82,
+      "metric_24": 99,
+      "metric_25": 42,
+      "metric_27": 20,
+      "metric_28": 67
     },
     {
       "gene_seqnames": "MAG06_331",
@@ -68,7 +84,19 @@
       "eggnog_X10": "01W38@aproNOG,08RV7@bactNOG,16T52@proNOG,COG2220@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "S",
-      "eggnog_X13": "Inherit from COG: Hydrolase"
+      "eggnog_X13": "Inherit from COG: Hydrolase",
+      "metric_2": 49,
+      "metric_4": 76,
+      "metric_5": 14,
+      "metric_6": 26,
+      "metric_9": 43,
+      "metric_11": 75,
+      "metric_14": 82,
+      "metric_16": 99,
+      "metric_18": 26,
+      "metric_20": 67,
+      "metric_23": 11,
+      "metric_28": 4
     }
   ],
   "diamond_track": [

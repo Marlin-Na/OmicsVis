@@ -35,7 +35,18 @@
       "eggnog_X10": "01U66@aproNOG,07ZM9@bactNOG,1757Y@proNOG,COG1940@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "G, K",
-      "eggnog_X13": "Inherit from COG: ROK family"
+      "eggnog_X13": "Inherit from COG: ROK family",
+      "metric_2": 14,
+      "metric_5": 76,
+      "metric_7": 86,
+      "metric_12": 18,
+      "metric_13": 31,
+      "metric_17": 94,
+      "metric_19": 98,
+      "metric_24": 94,
+      "metric_25": 14,
+      "metric_27": 21,
+      "metric_30": 58
     },
     {
       "gene_seqnames": "MAG06_462",
@@ -69,7 +80,21 @@
       "eggnog_X10": "01SEM@aproNOG,05DER@bactNOG,176I7@proNOG,COG1363@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "E",
-      "eggnog_X13": "Peptidase M42 family"
+      "eggnog_X13": "Peptidase M42 family",
+      "metric_1": 8,
+      "metric_2": 62,
+      "metric_4": 87,
+      "metric_7": 5,
+      "metric_8": 91,
+      "metric_9": 94,
+      "metric_11": 64,
+      "metric_12": 46,
+      "metric_14": 28,
+      "metric_15": 38,
+      "metric_24": 45,
+      "metric_28": 52,
+      "metric_29": 23,
+      "metric_30": 35
     }
   ],
   "diamond_track": [

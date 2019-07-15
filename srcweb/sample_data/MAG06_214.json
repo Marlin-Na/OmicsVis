@@ -37,7 +37,20 @@
       "eggnog_X10": "01X62@aproNOG,08Z1B@bactNOG,17CB7@proNOG,COG2867@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "I",
-      "eggnog_X13": "Cyclase dehydrase"
+      "eggnog_X13": "Cyclase dehydrase",
+      "metric_1": 97,
+      "metric_3": 90,
+      "metric_4": 43,
+      "metric_6": 64,
+      "metric_7": 39,
+      "metric_10": 83,
+      "metric_13": 87,
+      "metric_18": 24,
+      "metric_19": 34,
+      "metric_22": 66,
+      "metric_25": 43,
+      "metric_27": 46,
+      "metric_28": 78
     },
     {
       "gene_seqnames": "MAG06_214",
@@ -72,7 +85,20 @@
       "eggnog_X10": "01Y60@aproNOG,07TH8@bactNOG,17C8N@proNOG,COG1546@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "S",
-      "eggnog_X13": "cina domain protein"
+      "eggnog_X13": "cina domain protein",
+      "metric_1": 12,
+      "metric_5": 66,
+      "metric_8": 96,
+      "metric_9": 9,
+      "metric_11": 77,
+      "metric_13": 67,
+      "metric_14": 7,
+      "metric_17": 95,
+      "metric_19": 20,
+      "metric_20": 24,
+      "metric_21": 28,
+      "metric_24": 83,
+      "metric_26": 20
     },
     {
       "gene_seqnames": "MAG06_214",
@@ -108,7 +134,21 @@
       "eggnog_X10": "01QCA@aproNOG,08UH8@bactNOG,179PS@proNOG,COG0245@NOG,COG1211@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "I",
-      "eggnog_X13": "Bifunctional enzyme that catalyzes the formation of 4- diphosphocytidyl-2-C-methyl-D-erythritol from CTP and 2-C-methyl- D-erythritol 4-phosphate (MEP) (IspD), and catalyzes the conversion of 4-diphosphocytidyl-2-C-methyl-D-erythritol 2- phosphate (CDP-ME2P) to 2-C-methyl-D-erythritol 2,4- cyclodiphosphate (ME-CPP) with a corresponding release of cytidine 5-monophosphate (CMP) (IspF) (By similarity)"
+      "eggnog_X13": "Bifunctional enzyme that catalyzes the formation of 4- diphosphocytidyl-2-C-methyl-D-erythritol from CTP and 2-C-methyl- D-erythritol 4-phosphate (MEP) (IspD), and catalyzes the conversion of 4-diphosphocytidyl-2-C-methyl-D-erythritol 2- phosphate (CDP-ME2P) to 2-C-methyl-D-erythritol 2,4- cyclodiphosphate (ME-CPP) with a corresponding release of cytidine 5-monophosphate (CMP) (IspF) (By similarity)",
+      "metric_2": 51,
+      "metric_4": 30,
+      "metric_5": 88,
+      "metric_10": 67,
+      "metric_13": 14,
+      "metric_17": 72,
+      "metric_18": 42,
+      "metric_19": 59,
+      "metric_20": 45,
+      "metric_22": 67,
+      "metric_23": 23,
+      "metric_25": 2,
+      "metric_26": 39,
+      "metric_27": 29
     }
   ],
   "diamond_track": [

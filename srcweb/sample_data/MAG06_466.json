@@ -37,7 +37,23 @@
       "eggnog_X10": "01Q90@aproNOG,05FCY@bactNOG,16PEU@proNOG,COG0633@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "T",
-      "eggnog_X13": "Adenylate Guanylate cyclase"
+      "eggnog_X13": "Adenylate Guanylate cyclase",
+      "metric_1": 13,
+      "metric_2": 26,
+      "metric_6": 91,
+      "metric_7": 45,
+      "metric_9": 21,
+      "metric_10": 52,
+      "metric_11": 5,
+      "metric_14": 29,
+      "metric_18": 3,
+      "metric_19": 77,
+      "metric_21": 35,
+      "metric_22": 20,
+      "metric_24": 83,
+      "metric_25": 34,
+      "metric_26": 9,
+      "metric_29": 79
     }
   ],
   "diamond_track": [

@@ -34,7 +34,22 @@
       "eggnog_X10": "01UQI@aproNOG,05C04@bactNOG,16PTM@proNOG,COG1804@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "C",
-      "eggnog_X13": "L-carnitine dehydratase bile acid-inducible protein F"
+      "eggnog_X13": "L-carnitine dehydratase bile acid-inducible protein F",
+      "metric_2": 16,
+      "metric_4": 27,
+      "metric_7": 19,
+      "metric_9": 2,
+      "metric_10": 1,
+      "metric_11": 24,
+      "metric_13": 5,
+      "metric_15": 17,
+      "metric_16": 55,
+      "metric_17": 16,
+      "metric_19": 80,
+      "metric_20": 42,
+      "metric_21": 7,
+      "metric_22": 6,
+      "metric_30": 67
     }
   ],
   "diamond_track": [

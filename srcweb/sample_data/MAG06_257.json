@@ -37,7 +37,20 @@
       "eggnog_X10": "01TCR@aproNOG,05CAQ@bactNOG,16QZ2@proNOG,COG0367@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "E",
-      "eggnog_X13": "Asparagine synthetase"
+      "eggnog_X13": "Asparagine synthetase",
+      "metric_3": 61,
+      "metric_4": 71,
+      "metric_7": 40,
+      "metric_8": 11,
+      "metric_9": 14,
+      "metric_10": 13,
+      "metric_11": 5,
+      "metric_12": 15,
+      "metric_17": 62,
+      "metric_20": 69,
+      "metric_21": 57,
+      "metric_22": 65,
+      "metric_30": 74
     },
     {
       "gene_seqnames": "MAG06_257",
@@ -72,7 +85,18 @@
       "eggnog_X10": "01RHQ@aproNOG,05D9M@bactNOG,16T4J@proNOG,COG0456@NOG,COG1181@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "M",
-      "eggnog_X13": "Gnat-family acetyltransferase"
+      "eggnog_X13": "Gnat-family acetyltransferase",
+      "metric_4": 97,
+      "metric_6": 84,
+      "metric_7": 23,
+      "metric_8": 2,
+      "metric_12": 53,
+      "metric_13": 21,
+      "metric_19": 42,
+      "metric_20": 31,
+      "metric_27": 64,
+      "metric_29": 52,
+      "metric_30": 81
     }
   ],
   "diamond_track": [

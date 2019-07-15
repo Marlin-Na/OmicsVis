@@ -34,7 +34,25 @@
       "eggnog_X10": "01Q6K@aproNOG,05DDI@bactNOG,16QU3@proNOG,COG2931@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "O",
-      "eggnog_X13": "Hemolysin-type calcium-binding"
+      "eggnog_X13": "Hemolysin-type calcium-binding",
+      "metric_1": 33,
+      "metric_2": 49,
+      "metric_3": 27,
+      "metric_4": 93,
+      "metric_5": 75,
+      "metric_9": 27,
+      "metric_10": 10,
+      "metric_12": 86,
+      "metric_14": 93,
+      "metric_15": 8,
+      "metric_17": 64,
+      "metric_18": 75,
+      "metric_19": 46,
+      "metric_21": 6,
+      "metric_25": 35,
+      "metric_26": 46,
+      "metric_28": 5,
+      "metric_30": 89
     },
     {
       "gene_seqnames": "MAG06_207",
@@ -68,7 +86,18 @@
       "eggnog_X10": "01SJQ@aproNOG,05E2A@bactNOG,16RE7@proNOG,COG1063@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "C",
-      "eggnog_X13": "Dehydrogenase"
+      "eggnog_X13": "Dehydrogenase",
+      "metric_3": 64,
+      "metric_6": 48,
+      "metric_10": 20,
+      "metric_12": 2,
+      "metric_15": 21,
+      "metric_16": 6,
+      "metric_19": 50,
+      "metric_21": 68,
+      "metric_23": 34,
+      "metric_26": 92,
+      "metric_30": 29
     }
   ],
   "diamond_track": [

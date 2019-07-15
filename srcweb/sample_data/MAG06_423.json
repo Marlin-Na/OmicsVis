@@ -36,7 +36,18 @@
       "eggnog_X10": "01RTM@aproNOG,05DAU@bactNOG,16QRZ@proNOG,COG0642@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "T",
-      "eggnog_X13": "Histidine kinase"
+      "eggnog_X13": "Histidine kinase",
+      "metric_5": 54,
+      "metric_6": 35,
+      "metric_8": 59,
+      "metric_9": 87,
+      "metric_10": 75,
+      "metric_13": 32,
+      "metric_19": 51,
+      "metric_21": 63,
+      "metric_23": 17,
+      "metric_24": 48,
+      "metric_29": 80
     }
   ],
   "diamond_track": [

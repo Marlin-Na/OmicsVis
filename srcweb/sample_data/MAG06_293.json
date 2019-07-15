@@ -37,7 +37,18 @@
       "eggnog_X10": "01ZWA@aproNOG,05K77@bactNOG,17FJ8@proNOG,COG0184@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "J",
-      "eggnog_X13": "One of the primary rRNA binding proteins, it binds directly to 16S rRNA where it helps nucleate assembly of the platform of the 30S subunit by binding and bridging several RNA helices of the 16S rRNA (By similarity)"
+      "eggnog_X13": "One of the primary rRNA binding proteins, it binds directly to 16S rRNA where it helps nucleate assembly of the platform of the 30S subunit by binding and bridging several RNA helices of the 16S rRNA (By similarity)",
+      "metric_2": 78,
+      "metric_4": 31,
+      "metric_6": 88,
+      "metric_7": 24,
+      "metric_10": 44,
+      "metric_16": 26,
+      "metric_20": 56,
+      "metric_21": 29,
+      "metric_25": 99,
+      "metric_27": 8,
+      "metric_29": 54
     },
     {
       "gene_seqnames": "MAG06_293",
@@ -72,7 +83,22 @@
       "eggnog_X10": "01QTS@aproNOG,05C62@bactNOG,16PVS@proNOG,COG1185@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "J",
-      "eggnog_X13": "Involved in mRNA degradation. Hydrolyzes single-stranded polyribonucleotides processively in the 3'- to 5'-direction (By similarity)"
+      "eggnog_X13": "Involved in mRNA degradation. Hydrolyzes single-stranded polyribonucleotides processively in the 3'- to 5'-direction (By similarity)",
+      "metric_1": 12,
+      "metric_6": 78,
+      "metric_7": 23,
+      "metric_8": 35,
+      "metric_13": 4,
+      "metric_14": 76,
+      "metric_16": 95,
+      "metric_17": 47,
+      "metric_20": 6,
+      "metric_22": 80,
+      "metric_23": 9,
+      "metric_25": 97,
+      "metric_26": 37,
+      "metric_28": 68,
+      "metric_30": 55
     }
   ],
   "diamond_track": [

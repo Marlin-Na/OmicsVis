@@ -35,7 +35,23 @@
       "eggnog_X10": "01WQG@aproNOG,08KMX@bactNOG,16PTW@proNOG,COG0845@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "V",
-      "eggnog_X13": "RND family efflux transporter MFP subunit"
+      "eggnog_X13": "RND family efflux transporter MFP subunit",
+      "metric_1": 30,
+      "metric_3": 98,
+      "metric_5": 49,
+      "metric_6": 48,
+      "metric_7": 36,
+      "metric_8": 2,
+      "metric_11": 49,
+      "metric_12": 88,
+      "metric_13": 40,
+      "metric_17": 95,
+      "metric_18": 37,
+      "metric_19": 59,
+      "metric_22": 55,
+      "metric_23": 45,
+      "metric_25": 58,
+      "metric_30": 88
     },
     {
       "gene_seqnames": "MAG06_126",
@@ -68,7 +84,19 @@
       "eggnog_X10": "01Z2C@aproNOG,08ZJ6@bactNOG,0XQ31@NOG,17866@proNOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "K",
-      "eggnog_X13": "TETR family transcriptional regulator"
+      "eggnog_X13": "TETR family transcriptional regulator",
+      "metric_1": 22,
+      "metric_3": 74,
+      "metric_4": 34,
+      "metric_6": 12,
+      "metric_9": 39,
+      "metric_18": 14,
+      "metric_19": 67,
+      "metric_22": 45,
+      "metric_24": 82,
+      "metric_26": 78,
+      "metric_28": 55,
+      "metric_29": 23
     },
     {
       "gene_seqnames": "MAG06_126",
@@ -100,7 +128,20 @@
       "eggnog_X10": "01SFH@aproNOG,06J7G@bactNOG,0XQ2V@NOG,16R6U@proNOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "S",
-      "eggnog_X13": "Inherit from bactNOG: oxidoreductase"
+      "eggnog_X13": "Inherit from bactNOG: oxidoreductase",
+      "metric_5": 28,
+      "metric_6": 90,
+      "metric_7": 94,
+      "metric_8": 97,
+      "metric_11": 84,
+      "metric_12": 52,
+      "metric_15": 68,
+      "metric_16": 12,
+      "metric_17": 8,
+      "metric_18": 21,
+      "metric_19": 98,
+      "metric_25": 68,
+      "metric_27": 40
     },
     {
       "gene_seqnames": "MAG06_126",
@@ -135,7 +176,19 @@
       "eggnog_X10": "01TT5@aproNOG,05E9V@bactNOG,16RZ5@proNOG,COG1879@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "G",
-      "eggnog_X13": "Periplasmic binding protein LacI transcriptional regulator"
+      "eggnog_X13": "Periplasmic binding protein LacI transcriptional regulator",
+      "metric_2": 59,
+      "metric_3": 43,
+      "metric_6": 25,
+      "metric_7": 60,
+      "metric_8": 25,
+      "metric_11": 36,
+      "metric_13": 47,
+      "metric_15": 99,
+      "metric_17": 19,
+      "metric_24": 13,
+      "metric_28": 60,
+      "metric_30": 79
     }
   ],
   "diamond_track": [

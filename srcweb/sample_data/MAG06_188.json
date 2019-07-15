@@ -37,7 +37,21 @@
       "eggnog_X10": "01R1Z@aproNOG,05CHN@bactNOG,16PKE@proNOG,COG1219@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "O",
-      "eggnog_X13": "ATP-dependent specificity component of the Clp protease. It directs the protease to specific substrates. Can perform chaperone functions in the absence of ClpP (By similarity)"
+      "eggnog_X13": "ATP-dependent specificity component of the Clp protease. It directs the protease to specific substrates. Can perform chaperone functions in the absence of ClpP (By similarity)",
+      "metric_2": 77,
+      "metric_3": 66,
+      "metric_4": 39,
+      "metric_5": 16,
+      "metric_6": 2,
+      "metric_7": 76,
+      "metric_8": 68,
+      "metric_10": 42,
+      "metric_16": 26,
+      "metric_17": 52,
+      "metric_18": 46,
+      "metric_21": 30,
+      "metric_24": 37,
+      "metric_28": 33
     },
     {
       "gene_seqnames": "MAG06_188",
@@ -72,7 +86,17 @@
       "eggnog_X10": "01QS5@aproNOG,05C6P@bactNOG,16PRM@proNOG,COG0466@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "O",
-      "eggnog_X13": "ATP-dependent serine protease that mediates the selective degradation of mutant and abnormal proteins as well as certain short-lived regulatory proteins. Required for cellular homeostasis and for survival from DNA damage and developmental changes induced by stress. Degrades polypeptides processively to yield small peptide fragments that are 5 to 10 amino acids long. Binds to DNA in a double-stranded, site-specific manner (By similarity)"
+      "eggnog_X13": "ATP-dependent serine protease that mediates the selective degradation of mutant and abnormal proteins as well as certain short-lived regulatory proteins. Required for cellular homeostasis and for survival from DNA damage and developmental changes induced by stress. Degrades polypeptides processively to yield small peptide fragments that are 5 to 10 amino acids long. Binds to DNA in a double-stranded, site-specific manner (By similarity)",
+      "metric_8": 42,
+      "metric_11": 13,
+      "metric_12": 93,
+      "metric_14": 29,
+      "metric_18": 52,
+      "metric_21": 80,
+      "metric_22": 31,
+      "metric_23": 72,
+      "metric_27": 33,
+      "metric_30": 24
     }
   ],
   "diamond_track": [

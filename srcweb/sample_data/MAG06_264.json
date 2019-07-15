@@ -32,7 +32,20 @@
       "eggnog_X4": 219.2,
       "eggnog_X9": "bactNOG[38]",
       "eggnog_X10": "026Y2@aproNOG,06C62@bactNOG,0Y3DV@NOG,17UEH@proNOG",
-      "eggnog_X11": "NA|NA|NA"
+      "eggnog_X11": "NA|NA|NA",
+      "metric_1": 10,
+      "metric_6": 70,
+      "metric_9": 58,
+      "metric_12": 77,
+      "metric_13": 4,
+      "metric_14": 12,
+      "metric_19": 92,
+      "metric_20": 57,
+      "metric_21": 89,
+      "metric_22": 36,
+      "metric_23": 14,
+      "metric_26": 51,
+      "metric_28": 17
     },
     {
       "gene_seqnames": "MAG06_264",
@@ -62,7 +75,23 @@
       "eggnog_X4": 94,
       "eggnog_X9": "bactNOG[38]",
       "eggnog_X10": "05QNB@bactNOG,0BN2H@bproNOG,11W0T@NOG,17J0Y@proNOG",
-      "eggnog_X11": "NA|NA|NA"
+      "eggnog_X11": "NA|NA|NA",
+      "metric_1": 90,
+      "metric_2": 80,
+      "metric_5": 86,
+      "metric_9": 50,
+      "metric_10": 63,
+      "metric_11": 75,
+      "metric_13": 56,
+      "metric_14": 71,
+      "metric_15": 60,
+      "metric_18": 46,
+      "metric_19": 57,
+      "metric_21": 73,
+      "metric_22": 26,
+      "metric_27": 26,
+      "metric_28": 59,
+      "metric_29": 20
     },
     {
       "gene_seqnames": "MAG06_264",
@@ -94,7 +123,20 @@
       "eggnog_X10": "01UME@aproNOG,05EDD@bactNOG,175Z6@proNOG,COG4312@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "S",
-      "eggnog_X13": "Bacterial protein of unknown function (DUF899)"
+      "eggnog_X13": "Bacterial protein of unknown function (DUF899)",
+      "metric_2": 36,
+      "metric_4": 27,
+      "metric_6": 49,
+      "metric_7": 19,
+      "metric_10": 95,
+      "metric_11": 15,
+      "metric_13": 58,
+      "metric_16": 78,
+      "metric_18": 46,
+      "metric_23": 52,
+      "metric_24": 82,
+      "metric_27": 48,
+      "metric_30": 46
     }
   ],
   "diamond_track": [

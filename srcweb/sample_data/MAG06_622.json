@@ -37,7 +37,18 @@
       "eggnog_X10": "05CJM@bactNOG,17647@proNOG,COG0601@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "P",
-      "eggnog_X13": "ABC transporter (Permease"
+      "eggnog_X13": "ABC transporter (Permease",
+      "metric_4": 82,
+      "metric_10": 7,
+      "metric_13": 1,
+      "metric_15": 82,
+      "metric_16": 20,
+      "metric_17": 4,
+      "metric_18": 59,
+      "metric_21": 89,
+      "metric_23": 34,
+      "metric_26": 85,
+      "metric_27": 17
     },
     {
       "gene_seqnames": "MAG06_622",
@@ -70,7 +81,18 @@
       "eggnog_X10": "05D3V@bactNOG,17658@proNOG,COG0747@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "E",
-      "eggnog_X13": "extracellular solute-binding protein"
+      "eggnog_X13": "extracellular solute-binding protein",
+      "metric_3": 45,
+      "metric_5": 58,
+      "metric_16": 59,
+      "metric_17": 49,
+      "metric_18": 96,
+      "metric_19": 34,
+      "metric_20": 73,
+      "metric_22": 6,
+      "metric_24": 8,
+      "metric_26": 1,
+      "metric_28": 63
     },
     {
       "gene_seqnames": "MAG06_622",
@@ -102,7 +124,21 @@
       "eggnog_X10": "08QH5@bactNOG,0BI48@bproNOG,17WGB@proNOG,COG0329@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "E, M",
-      "eggnog_X13": "DHDPS"
+      "eggnog_X13": "DHDPS",
+      "metric_1": 73,
+      "metric_2": 49,
+      "metric_3": 70,
+      "metric_5": 94,
+      "metric_9": 17,
+      "metric_12": 42,
+      "metric_16": 20,
+      "metric_18": 33,
+      "metric_23": 25,
+      "metric_24": 76,
+      "metric_25": 12,
+      "metric_27": 41,
+      "metric_29": 67,
+      "metric_30": 25
     },
     {
       "gene_seqnames": "MAG06_622",
@@ -135,7 +171,21 @@
       "eggnog_X10": "07EG7@bactNOG,0BMFP@bproNOG,17F1I@proNOG,COG2186@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "K",
-      "eggnog_X13": "GntR family regulatory protein"
+      "eggnog_X13": "GntR family regulatory protein",
+      "metric_8": 88,
+      "metric_9": 41,
+      "metric_10": 43,
+      "metric_12": 43,
+      "metric_13": 96,
+      "metric_14": 10,
+      "metric_16": 30,
+      "metric_18": 65,
+      "metric_19": 92,
+      "metric_20": 29,
+      "metric_25": 8,
+      "metric_28": 3,
+      "metric_29": 55,
+      "metric_30": 66
     }
   ],
   "diamond_track": [

@@ -38,7 +38,18 @@
       "eggnog_X10": "01T3Q@aproNOG,05CXW@bactNOG,16RDD@proNOG,COG0297@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "G",
-      "eggnog_X13": "Synthesizes alpha-1,4-glucan chains using ADP-glucose (By similarity)"
+      "eggnog_X13": "Synthesizes alpha-1,4-glucan chains using ADP-glucose (By similarity)",
+      "metric_2": 97,
+      "metric_6": 15,
+      "metric_7": 17,
+      "metric_10": 50,
+      "metric_14": 87,
+      "metric_16": 37,
+      "metric_19": 42,
+      "metric_21": 19,
+      "metric_22": 18,
+      "metric_26": 89,
+      "metric_28": 73
     },
     {
       "gene_seqnames": "MAG06_964",
@@ -72,7 +83,23 @@
       "eggnog_X10": "021EQ@aproNOG,08V1U@bactNOG,179QQ@proNOG,COG1881@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "S",
-      "eggnog_X13": "PEBP family"
+      "eggnog_X13": "PEBP family",
+      "metric_4": 66,
+      "metric_5": 36,
+      "metric_8": 38,
+      "metric_12": 13,
+      "metric_13": 98,
+      "metric_15": 18,
+      "metric_16": 58,
+      "metric_18": 10,
+      "metric_19": 11,
+      "metric_20": 68,
+      "metric_23": 31,
+      "metric_24": 20,
+      "metric_25": 18,
+      "metric_26": 95,
+      "metric_28": 91,
+      "metric_29": 82
     }
   ],
   "diamond_track": [

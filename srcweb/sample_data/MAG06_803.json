@@ -38,7 +38,24 @@
       "eggnog_X10": "01Q6X@aproNOG,05D43@bactNOG,16PT9@proNOG,COG0404@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "E",
-      "eggnog_X13": "The glycine cleavage system catalyzes the degradation of glycine (By similarity)"
+      "eggnog_X13": "The glycine cleavage system catalyzes the degradation of glycine (By similarity)",
+      "metric_1": 12,
+      "metric_3": 50,
+      "metric_5": 21,
+      "metric_6": 80,
+      "metric_10": 92,
+      "metric_11": 65,
+      "metric_12": 66,
+      "metric_15": 38,
+      "metric_17": 44,
+      "metric_18": 31,
+      "metric_21": 52,
+      "metric_22": 67,
+      "metric_24": 37,
+      "metric_25": 24,
+      "metric_26": 95,
+      "metric_28": 82,
+      "metric_29": 60
     },
     {
       "gene_seqnames": "MAG06_803",
@@ -73,7 +90,18 @@
       "eggnog_X10": "01Y24@aproNOG,05KE9@bactNOG,17FGX@proNOG,COG0509@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "E",
-      "eggnog_X13": "The glycine cleavage system catalyzes the degradation of glycine. The H protein shuttles the methylamine group of glycine from the P protein to the T protein (By similarity)"
+      "eggnog_X13": "The glycine cleavage system catalyzes the degradation of glycine. The H protein shuttles the methylamine group of glycine from the P protein to the T protein (By similarity)",
+      "metric_2": 15,
+      "metric_6": 93,
+      "metric_9": 3,
+      "metric_10": 14,
+      "metric_16": 20,
+      "metric_18": 25,
+      "metric_20": 20,
+      "metric_21": 21,
+      "metric_22": 93,
+      "metric_28": 24,
+      "metric_29": 20
     },
     {
       "gene_seqnames": "MAG06_803",
@@ -109,7 +137,19 @@
       "eggnog_X10": "01RRK@aproNOG,05CBI@bactNOG,16QJM@proNOG,COG0403@NOG,COG1003@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "E",
-      "eggnog_X13": "The glycine cleavage system catalyzes the degradation of glycine. The P protein binds the alpha-amino group of glycine through its pyridoxal phosphate cofactor"
+      "eggnog_X13": "The glycine cleavage system catalyzes the degradation of glycine. The P protein binds the alpha-amino group of glycine through its pyridoxal phosphate cofactor",
+      "metric_1": 17,
+      "metric_5": 46,
+      "metric_7": 90,
+      "metric_10": 82,
+      "metric_14": 84,
+      "metric_15": 77,
+      "metric_22": 30,
+      "metric_23": 54,
+      "metric_24": 51,
+      "metric_25": 27,
+      "metric_26": 12,
+      "metric_29": 94
     }
   ],
   "diamond_track": [

@@ -35,7 +35,18 @@
       "eggnog_X10": "01RAR@aproNOG,05DBF@bactNOG,16QV8@proNOG,COG0614@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "P",
-      "eggnog_X13": "Periplasmic binding protein"
+      "eggnog_X13": "Periplasmic binding protein",
+      "metric_4": 73,
+      "metric_5": 5,
+      "metric_6": 59,
+      "metric_8": 6,
+      "metric_10": 70,
+      "metric_22": 88,
+      "metric_24": 6,
+      "metric_25": 75,
+      "metric_26": 22,
+      "metric_29": 53,
+      "metric_30": 16
     },
     {
       "gene_seqnames": "MAG06_771",
@@ -69,7 +80,23 @@
       "eggnog_X10": "01T77@aproNOG,05EHG@bactNOG,16Q2S@proNOG,COG0609@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "P",
-      "eggnog_X13": "permease protein"
+      "eggnog_X13": "permease protein",
+      "metric_1": 31,
+      "metric_4": 92,
+      "metric_5": 96,
+      "metric_6": 85,
+      "metric_7": 33,
+      "metric_9": 9,
+      "metric_12": 48,
+      "metric_16": 88,
+      "metric_18": 38,
+      "metric_19": 6,
+      "metric_20": 88,
+      "metric_22": 61,
+      "metric_24": 43,
+      "metric_25": 75,
+      "metric_27": 86,
+      "metric_29": 50
     },
     {
       "gene_seqnames": "MAG06_771",
@@ -103,7 +130,20 @@
       "eggnog_X10": "01QGF@aproNOG,05E0A@bactNOG,16Q91@proNOG,COG1120@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "P",
-      "eggnog_X13": "ABC transporter"
+      "eggnog_X13": "ABC transporter",
+      "metric_2": 61,
+      "metric_7": 30,
+      "metric_11": 34,
+      "metric_12": 72,
+      "metric_13": 16,
+      "metric_14": 34,
+      "metric_15": 97,
+      "metric_20": 40,
+      "metric_21": 10,
+      "metric_22": 49,
+      "metric_24": 30,
+      "metric_26": 62,
+      "metric_30": 92
     }
   ],
   "diamond_track": [

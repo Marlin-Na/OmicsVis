@@ -34,7 +34,20 @@
       "eggnog_X10": "08XBR@bactNOG,11XTW@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "S",
-      "eggnog_X13": "Phage tail tape measure protein"
+      "eggnog_X13": "Phage tail tape measure protein",
+      "metric_2": 40,
+      "metric_7": 62,
+      "metric_18": 33,
+      "metric_19": 30,
+      "metric_21": 12,
+      "metric_23": 73,
+      "metric_24": 1,
+      "metric_25": 70,
+      "metric_26": 27,
+      "metric_27": 63,
+      "metric_28": 84,
+      "metric_29": 95,
+      "metric_30": 52
     },
     {
       "gene_seqnames": "MAG06_299",
@@ -64,7 +77,20 @@
       "eggnog_X4": 216.9,
       "eggnog_X9": "bactNOG[38]",
       "eggnog_X10": "0271Z@aproNOG,06RQK@bactNOG,0YH77@NOG,17ZIH@proNOG",
-      "eggnog_X11": "NA|NA|NA"
+      "eggnog_X11": "NA|NA|NA",
+      "metric_3": 79,
+      "metric_5": 48,
+      "metric_7": 82,
+      "metric_8": 43,
+      "metric_13": 75,
+      "metric_15": 94,
+      "metric_20": 56,
+      "metric_22": 14,
+      "metric_23": 98,
+      "metric_24": 21,
+      "metric_25": 17,
+      "metric_28": 28,
+      "metric_30": 14
     }
   ],
   "diamond_track": [

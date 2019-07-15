@@ -35,7 +35,20 @@
       "eggnog_X10": "025MQ@aproNOG,08K07@bactNOG,17Z8G@proNOG,COG1653@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "G",
-      "eggnog_X13": "extracellular solute-binding protein, family 1"
+      "eggnog_X13": "extracellular solute-binding protein, family 1",
+      "metric_1": 56,
+      "metric_6": 35,
+      "metric_7": 41,
+      "metric_8": 30,
+      "metric_10": 59,
+      "metric_12": 60,
+      "metric_18": 62,
+      "metric_19": 6,
+      "metric_21": 48,
+      "metric_22": 99,
+      "metric_26": 77,
+      "metric_27": 17,
+      "metric_28": 1
     },
     {
       "gene_seqnames": "MAG06_296",
@@ -69,7 +82,21 @@
       "eggnog_X10": "0269Q@aproNOG,08YFH@bactNOG,17XFN@proNOG,COG1175@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "P",
-      "eggnog_X13": "Binding-protein-dependent transport systems, inner membrane component"
+      "eggnog_X13": "Binding-protein-dependent transport systems, inner membrane component",
+      "metric_4": 75,
+      "metric_6": 74,
+      "metric_7": 41,
+      "metric_8": 14,
+      "metric_9": 9,
+      "metric_11": 57,
+      "metric_14": 72,
+      "metric_15": 2,
+      "metric_17": 4,
+      "metric_20": 19,
+      "metric_21": 3,
+      "metric_24": 96,
+      "metric_27": 12,
+      "metric_30": 2
     },
     {
       "gene_seqnames": "MAG06_296",
@@ -103,7 +130,16 @@
       "eggnog_X10": "026QP@aproNOG,05EH6@bactNOG,16PCH@proNOG,COG0395@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "P",
-      "eggnog_X13": "Binding-protein-dependent transport systems inner membrane component"
+      "eggnog_X13": "Binding-protein-dependent transport systems inner membrane component",
+      "metric_1": 27,
+      "metric_5": 86,
+      "metric_11": 4,
+      "metric_12": 35,
+      "metric_16": 46,
+      "metric_18": 41,
+      "metric_19": 24,
+      "metric_25": 95,
+      "metric_26": 64
     }
   ],
   "diamond_track": [

@@ -38,7 +38,22 @@
       "eggnog_X10": "01R6B@aproNOG,05EAH@bactNOG,16SC4@proNOG,COG0142@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "H",
-      "eggnog_X13": "synthase"
+      "eggnog_X13": "synthase",
+      "metric_4": 6,
+      "metric_5": 29,
+      "metric_7": 11,
+      "metric_8": 34,
+      "metric_11": 21,
+      "metric_14": 88,
+      "metric_15": 70,
+      "metric_16": 87,
+      "metric_20": 96,
+      "metric_21": 83,
+      "metric_22": 17,
+      "metric_23": 90,
+      "metric_24": 47,
+      "metric_28": 93,
+      "metric_30": 3
     },
     {
       "gene_seqnames": "MAG06_289",
@@ -71,7 +86,17 @@
       "eggnog_X10": "021IX@aproNOG,05Y8C@bactNOG,1263M@NOG,17KKW@proNOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "S",
-      "eggnog_X13": "Domain of unknown function (DUF2007)"
+      "eggnog_X13": "Domain of unknown function (DUF2007)",
+      "metric_1": 57,
+      "metric_4": 10,
+      "metric_5": 17,
+      "metric_9": 67,
+      "metric_15": 54,
+      "metric_18": 27,
+      "metric_20": 50,
+      "metric_28": 18,
+      "metric_29": 63,
+      "metric_30": 64
     },
     {
       "gene_seqnames": "MAG06_289",
@@ -105,7 +130,22 @@
       "eggnog_X10": "01YCZ@aproNOG,07U2V@bactNOG,173NW@proNOG,COG4123@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "S",
-      "eggnog_X13": "methyltransferase small"
+      "eggnog_X13": "methyltransferase small",
+      "metric_3": 47,
+      "metric_4": 95,
+      "metric_5": 61,
+      "metric_6": 5,
+      "metric_7": 87,
+      "metric_9": 43,
+      "metric_11": 30,
+      "metric_13": 58,
+      "metric_14": 92,
+      "metric_16": 76,
+      "metric_21": 4,
+      "metric_24": 25,
+      "metric_25": 42,
+      "metric_26": 59,
+      "metric_28": 63
     },
     {
       "gene_seqnames": "MAG06_289",
@@ -141,7 +181,17 @@
       "eggnog_X10": "01QFY@aproNOG,05D07@bactNOG,16QK0@proNOG,COG0616@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "O, U",
-      "eggnog_X13": "peptidase"
+      "eggnog_X13": "peptidase",
+      "metric_1": 25,
+      "metric_2": 73,
+      "metric_6": 74,
+      "metric_10": 89,
+      "metric_16": 67,
+      "metric_17": 91,
+      "metric_20": 50,
+      "metric_21": 7,
+      "metric_25": 82,
+      "metric_27": 22
     }
   ],
   "diamond_track": [

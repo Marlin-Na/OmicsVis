@@ -35,7 +35,17 @@
       "eggnog_X10": "01QMU@aproNOG,05C5K@bactNOG,16QJ8@proNOG,COG0404@NOG,COG0665@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "E",
-      "eggnog_X13": "aminomethyl transferase"
+      "eggnog_X13": "aminomethyl transferase",
+      "metric_3": 61,
+      "metric_6": 44,
+      "metric_8": 37,
+      "metric_15": 7,
+      "metric_17": 51,
+      "metric_19": 30,
+      "metric_21": 7,
+      "metric_23": 54,
+      "metric_25": 17,
+      "metric_29": 68
     },
     {
       "gene_seqnames": "MAG06_1045",
@@ -59,7 +69,21 @@
       "gene_sscore": "8.71",
       "gene_rscore": "5.09",
       "gene_uscore": "1.40",
-      "gene_tscore": "3.37"
+      "gene_tscore": "3.37",
+      "metric_3": 20,
+      "metric_4": 39,
+      "metric_5": 51,
+      "metric_6": 39,
+      "metric_12": 28,
+      "metric_15": 9,
+      "metric_16": 48,
+      "metric_18": 65,
+      "metric_19": 39,
+      "metric_23": 43,
+      "metric_24": 7,
+      "metric_27": 40,
+      "metric_29": 8,
+      "metric_30": 50
     },
     {
       "gene_seqnames": "MAG06_1045",
@@ -92,7 +116,21 @@
       "eggnog_X10": "0252M@aproNOG,06CSM@bactNOG,17US2@proNOG,COG4423@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "S",
-      "eggnog_X13": "Rv0623-like transcription factor"
+      "eggnog_X13": "Rv0623-like transcription factor",
+      "metric_1": 43,
+      "metric_2": 6,
+      "metric_4": 87,
+      "metric_10": 9,
+      "metric_12": 44,
+      "metric_15": 99,
+      "metric_17": 5,
+      "metric_19": 12,
+      "metric_20": 23,
+      "metric_24": 54,
+      "metric_25": 57,
+      "metric_26": 1,
+      "metric_27": 29,
+      "metric_28": 47
     },
     {
       "gene_seqnames": "MAG06_1045",
@@ -116,7 +154,21 @@
       "gene_sscore": "13.17",
       "gene_rscore": "7.63",
       "gene_uscore": "0.62",
-      "gene_tscore": "3.65"
+      "gene_tscore": "3.65",
+      "metric_4": 29,
+      "metric_11": 13,
+      "metric_14": 54,
+      "metric_15": 20,
+      "metric_16": 94,
+      "metric_17": 64,
+      "metric_19": 44,
+      "metric_20": 51,
+      "metric_21": 18,
+      "metric_23": 64,
+      "metric_25": 99,
+      "metric_26": 89,
+      "metric_28": 29,
+      "metric_30": 82
     }
   ],
   "diamond_track": [

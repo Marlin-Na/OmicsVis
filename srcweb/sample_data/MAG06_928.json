@@ -36,7 +36,24 @@
       "eggnog_X10": "COG0834@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "E",
-      "eggnog_X13": "(ABC) transporter"
+      "eggnog_X13": "(ABC) transporter",
+      "metric_1": 35,
+      "metric_5": 84,
+      "metric_7": 47,
+      "metric_8": 15,
+      "metric_9": 73,
+      "metric_13": 78,
+      "metric_14": 15,
+      "metric_15": 35,
+      "metric_17": 23,
+      "metric_20": 52,
+      "metric_21": 18,
+      "metric_22": 95,
+      "metric_23": 45,
+      "metric_24": 84,
+      "metric_25": 25,
+      "metric_27": 67,
+      "metric_29": 81
     },
     {
       "gene_seqnames": "MAG06_928",
@@ -70,7 +87,14 @@
       "eggnog_X10": "01TTB@aproNOG,05CDA@bactNOG,16PHM@proNOG,COG1126@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "E",
-      "eggnog_X13": "ABC transporter, (ATP-binding protein)"
+      "eggnog_X13": "ABC transporter, (ATP-binding protein)",
+      "metric_7": 98,
+      "metric_10": 11,
+      "metric_12": 48,
+      "metric_14": 39,
+      "metric_24": 35,
+      "metric_25": 88,
+      "metric_26": 56
     },
     {
       "gene_seqnames": "MAG06_928",
@@ -105,7 +129,23 @@
       "eggnog_X10": "01UQQ@aproNOG,08UXX@bactNOG,11IRP@NOG,17A6K@proNOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "E",
-      "eggnog_X13": "ABC transporter permease"
+      "eggnog_X13": "ABC transporter permease",
+      "metric_1": 90,
+      "metric_2": 14,
+      "metric_3": 71,
+      "metric_4": 9,
+      "metric_7": 78,
+      "metric_9": 72,
+      "metric_11": 94,
+      "metric_13": 66,
+      "metric_15": 16,
+      "metric_16": 27,
+      "metric_18": 62,
+      "metric_19": 49,
+      "metric_25": 21,
+      "metric_26": 66,
+      "metric_28": 11,
+      "metric_29": 8
     }
   ],
   "diamond_track": [

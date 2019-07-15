@@ -34,7 +34,19 @@
       "eggnog_X10": "01SXX@aproNOG,05E3Z@bactNOG,16RR3@proNOG,COG5338@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "S",
-      "eggnog_X13": "Uncharacterized protein conserved in bacteria (DUF2320)"
+      "eggnog_X13": "Uncharacterized protein conserved in bacteria (DUF2320)",
+      "metric_6": 59,
+      "metric_7": 86,
+      "metric_9": 24,
+      "metric_10": 77,
+      "metric_12": 43,
+      "metric_13": 43,
+      "metric_14": 70,
+      "metric_15": 15,
+      "metric_19": 21,
+      "metric_22": 85,
+      "metric_25": 63,
+      "metric_26": 53
     },
     {
       "gene_seqnames": "MAG06_7",
@@ -70,7 +82,20 @@
       "eggnog_X10": "01S2F@aproNOG,05C3Y@bactNOG,16PN0@proNOG,COG1210@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "M",
-      "eggnog_X13": "Utp--glucose-1-phosphate uridylyltransferase"
+      "eggnog_X13": "Utp--glucose-1-phosphate uridylyltransferase",
+      "metric_1": 43,
+      "metric_2": 74,
+      "metric_4": 90,
+      "metric_7": 59,
+      "metric_8": 78,
+      "metric_9": 60,
+      "metric_13": 62,
+      "metric_15": 50,
+      "metric_18": 92,
+      "metric_21": 17,
+      "metric_22": 40,
+      "metric_29": 14,
+      "metric_30": 83
     },
     {
       "gene_seqnames": "MAG06_7",
@@ -105,7 +130,17 @@
       "eggnog_X10": "01RGS@aproNOG,05CVE@bactNOG,16QBZ@proNOG,COG2951@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "M",
-      "eggnog_X13": "lytic murein transglycosylase"
+      "eggnog_X13": "lytic murein transglycosylase",
+      "metric_1": 15,
+      "metric_4": 84,
+      "metric_5": 65,
+      "metric_8": 93,
+      "metric_9": 46,
+      "metric_12": 84,
+      "metric_18": 27,
+      "metric_24": 59,
+      "metric_25": 43,
+      "metric_28": 95
     },
     {
       "gene_seqnames": "MAG06_7",
@@ -139,7 +174,19 @@
       "eggnog_X10": "01W4X@aproNOG,08TBS@bactNOG,1792E@proNOG,COG2845@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "S",
-      "eggnog_X13": "Protein of unknown function (DUF459)"
+      "eggnog_X13": "Protein of unknown function (DUF459)",
+      "metric_3": 5,
+      "metric_9": 49,
+      "metric_13": 26,
+      "metric_16": 44,
+      "metric_19": 51,
+      "metric_20": 77,
+      "metric_21": 21,
+      "metric_22": 29,
+      "metric_23": 4,
+      "metric_24": 31,
+      "metric_25": 6,
+      "metric_30": 96
     }
   ],
   "diamond_track": [

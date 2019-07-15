@@ -36,7 +36,23 @@
       "eggnog_X10": "01XPS@aproNOG,08UTZ@bactNOG,16SYW@proNOG,COG2376@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "G",
-      "eggnog_X13": "Dihydroxyacetone kinase"
+      "eggnog_X13": "Dihydroxyacetone kinase",
+      "metric_1": 14,
+      "metric_5": 8,
+      "metric_6": 68,
+      "metric_7": 83,
+      "metric_8": 71,
+      "metric_9": 7,
+      "metric_11": 21,
+      "metric_12": 56,
+      "metric_14": 96,
+      "metric_15": 4,
+      "metric_17": 89,
+      "metric_18": 49,
+      "metric_20": 20,
+      "metric_22": 7,
+      "metric_27": 76,
+      "metric_29": 43
     },
     {
       "gene_seqnames": "MAG06_436",
@@ -70,7 +86,18 @@
       "eggnog_X10": "01SE3@aproNOG,05CMT@bactNOG,16QFR@proNOG,COG2376@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "G",
-      "eggnog_X13": "Dihydroxyacetone kinase"
+      "eggnog_X13": "Dihydroxyacetone kinase",
+      "metric_2": 80,
+      "metric_4": 6,
+      "metric_5": 22,
+      "metric_11": 2,
+      "metric_12": 3,
+      "metric_15": 3,
+      "metric_19": 83,
+      "metric_25": 46,
+      "metric_27": 97,
+      "metric_28": 34,
+      "metric_30": 62
     },
     {
       "gene_seqnames": "MAG06_436",
@@ -104,7 +131,21 @@
       "eggnog_X10": "026H3@aproNOG,08M1S@bactNOG,0XRDJ@NOG,16SDG@proNOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "S",
-      "eggnog_X13": "Branched-chain amino acid transport system / permease component"
+      "eggnog_X13": "Branched-chain amino acid transport system / permease component",
+      "metric_1": 68,
+      "metric_8": 59,
+      "metric_10": 31,
+      "metric_11": 26,
+      "metric_14": 41,
+      "metric_17": 6,
+      "metric_18": 83,
+      "metric_21": 3,
+      "metric_22": 21,
+      "metric_23": 19,
+      "metric_24": 65,
+      "metric_26": 17,
+      "metric_28": 89,
+      "metric_29": 7
     }
   ],
   "diamond_track": [

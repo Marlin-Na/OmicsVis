@@ -35,7 +35,20 @@
       "eggnog_X10": "01TA0@aproNOG,08TCM@bactNOG,16TSN@proNOG,COG5501@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "S",
-      "eggnog_X13": "sulfur oxidation protein SoxZ"
+      "eggnog_X13": "sulfur oxidation protein SoxZ",
+      "metric_4": 71,
+      "metric_8": 81,
+      "metric_9": 94,
+      "metric_12": 18,
+      "metric_15": 47,
+      "metric_17": 91,
+      "metric_18": 48,
+      "metric_20": 45,
+      "metric_24": 31,
+      "metric_26": 17,
+      "metric_27": 66,
+      "metric_28": 7,
+      "metric_29": 34
     },
     {
       "gene_seqnames": "MAG06_149",
@@ -67,7 +80,25 @@
       "eggnog_X10": "01SXY@aproNOG,0842U@bactNOG,175CM@proNOG,COG0491@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "S",
-      "eggnog_X13": "Beta-lactamase domain protein"
+      "eggnog_X13": "Beta-lactamase domain protein",
+      "metric_1": 50,
+      "metric_2": 61,
+      "metric_3": 5,
+      "metric_4": 13,
+      "metric_8": 44,
+      "metric_9": 92,
+      "metric_12": 11,
+      "metric_13": 51,
+      "metric_14": 70,
+      "metric_16": 92,
+      "metric_18": 93,
+      "metric_23": 95,
+      "metric_24": 24,
+      "metric_25": 63,
+      "metric_26": 44,
+      "metric_27": 86,
+      "metric_28": 84,
+      "metric_29": 33
     }
   ],
   "diamond_track": [

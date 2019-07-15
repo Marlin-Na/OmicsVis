@@ -34,7 +34,16 @@
       "eggnog_X10": "01RC6@aproNOG,05DKB@bactNOG,16PVV@proNOG,COG2133@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "G",
-      "eggnog_X13": "Dehydrogenase"
+      "eggnog_X13": "Dehydrogenase",
+      "metric_1": 5,
+      "metric_2": 60,
+      "metric_8": 6,
+      "metric_12": 7,
+      "metric_14": 69,
+      "metric_17": 24,
+      "metric_20": 60,
+      "metric_27": 7,
+      "metric_29": 73
     },
     {
       "gene_seqnames": "MAG06_545",
@@ -70,7 +79,17 @@
       "eggnog_X10": "01RBD@aproNOG,05C1K@bactNOG,16PYM@proNOG,COG0380@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "G",
-      "eggnog_X13": "Alpha-alpha-trehalose-phosphate synthase"
+      "eggnog_X13": "Alpha-alpha-trehalose-phosphate synthase",
+      "metric_1": 34,
+      "metric_15": 35,
+      "metric_18": 68,
+      "metric_19": 50,
+      "metric_21": 92,
+      "metric_22": 81,
+      "metric_23": 31,
+      "metric_24": 18,
+      "metric_27": 61,
+      "metric_30": 96
     }
   ],
   "diamond_track": [

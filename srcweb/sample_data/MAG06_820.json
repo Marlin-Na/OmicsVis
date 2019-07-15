@@ -38,7 +38,21 @@
       "eggnog_X10": "02EF6@aproNOG,08JIU@bactNOG,173BB@proNOG,COG0046@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "F",
-      "eggnog_X13": "phosphoribosylformylglycinamidine synthase ii"
+      "eggnog_X13": "phosphoribosylformylglycinamidine synthase ii",
+      "metric_3": 32,
+      "metric_4": 80,
+      "metric_5": 12,
+      "metric_6": 86,
+      "metric_7": 83,
+      "metric_9": 48,
+      "metric_10": 3,
+      "metric_14": 5,
+      "metric_17": 42,
+      "metric_19": 31,
+      "metric_20": 30,
+      "metric_22": 5,
+      "metric_24": 67,
+      "metric_28": 59
     },
     {
       "gene_seqnames": "MAG06_820",
@@ -71,7 +85,21 @@
       "eggnog_X10": "021WJ@aproNOG,0607B@bactNOG,122XX@NOG,17P4C@proNOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "S",
-      "eggnog_X13": "Lipid A 3-O-deacylase (PagL)"
+      "eggnog_X13": "Lipid A 3-O-deacylase (PagL)",
+      "metric_2": 92,
+      "metric_3": 96,
+      "metric_4": 14,
+      "metric_7": 47,
+      "metric_8": 60,
+      "metric_9": 54,
+      "metric_10": 70,
+      "metric_16": 84,
+      "metric_18": 68,
+      "metric_22": 44,
+      "metric_24": 51,
+      "metric_26": 15,
+      "metric_27": 38,
+      "metric_30": 21
     },
     {
       "gene_seqnames": "MAG06_820",
@@ -105,7 +133,21 @@
       "eggnog_X10": "01SEQ@aproNOG,07SQD@bactNOG,16SNT@proNOG,COG1167@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "K",
-      "eggnog_X13": "Transcriptional regulator, gntR family"
+      "eggnog_X13": "Transcriptional regulator, gntR family",
+      "metric_2": 21,
+      "metric_5": 43,
+      "metric_7": 8,
+      "metric_9": 29,
+      "metric_11": 94,
+      "metric_12": 17,
+      "metric_16": 73,
+      "metric_18": 63,
+      "metric_19": 6,
+      "metric_22": 38,
+      "metric_25": 89,
+      "metric_26": 16,
+      "metric_29": 66,
+      "metric_30": 24
     }
   ],
   "diamond_track": [

@@ -37,7 +37,22 @@
       "eggnog_X10": "01RB8@aproNOG,05K85@bactNOG,17FJB@proNOG,COG0350@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "L",
-      "eggnog_X13": "Methyltransferase"
+      "eggnog_X13": "Methyltransferase",
+      "metric_3": 58,
+      "metric_4": 32,
+      "metric_5": 27,
+      "metric_6": 82,
+      "metric_10": 32,
+      "metric_12": 77,
+      "metric_13": 19,
+      "metric_15": 54,
+      "metric_16": 74,
+      "metric_19": 34,
+      "metric_20": 99,
+      "metric_24": 83,
+      "metric_26": 38,
+      "metric_28": 33,
+      "metric_30": 90
     },
     {
       "gene_seqnames": "MAG06_535",
@@ -69,7 +84,22 @@
       "eggnog_X10": "01XNI@aproNOG,08WNZ@bactNOG,17B70@proNOG,COG5488@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "S",
-      "eggnog_X13": "Integral membrane protein (DUF2244)"
+      "eggnog_X13": "Integral membrane protein (DUF2244)",
+      "metric_1": 45,
+      "metric_2": 22,
+      "metric_6": 23,
+      "metric_8": 63,
+      "metric_9": 56,
+      "metric_10": 71,
+      "metric_11": 16,
+      "metric_14": 86,
+      "metric_15": 65,
+      "metric_17": 49,
+      "metric_18": 52,
+      "metric_23": 60,
+      "metric_26": 36,
+      "metric_29": 21,
+      "metric_30": 25
     },
     {
       "gene_seqnames": "MAG06_535",
@@ -104,7 +134,19 @@
       "eggnog_X10": "01RE2@aproNOG,05CSM@bactNOG,16PCJ@proNOG,COG0177@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "L",
-      "eggnog_X13": "endonuclease III"
+      "eggnog_X13": "endonuclease III",
+      "metric_5": 89,
+      "metric_8": 92,
+      "metric_12": 34,
+      "metric_15": 47,
+      "metric_16": 75,
+      "metric_19": 79,
+      "metric_21": 25,
+      "metric_23": 62,
+      "metric_25": 10,
+      "metric_26": 93,
+      "metric_27": 42,
+      "metric_29": 64
     }
   ],
   "diamond_track": [

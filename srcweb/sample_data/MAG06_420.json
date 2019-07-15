@@ -36,7 +36,22 @@
       "eggnog_X10": "01RU8@aproNOG,05BZM@bactNOG,16PDF@proNOG,COG2183@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "K",
-      "eggnog_X13": "RNA binding S1 domain protein"
+      "eggnog_X13": "RNA binding S1 domain protein",
+      "metric_1": 41,
+      "metric_4": 84,
+      "metric_6": 39,
+      "metric_8": 69,
+      "metric_10": 69,
+      "metric_11": 17,
+      "metric_13": 16,
+      "metric_14": 94,
+      "metric_16": 61,
+      "metric_17": 73,
+      "metric_18": 8,
+      "metric_19": 86,
+      "metric_22": 93,
+      "metric_23": 26,
+      "metric_28": 62
     },
     {
       "gene_seqnames": "MAG06_420",
@@ -68,7 +83,22 @@
       "eggnog_X10": "02462@aproNOG,06C93@bactNOG,0Y3DM@NOG,17RHP@proNOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "S",
-      "eggnog_X13": "signal peptide protein"
+      "eggnog_X13": "signal peptide protein",
+      "metric_2": 46,
+      "metric_3": 23,
+      "metric_5": 61,
+      "metric_6": 91,
+      "metric_7": 41,
+      "metric_9": 52,
+      "metric_10": 24,
+      "metric_11": 23,
+      "metric_17": 88,
+      "metric_18": 17,
+      "metric_21": 38,
+      "metric_24": 7,
+      "metric_26": 11,
+      "metric_27": 72,
+      "metric_30": 14
     },
     {
       "gene_seqnames": "MAG06_420",
@@ -103,7 +133,20 @@
       "eggnog_X10": "01QVN@aproNOG,05C6Y@bactNOG,16PPW@proNOG,COG1004@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "M",
-      "eggnog_X13": "Udp-glucose 6-dehydrogenase"
+      "eggnog_X13": "Udp-glucose 6-dehydrogenase",
+      "metric_6": 90,
+      "metric_7": 89,
+      "metric_8": 26,
+      "metric_11": 60,
+      "metric_12": 44,
+      "metric_16": 39,
+      "metric_17": 89,
+      "metric_22": 1,
+      "metric_23": 2,
+      "metric_24": 92,
+      "metric_26": 51,
+      "metric_27": 54,
+      "metric_29": 47
     },
     {
       "gene_seqnames": "MAG06_420",
@@ -138,7 +181,16 @@
       "eggnog_X10": "01SSH@aproNOG,05C1B@bactNOG,16RRS@proNOG,COG1088@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "M",
-      "eggnog_X13": "nad-dependent epimerase dehydratase"
+      "eggnog_X13": "nad-dependent epimerase dehydratase",
+      "metric_1": 33,
+      "metric_3": 69,
+      "metric_5": 30,
+      "metric_6": 37,
+      "metric_13": 59,
+      "metric_14": 30,
+      "metric_16": 80,
+      "metric_17": 7,
+      "metric_18": 9
     }
   ],
   "diamond_track": [

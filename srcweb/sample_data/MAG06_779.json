@@ -37,7 +37,22 @@
       "eggnog_X10": "01QFF@aproNOG,05BZS@bactNOG,16PBH@proNOG,COG0841@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "P",
-      "eggnog_X13": "acriflavin resistance protein"
+      "eggnog_X13": "acriflavin resistance protein",
+      "metric_1": 58,
+      "metric_2": 92,
+      "metric_3": 28,
+      "metric_4": 57,
+      "metric_6": 69,
+      "metric_8": 51,
+      "metric_14": 53,
+      "metric_15": 62,
+      "metric_16": 20,
+      "metric_17": 24,
+      "metric_22": 33,
+      "metric_26": 41,
+      "metric_27": 55,
+      "metric_29": 99,
+      "metric_30": 87
     },
     {
       "gene_seqnames": "MAG06_779",
@@ -73,7 +88,20 @@
       "eggnog_X10": "01R5V@aproNOG,05C9Y@bactNOG,16Q9U@proNOG,COG0624@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "E",
-      "eggnog_X13": "Catalyzes the hydrolysis of N-succinyl-L,L- diaminopimelic acid (SDAP), forming succinate and LL-2,6- diaminoheptanedioate (DAP), an intermediate involved in the bacterial biosynthesis of lysine and meso-diaminopimelic acid, an essential component of bacterial cell walls (By similarity)"
+      "eggnog_X13": "Catalyzes the hydrolysis of N-succinyl-L,L- diaminopimelic acid (SDAP), forming succinate and LL-2,6- diaminoheptanedioate (DAP), an intermediate involved in the bacterial biosynthesis of lysine and meso-diaminopimelic acid, an essential component of bacterial cell walls (By similarity)",
+      "metric_1": 69,
+      "metric_3": 74,
+      "metric_4": 92,
+      "metric_7": 87,
+      "metric_8": 95,
+      "metric_10": 12,
+      "metric_15": 23,
+      "metric_17": 86,
+      "metric_18": 3,
+      "metric_20": 97,
+      "metric_21": 14,
+      "metric_25": 21,
+      "metric_27": 83
     },
     {
       "gene_seqnames": "MAG06_779",
@@ -103,7 +131,20 @@
       "eggnog_X4": 358.6,
       "eggnog_X9": "bactNOG[38]",
       "eggnog_X10": "022Z3@aproNOG,05VVR@bactNOG,12BIC@NOG,17Q8U@proNOG",
-      "eggnog_X11": "NA|NA|NA"
+      "eggnog_X11": "NA|NA|NA",
+      "metric_2": 68,
+      "metric_4": 26,
+      "metric_5": 40,
+      "metric_6": 38,
+      "metric_11": 73,
+      "metric_13": 67,
+      "metric_14": 27,
+      "metric_18": 95,
+      "metric_20": 81,
+      "metric_22": 81,
+      "metric_27": 60,
+      "metric_28": 47,
+      "metric_29": 76
     }
   ],
   "diamond_track": [

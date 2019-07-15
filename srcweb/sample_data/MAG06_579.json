@@ -35,7 +35,20 @@
       "eggnog_X10": "01V7G@aproNOG,08PY4@bactNOG,10K8B@NOG,16SJ4@proNOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "T",
-      "eggnog_X13": "Adenylate Guanylate cyclase"
+      "eggnog_X13": "Adenylate Guanylate cyclase",
+      "metric_1": 63,
+      "metric_2": 56,
+      "metric_4": 12,
+      "metric_5": 24,
+      "metric_6": 2,
+      "metric_7": 73,
+      "metric_8": 30,
+      "metric_10": 28,
+      "metric_16": 23,
+      "metric_17": 38,
+      "metric_19": 80,
+      "metric_24": 92,
+      "metric_30": 61
     },
     {
       "gene_seqnames": "MAG06_579",
@@ -70,7 +83,18 @@
       "eggnog_X10": "02E7J@aproNOG,08IJ1@bactNOG,172SM@proNOG,COG0677@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "M",
-      "eggnog_X13": "Dehydrogenase"
+      "eggnog_X13": "Dehydrogenase",
+      "metric_2": 54,
+      "metric_4": 68,
+      "metric_5": 19,
+      "metric_6": 82,
+      "metric_8": 5,
+      "metric_9": 33,
+      "metric_15": 27,
+      "metric_18": 9,
+      "metric_19": 70,
+      "metric_20": 99,
+      "metric_23": 55
     },
     {
       "gene_seqnames": "MAG06_579",
@@ -103,7 +127,18 @@
       "eggnog_X10": "01TBD@aproNOG,05F8Y@bactNOG,0XS2W@NOG,16SZ9@proNOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "S",
-      "eggnog_X13": "Adenylate cyclase protein"
+      "eggnog_X13": "Adenylate cyclase protein",
+      "metric_1": 30,
+      "metric_5": 36,
+      "metric_6": 66,
+      "metric_7": 84,
+      "metric_10": 51,
+      "metric_13": 10,
+      "metric_18": 33,
+      "metric_19": 7,
+      "metric_22": 65,
+      "metric_24": 6,
+      "metric_28": 98
     },
     {
       "gene_seqnames": "MAG06_579",
@@ -136,7 +171,19 @@
       "eggnog_X10": "01T3X@aproNOG,05ET2@bactNOG,176UD@proNOG,COG1235@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "S",
-      "eggnog_X13": "metal-dependent hydrolase of the beta-lactamase superfamily"
+      "eggnog_X13": "metal-dependent hydrolase of the beta-lactamase superfamily",
+      "metric_1": 56,
+      "metric_3": 43,
+      "metric_5": 12,
+      "metric_6": 6,
+      "metric_10": 74,
+      "metric_12": 80,
+      "metric_17": 74,
+      "metric_18": 38,
+      "metric_22": 19,
+      "metric_27": 55,
+      "metric_28": 86,
+      "metric_29": 56
     },
     {
       "gene_seqnames": "MAG06_579",
@@ -168,7 +215,19 @@
       "eggnog_X10": "01Y21@aproNOG,05HWX@bactNOG,11N7G@NOG,17C74@proNOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "S",
-      "eggnog_X13": "Inherit from NOG: Polysaccharide deacetylase"
+      "eggnog_X13": "Inherit from NOG: Polysaccharide deacetylase",
+      "metric_1": 41,
+      "metric_3": 34,
+      "metric_5": 93,
+      "metric_7": 52,
+      "metric_10": 71,
+      "metric_15": 93,
+      "metric_18": 28,
+      "metric_21": 27,
+      "metric_22": 5,
+      "metric_23": 95,
+      "metric_24": 33,
+      "metric_29": 65
     }
   ],
   "diamond_track": [

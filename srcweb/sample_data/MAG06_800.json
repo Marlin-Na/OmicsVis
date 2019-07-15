@@ -37,7 +37,17 @@
       "eggnog_X10": "01R6S@aproNOG,05CER@bactNOG,16PUC@proNOG,COG0439@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "I",
-      "eggnog_X13": "acetyl-CoA carboxylase, biotin carboxylase"
+      "eggnog_X13": "acetyl-CoA carboxylase, biotin carboxylase",
+      "metric_1": 59,
+      "metric_8": 47,
+      "metric_9": 91,
+      "metric_15": 97,
+      "metric_21": 30,
+      "metric_22": 32,
+      "metric_23": 48,
+      "metric_27": 79,
+      "metric_29": 46,
+      "metric_30": 13
     },
     {
       "gene_seqnames": "MAG06_800",
@@ -72,7 +82,18 @@
       "eggnog_X10": "01QA6@aproNOG,08R4Z@bactNOG,177SF@proNOG,COG2360@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "O",
-      "eggnog_X13": "Functions in the N-end rule pathway of protein degradation where it conjugates Leu, Phe and, less efficiently, Met from aminoacyl-tRNAs to the N-termini of proteins containing an N-terminal arginine or lysine (By similarity)"
+      "eggnog_X13": "Functions in the N-end rule pathway of protein degradation where it conjugates Leu, Phe and, less efficiently, Met from aminoacyl-tRNAs to the N-termini of proteins containing an N-terminal arginine or lysine (By similarity)",
+      "metric_1": 77,
+      "metric_3": 66,
+      "metric_5": 92,
+      "metric_10": 98,
+      "metric_14": 60,
+      "metric_18": 77,
+      "metric_20": 22,
+      "metric_21": 83,
+      "metric_22": 11,
+      "metric_24": 37,
+      "metric_27": 87
     },
     {
       "gene_seqnames": "MAG06_800",
@@ -105,7 +126,20 @@
       "eggnog_X10": "01ZIF@aproNOG,05N1B@bactNOG,17GAD@proNOG,COG4765@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "S",
-      "eggnog_X13": "Uncharacterized protein conserved in bacteria (DUF2155)"
+      "eggnog_X13": "Uncharacterized protein conserved in bacteria (DUF2155)",
+      "metric_1": 45,
+      "metric_2": 77,
+      "metric_4": 29,
+      "metric_8": 91,
+      "metric_10": 93,
+      "metric_11": 13,
+      "metric_13": 86,
+      "metric_16": 32,
+      "metric_17": 43,
+      "metric_22": 42,
+      "metric_27": 5,
+      "metric_28": 95,
+      "metric_29": 83
     },
     {
       "gene_seqnames": "MAG06_800",
@@ -139,7 +173,20 @@
       "eggnog_X10": "0206V@aproNOG,05P11@bactNOG,17G60@proNOG,COG3761@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "C",
-      "eggnog_X13": "NADH ubiquinone oxidoreductase 17.2 kD subunit"
+      "eggnog_X13": "NADH ubiquinone oxidoreductase 17.2 kD subunit",
+      "metric_1": 99,
+      "metric_2": 88,
+      "metric_4": 50,
+      "metric_8": 41,
+      "metric_12": 10,
+      "metric_15": 73,
+      "metric_19": 68,
+      "metric_21": 47,
+      "metric_23": 80,
+      "metric_24": 90,
+      "metric_25": 90,
+      "metric_26": 70,
+      "metric_27": 76
     }
   ],
   "diamond_track": [

@@ -35,7 +35,17 @@
       "eggnog_X10": "021RD@aproNOG,05WAD@bactNOG,17M7X@proNOG,COG5375@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "S",
-      "eggnog_X13": "Pfam:DUF1239"
+      "eggnog_X13": "Pfam:DUF1239",
+      "metric_1": 82,
+      "metric_2": 72,
+      "metric_5": 62,
+      "metric_6": 3,
+      "metric_10": 67,
+      "metric_11": 12,
+      "metric_13": 34,
+      "metric_15": 39,
+      "metric_25": 18,
+      "metric_29": 39
     },
     {
       "gene_seqnames": "MAG06_765",
@@ -70,7 +80,20 @@
       "eggnog_X10": "01UQR@aproNOG,05D07@bactNOG,16QK0@proNOG,COG0616@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "O",
-      "eggnog_X13": "Signal peptide peptidase, SppA"
+      "eggnog_X13": "Signal peptide peptidase, SppA",
+      "metric_4": 95,
+      "metric_5": 84,
+      "metric_6": 97,
+      "metric_7": 17,
+      "metric_8": 6,
+      "metric_10": 19,
+      "metric_11": 33,
+      "metric_12": 27,
+      "metric_18": 15,
+      "metric_20": 31,
+      "metric_21": 26,
+      "metric_22": 58,
+      "metric_23": 6
     }
   ],
   "diamond_track": [

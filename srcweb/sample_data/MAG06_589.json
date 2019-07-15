@@ -26,7 +26,17 @@
       "gene_sscore": "9.25",
       "gene_rscore": "7.63",
       "gene_uscore": "-1.36",
-      "gene_tscore": "3.65"
+      "gene_tscore": "3.65",
+      "metric_2": 48,
+      "metric_7": 80,
+      "metric_10": 49,
+      "metric_11": 96,
+      "metric_14": 81,
+      "metric_19": 51,
+      "metric_21": 80,
+      "metric_23": 34,
+      "metric_28": 95,
+      "metric_29": 85
     },
     {
       "gene_seqnames": "MAG06_589",
@@ -61,7 +71,22 @@
       "eggnog_X10": "01QVQ@aproNOG,05CZ8@bactNOG,16QFW@proNOG,COG0592@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "L",
-      "eggnog_X13": "DNA polymerase III is a complex, multichain enzyme responsible for most of the replicative synthesis in bacteria. This DNA polymerase also exhibits 3' to 5' exonuclease activity. The beta chain is required for initiation of replication once it is clamped onto DNA, it slides freely (bidirectional and ATP- independent) along duplex DNA (By similarity)"
+      "eggnog_X13": "DNA polymerase III is a complex, multichain enzyme responsible for most of the replicative synthesis in bacteria. This DNA polymerase also exhibits 3' to 5' exonuclease activity. The beta chain is required for initiation of replication once it is clamped onto DNA, it slides freely (bidirectional and ATP- independent) along duplex DNA (By similarity)",
+      "metric_2": 86,
+      "metric_3": 74,
+      "metric_5": 45,
+      "metric_11": 42,
+      "metric_12": 44,
+      "metric_16": 60,
+      "metric_18": 63,
+      "metric_20": 37,
+      "metric_21": 54,
+      "metric_24": 72,
+      "metric_25": 30,
+      "metric_26": 96,
+      "metric_27": 27,
+      "metric_29": 8,
+      "metric_30": 43
     },
     {
       "gene_seqnames": "MAG06_589",
@@ -96,7 +121,22 @@
       "eggnog_X10": "01QPE@aproNOG,05CU0@bactNOG,16PCW@proNOG,COG0313@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "S",
-      "eggnog_X13": "Catalyzes the 2'-O-methylation of the ribose of cytidine 1402 (C1402) in 16S rRNA (By similarity)"
+      "eggnog_X13": "Catalyzes the 2'-O-methylation of the ribose of cytidine 1402 (C1402) in 16S rRNA (By similarity)",
+      "metric_1": 28,
+      "metric_2": 68,
+      "metric_3": 19,
+      "metric_4": 31,
+      "metric_5": 96,
+      "metric_15": 7,
+      "metric_17": 40,
+      "metric_18": 19,
+      "metric_19": 98,
+      "metric_20": 17,
+      "metric_22": 39,
+      "metric_26": 5,
+      "metric_28": 46,
+      "metric_29": 46,
+      "metric_30": 98
     }
   ],
   "diamond_track": [

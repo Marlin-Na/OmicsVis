@@ -36,7 +36,22 @@
       "eggnog_X10": "02E83@aproNOG,08IJ9@bactNOG,172T7@proNOG,COG3839@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "G",
-      "eggnog_X13": "ABC transporter"
+      "eggnog_X13": "ABC transporter",
+      "metric_1": 86,
+      "metric_4": 32,
+      "metric_5": 78,
+      "metric_8": 27,
+      "metric_9": 36,
+      "metric_10": 51,
+      "metric_12": 25,
+      "metric_15": 74,
+      "metric_16": 49,
+      "metric_17": 59,
+      "metric_23": 54,
+      "metric_24": 94,
+      "metric_26": 98,
+      "metric_28": 98,
+      "metric_30": 86
     },
     {
       "gene_seqnames": "MAG06_929",
@@ -70,7 +85,17 @@
       "eggnog_X10": "01S5W@aproNOG,05EB1@bactNOG,16S8U@proNOG,COG0395@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "G",
-      "eggnog_X13": "Binding-protein-dependent transport systems inner membrane component"
+      "eggnog_X13": "Binding-protein-dependent transport systems inner membrane component",
+      "metric_4": 13,
+      "metric_5": 50,
+      "metric_6": 3,
+      "metric_7": 99,
+      "metric_8": 85,
+      "metric_9": 88,
+      "metric_13": 16,
+      "metric_25": 69,
+      "metric_29": 3,
+      "metric_30": 5
     },
     {
       "gene_seqnames": "MAG06_929",
@@ -105,7 +130,19 @@
       "eggnog_X10": "01SB4@aproNOG,05F0P@bactNOG,16W58@proNOG,COG1175@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "G",
-      "eggnog_X13": "ABC transporter (permease)"
+      "eggnog_X13": "ABC transporter (permease)",
+      "metric_2": 91,
+      "metric_3": 79,
+      "metric_6": 23,
+      "metric_8": 96,
+      "metric_9": 60,
+      "metric_13": 5,
+      "metric_15": 27,
+      "metric_16": 83,
+      "metric_20": 56,
+      "metric_22": 26,
+      "metric_27": 75,
+      "metric_29": 86
     },
     {
       "gene_seqnames": "MAG06_929",
@@ -139,7 +176,19 @@
       "eggnog_X10": "01SVN@aproNOG,05XN3@bactNOG,0XPV5@NOG,16T3Q@proNOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "G",
-      "eggnog_X13": "extracellular solute-binding protein, family 1"
+      "eggnog_X13": "extracellular solute-binding protein, family 1",
+      "metric_1": 9,
+      "metric_2": 88,
+      "metric_5": 9,
+      "metric_8": 54,
+      "metric_10": 67,
+      "metric_12": 48,
+      "metric_13": 36,
+      "metric_15": 75,
+      "metric_25": 72,
+      "metric_26": 14,
+      "metric_27": 13,
+      "metric_28": 3
     }
   ],
   "diamond_track": [

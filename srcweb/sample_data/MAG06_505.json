@@ -32,7 +32,17 @@
       "eggnog_X4": 187.2,
       "eggnog_X9": "bactNOG[38]",
       "eggnog_X10": "01VBW@aproNOG,08R1V@bactNOG,11F3N@NOG,177I7@proNOG",
-      "eggnog_X11": "NA|NA|NA"
+      "eggnog_X11": "NA|NA|NA",
+      "metric_3": 62,
+      "metric_6": 81,
+      "metric_8": 24,
+      "metric_14": 93,
+      "metric_18": 5,
+      "metric_20": 86,
+      "metric_24": 86,
+      "metric_25": 86,
+      "metric_28": 73,
+      "metric_29": 84
     },
     {
       "gene_seqnames": "MAG06_505",
@@ -65,7 +75,20 @@
       "eggnog_X10": "05GVB@bactNOG,0EQNG@cloNOG,0NFTN@firmNOG,0YVZX@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "L",
-      "eggnog_X13": "Inherit from firmNOG: Replication protein"
+      "eggnog_X13": "Inherit from firmNOG: Replication protein",
+      "metric_1": 50,
+      "metric_8": 23,
+      "metric_13": 25,
+      "metric_14": 26,
+      "metric_16": 6,
+      "metric_17": 68,
+      "metric_19": 5,
+      "metric_22": 86,
+      "metric_24": 36,
+      "metric_25": 54,
+      "metric_28": 42,
+      "metric_29": 84,
+      "metric_30": 68
     },
     {
       "gene_seqnames": "MAG06_505",
@@ -89,7 +112,21 @@
       "gene_sscore": "2.83",
       "gene_rscore": "0.00",
       "gene_uscore": "-1.78",
-      "gene_tscore": "4.61"
+      "gene_tscore": "4.61",
+      "metric_3": 22,
+      "metric_8": 92,
+      "metric_12": 50,
+      "metric_14": 48,
+      "metric_15": 29,
+      "metric_17": 59,
+      "metric_18": 69,
+      "metric_21": 1,
+      "metric_22": 56,
+      "metric_23": 92,
+      "metric_24": 22,
+      "metric_25": 5,
+      "metric_26": 31,
+      "metric_27": 64
     }
   ],
   "diamond_track": [

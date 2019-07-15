@@ -37,7 +37,18 @@
       "eggnog_X10": "01QIW@aproNOG,05DNJ@bactNOG,16PQE@proNOG,COG1066@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "O",
-      "eggnog_X13": "May play a role in the repair of endogenous alkylation damage (By similarity)"
+      "eggnog_X13": "May play a role in the repair of endogenous alkylation damage (By similarity)",
+      "metric_1": 10,
+      "metric_2": 78,
+      "metric_7": 69,
+      "metric_9": 78,
+      "metric_11": 28,
+      "metric_12": 81,
+      "metric_16": 90,
+      "metric_17": 11,
+      "metric_19": 51,
+      "metric_21": 89,
+      "metric_29": 73
     },
     {
       "gene_seqnames": "MAG06_33",
@@ -71,7 +82,20 @@
       "eggnog_X10": "01XD2@aproNOG,07Y26@bactNOG,16VWC@proNOG,COG1286@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "S",
-      "eggnog_X13": "Colicin v production protein"
+      "eggnog_X13": "Colicin v production protein",
+      "metric_1": 5,
+      "metric_2": 6,
+      "metric_5": 14,
+      "metric_8": 96,
+      "metric_10": 64,
+      "metric_12": 78,
+      "metric_17": 28,
+      "metric_18": 65,
+      "metric_20": 19,
+      "metric_23": 1,
+      "metric_25": 53,
+      "metric_26": 29,
+      "metric_30": 78
     },
     {
       "gene_seqnames": "MAG06_33",
@@ -107,7 +131,20 @@
       "eggnog_X10": "01Q79@aproNOG,05CBA@bactNOG,16PS6@proNOG,COG0034@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "F",
-      "eggnog_X13": "glutamine phosphoribosylpyrophosphate amidotransferase"
+      "eggnog_X13": "glutamine phosphoribosylpyrophosphate amidotransferase",
+      "metric_3": 7,
+      "metric_4": 74,
+      "metric_5": 86,
+      "metric_6": 25,
+      "metric_10": 73,
+      "metric_11": 68,
+      "metric_14": 50,
+      "metric_15": 68,
+      "metric_21": 29,
+      "metric_22": 49,
+      "metric_24": 77,
+      "metric_27": 25,
+      "metric_28": 62
     },
     {
       "gene_seqnames": "MAG06_33",
@@ -141,7 +178,20 @@
       "eggnog_X10": "01QGW@aproNOG,05UBK@bactNOG,16QXM@proNOG,COG1028@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "S",
-      "eggnog_X13": "short-chain dehydrogenase reductase"
+      "eggnog_X13": "short-chain dehydrogenase reductase",
+      "metric_2": 46,
+      "metric_4": 74,
+      "metric_5": 29,
+      "metric_6": 16,
+      "metric_9": 89,
+      "metric_10": 9,
+      "metric_12": 73,
+      "metric_14": 24,
+      "metric_15": 10,
+      "metric_16": 97,
+      "metric_19": 64,
+      "metric_22": 26,
+      "metric_28": 72
     }
   ],
   "diamond_track": [

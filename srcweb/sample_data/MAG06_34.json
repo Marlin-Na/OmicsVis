@@ -37,7 +37,21 @@
       "eggnog_X10": "01UQ4@aproNOG,07QW0@bactNOG,16UJT@proNOG,COG1005@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "C",
-      "eggnog_X13": "NDH-1 shuttles electrons from NADH, via FMN and iron- sulfur (Fe-S) centers, to quinones in the respiratory chain. The immediate electron acceptor for the enzyme in this species is believed to be ubiquinone. Couples the redox reaction to proton translocation (for every two electrons transferred, four hydrogen ions are translocated across the cytoplasmic membrane), and thus conserves the redox energy in a proton gradient. This subunit may bind ubiquinone (By similarity)"
+      "eggnog_X13": "NDH-1 shuttles electrons from NADH, via FMN and iron- sulfur (Fe-S) centers, to quinones in the respiratory chain. The immediate electron acceptor for the enzyme in this species is believed to be ubiquinone. Couples the redox reaction to proton translocation (for every two electrons transferred, four hydrogen ions are translocated across the cytoplasmic membrane), and thus conserves the redox energy in a proton gradient. This subunit may bind ubiquinone (By similarity)",
+      "metric_3": 74,
+      "metric_5": 19,
+      "metric_12": 89,
+      "metric_13": 24,
+      "metric_14": 71,
+      "metric_16": 7,
+      "metric_17": 93,
+      "metric_20": 82,
+      "metric_23": 23,
+      "metric_24": 14,
+      "metric_26": 5,
+      "metric_27": 4,
+      "metric_29": 26,
+      "metric_30": 61
     },
     {
       "gene_seqnames": "MAG06_34",
@@ -68,7 +82,17 @@
       "eggnog_X5": "OCAR_7335",
       "eggnog_X9": "bactNOG[38]",
       "eggnog_X10": "0229A@aproNOG,05YFU@bactNOG,126F4@NOG,17N1J@proNOG",
-      "eggnog_X11": "NA|NA|NA"
+      "eggnog_X11": "NA|NA|NA",
+      "metric_5": 89,
+      "metric_8": 44,
+      "metric_11": 6,
+      "metric_12": 96,
+      "metric_17": 71,
+      "metric_18": 75,
+      "metric_20": 84,
+      "metric_21": 51,
+      "metric_22": 78,
+      "metric_26": 68
     },
     {
       "gene_seqnames": "MAG06_34",
@@ -101,7 +125,22 @@
       "eggnog_X10": "05DYV@bactNOG,16PMP@proNOG,COG1079@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "S",
-      "eggnog_X13": "ABC transPORTER"
+      "eggnog_X13": "ABC transPORTER",
+      "metric_1": 97,
+      "metric_3": 74,
+      "metric_6": 91,
+      "metric_9": 90,
+      "metric_10": 35,
+      "metric_12": 31,
+      "metric_14": 17,
+      "metric_16": 84,
+      "metric_17": 10,
+      "metric_19": 81,
+      "metric_22": 95,
+      "metric_25": 99,
+      "metric_27": 10,
+      "metric_29": 56,
+      "metric_30": 86
     },
     {
       "gene_seqnames": "MAG06_34",
@@ -134,7 +173,21 @@
       "eggnog_X10": "01R1E@aproNOG,05UIB@bactNOG,16PUK@proNOG,COG4603@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "S",
-      "eggnog_X13": "ABC transporter"
+      "eggnog_X13": "ABC transporter",
+      "metric_2": 29,
+      "metric_4": 13,
+      "metric_8": 57,
+      "metric_14": 17,
+      "metric_17": 88,
+      "metric_19": 66,
+      "metric_20": 22,
+      "metric_21": 11,
+      "metric_22": 23,
+      "metric_24": 61,
+      "metric_26": 59,
+      "metric_27": 50,
+      "metric_28": 75,
+      "metric_29": 6
     }
   ],
   "diamond_track": [

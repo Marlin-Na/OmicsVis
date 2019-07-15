@@ -37,7 +37,17 @@
       "eggnog_X10": "01RZU@aproNOG,05CEK@bactNOG,16PHT@proNOG,COG0141@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "E",
-      "eggnog_X13": "Catalyzes the sequential NAD-dependent oxidations of L- histidinol to L-histidinaldehyde and then to L-histidine (By similarity)"
+      "eggnog_X13": "Catalyzes the sequential NAD-dependent oxidations of L- histidinol to L-histidinaldehyde and then to L-histidine (By similarity)",
+      "metric_6": 67,
+      "metric_9": 44,
+      "metric_12": 63,
+      "metric_14": 6,
+      "metric_17": 48,
+      "metric_18": 26,
+      "metric_19": 69,
+      "metric_21": 4,
+      "metric_27": 74,
+      "metric_28": 83
     },
     {
       "gene_seqnames": "MAG06_1006",
@@ -70,7 +80,20 @@
       "eggnog_X10": "01VB9@aproNOG,05CPQ@bactNOG,1749Q@proNOG,COG1063@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "C",
-      "eggnog_X13": "alcohol dehydrogenase groes domain protein"
+      "eggnog_X13": "alcohol dehydrogenase groes domain protein",
+      "metric_1": 20,
+      "metric_5": 82,
+      "metric_7": 31,
+      "metric_8": 84,
+      "metric_9": 38,
+      "metric_14": 19,
+      "metric_16": 53,
+      "metric_23": 30,
+      "metric_24": 13,
+      "metric_25": 31,
+      "metric_28": 90,
+      "metric_29": 87,
+      "metric_30": 24
     },
     {
       "gene_seqnames": "MAG06_1006",
@@ -94,7 +117,23 @@
       "gene_sscore": "12.33",
       "gene_rscore": "11.01",
       "gene_uscore": "-1.88",
-      "gene_tscore": "3.20"
+      "gene_tscore": "3.20",
+      "metric_1": 15,
+      "metric_2": 98,
+      "metric_4": 69,
+      "metric_5": 1,
+      "metric_6": 34,
+      "metric_7": 2,
+      "metric_8": 52,
+      "metric_9": 4,
+      "metric_10": 99,
+      "metric_17": 42,
+      "metric_22": 88,
+      "metric_23": 43,
+      "metric_25": 61,
+      "metric_26": 90,
+      "metric_27": 4,
+      "metric_30": 17
     }
   ],
   "diamond_track": [

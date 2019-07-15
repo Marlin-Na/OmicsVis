@@ -35,7 +35,24 @@
       "eggnog_X10": "01QBP@aproNOG,07VVT@bactNOG,16UK9@proNOG,COG1215@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "M",
-      "eggnog_X13": "Cellulose synthase"
+      "eggnog_X13": "Cellulose synthase",
+      "metric_2": 51,
+      "metric_7": 21,
+      "metric_8": 49,
+      "metric_9": 79,
+      "metric_10": 89,
+      "metric_12": 67,
+      "metric_15": 54,
+      "metric_16": 54,
+      "metric_18": 33,
+      "metric_19": 40,
+      "metric_20": 62,
+      "metric_21": 44,
+      "metric_23": 25,
+      "metric_24": 10,
+      "metric_26": 78,
+      "metric_27": 96,
+      "metric_30": 49
     }
   ],
   "diamond_track": [

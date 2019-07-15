@@ -35,7 +35,23 @@
       "eggnog_X10": "01SE3@aproNOG,05CMT@bactNOG,16QFR@proNOG,COG2376@NOG,COG2390@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "G",
-      "eggnog_X13": "Dihydroxyacetone kinase"
+      "eggnog_X13": "Dihydroxyacetone kinase",
+      "metric_2": 46,
+      "metric_8": 84,
+      "metric_9": 58,
+      "metric_10": 67,
+      "metric_11": 82,
+      "metric_12": 84,
+      "metric_14": 12,
+      "metric_15": 68,
+      "metric_18": 4,
+      "metric_20": 53,
+      "metric_21": 30,
+      "metric_23": 68,
+      "metric_25": 96,
+      "metric_26": 30,
+      "metric_27": 5,
+      "metric_30": 24
     },
     {
       "gene_seqnames": "MAG06_619",
@@ -68,7 +84,20 @@
       "eggnog_X10": "01WX6@aproNOG,08UTZ@bactNOG,179WA@proNOG,COG2376@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "G",
-      "eggnog_X13": "Dihydroxyacetone kinase"
+      "eggnog_X13": "Dihydroxyacetone kinase",
+      "metric_3": 42,
+      "metric_4": 17,
+      "metric_6": 36,
+      "metric_7": 27,
+      "metric_9": 74,
+      "metric_11": 87,
+      "metric_13": 15,
+      "metric_15": 25,
+      "metric_16": 80,
+      "metric_19": 67,
+      "metric_23": 32,
+      "metric_27": 97,
+      "metric_29": 70
     },
     {
       "gene_seqnames": "MAG06_619",
@@ -92,7 +121,20 @@
       "gene_sscore": "8.67",
       "gene_rscore": "2.99",
       "gene_uscore": "2.81",
-      "gene_tscore": "2.88"
+      "gene_tscore": "2.88",
+      "metric_1": 24,
+      "metric_5": 47,
+      "metric_11": 64,
+      "metric_12": 76,
+      "metric_13": 95,
+      "metric_14": 38,
+      "metric_16": 21,
+      "metric_17": 22,
+      "metric_18": 73,
+      "metric_22": 86,
+      "metric_23": 50,
+      "metric_28": 3,
+      "metric_29": 60
     }
   ],
   "diamond_track": [

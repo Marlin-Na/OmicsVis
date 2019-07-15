@@ -37,7 +37,22 @@
       "eggnog_X10": "01QYG@aproNOG,05DS7@bactNOG,16RCI@proNOG,COG1974@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "K",
-      "eggnog_X13": "Represses a number of genes involved in the response to DNA damage (SOS response), including recA and lexA. In the presence of single-stranded DNA, RecA interacts with LexA causing an autocatalytic cleavage which disrupts the DNA-binding part of LexA, leading to derepression of the SOS regulon and eventually DNA repair (By similarity)"
+      "eggnog_X13": "Represses a number of genes involved in the response to DNA damage (SOS response), including recA and lexA. In the presence of single-stranded DNA, RecA interacts with LexA causing an autocatalytic cleavage which disrupts the DNA-binding part of LexA, leading to derepression of the SOS regulon and eventually DNA repair (By similarity)",
+      "metric_1": 11,
+      "metric_4": 72,
+      "metric_6": 27,
+      "metric_7": 9,
+      "metric_9": 26,
+      "metric_11": 52,
+      "metric_12": 12,
+      "metric_14": 33,
+      "metric_16": 67,
+      "metric_18": 5,
+      "metric_19": 46,
+      "metric_20": 20,
+      "metric_22": 61,
+      "metric_23": 60,
+      "metric_28": 64
     },
     {
       "gene_seqnames": "MAG06_953",
@@ -61,7 +76,21 @@
       "gene_sscore": "5.65",
       "gene_rscore": "4.94",
       "gene_uscore": "-0.50",
-      "gene_tscore": "2.36"
+      "gene_tscore": "2.36",
+      "metric_5": 35,
+      "metric_6": 78,
+      "metric_7": 45,
+      "metric_8": 84,
+      "metric_9": 4,
+      "metric_13": 51,
+      "metric_15": 94,
+      "metric_17": 71,
+      "metric_20": 17,
+      "metric_21": 62,
+      "metric_23": 55,
+      "metric_26": 1,
+      "metric_29": 15,
+      "metric_30": 9
     },
     {
       "gene_seqnames": "MAG06_953",
@@ -93,7 +122,16 @@
       "eggnog_X10": "01UIM@aproNOG,05CQH@bactNOG,172U6@proNOG,COG5361@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "S",
-      "eggnog_X13": "Protein of unknown function (DUF1254)"
+      "eggnog_X13": "Protein of unknown function (DUF1254)",
+      "metric_4": 9,
+      "metric_8": 33,
+      "metric_11": 51,
+      "metric_12": 10,
+      "metric_14": 34,
+      "metric_17": 11,
+      "metric_18": 86,
+      "metric_20": 76,
+      "metric_22": 53
     }
   ],
   "diamond_track": [

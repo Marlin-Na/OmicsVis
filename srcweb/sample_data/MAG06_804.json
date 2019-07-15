@@ -38,7 +38,20 @@
       "eggnog_X10": "01Q98@aproNOG,05C59@bactNOG,16PUR@proNOG,COG2217@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "P",
-      "eggnog_X13": "p-type atpase"
+      "eggnog_X13": "p-type atpase",
+      "metric_4": 3,
+      "metric_7": 16,
+      "metric_11": 59,
+      "metric_13": 2,
+      "metric_14": 50,
+      "metric_16": 60,
+      "metric_17": 60,
+      "metric_18": 32,
+      "metric_19": 32,
+      "metric_21": 41,
+      "metric_23": 48,
+      "metric_26": 38,
+      "metric_28": 86
     }
   ],
   "diamond_track": [

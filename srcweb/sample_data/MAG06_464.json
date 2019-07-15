@@ -36,7 +36,19 @@
       "eggnog_X10": "01T8J@aproNOG,05C26@bactNOG,16PDZ@proNOG,COG1012@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "C",
-      "eggnog_X13": "succinate-semialdehyde dehydrogenase"
+      "eggnog_X13": "succinate-semialdehyde dehydrogenase",
+      "metric_2": 79,
+      "metric_4": 60,
+      "metric_8": 61,
+      "metric_12": 77,
+      "metric_13": 55,
+      "metric_15": 21,
+      "metric_21": 19,
+      "metric_22": 61,
+      "metric_23": 88,
+      "metric_26": 85,
+      "metric_27": 88,
+      "metric_30": 34
     },
     {
       "gene_seqnames": "MAG06_464",
@@ -69,7 +81,16 @@
       "eggnog_X10": "05C0A@bactNOG,0B94M@bproNOG,16RMM@proNOG,COG1454@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "C",
-      "eggnog_X13": "alcohol dehydrogenase"
+      "eggnog_X13": "alcohol dehydrogenase",
+      "metric_1": 64,
+      "metric_5": 49,
+      "metric_9": 17,
+      "metric_13": 18,
+      "metric_17": 15,
+      "metric_20": 17,
+      "metric_23": 26,
+      "metric_25": 32,
+      "metric_28": 4
     },
     {
       "gene_seqnames": "MAG06_464",
@@ -101,7 +122,19 @@
       "eggnog_X10": "08XA9@bactNOG,17AT4@proNOG,COG1802@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "K",
-      "eggnog_X13": "GntR family transcriptional regulator"
+      "eggnog_X13": "GntR family transcriptional regulator",
+      "metric_1": 32,
+      "metric_2": 39,
+      "metric_6": 54,
+      "metric_12": 94,
+      "metric_14": 73,
+      "metric_16": 74,
+      "metric_18": 94,
+      "metric_19": 38,
+      "metric_21": 44,
+      "metric_22": 10,
+      "metric_23": 21,
+      "metric_24": 66
     }
   ],
   "diamond_track": [

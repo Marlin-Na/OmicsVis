@@ -37,7 +37,18 @@
       "eggnog_X10": "02E1C@aproNOG,08HRN@bactNOG,172BX@proNOG,COG0574@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "G",
-      "eggnog_X13": "pyruvate phosphate dikinase"
+      "eggnog_X13": "pyruvate phosphate dikinase",
+      "metric_5": 27,
+      "metric_9": 79,
+      "metric_14": 94,
+      "metric_15": 55,
+      "metric_17": 48,
+      "metric_19": 78,
+      "metric_24": 58,
+      "metric_26": 34,
+      "metric_27": 63,
+      "metric_29": 47,
+      "metric_30": 12
     },
     {
       "gene_seqnames": "MAG06_883",
@@ -72,7 +83,20 @@
       "eggnog_X10": "01Q8B@aproNOG,05CDB@bactNOG,16QHS@proNOG,COG1196@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "D",
-      "eggnog_X13": "Required for chromosome condensation and partitioning (By similarity)"
+      "eggnog_X13": "Required for chromosome condensation and partitioning (By similarity)",
+      "metric_1": 84,
+      "metric_3": 25,
+      "metric_5": 49,
+      "metric_6": 6,
+      "metric_7": 1,
+      "metric_8": 55,
+      "metric_11": 59,
+      "metric_12": 16,
+      "metric_15": 69,
+      "metric_16": 5,
+      "metric_18": 10,
+      "metric_22": 25,
+      "metric_24": 89
     }
   ],
   "diamond_track": [

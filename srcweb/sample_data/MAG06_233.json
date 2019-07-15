@@ -36,7 +36,20 @@
       "eggnog_X10": "01S2N@aproNOG,07QIX@bactNOG,16PDI@proNOG,COG0033@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "G",
-      "eggnog_X13": "phosphoglucomutase EC 5.4.2.2"
+      "eggnog_X13": "phosphoglucomutase EC 5.4.2.2",
+      "metric_1": 69,
+      "metric_3": 44,
+      "metric_4": 78,
+      "metric_5": 93,
+      "metric_6": 30,
+      "metric_8": 61,
+      "metric_11": 53,
+      "metric_16": 55,
+      "metric_18": 27,
+      "metric_19": 1,
+      "metric_21": 25,
+      "metric_24": 12,
+      "metric_28": 93
     },
     {
       "gene_seqnames": "MAG06_233",
@@ -71,7 +84,20 @@
       "eggnog_X10": "02EAG@aproNOG,08IUM@bactNOG,172Z5@proNOG,COG1523@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "G",
-      "eggnog_X13": "Glycogen debranching enzyme"
+      "eggnog_X13": "Glycogen debranching enzyme",
+      "metric_2": 18,
+      "metric_3": 97,
+      "metric_4": 45,
+      "metric_6": 33,
+      "metric_7": 62,
+      "metric_9": 74,
+      "metric_10": 74,
+      "metric_11": 35,
+      "metric_17": 46,
+      "metric_26": 65,
+      "metric_27": 48,
+      "metric_28": 47,
+      "metric_30": 86
     }
   ],
   "diamond_track": [

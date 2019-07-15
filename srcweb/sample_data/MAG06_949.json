@@ -34,7 +34,25 @@
       "eggnog_X10": "01WSF@aproNOG,08U6R@bactNOG,16VZN@proNOG,COG0845@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "M",
-      "eggnog_X13": "efflux transporter, rnd family, mfp subunit"
+      "eggnog_X13": "efflux transporter, rnd family, mfp subunit",
+      "metric_1": 13,
+      "metric_2": 92,
+      "metric_3": 45,
+      "metric_5": 54,
+      "metric_6": 45,
+      "metric_7": 7,
+      "metric_8": 79,
+      "metric_9": 7,
+      "metric_13": 45,
+      "metric_14": 41,
+      "metric_15": 78,
+      "metric_16": 3,
+      "metric_18": 65,
+      "metric_20": 61,
+      "metric_21": 71,
+      "metric_23": 10,
+      "metric_25": 63,
+      "metric_29": 16
     },
     {
       "gene_seqnames": "MAG06_949",
@@ -66,7 +84,14 @@
       "eggnog_X10": "022EW@aproNOG,08ZWI@bactNOG,103AX@NOG,17KMU@proNOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "K",
-      "eggnog_X13": "Transcriptional regulator"
+      "eggnog_X13": "Transcriptional regulator",
+      "metric_2": 85,
+      "metric_3": 97,
+      "metric_11": 86,
+      "metric_21": 35,
+      "metric_23": 64,
+      "metric_24": 73,
+      "metric_28": 7
     },
     {
       "gene_seqnames": "MAG06_949",
@@ -99,7 +124,20 @@
       "eggnog_X10": "01SKX@aproNOG,05ETE@bactNOG,16PW5@proNOG,COG1609@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "K",
-      "eggnog_X13": "Transcriptional regulator"
+      "eggnog_X13": "Transcriptional regulator",
+      "metric_1": 56,
+      "metric_5": 54,
+      "metric_6": 3,
+      "metric_9": 25,
+      "metric_10": 98,
+      "metric_13": 11,
+      "metric_14": 76,
+      "metric_21": 31,
+      "metric_24": 60,
+      "metric_25": 26,
+      "metric_28": 56,
+      "metric_29": 89,
+      "metric_30": 94
     }
   ],
   "diamond_track": [

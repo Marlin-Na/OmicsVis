@@ -36,7 +36,21 @@
       "eggnog_X10": "01Q8Z@aproNOG,05FKQ@bactNOG,16R8K@proNOG,COG1609@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "K",
-      "eggnog_X13": "Transcriptional regulator"
+      "eggnog_X13": "Transcriptional regulator",
+      "metric_2": 17,
+      "metric_4": 63,
+      "metric_6": 77,
+      "metric_8": 18,
+      "metric_9": 76,
+      "metric_11": 68,
+      "metric_15": 47,
+      "metric_17": 48,
+      "metric_22": 31,
+      "metric_25": 99,
+      "metric_27": 5,
+      "metric_28": 83,
+      "metric_29": 91,
+      "metric_30": 71
     },
     {
       "gene_seqnames": "MAG06_898",
@@ -72,7 +86,17 @@
       "eggnog_X10": "01QS3@aproNOG,05EPJ@bactNOG,174J6@proNOG,COG1653@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "G",
-      "eggnog_X13": "extracellular solute-binding protein, family 1"
+      "eggnog_X13": "extracellular solute-binding protein, family 1",
+      "metric_4": 49,
+      "metric_6": 38,
+      "metric_7": 88,
+      "metric_9": 95,
+      "metric_21": 98,
+      "metric_22": 25,
+      "metric_24": 94,
+      "metric_26": 76,
+      "metric_28": 51,
+      "metric_29": 65
     }
   ],
   "diamond_track": [

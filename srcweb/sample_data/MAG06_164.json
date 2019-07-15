@@ -35,7 +35,23 @@
       "eggnog_X10": "01QQQ@aproNOG,05CQB@bactNOG,16PGZ@proNOG,COG0277@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "C",
-      "eggnog_X13": "FAD linked oxidase domain protein"
+      "eggnog_X13": "FAD linked oxidase domain protein",
+      "metric_2": 47,
+      "metric_4": 41,
+      "metric_5": 7,
+      "metric_9": 64,
+      "metric_11": 58,
+      "metric_14": 91,
+      "metric_17": 59,
+      "metric_18": 39,
+      "metric_19": 82,
+      "metric_20": 91,
+      "metric_22": 69,
+      "metric_23": 84,
+      "metric_24": 20,
+      "metric_25": 76,
+      "metric_26": 68,
+      "metric_28": 61
     },
     {
       "gene_seqnames": "MAG06_164",
@@ -69,7 +85,18 @@
       "eggnog_X10": "01RBI@aproNOG,05EXW@bactNOG,16PZ3@proNOG,COG0451@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "G, M",
-      "eggnog_X13": "nad-dependent epimerase dehydratase"
+      "eggnog_X13": "nad-dependent epimerase dehydratase",
+      "metric_3": 16,
+      "metric_4": 42,
+      "metric_5": 26,
+      "metric_9": 84,
+      "metric_16": 29,
+      "metric_20": 76,
+      "metric_21": 51,
+      "metric_25": 5,
+      "metric_26": 59,
+      "metric_27": 47,
+      "metric_29": 39
     }
   ],
   "diamond_track": [

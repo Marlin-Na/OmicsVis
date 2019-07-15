@@ -37,7 +37,19 @@
       "eggnog_X10": "01Q5V@aproNOG,07R73@bactNOG,16QGZ@proNOG,COG0534@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "V",
-      "eggnog_X13": "Mate efflux family protein"
+      "eggnog_X13": "Mate efflux family protein",
+      "metric_1": 10,
+      "metric_4": 21,
+      "metric_6": 22,
+      "metric_8": 95,
+      "metric_11": 1,
+      "metric_12": 75,
+      "metric_15": 69,
+      "metric_17": 32,
+      "metric_21": 47,
+      "metric_22": 63,
+      "metric_25": 12,
+      "metric_26": 92
     },
     {
       "gene_seqnames": "MAG06_486",
@@ -73,7 +85,21 @@
       "eggnog_X10": "01QZI@aproNOG,07QYT@bactNOG,16Q3F@proNOG,COG0167@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "F",
-      "eggnog_X13": "Catalyzes the conversion of dihydroorotate to orotate with quinone as electron acceptor (By similarity)"
+      "eggnog_X13": "Catalyzes the conversion of dihydroorotate to orotate with quinone as electron acceptor (By similarity)",
+      "metric_1": 16,
+      "metric_2": 20,
+      "metric_5": 2,
+      "metric_6": 25,
+      "metric_9": 29,
+      "metric_10": 6,
+      "metric_16": 15,
+      "metric_18": 44,
+      "metric_20": 88,
+      "metric_23": 6,
+      "metric_24": 2,
+      "metric_26": 97,
+      "metric_29": 19,
+      "metric_30": 94
     }
   ],
   "diamond_track": [

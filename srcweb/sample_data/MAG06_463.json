@@ -34,7 +34,15 @@
       "eggnog_X10": "01ZZE@aproNOG,05KQF@bactNOG,17G3E@proNOG,COG1396@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "K",
-      "eggnog_X13": "transcriptional regulator"
+      "eggnog_X13": "transcriptional regulator",
+      "metric_2": 95,
+      "metric_3": 8,
+      "metric_10": 40,
+      "metric_17": 15,
+      "metric_19": 23,
+      "metric_22": 6,
+      "metric_24": 2,
+      "metric_30": 38
     },
     {
       "gene_seqnames": "MAG06_463",
@@ -69,7 +77,19 @@
       "eggnog_X10": "01S13@aproNOG,05C7D@bactNOG,16Q2I@proNOG,COG0187@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "L",
-      "eggnog_X13": "DNA gyrase negatively supercoils closed circular double- stranded DNA in an ATP-dependent manner and also catalyzes the interconversion of other topological isomers of double-stranded DNA rings, including catenanes and knotted rings (By similarity)"
+      "eggnog_X13": "DNA gyrase negatively supercoils closed circular double- stranded DNA in an ATP-dependent manner and also catalyzes the interconversion of other topological isomers of double-stranded DNA rings, including catenanes and knotted rings (By similarity)",
+      "metric_1": 9,
+      "metric_2": 72,
+      "metric_3": 74,
+      "metric_4": 38,
+      "metric_6": 9,
+      "metric_8": 89,
+      "metric_12": 94,
+      "metric_15": 7,
+      "metric_19": 9,
+      "metric_23": 40,
+      "metric_24": 4,
+      "metric_26": 21
     }
   ],
   "diamond_track": [

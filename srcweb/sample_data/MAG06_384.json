@@ -37,7 +37,21 @@
       "eggnog_X10": "01QUK@aproNOG,07QNU@bactNOG,16QUM@proNOG,COG4962@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "U",
-      "eggnog_X13": "type II secretion system protein E"
+      "eggnog_X13": "type II secretion system protein E",
+      "metric_1": 24,
+      "metric_4": 86,
+      "metric_5": 93,
+      "metric_7": 16,
+      "metric_8": 94,
+      "metric_11": 92,
+      "metric_14": 24,
+      "metric_15": 46,
+      "metric_17": 5,
+      "metric_18": 28,
+      "metric_21": 64,
+      "metric_23": 62,
+      "metric_24": 52,
+      "metric_29": 13
     },
     {
       "gene_seqnames": "MAG06_384",
@@ -70,7 +84,16 @@
       "eggnog_X10": "01SBJ@aproNOG,05TUP@bactNOG,16R3C@proNOG,COG4965@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "U",
-      "eggnog_X13": "type II secretion system protein"
+      "eggnog_X13": "type II secretion system protein",
+      "metric_4": 39,
+      "metric_6": 80,
+      "metric_9": 86,
+      "metric_15": 12,
+      "metric_16": 15,
+      "metric_17": 36,
+      "metric_22": 72,
+      "metric_29": 29,
+      "metric_30": 41
     },
     {
       "gene_seqnames": "MAG06_384",
@@ -104,7 +127,20 @@
       "eggnog_X10": "01RP0@aproNOG,05UD9@bactNOG,16R1X@proNOG,COG2064@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "U",
-      "eggnog_X13": "type II secretion system protein"
+      "eggnog_X13": "type II secretion system protein",
+      "metric_2": 59,
+      "metric_4": 47,
+      "metric_7": 7,
+      "metric_8": 86,
+      "metric_11": 78,
+      "metric_12": 67,
+      "metric_13": 11,
+      "metric_14": 37,
+      "metric_15": 42,
+      "metric_17": 62,
+      "metric_20": 60,
+      "metric_21": 55,
+      "metric_24": 25
     }
   ],
   "diamond_track": [

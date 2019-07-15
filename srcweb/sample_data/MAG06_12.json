@@ -36,7 +36,18 @@
       "eggnog_X10": "01RFF@aproNOG,07QQ8@bactNOG,16R08@proNOG,COG0624@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "E",
-      "eggnog_X13": "peptidase, M20"
+      "eggnog_X13": "peptidase, M20",
+      "metric_2": 9,
+      "metric_5": 46,
+      "metric_6": 14,
+      "metric_7": 61,
+      "metric_8": 15,
+      "metric_12": 28,
+      "metric_15": 28,
+      "metric_16": 70,
+      "metric_17": 4,
+      "metric_22": 63,
+      "metric_27": 73
     },
     {
       "gene_seqnames": "MAG06_12",
@@ -69,7 +80,24 @@
       "eggnog_X10": "01ZSK@aproNOG,08Z4I@bactNOG,17EFR@proNOG,COG1846@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "K",
-      "eggnog_X13": "Transcriptional regulator"
+      "eggnog_X13": "Transcriptional regulator",
+      "metric_2": 91,
+      "metric_3": 99,
+      "metric_5": 31,
+      "metric_6": 8,
+      "metric_7": 7,
+      "metric_9": 23,
+      "metric_10": 52,
+      "metric_11": 28,
+      "metric_13": 66,
+      "metric_16": 40,
+      "metric_18": 85,
+      "metric_21": 56,
+      "metric_22": 53,
+      "metric_24": 94,
+      "metric_25": 96,
+      "metric_29": 58,
+      "metric_30": 39
     },
     {
       "gene_seqnames": "MAG06_12",
@@ -104,7 +132,17 @@
       "eggnog_X10": "01QAJ@aproNOG,05C2M@bactNOG,16Q2Q@proNOG,COG0258@NOG,COG0749@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "L",
-      "eggnog_X13": "DNA polymerase I"
+      "eggnog_X13": "DNA polymerase I",
+      "metric_1": 69,
+      "metric_2": 5,
+      "metric_4": 25,
+      "metric_9": 24,
+      "metric_13": 96,
+      "metric_16": 38,
+      "metric_21": 67,
+      "metric_22": 2,
+      "metric_26": 55,
+      "metric_30": 2
     },
     {
       "gene_seqnames": "MAG06_12",
@@ -139,7 +177,20 @@
       "eggnog_X10": "01QMI@aproNOG,05C5I@bactNOG,16QAR@proNOG,COG1052@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "C",
-      "eggnog_X13": "Glyoxylate reductase"
+      "eggnog_X13": "Glyoxylate reductase",
+      "metric_2": 9,
+      "metric_3": 46,
+      "metric_5": 49,
+      "metric_6": 15,
+      "metric_8": 40,
+      "metric_9": 37,
+      "metric_10": 25,
+      "metric_11": 82,
+      "metric_15": 25,
+      "metric_17": 46,
+      "metric_19": 47,
+      "metric_27": 21,
+      "metric_28": 27
     }
   ],
   "diamond_track": [

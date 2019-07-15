@@ -26,7 +26,17 @@
       "gene_sscore": "3.22",
       "gene_rscore": "0.00",
       "gene_uscore": "0.00",
-      "gene_tscore": "3.22"
+      "gene_tscore": "3.22",
+      "metric_1": 70,
+      "metric_2": 53,
+      "metric_7": 45,
+      "metric_9": 59,
+      "metric_15": 36,
+      "metric_19": 40,
+      "metric_21": 63,
+      "metric_24": 12,
+      "metric_25": 85,
+      "metric_29": 15
     },
     {
       "gene_seqnames": "MAG06_682",
@@ -61,7 +71,19 @@
       "eggnog_X10": "01UEY@aproNOG,07GHC@bactNOG,174JF@proNOG,COG3468@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "M, U",
-      "eggnog_X13": "Autotransporter"
+      "eggnog_X13": "Autotransporter",
+      "metric_3": 45,
+      "metric_6": 90,
+      "metric_8": 40,
+      "metric_10": 57,
+      "metric_14": 29,
+      "metric_16": 58,
+      "metric_18": 99,
+      "metric_19": 69,
+      "metric_24": 80,
+      "metric_26": 46,
+      "metric_27": 49,
+      "metric_29": 45
     }
   ],
   "diamond_track": [

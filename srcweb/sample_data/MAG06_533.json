@@ -26,7 +26,22 @@
       "gene_sscore": "3.22",
       "gene_rscore": "0.00",
       "gene_uscore": "0.00",
-      "gene_tscore": "3.22"
+      "gene_tscore": "3.22",
+      "metric_2": 66,
+      "metric_3": 22,
+      "metric_5": 82,
+      "metric_6": 37,
+      "metric_7": 37,
+      "metric_9": 1,
+      "metric_13": 74,
+      "metric_15": 93,
+      "metric_16": 33,
+      "metric_17": 78,
+      "metric_18": 24,
+      "metric_19": 69,
+      "metric_21": 96,
+      "metric_22": 19,
+      "metric_25": 59
     },
     {
       "gene_seqnames": "MAG06_533",
@@ -56,7 +71,15 @@
       "eggnog_X4": 671.8,
       "eggnog_X9": "bactNOG[38]",
       "eggnog_X10": "021BN@aproNOG,05TUU@bactNOG,121E6@NOG,17JMM@proNOG",
-      "eggnog_X11": "NA|NA|NA"
+      "eggnog_X11": "NA|NA|NA",
+      "metric_4": 26,
+      "metric_5": 54,
+      "metric_8": 89,
+      "metric_15": 69,
+      "metric_20": 92,
+      "metric_22": 58,
+      "metric_27": 24,
+      "metric_28": 32
     },
     {
       "gene_seqnames": "MAG06_533",
@@ -92,7 +115,19 @@
       "eggnog_X10": "01SIR@aproNOG,05CBF@bactNOG,16Q2G@proNOG,COG0422@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "H",
-      "eggnog_X13": "Catalyzes the synthesis of the hydroxymethylpyrimidine phosphate (HMP-P) moiety of thiamine from aminoimidazole ribotide (AIR) in a radical S-adenosyl-L-methionine (SAM)-dependent reaction (By similarity)"
+      "eggnog_X13": "Catalyzes the synthesis of the hydroxymethylpyrimidine phosphate (HMP-P) moiety of thiamine from aminoimidazole ribotide (AIR) in a radical S-adenosyl-L-methionine (SAM)-dependent reaction (By similarity)",
+      "metric_2": 41,
+      "metric_3": 71,
+      "metric_4": 13,
+      "metric_8": 19,
+      "metric_11": 79,
+      "metric_12": 12,
+      "metric_13": 59,
+      "metric_15": 12,
+      "metric_20": 31,
+      "metric_21": 95,
+      "metric_25": 62,
+      "metric_26": 65
     }
   ],
   "diamond_track": [

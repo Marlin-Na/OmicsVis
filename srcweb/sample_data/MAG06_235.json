@@ -36,7 +36,16 @@
       "eggnog_X10": "01SAW@aproNOG,05CDA@bactNOG,16PHM@proNOG,COG1126@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "E",
-      "eggnog_X13": "ABC transporter"
+      "eggnog_X13": "ABC transporter",
+      "metric_13": 54,
+      "metric_15": 47,
+      "metric_16": 5,
+      "metric_17": 92,
+      "metric_18": 34,
+      "metric_19": 78,
+      "metric_21": 34,
+      "metric_26": 62,
+      "metric_29": 53
     },
     {
       "gene_seqnames": "MAG06_235",
@@ -69,7 +78,19 @@
       "eggnog_X10": "01RUJ@aproNOG,083I9@bactNOG,0XTFY@NOG,16VSR@proNOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "S",
-      "eggnog_X13": "Integral membrane protein"
+      "eggnog_X13": "Integral membrane protein",
+      "metric_2": 54,
+      "metric_4": 63,
+      "metric_7": 69,
+      "metric_10": 54,
+      "metric_11": 49,
+      "metric_13": 59,
+      "metric_20": 14,
+      "metric_24": 9,
+      "metric_26": 55,
+      "metric_27": 37,
+      "metric_29": 20,
+      "metric_30": 12
     },
     {
       "gene_seqnames": "MAG06_235",
@@ -103,7 +124,20 @@
       "eggnog_X10": "02E25@aproNOG,08HW5@bactNOG,0XR35@NOG,172DV@proNOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "E",
-      "eggnog_X13": "amino acid ABC transporter"
+      "eggnog_X13": "amino acid ABC transporter",
+      "metric_2": 69,
+      "metric_6": 54,
+      "metric_8": 77,
+      "metric_9": 13,
+      "metric_10": 29,
+      "metric_12": 65,
+      "metric_14": 23,
+      "metric_15": 67,
+      "metric_16": 73,
+      "metric_25": 88,
+      "metric_27": 53,
+      "metric_28": 11,
+      "metric_29": 94
     },
     {
       "gene_seqnames": "MAG06_235",
@@ -137,7 +171,24 @@
       "eggnog_X10": "02E25@aproNOG,08HW5@bactNOG,0XR35@NOG,172DV@proNOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "E",
-      "eggnog_X13": "amino acid ABC transporter"
+      "eggnog_X13": "amino acid ABC transporter",
+      "metric_2": 89,
+      "metric_3": 20,
+      "metric_5": 49,
+      "metric_6": 94,
+      "metric_9": 36,
+      "metric_10": 15,
+      "metric_12": 86,
+      "metric_13": 6,
+      "metric_15": 92,
+      "metric_16": 3,
+      "metric_17": 29,
+      "metric_23": 22,
+      "metric_24": 60,
+      "metric_25": 22,
+      "metric_28": 64,
+      "metric_29": 75,
+      "metric_30": 46
     },
     {
       "gene_seqnames": "MAG06_235",
@@ -171,7 +222,19 @@
       "eggnog_X10": "01RTD@aproNOG,05CJP@bactNOG,0XWBT@NOG,16Q0H@proNOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "C",
-      "eggnog_X13": "FAD dependent oxidoreductase"
+      "eggnog_X13": "FAD dependent oxidoreductase",
+      "metric_2": 73,
+      "metric_8": 18,
+      "metric_10": 92,
+      "metric_11": 76,
+      "metric_12": 6,
+      "metric_14": 59,
+      "metric_18": 4,
+      "metric_20": 4,
+      "metric_21": 87,
+      "metric_22": 49,
+      "metric_25": 13,
+      "metric_29": 21
     }
   ],
   "diamond_track": [

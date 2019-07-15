@@ -37,7 +37,22 @@
       "eggnog_X10": "01QJS@aproNOG,05BZ1@bactNOG,16PGA@proNOG,COG1132@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "V",
-      "eggnog_X13": "ABC transporter"
+      "eggnog_X13": "ABC transporter",
+      "metric_3": 35,
+      "metric_5": 76,
+      "metric_9": 88,
+      "metric_12": 30,
+      "metric_15": 33,
+      "metric_16": 78,
+      "metric_17": 38,
+      "metric_18": 7,
+      "metric_19": 50,
+      "metric_20": 28,
+      "metric_21": 47,
+      "metric_22": 98,
+      "metric_25": 78,
+      "metric_26": 14,
+      "metric_30": 68
     }
   ],
   "diamond_track": [

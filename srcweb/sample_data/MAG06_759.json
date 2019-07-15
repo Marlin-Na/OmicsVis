@@ -35,7 +35,15 @@
       "eggnog_X10": "05DC4@bactNOG,0BJK7@bproNOG,16QW6@proNOG,COG4666@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "S",
-      "eggnog_X13": "TRAP transporter 4TM 12TM fusion"
+      "eggnog_X13": "TRAP transporter 4TM 12TM fusion",
+      "metric_1": 29,
+      "metric_2": 67,
+      "metric_9": 90,
+      "metric_15": 5,
+      "metric_21": 58,
+      "metric_23": 60,
+      "metric_29": 12,
+      "metric_30": 54
     },
     {
       "gene_seqnames": "MAG06_759",
@@ -68,7 +76,22 @@
       "eggnog_X10": "05DC4@bactNOG,0BJK7@bproNOG,16QW6@proNOG,COG4666@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "S",
-      "eggnog_X13": "TRAP transporter 4TM 12TM fusion"
+      "eggnog_X13": "TRAP transporter 4TM 12TM fusion",
+      "metric_1": 26,
+      "metric_2": 88,
+      "metric_6": 90,
+      "metric_10": 4,
+      "metric_12": 64,
+      "metric_15": 65,
+      "metric_17": 72,
+      "metric_18": 66,
+      "metric_19": 83,
+      "metric_20": 63,
+      "metric_23": 53,
+      "metric_24": 51,
+      "metric_27": 55,
+      "metric_28": 90,
+      "metric_29": 46
     },
     {
       "gene_seqnames": "MAG06_759",
@@ -101,7 +124,19 @@
       "eggnog_X10": "05DC4@bactNOG,0BJK7@bproNOG,16QW6@proNOG,COG4666@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "S",
-      "eggnog_X13": "TRAP transporter 4TM 12TM fusion"
+      "eggnog_X13": "TRAP transporter 4TM 12TM fusion",
+      "metric_2": 4,
+      "metric_5": 38,
+      "metric_6": 70,
+      "metric_8": 85,
+      "metric_10": 46,
+      "metric_11": 40,
+      "metric_13": 82,
+      "metric_15": 54,
+      "metric_17": 15,
+      "metric_27": 93,
+      "metric_29": 32,
+      "metric_30": 27
     }
   ],
   "diamond_track": [

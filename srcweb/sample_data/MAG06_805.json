@@ -36,7 +36,19 @@
       "eggnog_X10": "01T2H@aproNOG,05ETF@bactNOG,16SFV@proNOG,COG0179@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "Q",
-      "eggnog_X13": "hydrolase"
+      "eggnog_X13": "hydrolase",
+      "metric_3": 88,
+      "metric_4": 64,
+      "metric_5": 63,
+      "metric_6": 79,
+      "metric_7": 92,
+      "metric_13": 59,
+      "metric_17": 51,
+      "metric_21": 98,
+      "metric_22": 23,
+      "metric_24": 90,
+      "metric_28": 66,
+      "metric_30": 34
     },
     {
       "gene_seqnames": "MAG06_805",
@@ -71,7 +83,21 @@
       "eggnog_X10": "01X84@aproNOG,08RXX@bactNOG,1782W@proNOG,COG0625@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "Q",
-      "eggnog_X13": "maleylacetoacetate isomerase"
+      "eggnog_X13": "maleylacetoacetate isomerase",
+      "metric_3": 55,
+      "metric_4": 56,
+      "metric_7": 60,
+      "metric_10": 31,
+      "metric_11": 74,
+      "metric_12": 39,
+      "metric_13": 1,
+      "metric_15": 62,
+      "metric_16": 35,
+      "metric_18": 92,
+      "metric_21": 24,
+      "metric_23": 2,
+      "metric_26": 42,
+      "metric_30": 88
     },
     {
       "gene_seqnames": "MAG06_805",
@@ -105,7 +131,22 @@
       "eggnog_X10": "01SQH@aproNOG,05CIY@bactNOG,16PZY@proNOG,COG0788@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "F",
-      "eggnog_X13": "formyltetrahydrofolate deformylase"
+      "eggnog_X13": "formyltetrahydrofolate deformylase",
+      "metric_2": 13,
+      "metric_3": 30,
+      "metric_4": 16,
+      "metric_5": 12,
+      "metric_7": 7,
+      "metric_10": 94,
+      "metric_12": 95,
+      "metric_15": 79,
+      "metric_16": 50,
+      "metric_18": 1,
+      "metric_19": 8,
+      "metric_20": 10,
+      "metric_21": 18,
+      "metric_22": 32,
+      "metric_27": 43
     }
   ],
   "diamond_track": [

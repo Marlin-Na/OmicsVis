@@ -36,7 +36,19 @@
       "eggnog_X10": "07QRI@bactNOG,16PQZ@proNOG,COG3957@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "G",
-      "eggnog_X13": "Phosphoketolase"
+      "eggnog_X13": "Phosphoketolase",
+      "metric_11": 81,
+      "metric_13": 43,
+      "metric_15": 51,
+      "metric_16": 16,
+      "metric_17": 74,
+      "metric_18": 72,
+      "metric_20": 31,
+      "metric_22": 63,
+      "metric_26": 43,
+      "metric_27": 85,
+      "metric_29": 25,
+      "metric_30": 17
     },
     {
       "gene_seqnames": "MAG06_274",
@@ -70,7 +82,20 @@
       "eggnog_X10": "01RUF@aproNOG,05E9Z@bactNOG,16PSS@proNOG,COG0451@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "M",
-      "eggnog_X13": "nad-dependent epimerase dehydratase"
+      "eggnog_X13": "nad-dependent epimerase dehydratase",
+      "metric_4": 69,
+      "metric_6": 68,
+      "metric_7": 95,
+      "metric_9": 50,
+      "metric_10": 37,
+      "metric_12": 95,
+      "metric_13": 95,
+      "metric_17": 5,
+      "metric_18": 15,
+      "metric_23": 65,
+      "metric_26": 46,
+      "metric_27": 77,
+      "metric_30": 30
     },
     {
       "gene_seqnames": "MAG06_274",
@@ -104,7 +129,23 @@
       "eggnog_X10": "01QPT@aproNOG,05C01@bactNOG,16PQJ@proNOG,COG0129@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "E",
-      "eggnog_X13": "Dihydroxy-acid dehydratase"
+      "eggnog_X13": "Dihydroxy-acid dehydratase",
+      "metric_3": 13,
+      "metric_5": 12,
+      "metric_9": 22,
+      "metric_10": 30,
+      "metric_12": 55,
+      "metric_13": 25,
+      "metric_14": 88,
+      "metric_15": 4,
+      "metric_16": 3,
+      "metric_17": 21,
+      "metric_19": 92,
+      "metric_22": 2,
+      "metric_23": 50,
+      "metric_24": 13,
+      "metric_25": 6,
+      "metric_26": 6
     }
   ],
   "diamond_track": [

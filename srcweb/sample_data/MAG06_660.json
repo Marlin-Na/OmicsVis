@@ -36,7 +36,20 @@
       "eggnog_X10": "025AH@aproNOG,08K0B@bactNOG,0XQQT@NOG,175F9@proNOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "T",
-      "eggnog_X13": "Diguanylate cyclase"
+      "eggnog_X13": "Diguanylate cyclase",
+      "metric_1": 90,
+      "metric_4": 12,
+      "metric_10": 13,
+      "metric_13": 91,
+      "metric_17": 72,
+      "metric_19": 58,
+      "metric_20": 95,
+      "metric_21": 77,
+      "metric_24": 18,
+      "metric_25": 27,
+      "metric_26": 66,
+      "metric_28": 86,
+      "metric_30": 16
     },
     {
       "gene_seqnames": "MAG06_660",
@@ -70,7 +83,20 @@
       "eggnog_X10": "0271A@aproNOG,07XW0@bactNOG,178E0@proNOG,COG0687@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "E",
-      "eggnog_X13": "putrescine-binding periplasmic protein"
+      "eggnog_X13": "putrescine-binding periplasmic protein",
+      "metric_1": 74,
+      "metric_2": 17,
+      "metric_3": 75,
+      "metric_6": 59,
+      "metric_7": 1,
+      "metric_9": 61,
+      "metric_16": 52,
+      "metric_18": 40,
+      "metric_20": 98,
+      "metric_21": 81,
+      "metric_22": 1,
+      "metric_23": 99,
+      "metric_27": 97
     }
   ],
   "diamond_track": [

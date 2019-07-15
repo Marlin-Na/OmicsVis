@@ -35,7 +35,20 @@
       "eggnog_X10": "COG0451@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "M",
-      "eggnog_X13": "Nad-dependent epimerase dehydratase"
+      "eggnog_X13": "Nad-dependent epimerase dehydratase",
+      "metric_1": 79,
+      "metric_2": 29,
+      "metric_7": 61,
+      "metric_8": 89,
+      "metric_9": 2,
+      "metric_11": 82,
+      "metric_12": 31,
+      "metric_14": 96,
+      "metric_18": 93,
+      "metric_24": 92,
+      "metric_26": 8,
+      "metric_29": 48,
+      "metric_30": 41
     },
     {
       "gene_seqnames": "MAG06_952",
@@ -67,7 +80,19 @@
       "eggnog_X10": "026CG@aproNOG,07U46@bactNOG,17WYX@proNOG,COG0673@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "S",
-      "eggnog_X13": "Oxidoreductase family, NAD-binding Rossmann fold"
+      "eggnog_X13": "Oxidoreductase family, NAD-binding Rossmann fold",
+      "metric_1": 77,
+      "metric_5": 48,
+      "metric_6": 1,
+      "metric_7": 95,
+      "metric_8": 90,
+      "metric_14": 54,
+      "metric_15": 42,
+      "metric_19": 65,
+      "metric_23": 8,
+      "metric_24": 25,
+      "metric_28": 37,
+      "metric_30": 91
     }
   ],
   "diamond_track": [

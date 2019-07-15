@@ -38,7 +38,21 @@
       "eggnog_X10": "01S9J@aproNOG,05C5C@bactNOG,16PWY@proNOG,COG0860@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "M",
-      "eggnog_X13": "N-acetylmuramoyl-L-alanine amidase"
+      "eggnog_X13": "N-acetylmuramoyl-L-alanine amidase",
+      "metric_1": 14,
+      "metric_3": 84,
+      "metric_4": 27,
+      "metric_6": 52,
+      "metric_7": 82,
+      "metric_10": 96,
+      "metric_12": 51,
+      "metric_18": 9,
+      "metric_23": 17,
+      "metric_25": 59,
+      "metric_26": 54,
+      "metric_27": 18,
+      "metric_29": 17,
+      "metric_30": 39
     },
     {
       "gene_seqnames": "MAG06_936",
@@ -73,7 +87,22 @@
       "eggnog_X10": "02CSS@aproNOG,07QQB@bactNOG,16UKR@proNOG,COG1530@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "J",
-      "eggnog_X13": "Ribonuclease E/G family"
+      "eggnog_X13": "Ribonuclease E/G family",
+      "metric_3": 73,
+      "metric_7": 42,
+      "metric_12": 59,
+      "metric_13": 89,
+      "metric_14": 9,
+      "metric_15": 55,
+      "metric_16": 62,
+      "metric_19": 60,
+      "metric_21": 64,
+      "metric_22": 81,
+      "metric_23": 26,
+      "metric_24": 26,
+      "metric_26": 79,
+      "metric_27": 70,
+      "metric_29": 40
     }
   ],
   "diamond_track": [

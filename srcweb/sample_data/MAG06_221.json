@@ -37,7 +37,22 @@
       "eggnog_X10": "01SXM@aproNOG,05E26@bactNOG,177YQ@proNOG,COG2518@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "O",
-      "eggnog_X13": "Catalyzes the methyl esterification of L-isoaspartyl residues in peptides and proteins that result from spontaneous decomposition of normal L-aspartyl and L-asparaginyl residues. It plays a role in the repair and or degradation of damaged proteins (By similarity)"
+      "eggnog_X13": "Catalyzes the methyl esterification of L-isoaspartyl residues in peptides and proteins that result from spontaneous decomposition of normal L-aspartyl and L-asparaginyl residues. It plays a role in the repair and or degradation of damaged proteins (By similarity)",
+      "metric_1": 41,
+      "metric_4": 23,
+      "metric_6": 47,
+      "metric_10": 60,
+      "metric_11": 86,
+      "metric_12": 58,
+      "metric_13": 10,
+      "metric_14": 31,
+      "metric_20": 90,
+      "metric_23": 20,
+      "metric_24": 43,
+      "metric_26": 2,
+      "metric_27": 81,
+      "metric_28": 83,
+      "metric_29": 63
     },
     {
       "gene_seqnames": "MAG06_221",
@@ -71,7 +86,20 @@
       "eggnog_X10": "05DF2@bactNOG,1740R@proNOG,COG0839@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "C",
-      "eggnog_X13": "NADH dehydrogenase subunit j"
+      "eggnog_X13": "NADH dehydrogenase subunit j",
+      "metric_1": 8,
+      "metric_2": 39,
+      "metric_6": 79,
+      "metric_11": 71,
+      "metric_12": 14,
+      "metric_13": 14,
+      "metric_14": 54,
+      "metric_21": 33,
+      "metric_23": 37,
+      "metric_24": 21,
+      "metric_25": 62,
+      "metric_26": 40,
+      "metric_30": 2
     },
     {
       "gene_seqnames": "MAG06_221",
@@ -107,7 +135,18 @@
       "eggnog_X10": "05M5H@bactNOG,17FVN@proNOG,COG0713@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "C",
-      "eggnog_X13": "NDH-1 shuttles electrons from NADH, via FMN and iron- sulfur (Fe-S) centers, to quinones in the respiratory chain. The immediate electron acceptor for the enzyme in this species is believed to be ubiquinone. Couples the redox reaction to proton translocation (for every two electrons transferred, four hydrogen ions are translocated across the cytoplasmic membrane), and thus conserves the redox energy in a proton gradient (By similarity)"
+      "eggnog_X13": "NDH-1 shuttles electrons from NADH, via FMN and iron- sulfur (Fe-S) centers, to quinones in the respiratory chain. The immediate electron acceptor for the enzyme in this species is believed to be ubiquinone. Couples the redox reaction to proton translocation (for every two electrons transferred, four hydrogen ions are translocated across the cytoplasmic membrane), and thus conserves the redox energy in a proton gradient (By similarity)",
+      "metric_1": 99,
+      "metric_2": 27,
+      "metric_3": 46,
+      "metric_5": 85,
+      "metric_7": 16,
+      "metric_11": 94,
+      "metric_15": 46,
+      "metric_16": 59,
+      "metric_20": 8,
+      "metric_23": 69,
+      "metric_25": 18
     },
     {
       "gene_seqnames": "MAG06_221",
@@ -142,7 +181,17 @@
       "eggnog_X10": "02E49@aproNOG,08I5Q@bactNOG,172IP@proNOG,COG0651@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "C",
-      "eggnog_X13": "NADH dehydrogenase"
+      "eggnog_X13": "NADH dehydrogenase",
+      "metric_4": 66,
+      "metric_6": 38,
+      "metric_10": 51,
+      "metric_13": 99,
+      "metric_18": 21,
+      "metric_19": 36,
+      "metric_20": 18,
+      "metric_22": 53,
+      "metric_23": 89,
+      "metric_26": 61
     }
   ],
   "diamond_track": [

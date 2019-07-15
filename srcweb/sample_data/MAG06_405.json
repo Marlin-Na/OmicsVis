@@ -37,7 +37,20 @@
       "eggnog_X10": "01SD9@aproNOG,05CTK@bactNOG,16PB9@proNOG,COG1429@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "H",
-      "eggnog_X13": "cobaltochelatase subunit CobN"
+      "eggnog_X13": "cobaltochelatase subunit CobN",
+      "metric_1": 61,
+      "metric_4": 26,
+      "metric_7": 36,
+      "metric_10": 13,
+      "metric_11": 33,
+      "metric_13": 73,
+      "metric_15": 99,
+      "metric_16": 89,
+      "metric_17": 95,
+      "metric_18": 69,
+      "metric_20": 49,
+      "metric_24": 95,
+      "metric_26": 23
     },
     {
       "gene_seqnames": "MAG06_405",
@@ -71,7 +84,21 @@
       "eggnog_X10": "01QQJ@aproNOG,07QRP@bactNOG,16PR4@proNOG,COG0523@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "S",
-      "eggnog_X13": "cobalamin biosynthesis protein CobW"
+      "eggnog_X13": "cobalamin biosynthesis protein CobW",
+      "metric_1": 25,
+      "metric_6": 12,
+      "metric_8": 84,
+      "metric_12": 6,
+      "metric_15": 86,
+      "metric_16": 34,
+      "metric_18": 52,
+      "metric_20": 65,
+      "metric_21": 2,
+      "metric_22": 62,
+      "metric_24": 73,
+      "metric_27": 72,
+      "metric_28": 30,
+      "metric_29": 33
     },
     {
       "gene_seqnames": "MAG06_405",
@@ -107,7 +134,22 @@
       "eggnog_X10": "01Y45@aproNOG,08YZT@bactNOG,17CRD@proNOG,COG2087@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "H",
-      "eggnog_X13": "Adenosylcobinamide kinase"
+      "eggnog_X13": "Adenosylcobinamide kinase",
+      "metric_2": 52,
+      "metric_6": 83,
+      "metric_8": 26,
+      "metric_9": 76,
+      "metric_10": 21,
+      "metric_12": 15,
+      "metric_13": 75,
+      "metric_16": 39,
+      "metric_18": 85,
+      "metric_20": 7,
+      "metric_21": 98,
+      "metric_22": 16,
+      "metric_23": 75,
+      "metric_24": 96,
+      "metric_27": 36
     },
     {
       "gene_seqnames": "MAG06_405",
@@ -131,7 +173,12 @@
       "gene_sscore": "4.61",
       "gene_rscore": "3.84",
       "gene_uscore": "0.08",
-      "gene_tscore": "1.84"
+      "gene_tscore": "1.84",
+      "metric_4": 59,
+      "metric_10": 27,
+      "metric_11": 42,
+      "metric_14": 56,
+      "metric_15": 38
     },
     {
       "gene_seqnames": "MAG06_405",
@@ -163,7 +210,23 @@
       "eggnog_X10": "021TW@aproNOG,05XB0@bactNOG,17KAA@proNOG,COG4254@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "M",
-      "eggnog_X13": "FecR protein"
+      "eggnog_X13": "FecR protein",
+      "metric_1": 51,
+      "metric_2": 15,
+      "metric_3": 72,
+      "metric_5": 79,
+      "metric_6": 64,
+      "metric_7": 6,
+      "metric_10": 84,
+      "metric_11": 62,
+      "metric_13": 28,
+      "metric_17": 94,
+      "metric_18": 1,
+      "metric_19": 33,
+      "metric_20": 18,
+      "metric_21": 76,
+      "metric_24": 77,
+      "metric_30": 32
     }
   ],
   "diamond_track": [

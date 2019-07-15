@@ -37,7 +37,21 @@
       "eggnog_X10": "01RET@aproNOG,05E1P@bactNOG,16PB4@proNOG,COG2844@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "O",
-      "eggnog_X13": "Modifies, by uridylylation or deuridylylation the PII (GlnB) regulatory protein (By similarity)"
+      "eggnog_X13": "Modifies, by uridylylation or deuridylylation the PII (GlnB) regulatory protein (By similarity)",
+      "metric_1": 7,
+      "metric_2": 86,
+      "metric_3": 78,
+      "metric_4": 66,
+      "metric_5": 80,
+      "metric_6": 26,
+      "metric_8": 5,
+      "metric_11": 14,
+      "metric_15": 94,
+      "metric_19": 89,
+      "metric_22": 96,
+      "metric_23": 13,
+      "metric_26": 29,
+      "metric_27": 10
     },
     {
       "gene_seqnames": "MAG06_399",
@@ -73,7 +87,19 @@
       "eggnog_X10": "01QJ4@aproNOG,05CJR@bactNOG,16PF6@proNOG,COG0728@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "S",
-      "eggnog_X13": "integral membrane protein mvin"
+      "eggnog_X13": "integral membrane protein mvin",
+      "metric_5": 40,
+      "metric_6": 19,
+      "metric_11": 77,
+      "metric_13": 66,
+      "metric_14": 63,
+      "metric_16": 73,
+      "metric_18": 71,
+      "metric_23": 30,
+      "metric_25": 51,
+      "metric_26": 43,
+      "metric_27": 60,
+      "metric_28": 25
     }
   ],
   "diamond_track": [

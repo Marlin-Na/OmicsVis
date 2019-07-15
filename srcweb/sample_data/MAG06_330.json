@@ -34,7 +34,19 @@
       "eggnog_X10": "05R3G@bactNOG,16WI4@proNOG,COG4692@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "G",
-      "eggnog_X13": "Inherit from bactNOG: BNR Asp-box repeat protein"
+      "eggnog_X13": "Inherit from bactNOG: BNR Asp-box repeat protein",
+      "metric_1": 17,
+      "metric_5": 42,
+      "metric_6": 36,
+      "metric_9": 23,
+      "metric_10": 21,
+      "metric_16": 39,
+      "metric_17": 63,
+      "metric_18": 5,
+      "metric_26": 71,
+      "metric_27": 26,
+      "metric_28": 1,
+      "metric_30": 23
     },
     {
       "gene_seqnames": "MAG06_330",
@@ -67,7 +79,18 @@
       "eggnog_X10": "01VBU@aproNOG,05D3V@bactNOG,17658@proNOG,COG0747@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "E",
-      "eggnog_X13": "extracellular solute-binding protein"
+      "eggnog_X13": "extracellular solute-binding protein",
+      "metric_1": 36,
+      "metric_5": 95,
+      "metric_9": 1,
+      "metric_10": 79,
+      "metric_14": 19,
+      "metric_16": 95,
+      "metric_17": 99,
+      "metric_18": 56,
+      "metric_20": 31,
+      "metric_22": 13,
+      "metric_29": 51
     }
   ],
   "diamond_track": [

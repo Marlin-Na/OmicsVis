@@ -36,7 +36,16 @@
       "eggnog_X10": "01QVD@aproNOG,05DHZ@bactNOG,16R3A@proNOG,COG2945@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "S",
-      "eggnog_X13": "Alpha beta hydrolase"
+      "eggnog_X13": "Alpha beta hydrolase",
+      "metric_4": 37,
+      "metric_8": 44,
+      "metric_9": 8,
+      "metric_10": 68,
+      "metric_15": 18,
+      "metric_22": 92,
+      "metric_25": 87,
+      "metric_26": 56,
+      "metric_29": 73
     },
     {
       "gene_seqnames": "MAG06_368",
@@ -71,7 +80,20 @@
       "eggnog_X10": "01QNV@aproNOG,05C3J@bactNOG,16Q9Z@proNOG,COG1104@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "E",
-      "eggnog_X13": "Cysteine desulfurase"
+      "eggnog_X13": "Cysteine desulfurase",
+      "metric_1": 90,
+      "metric_6": 21,
+      "metric_7": 37,
+      "metric_11": 87,
+      "metric_15": 74,
+      "metric_20": 59,
+      "metric_22": 82,
+      "metric_23": 95,
+      "metric_25": 73,
+      "metric_26": 58,
+      "metric_28": 40,
+      "metric_29": 61,
+      "metric_30": 71
     }
   ],
   "diamond_track": [

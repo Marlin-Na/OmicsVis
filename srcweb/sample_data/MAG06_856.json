@@ -37,7 +37,22 @@
       "eggnog_X10": "02EFA@aproNOG,08JJ6@bactNOG,173BI@proNOG,COG4618@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "V",
-      "eggnog_X13": "Type I secretion system ATPase"
+      "eggnog_X13": "Type I secretion system ATPase",
+      "metric_1": 94,
+      "metric_3": 84,
+      "metric_4": 57,
+      "metric_6": 40,
+      "metric_9": 92,
+      "metric_11": 61,
+      "metric_12": 98,
+      "metric_13": 54,
+      "metric_14": 19,
+      "metric_17": 71,
+      "metric_19": 84,
+      "metric_24": 55,
+      "metric_25": 91,
+      "metric_27": 83,
+      "metric_28": 71
     },
     {
       "gene_seqnames": "MAG06_856",
@@ -71,7 +86,18 @@
       "eggnog_X10": "01R2Q@aproNOG,05C42@bactNOG,0XNME@NOG,16PFI@proNOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "U",
-      "eggnog_X13": "Type I secretion membrane fusion protein (HlyD"
+      "eggnog_X13": "Type I secretion membrane fusion protein (HlyD",
+      "metric_2": 8,
+      "metric_3": 42,
+      "metric_5": 23,
+      "metric_8": 81,
+      "metric_14": 59,
+      "metric_16": 10,
+      "metric_21": 63,
+      "metric_22": 76,
+      "metric_23": 32,
+      "metric_26": 85,
+      "metric_29": 75
     },
     {
       "gene_seqnames": "MAG06_856",
@@ -104,7 +130,16 @@
       "eggnog_X10": "05FDP@bactNOG,COG2188@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "K",
-      "eggnog_X13": "GntR family transcriptional regulator"
+      "eggnog_X13": "GntR family transcriptional regulator",
+      "metric_4": 15,
+      "metric_6": 32,
+      "metric_7": 73,
+      "metric_9": 78,
+      "metric_16": 49,
+      "metric_20": 31,
+      "metric_21": 67,
+      "metric_29": 64,
+      "metric_30": 12
     },
     {
       "gene_seqnames": "MAG06_856",
@@ -138,7 +173,19 @@
       "eggnog_X10": "05F8D@bactNOG,0QMZU@gproNOG,16T2Q@proNOG,COG1486@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "G",
-      "eggnog_X13": "6-phospho-beta-glucosidase"
+      "eggnog_X13": "6-phospho-beta-glucosidase",
+      "metric_7": 48,
+      "metric_10": 92,
+      "metric_11": 39,
+      "metric_13": 36,
+      "metric_14": 59,
+      "metric_16": 55,
+      "metric_17": 69,
+      "metric_18": 65,
+      "metric_24": 10,
+      "metric_25": 84,
+      "metric_26": 71,
+      "metric_28": 3
     },
     {
       "gene_seqnames": "MAG06_856",
@@ -162,7 +209,22 @@
       "gene_sscore": "2.76",
       "gene_rscore": "-0.37",
       "gene_uscore": "-1.75",
-      "gene_tscore": "3.65"
+      "gene_tscore": "3.65",
+      "metric_1": 1,
+      "metric_3": 4,
+      "metric_4": 73,
+      "metric_7": 98,
+      "metric_8": 79,
+      "metric_13": 8,
+      "metric_14": 30,
+      "metric_15": 33,
+      "metric_18": 60,
+      "metric_19": 38,
+      "metric_22": 6,
+      "metric_24": 88,
+      "metric_25": 21,
+      "metric_28": 48,
+      "metric_29": 22
     }
   ],
   "diamond_track": [

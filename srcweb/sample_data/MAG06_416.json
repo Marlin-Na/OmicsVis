@@ -26,7 +26,17 @@
       "gene_sscore": "14.14",
       "gene_rscore": "10.73",
       "gene_uscore": "-0.23",
-      "gene_tscore": "3.65"
+      "gene_tscore": "3.65",
+      "metric_4": 48,
+      "metric_6": 49,
+      "metric_9": 94,
+      "metric_10": 5,
+      "metric_19": 80,
+      "metric_21": 22,
+      "metric_22": 15,
+      "metric_26": 58,
+      "metric_28": 7,
+      "metric_29": 78
     },
     {
       "gene_seqnames": "MAG06_416",
@@ -50,7 +60,20 @@
       "gene_sscore": "0.98",
       "gene_rscore": "2.24",
       "gene_uscore": "-1.13",
-      "gene_tscore": "-0.51"
+      "gene_tscore": "-0.51",
+      "metric_1": 41,
+      "metric_2": 14,
+      "metric_4": 50,
+      "metric_5": 58,
+      "metric_9": 31,
+      "metric_11": 21,
+      "metric_14": 60,
+      "metric_15": 32,
+      "metric_17": 64,
+      "metric_18": 13,
+      "metric_19": 55,
+      "metric_26": 38,
+      "metric_29": 84
     },
     {
       "gene_seqnames": "MAG06_416",
@@ -74,7 +97,14 @@
       "gene_sscore": "17.69",
       "gene_rscore": "14.19",
       "gene_uscore": "0.51",
-      "gene_tscore": "3.65"
+      "gene_tscore": "3.65",
+      "metric_5": 79,
+      "metric_6": 88,
+      "metric_8": 71,
+      "metric_11": 71,
+      "metric_12": 88,
+      "metric_17": 10,
+      "metric_28": 76
     },
     {
       "gene_seqnames": "MAG06_416",
@@ -106,7 +136,20 @@
       "eggnog_X10": "020NW@aproNOG,05T36@bactNOG,11UNW@NOG,17H7S@proNOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "S",
-      "eggnog_X13": "translation initiation factor 2, gamma subunit, GTPase"
+      "eggnog_X13": "translation initiation factor 2, gamma subunit, GTPase",
+      "metric_1": 2,
+      "metric_2": 8,
+      "metric_3": 33,
+      "metric_5": 52,
+      "metric_6": 54,
+      "metric_10": 83,
+      "metric_13": 95,
+      "metric_21": 66,
+      "metric_23": 58,
+      "metric_24": 76,
+      "metric_25": 62,
+      "metric_26": 73,
+      "metric_29": 23
     },
     {
       "gene_seqnames": "MAG06_416",
@@ -141,7 +184,26 @@
       "eggnog_X10": "01S24@aproNOG,05C9X@bactNOG,16PKI@proNOG,COG0248@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "T",
-      "eggnog_X13": "ppx gppa phosphatase"
+      "eggnog_X13": "ppx gppa phosphatase",
+      "metric_1": 29,
+      "metric_2": 94,
+      "metric_6": 60,
+      "metric_7": 74,
+      "metric_9": 25,
+      "metric_12": 60,
+      "metric_14": 66,
+      "metric_15": 49,
+      "metric_17": 41,
+      "metric_18": 69,
+      "metric_20": 63,
+      "metric_21": 33,
+      "metric_22": 66,
+      "metric_23": 41,
+      "metric_24": 54,
+      "metric_27": 21,
+      "metric_28": 58,
+      "metric_29": 59,
+      "metric_30": 84
     }
   ],
   "diamond_track": [

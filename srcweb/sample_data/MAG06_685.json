@@ -35,7 +35,21 @@
       "eggnog_X10": "05CHU@bactNOG,0BAQ6@bproNOG,16PGG@proNOG,COG0183@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "I",
-      "eggnog_X13": "Acetyl-CoA acetyltransferase (EC"
+      "eggnog_X13": "Acetyl-CoA acetyltransferase (EC",
+      "metric_2": 24,
+      "metric_3": 13,
+      "metric_4": 19,
+      "metric_5": 42,
+      "metric_6": 3,
+      "metric_11": 79,
+      "metric_14": 45,
+      "metric_15": 20,
+      "metric_17": 45,
+      "metric_22": 58,
+      "metric_24": 81,
+      "metric_25": 98,
+      "metric_26": 16,
+      "metric_30": 9
     },
     {
       "gene_seqnames": "MAG06_685",
@@ -70,7 +84,20 @@
       "eggnog_X10": "01Y57@aproNOG,08Z10@bactNOG,17CDQ@proNOG,COG0051@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "J",
-      "eggnog_X13": "Involved in the binding of tRNA to the ribosomes (By similarity)"
+      "eggnog_X13": "Involved in the binding of tRNA to the ribosomes (By similarity)",
+      "metric_2": 45,
+      "metric_3": 53,
+      "metric_4": 46,
+      "metric_7": 42,
+      "metric_8": 17,
+      "metric_10": 88,
+      "metric_12": 43,
+      "metric_20": 14,
+      "metric_21": 72,
+      "metric_24": 70,
+      "metric_25": 32,
+      "metric_27": 58,
+      "metric_29": 80
     },
     {
       "gene_seqnames": "MAG06_685",
@@ -105,7 +132,18 @@
       "eggnog_X10": "01QWB@aproNOG,05EEE@bactNOG,16SCH@proNOG,COG0087@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "J",
-      "eggnog_X13": "One of the primary rRNA binding proteins, it binds directly near the 3'-end of the 23S rRNA, where it nucleates assembly of the 50S subunit (By similarity)"
+      "eggnog_X13": "One of the primary rRNA binding proteins, it binds directly near the 3'-end of the 23S rRNA, where it nucleates assembly of the 50S subunit (By similarity)",
+      "metric_1": 18,
+      "metric_2": 42,
+      "metric_5": 93,
+      "metric_6": 20,
+      "metric_9": 11,
+      "metric_16": 74,
+      "metric_17": 85,
+      "metric_20": 59,
+      "metric_23": 36,
+      "metric_25": 19,
+      "metric_28": 75
     },
     {
       "gene_seqnames": "MAG06_685",
@@ -140,7 +178,20 @@
       "eggnog_X10": "01TFX@aproNOG,06U5A@bactNOG,16PQP@proNOG,COG0088@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "J",
-      "eggnog_X13": "One of the primary rRNA binding proteins, this protein initially binds near the 5'-end of the 23S rRNA. It is important during the early stages of 50S assembly. It makes multiple contacts with different domains of the 23S rRNA in the assembled 50S subunit and ribosome (By similarity)"
+      "eggnog_X13": "One of the primary rRNA binding proteins, this protein initially binds near the 5'-end of the 23S rRNA. It is important during the early stages of 50S assembly. It makes multiple contacts with different domains of the 23S rRNA in the assembled 50S subunit and ribosome (By similarity)",
+      "metric_2": 47,
+      "metric_5": 33,
+      "metric_7": 77,
+      "metric_9": 30,
+      "metric_10": 15,
+      "metric_11": 61,
+      "metric_13": 11,
+      "metric_17": 93,
+      "metric_19": 42,
+      "metric_20": 59,
+      "metric_22": 34,
+      "metric_29": 66,
+      "metric_30": 47
     }
   ],
   "diamond_track": [

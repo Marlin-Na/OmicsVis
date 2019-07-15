@@ -35,7 +35,21 @@
       "eggnog_X10": "01WK5@aproNOG,07VZ9@bactNOG,17DMI@proNOG,COG0300@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "S",
-      "eggnog_X13": "Dehydrogenase"
+      "eggnog_X13": "Dehydrogenase",
+      "metric_1": 58,
+      "metric_4": 23,
+      "metric_8": 57,
+      "metric_10": 43,
+      "metric_15": 52,
+      "metric_17": 25,
+      "metric_20": 13,
+      "metric_21": 79,
+      "metric_23": 86,
+      "metric_24": 61,
+      "metric_25": 17,
+      "metric_26": 74,
+      "metric_29": 4,
+      "metric_30": 76
     },
     {
       "gene_seqnames": "MAG06_833",
@@ -65,7 +79,19 @@
       "eggnog_X4": 427.6,
       "eggnog_X9": "bactNOG[38]",
       "eggnog_X10": "01UKZ@aproNOG,08NH9@bactNOG,116T9@NOG,1778P@proNOG",
-      "eggnog_X11": "NA|NA|NA"
+      "eggnog_X11": "NA|NA|NA",
+      "metric_1": 34,
+      "metric_5": 39,
+      "metric_6": 85,
+      "metric_9": 38,
+      "metric_13": 66,
+      "metric_16": 36,
+      "metric_18": 42,
+      "metric_26": 69,
+      "metric_27": 92,
+      "metric_28": 49,
+      "metric_29": 79,
+      "metric_30": 68
     }
   ],
   "diamond_track": [

@@ -34,7 +34,24 @@
       "eggnog_X10": "023DR@aproNOG,061SP@bactNOG,0ZSFY@NOG,17N3S@proNOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "O",
-      "eggnog_X13": "protease inhibitor"
+      "eggnog_X13": "protease inhibitor",
+      "metric_2": 42,
+      "metric_7": 81,
+      "metric_9": 79,
+      "metric_10": 82,
+      "metric_11": 72,
+      "metric_13": 45,
+      "metric_15": 39,
+      "metric_17": 57,
+      "metric_18": 38,
+      "metric_20": 98,
+      "metric_22": 91,
+      "metric_23": 45,
+      "metric_25": 9,
+      "metric_27": 55,
+      "metric_28": 71,
+      "metric_29": 73,
+      "metric_30": 11
     },
     {
       "gene_seqnames": "MAG06_361",
@@ -66,7 +83,19 @@
       "eggnog_X10": "01W2R@aproNOG,08WUK@bactNOG,174BC@proNOG,COG3921@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "S",
-      "eggnog_X13": "Extensin family"
+      "eggnog_X13": "Extensin family",
+      "metric_1": 91,
+      "metric_2": 94,
+      "metric_3": 73,
+      "metric_4": 92,
+      "metric_5": 14,
+      "metric_9": 34,
+      "metric_14": 12,
+      "metric_18": 2,
+      "metric_20": 17,
+      "metric_22": 39,
+      "metric_25": 78,
+      "metric_27": 34
     }
   ],
   "diamond_track": [

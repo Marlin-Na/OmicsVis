@@ -35,7 +35,21 @@
       "eggnog_X10": "01RRH@aproNOG,07SM8@bactNOG,16SH1@proNOG,COG3899@NOG,COG3903@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "T",
-      "eggnog_X13": "Guanylate cyclase"
+      "eggnog_X13": "Guanylate cyclase",
+      "metric_3": 39,
+      "metric_5": 75,
+      "metric_6": 3,
+      "metric_7": 96,
+      "metric_8": 81,
+      "metric_11": 77,
+      "metric_12": 32,
+      "metric_15": 21,
+      "metric_17": 85,
+      "metric_19": 84,
+      "metric_20": 18,
+      "metric_22": 29,
+      "metric_25": 96,
+      "metric_30": 11
     },
     {
       "gene_seqnames": "MAG06_909",
@@ -68,7 +82,21 @@
       "eggnog_X10": "01YXG@aproNOG,08SKZ@bactNOG,11HC6@NOG,179G7@proNOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "S",
-      "eggnog_X13": "Patatin-like phospholipase"
+      "eggnog_X13": "Patatin-like phospholipase",
+      "metric_4": 97,
+      "metric_5": 76,
+      "metric_6": 23,
+      "metric_7": 21,
+      "metric_8": 31,
+      "metric_9": 69,
+      "metric_10": 28,
+      "metric_12": 85,
+      "metric_14": 82,
+      "metric_15": 47,
+      "metric_21": 89,
+      "metric_24": 77,
+      "metric_26": 96,
+      "metric_28": 11
     }
   ],
   "diamond_track": [

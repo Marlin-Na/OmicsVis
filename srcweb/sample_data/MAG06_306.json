@@ -38,7 +38,20 @@
       "eggnog_X10": "01Q7E@aproNOG,05C1M@bactNOG,16PDK@proNOG,COG0505@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "F",
-      "eggnog_X13": "Carbamoyl-phosphate synthetase glutamine chain"
+      "eggnog_X13": "Carbamoyl-phosphate synthetase glutamine chain",
+      "metric_1": 82,
+      "metric_2": 52,
+      "metric_3": 85,
+      "metric_8": 23,
+      "metric_12": 64,
+      "metric_15": 23,
+      "metric_17": 30,
+      "metric_20": 17,
+      "metric_21": 42,
+      "metric_22": 24,
+      "metric_27": 41,
+      "metric_28": 6,
+      "metric_29": 76
     },
     {
       "gene_seqnames": "MAG06_306",
@@ -70,7 +83,19 @@
       "eggnog_X10": "01UK8@aproNOG,05EMX@bactNOG,0XR85@NOG,16S8E@proNOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "K",
-      "eggnog_X13": "LysR family transcriptional regulator"
+      "eggnog_X13": "LysR family transcriptional regulator",
+      "metric_2": 29,
+      "metric_10": 34,
+      "metric_13": 90,
+      "metric_14": 17,
+      "metric_15": 30,
+      "metric_19": 18,
+      "metric_20": 13,
+      "metric_21": 47,
+      "metric_23": 96,
+      "metric_24": 45,
+      "metric_26": 70,
+      "metric_27": 24
     },
     {
       "gene_seqnames": "MAG06_306",
@@ -102,7 +127,18 @@
       "eggnog_X10": "01S2Q@aproNOG,05CBZ@bactNOG,0XQPQ@NOG,16RSS@proNOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "S",
-      "eggnog_X13": "Short-chain dehydrogenase reductase SDR"
+      "eggnog_X13": "Short-chain dehydrogenase reductase SDR",
+      "metric_5": 96,
+      "metric_8": 37,
+      "metric_12": 87,
+      "metric_14": 63,
+      "metric_19": 81,
+      "metric_21": 68,
+      "metric_22": 11,
+      "metric_25": 7,
+      "metric_27": 31,
+      "metric_28": 63,
+      "metric_29": 52
     },
     {
       "gene_seqnames": "MAG06_306",
@@ -134,7 +170,20 @@
       "eggnog_X10": "08QX9@bactNOG,0XTEH@NOG,17IV4@proNOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "S",
-      "eggnog_X13": "6-phosphogluconate dehydrogenase, NAD-binding"
+      "eggnog_X13": "6-phosphogluconate dehydrogenase, NAD-binding",
+      "metric_2": 1,
+      "metric_3": 50,
+      "metric_5": 89,
+      "metric_8": 56,
+      "metric_10": 20,
+      "metric_11": 68,
+      "metric_15": 38,
+      "metric_16": 64,
+      "metric_20": 55,
+      "metric_21": 30,
+      "metric_23": 15,
+      "metric_26": 66,
+      "metric_30": 63
     }
   ],
   "diamond_track": [

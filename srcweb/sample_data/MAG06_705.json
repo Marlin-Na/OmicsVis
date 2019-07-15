@@ -38,7 +38,20 @@
       "eggnog_X10": "01SHX@aproNOG,05CNK@bactNOG,16PNI@proNOG,COG0661@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "H",
-      "eggnog_X13": "Required, probably indirectly, for the hydroxylation of 2-octaprenylphenol to 2-octaprenyl-6-hydroxy-phenol, the fourth step in ubiquinone biosynthesis (By similarity)"
+      "eggnog_X13": "Required, probably indirectly, for the hydroxylation of 2-octaprenylphenol to 2-octaprenyl-6-hydroxy-phenol, the fourth step in ubiquinone biosynthesis (By similarity)",
+      "metric_1": 13,
+      "metric_2": 26,
+      "metric_5": 90,
+      "metric_6": 24,
+      "metric_7": 90,
+      "metric_8": 99,
+      "metric_12": 99,
+      "metric_17": 31,
+      "metric_19": 19,
+      "metric_20": 27,
+      "metric_22": 15,
+      "metric_25": 91,
+      "metric_29": 53
     },
     {
       "gene_seqnames": "MAG06_705",
@@ -71,7 +84,24 @@
       "eggnog_X10": "01SS3@aproNOG,05RGH@bactNOG,16VNB@proNOG,COG1028@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "I",
-      "eggnog_X13": "Dehydrogenase reductase"
+      "eggnog_X13": "Dehydrogenase reductase",
+      "metric_1": 30,
+      "metric_3": 60,
+      "metric_4": 71,
+      "metric_5": 94,
+      "metric_6": 29,
+      "metric_8": 5,
+      "metric_12": 74,
+      "metric_14": 97,
+      "metric_15": 62,
+      "metric_16": 81,
+      "metric_18": 62,
+      "metric_19": 92,
+      "metric_20": 35,
+      "metric_24": 32,
+      "metric_26": 3,
+      "metric_28": 35,
+      "metric_30": 7
     }
   ],
   "diamond_track": [

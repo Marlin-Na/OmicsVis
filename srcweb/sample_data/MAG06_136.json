@@ -36,7 +36,21 @@
       "eggnog_X10": "01T1U@aproNOG,07ZEA@bactNOG,0ZBH0@NOG,1757S@proNOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "L",
-      "eggnog_X13": "Replication protein c"
+      "eggnog_X13": "Replication protein c",
+      "metric_1": 42,
+      "metric_6": 98,
+      "metric_8": 27,
+      "metric_9": 24,
+      "metric_10": 14,
+      "metric_15": 40,
+      "metric_16": 13,
+      "metric_17": 91,
+      "metric_20": 55,
+      "metric_21": 2,
+      "metric_26": 23,
+      "metric_28": 25,
+      "metric_29": 9,
+      "metric_30": 40
     },
     {
       "gene_seqnames": "MAG06_136",
@@ -70,7 +84,22 @@
       "eggnog_X10": "01X6U@aproNOG,08FGK@bactNOG,179X3@proNOG,COG1475@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "K",
-      "eggnog_X13": "Plasmid partitioning protein"
+      "eggnog_X13": "Plasmid partitioning protein",
+      "metric_1": 17,
+      "metric_2": 81,
+      "metric_4": 64,
+      "metric_5": 22,
+      "metric_6": 72,
+      "metric_7": 69,
+      "metric_8": 8,
+      "metric_11": 51,
+      "metric_12": 44,
+      "metric_13": 90,
+      "metric_14": 2,
+      "metric_16": 92,
+      "metric_20": 1,
+      "metric_25": 50,
+      "metric_29": 77
     },
     {
       "gene_seqnames": "MAG06_136",
@@ -105,7 +134,16 @@
       "eggnog_X10": "01QBQ@aproNOG,07R2J@bactNOG,16PGB@proNOG,COG1192@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "D",
-      "eggnog_X13": "Partitioning protein"
+      "eggnog_X13": "Partitioning protein",
+      "metric_3": 77,
+      "metric_5": 47,
+      "metric_6": 4,
+      "metric_8": 66,
+      "metric_9": 91,
+      "metric_12": 62,
+      "metric_15": 58,
+      "metric_19": 90,
+      "metric_21": 90
     },
     {
       "gene_seqnames": "MAG06_136",
@@ -129,7 +167,21 @@
       "gene_sscore": "8.02",
       "gene_rscore": "6.15",
       "gene_uscore": "-0.51",
-      "gene_tscore": "2.38"
+      "gene_tscore": "2.38",
+      "metric_3": 59,
+      "metric_4": 28,
+      "metric_6": 78,
+      "metric_8": 38,
+      "metric_10": 16,
+      "metric_14": 58,
+      "metric_16": 70,
+      "metric_19": 7,
+      "metric_22": 92,
+      "metric_24": 10,
+      "metric_25": 52,
+      "metric_28": 85,
+      "metric_29": 91,
+      "metric_30": 78
     }
   ],
   "diamond_track": [

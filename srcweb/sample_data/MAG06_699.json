@@ -34,7 +34,21 @@
       "eggnog_X10": "01QRS@aproNOG,05BZU@bactNOG,0XNMH@NOG,16PBJ@proNOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "T",
-      "eggnog_X13": "Diguanylate cyclase phosphodiesterase"
+      "eggnog_X13": "Diguanylate cyclase phosphodiesterase",
+      "metric_1": 71,
+      "metric_4": 16,
+      "metric_5": 28,
+      "metric_6": 22,
+      "metric_13": 33,
+      "metric_14": 96,
+      "metric_15": 97,
+      "metric_16": 57,
+      "metric_17": 16,
+      "metric_21": 48,
+      "metric_25": 37,
+      "metric_26": 63,
+      "metric_28": 79,
+      "metric_29": 47
     }
   ],
   "diamond_track": [

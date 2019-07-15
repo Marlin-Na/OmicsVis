@@ -36,7 +36,20 @@
       "eggnog_X10": "01QEC@aproNOG,05DD8@bactNOG,16QVC@proNOG,COG4547@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "H",
-      "eggnog_X13": "Cobalt chelatase, pCobT subunit"
+      "eggnog_X13": "Cobalt chelatase, pCobT subunit",
+      "metric_6": 56,
+      "metric_10": 73,
+      "metric_11": 15,
+      "metric_12": 98,
+      "metric_15": 86,
+      "metric_17": 2,
+      "metric_18": 65,
+      "metric_20": 23,
+      "metric_25": 31,
+      "metric_26": 29,
+      "metric_28": 54,
+      "metric_29": 84,
+      "metric_30": 68
     },
     {
       "gene_seqnames": "MAG06_775",
@@ -70,7 +83,19 @@
       "eggnog_X10": "01QP3@aproNOG,05DEJ@bactNOG,16PSR@proNOG,COG0714@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "H",
-      "eggnog_X13": "cobaltochelatase, CobS subunit"
+      "eggnog_X13": "cobaltochelatase, CobS subunit",
+      "metric_9": 64,
+      "metric_10": 76,
+      "metric_11": 6,
+      "metric_13": 86,
+      "metric_15": 56,
+      "metric_20": 82,
+      "metric_21": 72,
+      "metric_23": 74,
+      "metric_24": 72,
+      "metric_27": 1,
+      "metric_28": 17,
+      "metric_30": 50
     }
   ],
   "diamond_track": [

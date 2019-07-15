@@ -38,7 +38,19 @@
       "eggnog_X10": "02E9E@aproNOG,08IQF@bactNOG,172WM@proNOG,COG0365@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "I",
-      "eggnog_X13": "Catalyzes the conversion of acetate into acetyl-CoA (AcCoA), an essential intermediate at the junction of anabolic and catabolic pathways. AcsA undergoes a two-step reaction. In the first half reaction, AcsA combines acetate with ATP to form acetyl-adenylate (AcAMP) intermediate. In the second half reaction, it can then transfer the acetyl group from AcAMP to the sulfhydryl group of CoA, forming the product AcCoA (By similarity)"
+      "eggnog_X13": "Catalyzes the conversion of acetate into acetyl-CoA (AcCoA), an essential intermediate at the junction of anabolic and catabolic pathways. AcsA undergoes a two-step reaction. In the first half reaction, AcsA combines acetate with ATP to form acetyl-adenylate (AcAMP) intermediate. In the second half reaction, it can then transfer the acetyl group from AcAMP to the sulfhydryl group of CoA, forming the product AcCoA (By similarity)",
+      "metric_1": 79,
+      "metric_4": 15,
+      "metric_6": 9,
+      "metric_7": 83,
+      "metric_9": 36,
+      "metric_11": 68,
+      "metric_12": 44,
+      "metric_18": 23,
+      "metric_20": 90,
+      "metric_23": 4,
+      "metric_24": 30,
+      "metric_30": 51
     },
     {
       "gene_seqnames": "MAG06_290",
@@ -70,7 +82,24 @@
       "eggnog_X10": "02CP3@aproNOG,086IF@bactNOG,0ZYZK@NOG,16XJ2@proNOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "S",
-      "eggnog_X13": "Protein of unknown function (DUF1674)"
+      "eggnog_X13": "Protein of unknown function (DUF1674)",
+      "metric_1": 37,
+      "metric_3": 35,
+      "metric_5": 62,
+      "metric_7": 75,
+      "metric_8": 87,
+      "metric_9": 21,
+      "metric_10": 73,
+      "metric_12": 63,
+      "metric_13": 44,
+      "metric_14": 50,
+      "metric_16": 90,
+      "metric_20": 50,
+      "metric_21": 58,
+      "metric_22": 7,
+      "metric_24": 80,
+      "metric_25": 14,
+      "metric_29": 77
     },
     {
       "gene_seqnames": "MAG06_290",
@@ -105,7 +134,17 @@
       "eggnog_X10": "01RNX@aproNOG,05D0M@bactNOG,16RW8@proNOG,COG0501@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "O",
-      "eggnog_X13": "Protease HtpX homolog"
+      "eggnog_X13": "Protease HtpX homolog",
+      "metric_7": 73,
+      "metric_10": 50,
+      "metric_11": 22,
+      "metric_12": 45,
+      "metric_13": 65,
+      "metric_15": 4,
+      "metric_16": 24,
+      "metric_22": 55,
+      "metric_29": 34,
+      "metric_30": 6
     }
   ],
   "diamond_track": [

@@ -36,7 +36,28 @@
       "eggnog_X10": "05DAQ@bactNOG,0B8JG@bproNOG,16PVJ@proNOG,COG2609@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "C",
-      "eggnog_X13": "Component of the pyruvate dehydrogenase (PDH) complex, that catalyzes the overall conversion of pyruvate to acetyl-CoA and CO(2) (By similarity)"
+      "eggnog_X13": "Component of the pyruvate dehydrogenase (PDH) complex, that catalyzes the overall conversion of pyruvate to acetyl-CoA and CO(2) (By similarity)",
+      "metric_4": 32,
+      "metric_5": 38,
+      "metric_6": 58,
+      "metric_7": 86,
+      "metric_8": 88,
+      "metric_9": 48,
+      "metric_10": 87,
+      "metric_12": 62,
+      "metric_13": 51,
+      "metric_14": 86,
+      "metric_18": 56,
+      "metric_19": 67,
+      "metric_20": 62,
+      "metric_22": 74,
+      "metric_23": 42,
+      "metric_24": 47,
+      "metric_26": 91,
+      "metric_27": 40,
+      "metric_28": 77,
+      "metric_29": 18,
+      "metric_30": 28
     },
     {
       "gene_seqnames": "MAG06_227",
@@ -71,7 +92,15 @@
       "eggnog_X10": "01S2D@aproNOG,07QSN@bactNOG,16QNZ@proNOG,COG0508@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "C",
-      "eggnog_X13": "Branched-chain alpha-keto acid dehydrogenase"
+      "eggnog_X13": "Branched-chain alpha-keto acid dehydrogenase",
+      "metric_6": 3,
+      "metric_12": 89,
+      "metric_13": 16,
+      "metric_14": 90,
+      "metric_20": 45,
+      "metric_21": 28,
+      "metric_26": 48,
+      "metric_29": 90
     }
   ],
   "diamond_track": [

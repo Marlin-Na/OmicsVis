@@ -26,7 +26,20 @@
       "gene_sscore": "-1.75",
       "gene_rscore": "-4.72",
       "gene_uscore": "-0.02",
-      "gene_tscore": "3.65"
+      "gene_tscore": "3.65",
+      "metric_2": 96,
+      "metric_4": 78,
+      "metric_11": 39,
+      "metric_12": 13,
+      "metric_13": 28,
+      "metric_15": 70,
+      "metric_16": 40,
+      "metric_18": 64,
+      "metric_19": 5,
+      "metric_21": 98,
+      "metric_24": 84,
+      "metric_26": 45,
+      "metric_27": 57
     },
     {
       "gene_seqnames": "MAG06_317",
@@ -59,7 +72,21 @@
       "eggnog_X10": "025A7@aproNOG,05W82@bactNOG,0XW47@NOG,17CYI@proNOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "S",
-      "eggnog_X13": "Inherit from bactNOG: secreted protein"
+      "eggnog_X13": "Inherit from bactNOG: secreted protein",
+      "metric_1": 15,
+      "metric_5": 74,
+      "metric_6": 83,
+      "metric_7": 81,
+      "metric_9": 46,
+      "metric_11": 18,
+      "metric_12": 74,
+      "metric_13": 27,
+      "metric_16": 9,
+      "metric_19": 78,
+      "metric_22": 71,
+      "metric_23": 24,
+      "metric_24": 85,
+      "metric_30": 32
     },
     {
       "gene_seqnames": "MAG06_317",
@@ -93,7 +120,19 @@
       "eggnog_X10": "02CJW@aproNOG,07R9Z@bactNOG,16UPE@proNOG,COG1133@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "I",
-      "eggnog_X13": "transport protein"
+      "eggnog_X13": "transport protein",
+      "metric_2": 20,
+      "metric_9": 23,
+      "metric_13": 61,
+      "metric_14": 17,
+      "metric_17": 24,
+      "metric_18": 38,
+      "metric_22": 43,
+      "metric_24": 50,
+      "metric_25": 27,
+      "metric_27": 25,
+      "metric_29": 5,
+      "metric_30": 2
     }
   ],
   "diamond_track": [

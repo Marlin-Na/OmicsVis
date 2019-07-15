@@ -34,7 +34,21 @@
       "eggnog_X10": "01VTB@aproNOG,08RJE@bactNOG,178AU@proNOG,COG0346@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "E",
-      "eggnog_X13": "Glyoxalase/Bleomycin resistance protein/Dioxygenase superfamily"
+      "eggnog_X13": "Glyoxalase/Bleomycin resistance protein/Dioxygenase superfamily",
+      "metric_2": 33,
+      "metric_3": 42,
+      "metric_5": 19,
+      "metric_8": 3,
+      "metric_10": 9,
+      "metric_12": 60,
+      "metric_13": 57,
+      "metric_18": 70,
+      "metric_19": 2,
+      "metric_20": 29,
+      "metric_23": 9,
+      "metric_26": 76,
+      "metric_27": 94,
+      "metric_29": 96
     },
     {
       "gene_seqnames": "MAG06_524",
@@ -67,7 +81,16 @@
       "eggnog_X10": "01UMK@aproNOG,05EDH@bactNOG,0XP73@NOG,16S1I@proNOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "S",
-      "eggnog_X13": "Alpha Beta Hydrolase Fold protein"
+      "eggnog_X13": "Alpha Beta Hydrolase Fold protein",
+      "metric_1": 20,
+      "metric_9": 86,
+      "metric_12": 50,
+      "metric_14": 49,
+      "metric_19": 92,
+      "metric_21": 69,
+      "metric_25": 60,
+      "metric_26": 20,
+      "metric_28": 85
     },
     {
       "gene_seqnames": "MAG06_524",
@@ -101,7 +124,25 @@
       "eggnog_X10": "01QMX@aproNOG,05ECQ@bactNOG,173KF@proNOG,COG4977@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "K",
-      "eggnog_X13": "Transcriptional regulator, ARAC family"
+      "eggnog_X13": "Transcriptional regulator, ARAC family",
+      "metric_1": 1,
+      "metric_5": 38,
+      "metric_6": 83,
+      "metric_8": 29,
+      "metric_9": 35,
+      "metric_10": 97,
+      "metric_11": 79,
+      "metric_12": 20,
+      "metric_14": 1,
+      "metric_16": 79,
+      "metric_17": 95,
+      "metric_20": 47,
+      "metric_22": 37,
+      "metric_24": 61,
+      "metric_27": 31,
+      "metric_28": 16,
+      "metric_29": 49,
+      "metric_30": 39
     }
   ],
   "diamond_track": [

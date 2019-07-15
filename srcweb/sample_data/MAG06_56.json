@@ -38,7 +38,17 @@
       "eggnog_X10": "01QG9@aproNOG,05DX1@bactNOG,16SFK@proNOG,COG1249@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "C",
-      "eggnog_X13": "Soluble pyridine nucleotide transhydrogenase"
+      "eggnog_X13": "Soluble pyridine nucleotide transhydrogenase",
+      "metric_1": 46,
+      "metric_3": 49,
+      "metric_5": 71,
+      "metric_8": 77,
+      "metric_11": 78,
+      "metric_14": 96,
+      "metric_16": 16,
+      "metric_19": 31,
+      "metric_26": 75,
+      "metric_29": 58
     },
     {
       "gene_seqnames": "MAG06_56",
@@ -72,7 +82,18 @@
       "eggnog_X10": "01QM8@aproNOG,05W5Q@bactNOG,16SR6@proNOG,COG2003@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "L",
-      "eggnog_X13": "DNA repair protein radc"
+      "eggnog_X13": "DNA repair protein radc",
+      "metric_2": 4,
+      "metric_7": 5,
+      "metric_9": 56,
+      "metric_10": 73,
+      "metric_13": 82,
+      "metric_14": 73,
+      "metric_15": 9,
+      "metric_18": 72,
+      "metric_19": 40,
+      "metric_24": 1,
+      "metric_27": 20
     }
   ],
   "diamond_track": [

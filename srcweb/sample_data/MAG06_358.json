@@ -34,7 +34,20 @@
       "eggnog_X10": "022V4@aproNOG,08MKG@bactNOG,0YPGR@NOG,17H35@proNOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "S",
-      "eggnog_X13": "Sulfotransferase"
+      "eggnog_X13": "Sulfotransferase",
+      "metric_1": 75,
+      "metric_3": 29,
+      "metric_5": 15,
+      "metric_7": 26,
+      "metric_8": 19,
+      "metric_11": 44,
+      "metric_13": 53,
+      "metric_18": 91,
+      "metric_21": 17,
+      "metric_23": 20,
+      "metric_25": 26,
+      "metric_28": 72,
+      "metric_29": 74
     },
     {
       "gene_seqnames": "MAG06_358",
@@ -68,7 +81,18 @@
       "eggnog_X10": "01WQW@aproNOG,08S55@bactNOG,178R0@proNOG,COG2244@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "M",
-      "eggnog_X13": "Polysaccharide biosynthesis protein"
+      "eggnog_X13": "Polysaccharide biosynthesis protein",
+      "metric_5": 13,
+      "metric_7": 70,
+      "metric_9": 29,
+      "metric_12": 87,
+      "metric_16": 2,
+      "metric_17": 80,
+      "metric_18": 8,
+      "metric_19": 28,
+      "metric_25": 23,
+      "metric_29": 29,
+      "metric_30": 40
     }
   ],
   "diamond_track": [

@@ -37,7 +37,17 @@
       "eggnog_X10": "01ZFF@aproNOG,05JVC@bactNOG,17CPH@proNOG,COG3637@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "M",
-      "eggnog_X13": "Membrane"
+      "eggnog_X13": "Membrane",
+      "metric_2": 56,
+      "metric_9": 97,
+      "metric_11": 31,
+      "metric_17": 18,
+      "metric_19": 28,
+      "metric_20": 94,
+      "metric_23": 25,
+      "metric_26": 61,
+      "metric_29": 68,
+      "metric_30": 80
     },
     {
       "gene_seqnames": "MAG06_240",
@@ -71,7 +81,23 @@
       "eggnog_X10": "01VUE@aproNOG,08RKS@bactNOG,1786F@proNOG,COG1028@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "I, Q",
-      "eggnog_X13": "Short chain dehydrogenase"
+      "eggnog_X13": "Short chain dehydrogenase",
+      "metric_1": 83,
+      "metric_3": 48,
+      "metric_4": 99,
+      "metric_6": 83,
+      "metric_8": 53,
+      "metric_9": 61,
+      "metric_10": 68,
+      "metric_11": 59,
+      "metric_15": 5,
+      "metric_16": 37,
+      "metric_19": 92,
+      "metric_21": 37,
+      "metric_22": 10,
+      "metric_28": 5,
+      "metric_29": 65,
+      "metric_30": 54
     },
     {
       "gene_seqnames": "MAG06_240",
@@ -106,7 +132,23 @@
       "eggnog_X10": "01QHN@aproNOG,05CII@bactNOG,16PQC@proNOG,COG0322@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "L",
-      "eggnog_X13": "The UvrABC repair system catalyzes the recognition and processing of DNA lesions. UvrC both incises the 5' and 3' sides of the lesion. The N-terminal half is responsible for the 3' incision and the C-terminal half is responsible for the 5' incision (By similarity)"
+      "eggnog_X13": "The UvrABC repair system catalyzes the recognition and processing of DNA lesions. UvrC both incises the 5' and 3' sides of the lesion. The N-terminal half is responsible for the 3' incision and the C-terminal half is responsible for the 5' incision (By similarity)",
+      "metric_2": 16,
+      "metric_3": 82,
+      "metric_4": 70,
+      "metric_6": 75,
+      "metric_7": 9,
+      "metric_8": 76,
+      "metric_9": 51,
+      "metric_13": 31,
+      "metric_14": 84,
+      "metric_15": 74,
+      "metric_19": 23,
+      "metric_20": 95,
+      "metric_24": 61,
+      "metric_25": 23,
+      "metric_26": 66,
+      "metric_30": 15
     }
   ],
   "diamond_track": [

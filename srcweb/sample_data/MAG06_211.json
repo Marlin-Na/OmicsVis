@@ -34,7 +34,22 @@
       "eggnog_X10": "026MU@aproNOG,07071@bactNOG,17YG8@proNOG,COG0329@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "E, M",
-      "eggnog_X13": "DHDPS"
+      "eggnog_X13": "DHDPS",
+      "metric_1": 91,
+      "metric_2": 38,
+      "metric_3": 94,
+      "metric_4": 18,
+      "metric_5": 9,
+      "metric_6": 8,
+      "metric_12": 85,
+      "metric_14": 33,
+      "metric_15": 99,
+      "metric_16": 44,
+      "metric_19": 17,
+      "metric_20": 32,
+      "metric_23": 47,
+      "metric_26": 26,
+      "metric_27": 74
     },
     {
       "gene_seqnames": "MAG06_211",
@@ -70,7 +85,17 @@
       "eggnog_X10": "05CDP@bactNOG,0QN13@gproNOG,16RSU@proNOG,COG0329@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "C",
-      "eggnog_X13": "Catalyzes the cleavage of N-acetylneuraminic acid (sialic acid) to form pyruvate and N-acetylmannosamine via a Schiff base intermediate (By similarity)"
+      "eggnog_X13": "Catalyzes the cleavage of N-acetylneuraminic acid (sialic acid) to form pyruvate and N-acetylmannosamine via a Schiff base intermediate (By similarity)",
+      "metric_6": 5,
+      "metric_8": 52,
+      "metric_9": 37,
+      "metric_13": 45,
+      "metric_17": 36,
+      "metric_18": 30,
+      "metric_22": 27,
+      "metric_23": 41,
+      "metric_27": 28,
+      "metric_29": 28
     },
     {
       "gene_seqnames": "MAG06_211",
@@ -103,7 +128,19 @@
       "eggnog_X10": "0288T@aproNOG,08059@bactNOG,181NK@proNOG,COG0457@NOG,COG5616@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "T",
-      "eggnog_X13": "Inherit from bactNOG: Adenylate cyclase"
+      "eggnog_X13": "Inherit from bactNOG: Adenylate cyclase",
+      "metric_3": 12,
+      "metric_7": 30,
+      "metric_10": 72,
+      "metric_12": 99,
+      "metric_15": 76,
+      "metric_18": 96,
+      "metric_19": 64,
+      "metric_22": 29,
+      "metric_23": 56,
+      "metric_26": 64,
+      "metric_27": 60,
+      "metric_28": 70
     }
   ],
   "diamond_track": [

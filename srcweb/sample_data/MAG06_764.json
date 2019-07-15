@@ -34,7 +34,17 @@
       "eggnog_X10": "01S38@aproNOG,08PSI@bactNOG,10EWM@NOG,175EF@proNOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "S",
-      "eggnog_X13": "Protein of unknown function (DUF1612)"
+      "eggnog_X13": "Protein of unknown function (DUF1612)",
+      "metric_1": 57,
+      "metric_3": 66,
+      "metric_4": 30,
+      "metric_10": 64,
+      "metric_14": 3,
+      "metric_15": 57,
+      "metric_20": 54,
+      "metric_25": 68,
+      "metric_27": 39,
+      "metric_30": 53
     },
     {
       "gene_seqnames": "MAG06_764",
@@ -64,7 +74,20 @@
       "eggnog_X4": 187.2,
       "eggnog_X9": "bactNOG[38]",
       "eggnog_X10": "02320@aproNOG,0649F@bactNOG,127D8@NOG,17M57@proNOG",
-      "eggnog_X11": "NA|NA|NA"
+      "eggnog_X11": "NA|NA|NA",
+      "metric_2": 45,
+      "metric_11": 50,
+      "metric_14": 81,
+      "metric_15": 21,
+      "metric_16": 27,
+      "metric_17": 96,
+      "metric_19": 52,
+      "metric_20": 97,
+      "metric_21": 12,
+      "metric_22": 74,
+      "metric_27": 36,
+      "metric_28": 1,
+      "metric_30": 48
     }
   ],
   "diamond_track": [

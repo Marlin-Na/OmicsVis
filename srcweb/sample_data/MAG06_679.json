@@ -36,7 +36,21 @@
       "eggnog_X10": "01RA7@aproNOG,05EMA@bactNOG,16SZE@proNOG,COG1879@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "G",
-      "eggnog_X13": "ABC transporter"
+      "eggnog_X13": "ABC transporter",
+      "metric_4": 71,
+      "metric_6": 94,
+      "metric_7": 24,
+      "metric_13": 88,
+      "metric_14": 10,
+      "metric_15": 90,
+      "metric_16": 36,
+      "metric_18": 26,
+      "metric_23": 73,
+      "metric_24": 58,
+      "metric_25": 20,
+      "metric_26": 27,
+      "metric_28": 39,
+      "metric_29": 49
     },
     {
       "gene_seqnames": "MAG06_679",
@@ -70,7 +84,20 @@
       "eggnog_X10": "01QNS@aproNOG,05CYX@bactNOG,0XNUN@NOG,16PPR@proNOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "S",
-      "eggnog_X13": "Short-chain dehydrogenase reductase SDR"
+      "eggnog_X13": "Short-chain dehydrogenase reductase SDR",
+      "metric_1": 1,
+      "metric_2": 98,
+      "metric_3": 1,
+      "metric_5": 63,
+      "metric_6": 57,
+      "metric_7": 12,
+      "metric_8": 43,
+      "metric_9": 57,
+      "metric_14": 88,
+      "metric_21": 75,
+      "metric_24": 75,
+      "metric_27": 57,
+      "metric_30": 43
     }
   ],
   "diamond_track": [

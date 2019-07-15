@@ -36,7 +36,19 @@
       "eggnog_X10": "01R79@aproNOG,05F5V@bactNOG,16SVI@proNOG,COG5598@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "H",
-      "eggnog_X13": "trimethylamine methyltransferase"
+      "eggnog_X13": "trimethylamine methyltransferase",
+      "metric_2": 68,
+      "metric_4": 40,
+      "metric_8": 17,
+      "metric_10": 95,
+      "metric_11": 53,
+      "metric_16": 87,
+      "metric_18": 80,
+      "metric_20": 3,
+      "metric_21": 94,
+      "metric_22": 22,
+      "metric_25": 69,
+      "metric_26": 93
     },
     {
       "gene_seqnames": "MAG06_20",
@@ -68,7 +80,18 @@
       "eggnog_X10": "01WXF@aproNOG,08VIG@bactNOG,17AN4@proNOG,COG1145@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "C",
-      "eggnog_X13": "Inherit from COG: 4Fe-4S ferredoxin, iron-sulfur binding"
+      "eggnog_X13": "Inherit from COG: 4Fe-4S ferredoxin, iron-sulfur binding",
+      "metric_2": 19,
+      "metric_4": 90,
+      "metric_5": 73,
+      "metric_8": 88,
+      "metric_10": 2,
+      "metric_13": 85,
+      "metric_18": 3,
+      "metric_19": 10,
+      "metric_20": 51,
+      "metric_26": 87,
+      "metric_29": 1
     },
     {
       "gene_seqnames": "MAG06_20",
@@ -101,7 +124,21 @@
       "eggnog_X10": "01Q74@aproNOG,08T58@bactNOG,16S3Q@proNOG,COG3698@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "S",
-      "eggnog_X13": "Predicted periplasmic protein (DUF2233)"
+      "eggnog_X13": "Predicted periplasmic protein (DUF2233)",
+      "metric_1": 73,
+      "metric_3": 51,
+      "metric_4": 88,
+      "metric_5": 7,
+      "metric_11": 44,
+      "metric_15": 26,
+      "metric_16": 8,
+      "metric_17": 79,
+      "metric_18": 33,
+      "metric_20": 42,
+      "metric_24": 57,
+      "metric_25": 20,
+      "metric_26": 13,
+      "metric_30": 16
     }
   ],
   "diamond_track": [

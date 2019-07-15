@@ -36,7 +36,22 @@
       "eggnog_X10": "01T27@aproNOG,08HFG@bactNOG,0ZVQG@NOG,16VBB@proNOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "P",
-      "eggnog_X13": "Major facilitator superfamily"
+      "eggnog_X13": "Major facilitator superfamily",
+      "metric_2": 57,
+      "metric_3": 14,
+      "metric_6": 68,
+      "metric_8": 8,
+      "metric_9": 20,
+      "metric_10": 96,
+      "metric_11": 61,
+      "metric_17": 46,
+      "metric_19": 36,
+      "metric_20": 83,
+      "metric_21": 37,
+      "metric_23": 27,
+      "metric_24": 84,
+      "metric_25": 45,
+      "metric_29": 26
     },
     {
       "gene_seqnames": "MAG06_756",
@@ -70,7 +85,20 @@
       "eggnog_X10": "01VAZ@aproNOG,05F28@bactNOG,174N3@proNOG,COG1629@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "P",
-      "eggnog_X13": "TonB-dependent receptor"
+      "eggnog_X13": "TonB-dependent receptor",
+      "metric_1": 7,
+      "metric_6": 78,
+      "metric_8": 99,
+      "metric_11": 5,
+      "metric_15": 92,
+      "metric_18": 65,
+      "metric_19": 11,
+      "metric_20": 3,
+      "metric_24": 15,
+      "metric_25": 57,
+      "metric_27": 91,
+      "metric_28": 85,
+      "metric_29": 85
     }
   ],
   "diamond_track": [

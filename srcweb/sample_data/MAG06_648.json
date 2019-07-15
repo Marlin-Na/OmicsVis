@@ -35,7 +35,18 @@
       "eggnog_X10": "01S7I@aproNOG,07NQ8@bactNOG,0XR9D@NOG,16S9V@proNOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "K",
-      "eggnog_X13": "Transcriptional regulator, LysR family"
+      "eggnog_X13": "Transcriptional regulator, LysR family",
+      "metric_1": 36,
+      "metric_3": 73,
+      "metric_8": 63,
+      "metric_14": 99,
+      "metric_16": 48,
+      "metric_20": 60,
+      "metric_23": 20,
+      "metric_25": 45,
+      "metric_27": 99,
+      "metric_29": 41,
+      "metric_30": 11
     },
     {
       "gene_seqnames": "MAG06_648",
@@ -70,7 +81,25 @@
       "eggnog_X10": "01T0W@aproNOG,05CH6@bactNOG,16R3S@proNOG,COG0753@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "P",
-      "eggnog_X13": "catalase (EC 1.11.1.6"
+      "eggnog_X13": "catalase (EC 1.11.1.6",
+      "metric_1": 69,
+      "metric_2": 20,
+      "metric_3": 14,
+      "metric_4": 49,
+      "metric_6": 79,
+      "metric_7": 71,
+      "metric_8": 85,
+      "metric_14": 2,
+      "metric_15": 69,
+      "metric_18": 43,
+      "metric_19": 8,
+      "metric_20": 41,
+      "metric_21": 9,
+      "metric_22": 27,
+      "metric_25": 3,
+      "metric_26": 95,
+      "metric_28": 35,
+      "metric_30": 91
     }
   ],
   "diamond_track": [

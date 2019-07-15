@@ -38,7 +38,18 @@
       "eggnog_X10": "01QY8@aproNOG,05DXN@bactNOG,16RRG@proNOG,COG1694@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "F",
-      "eggnog_X13": "mazG family"
+      "eggnog_X13": "mazG family",
+      "metric_1": 85,
+      "metric_3": 90,
+      "metric_6": 97,
+      "metric_8": 85,
+      "metric_9": 4,
+      "metric_11": 58,
+      "metric_13": 21,
+      "metric_15": 91,
+      "metric_20": 80,
+      "metric_22": 43,
+      "metric_27": 68
     },
     {
       "gene_seqnames": "MAG06_192",
@@ -70,7 +81,19 @@
       "eggnog_X10": "025GB@aproNOG,08U9U@bactNOG,17DBQ@proNOG,COG0590@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "F, J",
-      "eggnog_X13": "deaminase"
+      "eggnog_X13": "deaminase",
+      "metric_1": 23,
+      "metric_3": 24,
+      "metric_4": 29,
+      "metric_5": 67,
+      "metric_9": 74,
+      "metric_10": 60,
+      "metric_11": 33,
+      "metric_13": 8,
+      "metric_18": 69,
+      "metric_25": 67,
+      "metric_29": 36,
+      "metric_30": 65
     },
     {
       "gene_seqnames": "MAG06_192",
@@ -106,7 +129,21 @@
       "eggnog_X10": "01QG4@aproNOG,05CB8@bactNOG,16PUB@proNOG,COG0007@NOG,COG1648@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "H",
-      "eggnog_X13": "Multifunctional enzyme that catalyzes the SAM-dependent methylation of uroporphyrinogen III at position C-2 and C-7 to form precorrin-2 and then position C-12 or C-18 to form trimethylpyrrocorphin 2. It also catalyzes the conversion of precorrin-2 into siroheme. This reaction consists of the NAD- dependent oxidation of precorrin-2 into sirohydrochlorin and its subsequent ferrochelation into siroheme (By similarity)"
+      "eggnog_X13": "Multifunctional enzyme that catalyzes the SAM-dependent methylation of uroporphyrinogen III at position C-2 and C-7 to form precorrin-2 and then position C-12 or C-18 to form trimethylpyrrocorphin 2. It also catalyzes the conversion of precorrin-2 into siroheme. This reaction consists of the NAD- dependent oxidation of precorrin-2 into sirohydrochlorin and its subsequent ferrochelation into siroheme (By similarity)",
+      "metric_1": 50,
+      "metric_3": 44,
+      "metric_5": 15,
+      "metric_9": 39,
+      "metric_11": 90,
+      "metric_12": 7,
+      "metric_14": 94,
+      "metric_17": 2,
+      "metric_18": 56,
+      "metric_19": 95,
+      "metric_25": 78,
+      "metric_26": 80,
+      "metric_28": 19,
+      "metric_29": 39
     },
     {
       "gene_seqnames": "MAG06_192",
@@ -138,7 +175,19 @@
       "eggnog_X10": "022G4@aproNOG,05Z38@bactNOG,127DV@NOG,17NG7@proNOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "S",
-      "eggnog_X13": "Protein of unknown function (DUF2849)"
+      "eggnog_X13": "Protein of unknown function (DUF2849)",
+      "metric_1": 2,
+      "metric_2": 87,
+      "metric_4": 38,
+      "metric_5": 38,
+      "metric_6": 20,
+      "metric_9": 62,
+      "metric_10": 66,
+      "metric_14": 18,
+      "metric_15": 80,
+      "metric_18": 10,
+      "metric_19": 56,
+      "metric_26": 58
     },
     {
       "gene_seqnames": "MAG06_192",
@@ -174,7 +223,17 @@
       "eggnog_X10": "01S70@aproNOG,05ET1@bactNOG,16REX@proNOG,COG0155@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "C",
-      "eggnog_X13": "Sulfite reductase"
+      "eggnog_X13": "Sulfite reductase",
+      "metric_3": 50,
+      "metric_8": 23,
+      "metric_11": 63,
+      "metric_12": 24,
+      "metric_13": 4,
+      "metric_18": 25,
+      "metric_24": 41,
+      "metric_25": 49,
+      "metric_26": 53,
+      "metric_29": 90
     }
   ],
   "diamond_track": [

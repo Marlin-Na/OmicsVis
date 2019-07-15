@@ -37,7 +37,24 @@
       "eggnog_X10": "07QHU@bactNOG,16PBF@proNOG,COG0532@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "J",
-      "eggnog_X13": "One of the essential components for the initiation of protein synthesis. Protects formylmethionyl-tRNA from spontaneous hydrolysis and promotes its binding to the 30S ribosomal subunits. Also involved in the hydrolysis of GTP during the formation of the 70S ribosomal complex (By similarity)"
+      "eggnog_X13": "One of the essential components for the initiation of protein synthesis. Protects formylmethionyl-tRNA from spontaneous hydrolysis and promotes its binding to the 30S ribosomal subunits. Also involved in the hydrolysis of GTP during the formation of the 70S ribosomal complex (By similarity)",
+      "metric_1": 35,
+      "metric_2": 21,
+      "metric_6": 72,
+      "metric_8": 80,
+      "metric_10": 72,
+      "metric_15": 82,
+      "metric_17": 17,
+      "metric_18": 49,
+      "metric_19": 93,
+      "metric_20": 1,
+      "metric_22": 80,
+      "metric_23": 62,
+      "metric_25": 47,
+      "metric_26": 39,
+      "metric_27": 98,
+      "metric_28": 5,
+      "metric_30": 16
     }
   ],
   "diamond_track": [

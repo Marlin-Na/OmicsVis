@@ -35,7 +35,19 @@
       "eggnog_X10": "01R4X@aproNOG,07WW2@bactNOG,16TAB@proNOG,COG0183@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "I",
-      "eggnog_X13": "acetyl-COA"
+      "eggnog_X13": "acetyl-COA",
+      "metric_2": 92,
+      "metric_4": 71,
+      "metric_5": 82,
+      "metric_6": 63,
+      "metric_7": 77,
+      "metric_14": 5,
+      "metric_16": 8,
+      "metric_17": 96,
+      "metric_18": 62,
+      "metric_25": 20,
+      "metric_27": 35,
+      "metric_30": 68
     },
     {
       "gene_seqnames": "MAG06_424",
@@ -68,7 +80,22 @@
       "eggnog_X10": "027U1@aproNOG,06CCB@bactNOG,17UBD@proNOG,COG0824@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "S",
-      "eggnog_X13": "K07107 acyl-CoA thioester hydrolase EC 3.1.2"
+      "eggnog_X13": "K07107 acyl-CoA thioester hydrolase EC 3.1.2",
+      "metric_1": 12,
+      "metric_5": 95,
+      "metric_6": 60,
+      "metric_7": 5,
+      "metric_8": 96,
+      "metric_12": 27,
+      "metric_13": 89,
+      "metric_16": 42,
+      "metric_19": 75,
+      "metric_20": 49,
+      "metric_22": 24,
+      "metric_24": 59,
+      "metric_25": 84,
+      "metric_26": 11,
+      "metric_29": 55
     },
     {
       "gene_seqnames": "MAG06_424",
@@ -101,7 +128,18 @@
       "eggnog_X10": "01R36@aproNOG,05EJ1@bactNOG,16S7I@proNOG,COG0604@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "C",
-      "eggnog_X13": "Oxidoreductase"
+      "eggnog_X13": "Oxidoreductase",
+      "metric_1": 45,
+      "metric_2": 84,
+      "metric_5": 56,
+      "metric_16": 47,
+      "metric_17": 37,
+      "metric_19": 57,
+      "metric_20": 59,
+      "metric_21": 69,
+      "metric_22": 12,
+      "metric_24": 92,
+      "metric_25": 41
     },
     {
       "gene_seqnames": "MAG06_424",
@@ -134,7 +172,22 @@
       "eggnog_X10": "01QWJ@aproNOG,05DGU@bactNOG,16Q1U@proNOG,COG0123@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "B, Q",
-      "eggnog_X13": "histone deacetylase"
+      "eggnog_X13": "histone deacetylase",
+      "metric_1": 29,
+      "metric_2": 56,
+      "metric_3": 74,
+      "metric_6": 52,
+      "metric_7": 36,
+      "metric_9": 62,
+      "metric_10": 76,
+      "metric_14": 2,
+      "metric_19": 57,
+      "metric_20": 18,
+      "metric_21": 7,
+      "metric_23": 58,
+      "metric_26": 50,
+      "metric_29": 70,
+      "metric_30": 96
     }
   ],
   "diamond_track": [

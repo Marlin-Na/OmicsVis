@@ -38,7 +38,19 @@
       "eggnog_X10": "01S2P@aproNOG,05C35@bactNOG,16S7Y@proNOG,COG0182@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "J",
-      "eggnog_X13": "Catalyzes the interconversion of methylthioribose-1- phosphate (MTR-1-P) into methylthioribulose-1-phosphate (MTRu-1-P) (By similarity)"
+      "eggnog_X13": "Catalyzes the interconversion of methylthioribose-1- phosphate (MTR-1-P) into methylthioribulose-1-phosphate (MTRu-1-P) (By similarity)",
+      "metric_2": 4,
+      "metric_3": 70,
+      "metric_4": 66,
+      "metric_7": 65,
+      "metric_8": 71,
+      "metric_10": 54,
+      "metric_13": 52,
+      "metric_18": 73,
+      "metric_19": 49,
+      "metric_23": 56,
+      "metric_26": 93,
+      "metric_29": 38
     },
     {
       "gene_seqnames": "MAG06_981",
@@ -71,7 +83,23 @@
       "eggnog_X10": "01VN5@aproNOG,07RTG@bactNOG,16RBM@proNOG,COG2814@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "G",
-      "eggnog_X13": "Major facilitator superfamily MFS_1"
+      "eggnog_X13": "Major facilitator superfamily MFS_1",
+      "metric_2": 58,
+      "metric_3": 55,
+      "metric_4": 28,
+      "metric_6": 66,
+      "metric_7": 29,
+      "metric_8": 75,
+      "metric_12": 5,
+      "metric_13": 94,
+      "metric_17": 37,
+      "metric_19": 49,
+      "metric_20": 73,
+      "metric_24": 18,
+      "metric_25": 13,
+      "metric_27": 56,
+      "metric_28": 45,
+      "metric_29": 98
     }
   ],
   "diamond_track": [

@@ -35,7 +35,22 @@
       "eggnog_X10": "021WZ@aproNOG,08M5Z@bactNOG,177CN@proNOG,COG0673@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "S",
-      "eggnog_X13": "Oxidoreductase domain-containing protein"
+      "eggnog_X13": "Oxidoreductase domain-containing protein",
+      "metric_3": 81,
+      "metric_7": 56,
+      "metric_8": 14,
+      "metric_10": 62,
+      "metric_11": 20,
+      "metric_12": 72,
+      "metric_13": 91,
+      "metric_14": 76,
+      "metric_16": 4,
+      "metric_17": 79,
+      "metric_18": 65,
+      "metric_21": 87,
+      "metric_22": 97,
+      "metric_25": 87,
+      "metric_29": 46
     },
     {
       "gene_seqnames": "MAG06_320",
@@ -68,7 +83,18 @@
       "eggnog_X10": "01U4S@aproNOG,08N4H@bactNOG,0XTAD@NOG,16QIX@proNOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "K",
-      "eggnog_X13": "Transcriptional regulator"
+      "eggnog_X13": "Transcriptional regulator",
+      "metric_6": 22,
+      "metric_8": 54,
+      "metric_11": 37,
+      "metric_13": 73,
+      "metric_17": 6,
+      "metric_19": 2,
+      "metric_22": 57,
+      "metric_23": 97,
+      "metric_25": 48,
+      "metric_26": 60,
+      "metric_28": 90
     }
   ],
   "diamond_track": [

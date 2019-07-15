@@ -37,7 +37,19 @@
       "eggnog_X10": "01QAP@aproNOG,05FD8@bactNOG,16QE8@proNOG,COG3454@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "P",
-      "eggnog_X13": "phosphonate metabolism protein PhnM"
+      "eggnog_X13": "phosphonate metabolism protein PhnM",
+      "metric_1": 73,
+      "metric_6": 85,
+      "metric_12": 20,
+      "metric_13": 58,
+      "metric_15": 19,
+      "metric_16": 60,
+      "metric_17": 37,
+      "metric_21": 80,
+      "metric_26": 93,
+      "metric_27": 37,
+      "metric_29": 71,
+      "metric_30": 40
     },
     {
       "gene_seqnames": "MAG06_1004",
@@ -69,7 +81,22 @@
       "eggnog_X10": "01WII@aproNOG,08TXN@bactNOG,11MI2@NOG,17BD1@proNOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "S",
-      "eggnog_X13": "Phosphonate metabolism protein"
+      "eggnog_X13": "Phosphonate metabolism protein",
+      "metric_2": 30,
+      "metric_3": 1,
+      "metric_5": 11,
+      "metric_6": 32,
+      "metric_14": 70,
+      "metric_15": 18,
+      "metric_19": 24,
+      "metric_22": 69,
+      "metric_23": 35,
+      "metric_25": 32,
+      "metric_26": 23,
+      "metric_27": 12,
+      "metric_28": 76,
+      "metric_29": 40,
+      "metric_30": 85
     },
     {
       "gene_seqnames": "MAG06_1004",
@@ -104,7 +131,22 @@
       "eggnog_X10": "01QI0@aproNOG,05S7S@bactNOG,16VBV@proNOG,COG3639@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "P",
-      "eggnog_X13": "Phosphonate ABC transporter"
+      "eggnog_X13": "Phosphonate ABC transporter",
+      "metric_2": 37,
+      "metric_3": 87,
+      "metric_4": 61,
+      "metric_5": 33,
+      "metric_6": 76,
+      "metric_11": 61,
+      "metric_12": 39,
+      "metric_14": 1,
+      "metric_16": 13,
+      "metric_17": 35,
+      "metric_19": 18,
+      "metric_20": 14,
+      "metric_22": 82,
+      "metric_23": 37,
+      "metric_24": 50
     }
   ],
   "diamond_track": [

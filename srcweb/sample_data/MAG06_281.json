@@ -37,7 +37,20 @@
       "eggnog_X10": "01R0E@aproNOG,08KK1@bactNOG,1740M@proNOG,COG3180@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "S",
-      "eggnog_X13": "membrane protein AbrB duplication"
+      "eggnog_X13": "membrane protein AbrB duplication",
+      "metric_1": 52,
+      "metric_5": 98,
+      "metric_6": 30,
+      "metric_9": 28,
+      "metric_12": 68,
+      "metric_14": 60,
+      "metric_15": 90,
+      "metric_17": 56,
+      "metric_18": 41,
+      "metric_21": 53,
+      "metric_24": 12,
+      "metric_26": 17,
+      "metric_29": 68
     },
     {
       "gene_seqnames": "MAG06_281",
@@ -71,7 +84,19 @@
       "eggnog_X10": "01U4Z@aproNOG,07UI6@bactNOG,16TPU@proNOG,COG0507@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "L",
-      "eggnog_X13": "Exodeoxyribonuclease V"
+      "eggnog_X13": "Exodeoxyribonuclease V",
+      "metric_1": 85,
+      "metric_3": 6,
+      "metric_4": 87,
+      "metric_5": 37,
+      "metric_9": 42,
+      "metric_10": 5,
+      "metric_12": 49,
+      "metric_13": 93,
+      "metric_15": 60,
+      "metric_18": 2,
+      "metric_24": 73,
+      "metric_25": 94
     }
   ],
   "diamond_track": [

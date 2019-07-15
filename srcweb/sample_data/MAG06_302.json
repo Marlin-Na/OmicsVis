@@ -36,7 +36,21 @@
       "eggnog_X10": "01SAU@aproNOG,05BZU@bactNOG,0XNMH@NOG,16QSK@proNOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "T",
-      "eggnog_X13": "Histidine kinase"
+      "eggnog_X13": "Histidine kinase",
+      "metric_6": 79,
+      "metric_9": 5,
+      "metric_13": 23,
+      "metric_14": 52,
+      "metric_15": 98,
+      "metric_17": 2,
+      "metric_19": 44,
+      "metric_20": 20,
+      "metric_21": 26,
+      "metric_22": 64,
+      "metric_25": 34,
+      "metric_26": 37,
+      "metric_29": 23,
+      "metric_30": 40
     },
     {
       "gene_seqnames": "MAG06_302",
@@ -60,7 +74,20 @@
       "gene_sscore": "-0.85",
       "gene_rscore": "-0.18",
       "gene_uscore": "-4.65",
-      "gene_tscore": "3.98"
+      "gene_tscore": "3.98",
+      "metric_3": 41,
+      "metric_6": 15,
+      "metric_8": 57,
+      "metric_10": 89,
+      "metric_12": 43,
+      "metric_13": 16,
+      "metric_14": 98,
+      "metric_18": 8,
+      "metric_21": 47,
+      "metric_22": 52,
+      "metric_25": 53,
+      "metric_28": 64,
+      "metric_29": 57
     }
   ],
   "diamond_track": [

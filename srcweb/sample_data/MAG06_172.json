@@ -38,7 +38,20 @@
       "eggnog_X10": "01Y30@aproNOG,08YH3@bactNOG,17C51@proNOG,COG0830@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "O",
-      "eggnog_X13": "Required for maturation of urease via the functional incorporation of the urease nickel metallocenter (By similarity)"
+      "eggnog_X13": "Required for maturation of urease via the functional incorporation of the urease nickel metallocenter (By similarity)",
+      "metric_1": 74,
+      "metric_2": 54,
+      "metric_4": 76,
+      "metric_7": 95,
+      "metric_12": 76,
+      "metric_14": 32,
+      "metric_19": 2,
+      "metric_22": 79,
+      "metric_23": 46,
+      "metric_24": 97,
+      "metric_25": 24,
+      "metric_29": 90,
+      "metric_30": 99
     },
     {
       "gene_seqnames": "MAG06_172",
@@ -74,7 +87,20 @@
       "eggnog_X10": "01ZPR@aproNOG,05MMR@bactNOG,17FJT@proNOG,COG2371@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "O",
-      "eggnog_X13": "Involved in urease metallocenter assembly. Binds nickel. Probably functions as a nickel donor during metallocenter assembly (By similarity)"
+      "eggnog_X13": "Involved in urease metallocenter assembly. Binds nickel. Probably functions as a nickel donor during metallocenter assembly (By similarity)",
+      "metric_2": 2,
+      "metric_4": 93,
+      "metric_5": 43,
+      "metric_13": 12,
+      "metric_14": 73,
+      "metric_17": 84,
+      "metric_19": 23,
+      "metric_20": 32,
+      "metric_22": 18,
+      "metric_23": 67,
+      "metric_24": 75,
+      "metric_26": 58,
+      "metric_27": 54
     },
     {
       "gene_seqnames": "MAG06_172",
@@ -107,7 +133,16 @@
       "eggnog_X10": "023PI@aproNOG,067V3@bactNOG,17RPG@proNOG,COG1359@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "S",
-      "eggnog_X13": "Antibiotic biosynthesis monooxygenase"
+      "eggnog_X13": "Antibiotic biosynthesis monooxygenase",
+      "metric_3": 14,
+      "metric_4": 50,
+      "metric_8": 77,
+      "metric_12": 35,
+      "metric_14": 30,
+      "metric_16": 4,
+      "metric_18": 57,
+      "metric_20": 44,
+      "metric_25": 4
     },
     {
       "gene_seqnames": "MAG06_172",
@@ -141,7 +176,23 @@
       "eggnog_X10": "01RYS@aproNOG,05EHV@bactNOG,16S6D@proNOG,COG0678@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "O",
-      "eggnog_X13": "Peroxiredoxin"
+      "eggnog_X13": "Peroxiredoxin",
+      "metric_1": 87,
+      "metric_2": 23,
+      "metric_3": 60,
+      "metric_6": 17,
+      "metric_7": 49,
+      "metric_10": 98,
+      "metric_14": 32,
+      "metric_15": 48,
+      "metric_17": 80,
+      "metric_18": 19,
+      "metric_19": 50,
+      "metric_21": 64,
+      "metric_23": 15,
+      "metric_24": 86,
+      "metric_26": 45,
+      "metric_29": 85
     },
     {
       "gene_seqnames": "MAG06_172",
@@ -175,7 +226,19 @@
       "eggnog_X10": "01ZUM@aproNOG,05R5S@bactNOG,17G8Z@proNOG,COG2944@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "K",
-      "eggnog_X13": "transcriptional regulator, XRE family"
+      "eggnog_X13": "transcriptional regulator, XRE family",
+      "metric_2": 47,
+      "metric_3": 12,
+      "metric_9": 89,
+      "metric_10": 36,
+      "metric_11": 69,
+      "metric_16": 91,
+      "metric_17": 78,
+      "metric_19": 62,
+      "metric_21": 61,
+      "metric_24": 68,
+      "metric_28": 38,
+      "metric_30": 3
     }
   ],
   "diamond_track": [

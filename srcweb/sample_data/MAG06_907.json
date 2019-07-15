@@ -37,7 +37,19 @@
       "eggnog_X10": "01S3W@aproNOG,05CNU@bactNOG,16RI4@proNOG,COG1674@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "D",
-      "eggnog_X13": "cell division protein FtsK"
+      "eggnog_X13": "cell division protein FtsK",
+      "metric_1": 93,
+      "metric_2": 98,
+      "metric_3": 79,
+      "metric_6": 34,
+      "metric_9": 41,
+      "metric_11": 9,
+      "metric_12": 41,
+      "metric_17": 45,
+      "metric_21": 63,
+      "metric_25": 49,
+      "metric_28": 89,
+      "metric_30": 64
     },
     {
       "gene_seqnames": "MAG06_907",
@@ -72,7 +84,19 @@
       "eggnog_X10": "021Y0@aproNOG,08VBZ@bactNOG,17ADB@proNOG,COG2259@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "S",
-      "eggnog_X13": "DoxX family"
+      "eggnog_X13": "DoxX family",
+      "metric_1": 79,
+      "metric_2": 58,
+      "metric_3": 85,
+      "metric_5": 17,
+      "metric_9": 27,
+      "metric_11": 61,
+      "metric_12": 37,
+      "metric_15": 55,
+      "metric_18": 47,
+      "metric_23": 94,
+      "metric_24": 66,
+      "metric_25": 84
     },
     {
       "gene_seqnames": "MAG06_907",
@@ -107,7 +131,20 @@
       "eggnog_X10": "01QBQ@aproNOG,07R2J@bactNOG,16PGB@proNOG,COG1192@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "D",
-      "eggnog_X13": "Partitioning protein"
+      "eggnog_X13": "Partitioning protein",
+      "metric_3": 33,
+      "metric_4": 95,
+      "metric_5": 42,
+      "metric_6": 78,
+      "metric_8": 49,
+      "metric_9": 13,
+      "metric_10": 98,
+      "metric_12": 38,
+      "metric_13": 26,
+      "metric_17": 25,
+      "metric_23": 3,
+      "metric_26": 14,
+      "metric_28": 14
     },
     {
       "gene_seqnames": "MAG06_907",
@@ -141,7 +178,18 @@
       "eggnog_X10": "01X6U@aproNOG,08FGK@bactNOG,179X3@proNOG,COG1475@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "K",
-      "eggnog_X13": "Plasmid partitioning protein"
+      "eggnog_X13": "Plasmid partitioning protein",
+      "metric_2": 12,
+      "metric_3": 26,
+      "metric_5": 5,
+      "metric_9": 55,
+      "metric_11": 24,
+      "metric_12": 21,
+      "metric_13": 4,
+      "metric_16": 39,
+      "metric_20": 6,
+      "metric_21": 95,
+      "metric_28": 1
     },
     {
       "gene_seqnames": "MAG06_907",
@@ -171,7 +219,19 @@
       "eggnog_X4": 105.9,
       "eggnog_X9": "bactNOG[38]",
       "eggnog_X10": "029FQ@aproNOG,07AND@bactNOG,0Z6J3@NOG,1894C@proNOG",
-      "eggnog_X11": "NA|NA|NA"
+      "eggnog_X11": "NA|NA|NA",
+      "metric_1": 80,
+      "metric_4": 13,
+      "metric_5": 24,
+      "metric_8": 55,
+      "metric_18": 39,
+      "metric_20": 78,
+      "metric_23": 87,
+      "metric_24": 96,
+      "metric_27": 33,
+      "metric_28": 84,
+      "metric_29": 66,
+      "metric_30": 40
     }
   ],
   "diamond_track": [

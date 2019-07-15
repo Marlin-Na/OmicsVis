@@ -36,7 +36,25 @@
       "eggnog_X10": "01X2Q@aproNOG,08ZNX@bactNOG,17CSR@proNOG,COG0071@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "O",
-      "eggnog_X13": "HeAt shock protein"
+      "eggnog_X13": "HeAt shock protein",
+      "metric_3": 64,
+      "metric_5": 82,
+      "metric_6": 73,
+      "metric_8": 58,
+      "metric_10": 36,
+      "metric_12": 78,
+      "metric_13": 65,
+      "metric_15": 57,
+      "metric_18": 50,
+      "metric_19": 93,
+      "metric_20": 41,
+      "metric_21": 75,
+      "metric_23": 55,
+      "metric_24": 49,
+      "metric_25": 59,
+      "metric_26": 47,
+      "metric_28": 70,
+      "metric_30": 48
     },
     {
       "gene_seqnames": "MAG06_392",
@@ -72,7 +90,16 @@
       "eggnog_X10": "01TC4@aproNOG,08EUD@bactNOG,16T3I@proNOG,COG2267@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "I",
-      "eggnog_X13": "Alpha beta hydrolase fold protein"
+      "eggnog_X13": "Alpha beta hydrolase fold protein",
+      "metric_4": 53,
+      "metric_7": 26,
+      "metric_8": 92,
+      "metric_14": 63,
+      "metric_15": 77,
+      "metric_18": 91,
+      "metric_20": 44,
+      "metric_29": 42,
+      "metric_30": 57
     },
     {
       "gene_seqnames": "MAG06_392",
@@ -106,7 +133,21 @@
       "eggnog_X10": "01RC8@aproNOG,07R1A@bactNOG,16Q7I@proNOG,COG0483@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "G",
-      "eggnog_X13": "inositol mono-phosphatase"
+      "eggnog_X13": "inositol mono-phosphatase",
+      "metric_5": 5,
+      "metric_6": 91,
+      "metric_9": 42,
+      "metric_10": 21,
+      "metric_11": 32,
+      "metric_14": 59,
+      "metric_16": 53,
+      "metric_19": 23,
+      "metric_20": 56,
+      "metric_23": 66,
+      "metric_25": 5,
+      "metric_26": 29,
+      "metric_27": 84,
+      "metric_29": 34
     }
   ],
   "diamond_track": [

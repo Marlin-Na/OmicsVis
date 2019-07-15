@@ -37,7 +37,18 @@
       "eggnog_X10": "01SBP@aproNOG,05CN7@bactNOG,16PX7@proNOG,COG1338@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "N",
-      "eggnog_X13": "Flagellar biosynthetic protein fliP"
+      "eggnog_X13": "Flagellar biosynthetic protein fliP",
+      "metric_1": 25,
+      "metric_3": 92,
+      "metric_4": 20,
+      "metric_6": 54,
+      "metric_10": 84,
+      "metric_14": 43,
+      "metric_15": 38,
+      "metric_16": 34,
+      "metric_18": 32,
+      "metric_22": 48,
+      "metric_29": 42
     },
     {
       "gene_seqnames": "MAG06_1022",
@@ -72,7 +83,22 @@
       "eggnog_X10": "01SF2@aproNOG,07W75@bactNOG,1741P@proNOG,COG1344@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "N",
-      "eggnog_X13": "Flagellin"
+      "eggnog_X13": "Flagellin",
+      "metric_1": 40,
+      "metric_4": 10,
+      "metric_6": 57,
+      "metric_8": 95,
+      "metric_10": 21,
+      "metric_11": 41,
+      "metric_17": 90,
+      "metric_18": 71,
+      "metric_19": 63,
+      "metric_20": 37,
+      "metric_23": 15,
+      "metric_24": 13,
+      "metric_25": 48,
+      "metric_27": 48,
+      "metric_29": 47
     },
     {
       "gene_seqnames": "MAG06_1022",
@@ -107,7 +133,23 @@
       "eggnog_X10": "01SF2@aproNOG,07W75@bactNOG,1741P@proNOG,COG1344@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "N",
-      "eggnog_X13": "Flagellin"
+      "eggnog_X13": "Flagellin",
+      "metric_1": 88,
+      "metric_3": 77,
+      "metric_4": 18,
+      "metric_6": 95,
+      "metric_8": 68,
+      "metric_10": 3,
+      "metric_11": 57,
+      "metric_13": 57,
+      "metric_15": 22,
+      "metric_16": 82,
+      "metric_18": 81,
+      "metric_19": 47,
+      "metric_22": 27,
+      "metric_23": 78,
+      "metric_25": 6,
+      "metric_29": 60
     }
   ],
   "diamond_track": [

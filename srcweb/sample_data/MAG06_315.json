@@ -35,7 +35,17 @@
       "eggnog_X10": "01TBI@aproNOG,05DQC@bactNOG,17482@proNOG,COG3533@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "S",
-      "eggnog_X13": "Putative glycosyl hydrolase of unknown function (DUF1680)"
+      "eggnog_X13": "Putative glycosyl hydrolase of unknown function (DUF1680)",
+      "metric_1": 9,
+      "metric_10": 84,
+      "metric_13": 15,
+      "metric_14": 30,
+      "metric_15": 47,
+      "metric_18": 29,
+      "metric_20": 27,
+      "metric_22": 18,
+      "metric_23": 27,
+      "metric_29": 68
     },
     {
       "gene_seqnames": "MAG06_315",
@@ -68,7 +78,23 @@
       "eggnog_X10": "01Q68@aproNOG,05C53@bactNOG,16PDX@proNOG,COG3842@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "E",
-      "eggnog_X13": "ABC transporter"
+      "eggnog_X13": "ABC transporter",
+      "metric_1": 9,
+      "metric_3": 52,
+      "metric_6": 43,
+      "metric_8": 1,
+      "metric_10": 20,
+      "metric_12": 75,
+      "metric_14": 65,
+      "metric_16": 97,
+      "metric_18": 20,
+      "metric_21": 27,
+      "metric_22": 89,
+      "metric_23": 57,
+      "metric_24": 63,
+      "metric_25": 48,
+      "metric_27": 97,
+      "metric_28": 73
     },
     {
       "gene_seqnames": "MAG06_315",
@@ -101,7 +127,23 @@
       "eggnog_X10": "COG4423@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "S",
-      "eggnog_X13": "Antitoxin component of a toxin-antitoxin (TA) module"
+      "eggnog_X13": "Antitoxin component of a toxin-antitoxin (TA) module",
+      "metric_3": 42,
+      "metric_4": 87,
+      "metric_7": 6,
+      "metric_8": 36,
+      "metric_10": 61,
+      "metric_12": 20,
+      "metric_15": 74,
+      "metric_16": 55,
+      "metric_19": 88,
+      "metric_20": 73,
+      "metric_22": 64,
+      "metric_23": 11,
+      "metric_24": 91,
+      "metric_25": 92,
+      "metric_28": 35,
+      "metric_30": 65
     }
   ],
   "diamond_track": [

@@ -36,7 +36,21 @@
       "eggnog_X10": "01XW1@aproNOG,08U7S@bactNOG,17934@proNOG,COG0657@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "I",
-      "eggnog_X13": "alpha beta hydrolase domain-containing protein"
+      "eggnog_X13": "alpha beta hydrolase domain-containing protein",
+      "metric_7": 33,
+      "metric_10": 30,
+      "metric_11": 54,
+      "metric_12": 1,
+      "metric_14": 18,
+      "metric_16": 48,
+      "metric_18": 15,
+      "metric_19": 49,
+      "metric_20": 1,
+      "metric_22": 52,
+      "metric_23": 66,
+      "metric_26": 80,
+      "metric_29": 19,
+      "metric_30": 96
     },
     {
       "gene_seqnames": "MAG06_386",
@@ -71,7 +85,23 @@
       "eggnog_X10": "01TPW@aproNOG,05C1P@bactNOG,0XNVN@NOG,16QKI@proNOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "V",
-      "eggnog_X13": "RND family efflux transporter MFP subunit"
+      "eggnog_X13": "RND family efflux transporter MFP subunit",
+      "metric_1": 69,
+      "metric_2": 22,
+      "metric_4": 19,
+      "metric_5": 30,
+      "metric_8": 57,
+      "metric_10": 98,
+      "metric_12": 49,
+      "metric_13": 21,
+      "metric_15": 56,
+      "metric_18": 39,
+      "metric_20": 67,
+      "metric_21": 28,
+      "metric_25": 94,
+      "metric_26": 95,
+      "metric_29": 12,
+      "metric_30": 86
     },
     {
       "gene_seqnames": "MAG06_386",
@@ -106,7 +136,19 @@
       "eggnog_X10": "01QFF@aproNOG,05BZS@bactNOG,16PBH@proNOG,COG0841@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "P",
-      "eggnog_X13": "acriflavin resistance protein"
+      "eggnog_X13": "acriflavin resistance protein",
+      "metric_1": 27,
+      "metric_3": 54,
+      "metric_5": 77,
+      "metric_6": 44,
+      "metric_7": 46,
+      "metric_8": 97,
+      "metric_9": 99,
+      "metric_12": 96,
+      "metric_13": 14,
+      "metric_20": 7,
+      "metric_25": 32,
+      "metric_27": 92
     }
   ],
   "diamond_track": [

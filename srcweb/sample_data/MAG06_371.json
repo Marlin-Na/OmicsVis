@@ -37,7 +37,22 @@
       "eggnog_X10": "01TGT@aproNOG,05EUU@bactNOG,16RFM@proNOG,COG0790@NOG,COG3409@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "M",
-      "eggnog_X13": "Sel1 domain protein repeat-containing protein"
+      "eggnog_X13": "Sel1 domain protein repeat-containing protein",
+      "metric_1": 83,
+      "metric_2": 50,
+      "metric_3": 20,
+      "metric_6": 3,
+      "metric_8": 87,
+      "metric_11": 21,
+      "metric_12": 49,
+      "metric_13": 97,
+      "metric_15": 14,
+      "metric_19": 29,
+      "metric_24": 74,
+      "metric_25": 95,
+      "metric_27": 62,
+      "metric_28": 60,
+      "metric_30": 6
     },
     {
       "gene_seqnames": "MAG06_371",
@@ -70,7 +85,21 @@
       "eggnog_X10": "01RT6@aproNOG,05F43@bactNOG,16QKJ@proNOG,COG0730@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "S",
-      "eggnog_X13": "membrane"
+      "eggnog_X13": "membrane",
+      "metric_1": 45,
+      "metric_2": 23,
+      "metric_3": 28,
+      "metric_4": 60,
+      "metric_5": 50,
+      "metric_6": 76,
+      "metric_7": 29,
+      "metric_8": 34,
+      "metric_9": 53,
+      "metric_10": 17,
+      "metric_24": 80,
+      "metric_25": 97,
+      "metric_27": 5,
+      "metric_30": 94
     }
   ],
   "diamond_track": [

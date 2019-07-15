@@ -34,7 +34,21 @@
       "eggnog_X10": "01TR6@aproNOG,05XH7@bactNOG,1745R@proNOG,COG1940@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "K",
-      "eggnog_X13": "(ROK) family"
+      "eggnog_X13": "(ROK) family",
+      "metric_3": 21,
+      "metric_6": 53,
+      "metric_8": 62,
+      "metric_9": 30,
+      "metric_13": 45,
+      "metric_14": 20,
+      "metric_16": 51,
+      "metric_17": 98,
+      "metric_19": 15,
+      "metric_21": 53,
+      "metric_24": 63,
+      "metric_25": 44,
+      "metric_26": 70,
+      "metric_28": 96
     },
     {
       "gene_seqnames": "MAG06_696",
@@ -67,7 +81,22 @@
       "eggnog_X10": "02DXD@aproNOG,07VZH@bactNOG,0XSJ0@NOG,171U3@proNOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "G",
-      "eggnog_X13": "sugar ABC transporter, substrate-binding protein"
+      "eggnog_X13": "sugar ABC transporter, substrate-binding protein",
+      "metric_2": 53,
+      "metric_4": 91,
+      "metric_7": 72,
+      "metric_8": 90,
+      "metric_9": 54,
+      "metric_12": 90,
+      "metric_16": 80,
+      "metric_18": 51,
+      "metric_19": 15,
+      "metric_21": 38,
+      "metric_22": 79,
+      "metric_23": 35,
+      "metric_24": 96,
+      "metric_26": 61,
+      "metric_27": 10
     },
     {
       "gene_seqnames": "MAG06_696",
@@ -100,7 +129,20 @@
       "eggnog_X10": "05E1F@bactNOG,0B74I@bproNOG,16RMP@proNOG,COG1028@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "S",
-      "eggnog_X13": "Short-chain dehydrogenase reductase SDR"
+      "eggnog_X13": "Short-chain dehydrogenase reductase SDR",
+      "metric_1": 57,
+      "metric_3": 18,
+      "metric_4": 23,
+      "metric_7": 62,
+      "metric_10": 60,
+      "metric_11": 57,
+      "metric_12": 83,
+      "metric_13": 35,
+      "metric_16": 64,
+      "metric_18": 18,
+      "metric_22": 96,
+      "metric_27": 85,
+      "metric_30": 54
     }
   ],
   "diamond_track": [

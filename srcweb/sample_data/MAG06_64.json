@@ -37,7 +37,22 @@
       "eggnog_X10": "01QN1@aproNOG,05CAV@bactNOG,16QAF@proNOG,COG0539@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "J",
-      "eggnog_X13": "thus facilitating recognition of the initiation point. It is needed to translate mRNA with a short Shine-Dalgarno (SD) purine-rich sequence (By similarity)"
+      "eggnog_X13": "thus facilitating recognition of the initiation point. It is needed to translate mRNA with a short Shine-Dalgarno (SD) purine-rich sequence (By similarity)",
+      "metric_1": 74,
+      "metric_4": 84,
+      "metric_6": 67,
+      "metric_7": 74,
+      "metric_9": 30,
+      "metric_10": 89,
+      "metric_11": 94,
+      "metric_12": 31,
+      "metric_13": 54,
+      "metric_17": 34,
+      "metric_18": 34,
+      "metric_21": 40,
+      "metric_22": 43,
+      "metric_26": 43,
+      "metric_27": 20
     }
   ],
   "diamond_track": [

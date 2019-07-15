@@ -35,7 +35,21 @@
       "eggnog_X10": "08KZW@bactNOG,176HZ@proNOG,COG1129@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "P",
-      "eggnog_X13": "(ABC) transporter"
+      "eggnog_X13": "(ABC) transporter",
+      "metric_2": 85,
+      "metric_3": 5,
+      "metric_5": 89,
+      "metric_11": 83,
+      "metric_12": 25,
+      "metric_15": 29,
+      "metric_21": 43,
+      "metric_23": 24,
+      "metric_24": 82,
+      "metric_25": 7,
+      "metric_27": 9,
+      "metric_28": 27,
+      "metric_29": 13,
+      "metric_30": 84
     },
     {
       "gene_seqnames": "MAG06_489",
@@ -68,7 +82,20 @@
       "eggnog_X10": "027WK@aproNOG,08QWY@bactNOG,0XRK5@NOG,176D1@proNOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "G",
-      "eggnog_X13": "Branched-chain amino acid transport system / permease component"
+      "eggnog_X13": "Branched-chain amino acid transport system / permease component",
+      "metric_1": 50,
+      "metric_4": 2,
+      "metric_6": 77,
+      "metric_8": 65,
+      "metric_11": 98,
+      "metric_12": 2,
+      "metric_13": 63,
+      "metric_17": 35,
+      "metric_18": 15,
+      "metric_19": 58,
+      "metric_22": 29,
+      "metric_23": 5,
+      "metric_27": 21
     },
     {
       "gene_seqnames": "MAG06_489",
@@ -99,7 +126,20 @@
       "eggnog_X7": "K02058,K10439",
       "eggnog_X9": "bactNOG[38]",
       "eggnog_X10": "022R3@aproNOG,08Q8E@bactNOG,11CZ4@NOG,16SAY@proNOG",
-      "eggnog_X11": "NA|NA|NA"
+      "eggnog_X11": "NA|NA|NA",
+      "metric_2": 84,
+      "metric_3": 33,
+      "metric_4": 20,
+      "metric_5": 66,
+      "metric_8": 93,
+      "metric_9": 75,
+      "metric_10": 43,
+      "metric_15": 64,
+      "metric_20": 61,
+      "metric_24": 98,
+      "metric_25": 82,
+      "metric_29": 76,
+      "metric_30": 45
     }
   ],
   "diamond_track": [

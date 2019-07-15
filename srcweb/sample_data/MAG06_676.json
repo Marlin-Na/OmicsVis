@@ -36,7 +36,19 @@
       "eggnog_X10": "01T7M@aproNOG,05E98@bactNOG,16QT1@proNOG,COG1349@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "K",
-      "eggnog_X13": "transcriptional regulator DeoR family"
+      "eggnog_X13": "transcriptional regulator DeoR family",
+      "metric_1": 2,
+      "metric_3": 21,
+      "metric_4": 20,
+      "metric_8": 81,
+      "metric_11": 92,
+      "metric_12": 12,
+      "metric_14": 77,
+      "metric_19": 33,
+      "metric_20": 32,
+      "metric_28": 75,
+      "metric_29": 29,
+      "metric_30": 88
     },
     {
       "gene_seqnames": "MAG06_676",
@@ -69,7 +81,22 @@
       "eggnog_X10": "01UWW@aproNOG,05CYX@bactNOG,0XNUN@NOG,16QVI@proNOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "I",
-      "eggnog_X13": "Short-chain dehydrogenase reductase SDR"
+      "eggnog_X13": "Short-chain dehydrogenase reductase SDR",
+      "metric_2": 78,
+      "metric_3": 47,
+      "metric_4": 28,
+      "metric_5": 6,
+      "metric_6": 34,
+      "metric_7": 70,
+      "metric_12": 14,
+      "metric_15": 64,
+      "metric_16": 83,
+      "metric_20": 79,
+      "metric_22": 35,
+      "metric_23": 24,
+      "metric_26": 29,
+      "metric_27": 75,
+      "metric_28": 23
     },
     {
       "gene_seqnames": "MAG06_676",
@@ -101,7 +128,20 @@
       "eggnog_X10": "01RGC@aproNOG,08KB8@bactNOG,0XQ4R@NOG,16R8F@proNOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "K",
-      "eggnog_X13": "transcriptional regulator, lysR family"
+      "eggnog_X13": "transcriptional regulator, lysR family",
+      "metric_2": 98,
+      "metric_3": 71,
+      "metric_5": 23,
+      "metric_6": 50,
+      "metric_8": 45,
+      "metric_10": 12,
+      "metric_11": 9,
+      "metric_14": 29,
+      "metric_17": 19,
+      "metric_20": 37,
+      "metric_23": 59,
+      "metric_25": 22,
+      "metric_30": 4
     }
   ],
   "diamond_track": [

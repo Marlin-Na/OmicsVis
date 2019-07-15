@@ -35,7 +35,19 @@
       "eggnog_X10": "027XW@aproNOG,07ZS2@bactNOG,17B5F@proNOG,COG1879@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "G",
-      "eggnog_X13": "Inherit from proNOG: Periplasmic binding proteins and sugar binding domain of LacI family"
+      "eggnog_X13": "Inherit from proNOG: Periplasmic binding proteins and sugar binding domain of LacI family",
+      "metric_1": 82,
+      "metric_2": 66,
+      "metric_3": 56,
+      "metric_4": 28,
+      "metric_6": 83,
+      "metric_7": 43,
+      "metric_8": 47,
+      "metric_15": 46,
+      "metric_18": 55,
+      "metric_20": 73,
+      "metric_21": 88,
+      "metric_26": 53
     },
     {
       "gene_seqnames": "MAG06_45",
@@ -67,7 +79,24 @@
       "eggnog_X10": "02DVC@aproNOG,08WZQ@bactNOG,11JBZ@NOG,171P5@proNOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "K",
-      "eggnog_X13": "Transcriptional regulator"
+      "eggnog_X13": "Transcriptional regulator",
+      "metric_1": 53,
+      "metric_2": 36,
+      "metric_4": 68,
+      "metric_8": 96,
+      "metric_9": 39,
+      "metric_11": 56,
+      "metric_14": 48,
+      "metric_17": 49,
+      "metric_18": 78,
+      "metric_20": 98,
+      "metric_21": 48,
+      "metric_23": 30,
+      "metric_24": 82,
+      "metric_25": 90,
+      "metric_26": 92,
+      "metric_27": 39,
+      "metric_30": 77
     }
   ],
   "diamond_track": [

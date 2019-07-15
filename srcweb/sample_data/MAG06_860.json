@@ -34,7 +34,20 @@
       "eggnog_X10": "01T8M@aproNOG,06CQS@bactNOG,173RR@proNOG,COG0464@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "O",
-      "eggnog_X13": "ATPase family associated with various cellular activities (AAA)"
+      "eggnog_X13": "ATPase family associated with various cellular activities (AAA)",
+      "metric_1": 27,
+      "metric_2": 88,
+      "metric_3": 79,
+      "metric_6": 35,
+      "metric_7": 81,
+      "metric_9": 8,
+      "metric_17": 11,
+      "metric_18": 10,
+      "metric_19": 49,
+      "metric_21": 88,
+      "metric_22": 35,
+      "metric_25": 11,
+      "metric_29": 17
     },
     {
       "gene_seqnames": "MAG06_860",
@@ -64,7 +77,19 @@
       "eggnog_X4": 239.2,
       "eggnog_X9": "bactNOG[38]",
       "eggnog_X10": "01QIP@aproNOG,05EIQ@bactNOG,0XNSV@NOG,16PKN@proNOG",
-      "eggnog_X11": "NA|NA|NA"
+      "eggnog_X11": "NA|NA|NA",
+      "metric_8": 91,
+      "metric_9": 13,
+      "metric_11": 53,
+      "metric_13": 90,
+      "metric_14": 15,
+      "metric_15": 78,
+      "metric_17": 24,
+      "metric_19": 63,
+      "metric_21": 67,
+      "metric_28": 44,
+      "metric_29": 32,
+      "metric_30": 39
     }
   ],
   "diamond_track": [

@@ -35,7 +35,21 @@
       "eggnog_X10": "02160@aproNOG,05P0T@bactNOG,17H5Y@proNOG,COG5425@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "E",
-      "eggnog_X13": "Usg family"
+      "eggnog_X13": "Usg family",
+      "metric_2": 36,
+      "metric_4": 2,
+      "metric_5": 31,
+      "metric_6": 97,
+      "metric_8": 46,
+      "metric_9": 98,
+      "metric_13": 12,
+      "metric_14": 67,
+      "metric_16": 34,
+      "metric_21": 27,
+      "metric_23": 46,
+      "metric_26": 1,
+      "metric_28": 7,
+      "metric_29": 85
     },
     {
       "gene_seqnames": "MAG06_350",
@@ -70,7 +84,21 @@
       "eggnog_X10": "01Y26@aproNOG,05K5Y@bactNOG,17FI0@proNOG,COG0234@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "O",
-      "eggnog_X13": "Binds to Cpn60 in the presence of Mg-ATP and suppresses the ATPase activity of the latter (By similarity)"
+      "eggnog_X13": "Binds to Cpn60 in the presence of Mg-ATP and suppresses the ATPase activity of the latter (By similarity)",
+      "metric_3": 62,
+      "metric_4": 33,
+      "metric_6": 36,
+      "metric_8": 79,
+      "metric_10": 18,
+      "metric_11": 66,
+      "metric_13": 56,
+      "metric_15": 48,
+      "metric_17": 47,
+      "metric_18": 91,
+      "metric_20": 57,
+      "metric_24": 80,
+      "metric_26": 34,
+      "metric_29": 57
     },
     {
       "gene_seqnames": "MAG06_350",
@@ -105,7 +133,21 @@
       "eggnog_X10": "01QWG@aproNOG,05CJ9@bactNOG,16QCK@proNOG,COG0459@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "O",
-      "eggnog_X13": "Prevents misfolding and promotes the refolding and proper assembly of unfolded polypeptides generated under stress conditions (By similarity)"
+      "eggnog_X13": "Prevents misfolding and promotes the refolding and proper assembly of unfolded polypeptides generated under stress conditions (By similarity)",
+      "metric_3": 41,
+      "metric_5": 69,
+      "metric_10": 88,
+      "metric_12": 31,
+      "metric_13": 10,
+      "metric_14": 3,
+      "metric_15": 51,
+      "metric_18": 51,
+      "metric_21": 20,
+      "metric_22": 21,
+      "metric_23": 87,
+      "metric_24": 8,
+      "metric_27": 6,
+      "metric_28": 38
     }
   ],
   "diamond_track": [

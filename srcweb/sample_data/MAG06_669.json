@@ -36,7 +36,21 @@
       "eggnog_X10": "01QJ5@aproNOG,05C3U@bactNOG,16PI9@proNOG,COG0444@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "E, P",
-      "eggnog_X13": "ABC transporter"
+      "eggnog_X13": "ABC transporter",
+      "metric_3": 84,
+      "metric_4": 96,
+      "metric_7": 85,
+      "metric_9": 94,
+      "metric_11": 43,
+      "metric_14": 69,
+      "metric_16": 54,
+      "metric_18": 33,
+      "metric_21": 81,
+      "metric_23": 96,
+      "metric_25": 97,
+      "metric_28": 71,
+      "metric_29": 92,
+      "metric_30": 63
     },
     {
       "gene_seqnames": "MAG06_669",
@@ -69,7 +83,21 @@
       "eggnog_X10": "01VAN@aproNOG,06WGS@bactNOG,0YH41@NOG,17410@proNOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "S",
-      "eggnog_X13": "ABC transporter"
+      "eggnog_X13": "ABC transporter",
+      "metric_2": 99,
+      "metric_8": 36,
+      "metric_9": 75,
+      "metric_10": 15,
+      "metric_12": 83,
+      "metric_13": 25,
+      "metric_14": 30,
+      "metric_15": 20,
+      "metric_16": 44,
+      "metric_18": 85,
+      "metric_21": 74,
+      "metric_23": 9,
+      "metric_27": 71,
+      "metric_28": 71
     },
     {
       "gene_seqnames": "MAG06_669",
@@ -104,7 +132,17 @@
       "eggnog_X10": "01VXZ@aproNOG,05DKT@bactNOG,16SAC@proNOG,COG2390@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "K",
-      "eggnog_X13": "Transcriptional regulator"
+      "eggnog_X13": "Transcriptional regulator",
+      "metric_5": 30,
+      "metric_7": 40,
+      "metric_9": 59,
+      "metric_10": 68,
+      "metric_17": 42,
+      "metric_18": 21,
+      "metric_20": 32,
+      "metric_21": 39,
+      "metric_22": 88,
+      "metric_24": 99
     },
     {
       "gene_seqnames": "MAG06_669",
@@ -128,7 +166,21 @@
       "gene_sscore": "10.51",
       "gene_rscore": "13.75",
       "gene_uscore": "-2.53",
-      "gene_tscore": "3.65"
+      "gene_tscore": "3.65",
+      "metric_1": 92,
+      "metric_2": 9,
+      "metric_3": 15,
+      "metric_4": 65,
+      "metric_5": 32,
+      "metric_7": 66,
+      "metric_11": 68,
+      "metric_12": 5,
+      "metric_17": 10,
+      "metric_18": 82,
+      "metric_21": 60,
+      "metric_23": 98,
+      "metric_26": 66,
+      "metric_27": 92
     }
   ],
   "diamond_track": [

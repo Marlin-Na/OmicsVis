@@ -38,7 +38,21 @@
       "eggnog_X10": "01S7R@aproNOG,05CU6@bactNOG,16RSH@proNOG,COG0458@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "F",
-      "eggnog_X13": "Carbamoyl-phosphate synthetase ammonia chain"
+      "eggnog_X13": "Carbamoyl-phosphate synthetase ammonia chain",
+      "metric_2": 39,
+      "metric_4": 49,
+      "metric_7": 69,
+      "metric_8": 18,
+      "metric_13": 13,
+      "metric_19": 1,
+      "metric_20": 26,
+      "metric_24": 33,
+      "metric_25": 75,
+      "metric_26": 41,
+      "metric_27": 14,
+      "metric_28": 97,
+      "metric_29": 94,
+      "metric_30": 19
     },
     {
       "gene_seqnames": "MAG06_720",
@@ -62,7 +76,19 @@
       "gene_sscore": "-1.45",
       "gene_rscore": "-0.18",
       "gene_uscore": "-5.25",
-      "gene_tscore": "3.98"
+      "gene_tscore": "3.98",
+      "metric_2": 10,
+      "metric_4": 97,
+      "metric_7": 13,
+      "metric_14": 57,
+      "metric_16": 50,
+      "metric_17": 83,
+      "metric_18": 81,
+      "metric_22": 62,
+      "metric_23": 14,
+      "metric_28": 18,
+      "metric_29": 75,
+      "metric_30": 89
     }
   ],
   "diamond_track": [

@@ -36,7 +36,17 @@
       "eggnog_X10": "01WPR@aproNOG,05DRW@bactNOG,16RC7@proNOG,COG0395@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "G",
-      "eggnog_X13": "ABC transporter permease protein"
+      "eggnog_X13": "ABC transporter permease protein",
+      "metric_4": 67,
+      "metric_5": 80,
+      "metric_8": 3,
+      "metric_11": 45,
+      "metric_14": 32,
+      "metric_19": 18,
+      "metric_21": 98,
+      "metric_23": 90,
+      "metric_25": 5,
+      "metric_28": 91
     },
     {
       "gene_seqnames": "MAG06_999",
@@ -70,7 +80,22 @@
       "eggnog_X10": "01T6A@aproNOG,05HS6@bactNOG,16S4H@proNOG,COG1175@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "P",
-      "eggnog_X13": "Binding-protein-dependent transport systems inner membrane component"
+      "eggnog_X13": "Binding-protein-dependent transport systems inner membrane component",
+      "metric_1": 33,
+      "metric_2": 40,
+      "metric_4": 78,
+      "metric_5": 91,
+      "metric_6": 53,
+      "metric_10": 19,
+      "metric_13": 13,
+      "metric_14": 85,
+      "metric_15": 96,
+      "metric_16": 5,
+      "metric_17": 25,
+      "metric_18": 28,
+      "metric_19": 99,
+      "metric_28": 40,
+      "metric_30": 40
     }
   ],
   "diamond_track": [

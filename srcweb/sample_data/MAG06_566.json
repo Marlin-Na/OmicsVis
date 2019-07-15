@@ -38,7 +38,20 @@
       "eggnog_X10": "01R7V@aproNOG,05C9Q@bactNOG,16PGI@proNOG,COG0114@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "C",
-      "eggnog_X13": "fumarate hydratase class II"
+      "eggnog_X13": "fumarate hydratase class II",
+      "metric_4": 62,
+      "metric_5": 48,
+      "metric_8": 59,
+      "metric_10": 65,
+      "metric_11": 19,
+      "metric_12": 98,
+      "metric_13": 89,
+      "metric_17": 7,
+      "metric_21": 95,
+      "metric_22": 86,
+      "metric_25": 79,
+      "metric_26": 94,
+      "metric_27": 81
     },
     {
       "gene_seqnames": "MAG06_566",
@@ -72,7 +85,17 @@
       "eggnog_X10": "01R8F@aproNOG,05DIT@bactNOG,16R47@proNOG,COG2989@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "S",
-      "eggnog_X13": "Peptidoglycan binding domain-containing protein"
+      "eggnog_X13": "Peptidoglycan binding domain-containing protein",
+      "metric_2": 81,
+      "metric_5": 82,
+      "metric_6": 53,
+      "metric_7": 62,
+      "metric_9": 50,
+      "metric_16": 85,
+      "metric_26": 3,
+      "metric_28": 36,
+      "metric_29": 11,
+      "metric_30": 85
     },
     {
       "gene_seqnames": "MAG06_566",
@@ -106,7 +129,21 @@
       "eggnog_X10": "01X51@aproNOG,08VXP@bactNOG,16TD6@proNOG,COG0546@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "S",
-      "eggnog_X13": "Phosphoglycolate phosphatase"
+      "eggnog_X13": "Phosphoglycolate phosphatase",
+      "metric_1": 86,
+      "metric_2": 6,
+      "metric_5": 34,
+      "metric_6": 10,
+      "metric_9": 99,
+      "metric_10": 26,
+      "metric_12": 22,
+      "metric_14": 53,
+      "metric_17": 86,
+      "metric_19": 57,
+      "metric_20": 98,
+      "metric_24": 83,
+      "metric_28": 71,
+      "metric_29": 40
     }
   ],
   "diamond_track": [

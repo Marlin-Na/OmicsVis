@@ -35,7 +35,15 @@
       "eggnog_X10": "01SH4@aproNOG,05CBN@bactNOG,0XNVB@NOG,16PQT@proNOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "K",
-      "eggnog_X13": "LysR family transcriptional regulator"
+      "eggnog_X13": "LysR family transcriptional regulator",
+      "metric_1": 72,
+      "metric_2": 82,
+      "metric_5": 15,
+      "metric_7": 5,
+      "metric_8": 20,
+      "metric_17": 65,
+      "metric_24": 5,
+      "metric_30": 55
     },
     {
       "gene_seqnames": "MAG06_735",
@@ -68,7 +76,22 @@
       "eggnog_X10": "0816S@bactNOG,0BDZZ@bproNOG,17DQB@proNOG,COG1733@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "K",
-      "eggnog_X13": "HxlR family transcriptional regulator"
+      "eggnog_X13": "HxlR family transcriptional regulator",
+      "metric_1": 15,
+      "metric_2": 54,
+      "metric_4": 62,
+      "metric_5": 65,
+      "metric_7": 94,
+      "metric_8": 16,
+      "metric_9": 21,
+      "metric_11": 76,
+      "metric_12": 57,
+      "metric_13": 73,
+      "metric_14": 57,
+      "metric_16": 44,
+      "metric_19": 32,
+      "metric_28": 63,
+      "metric_30": 99
     },
     {
       "gene_seqnames": "MAG06_735",
@@ -103,7 +126,20 @@
       "eggnog_X10": "080TC@bactNOG,0BNEF@bproNOG,17T6F@proNOG,COG2076@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "P",
-      "eggnog_X13": "quaternary ammonium compound-resistance protein"
+      "eggnog_X13": "quaternary ammonium compound-resistance protein",
+      "metric_2": 31,
+      "metric_3": 6,
+      "metric_5": 83,
+      "metric_13": 97,
+      "metric_14": 77,
+      "metric_15": 22,
+      "metric_17": 1,
+      "metric_18": 70,
+      "metric_20": 69,
+      "metric_26": 16,
+      "metric_28": 51,
+      "metric_29": 2,
+      "metric_30": 39
     }
   ],
   "diamond_track": [

@@ -37,7 +37,20 @@
       "eggnog_X10": "05C26@bactNOG,0B8T2@bproNOG,16PDZ@proNOG,COG1012@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "C",
-      "eggnog_X13": "Aldehyde dehydrogenase"
+      "eggnog_X13": "Aldehyde dehydrogenase",
+      "metric_2": 17,
+      "metric_3": 15,
+      "metric_5": 46,
+      "metric_6": 49,
+      "metric_9": 34,
+      "metric_12": 54,
+      "metric_16": 14,
+      "metric_17": 78,
+      "metric_18": 92,
+      "metric_20": 92,
+      "metric_22": 35,
+      "metric_26": 18,
+      "metric_30": 92
     },
     {
       "gene_seqnames": "MAG06_672",
@@ -71,7 +84,22 @@
       "eggnog_X10": "01QX1@aproNOG,05C3U@bactNOG,16PI9@proNOG,COG0444@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "E, P",
-      "eggnog_X13": "ABC transporter"
+      "eggnog_X13": "ABC transporter",
+      "metric_3": 10,
+      "metric_4": 17,
+      "metric_8": 77,
+      "metric_12": 56,
+      "metric_13": 10,
+      "metric_14": 83,
+      "metric_16": 98,
+      "metric_17": 17,
+      "metric_18": 16,
+      "metric_19": 91,
+      "metric_20": 43,
+      "metric_21": 26,
+      "metric_24": 63,
+      "metric_25": 94,
+      "metric_30": 99
     }
   ],
   "diamond_track": [

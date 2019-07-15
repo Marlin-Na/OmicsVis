@@ -34,7 +34,22 @@
       "eggnog_X10": "05SHW@bactNOG,COG0583@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "K",
-      "eggnog_X13": "transcriptional regulator, lysR family"
+      "eggnog_X13": "transcriptional regulator, lysR family",
+      "metric_1": 47,
+      "metric_2": 13,
+      "metric_3": 74,
+      "metric_5": 92,
+      "metric_6": 63,
+      "metric_7": 10,
+      "metric_8": 39,
+      "metric_9": 38,
+      "metric_10": 9,
+      "metric_11": 12,
+      "metric_13": 82,
+      "metric_17": 22,
+      "metric_18": 4,
+      "metric_28": 69,
+      "metric_30": 54
     },
     {
       "gene_seqnames": "MAG06_390",
@@ -67,7 +82,21 @@
       "eggnog_X10": "0260Z@aproNOG,06EUB@bactNOG,17Z8F@proNOG,COG5598@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "H",
-      "eggnog_X13": "trimethylamine methyltransferase"
+      "eggnog_X13": "trimethylamine methyltransferase",
+      "metric_2": 37,
+      "metric_5": 14,
+      "metric_6": 69,
+      "metric_8": 21,
+      "metric_9": 1,
+      "metric_13": 77,
+      "metric_14": 61,
+      "metric_15": 43,
+      "metric_19": 86,
+      "metric_21": 87,
+      "metric_23": 33,
+      "metric_25": 76,
+      "metric_29": 61,
+      "metric_30": 83
     }
   ],
   "diamond_track": [

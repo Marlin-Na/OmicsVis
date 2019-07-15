@@ -36,7 +36,19 @@
       "eggnog_X10": "02DU1@aproNOG,07TZQ@bactNOG,171KA@proNOG,COG0654@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "H",
-      "eggnog_X13": "ubiquinone biosynthesis hydroxylase, ubiH ubiF VisC COQ6 family"
+      "eggnog_X13": "ubiquinone biosynthesis hydroxylase, ubiH ubiF VisC COQ6 family",
+      "metric_2": 87,
+      "metric_4": 53,
+      "metric_8": 68,
+      "metric_9": 34,
+      "metric_10": 80,
+      "metric_11": 97,
+      "metric_14": 82,
+      "metric_17": 3,
+      "metric_21": 65,
+      "metric_23": 74,
+      "metric_24": 43,
+      "metric_27": 33
     },
     {
       "gene_seqnames": "MAG06_514",
@@ -70,7 +82,17 @@
       "eggnog_X10": "02DU1@aproNOG,07TZQ@bactNOG,171KA@proNOG,COG0654@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "H",
-      "eggnog_X13": "ubiquinone biosynthesis hydroxylase, ubiH ubiF VisC COQ6 family"
+      "eggnog_X13": "ubiquinone biosynthesis hydroxylase, ubiH ubiF VisC COQ6 family",
+      "metric_2": 96,
+      "metric_3": 61,
+      "metric_9": 37,
+      "metric_11": 37,
+      "metric_12": 27,
+      "metric_16": 32,
+      "metric_21": 97,
+      "metric_22": 57,
+      "metric_25": 34,
+      "metric_29": 27
     },
     {
       "gene_seqnames": "MAG06_514",
@@ -106,7 +128,20 @@
       "eggnog_X10": "01RME@aproNOG,05C29@bactNOG,16QYU@proNOG,COG1946@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "I",
-      "eggnog_X13": "Acyl-coa thioesterase"
+      "eggnog_X13": "Acyl-coa thioesterase",
+      "metric_4": 44,
+      "metric_5": 27,
+      "metric_8": 6,
+      "metric_10": 62,
+      "metric_12": 88,
+      "metric_13": 8,
+      "metric_14": 13,
+      "metric_23": 31,
+      "metric_24": 44,
+      "metric_25": 34,
+      "metric_27": 84,
+      "metric_29": 40,
+      "metric_30": 10
     },
     {
       "gene_seqnames": "MAG06_514",
@@ -140,7 +175,16 @@
       "eggnog_X10": "01Y2W@aproNOG,08YZA@bactNOG,17C4Z@proNOG,COG0347@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "E",
-      "eggnog_X13": "nitrogen regulatory protein pii"
+      "eggnog_X13": "nitrogen regulatory protein pii",
+      "metric_5": 35,
+      "metric_9": 62,
+      "metric_11": 68,
+      "metric_13": 99,
+      "metric_17": 41,
+      "metric_18": 66,
+      "metric_22": 41,
+      "metric_23": 16,
+      "metric_30": 90
     },
     {
       "gene_seqnames": "MAG06_514",
@@ -176,7 +220,20 @@
       "eggnog_X10": "01QD8@aproNOG,05BZU@bactNOG,0XNMH@NOG,16PRG@proNOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "P",
-      "eggnog_X13": "ammonium Transporter"
+      "eggnog_X13": "ammonium Transporter",
+      "metric_2": 60,
+      "metric_3": 83,
+      "metric_4": 88,
+      "metric_7": 85,
+      "metric_9": 32,
+      "metric_11": 11,
+      "metric_12": 82,
+      "metric_15": 74,
+      "metric_16": 34,
+      "metric_17": 4,
+      "metric_21": 10,
+      "metric_22": 23,
+      "metric_23": 98
     },
     {
       "gene_seqnames": "MAG06_514",
@@ -211,7 +268,18 @@
       "eggnog_X10": "COG1674@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "D",
-      "eggnog_X13": "cell division protein FtsK"
+      "eggnog_X13": "cell division protein FtsK",
+      "metric_1": 84,
+      "metric_6": 93,
+      "metric_8": 71,
+      "metric_11": 3,
+      "metric_16": 46,
+      "metric_21": 30,
+      "metric_22": 45,
+      "metric_23": 77,
+      "metric_25": 45,
+      "metric_26": 47,
+      "metric_30": 9
     }
   ],
   "diamond_track": [

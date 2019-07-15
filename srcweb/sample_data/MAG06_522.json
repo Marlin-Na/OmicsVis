@@ -34,7 +34,12 @@
       "eggnog_X10": "01QRS@aproNOG,05BZU@bactNOG,16PBJ@proNOG,COG2199@NOG,COG3300@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "T",
-      "eggnog_X13": "cyclic nucleotide biosynthetic process"
+      "eggnog_X13": "cyclic nucleotide biosynthetic process",
+      "metric_6": 18,
+      "metric_9": 56,
+      "metric_14": 86,
+      "metric_16": 54,
+      "metric_18": 51
     },
     {
       "gene_seqnames": "MAG06_522",
@@ -69,7 +74,24 @@
       "eggnog_X10": "01RDE@aproNOG,05DRI@bactNOG,16Q8M@proNOG,COG0673@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "G",
-      "eggnog_X13": "Myo-inositol 2-dehydrogenase"
+      "eggnog_X13": "Myo-inositol 2-dehydrogenase",
+      "metric_1": 37,
+      "metric_3": 81,
+      "metric_5": 41,
+      "metric_6": 21,
+      "metric_7": 93,
+      "metric_14": 9,
+      "metric_15": 12,
+      "metric_16": 76,
+      "metric_19": 6,
+      "metric_20": 82,
+      "metric_21": 38,
+      "metric_22": 25,
+      "metric_23": 61,
+      "metric_24": 76,
+      "metric_25": 92,
+      "metric_26": 68,
+      "metric_29": 31
     },
     {
       "gene_seqnames": "MAG06_522",
@@ -99,7 +121,19 @@
       "eggnog_X4": 62.8,
       "eggnog_X9": "bactNOG[38]",
       "eggnog_X10": "023PZ@aproNOG,069F0@bactNOG,0XY7D@NOG,17RSH@proNOG",
-      "eggnog_X11": "NA|NA|NA"
+      "eggnog_X11": "NA|NA|NA",
+      "metric_1": 45,
+      "metric_7": 42,
+      "metric_8": 68,
+      "metric_10": 93,
+      "metric_11": 64,
+      "metric_13": 10,
+      "metric_14": 20,
+      "metric_17": 6,
+      "metric_19": 76,
+      "metric_23": 68,
+      "metric_25": 51,
+      "metric_28": 13
     }
   ],
   "diamond_track": [

@@ -26,7 +26,21 @@
       "gene_sscore": "3.22",
       "gene_rscore": "0.00",
       "gene_uscore": "0.00",
-      "gene_tscore": "3.22"
+      "gene_tscore": "3.22",
+      "metric_2": 97,
+      "metric_4": 48,
+      "metric_5": 87,
+      "metric_8": 14,
+      "metric_10": 64,
+      "metric_15": 61,
+      "metric_16": 27,
+      "metric_20": 93,
+      "metric_21": 97,
+      "metric_23": 23,
+      "metric_25": 40,
+      "metric_26": 98,
+      "metric_28": 56,
+      "metric_29": 2
     },
     {
       "gene_seqnames": "MAG06_167",
@@ -59,7 +73,19 @@
       "eggnog_X10": "01UXY@aproNOG,05CE0@bactNOG,16RSM@proNOG,COG4813@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "G",
-      "eggnog_X13": "Trehalose utilisation"
+      "eggnog_X13": "Trehalose utilisation",
+      "metric_3": 45,
+      "metric_7": 36,
+      "metric_9": 4,
+      "metric_11": 72,
+      "metric_12": 95,
+      "metric_13": 44,
+      "metric_16": 13,
+      "metric_19": 66,
+      "metric_20": 47,
+      "metric_22": 34,
+      "metric_24": 50,
+      "metric_29": 88
     },
     {
       "gene_seqnames": "MAG06_167",
@@ -92,7 +118,21 @@
       "eggnog_X10": "01SMS@aproNOG,07S3N@bactNOG,16RSF@proNOG,COG0673@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "S",
-      "eggnog_X13": "Oxidoreductase domain-containing protein"
+      "eggnog_X13": "Oxidoreductase domain-containing protein",
+      "metric_1": 30,
+      "metric_2": 81,
+      "metric_4": 22,
+      "metric_5": 15,
+      "metric_8": 13,
+      "metric_12": 51,
+      "metric_15": 52,
+      "metric_17": 82,
+      "metric_18": 15,
+      "metric_20": 84,
+      "metric_24": 96,
+      "metric_27": 19,
+      "metric_28": 8,
+      "metric_30": 96
     },
     {
       "gene_seqnames": "MAG06_167",
@@ -124,7 +164,19 @@
       "eggnog_X10": "024R6@aproNOG,0685H@bactNOG,0XVEI@NOG,17VMB@proNOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "S",
-      "eggnog_X13": "SPW repeat"
+      "eggnog_X13": "SPW repeat",
+      "metric_3": 60,
+      "metric_4": 38,
+      "metric_7": 10,
+      "metric_11": 17,
+      "metric_14": 40,
+      "metric_16": 58,
+      "metric_20": 1,
+      "metric_22": 4,
+      "metric_23": 46,
+      "metric_24": 98,
+      "metric_28": 48,
+      "metric_30": 85
     }
   ],
   "diamond_track": [

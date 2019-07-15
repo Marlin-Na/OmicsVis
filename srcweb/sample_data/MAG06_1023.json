@@ -35,7 +35,21 @@
       "eggnog_X10": "01U9U@aproNOG,088CX@bactNOG,175GF@proNOG,COG1376@NOG,COG3409@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "M",
-      "eggnog_X13": "ErfK YbiS YcfS YnhG"
+      "eggnog_X13": "ErfK YbiS YcfS YnhG",
+      "metric_1": 18,
+      "metric_2": 21,
+      "metric_3": 52,
+      "metric_4": 62,
+      "metric_11": 94,
+      "metric_13": 14,
+      "metric_15": 23,
+      "metric_18": 46,
+      "metric_21": 60,
+      "metric_23": 97,
+      "metric_24": 64,
+      "metric_26": 79,
+      "metric_28": 10,
+      "metric_30": 94
     },
     {
       "gene_seqnames": "MAG06_1023",
@@ -70,7 +84,22 @@
       "eggnog_X10": "01QHS@aproNOG,05C0B@bactNOG,16PJP@proNOG,COG0587@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "L",
-      "eggnog_X13": "DNA polymerase III subunit alpha"
+      "eggnog_X13": "DNA polymerase III subunit alpha",
+      "metric_4": 58,
+      "metric_6": 93,
+      "metric_10": 8,
+      "metric_11": 92,
+      "metric_13": 57,
+      "metric_14": 69,
+      "metric_16": 56,
+      "metric_17": 27,
+      "metric_20": 3,
+      "metric_22": 71,
+      "metric_25": 84,
+      "metric_27": 9,
+      "metric_28": 18,
+      "metric_29": 54,
+      "metric_30": 66
     }
   ],
   "diamond_track": [

@@ -34,7 +34,22 @@
       "eggnog_X10": "01XMF@aproNOG,08Y4A@bactNOG,17BBK@proNOG,COG1652@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "S",
-      "eggnog_X13": "Peptidoglycan-binding lysm"
+      "eggnog_X13": "Peptidoglycan-binding lysm",
+      "metric_1": 1,
+      "metric_6": 80,
+      "metric_8": 81,
+      "metric_9": 85,
+      "metric_11": 50,
+      "metric_13": 81,
+      "metric_14": 29,
+      "metric_15": 89,
+      "metric_18": 76,
+      "metric_19": 90,
+      "metric_20": 50,
+      "metric_23": 71,
+      "metric_24": 55,
+      "metric_25": 93,
+      "metric_27": 92
     },
     {
       "gene_seqnames": "MAG06_859",
@@ -69,7 +84,20 @@
       "eggnog_X10": "02EFC@aproNOG,08JJ7@bactNOG,173BM@proNOG,COG5265@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "V",
-      "eggnog_X13": "ABC transporter"
+      "eggnog_X13": "ABC transporter",
+      "metric_2": 20,
+      "metric_8": 8,
+      "metric_9": 46,
+      "metric_10": 30,
+      "metric_11": 47,
+      "metric_13": 99,
+      "metric_15": 4,
+      "metric_16": 45,
+      "metric_17": 48,
+      "metric_22": 37,
+      "metric_27": 44,
+      "metric_28": 47,
+      "metric_29": 97
     }
   ],
   "diamond_track": [

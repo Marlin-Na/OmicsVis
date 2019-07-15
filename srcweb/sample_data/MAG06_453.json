@@ -37,7 +37,23 @@
       "eggnog_X10": "01RZ5@aproNOG,05D8X@bactNOG,16QMW@proNOG,COG0668@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "M",
-      "eggnog_X13": "mechanosensitive ion channel"
+      "eggnog_X13": "mechanosensitive ion channel",
+      "metric_2": 18,
+      "metric_3": 95,
+      "metric_6": 29,
+      "metric_8": 19,
+      "metric_9": 92,
+      "metric_11": 34,
+      "metric_13": 14,
+      "metric_15": 13,
+      "metric_19": 5,
+      "metric_21": 40,
+      "metric_22": 54,
+      "metric_23": 3,
+      "metric_26": 58,
+      "metric_27": 17,
+      "metric_28": 75,
+      "metric_30": 47
     }
   ],
   "diamond_track": [

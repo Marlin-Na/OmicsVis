@@ -38,7 +38,22 @@
       "eggnog_X10": "01TEP@aproNOG,05CA3@bactNOG,16Q1F@proNOG,COG2821@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "M",
-      "eggnog_X13": "membrane-bound lytic murein transglycosylase"
+      "eggnog_X13": "membrane-bound lytic murein transglycosylase",
+      "metric_1": 42,
+      "metric_2": 87,
+      "metric_3": 87,
+      "metric_6": 40,
+      "metric_8": 52,
+      "metric_9": 48,
+      "metric_10": 15,
+      "metric_14": 97,
+      "metric_17": 7,
+      "metric_18": 43,
+      "metric_19": 23,
+      "metric_24": 19,
+      "metric_26": 60,
+      "metric_27": 46,
+      "metric_30": 5
     },
     {
       "gene_seqnames": "MAG06_939",
@@ -71,7 +86,20 @@
       "eggnog_X10": "021Q4@aproNOG,07WMI@bactNOG,16V17@proNOG,COG2840@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "S",
-      "eggnog_X13": "Smr protein MutS2"
+      "eggnog_X13": "Smr protein MutS2",
+      "metric_2": 36,
+      "metric_6": 57,
+      "metric_8": 20,
+      "metric_9": 13,
+      "metric_11": 3,
+      "metric_13": 55,
+      "metric_14": 82,
+      "metric_15": 34,
+      "metric_16": 2,
+      "metric_18": 83,
+      "metric_20": 53,
+      "metric_26": 89,
+      "metric_27": 12
     },
     {
       "gene_seqnames": "MAG06_939",
@@ -103,7 +131,19 @@
       "eggnog_X10": "01ZZE@aproNOG,05KQF@bactNOG,17G3E@proNOG,COG1396@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "K",
-      "eggnog_X13": "transcriptional regulator"
+      "eggnog_X13": "transcriptional regulator",
+      "metric_2": 66,
+      "metric_4": 7,
+      "metric_5": 23,
+      "metric_7": 73,
+      "metric_9": 19,
+      "metric_10": 46,
+      "metric_13": 2,
+      "metric_16": 92,
+      "metric_19": 6,
+      "metric_24": 30,
+      "metric_25": 99,
+      "metric_28": 79
     }
   ],
   "diamond_track": [

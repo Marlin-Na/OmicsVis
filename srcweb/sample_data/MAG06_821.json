@@ -26,7 +26,17 @@
       "gene_sscore": "3.22",
       "gene_rscore": "0.00",
       "gene_uscore": "0.00",
-      "gene_tscore": "3.22"
+      "gene_tscore": "3.22",
+      "metric_3": 47,
+      "metric_5": 90,
+      "metric_6": 61,
+      "metric_9": 67,
+      "metric_16": 19,
+      "metric_17": 67,
+      "metric_19": 80,
+      "metric_20": 68,
+      "metric_21": 98,
+      "metric_22": 63
     },
     {
       "gene_seqnames": "MAG06_821",
@@ -61,7 +71,20 @@
       "eggnog_X10": "01R5Y@aproNOG,05D5T@bactNOG,16QKX@proNOG,COG3638@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "P",
-      "eggnog_X13": "Phosphonate ABC transporter, ATP-binding protein"
+      "eggnog_X13": "Phosphonate ABC transporter, ATP-binding protein",
+      "metric_1": 40,
+      "metric_4": 59,
+      "metric_5": 96,
+      "metric_7": 94,
+      "metric_9": 70,
+      "metric_11": 11,
+      "metric_19": 22,
+      "metric_22": 88,
+      "metric_23": 83,
+      "metric_25": 69,
+      "metric_26": 73,
+      "metric_27": 37,
+      "metric_28": 86
     },
     {
       "gene_seqnames": "MAG06_821",
@@ -96,7 +119,17 @@
       "eggnog_X10": "01T8H@aproNOG,05EHI@bactNOG,16QAJ@proNOG,COG3221@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "P",
-      "eggnog_X13": "Phosphonate ABC transporter, periplasmic"
+      "eggnog_X13": "Phosphonate ABC transporter, periplasmic",
+      "metric_3": 56,
+      "metric_4": 99,
+      "metric_8": 3,
+      "metric_10": 32,
+      "metric_11": 73,
+      "metric_17": 29,
+      "metric_18": 2,
+      "metric_21": 59,
+      "metric_25": 23,
+      "metric_29": 9
     }
   ],
   "diamond_track": [

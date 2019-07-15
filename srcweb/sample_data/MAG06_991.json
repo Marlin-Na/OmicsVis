@@ -38,7 +38,12 @@
       "eggnog_X10": "01Q8N@aproNOG,05C01@bactNOG,16PQJ@proNOG,COG0129@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "E",
-      "eggnog_X13": "Dihydroxy-acid dehydratase"
+      "eggnog_X13": "Dihydroxy-acid dehydratase",
+      "metric_2": 66,
+      "metric_3": 86,
+      "metric_12": 36,
+      "metric_22": 54,
+      "metric_30": 8
     }
   ],
   "diamond_track": [

@@ -35,7 +35,21 @@
       "eggnog_X10": "01U4B@aproNOG,07WF1@bactNOG,1225V@NOG,177KF@proNOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "K",
-      "eggnog_X13": "Transcriptional regulator"
+      "eggnog_X13": "Transcriptional regulator",
+      "metric_4": 39,
+      "metric_5": 81,
+      "metric_9": 10,
+      "metric_11": 38,
+      "metric_13": 12,
+      "metric_17": 6,
+      "metric_18": 26,
+      "metric_20": 13,
+      "metric_22": 64,
+      "metric_23": 34,
+      "metric_24": 34,
+      "metric_25": 60,
+      "metric_29": 18,
+      "metric_30": 26
     },
     {
       "gene_seqnames": "MAG06_641",
@@ -69,7 +83,19 @@
       "eggnog_X10": "01QQD@aproNOG,05E0K@bactNOG,16QPN@proNOG,COG1629@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "P",
-      "eggnog_X13": "tonB-dependent siderophore receptor"
+      "eggnog_X13": "tonB-dependent siderophore receptor",
+      "metric_4": 69,
+      "metric_5": 65,
+      "metric_6": 59,
+      "metric_7": 39,
+      "metric_8": 27,
+      "metric_10": 81,
+      "metric_13": 50,
+      "metric_17": 72,
+      "metric_20": 18,
+      "metric_24": 53,
+      "metric_27": 15,
+      "metric_30": 10
     }
   ],
   "diamond_track": [

@@ -37,7 +37,18 @@
       "eggnog_X10": "01TQR@aproNOG,07UGY@bactNOG,174E8@proNOG,COG0596@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "E",
-      "eggnog_X13": "proline iminopeptidase"
+      "eggnog_X13": "proline iminopeptidase",
+      "metric_2": 42,
+      "metric_4": 92,
+      "metric_6": 12,
+      "metric_7": 66,
+      "metric_13": 10,
+      "metric_16": 16,
+      "metric_19": 5,
+      "metric_20": 41,
+      "metric_21": 86,
+      "metric_22": 55,
+      "metric_28": 73
     },
     {
       "gene_seqnames": "MAG06_323",
@@ -71,7 +82,20 @@
       "eggnog_X10": "01T8N@aproNOG,05DHU@bactNOG,16R0K@proNOG,COG0385@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "S",
-      "eggnog_X13": "Bile acid sodium symporter"
+      "eggnog_X13": "Bile acid sodium symporter",
+      "metric_1": 34,
+      "metric_2": 10,
+      "metric_3": 52,
+      "metric_5": 18,
+      "metric_10": 81,
+      "metric_13": 12,
+      "metric_14": 35,
+      "metric_16": 56,
+      "metric_17": 41,
+      "metric_20": 4,
+      "metric_22": 57,
+      "metric_26": 22,
+      "metric_29": 17
     },
     {
       "gene_seqnames": "MAG06_323",
@@ -95,7 +119,24 @@
       "gene_sscore": "3.22",
       "gene_rscore": "0.00",
       "gene_uscore": "0.00",
-      "gene_tscore": "3.22"
+      "gene_tscore": "3.22",
+      "metric_1": 55,
+      "metric_3": 86,
+      "metric_5": 82,
+      "metric_6": 91,
+      "metric_7": 73,
+      "metric_10": 24,
+      "metric_11": 24,
+      "metric_14": 97,
+      "metric_15": 15,
+      "metric_16": 9,
+      "metric_17": 77,
+      "metric_20": 35,
+      "metric_23": 63,
+      "metric_25": 14,
+      "metric_27": 41,
+      "metric_29": 65,
+      "metric_30": 56
     }
   ],
   "diamond_track": [

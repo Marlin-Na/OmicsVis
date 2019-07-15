@@ -26,7 +26,19 @@
       "gene_sscore": "3.22",
       "gene_rscore": "0.00",
       "gene_uscore": "0.00",
-      "gene_tscore": "3.22"
+      "gene_tscore": "3.22",
+      "metric_1": 92,
+      "metric_3": 48,
+      "metric_12": 19,
+      "metric_15": 55,
+      "metric_16": 67,
+      "metric_18": 34,
+      "metric_22": 84,
+      "metric_23": 95,
+      "metric_24": 22,
+      "metric_26": 8,
+      "metric_29": 23,
+      "metric_30": 39
     },
     {
       "gene_seqnames": "MAG06_31",
@@ -62,7 +74,17 @@
       "eggnog_X10": "01SRZ@aproNOG,05F8D@bactNOG,16T2Q@proNOG,COG1486@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "G",
-      "eggnog_X13": "glycoside hydrolase family 4"
+      "eggnog_X13": "glycoside hydrolase family 4",
+      "metric_7": 76,
+      "metric_8": 19,
+      "metric_14": 1,
+      "metric_15": 18,
+      "metric_16": 67,
+      "metric_17": 84,
+      "metric_18": 58,
+      "metric_19": 59,
+      "metric_21": 53,
+      "metric_24": 78
     },
     {
       "gene_seqnames": "MAG06_31",
@@ -95,7 +117,16 @@
       "eggnog_X10": "020D3@aproNOG,05NPF@bactNOG,11WVD@NOG,17IND@proNOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "S",
-      "eggnog_X13": "Protein of unknown function (DUF992)"
+      "eggnog_X13": "Protein of unknown function (DUF992)",
+      "metric_6": 78,
+      "metric_7": 39,
+      "metric_13": 19,
+      "metric_14": 18,
+      "metric_19": 73,
+      "metric_23": 50,
+      "metric_24": 80,
+      "metric_25": 93,
+      "metric_27": 84
     },
     {
       "gene_seqnames": "MAG06_31",
@@ -130,7 +161,23 @@
       "eggnog_X10": "01XPB@aproNOG,05V9J@bactNOG,16TQY@proNOG,COG3327@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "K",
-      "eggnog_X13": "phenylacetic acid degradation operon negative regulatory protein"
+      "eggnog_X13": "phenylacetic acid degradation operon negative regulatory protein",
+      "metric_2": 36,
+      "metric_3": 42,
+      "metric_4": 39,
+      "metric_6": 15,
+      "metric_7": 14,
+      "metric_8": 25,
+      "metric_10": 40,
+      "metric_11": 30,
+      "metric_13": 14,
+      "metric_14": 73,
+      "metric_16": 88,
+      "metric_18": 89,
+      "metric_19": 19,
+      "metric_24": 92,
+      "metric_26": 21,
+      "metric_27": 28
     },
     {
       "gene_seqnames": "MAG06_31",
@@ -166,7 +213,19 @@
       "eggnog_X10": "01SA1@aproNOG,05CRS@bactNOG,16R1M@proNOG,COG3396@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "Q",
-      "eggnog_X13": "Phenylacetate-CoA oxygenase, PaaG subunit"
+      "eggnog_X13": "Phenylacetate-CoA oxygenase, PaaG subunit",
+      "metric_1": 34,
+      "metric_2": 19,
+      "metric_3": 36,
+      "metric_5": 5,
+      "metric_12": 59,
+      "metric_18": 41,
+      "metric_20": 5,
+      "metric_21": 83,
+      "metric_22": 83,
+      "metric_25": 43,
+      "metric_27": 3,
+      "metric_28": 97
     },
     {
       "gene_seqnames": "MAG06_31",
@@ -202,7 +261,21 @@
       "eggnog_X10": "01Y9S@aproNOG,05N76@bactNOG,17H8E@proNOG,COG3460@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "Q",
-      "eggnog_X13": "Phenylacetate-CoA oxygenase PaaH subunit"
+      "eggnog_X13": "Phenylacetate-CoA oxygenase PaaH subunit",
+      "metric_2": 67,
+      "metric_4": 40,
+      "metric_8": 35,
+      "metric_9": 37,
+      "metric_11": 47,
+      "metric_14": 87,
+      "metric_16": 14,
+      "metric_19": 16,
+      "metric_20": 88,
+      "metric_23": 2,
+      "metric_24": 9,
+      "metric_26": 40,
+      "metric_27": 84,
+      "metric_30": 68
     },
     {
       "gene_seqnames": "MAG06_31",
@@ -238,7 +311,19 @@
       "eggnog_X10": "01QPG@aproNOG,05D9S@bactNOG,16QTB@proNOG,COG3396@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "Q",
-      "eggnog_X13": "Phenylacetate-CoA oxygenase PaaI subunit"
+      "eggnog_X13": "Phenylacetate-CoA oxygenase PaaI subunit",
+      "metric_2": 81,
+      "metric_3": 49,
+      "metric_4": 15,
+      "metric_5": 13,
+      "metric_7": 12,
+      "metric_8": 9,
+      "metric_9": 32,
+      "metric_11": 38,
+      "metric_15": 69,
+      "metric_19": 58,
+      "metric_21": 20,
+      "metric_24": 73
     }
   ],
   "diamond_track": [

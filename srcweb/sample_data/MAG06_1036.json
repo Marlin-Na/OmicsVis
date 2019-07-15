@@ -38,7 +38,19 @@
       "eggnog_X10": "01QH0@aproNOG,05CVG@bactNOG,16QK5@proNOG,COG1897@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "E",
-      "eggnog_X13": "Homoserine O-transsuccinylase"
+      "eggnog_X13": "Homoserine O-transsuccinylase",
+      "metric_4": 79,
+      "metric_6": 60,
+      "metric_10": 64,
+      "metric_11": 48,
+      "metric_19": 7,
+      "metric_22": 95,
+      "metric_23": 86,
+      "metric_24": 83,
+      "metric_25": 59,
+      "metric_26": 75,
+      "metric_27": 90,
+      "metric_30": 14
     },
     {
       "gene_seqnames": "MAG06_1036",
@@ -72,7 +84,24 @@
       "eggnog_X10": "01R4E@aproNOG,05ENN@bactNOG,16SYY@proNOG,COG2017@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "G",
-      "eggnog_X13": "Converts alpha-aldose to the beta-anomer. It is active on D-glucose, L-arabinose, D-xylose, D-galactose, maltose and lactose (By similarity)"
+      "eggnog_X13": "Converts alpha-aldose to the beta-anomer. It is active on D-glucose, L-arabinose, D-xylose, D-galactose, maltose and lactose (By similarity)",
+      "metric_1": 12,
+      "metric_4": 28,
+      "metric_6": 32,
+      "metric_7": 23,
+      "metric_11": 91,
+      "metric_12": 8,
+      "metric_13": 75,
+      "metric_15": 75,
+      "metric_18": 6,
+      "metric_20": 70,
+      "metric_21": 99,
+      "metric_25": 6,
+      "metric_26": 70,
+      "metric_27": 20,
+      "metric_28": 31,
+      "metric_29": 77,
+      "metric_30": 3
     },
     {
       "gene_seqnames": "MAG06_1036",
@@ -105,7 +134,18 @@
       "eggnog_X10": "01R82@aproNOG,05CKI@bactNOG,16R03@proNOG,COG0523@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "S",
-      "eggnog_X13": "cobalamin synthesis protein"
+      "eggnog_X13": "cobalamin synthesis protein",
+      "metric_2": 29,
+      "metric_11": 86,
+      "metric_12": 1,
+      "metric_13": 42,
+      "metric_15": 83,
+      "metric_16": 7,
+      "metric_20": 33,
+      "metric_25": 6,
+      "metric_27": 52,
+      "metric_29": 57,
+      "metric_30": 65
     },
     {
       "gene_seqnames": "MAG06_1036",
@@ -138,7 +178,19 @@
       "eggnog_X10": "01SSN@aproNOG,07ZQV@bactNOG,0XPR5@NOG,16RIR@proNOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "S",
-      "eggnog_X13": "short-chain dehydrogenase reductase"
+      "eggnog_X13": "short-chain dehydrogenase reductase",
+      "metric_4": 38,
+      "metric_5": 97,
+      "metric_6": 51,
+      "metric_9": 67,
+      "metric_14": 86,
+      "metric_16": 2,
+      "metric_17": 54,
+      "metric_19": 99,
+      "metric_23": 43,
+      "metric_25": 73,
+      "metric_28": 82,
+      "metric_30": 2
     }
   ],
   "diamond_track": [

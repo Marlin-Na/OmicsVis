@@ -38,7 +38,25 @@
       "eggnog_X10": "0202I@aproNOG,08YXA@bactNOG,17C31@proNOG,COG1981@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "S",
-      "eggnog_X13": "membrane"
+      "eggnog_X13": "membrane",
+      "metric_3": 48,
+      "metric_4": 20,
+      "metric_6": 89,
+      "metric_10": 28,
+      "metric_11": 29,
+      "metric_13": 73,
+      "metric_14": 65,
+      "metric_15": 96,
+      "metric_16": 32,
+      "metric_18": 55,
+      "metric_21": 42,
+      "metric_22": 45,
+      "metric_23": 99,
+      "metric_24": 86,
+      "metric_26": 24,
+      "metric_27": 48,
+      "metric_28": 21,
+      "metric_29": 18
     },
     {
       "gene_seqnames": "MAG06_523",
@@ -73,7 +91,20 @@
       "eggnog_X10": "01QD3@aproNOG,05C4P@bactNOG,16PGC@proNOG,COG1158@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "K",
-      "eggnog_X13": "Facilitates transcription termination by a mechanism that involves Rho binding to the nascent RNA, activation of Rho's RNA-dependent ATPase activity, and release of the mRNA from the DNA template (By similarity)"
+      "eggnog_X13": "Facilitates transcription termination by a mechanism that involves Rho binding to the nascent RNA, activation of Rho's RNA-dependent ATPase activity, and release of the mRNA from the DNA template (By similarity)",
+      "metric_1": 20,
+      "metric_9": 88,
+      "metric_10": 55,
+      "metric_11": 93,
+      "metric_12": 99,
+      "metric_14": 87,
+      "metric_18": 46,
+      "metric_20": 70,
+      "metric_23": 2,
+      "metric_25": 63,
+      "metric_27": 9,
+      "metric_29": 89,
+      "metric_30": 82
     }
   ],
   "diamond_track": [

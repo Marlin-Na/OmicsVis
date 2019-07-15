@@ -37,7 +37,20 @@
       "eggnog_X10": "01S1Z@aproNOG,05CK6@bactNOG,16Q0Y@proNOG,COG0745@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "T",
-      "eggnog_X13": "phosphate regulon transcriptional regulatory protein PhoB"
+      "eggnog_X13": "phosphate regulon transcriptional regulatory protein PhoB",
+      "metric_1": 75,
+      "metric_3": 93,
+      "metric_5": 47,
+      "metric_6": 63,
+      "metric_8": 97,
+      "metric_11": 83,
+      "metric_15": 81,
+      "metric_21": 36,
+      "metric_22": 65,
+      "metric_24": 83,
+      "metric_25": 5,
+      "metric_29": 3,
+      "metric_30": 14
     },
     {
       "gene_seqnames": "MAG06_742",
@@ -72,7 +85,22 @@
       "eggnog_X10": "01QUR@aproNOG,08UTW@bactNOG,16YJZ@proNOG,COG0704@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "P",
-      "eggnog_X13": "Plays a role in the regulation of phosphate uptake (By similarity)"
+      "eggnog_X13": "Plays a role in the regulation of phosphate uptake (By similarity)",
+      "metric_1": 47,
+      "metric_3": 27,
+      "metric_6": 93,
+      "metric_7": 7,
+      "metric_9": 33,
+      "metric_12": 78,
+      "metric_13": 9,
+      "metric_16": 58,
+      "metric_17": 35,
+      "metric_18": 34,
+      "metric_19": 93,
+      "metric_25": 21,
+      "metric_27": 16,
+      "metric_29": 52,
+      "metric_30": 48
     },
     {
       "gene_seqnames": "MAG06_742",
@@ -96,7 +124,19 @@
       "gene_sscore": "3.22",
       "gene_rscore": "0.00",
       "gene_uscore": "0.00",
-      "gene_tscore": "3.22"
+      "gene_tscore": "3.22",
+      "metric_2": 11,
+      "metric_4": 60,
+      "metric_10": 93,
+      "metric_11": 99,
+      "metric_13": 91,
+      "metric_17": 18,
+      "metric_18": 25,
+      "metric_21": 9,
+      "metric_22": 59,
+      "metric_24": 51,
+      "metric_25": 50,
+      "metric_30": 13
     }
   ],
   "diamond_track": [
