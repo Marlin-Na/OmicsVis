@@ -60,44 +60,41 @@
                 <div id="vis"></div>
             </div>
         </div>
+
         <div id="controlpanel">
-            <label style="">
-                <input type="checkbox" onchange="binding_color_by_strand(this)" /> Strand
-            </label>
-            <label style=""> <input type="checkbox"/> Metric 1 </label>
-            <label style=""> <input type="checkbox"/> Metric 2 </label>
-            <label style=""> <input type="checkbox"/> Metric 3 </label>
-            <label style=""> <input type="checkbox"/> Metric 4 </label>
-            <label style=""> <input type="checkbox"/> Metric 5 </label>
-            <label style=""> <input type="checkbox"/> Metric 6 </label>
-            <label style=""> <input type="checkbox"/> Metric 7 </label>
-            <label style=""> <input type="checkbox"/> Metric 8 </label>
-            <label style=""> <input type="checkbox"/> Metric 9 </label>
-            <label style=""> <input type="checkbox"/> Metric 10 </label>
-            <label style=""> <input type="checkbox"/> Metric 11 </label>
-            <label style=""> <input type="checkbox"/> Metric 12 </label>
-            <label style=""> <input type="checkbox"/> Metric 13 </label>
-            <label style=""> <input type="checkbox"/> Metric 14 </label>
-            <label style=""> <input type="checkbox"/> Metric 15 </label>
-            <label style=""> <input type="checkbox"/> Metric 16 </label>
-            <label style=""> <input type="checkbox"/> Metric 17 </label>
-            <label style=""> <input type="checkbox"/> Metric 18 </label>
-            <label style=""> <input type="checkbox"/> Metric 19 </label>
-            <label style=""> <input type="checkbox"/> Metric 20 </label>
-            <label style=""> <input type="checkbox"/> Metric 21 </label>
-            <label style=""> <input type="checkbox"/> Metric 22 </label>
-            <label style=""> <input type="checkbox"/> Metric 23 </label>
-            <label style=""> <input type="checkbox"/> Metric 24 </label>
-            <label style=""> <input type="checkbox"/> Metric 25 </label>
-            <label style=""> <input type="checkbox"/> Metric 26 </label>
-            <label style=""> <input type="checkbox"/> Metric 27 </label>
-            <label style=""> <input type="checkbox"/> Metric 28 </label>
-            <label style=""> <input type="checkbox"/> Metric 29 </label>
-            <label style=""> <input type="checkbox"/> Metric 30 </label>
+
+            <!-- tabs -->
+            <nav>
+                <div class="nav nav-tabs" id="controlpanel-tabs" role="tablist">
+                    <a class="nav-item nav-link active" id="controlpanel-genetrack-tab" href="#tab-genomics" data-toggle="tab" role="tab" aria-controls="tab-genomics" aria-selected="true">Genomics</a>
+                    <a class="nav-item nav-link" id="controlpanel-proteintrack-tab" href="#tab-proteomics" data-toggle="tab" role="tab" aria-controls="tab-proteomics" aria-selected="false">Proteomics</a>
+                </div>
+            </nav>
+
+            <!-- tab contents -->
+            <div class="tab-content" id="controlpanel-tabcontents">
+                <div class="tab-pane fade show active" id="tab-genomics" role="tabpanel" aria-labelledby="controlpanel-genetrack-tab">
+
+                    <label><input name="genomics-colorby" type="radio" onchange="binding_gene_colorby(this)" value="null"/> Null </label>
+                    <br/>
+
+                    <label><input name="genomics-colorby" type="radio" onchange="binding_gene_colorby(this)" value="strand"/> Strand </label>
+                    <br/>
+
+                    <label><input name="genomics-colorby" type="radio" onchange="binding_gene_colorby(this)" value="metric_1"/> Metric 1 </label>
+                    <br/>
+                </div>
+
+                <div class="tab-pane fade" id="tab-proteomics" role="tabpanel" aria-labelledby="controlpanel-proteintrack-tab">
+                </div>
+            </div>
         </div>
     </main>
 
     <!-- JS -->
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
     <script src="js/omicsvis.js"></script>
 </body>
 </html>

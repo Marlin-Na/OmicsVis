@@ -168,7 +168,7 @@ class TrackView {
         board
             .from(-1)
             .to(data.meta.seqlen+1);
-        
+
         // Add contig track data
         contig_track.data(tnt.board.track.data.sync().retriever(
             function(loc) {
@@ -221,7 +221,7 @@ class TrackView {
     }
 
     set_gene_colorby(what) {
-        if (what === null) {
+        if (what === null || what === "null") {
             this.gene_colorgen = function(d) {
                 return undefined;
             };
@@ -238,7 +238,15 @@ class TrackView {
             this.reload();
             return;
         }
-        // else TODO
+        // e.g. metric_1
+        let scale = d3v5.scaleSequential(d3v5.interpolateBlues);
+        scale.domain([0, 100]);
+        this.gene_colorgen = function(d) {
+            if (d[what] === undefined)
+                return "grey";
+            return scale(d[what]);
+        };
+        this.reload();
     }
 
     set_data_src(name) {
@@ -430,11 +438,9 @@ function binding_filterSelected(node) {
     table.gridOptions.api.onFilterChanged();
 }
 
-function binding_color_by_strand(node) {
-    let checked = node.checked;
-    if (checked)
-        table.set_gene_colorby("strand");
-    else
-        table.set_gene_colorby(null);
+function binding_gene_colorby(node) {
+    let value = node.value;
+    console.log("binding colorby", value);
+    table.set_gene_colorby(value);
 }
 
