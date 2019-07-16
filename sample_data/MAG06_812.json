@@ -35,7 +35,26 @@
       "eggnog_X10": "01WET@aproNOG,05FKQ@bactNOG,178JV@proNOG,COG1609@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "K",
-      "eggnog_X13": "Bacterial regulatory proteins, lacI family"
+      "eggnog_X13": "Bacterial regulatory proteins, lacI family",
+      "metric_2": 62,
+      "metric_3": 89,
+      "metric_4": 22,
+      "metric_5": 33,
+      "metric_6": 24,
+      "metric_7": 28,
+      "metric_10": 38,
+      "metric_11": 23,
+      "metric_13": 25,
+      "metric_17": 82,
+      "metric_20": 12,
+      "metric_21": 53,
+      "metric_22": 51,
+      "metric_23": 47,
+      "metric_24": 38,
+      "metric_25": 13,
+      "metric_27": 91,
+      "metric_28": 77,
+      "metric_29": 6
     },
     {
       "gene_seqnames": "MAG06_812",
@@ -70,13 +89,23 @@
       "eggnog_X10": "01S9G@aproNOG,05C4C@bactNOG,16SWK@proNOG,COG1874@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "G",
-      "eggnog_X13": "beta-galactosidase"
+      "eggnog_X13": "beta-galactosidase",
+      "metric_1": 20,
+      "metric_2": 39,
+      "metric_7": 94,
+      "metric_10": 51,
+      "metric_12": 92,
+      "metric_16": 42,
+      "metric_18": 30,
+      "metric_20": 9,
+      "metric_25": 85
     }
   ],
   "diamond_track": [
     {
       "seqnames": "MAG06_812",
       "gene_ID": "MAG06_812_1",
+      "gene_strand": "+",
       "eggnog_pos_X2": "911045.PSE_0905",
       "eggnog_pos_X3": 60.6,
       "eggnog_pos_X4": 343,
@@ -94,6 +123,7 @@
     {
       "seqnames": "MAG06_812",
       "gene_ID": "MAG06_812_1",
+      "gene_strand": "+",
       "eggnog_pos_X2": "314256.OG2516_06981",
       "eggnog_pos_X3": 61.1,
       "eggnog_pos_X4": 339,
@@ -111,6 +141,7 @@
     {
       "seqnames": "MAG06_812",
       "gene_ID": "MAG06_812_2",
+      "gene_strand": "+",
       "eggnog_pos_X2": "314256.OG2516_06991",
       "eggnog_pos_X3": 72.1,
       "eggnog_pos_X4": 154,

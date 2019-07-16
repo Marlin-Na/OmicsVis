@@ -37,7 +37,21 @@
       "eggnog_X10": "02EF4@aproNOG,08JIR@bactNOG,173B7@proNOG,COG1157@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "N, U",
-      "eggnog_X13": "Flagellum-specific ATP synthase"
+      "eggnog_X13": "Flagellum-specific ATP synthase",
+      "metric_1": 31,
+      "metric_2": 7,
+      "metric_3": 30,
+      "metric_4": 29,
+      "metric_6": 84,
+      "metric_7": 70,
+      "metric_11": 21,
+      "metric_14": 92,
+      "metric_16": 75,
+      "metric_20": 52,
+      "metric_21": 73,
+      "metric_23": 27,
+      "metric_24": 97,
+      "metric_27": 69
     },
     {
       "gene_seqnames": "MAG06_491",
@@ -67,7 +81,18 @@
       "eggnog_X4": 364,
       "eggnog_X9": "bactNOG[38]",
       "eggnog_X10": "020UN@aproNOG,05UX1@bactNOG,11WB0@NOG,17IEB@proNOG",
-      "eggnog_X11": "NA|NA|NA"
+      "eggnog_X11": "NA|NA|NA",
+      "metric_1": 4,
+      "metric_2": 35,
+      "metric_3": 1,
+      "metric_7": 30,
+      "metric_11": 73,
+      "metric_13": 63,
+      "metric_15": 84,
+      "metric_17": 40,
+      "metric_19": 98,
+      "metric_24": 86,
+      "metric_28": 82
     },
     {
       "gene_seqnames": "MAG06_491",
@@ -102,7 +127,17 @@
       "eggnog_X10": "01ZQX@aproNOG,05SFI@bactNOG,17GN2@proNOG,COG1815@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "N",
-      "eggnog_X13": "flagellar basal-body rod protein"
+      "eggnog_X13": "flagellar basal-body rod protein",
+      "metric_2": 5,
+      "metric_4": 66,
+      "metric_13": 5,
+      "metric_16": 88,
+      "metric_17": 76,
+      "metric_19": 84,
+      "metric_20": 94,
+      "metric_22": 34,
+      "metric_23": 42,
+      "metric_30": 66
     },
     {
       "gene_seqnames": "MAG06_491",
@@ -137,7 +172,19 @@
       "eggnog_X10": "01Y1W@aproNOG,08ZC9@bactNOG,17CP7@proNOG,COG1558@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "N",
-      "eggnog_X13": "flagellar basal-body rod protein (FlgC)"
+      "eggnog_X13": "flagellar basal-body rod protein (FlgC)",
+      "metric_2": 60,
+      "metric_4": 4,
+      "metric_5": 23,
+      "metric_9": 95,
+      "metric_13": 74,
+      "metric_17": 15,
+      "metric_19": 24,
+      "metric_20": 99,
+      "metric_24": 78,
+      "metric_25": 99,
+      "metric_28": 51,
+      "metric_30": 85
     },
     {
       "gene_seqnames": "MAG06_491",
@@ -172,7 +219,24 @@
       "eggnog_X10": "021PQ@aproNOG,05X50@bactNOG,17KMP@proNOG,COG1677@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "N",
-      "eggnog_X13": "Flagellar hook-basal body complex protein FliE"
+      "eggnog_X13": "Flagellar hook-basal body complex protein FliE",
+      "metric_1": 12,
+      "metric_3": 80,
+      "metric_5": 1,
+      "metric_6": 64,
+      "metric_7": 1,
+      "metric_8": 46,
+      "metric_11": 40,
+      "metric_12": 31,
+      "metric_13": 70,
+      "metric_14": 44,
+      "metric_19": 87,
+      "metric_21": 59,
+      "metric_23": 20,
+      "metric_26": 12,
+      "metric_27": 14,
+      "metric_29": 90,
+      "metric_30": 61
     },
     {
       "gene_seqnames": "MAG06_491",
@@ -207,7 +271,21 @@
       "eggnog_X10": "01QRY@aproNOG,05CGA@bactNOG,16PWT@proNOG,COG4786@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "N",
-      "eggnog_X13": "flagellar basal-body rod protein FlgG"
+      "eggnog_X13": "flagellar basal-body rod protein FlgG",
+      "metric_1": 28,
+      "metric_3": 81,
+      "metric_4": 72,
+      "metric_7": 40,
+      "metric_8": 57,
+      "metric_13": 36,
+      "metric_14": 33,
+      "metric_17": 63,
+      "metric_18": 64,
+      "metric_19": 83,
+      "metric_22": 21,
+      "metric_27": 38,
+      "metric_28": 77,
+      "metric_29": 92
     },
     {
       "gene_seqnames": "MAG06_491",
@@ -242,7 +320,16 @@
       "eggnog_X10": "021UY@aproNOG,05XZC@bactNOG,17N16@proNOG,COG1261@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "N",
-      "eggnog_X13": "flagellar basal body P-ring biosynthesis protein FlgA"
+      "eggnog_X13": "flagellar basal body P-ring biosynthesis protein FlgA",
+      "metric_4": 16,
+      "metric_8": 32,
+      "metric_10": 36,
+      "metric_15": 69,
+      "metric_20": 36,
+      "metric_21": 49,
+      "metric_22": 41,
+      "metric_28": 49,
+      "metric_29": 72
     },
     {
       "gene_seqnames": "MAG06_491",
@@ -277,7 +364,25 @@
       "eggnog_X10": "01RN8@aproNOG,05D92@bactNOG,16QSS@proNOG,COG1706@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "N",
-      "eggnog_X13": "Assembles around the rod to form the L-ring and probably protects the motor basal body from shearing forces during rotation (By similarity)"
+      "eggnog_X13": "Assembles around the rod to form the L-ring and probably protects the motor basal body from shearing forces during rotation (By similarity)",
+      "metric_1": 28,
+      "metric_2": 48,
+      "metric_3": 19,
+      "metric_4": 59,
+      "metric_5": 85,
+      "metric_7": 99,
+      "metric_8": 39,
+      "metric_11": 85,
+      "metric_15": 41,
+      "metric_18": 13,
+      "metric_19": 43,
+      "metric_20": 5,
+      "metric_22": 9,
+      "metric_23": 77,
+      "metric_25": 99,
+      "metric_27": 54,
+      "metric_29": 67,
+      "metric_30": 48
     },
     {
       "gene_seqnames": "MAG06_491",
@@ -310,7 +415,23 @@
       "eggnog_X10": "0225Q@aproNOG,06423@bactNOG,17KCW@proNOG,COG3334@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "S",
-      "eggnog_X13": "Inherit from COG: pdp protein"
+      "eggnog_X13": "Inherit from COG: pdp protein",
+      "metric_1": 13,
+      "metric_3": 5,
+      "metric_4": 47,
+      "metric_7": 82,
+      "metric_9": 98,
+      "metric_10": 43,
+      "metric_11": 15,
+      "metric_13": 25,
+      "metric_14": 50,
+      "metric_15": 31,
+      "metric_16": 27,
+      "metric_21": 4,
+      "metric_22": 8,
+      "metric_26": 1,
+      "metric_29": 22,
+      "metric_30": 24
     },
     {
       "gene_seqnames": "MAG06_491",
@@ -345,7 +466,21 @@
       "eggnog_X10": "01QG8@aproNOG,07W7W@bactNOG,16SK3@proNOG,COG2063@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "N",
-      "eggnog_X13": "Assembles around the rod to form the L-ring and probably protects the motor basal body from shearing forces during rotation (By similarity)"
+      "eggnog_X13": "Assembles around the rod to form the L-ring and probably protects the motor basal body from shearing forces during rotation (By similarity)",
+      "metric_1": 53,
+      "metric_3": 72,
+      "metric_4": 45,
+      "metric_7": 54,
+      "metric_8": 33,
+      "metric_11": 84,
+      "metric_12": 23,
+      "metric_13": 90,
+      "metric_15": 55,
+      "metric_17": 58,
+      "metric_20": 55,
+      "metric_24": 44,
+      "metric_28": 97,
+      "metric_30": 55
     },
     {
       "gene_seqnames": "MAG06_491",
@@ -380,7 +515,25 @@
       "eggnog_X10": "021HY@aproNOG,05WY3@bactNOG,1242A@NOG,17KBI@proNOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "N",
-      "eggnog_X13": "flagellar basal body-associated protein flil"
+      "eggnog_X13": "flagellar basal body-associated protein flil",
+      "metric_6": 84,
+      "metric_7": 87,
+      "metric_8": 14,
+      "metric_10": 73,
+      "metric_12": 52,
+      "metric_13": 54,
+      "metric_14": 14,
+      "metric_16": 12,
+      "metric_17": 17,
+      "metric_18": 63,
+      "metric_19": 95,
+      "metric_22": 56,
+      "metric_23": 26,
+      "metric_24": 52,
+      "metric_26": 52,
+      "metric_27": 11,
+      "metric_28": 61,
+      "metric_30": 25
     },
     {
       "gene_seqnames": "MAG06_491",
@@ -415,13 +568,31 @@
       "eggnog_X10": "01SBP@aproNOG,05CN7@bactNOG,16PX7@proNOG,COG1338@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "N",
-      "eggnog_X13": "Flagellar biosynthetic protein fliP"
+      "eggnog_X13": "Flagellar biosynthetic protein fliP",
+      "metric_1": 81,
+      "metric_2": 7,
+      "metric_3": 33,
+      "metric_6": 54,
+      "metric_7": 90,
+      "metric_9": 17,
+      "metric_10": 29,
+      "metric_13": 99,
+      "metric_15": 88,
+      "metric_17": 41,
+      "metric_18": 88,
+      "metric_21": 99,
+      "metric_22": 81,
+      "metric_25": 98,
+      "metric_28": 79,
+      "metric_29": 25,
+      "metric_30": 78
     }
   ],
   "diamond_track": [
     {
       "seqnames": "MAG06_491",
       "gene_ID": "MAG06_491_1",
+      "gene_strand": "+",
       "eggnog_pos_X2": "266834.SMc03025",
       "eggnog_pos_X3": 100,
       "eggnog_pos_X4": 377,
@@ -439,6 +610,7 @@
     {
       "seqnames": "MAG06_491",
       "gene_ID": "MAG06_491_2",
+      "gene_strand": "+",
       "eggnog_pos_X2": "266834.SMc03026",
       "eggnog_pos_X3": 97.8,
       "eggnog_pos_X4": 183,
@@ -456,6 +628,7 @@
     {
       "seqnames": "MAG06_491",
       "gene_ID": "MAG06_491_3",
+      "gene_strand": "+",
       "eggnog_pos_X2": "266834.SMc03027",
       "eggnog_pos_X3": 100,
       "eggnog_pos_X4": 126,
@@ -473,6 +646,7 @@
     {
       "seqnames": "MAG06_491",
       "gene_ID": "MAG06_491_4",
+      "gene_strand": "+",
       "eggnog_pos_X2": "266834.SMc03028",
       "eggnog_pos_X3": 100,
       "eggnog_pos_X4": 139,
@@ -490,6 +664,7 @@
     {
       "seqnames": "MAG06_491",
       "gene_ID": "MAG06_491_4",
+      "gene_strand": "+",
       "eggnog_pos_X2": "366394.Smed_0256",
       "eggnog_pos_X3": 97.1,
       "eggnog_pos_X4": 139,
@@ -507,6 +682,7 @@
     {
       "seqnames": "MAG06_491",
       "gene_ID": "MAG06_491_4",
+      "gene_strand": "+",
       "eggnog_pos_X2": "394.NGR_c02750",
       "eggnog_pos_X3": 95,
       "eggnog_pos_X4": 139,
@@ -524,6 +700,7 @@
     {
       "seqnames": "MAG06_491",
       "gene_ID": "MAG06_491_5",
+      "gene_strand": "+",
       "eggnog_pos_X2": "266834.SMc03029",
       "eggnog_pos_X3": 99.1,
       "eggnog_pos_X4": 111,
@@ -541,6 +718,7 @@
     {
       "seqnames": "MAG06_491",
       "gene_ID": "MAG06_491_6",
+      "gene_strand": "+",
       "eggnog_pos_X2": "411684.HPDFL43_00280",
       "eggnog_pos_X3": 80.9,
       "eggnog_pos_X4": 262,
@@ -558,6 +736,7 @@
     {
       "seqnames": "MAG06_491",
       "gene_ID": "MAG06_491_7",
+      "gene_strand": "+",
       "eggnog_pos_X2": "266834.SMc03031",
       "eggnog_pos_X3": 100,
       "eggnog_pos_X4": 157,
@@ -575,6 +754,7 @@
     {
       "seqnames": "MAG06_491",
       "gene_ID": "MAG06_491_8",
+      "gene_strand": "+",
       "eggnog_pos_X2": "266834.SMc03032",
       "eggnog_pos_X3": 100,
       "eggnog_pos_X4": 371,
@@ -592,6 +772,7 @@
     {
       "seqnames": "MAG06_491",
       "gene_ID": "MAG06_491_8",
+      "gene_strand": "+",
       "eggnog_pos_X2": "366394.Smed_0260",
       "eggnog_pos_X3": 97.3,
       "eggnog_pos_X4": 371,
@@ -609,6 +790,7 @@
     {
       "seqnames": "MAG06_491",
       "gene_ID": "MAG06_491_9",
+      "gene_strand": "+",
       "eggnog_pos_X2": "266834.SMc03033",
       "eggnog_pos_X3": 91.1,
       "eggnog_pos_X4": 179,
@@ -626,6 +808,7 @@
     {
       "seqnames": "MAG06_491",
       "gene_ID": "MAG06_491_10",
+      "gene_strand": "+",
       "eggnog_pos_X2": "366394.Smed_0262",
       "eggnog_pos_X3": 99.2,
       "eggnog_pos_X4": 236,
@@ -643,6 +826,7 @@
     {
       "seqnames": "MAG06_491",
       "gene_ID": "MAG06_491_10",
+      "gene_strand": "+",
       "eggnog_pos_X2": "266834.SMc03034",
       "eggnog_pos_X3": 99.6,
       "eggnog_pos_X4": 236,
@@ -660,6 +844,7 @@
     {
       "seqnames": "MAG06_491",
       "gene_ID": "MAG06_491_11",
+      "gene_strand": "+",
       "eggnog_pos_X2": "266834.SMc03035",
       "eggnog_pos_X3": 96.9,
       "eggnog_pos_X4": 163,
@@ -677,6 +862,7 @@
     {
       "seqnames": "MAG06_491",
       "gene_ID": "MAG06_491_12",
+      "gene_strand": "+",
       "eggnog_pos_X2": "266834.SMc03036",
       "eggnog_pos_X3": 97.5,
       "eggnog_pos_X4": 40,
@@ -694,6 +880,7 @@
     {
       "seqnames": "MAG06_491",
       "gene_ID": "MAG06_491_12",
+      "gene_strand": "+",
       "eggnog_pos_X2": "366394.Smed_0264",
       "eggnog_pos_X3": 95,
       "eggnog_pos_X4": 40,

@@ -38,7 +38,18 @@
       "eggnog_X10": "01QTF@aproNOG,05CWR@bactNOG,16PSY@proNOG,COG0317@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "F",
-      "eggnog_X13": "In eubacteria ppGpp (guanosine 3'-diphosphate 5-' diphosphate) is a mediator of the stringent response that coordinates a variety of cellular activities in response to changes in nutritional abundance (By similarity)"
+      "eggnog_X13": "In eubacteria ppGpp (guanosine 3'-diphosphate 5-' diphosphate) is a mediator of the stringent response that coordinates a variety of cellular activities in response to changes in nutritional abundance (By similarity)",
+      "metric_3": 84,
+      "metric_5": 48,
+      "metric_6": 50,
+      "metric_13": 72,
+      "metric_14": 6,
+      "metric_17": 25,
+      "metric_18": 22,
+      "metric_20": 28,
+      "metric_21": 34,
+      "metric_22": 2,
+      "metric_27": 89
     },
     {
       "gene_seqnames": "MAG06_983",
@@ -73,13 +84,30 @@
       "eggnog_X10": "01YI5@aproNOG,05VFG@bactNOG,17JSK@proNOG,COG1758@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "K",
-      "eggnog_X13": "Promotes RNA polymerase assembly. Latches the N- and C- terminal regions of the beta' subunit thereby facilitating its interaction with the beta and alpha subunits (By similarity)"
+      "eggnog_X13": "Promotes RNA polymerase assembly. Latches the N- and C- terminal regions of the beta' subunit thereby facilitating its interaction with the beta and alpha subunits (By similarity)",
+      "metric_1": 61,
+      "metric_2": 76,
+      "metric_6": 20,
+      "metric_8": 1,
+      "metric_9": 57,
+      "metric_14": 93,
+      "metric_15": 2,
+      "metric_17": 27,
+      "metric_18": 60,
+      "metric_21": 72,
+      "metric_23": 53,
+      "metric_24": 33,
+      "metric_25": 62,
+      "metric_26": 41,
+      "metric_27": 2,
+      "metric_30": 98
     }
   ],
   "diamond_track": [
     {
       "seqnames": "MAG06_983",
       "gene_ID": "MAG06_983_1",
+      "gene_strand": "-",
       "eggnog_pos_X2": "266834.SMc02659",
       "eggnog_pos_X3": 100,
       "eggnog_pos_X4": 675,
@@ -97,6 +125,7 @@
     {
       "seqnames": "MAG06_983",
       "gene_ID": "MAG06_983_1",
+      "gene_strand": "-",
       "eggnog_pos_X2": "366394.Smed_0677",
       "eggnog_pos_X3": 98.7,
       "eggnog_pos_X4": 675,
@@ -114,6 +143,7 @@
     {
       "seqnames": "MAG06_983",
       "gene_ID": "MAG06_983_1",
+      "gene_strand": "-",
       "eggnog_pos_X2": "1117943.SFHH103_00757",
       "eggnog_pos_X3": 96.4,
       "eggnog_pos_X4": 675,
@@ -131,6 +161,7 @@
     {
       "seqnames": "MAG06_983",
       "gene_ID": "MAG06_983_1",
+      "gene_strand": "-",
       "eggnog_pos_X2": "394.NGR_c08240",
       "eggnog_pos_X3": 96,
       "eggnog_pos_X4": 675,
@@ -148,6 +179,7 @@
     {
       "seqnames": "MAG06_983",
       "gene_ID": "MAG06_983_2",
+      "gene_strand": "-",
       "eggnog_pos_X2": "266834.SMc02408",
       "eggnog_pos_X3": 100,
       "eggnog_pos_X4": 129,
@@ -165,6 +197,7 @@
     {
       "seqnames": "MAG06_983",
       "gene_ID": "MAG06_983_2",
+      "gene_strand": "-",
       "eggnog_pos_X2": "366394.Smed_0676",
       "eggnog_pos_X3": 99.2,
       "eggnog_pos_X4": 129,

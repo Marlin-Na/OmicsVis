@@ -37,13 +37,32 @@
       "eggnog_X10": "01RUA@aproNOG,05E2V@bactNOG,16RNJ@proNOG,COG3459@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "G",
-      "eggnog_X13": "Cyclic beta 1-2 glucan synthetase"
+      "eggnog_X13": "Cyclic beta 1-2 glucan synthetase",
+      "metric_1": 57,
+      "metric_3": 96,
+      "metric_4": 76,
+      "metric_5": 93,
+      "metric_8": 20,
+      "metric_9": 98,
+      "metric_11": 89,
+      "metric_13": 63,
+      "metric_17": 21,
+      "metric_18": 62,
+      "metric_19": 88,
+      "metric_20": 80,
+      "metric_21": 68,
+      "metric_23": 64,
+      "metric_25": 55,
+      "metric_26": 7,
+      "metric_27": 58,
+      "metric_30": 6
     }
   ],
   "diamond_track": [
     {
       "seqnames": "MAG06_782",
       "gene_ID": "MAG06_782_1",
+      "gene_strand": "-",
       "eggnog_pos_X2": "266834.SMc04382",
       "eggnog_pos_X3": 97.3,
       "eggnog_pos_X4": 514,

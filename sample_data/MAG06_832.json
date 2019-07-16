@@ -37,13 +37,28 @@
       "eggnog_X10": "01RM8@aproNOG,05C5E@bactNOG,16PH3@proNOG,COG1086@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "M",
-      "eggnog_X13": "Polysaccharide biosynthesis protein"
+      "eggnog_X13": "Polysaccharide biosynthesis protein",
+      "metric_4": 81,
+      "metric_7": 45,
+      "metric_8": 49,
+      "metric_11": 75,
+      "metric_13": 1,
+      "metric_14": 84,
+      "metric_15": 92,
+      "metric_16": 50,
+      "metric_17": 74,
+      "metric_18": 10,
+      "metric_19": 87,
+      "metric_22": 33,
+      "metric_26": 53,
+      "metric_28": 3
     }
   ],
   "diamond_track": [
     {
       "seqnames": "MAG06_832",
       "gene_ID": "MAG06_832_1",
+      "gene_strand": "-",
       "eggnog_pos_X2": "536019.Mesop_2103",
       "eggnog_pos_X3": 57.7,
       "eggnog_pos_X4": 520,

@@ -37,7 +37,26 @@
       "eggnog_X10": "01R75@aproNOG,05CAK@bactNOG,16QM3@proNOG,COG2884@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "D",
-      "eggnog_X13": "cell division ATP-binding protein"
+      "eggnog_X13": "cell division ATP-binding protein",
+      "metric_1": 2,
+      "metric_2": 47,
+      "metric_4": 84,
+      "metric_6": 67,
+      "metric_7": 62,
+      "metric_8": 95,
+      "metric_10": 48,
+      "metric_12": 10,
+      "metric_13": 76,
+      "metric_14": 66,
+      "metric_18": 35,
+      "metric_19": 13,
+      "metric_20": 51,
+      "metric_21": 68,
+      "metric_23": 92,
+      "metric_25": 41,
+      "metric_27": 18,
+      "metric_29": 82,
+      "metric_30": 96
     },
     {
       "gene_seqnames": "MAG06_839",
@@ -71,7 +90,24 @@
       "eggnog_X10": "01RR9@aproNOG,08KB4@bactNOG,1748T@proNOG,COG2177@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "D",
-      "eggnog_X13": "Cell division protein"
+      "eggnog_X13": "Cell division protein",
+      "metric_1": 12,
+      "metric_2": 77,
+      "metric_3": 80,
+      "metric_5": 8,
+      "metric_7": 76,
+      "metric_9": 82,
+      "metric_10": 15,
+      "metric_11": 8,
+      "metric_14": 25,
+      "metric_15": 59,
+      "metric_17": 17,
+      "metric_19": 27,
+      "metric_20": 64,
+      "metric_22": 98,
+      "metric_23": 38,
+      "metric_26": 1,
+      "metric_29": 30
     },
     {
       "gene_seqnames": "MAG06_839",
@@ -104,7 +140,20 @@
       "eggnog_X10": "01X4H@aproNOG,08UX9@bactNOG,17D4M@proNOG,COG1434@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "S",
-      "eggnog_X13": "DUF218 domain"
+      "eggnog_X13": "DUF218 domain",
+      "metric_2": 9,
+      "metric_4": 81,
+      "metric_7": 44,
+      "metric_9": 44,
+      "metric_11": 94,
+      "metric_14": 7,
+      "metric_15": 41,
+      "metric_19": 49,
+      "metric_20": 45,
+      "metric_22": 94,
+      "metric_24": 98,
+      "metric_27": 55,
+      "metric_29": 4
     },
     {
       "gene_seqnames": "MAG06_839",
@@ -139,7 +188,21 @@
       "eggnog_X10": "01V3F@aproNOG,05E9Q@bactNOG,16RX1@proNOG,COG0204@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "I",
-      "eggnog_X13": "acyltransferase"
+      "eggnog_X13": "acyltransferase",
+      "metric_2": 48,
+      "metric_3": 49,
+      "metric_4": 72,
+      "metric_6": 64,
+      "metric_8": 32,
+      "metric_10": 9,
+      "metric_11": 70,
+      "metric_15": 5,
+      "metric_21": 15,
+      "metric_24": 73,
+      "metric_25": 29,
+      "metric_27": 88,
+      "metric_28": 38,
+      "metric_29": 64
     },
     {
       "gene_seqnames": "MAG06_839",
@@ -173,7 +236,23 @@
       "eggnog_X10": "01X04@aproNOG,0905M@bactNOG,179XK@proNOG,COG3703@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "P",
-      "eggnog_X13": "Cation transport protein"
+      "eggnog_X13": "Cation transport protein",
+      "metric_3": 71,
+      "metric_4": 32,
+      "metric_10": 24,
+      "metric_11": 68,
+      "metric_12": 37,
+      "metric_13": 2,
+      "metric_14": 50,
+      "metric_18": 72,
+      "metric_20": 8,
+      "metric_21": 67,
+      "metric_22": 71,
+      "metric_25": 11,
+      "metric_26": 54,
+      "metric_28": 81,
+      "metric_29": 71,
+      "metric_30": 20
     },
     {
       "gene_seqnames": "MAG06_839",
@@ -205,7 +284,20 @@
       "eggnog_X10": "01Y9T@aproNOG,090C4@bactNOG,17F4V@proNOG,COG4093@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "S",
-      "eggnog_X13": "Uncharacterized protein conserved in bacteria (DUF2125)"
+      "eggnog_X13": "Uncharacterized protein conserved in bacteria (DUF2125)",
+      "metric_2": 13,
+      "metric_3": 56,
+      "metric_5": 92,
+      "metric_6": 81,
+      "metric_8": 14,
+      "metric_9": 34,
+      "metric_10": 49,
+      "metric_13": 37,
+      "metric_18": 91,
+      "metric_23": 65,
+      "metric_24": 1,
+      "metric_25": 61,
+      "metric_28": 71
     },
     {
       "gene_seqnames": "MAG06_839",
@@ -240,7 +332,22 @@
       "eggnog_X10": "01QE4@aproNOG,05EVN@bactNOG,16SIV@proNOG,COG0287@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "E",
-      "eggnog_X13": "prephenate dehydrogenase"
+      "eggnog_X13": "prephenate dehydrogenase",
+      "metric_2": 58,
+      "metric_3": 38,
+      "metric_5": 86,
+      "metric_6": 32,
+      "metric_7": 47,
+      "metric_8": 8,
+      "metric_11": 1,
+      "metric_14": 83,
+      "metric_16": 62,
+      "metric_19": 74,
+      "metric_22": 42,
+      "metric_23": 27,
+      "metric_27": 11,
+      "metric_28": 20,
+      "metric_30": 22
     },
     {
       "gene_seqnames": "MAG06_839",
@@ -274,7 +381,22 @@
       "eggnog_X10": "01QZW@aproNOG,05CIH@bactNOG,16QKB@proNOG,COG0079@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "E",
-      "eggnog_X13": "Imidazole acetol-phosphate transaminase"
+      "eggnog_X13": "Imidazole acetol-phosphate transaminase",
+      "metric_3": 76,
+      "metric_5": 13,
+      "metric_8": 88,
+      "metric_11": 78,
+      "metric_13": 80,
+      "metric_14": 44,
+      "metric_15": 63,
+      "metric_16": 90,
+      "metric_17": 47,
+      "metric_18": 12,
+      "metric_19": 44,
+      "metric_20": 95,
+      "metric_21": 20,
+      "metric_23": 52,
+      "metric_24": 5
     },
     {
       "gene_seqnames": "MAG06_839",
@@ -307,7 +429,21 @@
       "eggnog_X10": "01T3V@aproNOG,08SVZ@bactNOG,0XQUG@NOG,16RWQ@proNOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "S",
-      "eggnog_X13": "Methyltransferase, type 11"
+      "eggnog_X13": "Methyltransferase, type 11",
+      "metric_2": 33,
+      "metric_3": 80,
+      "metric_4": 9,
+      "metric_5": 63,
+      "metric_6": 45,
+      "metric_11": 9,
+      "metric_18": 59,
+      "metric_20": 57,
+      "metric_21": 11,
+      "metric_22": 31,
+      "metric_23": 53,
+      "metric_25": 92,
+      "metric_26": 4,
+      "metric_28": 44
     },
     {
       "gene_seqnames": "MAG06_839",
@@ -342,13 +478,28 @@
       "eggnog_X10": "02EG0@aproNOG,08JMX@bactNOG,11FEZ@NOG,173D3@proNOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "C",
-      "eggnog_X13": "Thiolesterase that catalyzes the hydrolysis of S-D- lactoyl-glutathione to form glutathione and D-lactic acid (By similarity)"
+      "eggnog_X13": "Thiolesterase that catalyzes the hydrolysis of S-D- lactoyl-glutathione to form glutathione and D-lactic acid (By similarity)",
+      "metric_2": 60,
+      "metric_4": 20,
+      "metric_6": 70,
+      "metric_9": 82,
+      "metric_10": 69,
+      "metric_11": 87,
+      "metric_12": 50,
+      "metric_13": 26,
+      "metric_14": 55,
+      "metric_18": 43,
+      "metric_24": 94,
+      "metric_26": 50,
+      "metric_29": 84,
+      "metric_30": 2
     }
   ],
   "diamond_track": [
     {
       "seqnames": "MAG06_839",
       "gene_ID": "MAG06_839_1",
+      "gene_strand": "+",
       "eggnog_pos_X2": "266834.SMc00717",
       "eggnog_pos_X3": 100,
       "eggnog_pos_X4": 207,
@@ -366,6 +517,7 @@
     {
       "seqnames": "MAG06_839",
       "gene_ID": "MAG06_839_1",
+      "gene_strand": "+",
       "eggnog_pos_X2": "366394.Smed_2543",
       "eggnog_pos_X3": 99,
       "eggnog_pos_X4": 207,
@@ -383,6 +535,7 @@
     {
       "seqnames": "MAG06_839",
       "gene_ID": "MAG06_839_1",
+      "gene_strand": "+",
       "eggnog_pos_X2": "1117943.SFHH103_02626",
       "eggnog_pos_X3": 98.1,
       "eggnog_pos_X4": 207,
@@ -400,6 +553,7 @@
     {
       "seqnames": "MAG06_839",
       "gene_ID": "MAG06_839_1",
+      "gene_strand": "+",
       "eggnog_pos_X2": "394.NGR_c27010",
       "eggnog_pos_X3": 98.1,
       "eggnog_pos_X4": 207,
@@ -417,6 +571,7 @@
     {
       "seqnames": "MAG06_839",
       "gene_ID": "MAG06_839_2",
+      "gene_strand": "+",
       "eggnog_pos_X2": "266834.SMc00716",
       "eggnog_pos_X3": 97.9,
       "eggnog_pos_X4": 338,
@@ -434,6 +589,7 @@
     {
       "seqnames": "MAG06_839",
       "gene_ID": "MAG06_839_2",
+      "gene_strand": "+",
       "eggnog_pos_X2": "366394.Smed_2544",
       "eggnog_pos_X3": 96.5,
       "eggnog_pos_X4": 339,
@@ -451,6 +607,7 @@
     {
       "seqnames": "MAG06_839",
       "gene_ID": "MAG06_839_3",
+      "gene_strand": "+",
       "eggnog_pos_X2": "266834.SMc00715",
       "eggnog_pos_X3": 99.6,
       "eggnog_pos_X4": 232,
@@ -468,6 +625,7 @@
     {
       "seqnames": "MAG06_839",
       "gene_ID": "MAG06_839_4",
+      "gene_strand": "+",
       "eggnog_pos_X2": "266834.SMc00714",
       "eggnog_pos_X3": 100,
       "eggnog_pos_X4": 260,
@@ -485,6 +643,7 @@
     {
       "seqnames": "MAG06_839",
       "gene_ID": "MAG06_839_5",
+      "gene_strand": "-",
       "eggnog_pos_X2": "266834.SMc00713",
       "eggnog_pos_X3": 98.9,
       "eggnog_pos_X4": 184,
@@ -502,6 +661,7 @@
     {
       "seqnames": "MAG06_839",
       "gene_ID": "MAG06_839_6",
+      "gene_strand": "+",
       "eggnog_pos_X2": "266834.SMc00712",
       "eggnog_pos_X3": 99.7,
       "eggnog_pos_X4": 337,
@@ -519,6 +679,7 @@
     {
       "seqnames": "MAG06_839",
       "gene_ID": "MAG06_839_7",
+      "gene_strand": "-",
       "eggnog_pos_X2": "1050720.Agau_L100197",
       "eggnog_pos_X3": 82.8,
       "eggnog_pos_X4": 303,
@@ -536,6 +697,7 @@
     {
       "seqnames": "MAG06_839",
       "gene_ID": "MAG06_839_7",
+      "gene_strand": "-",
       "eggnog_pos_X2": "216596.RL4337",
       "eggnog_pos_X3": 81.8,
       "eggnog_pos_X4": 307,
@@ -553,6 +715,7 @@
     {
       "seqnames": "MAG06_839",
       "gene_ID": "MAG06_839_7",
+      "gene_strand": "-",
       "eggnog_pos_X2": "861208.AGROH133_11936",
       "eggnog_pos_X3": 81.2,
       "eggnog_pos_X4": 303,
@@ -570,6 +733,7 @@
     {
       "seqnames": "MAG06_839",
       "gene_ID": "MAG06_839_7",
+      "gene_strand": "-",
       "eggnog_pos_X2": "491916.RHECIAT_CH0004080",
       "eggnog_pos_X3": 81.2,
       "eggnog_pos_X4": 308,
@@ -587,6 +751,7 @@
     {
       "seqnames": "MAG06_839",
       "gene_ID": "MAG06_839_7",
+      "gene_strand": "-",
       "eggnog_pos_X2": "311402.Avi_4033",
       "eggnog_pos_X3": 80.5,
       "eggnog_pos_X4": 308,
@@ -604,6 +769,7 @@
     {
       "seqnames": "MAG06_839",
       "gene_ID": "MAG06_839_7",
+      "gene_strand": "-",
       "eggnog_pos_X2": "311403.Arad_4216",
       "eggnog_pos_X3": 79.5,
       "eggnog_pos_X4": 308,
@@ -621,6 +787,7 @@
     {
       "seqnames": "MAG06_839",
       "gene_ID": "MAG06_839_7",
+      "gene_strand": "-",
       "eggnog_pos_X2": "176299.Atu3611",
       "eggnog_pos_X3": 81.5,
       "eggnog_pos_X4": 303,
@@ -638,6 +805,7 @@
     {
       "seqnames": "MAG06_839",
       "gene_ID": "MAG06_839_7",
+      "gene_strand": "-",
       "eggnog_pos_X2": "395492.Rleg2_3579",
       "eggnog_pos_X3": 81.2,
       "eggnog_pos_X4": 308,
@@ -655,6 +823,7 @@
     {
       "seqnames": "MAG06_839",
       "gene_ID": "MAG06_839_7",
+      "gene_strand": "-",
       "eggnog_pos_X2": "347834.RHE_CH03809",
       "eggnog_pos_X3": 80.8,
       "eggnog_pos_X4": 308,
@@ -672,6 +841,7 @@
     {
       "seqnames": "MAG06_839",
       "gene_ID": "MAG06_839_8",
+      "gene_strand": "-",
       "eggnog_pos_X2": "366394.Smed_2550",
       "eggnog_pos_X3": 90.8,
       "eggnog_pos_X4": 368,
@@ -689,6 +859,7 @@
     {
       "seqnames": "MAG06_839",
       "gene_ID": "MAG06_839_8",
+      "gene_strand": "-",
       "eggnog_pos_X2": "1117943.SFHH103_02633",
       "eggnog_pos_X3": 89.1,
       "eggnog_pos_X4": 368,
@@ -706,6 +877,7 @@
     {
       "seqnames": "MAG06_839",
       "gene_ID": "MAG06_839_9",
+      "gene_strand": "-",
       "eggnog_pos_X2": "266834.SMc00709",
       "eggnog_pos_X3": 99.6,
       "eggnog_pos_X4": 254,
@@ -723,6 +895,7 @@
     {
       "seqnames": "MAG06_839",
       "gene_ID": "MAG06_839_10",
+      "gene_strand": "+",
       "eggnog_pos_X2": "266834.SMc00708",
       "eggnog_pos_X3": 93.8,
       "eggnog_pos_X4": 80,

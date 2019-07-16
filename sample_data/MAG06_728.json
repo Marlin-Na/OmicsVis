@@ -37,7 +37,19 @@
       "eggnog_X10": "01ZQZ@aproNOG,05K70@bactNOG,17FE7@proNOG,COG0776@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "L",
-      "eggnog_X13": "DNA-binding protein"
+      "eggnog_X13": "DNA-binding protein",
+      "metric_1": 42,
+      "metric_4": 68,
+      "metric_7": 86,
+      "metric_11": 11,
+      "metric_13": 26,
+      "metric_16": 33,
+      "metric_17": 35,
+      "metric_18": 23,
+      "metric_20": 53,
+      "metric_24": 21,
+      "metric_25": 97,
+      "metric_26": 92
     },
     {
       "gene_seqnames": "MAG06_728",
@@ -72,13 +84,25 @@
       "eggnog_X10": "01QS5@aproNOG,05C6P@bactNOG,16PRM@proNOG,COG0466@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "O",
-      "eggnog_X13": "ATP-dependent serine protease that mediates the selective degradation of mutant and abnormal proteins as well as certain short-lived regulatory proteins. Required for cellular homeostasis and for survival from DNA damage and developmental changes induced by stress. Degrades polypeptides processively to yield small peptide fragments that are 5 to 10 amino acids long. Binds to DNA in a double-stranded, site-specific manner (By similarity)"
+      "eggnog_X13": "ATP-dependent serine protease that mediates the selective degradation of mutant and abnormal proteins as well as certain short-lived regulatory proteins. Required for cellular homeostasis and for survival from DNA damage and developmental changes induced by stress. Degrades polypeptides processively to yield small peptide fragments that are 5 to 10 amino acids long. Binds to DNA in a double-stranded, site-specific manner (By similarity)",
+      "metric_1": 14,
+      "metric_4": 77,
+      "metric_8": 65,
+      "metric_9": 99,
+      "metric_11": 66,
+      "metric_16": 4,
+      "metric_17": 86,
+      "metric_20": 28,
+      "metric_22": 16,
+      "metric_23": 75,
+      "metric_24": 89
     }
   ],
   "diamond_track": [
     {
       "seqnames": "MAG06_728",
       "gene_ID": "MAG06_728_1",
+      "gene_strand": "-",
       "eggnog_pos_X2": "266834.SMc01906",
       "eggnog_pos_X3": 100,
       "eggnog_pos_X4": 42,
@@ -96,6 +120,7 @@
     {
       "seqnames": "MAG06_728",
       "gene_ID": "MAG06_728_1",
+      "gene_strand": "-",
       "eggnog_pos_X2": "366394.Smed_0875",
       "eggnog_pos_X3": 100,
       "eggnog_pos_X4": 42,
@@ -113,6 +138,7 @@
     {
       "seqnames": "MAG06_728",
       "gene_ID": "MAG06_728_2",
+      "gene_strand": "-",
       "eggnog_pos_X2": "347834.RHE_CH01589",
       "eggnog_pos_X3": 87.2,
       "eggnog_pos_X4": 397,
@@ -130,6 +156,7 @@
     {
       "seqnames": "MAG06_728",
       "gene_ID": "MAG06_728_2",
+      "gene_strand": "-",
       "eggnog_pos_X2": "491916.RHECIAT_CH0001661",
       "eggnog_pos_X3": 86.9,
       "eggnog_pos_X4": 397,
@@ -147,6 +174,7 @@
     {
       "seqnames": "MAG06_728",
       "gene_ID": "MAG06_728_2",
+      "gene_strand": "-",
       "eggnog_pos_X2": "395492.Rleg2_1249",
       "eggnog_pos_X3": 86.9,
       "eggnog_pos_X4": 397,
@@ -164,6 +192,7 @@
     {
       "seqnames": "MAG06_728",
       "gene_ID": "MAG06_728_2",
+      "gene_strand": "-",
       "eggnog_pos_X2": "216596.RL1690",
       "eggnog_pos_X3": 86.6,
       "eggnog_pos_X4": 397,
@@ -181,6 +210,7 @@
     {
       "seqnames": "MAG06_728",
       "gene_ID": "MAG06_728_2",
+      "gene_strand": "-",
       "eggnog_pos_X2": "311402.Avi_1700",
       "eggnog_pos_X3": 83.9,
       "eggnog_pos_X4": 397,
@@ -198,6 +228,7 @@
     {
       "seqnames": "MAG06_728",
       "gene_ID": "MAG06_728_2",
+      "gene_strand": "-",
       "eggnog_pos_X2": "439375.Oant_2204",
       "eggnog_pos_X3": 85.4,
       "eggnog_pos_X4": 397,

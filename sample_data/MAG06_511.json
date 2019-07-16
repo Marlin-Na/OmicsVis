@@ -37,7 +37,21 @@
       "eggnog_X10": "01ZWA@aproNOG,05K77@bactNOG,17FJ8@proNOG,COG0184@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "J",
-      "eggnog_X13": "One of the primary rRNA binding proteins, it binds directly to 16S rRNA where it helps nucleate assembly of the platform of the 30S subunit by binding and bridging several RNA helices of the 16S rRNA (By similarity)"
+      "eggnog_X13": "One of the primary rRNA binding proteins, it binds directly to 16S rRNA where it helps nucleate assembly of the platform of the 30S subunit by binding and bridging several RNA helices of the 16S rRNA (By similarity)",
+      "metric_2": 57,
+      "metric_4": 47,
+      "metric_9": 3,
+      "metric_11": 80,
+      "metric_12": 16,
+      "metric_13": 58,
+      "metric_14": 19,
+      "metric_15": 89,
+      "metric_16": 59,
+      "metric_21": 20,
+      "metric_23": 94,
+      "metric_24": 52,
+      "metric_25": 7,
+      "metric_26": 24
     },
     {
       "gene_seqnames": "MAG06_511",
@@ -69,7 +83,22 @@
       "eggnog_X10": "01UD7@aproNOG,08MMT@bactNOG,1777I@proNOG,COG3920@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "T",
-      "eggnog_X13": "Histidine kinase"
+      "eggnog_X13": "Histidine kinase",
+      "metric_3": 9,
+      "metric_4": 44,
+      "metric_5": 58,
+      "metric_6": 60,
+      "metric_8": 98,
+      "metric_9": 3,
+      "metric_10": 41,
+      "metric_13": 91,
+      "metric_14": 53,
+      "metric_15": 65,
+      "metric_17": 50,
+      "metric_18": 45,
+      "metric_22": 71,
+      "metric_26": 64,
+      "metric_27": 79
     },
     {
       "gene_seqnames": "MAG06_511",
@@ -105,7 +134,18 @@
       "eggnog_X10": "01RX2@aproNOG,05D0T@bactNOG,16QHM@proNOG,COG0130@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "J",
-      "eggnog_X13": "Responsible for synthesis of pseudouridine from uracil- 55 in the psi GC loop of transfer RNAs (By similarity)"
+      "eggnog_X13": "Responsible for synthesis of pseudouridine from uracil- 55 in the psi GC loop of transfer RNAs (By similarity)",
+      "metric_3": 34,
+      "metric_4": 94,
+      "metric_5": 13,
+      "metric_6": 31,
+      "metric_7": 11,
+      "metric_13": 13,
+      "metric_14": 20,
+      "metric_16": 5,
+      "metric_17": 79,
+      "metric_23": 32,
+      "metric_28": 19
     },
     {
       "gene_seqnames": "MAG06_511",
@@ -140,13 +180,29 @@
       "eggnog_X10": "0208H@aproNOG,07ZGG@bactNOG,16W4E@proNOG,COG0858@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "J",
-      "eggnog_X13": "Associates with free 30S ribosomal subunits (but not with 30S subunits that are part of 70S ribosomes or polysomes). Essential for efficient processing of 16S rRNA. May interact with the 5'-terminal helix region of 16S rRNA (By similarity)"
+      "eggnog_X13": "Associates with free 30S ribosomal subunits (but not with 30S subunits that are part of 70S ribosomes or polysomes). Essential for efficient processing of 16S rRNA. May interact with the 5'-terminal helix region of 16S rRNA (By similarity)",
+      "metric_1": 74,
+      "metric_2": 52,
+      "metric_3": 6,
+      "metric_4": 56,
+      "metric_6": 98,
+      "metric_7": 75,
+      "metric_12": 7,
+      "metric_16": 8,
+      "metric_17": 73,
+      "metric_19": 64,
+      "metric_21": 87,
+      "metric_22": 66,
+      "metric_23": 88,
+      "metric_24": 41,
+      "metric_29": 51
     }
   ],
   "diamond_track": [
     {
       "seqnames": "MAG06_511",
       "gene_ID": "MAG06_511_1",
+      "gene_strand": "-",
       "eggnog_pos_X2": "266834.SMc00323",
       "eggnog_pos_X3": 100,
       "eggnog_pos_X4": 42,
@@ -164,6 +220,7 @@
     {
       "seqnames": "MAG06_511",
       "gene_ID": "MAG06_511_1",
+      "gene_strand": "-",
       "eggnog_pos_X2": "366394.Smed_3445",
       "eggnog_pos_X3": 97.6,
       "eggnog_pos_X4": 42,
@@ -181,6 +238,7 @@
     {
       "seqnames": "MAG06_511",
       "gene_ID": "MAG06_511_2",
+      "gene_strand": "-",
       "eggnog_pos_X2": "266834.SMc00322",
       "eggnog_pos_X3": 99.8,
       "eggnog_pos_X4": 572,
@@ -198,6 +256,7 @@
     {
       "seqnames": "MAG06_511",
       "gene_ID": "MAG06_511_3",
+      "gene_strand": "-",
       "eggnog_pos_X2": "266834.SMc00321",
       "eggnog_pos_X3": 99.7,
       "eggnog_pos_X4": 311,
@@ -215,6 +274,7 @@
     {
       "seqnames": "MAG06_511",
       "gene_ID": "MAG06_511_4",
+      "gene_strand": "-",
       "eggnog_pos_X2": "266834.SMc00320",
       "eggnog_pos_X3": 100,
       "eggnog_pos_X4": 110,

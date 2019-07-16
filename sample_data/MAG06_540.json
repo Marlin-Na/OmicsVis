@@ -37,13 +37,34 @@
       "eggnog_X10": "02E7F@aproNOG,08IIJ@bactNOG,172SA@proNOG,COG0085@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "K",
-      "eggnog_X13": "DNA-dependent RNA polymerase catalyzes the transcription of DNA into RNA using the four ribonucleoside triphosphates as substrates (By similarity)"
+      "eggnog_X13": "DNA-dependent RNA polymerase catalyzes the transcription of DNA into RNA using the four ribonucleoside triphosphates as substrates (By similarity)",
+      "metric_4": 6,
+      "metric_5": 99,
+      "metric_6": 10,
+      "metric_9": 54,
+      "metric_10": 73,
+      "metric_11": 1,
+      "metric_12": 83,
+      "metric_13": 7,
+      "metric_15": 69,
+      "metric_16": 47,
+      "metric_17": 20,
+      "metric_18": 15,
+      "metric_19": 3,
+      "metric_20": 60,
+      "metric_22": 58,
+      "metric_23": 6,
+      "metric_25": 57,
+      "metric_27": 81,
+      "metric_29": 95,
+      "metric_30": 67
     }
   ],
   "diamond_track": [
     {
       "seqnames": "MAG06_540",
       "gene_ID": "MAG06_540_1",
+      "gene_strand": "-",
       "eggnog_pos_X2": "366394.Smed_0978",
       "eggnog_pos_X3": 96.7,
       "eggnog_pos_X4": 613,
@@ -61,6 +82,7 @@
     {
       "seqnames": "MAG06_540",
       "gene_ID": "MAG06_540_1",
+      "gene_strand": "-",
       "eggnog_pos_X2": "394.NGR_c11830",
       "eggnog_pos_X3": 94.8,
       "eggnog_pos_X4": 613,
@@ -78,6 +100,7 @@
     {
       "seqnames": "MAG06_540",
       "gene_ID": "MAG06_540_1",
+      "gene_strand": "-",
       "eggnog_pos_X2": "1117943.SFHH103_01067",
       "eggnog_pos_X3": 94.6,
       "eggnog_pos_X4": 613,

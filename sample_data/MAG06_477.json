@@ -34,7 +34,19 @@
       "eggnog_X10": "01WB4@aproNOG,08T8I@bactNOG,11GM4@NOG,178K9@proNOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "S",
-      "eggnog_X13": "Protein of unknown function (DUF3750)"
+      "eggnog_X13": "Protein of unknown function (DUF3750)",
+      "metric_2": 74,
+      "metric_3": 36,
+      "metric_6": 67,
+      "metric_7": 80,
+      "metric_8": 74,
+      "metric_9": 27,
+      "metric_15": 66,
+      "metric_22": 74,
+      "metric_27": 23,
+      "metric_28": 1,
+      "metric_29": 52,
+      "metric_30": 62
     },
     {
       "gene_seqnames": "MAG06_477",
@@ -69,7 +81,18 @@
       "eggnog_X10": "01TH8@aproNOG,08M50@bactNOG,174IY@proNOG,COG4448@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "E",
-      "eggnog_X13": "L-asparaginase II"
+      "eggnog_X13": "L-asparaginase II",
+      "metric_2": 93,
+      "metric_4": 12,
+      "metric_7": 99,
+      "metric_11": 22,
+      "metric_13": 92,
+      "metric_14": 55,
+      "metric_17": 32,
+      "metric_22": 12,
+      "metric_24": 37,
+      "metric_25": 44,
+      "metric_26": 20
     },
     {
       "gene_seqnames": "MAG06_477",
@@ -104,7 +127,21 @@
       "eggnog_X10": "01X97@aproNOG,08RX8@bactNOG,17828@proNOG,COG0625@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "O",
-      "eggnog_X13": "Glutathione S-Transferase"
+      "eggnog_X13": "Glutathione S-Transferase",
+      "metric_2": 25,
+      "metric_3": 15,
+      "metric_8": 85,
+      "metric_9": 17,
+      "metric_11": 71,
+      "metric_12": 54,
+      "metric_13": 71,
+      "metric_14": 27,
+      "metric_15": 93,
+      "metric_17": 74,
+      "metric_18": 10,
+      "metric_22": 34,
+      "metric_25": 44,
+      "metric_29": 34
     },
     {
       "gene_seqnames": "MAG06_477",
@@ -128,13 +165,26 @@
       "gene_sscore": "3.22",
       "gene_rscore": "0.00",
       "gene_uscore": "0.00",
-      "gene_tscore": "3.22"
+      "gene_tscore": "3.22",
+      "metric_1": 6,
+      "metric_5": 44,
+      "metric_7": 9,
+      "metric_8": 78,
+      "metric_9": 52,
+      "metric_10": 77,
+      "metric_14": 90,
+      "metric_20": 22,
+      "metric_25": 37,
+      "metric_28": 17,
+      "metric_29": 35,
+      "metric_30": 12
     }
   ],
   "diamond_track": [
     {
       "seqnames": "MAG06_477",
       "gene_ID": "MAG06_477_1",
+      "gene_strand": "-",
       "eggnog_pos_X2": "266834.SMc00096",
       "eggnog_pos_X3": 100,
       "eggnog_pos_X4": 167,
@@ -152,6 +202,7 @@
     {
       "seqnames": "MAG06_477",
       "gene_ID": "MAG06_477_2",
+      "gene_strand": "+",
       "eggnog_pos_X2": "266834.SMc00035",
       "eggnog_pos_X3": 100,
       "eggnog_pos_X4": 336,
@@ -169,6 +220,7 @@
     {
       "seqnames": "MAG06_477",
       "gene_ID": "MAG06_477_3",
+      "gene_strand": "+",
       "eggnog_pos_X2": "266834.SMc00036",
       "eggnog_pos_X3": 100,
       "eggnog_pos_X4": 206,
@@ -182,10 +234,6 @@
       "eggnog_pos_X12": 416.8,
       "eggnog_pos_start": 1677,
       "eggnog_pos_end": 2292
-    },
-    {
-      "seqnames": "MAG06_477",
-      "gene_ID": "MAG06_477_4"
     }
   ]
 }

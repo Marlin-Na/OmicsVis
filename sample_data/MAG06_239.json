@@ -34,7 +34,18 @@
       "eggnog_X10": "023DR@aproNOG,061SP@bactNOG,0ZSFY@NOG,17N3S@proNOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "O",
-      "eggnog_X13": "protease inhibitor"
+      "eggnog_X13": "protease inhibitor",
+      "metric_1": 33,
+      "metric_6": 32,
+      "metric_7": 70,
+      "metric_10": 88,
+      "metric_12": 7,
+      "metric_14": 87,
+      "metric_17": 43,
+      "metric_20": 70,
+      "metric_22": 7,
+      "metric_23": 50,
+      "metric_29": 92
     },
     {
       "gene_seqnames": "MAG06_239",
@@ -70,7 +81,22 @@
       "eggnog_X10": "01QG3@aproNOG,05C8Q@bactNOG,16PCR@proNOG,COG0840@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "T",
-      "eggnog_X13": "Methyl-accepting chemotaxis"
+      "eggnog_X13": "Methyl-accepting chemotaxis",
+      "metric_1": 25,
+      "metric_2": 32,
+      "metric_5": 59,
+      "metric_7": 98,
+      "metric_8": 89,
+      "metric_9": 63,
+      "metric_12": 54,
+      "metric_13": 70,
+      "metric_15": 98,
+      "metric_16": 94,
+      "metric_19": 48,
+      "metric_20": 32,
+      "metric_23": 47,
+      "metric_24": 55,
+      "metric_26": 90
     },
     {
       "gene_seqnames": "MAG06_239",
@@ -105,7 +131,20 @@
       "eggnog_X10": "02014@aproNOG,05NAU@bactNOG,17FV5@proNOG,COG1607@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "I",
-      "eggnog_X13": "Thioesterase superfamily protein"
+      "eggnog_X13": "Thioesterase superfamily protein",
+      "metric_2": 87,
+      "metric_3": 87,
+      "metric_5": 77,
+      "metric_7": 68,
+      "metric_12": 99,
+      "metric_13": 51,
+      "metric_14": 20,
+      "metric_16": 43,
+      "metric_17": 75,
+      "metric_18": 21,
+      "metric_20": 50,
+      "metric_28": 24,
+      "metric_30": 75
     },
     {
       "gene_seqnames": "MAG06_239",
@@ -135,7 +174,20 @@
       "eggnog_X4": 391.7,
       "eggnog_X9": "bactNOG[38]",
       "eggnog_X10": "01XFD@aproNOG,090DX@bactNOG,11PQY@NOG,17DWF@proNOG",
-      "eggnog_X11": "NA|NA|NA"
+      "eggnog_X11": "NA|NA|NA",
+      "metric_1": 28,
+      "metric_2": 20,
+      "metric_6": 64,
+      "metric_9": 2,
+      "metric_11": 81,
+      "metric_13": 90,
+      "metric_14": 41,
+      "metric_15": 55,
+      "metric_17": 19,
+      "metric_18": 36,
+      "metric_23": 76,
+      "metric_25": 60,
+      "metric_28": 24
     },
     {
       "gene_seqnames": "MAG06_239",
@@ -168,7 +220,19 @@
       "eggnog_X10": "020UK@aproNOG,08ZFA@bactNOG,17CKC@proNOG,COG3169@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "S",
-      "eggnog_X13": "Protein of unknown function, DUF486"
+      "eggnog_X13": "Protein of unknown function, DUF486",
+      "metric_6": 73,
+      "metric_7": 86,
+      "metric_10": 1,
+      "metric_11": 54,
+      "metric_14": 49,
+      "metric_17": 39,
+      "metric_18": 37,
+      "metric_20": 13,
+      "metric_24": 79,
+      "metric_25": 69,
+      "metric_26": 4,
+      "metric_29": 39
     },
     {
       "gene_seqnames": "MAG06_239",
@@ -203,7 +267,24 @@
       "eggnog_X10": "01RPK@aproNOG,05CCW@bactNOG,16QHU@proNOG,COG0556@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "L",
-      "eggnog_X13": "damaged site, the DNA wraps around one UvrB monomer. DNA wrap is dependent on ATP binding by UvrB and probably causes local melting of the DNA helix, facilitating insertion of UvrB beta-hairpin between the DNA strands. Then UvrB probes one DNA strand for the presence of a lesion. If a lesion is found the UvrA subunits dissociate and the UvrB-DNA preincision complex is formed. This complex is subsequently bound by UvrC and the second UvrB is released. If no lesion is found, the DNA wraps around the other UvrB subunit that will check the other stand for damage (By similarity)"
+      "eggnog_X13": "damaged site, the DNA wraps around one UvrB monomer. DNA wrap is dependent on ATP binding by UvrB and probably causes local melting of the DNA helix, facilitating insertion of UvrB beta-hairpin between the DNA strands. Then UvrB probes one DNA strand for the presence of a lesion. If a lesion is found the UvrA subunits dissociate and the UvrB-DNA preincision complex is formed. This complex is subsequently bound by UvrC and the second UvrB is released. If no lesion is found, the DNA wraps around the other UvrB subunit that will check the other stand for damage (By similarity)",
+      "metric_1": 46,
+      "metric_4": 57,
+      "metric_5": 41,
+      "metric_6": 40,
+      "metric_7": 26,
+      "metric_9": 29,
+      "metric_11": 2,
+      "metric_12": 24,
+      "metric_13": 2,
+      "metric_15": 50,
+      "metric_17": 92,
+      "metric_18": 68,
+      "metric_20": 41,
+      "metric_23": 73,
+      "metric_26": 2,
+      "metric_28": 58,
+      "metric_30": 2
     },
     {
       "gene_seqnames": "MAG06_239",
@@ -235,7 +316,19 @@
       "eggnog_X10": "029WU@aproNOG,07DPX@bactNOG,0Z135@NOG,18917@proNOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "S",
-      "eggnog_X13": "glycine-rich protein"
+      "eggnog_X13": "glycine-rich protein",
+      "metric_8": 72,
+      "metric_10": 13,
+      "metric_13": 65,
+      "metric_14": 20,
+      "metric_15": 52,
+      "metric_17": 91,
+      "metric_18": 31,
+      "metric_19": 36,
+      "metric_21": 35,
+      "metric_24": 89,
+      "metric_27": 36,
+      "metric_29": 43
     },
     {
       "gene_seqnames": "MAG06_239",
@@ -267,13 +360,27 @@
       "eggnog_X10": "0263T@aproNOG,068T2@bactNOG,17XKM@proNOG,COG2214@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "O",
-      "eggnog_X13": "DnaJ family, molecular chaperone"
+      "eggnog_X13": "DnaJ family, molecular chaperone",
+      "metric_1": 97,
+      "metric_2": 34,
+      "metric_7": 12,
+      "metric_8": 35,
+      "metric_13": 57,
+      "metric_14": 6,
+      "metric_15": 12,
+      "metric_16": 71,
+      "metric_17": 83,
+      "metric_22": 7,
+      "metric_23": 51,
+      "metric_25": 35,
+      "metric_26": 90
     }
   ],
   "diamond_track": [
     {
       "seqnames": "MAG06_239",
       "gene_ID": "MAG06_239_1",
+      "gene_strand": "-",
       "eggnog_pos_X2": "266834.SMc04226",
       "eggnog_pos_X3": 94.5,
       "eggnog_pos_X4": 73,
@@ -291,6 +398,7 @@
     {
       "seqnames": "MAG06_239",
       "gene_ID": "MAG06_239_1",
+      "gene_strand": "-",
       "eggnog_pos_X2": "266834.SMc04226",
       "eggnog_pos_X3": 45.5,
       "eggnog_pos_X4": 123,
@@ -308,6 +416,7 @@
     {
       "seqnames": "MAG06_239",
       "gene_ID": "MAG06_239_1",
+      "gene_strand": "-",
       "eggnog_pos_X2": "266834.SMc04226",
       "eggnog_pos_X3": 73.5,
       "eggnog_pos_X4": 34,
@@ -325,6 +434,7 @@
     {
       "seqnames": "MAG06_239",
       "gene_ID": "MAG06_239_2",
+      "gene_strand": "-",
       "eggnog_pos_X2": "266834.SMc04227",
       "eggnog_pos_X3": 99.5,
       "eggnog_pos_X4": 604,
@@ -342,6 +452,7 @@
     {
       "seqnames": "MAG06_239",
       "gene_ID": "MAG06_239_3",
+      "gene_strand": "+",
       "eggnog_pos_X2": "266834.SMc04228",
       "eggnog_pos_X3": 100,
       "eggnog_pos_X4": 129,
@@ -359,6 +470,7 @@
     {
       "seqnames": "MAG06_239",
       "gene_ID": "MAG06_239_4",
+      "gene_strand": "+",
       "eggnog_pos_X2": "266834.SMc04229",
       "eggnog_pos_X3": 100,
       "eggnog_pos_X4": 196,
@@ -376,6 +488,7 @@
     {
       "seqnames": "MAG06_239",
       "gene_ID": "MAG06_239_5",
+      "gene_strand": "-",
       "eggnog_pos_X2": "266834.SMc04230",
       "eggnog_pos_X3": 100,
       "eggnog_pos_X4": 117,
@@ -393,6 +506,7 @@
     {
       "seqnames": "MAG06_239",
       "gene_ID": "MAG06_239_5",
+      "gene_strand": "-",
       "eggnog_pos_X2": "366394.Smed_1616",
       "eggnog_pos_X3": 96.6,
       "eggnog_pos_X4": 117,
@@ -410,6 +524,7 @@
     {
       "seqnames": "MAG06_239",
       "gene_ID": "MAG06_239_6",
+      "gene_strand": "+",
       "eggnog_pos_X2": "1117943.SFHH103_01632",
       "eggnog_pos_X3": 90.3,
       "eggnog_pos_X4": 1000,
@@ -427,6 +542,7 @@
     {
       "seqnames": "MAG06_239",
       "gene_ID": "MAG06_239_7",
+      "gene_strand": "+",
       "eggnog_pos_X2": "266834.SMc04357",
       "eggnog_pos_X3": 50,
       "eggnog_pos_X4": 178,
@@ -444,6 +560,7 @@
     {
       "seqnames": "MAG06_239",
       "gene_ID": "MAG06_239_7",
+      "gene_strand": "+",
       "eggnog_pos_X2": "266834.SMc04357",
       "eggnog_pos_X3": 42.3,
       "eggnog_pos_X4": 213,
@@ -461,6 +578,7 @@
     {
       "seqnames": "MAG06_239",
       "gene_ID": "MAG06_239_7",
+      "gene_strand": "+",
       "eggnog_pos_X2": "266834.SMc04357",
       "eggnog_pos_X3": 49.4,
       "eggnog_pos_X4": 77,
@@ -478,6 +596,7 @@
     {
       "seqnames": "MAG06_239",
       "gene_ID": "MAG06_239_8",
+      "gene_strand": "-",
       "eggnog_pos_X2": "266834.SMc04233",
       "eggnog_pos_X3": 99.4,
       "eggnog_pos_X4": 173,
@@ -495,6 +614,7 @@
     {
       "seqnames": "MAG06_239",
       "gene_ID": "MAG06_239_8",
+      "gene_strand": "-",
       "eggnog_pos_X2": "366394.Smed_1619",
       "eggnog_pos_X3": 96.5,
       "eggnog_pos_X4": 173,

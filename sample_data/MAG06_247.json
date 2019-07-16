@@ -35,7 +35,22 @@
       "eggnog_X10": "01UR8@aproNOG,07RX3@bactNOG,16RGQ@proNOG,COG0598@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "P",
-      "eggnog_X13": "Mg2 transporter protein, CorA family protein"
+      "eggnog_X13": "Mg2 transporter protein, CorA family protein",
+      "metric_2": 76,
+      "metric_3": 8,
+      "metric_6": 97,
+      "metric_9": 20,
+      "metric_10": 74,
+      "metric_11": 19,
+      "metric_12": 15,
+      "metric_16": 58,
+      "metric_18": 36,
+      "metric_21": 5,
+      "metric_22": 9,
+      "metric_23": 3,
+      "metric_24": 5,
+      "metric_25": 15,
+      "metric_29": 79
     },
     {
       "gene_seqnames": "MAG06_247",
@@ -69,7 +84,21 @@
       "eggnog_X10": "01RDU@aproNOG,05CSU@bactNOG,16Q90@proNOG,COG1960@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "I",
-      "eggnog_X13": "acyl-CoA dehydrogenase"
+      "eggnog_X13": "acyl-CoA dehydrogenase",
+      "metric_1": 15,
+      "metric_5": 25,
+      "metric_8": 13,
+      "metric_10": 75,
+      "metric_11": 7,
+      "metric_13": 83,
+      "metric_14": 47,
+      "metric_15": 88,
+      "metric_16": 49,
+      "metric_21": 99,
+      "metric_24": 12,
+      "metric_27": 22,
+      "metric_28": 93,
+      "metric_30": 56
     },
     {
       "gene_seqnames": "MAG06_247",
@@ -103,7 +132,23 @@
       "eggnog_X10": "01QS4@aproNOG,08UKI@bactNOG,179RZ@proNOG,COG1024@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "I",
-      "eggnog_X13": "enoyl-CoA hydratase"
+      "eggnog_X13": "enoyl-CoA hydratase",
+      "metric_1": 95,
+      "metric_2": 74,
+      "metric_4": 24,
+      "metric_5": 78,
+      "metric_7": 17,
+      "metric_13": 75,
+      "metric_14": 13,
+      "metric_15": 14,
+      "metric_16": 69,
+      "metric_18": 45,
+      "metric_20": 17,
+      "metric_21": 85,
+      "metric_22": 14,
+      "metric_24": 80,
+      "metric_28": 48,
+      "metric_30": 97
     },
     {
       "gene_seqnames": "MAG06_247",
@@ -139,7 +184,17 @@
       "eggnog_X10": "01QG3@aproNOG,05C8Q@bactNOG,16PCR@proNOG,COG0840@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "T",
-      "eggnog_X13": "Methyl-accepting chemotaxis"
+      "eggnog_X13": "Methyl-accepting chemotaxis",
+      "metric_3": 37,
+      "metric_10": 91,
+      "metric_14": 34,
+      "metric_15": 72,
+      "metric_17": 73,
+      "metric_18": 68,
+      "metric_20": 12,
+      "metric_21": 65,
+      "metric_26": 41,
+      "metric_30": 52
     },
     {
       "gene_seqnames": "MAG06_247",
@@ -173,7 +228,21 @@
       "eggnog_X10": "01S2R@aproNOG,07QS4@bactNOG,16UM9@proNOG,COG2265@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "J",
-      "eggnog_X13": "23S rRNA"
+      "eggnog_X13": "23S rRNA",
+      "metric_1": 87,
+      "metric_2": 77,
+      "metric_3": 28,
+      "metric_4": 10,
+      "metric_5": 87,
+      "metric_9": 18,
+      "metric_11": 69,
+      "metric_14": 40,
+      "metric_15": 25,
+      "metric_17": 47,
+      "metric_18": 48,
+      "metric_20": 96,
+      "metric_27": 10,
+      "metric_29": 25
     },
     {
       "gene_seqnames": "MAG06_247",
@@ -208,7 +277,26 @@
       "eggnog_X10": "01RF7@aproNOG,05DX0@bactNOG,178K5@proNOG,COG1189@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "J",
-      "eggnog_X13": "hemolysin A"
+      "eggnog_X13": "hemolysin A",
+      "metric_2": 48,
+      "metric_3": 98,
+      "metric_6": 31,
+      "metric_7": 91,
+      "metric_10": 35,
+      "metric_11": 86,
+      "metric_14": 53,
+      "metric_16": 88,
+      "metric_17": 67,
+      "metric_18": 9,
+      "metric_19": 45,
+      "metric_20": 86,
+      "metric_22": 51,
+      "metric_23": 28,
+      "metric_24": 39,
+      "metric_25": 3,
+      "metric_26": 81,
+      "metric_27": 99,
+      "metric_29": 30
     },
     {
       "gene_seqnames": "MAG06_247",
@@ -244,13 +332,22 @@
       "eggnog_X10": "01QZK@aproNOG,05C2V@bactNOG,16PEN@proNOG,COG1154@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "H",
-      "eggnog_X13": "Catalyzes the acyloin condensation reaction between C atoms 2 and 3 of pyruvate and glyceraldehyde 3-phosphate to yield 1-deoxy-D-xylulose-5-phosphate (DXP) (By similarity)"
+      "eggnog_X13": "Catalyzes the acyloin condensation reaction between C atoms 2 and 3 of pyruvate and glyceraldehyde 3-phosphate to yield 1-deoxy-D-xylulose-5-phosphate (DXP) (By similarity)",
+      "metric_2": 93,
+      "metric_3": 84,
+      "metric_4": 57,
+      "metric_5": 63,
+      "metric_25": 49,
+      "metric_28": 36,
+      "metric_29": 85,
+      "metric_30": 51
     }
   ],
   "diamond_track": [
     {
       "seqnames": "MAG06_247",
       "gene_ID": "MAG06_247_1",
+      "gene_strand": "-",
       "eggnog_pos_X2": "266834.SMc00978",
       "eggnog_pos_X3": 99.4,
       "eggnog_pos_X4": 329,
@@ -268,6 +365,7 @@
     {
       "seqnames": "MAG06_247",
       "gene_ID": "MAG06_247_2",
+      "gene_strand": "+",
       "eggnog_pos_X2": "366394.Smed_0487",
       "eggnog_pos_X3": 90.9,
       "eggnog_pos_X4": 593,
@@ -285,6 +383,7 @@
     {
       "seqnames": "MAG06_247",
       "gene_ID": "MAG06_247_3",
+      "gene_strand": "+",
       "eggnog_pos_X2": "266834.SMc00976",
       "eggnog_pos_X3": 100,
       "eggnog_pos_X4": 250,
@@ -302,6 +401,7 @@
     {
       "seqnames": "MAG06_247",
       "gene_ID": "MAG06_247_4",
+      "gene_strand": "+",
       "eggnog_pos_X2": "266834.SMc00975",
       "eggnog_pos_X3": 100,
       "eggnog_pos_X4": 691,
@@ -319,6 +419,7 @@
     {
       "seqnames": "MAG06_247",
       "gene_ID": "MAG06_247_5",
+      "gene_strand": "-",
       "eggnog_pos_X2": "266834.SMc00974",
       "eggnog_pos_X3": 99.8,
       "eggnog_pos_X4": 415,
@@ -336,6 +437,7 @@
     {
       "seqnames": "MAG06_247",
       "gene_ID": "MAG06_247_6",
+      "gene_strand": "-",
       "eggnog_pos_X2": "266834.SMc00973",
       "eggnog_pos_X3": 100,
       "eggnog_pos_X4": 251,
@@ -353,6 +455,7 @@
     {
       "seqnames": "MAG06_247",
       "gene_ID": "MAG06_247_6",
+      "gene_strand": "-",
       "eggnog_pos_X2": "366394.Smed_0491",
       "eggnog_pos_X3": 96,
       "eggnog_pos_X4": 251,
@@ -370,6 +473,7 @@
     {
       "seqnames": "MAG06_247",
       "gene_ID": "MAG06_247_7",
+      "gene_strand": "-",
       "eggnog_pos_X2": "216596.RL0973",
       "eggnog_pos_X3": 87.8,
       "eggnog_pos_X4": 645,
@@ -387,6 +491,7 @@
     {
       "seqnames": "MAG06_247",
       "gene_ID": "MAG06_247_7",
+      "gene_strand": "-",
       "eggnog_pos_X2": "395492.Rleg2_0564",
       "eggnog_pos_X3": 87.4,
       "eggnog_pos_X4": 645,
@@ -404,6 +509,7 @@
     {
       "seqnames": "MAG06_247",
       "gene_ID": "MAG06_247_7",
+      "gene_strand": "-",
       "eggnog_pos_X2": "491916.RHECIAT_CH0001005",
       "eggnog_pos_X3": 88,
       "eggnog_pos_X4": 640,
@@ -421,6 +527,7 @@
     {
       "seqnames": "MAG06_247",
       "gene_ID": "MAG06_247_7",
+      "gene_strand": "-",
       "eggnog_pos_X2": "347834.RHE_CH00913",
       "eggnog_pos_X3": 87.3,
       "eggnog_pos_X4": 640,
@@ -438,6 +545,7 @@
     {
       "seqnames": "MAG06_247",
       "gene_ID": "MAG06_247_7",
+      "gene_strand": "-",
       "eggnog_pos_X2": "311403.Arad_1198",
       "eggnog_pos_X3": 88.4,
       "eggnog_pos_X4": 637,
@@ -455,6 +563,7 @@
     {
       "seqnames": "MAG06_247",
       "gene_ID": "MAG06_247_7",
+      "gene_strand": "-",
       "eggnog_pos_X2": "176299.Atu0745",
       "eggnog_pos_X3": 86.5,
       "eggnog_pos_X4": 637,
@@ -472,6 +581,7 @@
     {
       "seqnames": "MAG06_247",
       "gene_ID": "MAG06_247_7",
+      "gene_strand": "-",
       "eggnog_pos_X2": "1050720.Agau_C102151",
       "eggnog_pos_X3": 86.2,
       "eggnog_pos_X4": 637,

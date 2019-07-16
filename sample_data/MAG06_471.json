@@ -37,7 +37,28 @@
       "eggnog_X10": "01RC2@aproNOG,05D50@bactNOG,16Q7C@proNOG,COG3717@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "G",
-      "eggnog_X13": "Catalyzes the isomerization of 5-dehydro-4-deoxy-D- glucuronate to 3-deoxy-D-glycero-2,5-hexodiulosonate (By similarity)"
+      "eggnog_X13": "Catalyzes the isomerization of 5-dehydro-4-deoxy-D- glucuronate to 3-deoxy-D-glycero-2,5-hexodiulosonate (By similarity)",
+      "metric_1": 84,
+      "metric_3": 68,
+      "metric_4": 77,
+      "metric_5": 48,
+      "metric_6": 15,
+      "metric_8": 35,
+      "metric_10": 51,
+      "metric_11": 94,
+      "metric_12": 53,
+      "metric_13": 35,
+      "metric_15": 99,
+      "metric_16": 67,
+      "metric_18": 27,
+      "metric_20": 92,
+      "metric_21": 28,
+      "metric_22": 73,
+      "metric_24": 7,
+      "metric_25": 56,
+      "metric_26": 88,
+      "metric_27": 20,
+      "metric_28": 28
     },
     {
       "gene_seqnames": "MAG06_471",
@@ -71,7 +92,20 @@
       "eggnog_X10": "01SQ4@aproNOG,05CHR@bactNOG,0XNW1@NOG,16Q0I@proNOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "S",
-      "eggnog_X13": "2-deoxy-d-gluconate 3-dehydrogenase"
+      "eggnog_X13": "2-deoxy-d-gluconate 3-dehydrogenase",
+      "metric_4": 63,
+      "metric_5": 1,
+      "metric_10": 23,
+      "metric_12": 26,
+      "metric_13": 93,
+      "metric_14": 6,
+      "metric_16": 57,
+      "metric_19": 32,
+      "metric_20": 48,
+      "metric_21": 8,
+      "metric_23": 46,
+      "metric_24": 18,
+      "metric_28": 25
     },
     {
       "gene_seqnames": "MAG06_471",
@@ -104,13 +138,30 @@
       "eggnog_X10": "01ZVG@aproNOG,05M5J@bactNOG,17CWY@proNOG,COG1917@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "S",
-      "eggnog_X13": "pectin degradation protein"
+      "eggnog_X13": "pectin degradation protein",
+      "metric_1": 59,
+      "metric_2": 25,
+      "metric_3": 94,
+      "metric_5": 8,
+      "metric_6": 71,
+      "metric_7": 41,
+      "metric_11": 31,
+      "metric_13": 97,
+      "metric_14": 62,
+      "metric_19": 66,
+      "metric_21": 18,
+      "metric_23": 91,
+      "metric_24": 68,
+      "metric_27": 1,
+      "metric_28": 86,
+      "metric_30": 85
     }
   ],
   "diamond_track": [
     {
       "seqnames": "MAG06_471",
       "gene_ID": "MAG06_471_1",
+      "gene_strand": "+",
       "eggnog_pos_X2": "272943.RSP_0482",
       "eggnog_pos_X3": 69.5,
       "eggnog_pos_X4": 82,
@@ -128,6 +179,7 @@
     {
       "seqnames": "MAG06_471",
       "gene_ID": "MAG06_471_1",
+      "gene_strand": "+",
       "eggnog_pos_X2": "536019.Mesop_1218",
       "eggnog_pos_X3": 70.7,
       "eggnog_pos_X4": 82,
@@ -145,6 +197,7 @@
     {
       "seqnames": "MAG06_471",
       "gene_ID": "MAG06_471_2",
+      "gene_strand": "+",
       "eggnog_pos_X2": "765698.Mesci_1188",
       "eggnog_pos_X3": 75.4,
       "eggnog_pos_X4": 248,
@@ -162,6 +215,7 @@
     {
       "seqnames": "MAG06_471",
       "gene_ID": "MAG06_471_2",
+      "gene_strand": "+",
       "eggnog_pos_X2": "536019.Mesop_1219",
       "eggnog_pos_X3": 73.2,
       "eggnog_pos_X4": 254,
@@ -179,6 +233,7 @@
     {
       "seqnames": "MAG06_471",
       "gene_ID": "MAG06_471_2",
+      "gene_strand": "+",
       "eggnog_pos_X2": "266835.mll4054",
       "eggnog_pos_X3": 74.4,
       "eggnog_pos_X4": 250,
@@ -196,6 +251,7 @@
     {
       "seqnames": "MAG06_471",
       "gene_ID": "MAG06_471_2",
+      "gene_strand": "+",
       "eggnog_pos_X2": "266779.Meso_0260",
       "eggnog_pos_X3": 73.6,
       "eggnog_pos_X4": 250,
@@ -213,6 +269,7 @@
     {
       "seqnames": "MAG06_471",
       "gene_ID": "MAG06_471_3",
+      "gene_strand": "+",
       "eggnog_pos_X2": "536019.Mesop_1220",
       "eggnog_pos_X3": 73.6,
       "eggnog_pos_X4": 110,
@@ -230,6 +287,7 @@
     {
       "seqnames": "MAG06_471",
       "gene_ID": "MAG06_471_3",
+      "gene_strand": "+",
       "eggnog_pos_X2": "765698.Mesci_1189",
       "eggnog_pos_X3": 71.8,
       "eggnog_pos_X4": 110,

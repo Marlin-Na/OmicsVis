@@ -35,7 +35,20 @@
       "eggnog_X10": "0208C@aproNOG,08SHN@bactNOG,17GVN@proNOG,COG0463@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "M",
-      "eggnog_X13": "Glycosyl transferase, family 2"
+      "eggnog_X13": "Glycosyl transferase, family 2",
+      "metric_5": 90,
+      "metric_7": 67,
+      "metric_8": 23,
+      "metric_9": 46,
+      "metric_12": 65,
+      "metric_13": 65,
+      "metric_14": 25,
+      "metric_17": 9,
+      "metric_18": 62,
+      "metric_21": 50,
+      "metric_22": 32,
+      "metric_24": 93,
+      "metric_29": 55
     },
     {
       "gene_seqnames": "MAG06_413",
@@ -70,13 +83,31 @@
       "eggnog_X10": "01RDW@aproNOG,05DEI@bactNOG,16QQD@proNOG,COG0246@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "G",
-      "eggnog_X13": "Mannitol dehydrogenase"
+      "eggnog_X13": "Mannitol dehydrogenase",
+      "metric_1": 4,
+      "metric_2": 91,
+      "metric_4": 48,
+      "metric_5": 60,
+      "metric_6": 15,
+      "metric_7": 77,
+      "metric_9": 44,
+      "metric_12": 3,
+      "metric_14": 96,
+      "metric_17": 35,
+      "metric_19": 46,
+      "metric_21": 16,
+      "metric_25": 18,
+      "metric_27": 60,
+      "metric_28": 76,
+      "metric_29": 12,
+      "metric_30": 69
     }
   ],
   "diamond_track": [
     {
       "seqnames": "MAG06_413",
       "gene_ID": "MAG06_413_1",
+      "gene_strand": "-",
       "eggnog_pos_X2": "311403.Arad_9063",
       "eggnog_pos_X3": 75.2,
       "eggnog_pos_X4": 327,
@@ -94,6 +125,7 @@
     {
       "seqnames": "MAG06_413",
       "gene_ID": "MAG06_413_2",
+      "gene_strand": "+",
       "eggnog_pos_X2": "460265.Mnod_0976",
       "eggnog_pos_X3": 68.8,
       "eggnog_pos_X4": 80,
@@ -111,6 +143,7 @@
     {
       "seqnames": "MAG06_413",
       "gene_ID": "MAG06_413_2",
+      "gene_strand": "+",
       "eggnog_pos_X2": "190486.XAC4232",
       "eggnog_pos_X3": 67.1,
       "eggnog_pos_X4": 79,
@@ -128,6 +161,7 @@
     {
       "seqnames": "MAG06_413",
       "gene_ID": "MAG06_413_2",
+      "gene_strand": "+",
       "eggnog_pos_X2": "288000.BBta_2118",
       "eggnog_pos_X3": 68.4,
       "eggnog_pos_X4": 79,
@@ -145,6 +179,7 @@
     {
       "seqnames": "MAG06_413",
       "gene_ID": "MAG06_413_2",
+      "gene_strand": "+",
       "eggnog_pos_X2": "316273.XCV4338",
       "eggnog_pos_X3": 67.1,
       "eggnog_pos_X4": 79,

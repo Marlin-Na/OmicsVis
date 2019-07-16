@@ -35,7 +35,21 @@
       "eggnog_X10": "0207G@aproNOG,05U1Z@bactNOG,17V90@proNOG,COG2771@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "K",
-      "eggnog_X13": "transcriptional regulator"
+      "eggnog_X13": "transcriptional regulator",
+      "metric_1": 10,
+      "metric_2": 23,
+      "metric_4": 90,
+      "metric_6": 9,
+      "metric_9": 47,
+      "metric_10": 94,
+      "metric_11": 17,
+      "metric_13": 78,
+      "metric_15": 5,
+      "metric_18": 82,
+      "metric_20": 64,
+      "metric_25": 36,
+      "metric_28": 97,
+      "metric_29": 81
     },
     {
       "gene_seqnames": "MAG06_222",
@@ -70,13 +84,27 @@
       "eggnog_X10": "01S90@aproNOG,05CCJ@bactNOG,16R40@proNOG,COG0482@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "J",
-      "eggnog_X13": "Catalyzes the 2-thiolation of uridine at the wobble position (U34) of tRNA, leading to the formation of s(2)U34 (By similarity)"
+      "eggnog_X13": "Catalyzes the 2-thiolation of uridine at the wobble position (U34) of tRNA, leading to the formation of s(2)U34 (By similarity)",
+      "metric_4": 45,
+      "metric_10": 74,
+      "metric_15": 28,
+      "metric_17": 29,
+      "metric_18": 14,
+      "metric_19": 87,
+      "metric_21": 84,
+      "metric_22": 35,
+      "metric_23": 16,
+      "metric_24": 77,
+      "metric_25": 85,
+      "metric_28": 49,
+      "metric_30": 70
     }
   ],
   "diamond_track": [
     {
       "seqnames": "MAG06_222",
       "gene_ID": "MAG06_222_1",
+      "gene_strand": "+",
       "eggnog_pos_X2": "266834.SMc00658",
       "eggnog_pos_X3": 99.6,
       "eggnog_pos_X4": 247,
@@ -94,6 +122,7 @@
     {
       "seqnames": "MAG06_222",
       "gene_ID": "MAG06_222_2",
+      "gene_strand": "+",
       "eggnog_pos_X2": "266834.SMc00659",
       "eggnog_pos_X3": 99.5,
       "eggnog_pos_X4": 398,
@@ -111,6 +140,7 @@
     {
       "seqnames": "MAG06_222",
       "gene_ID": "MAG06_222_2",
+      "gene_strand": "+",
       "eggnog_pos_X2": "366394.Smed_2600",
       "eggnog_pos_X3": 97.5,
       "eggnog_pos_X4": 398,

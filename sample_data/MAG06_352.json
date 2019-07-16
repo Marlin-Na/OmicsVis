@@ -38,7 +38,19 @@
       "eggnog_X10": "01QG3@aproNOG,05C8Q@bactNOG,16PCR@proNOG,COG0840@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "T",
-      "eggnog_X13": "Methyl-accepting chemotaxis"
+      "eggnog_X13": "Methyl-accepting chemotaxis",
+      "metric_1": 80,
+      "metric_3": 13,
+      "metric_5": 74,
+      "metric_6": 46,
+      "metric_9": 73,
+      "metric_11": 40,
+      "metric_13": 17,
+      "metric_19": 8,
+      "metric_24": 60,
+      "metric_25": 11,
+      "metric_27": 88,
+      "metric_30": 17
     },
     {
       "gene_seqnames": "MAG06_352",
@@ -74,13 +86,28 @@
       "eggnog_X10": "01R41@aproNOG,05DU0@bactNOG,16SGE@proNOG,COG1957@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "F",
-      "eggnog_X13": "nucleoside hydrolase"
+      "eggnog_X13": "nucleoside hydrolase",
+      "metric_3": 96,
+      "metric_5": 57,
+      "metric_7": 73,
+      "metric_8": 76,
+      "metric_9": 82,
+      "metric_11": 2,
+      "metric_14": 68,
+      "metric_15": 75,
+      "metric_17": 16,
+      "metric_18": 29,
+      "metric_20": 33,
+      "metric_22": 46,
+      "metric_25": 85,
+      "metric_27": 39
     }
   ],
   "diamond_track": [
     {
       "seqnames": "MAG06_352",
       "gene_ID": "MAG06_352_1",
+      "gene_strand": "+",
       "eggnog_pos_X2": "266834.SMc01104",
       "eggnog_pos_X3": 99.9,
       "eggnog_pos_X4": 730,
@@ -98,6 +125,7 @@
     {
       "seqnames": "MAG06_352",
       "gene_ID": "MAG06_352_2",
+      "gene_strand": "-",
       "eggnog_pos_X2": "266834.SMc01105",
       "eggnog_pos_X3": 92.4,
       "eggnog_pos_X4": 276,

@@ -34,7 +34,22 @@
       "eggnog_X10": "020P5@aproNOG,08NJ7@bactNOG,0ZWGR@NOG,17GVE@proNOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "K",
-      "eggnog_X13": "Transcriptional regulator, LuxR family hydrolase, alpha beta fold family"
+      "eggnog_X13": "Transcriptional regulator, LuxR family hydrolase, alpha beta fold family",
+      "metric_2": 33,
+      "metric_4": 85,
+      "metric_5": 32,
+      "metric_7": 52,
+      "metric_8": 50,
+      "metric_10": 34,
+      "metric_11": 48,
+      "metric_17": 78,
+      "metric_20": 27,
+      "metric_21": 48,
+      "metric_24": 37,
+      "metric_25": 62,
+      "metric_26": 38,
+      "metric_27": 41,
+      "metric_28": 35
     },
     {
       "gene_seqnames": "MAG06_941",
@@ -70,7 +85,23 @@
       "eggnog_X10": "01RHH@aproNOG,05CW3@bactNOG,16QDJ@proNOG,COG0176@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "G",
-      "eggnog_X13": "Transaldolase is important for the balance of metabolites in the pentose-phosphate pathway (By similarity)"
+      "eggnog_X13": "Transaldolase is important for the balance of metabolites in the pentose-phosphate pathway (By similarity)",
+      "metric_1": 28,
+      "metric_3": 20,
+      "metric_6": 67,
+      "metric_7": 99,
+      "metric_8": 46,
+      "metric_9": 18,
+      "metric_11": 37,
+      "metric_13": 16,
+      "metric_16": 66,
+      "metric_18": 16,
+      "metric_20": 18,
+      "metric_22": 84,
+      "metric_24": 43,
+      "metric_27": 27,
+      "metric_28": 56,
+      "metric_30": 84
     },
     {
       "gene_seqnames": "MAG06_941",
@@ -105,7 +136,19 @@
       "eggnog_X10": "01RYI@aproNOG,05C25@bactNOG,16PDY@proNOG,COG1198@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "L",
-      "eggnog_X13": "Primosomal protein n'"
+      "eggnog_X13": "Primosomal protein n'",
+      "metric_1": 25,
+      "metric_2": 22,
+      "metric_4": 71,
+      "metric_5": 34,
+      "metric_11": 6,
+      "metric_12": 76,
+      "metric_18": 91,
+      "metric_22": 60,
+      "metric_24": 24,
+      "metric_26": 9,
+      "metric_27": 52,
+      "metric_30": 38
     },
     {
       "gene_seqnames": "MAG06_941",
@@ -135,7 +178,20 @@
       "eggnog_X4": 229.9,
       "eggnog_X9": "bactNOG[38]",
       "eggnog_X10": "020XT@aproNOG,05T5C@bactNOG,11X9M@NOG,17FW7@proNOG",
-      "eggnog_X11": "NA|NA|NA"
+      "eggnog_X11": "NA|NA|NA",
+      "metric_2": 11,
+      "metric_4": 57,
+      "metric_5": 73,
+      "metric_7": 67,
+      "metric_8": 96,
+      "metric_9": 98,
+      "metric_14": 84,
+      "metric_19": 90,
+      "metric_21": 69,
+      "metric_23": 3,
+      "metric_27": 27,
+      "metric_28": 47,
+      "metric_30": 63
     },
     {
       "gene_seqnames": "MAG06_941",
@@ -171,7 +227,22 @@
       "eggnog_X10": "01VV7@aproNOG,05E3N@bactNOG,16WBC@proNOG,COG0712@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "C",
-      "eggnog_X13": "F(1)F(0) ATP synthase produces ATP from ADP in the presence of a proton or sodium gradient. F-type ATPases consist of two structural domains, F(1) containing the extramembraneous catalytic core and F(0) containing the membrane proton channel, linked together by a central stalk and a peripheral stalk. During catalysis, ATP synthesis in the catalytic domain of F(1) is coupled via a rotary mechanism of the central stalk subunits to proton translocation (By similarity)"
+      "eggnog_X13": "F(1)F(0) ATP synthase produces ATP from ADP in the presence of a proton or sodium gradient. F-type ATPases consist of two structural domains, F(1) containing the extramembraneous catalytic core and F(0) containing the membrane proton channel, linked together by a central stalk and a peripheral stalk. During catalysis, ATP synthesis in the catalytic domain of F(1) is coupled via a rotary mechanism of the central stalk subunits to proton translocation (By similarity)",
+      "metric_1": 77,
+      "metric_2": 83,
+      "metric_3": 97,
+      "metric_6": 46,
+      "metric_7": 3,
+      "metric_8": 36,
+      "metric_12": 33,
+      "metric_13": 20,
+      "metric_15": 91,
+      "metric_16": 68,
+      "metric_20": 99,
+      "metric_21": 7,
+      "metric_24": 48,
+      "metric_28": 24,
+      "metric_30": 24
     },
     {
       "gene_seqnames": "MAG06_941",
@@ -207,13 +278,31 @@
       "eggnog_X10": "01RDP@aproNOG,05CDG@bactNOG,16RGH@proNOG,COG0056@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "C",
-      "eggnog_X13": "Produces ATP from ADP in the presence of a proton gradient across the membrane. The alpha chain is a regulatory subunit (By similarity)"
+      "eggnog_X13": "Produces ATP from ADP in the presence of a proton gradient across the membrane. The alpha chain is a regulatory subunit (By similarity)",
+      "metric_1": 61,
+      "metric_3": 11,
+      "metric_8": 53,
+      "metric_9": 99,
+      "metric_10": 34,
+      "metric_11": 92,
+      "metric_12": 24,
+      "metric_13": 91,
+      "metric_14": 53,
+      "metric_15": 93,
+      "metric_16": 16,
+      "metric_24": 61,
+      "metric_25": 83,
+      "metric_26": 15,
+      "metric_27": 99,
+      "metric_28": 1,
+      "metric_29": 9
     }
   ],
   "diamond_track": [
     {
       "seqnames": "MAG06_941",
       "gene_ID": "MAG06_941_1",
+      "gene_strand": "+",
       "eggnog_pos_X2": "388399.SSE37_24139",
       "eggnog_pos_X3": 22.1,
       "eggnog_pos_X4": 417,
@@ -231,6 +320,7 @@
     {
       "seqnames": "MAG06_941",
       "gene_ID": "MAG06_941_2",
+      "gene_strand": "-",
       "eggnog_pos_X2": "266834.SMc02495",
       "eggnog_pos_X3": 100,
       "eggnog_pos_X4": 217,
@@ -248,6 +338,7 @@
     {
       "seqnames": "MAG06_941",
       "gene_ID": "MAG06_941_2",
+      "gene_strand": "-",
       "eggnog_pos_X2": "366394.Smed_2928",
       "eggnog_pos_X3": 98.6,
       "eggnog_pos_X4": 217,
@@ -265,6 +356,7 @@
     {
       "seqnames": "MAG06_941",
       "gene_ID": "MAG06_941_2",
+      "gene_strand": "-",
       "eggnog_pos_X2": "394.NGR_c31170",
       "eggnog_pos_X3": 96.8,
       "eggnog_pos_X4": 216,
@@ -282,6 +374,7 @@
     {
       "seqnames": "MAG06_941",
       "gene_ID": "MAG06_941_3",
+      "gene_strand": "+",
       "eggnog_pos_X2": "266834.SMc02496",
       "eggnog_pos_X3": 100,
       "eggnog_pos_X4": 734,
@@ -299,6 +392,7 @@
     {
       "seqnames": "MAG06_941",
       "gene_ID": "MAG06_941_3",
+      "gene_strand": "+",
       "eggnog_pos_X2": "366394.Smed_2927",
       "eggnog_pos_X3": 96.2,
       "eggnog_pos_X4": 734,
@@ -316,6 +410,7 @@
     {
       "seqnames": "MAG06_941",
       "gene_ID": "MAG06_941_4",
+      "gene_strand": "+",
       "eggnog_pos_X2": "366394.Smed_2926",
       "eggnog_pos_X3": 98.4,
       "eggnog_pos_X4": 128,
@@ -333,6 +428,7 @@
     {
       "seqnames": "MAG06_941",
       "gene_ID": "MAG06_941_5",
+      "gene_strand": "+",
       "eggnog_pos_X2": "266834.SMc02498",
       "eggnog_pos_X3": 100,
       "eggnog_pos_X4": 188,
@@ -350,6 +446,7 @@
     {
       "seqnames": "MAG06_941",
       "gene_ID": "MAG06_941_6",
+      "gene_strand": "+",
       "eggnog_pos_X2": "314231.FP2506_12374",
       "eggnog_pos_X3": 84.4,
       "eggnog_pos_X4": 372,
@@ -367,6 +464,7 @@
     {
       "seqnames": "MAG06_941",
       "gene_ID": "MAG06_941_6",
+      "gene_strand": "+",
       "eggnog_pos_X2": "639283.Snov_3485",
       "eggnog_pos_X3": 86.6,
       "eggnog_pos_X4": 372,
@@ -384,6 +482,7 @@
     {
       "seqnames": "MAG06_941",
       "gene_ID": "MAG06_941_6",
+      "gene_strand": "+",
       "eggnog_pos_X2": "395963.Bind_0220",
       "eggnog_pos_X3": 84.1,
       "eggnog_pos_X4": 372,
@@ -401,6 +500,7 @@
     {
       "seqnames": "MAG06_941",
       "gene_ID": "MAG06_941_6",
+      "gene_strand": "+",
       "eggnog_pos_X2": "402881.Plav_1463",
       "eggnog_pos_X3": 82.8,
       "eggnog_pos_X4": 372,

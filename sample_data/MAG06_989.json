@@ -36,7 +36,23 @@
       "eggnog_X10": "01TCU@aproNOG,08M1S@bactNOG,0XRDJ@NOG,16SDG@proNOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "S",
-      "eggnog_X13": "Sugar ABC transporter"
+      "eggnog_X13": "Sugar ABC transporter",
+      "metric_1": 33,
+      "metric_2": 10,
+      "metric_5": 28,
+      "metric_6": 49,
+      "metric_7": 79,
+      "metric_8": 65,
+      "metric_9": 83,
+      "metric_11": 99,
+      "metric_13": 39,
+      "metric_17": 30,
+      "metric_18": 75,
+      "metric_20": 58,
+      "metric_23": 55,
+      "metric_24": 51,
+      "metric_25": 84,
+      "metric_29": 46
     },
     {
       "gene_seqnames": "MAG06_989",
@@ -70,13 +86,23 @@
       "eggnog_X10": "01VU5@aproNOG,06NV4@bactNOG,0XSU0@NOG,16TIF@proNOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "S",
-      "eggnog_X13": "monosaccharide-transporting ATPase"
+      "eggnog_X13": "monosaccharide-transporting ATPase",
+      "metric_1": 56,
+      "metric_3": 74,
+      "metric_5": 56,
+      "metric_10": 59,
+      "metric_12": 26,
+      "metric_13": 86,
+      "metric_19": 54,
+      "metric_23": 29,
+      "metric_25": 79
     }
   ],
   "diamond_track": [
     {
       "seqnames": "MAG06_989",
       "gene_ID": "MAG06_989_1",
+      "gene_strand": "-",
       "eggnog_pos_X2": "176299.Atu4747",
       "eggnog_pos_X3": 63.8,
       "eggnog_pos_X4": 235,
@@ -94,6 +120,7 @@
     {
       "seqnames": "MAG06_989",
       "gene_ID": "MAG06_989_2",
+      "gene_strand": "-",
       "eggnog_pos_X2": "176299.Atu4746",
       "eggnog_pos_X3": 78.9,
       "eggnog_pos_X4": 279,

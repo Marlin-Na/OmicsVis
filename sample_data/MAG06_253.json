@@ -37,7 +37,22 @@
       "eggnog_X10": "01R5Z@aproNOG,05KVC@bactNOG,1760R@proNOG,COG4963@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "U",
-      "eggnog_X13": "Pilus assembly protein"
+      "eggnog_X13": "Pilus assembly protein",
+      "metric_2": 12,
+      "metric_8": 28,
+      "metric_9": 32,
+      "metric_14": 31,
+      "metric_15": 28,
+      "metric_16": 72,
+      "metric_17": 69,
+      "metric_19": 86,
+      "metric_20": 56,
+      "metric_21": 88,
+      "metric_25": 16,
+      "metric_26": 86,
+      "metric_27": 91,
+      "metric_28": 9,
+      "metric_30": 69
     },
     {
       "gene_seqnames": "MAG06_253",
@@ -72,7 +87,18 @@
       "eggnog_X10": "01XCI@aproNOG,08X5W@bactNOG,17BJX@proNOG,COG5461@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "N",
-      "eggnog_X13": "Pilus Caulobacter type biogenesis lipoprotein CpaD"
+      "eggnog_X13": "Pilus Caulobacter type biogenesis lipoprotein CpaD",
+      "metric_3": 90,
+      "metric_4": 49,
+      "metric_6": 84,
+      "metric_7": 26,
+      "metric_9": 87,
+      "metric_10": 27,
+      "metric_13": 92,
+      "metric_16": 48,
+      "metric_20": 89,
+      "metric_22": 11,
+      "metric_27": 74
     },
     {
       "gene_seqnames": "MAG06_253",
@@ -107,13 +133,26 @@
       "eggnog_X10": "01QZJ@aproNOG,07S4V@bactNOG,16VB3@proNOG,COG4964@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "U",
-      "eggnog_X13": "Type II and III secretion system protein"
+      "eggnog_X13": "Type II and III secretion system protein",
+      "metric_3": 71,
+      "metric_5": 43,
+      "metric_7": 50,
+      "metric_8": 98,
+      "metric_11": 7,
+      "metric_18": 56,
+      "metric_19": 30,
+      "metric_22": 61,
+      "metric_25": 40,
+      "metric_27": 19,
+      "metric_28": 18,
+      "metric_30": 19
     }
   ],
   "diamond_track": [
     {
       "seqnames": "MAG06_253",
       "gene_ID": "MAG06_253_1",
+      "gene_strand": "-",
       "eggnog_pos_X2": "266834.SMc04109",
       "eggnog_pos_X3": 99.1,
       "eggnog_pos_X4": 323,
@@ -131,6 +170,7 @@
     {
       "seqnames": "MAG06_253",
       "gene_ID": "MAG06_253_2",
+      "gene_strand": "-",
       "eggnog_pos_X2": "266834.SMc04110",
       "eggnog_pos_X3": 99.1,
       "eggnog_pos_X4": 226,
@@ -148,6 +188,7 @@
     {
       "seqnames": "MAG06_253",
       "gene_ID": "MAG06_253_3",
+      "gene_strand": "-",
       "eggnog_pos_X2": "266834.SMc04111",
       "eggnog_pos_X3": 99.4,
       "eggnog_pos_X4": 474,
@@ -165,6 +206,7 @@
     {
       "seqnames": "MAG06_253",
       "gene_ID": "MAG06_253_3",
+      "gene_strand": "-",
       "eggnog_pos_X2": "366394.Smed_3352",
       "eggnog_pos_X3": 96.6,
       "eggnog_pos_X4": 474,

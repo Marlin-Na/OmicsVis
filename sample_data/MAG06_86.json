@@ -26,7 +26,20 @@
       "gene_sscore": "3.22",
       "gene_rscore": "0.00",
       "gene_uscore": "0.00",
-      "gene_tscore": "3.22"
+      "gene_tscore": "3.22",
+      "metric_2": 78,
+      "metric_5": 30,
+      "metric_9": 57,
+      "metric_17": 9,
+      "metric_20": 19,
+      "metric_22": 18,
+      "metric_23": 27,
+      "metric_24": 40,
+      "metric_26": 98,
+      "metric_27": 36,
+      "metric_28": 93,
+      "metric_29": 17,
+      "metric_30": 22
     },
     {
       "gene_seqnames": "MAG06_86",
@@ -61,17 +74,32 @@
       "eggnog_X10": "01SDE@aproNOG,05FDJ@bactNOG,16T06@proNOG,COG1052@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "C",
-      "eggnog_X13": "d-isomer specific 2-hydroxyacid dehydrogenase nad-binding"
+      "eggnog_X13": "d-isomer specific 2-hydroxyacid dehydrogenase nad-binding",
+      "metric_1": 85,
+      "metric_2": 72,
+      "metric_4": 73,
+      "metric_5": 47,
+      "metric_6": 72,
+      "metric_9": 48,
+      "metric_11": 91,
+      "metric_12": 59,
+      "metric_14": 53,
+      "metric_19": 56,
+      "metric_20": 67,
+      "metric_21": 96,
+      "metric_22": 20,
+      "metric_23": 70,
+      "metric_24": 46,
+      "metric_26": 2,
+      "metric_27": 40,
+      "metric_28": 2
     }
   ],
   "diamond_track": [
     {
       "seqnames": "MAG06_86",
-      "gene_ID": "MAG06_86_1"
-    },
-    {
-      "seqnames": "MAG06_86",
       "gene_ID": "MAG06_86_2",
+      "gene_strand": "+",
       "eggnog_pos_X2": "1117943.SFHH103_01177",
       "eggnog_pos_X3": 90.2,
       "eggnog_pos_X4": 399,

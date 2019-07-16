@@ -36,7 +36,16 @@
       "eggnog_X10": "02BAZ@aproNOG,07Y63@bactNOG,16RCG@proNOG,COG0668@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "M",
-      "eggnog_X13": "mscS Mechanosensitive ion channel"
+      "eggnog_X13": "mscS Mechanosensitive ion channel",
+      "metric_2": 30,
+      "metric_3": 76,
+      "metric_9": 9,
+      "metric_14": 25,
+      "metric_17": 76,
+      "metric_18": 79,
+      "metric_22": 8,
+      "metric_25": 76,
+      "metric_26": 37
     },
     {
       "gene_seqnames": "MAG06_962",
@@ -68,7 +77,20 @@
       "eggnog_X10": "01Z22@aproNOG,05G9S@bactNOG,17BMB@proNOG,COG1917@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "S",
-      "eggnog_X13": "Cupin 2, conserved barrel domain protein"
+      "eggnog_X13": "Cupin 2, conserved barrel domain protein",
+      "metric_1": 75,
+      "metric_3": 62,
+      "metric_5": 34,
+      "metric_6": 16,
+      "metric_7": 39,
+      "metric_8": 94,
+      "metric_11": 89,
+      "metric_14": 3,
+      "metric_15": 73,
+      "metric_16": 79,
+      "metric_17": 83,
+      "metric_24": 44,
+      "metric_29": 63
     },
     {
       "gene_seqnames": "MAG06_962",
@@ -100,7 +122,23 @@
       "eggnog_X10": "01SXB@aproNOG,05TDR@bactNOG,0XQ4I@NOG,16TAT@proNOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "S",
-      "eggnog_X13": "NmrA-like family"
+      "eggnog_X13": "NmrA-like family",
+      "metric_3": 19,
+      "metric_4": 68,
+      "metric_6": 38,
+      "metric_9": 66,
+      "metric_10": 15,
+      "metric_11": 22,
+      "metric_14": 92,
+      "metric_16": 51,
+      "metric_18": 58,
+      "metric_19": 43,
+      "metric_20": 52,
+      "metric_21": 96,
+      "metric_22": 92,
+      "metric_23": 39,
+      "metric_24": 87,
+      "metric_29": 13
     },
     {
       "gene_seqnames": "MAG06_962",
@@ -133,13 +171,31 @@
       "eggnog_X10": "01QJH@aproNOG,07RC5@bactNOG,16QPU@proNOG,COG0491@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "S",
-      "eggnog_X13": "Beta-lactamase"
+      "eggnog_X13": "Beta-lactamase",
+      "metric_2": 28,
+      "metric_7": 8,
+      "metric_8": 61,
+      "metric_9": 59,
+      "metric_10": 92,
+      "metric_11": 45,
+      "metric_12": 13,
+      "metric_16": 60,
+      "metric_17": 33,
+      "metric_20": 14,
+      "metric_22": 65,
+      "metric_23": 10,
+      "metric_24": 51,
+      "metric_25": 60,
+      "metric_26": 64,
+      "metric_28": 55,
+      "metric_30": 68
     }
   ],
   "diamond_track": [
     {
       "seqnames": "MAG06_962",
       "gene_ID": "MAG06_962_1",
+      "gene_strand": "-",
       "eggnog_pos_X2": "639283.Snov_0550",
       "eggnog_pos_X3": 67.6,
       "eggnog_pos_X4": 74,
@@ -157,6 +213,7 @@
     {
       "seqnames": "MAG06_962",
       "gene_ID": "MAG06_962_1",
+      "gene_strand": "-",
       "eggnog_pos_X2": "395963.Bind_2790",
       "eggnog_pos_X3": 66.2,
       "eggnog_pos_X4": 74,
@@ -174,6 +231,7 @@
     {
       "seqnames": "MAG06_962",
       "gene_ID": "MAG06_962_2",
+      "gene_strand": "-",
       "eggnog_pos_X2": "395963.Bind_2789",
       "eggnog_pos_X3": 79.4,
       "eggnog_pos_X4": 141,
@@ -191,6 +249,7 @@
     {
       "seqnames": "MAG06_962",
       "gene_ID": "MAG06_962_3",
+      "gene_strand": "-",
       "eggnog_pos_X2": "347834.RHE_CH02774",
       "eggnog_pos_X3": 70.2,
       "eggnog_pos_X4": 245,
@@ -208,6 +267,7 @@
     {
       "seqnames": "MAG06_962",
       "gene_ID": "MAG06_962_3",
+      "gene_strand": "-",
       "eggnog_pos_X2": "216596.RL3227",
       "eggnog_pos_X3": 68.6,
       "eggnog_pos_X4": 245,
@@ -225,6 +285,7 @@
     {
       "seqnames": "MAG06_962",
       "gene_ID": "MAG06_962_3",
+      "gene_strand": "-",
       "eggnog_pos_X2": "395492.Rleg2_2517",
       "eggnog_pos_X3": 69,
       "eggnog_pos_X4": 245,
@@ -242,6 +303,7 @@
     {
       "seqnames": "MAG06_962",
       "gene_ID": "MAG06_962_4",
+      "gene_strand": "-",
       "eggnog_pos_X2": "176299.Atu4307",
       "eggnog_pos_X3": 86.5,
       "eggnog_pos_X4": 178,
@@ -259,6 +321,7 @@
     {
       "seqnames": "MAG06_962",
       "gene_ID": "MAG06_962_4",
+      "gene_strand": "-",
       "eggnog_pos_X2": "639283.Snov_0551",
       "eggnog_pos_X3": 83.1,
       "eggnog_pos_X4": 178,

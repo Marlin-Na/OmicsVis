@@ -35,7 +35,22 @@
       "eggnog_X10": "01SYC@aproNOG,05ECQ@bactNOG,16SF9@proNOG,COG4977@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "K",
-      "eggnog_X13": "Transcriptional regulator, ARAC family"
+      "eggnog_X13": "Transcriptional regulator, ARAC family",
+      "metric_1": 43,
+      "metric_3": 17,
+      "metric_5": 73,
+      "metric_6": 26,
+      "metric_8": 32,
+      "metric_10": 89,
+      "metric_13": 91,
+      "metric_16": 51,
+      "metric_19": 86,
+      "metric_21": 29,
+      "metric_23": 38,
+      "metric_24": 98,
+      "metric_26": 94,
+      "metric_27": 49,
+      "metric_29": 43
     },
     {
       "gene_seqnames": "MAG06_716",
@@ -69,13 +84,28 @@
       "eggnog_X10": "01RUN@aproNOG,07SJM@bactNOG,0XP44@NOG,16Q1K@proNOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "S",
-      "eggnog_X13": "Alpha beta hydrolase"
+      "eggnog_X13": "Alpha beta hydrolase",
+      "metric_1": 79,
+      "metric_5": 64,
+      "metric_8": 44,
+      "metric_9": 96,
+      "metric_14": 11,
+      "metric_15": 47,
+      "metric_16": 23,
+      "metric_18": 56,
+      "metric_19": 82,
+      "metric_22": 14,
+      "metric_23": 47,
+      "metric_27": 97,
+      "metric_28": 55,
+      "metric_29": 31
     }
   ],
   "diamond_track": [
     {
       "seqnames": "MAG06_716",
       "gene_ID": "MAG06_716_1",
+      "gene_strand": "-",
       "eggnog_pos_X2": "1050720.Agau_L300198",
       "eggnog_pos_X3": 75,
       "eggnog_pos_X4": 280,
@@ -93,6 +123,7 @@
     {
       "seqnames": "MAG06_716",
       "gene_ID": "MAG06_716_1",
+      "gene_strand": "-",
       "eggnog_pos_X2": "861208.AGROH133_11582",
       "eggnog_pos_X3": 73.9,
       "eggnog_pos_X4": 280,
@@ -110,6 +141,7 @@
     {
       "seqnames": "MAG06_716",
       "gene_ID": "MAG06_716_1",
+      "gene_strand": "-",
       "eggnog_pos_X2": "176299.Atu3462",
       "eggnog_pos_X3": 73.9,
       "eggnog_pos_X4": 280,
@@ -127,6 +159,7 @@
     {
       "seqnames": "MAG06_716",
       "gene_ID": "MAG06_716_2",
+      "gene_strand": "+",
       "eggnog_pos_X2": "1050720.Agau_L300196",
       "eggnog_pos_X3": 82,
       "eggnog_pos_X4": 217,
@@ -144,6 +177,7 @@
     {
       "seqnames": "MAG06_716",
       "gene_ID": "MAG06_716_2",
+      "gene_strand": "+",
       "eggnog_pos_X2": "861208.AGROH133_11583",
       "eggnog_pos_X3": 81.6,
       "eggnog_pos_X4": 217,
@@ -161,6 +195,7 @@
     {
       "seqnames": "MAG06_716",
       "gene_ID": "MAG06_716_2",
+      "gene_strand": "+",
       "eggnog_pos_X2": "176299.Atu3463",
       "eggnog_pos_X3": 81.1,
       "eggnog_pos_X4": 217,

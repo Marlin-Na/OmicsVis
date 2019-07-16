@@ -35,7 +35,18 @@
       "eggnog_X10": "07TF1@bactNOG,16TRC@proNOG,COG0010@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "E",
-      "eggnog_X13": "arginase"
+      "eggnog_X13": "arginase",
+      "metric_1": 64,
+      "metric_2": 67,
+      "metric_5": 53,
+      "metric_7": 71,
+      "metric_12": 56,
+      "metric_14": 87,
+      "metric_16": 57,
+      "metric_19": 59,
+      "metric_20": 56,
+      "metric_24": 14,
+      "metric_30": 44
     },
     {
       "gene_seqnames": "MAG06_1020",
@@ -67,7 +78,21 @@
       "eggnog_X10": "090MG@bactNOG,0FNXT@cyaNOG,11K7U@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "S",
-      "eggnog_X13": "glyoxalase bleomycin resistance protein dioxygenase"
+      "eggnog_X13": "glyoxalase bleomycin resistance protein dioxygenase",
+      "metric_1": 24,
+      "metric_2": 52,
+      "metric_6": 68,
+      "metric_7": 28,
+      "metric_10": 82,
+      "metric_12": 85,
+      "metric_13": 26,
+      "metric_19": 13,
+      "metric_20": 51,
+      "metric_23": 47,
+      "metric_26": 97,
+      "metric_27": 77,
+      "metric_28": 88,
+      "metric_30": 36
     },
     {
       "gene_seqnames": "MAG06_1020",
@@ -101,7 +126,20 @@
       "eggnog_X10": "05MYQ@bactNOG,17CJR@proNOG,COG0454@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "K",
-      "eggnog_X13": "Acetyltransferase (GNAT) family"
+      "eggnog_X13": "Acetyltransferase (GNAT) family",
+      "metric_1": 31,
+      "metric_3": 85,
+      "metric_7": 47,
+      "metric_8": 93,
+      "metric_13": 67,
+      "metric_16": 16,
+      "metric_17": 85,
+      "metric_18": 37,
+      "metric_19": 31,
+      "metric_21": 14,
+      "metric_25": 7,
+      "metric_27": 21,
+      "metric_30": 37
     },
     {
       "gene_seqnames": "MAG06_1020",
@@ -135,13 +173,28 @@
       "eggnog_X10": "0810E@bactNOG,10VPY@NOG,16ZCE@proNOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "K",
-      "eggnog_X13": "transcriptional regulator, lysr family"
+      "eggnog_X13": "transcriptional regulator, lysr family",
+      "metric_3": 42,
+      "metric_4": 65,
+      "metric_5": 16,
+      "metric_6": 78,
+      "metric_9": 68,
+      "metric_10": 47,
+      "metric_12": 14,
+      "metric_14": 43,
+      "metric_16": 11,
+      "metric_20": 37,
+      "metric_22": 92,
+      "metric_25": 28,
+      "metric_26": 22,
+      "metric_28": 58
     }
   ],
   "diamond_track": [
     {
       "seqnames": "MAG06_1020",
       "gene_ID": "MAG06_1020_1",
+      "gene_strand": "-",
       "eggnog_pos_X2": "762376.AXYL_05520",
       "eggnog_pos_X3": 82.6,
       "eggnog_pos_X4": 298,
@@ -159,6 +212,7 @@
     {
       "seqnames": "MAG06_1020",
       "gene_ID": "MAG06_1020_2",
+      "gene_strand": "-",
       "eggnog_pos_X2": "63737.Npun_R2323",
       "eggnog_pos_X3": 55.5,
       "eggnog_pos_X4": 119,
@@ -176,6 +230,7 @@
     {
       "seqnames": "MAG06_1020",
       "gene_ID": "MAG06_1020_3",
+      "gene_strand": "+",
       "eggnog_pos_X2": "365046.Rta_29530",
       "eggnog_pos_X3": 57.7,
       "eggnog_pos_X4": 189,
@@ -193,6 +248,7 @@
     {
       "seqnames": "MAG06_1020",
       "gene_ID": "MAG06_1020_4",
+      "gene_strand": "-",
       "eggnog_pos_X2": "208964.PA1184",
       "eggnog_pos_X3": 68.7,
       "eggnog_pos_X4": 131,

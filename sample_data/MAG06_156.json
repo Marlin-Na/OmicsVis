@@ -34,7 +34,22 @@
       "eggnog_X10": "02EDI@aproNOG,08J8B@bactNOG,1736N@proNOG,COG3409@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "M",
-      "eggnog_X13": "ErfK, YbiS"
+      "eggnog_X13": "ErfK, YbiS",
+      "metric_3": 91,
+      "metric_7": 30,
+      "metric_10": 43,
+      "metric_13": 22,
+      "metric_15": 76,
+      "metric_16": 93,
+      "metric_17": 23,
+      "metric_18": 88,
+      "metric_19": 97,
+      "metric_21": 41,
+      "metric_24": 62,
+      "metric_25": 74,
+      "metric_26": 71,
+      "metric_28": 36,
+      "metric_30": 86
     },
     {
       "gene_seqnames": "MAG06_156",
@@ -69,7 +84,24 @@
       "eggnog_X10": "01QXR@aproNOG,08KZT@bactNOG,173UF@proNOG,COG0665@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "E",
-      "eggnog_X13": "fad dependent oxidoreductase"
+      "eggnog_X13": "fad dependent oxidoreductase",
+      "metric_1": 56,
+      "metric_3": 18,
+      "metric_5": 50,
+      "metric_6": 8,
+      "metric_7": 66,
+      "metric_8": 75,
+      "metric_9": 14,
+      "metric_12": 9,
+      "metric_13": 14,
+      "metric_14": 88,
+      "metric_15": 20,
+      "metric_16": 85,
+      "metric_18": 33,
+      "metric_19": 82,
+      "metric_22": 16,
+      "metric_29": 63,
+      "metric_30": 80
     },
     {
       "gene_seqnames": "MAG06_156",
@@ -103,7 +135,17 @@
       "eggnog_X10": "01V55@aproNOG,08QYD@bactNOG,176S8@proNOG,COG1192@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "D",
-      "eggnog_X13": "Chromosome Partitioning Protein"
+      "eggnog_X13": "Chromosome Partitioning Protein",
+      "metric_3": 11,
+      "metric_9": 21,
+      "metric_16": 73,
+      "metric_17": 62,
+      "metric_18": 39,
+      "metric_19": 75,
+      "metric_23": 26,
+      "metric_24": 3,
+      "metric_26": 59,
+      "metric_27": 71
     },
     {
       "gene_seqnames": "MAG06_156",
@@ -137,13 +179,29 @@
       "eggnog_X10": "01QZ6@aproNOG,05C0A@bactNOG,16RMM@proNOG,COG1454@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "C",
-      "eggnog_X13": "alcohol dehydrogenase"
+      "eggnog_X13": "alcohol dehydrogenase",
+      "metric_2": 93,
+      "metric_3": 60,
+      "metric_4": 70,
+      "metric_6": 59,
+      "metric_7": 50,
+      "metric_9": 89,
+      "metric_12": 42,
+      "metric_16": 26,
+      "metric_18": 19,
+      "metric_20": 98,
+      "metric_22": 24,
+      "metric_23": 43,
+      "metric_25": 20,
+      "metric_26": 57,
+      "metric_29": 13
     }
   ],
   "diamond_track": [
     {
       "seqnames": "MAG06_156",
       "gene_ID": "MAG06_156_1",
+      "gene_strand": "+",
       "eggnog_pos_X2": "266834.SMc01575",
       "eggnog_pos_X3": 97.9,
       "eggnog_pos_X4": 241,
@@ -161,6 +219,7 @@
     {
       "seqnames": "MAG06_156",
       "gene_ID": "MAG06_156_2",
+      "gene_strand": "+",
       "eggnog_pos_X2": "266834.SMc01576",
       "eggnog_pos_X3": 99.5,
       "eggnog_pos_X4": 429,
@@ -178,6 +237,7 @@
     {
       "seqnames": "MAG06_156",
       "gene_ID": "MAG06_156_3",
+      "gene_strand": "-",
       "eggnog_pos_X2": "266834.SMc01579",
       "eggnog_pos_X3": 100,
       "eggnog_pos_X4": 238,
@@ -195,6 +255,7 @@
     {
       "seqnames": "MAG06_156",
       "gene_ID": "MAG06_156_3",
+      "gene_strand": "-",
       "eggnog_pos_X2": "366394.Smed_2127",
       "eggnog_pos_X3": 99.6,
       "eggnog_pos_X4": 238,
@@ -212,6 +273,7 @@
     {
       "seqnames": "MAG06_156",
       "gene_ID": "MAG06_156_4",
+      "gene_strand": "-",
       "eggnog_pos_X2": "266834.SMc01582",
       "eggnog_pos_X3": 98.5,
       "eggnog_pos_X4": 261,
@@ -229,6 +291,7 @@
     {
       "seqnames": "MAG06_156",
       "gene_ID": "MAG06_156_4",
+      "gene_strand": "-",
       "eggnog_pos_X2": "366394.Smed_2128",
       "eggnog_pos_X3": 96.9,
       "eggnog_pos_X4": 261,

@@ -36,7 +36,16 @@
       "eggnog_X10": "01VTK@aproNOG,08TKW@bactNOG,1784Z@proNOG,COG2514@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "S",
-      "eggnog_X13": "glyoxalase bleomycin resistance protein dioxygenase"
+      "eggnog_X13": "glyoxalase bleomycin resistance protein dioxygenase",
+      "metric_1": 45,
+      "metric_2": 19,
+      "metric_4": 32,
+      "metric_10": 72,
+      "metric_16": 95,
+      "metric_19": 45,
+      "metric_20": 71,
+      "metric_22": 66,
+      "metric_29": 50
     },
     {
       "gene_seqnames": "MAG06_135",
@@ -71,7 +80,20 @@
       "eggnog_X10": "01QVW@aproNOG,05CUG@bactNOG,16QJP@proNOG,COG1770@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "E",
-      "eggnog_X13": "oligopeptidase B EC 3.4.21.83"
+      "eggnog_X13": "oligopeptidase B EC 3.4.21.83",
+      "metric_2": 64,
+      "metric_4": 34,
+      "metric_5": 66,
+      "metric_9": 30,
+      "metric_16": 15,
+      "metric_17": 1,
+      "metric_18": 85,
+      "metric_19": 24,
+      "metric_20": 28,
+      "metric_22": 65,
+      "metric_24": 50,
+      "metric_26": 8,
+      "metric_30": 39
     },
     {
       "gene_seqnames": "MAG06_135",
@@ -104,7 +126,20 @@
       "eggnog_X10": "01Y04@aproNOG,05NMB@bactNOG,17B48@proNOG,COG3797@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "S",
-      "eggnog_X13": "Protein of unknown function (DUF1697)"
+      "eggnog_X13": "Protein of unknown function (DUF1697)",
+      "metric_5": 57,
+      "metric_6": 1,
+      "metric_8": 17,
+      "metric_11": 67,
+      "metric_12": 54,
+      "metric_14": 25,
+      "metric_15": 29,
+      "metric_16": 3,
+      "metric_20": 15,
+      "metric_22": 7,
+      "metric_24": 98,
+      "metric_25": 47,
+      "metric_28": 83
     },
     {
       "gene_seqnames": "MAG06_135",
@@ -138,13 +173,29 @@
       "eggnog_X10": "01QEG@aproNOG,05CNG@bactNOG,16PRQ@proNOG,COG0397@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "S",
-      "eggnog_X13": "UPF0061 protein"
+      "eggnog_X13": "UPF0061 protein",
+      "metric_1": 91,
+      "metric_7": 62,
+      "metric_8": 88,
+      "metric_9": 84,
+      "metric_10": 70,
+      "metric_11": 53,
+      "metric_19": 60,
+      "metric_21": 80,
+      "metric_22": 12,
+      "metric_24": 64,
+      "metric_25": 15,
+      "metric_26": 7,
+      "metric_27": 81,
+      "metric_28": 30,
+      "metric_29": 18
     }
   ],
   "diamond_track": [
     {
       "seqnames": "MAG06_135",
       "gene_ID": "MAG06_135_1",
+      "gene_strand": "+",
       "eggnog_pos_X2": "266834.SMc00115",
       "eggnog_pos_X3": 100,
       "eggnog_pos_X4": 216,
@@ -162,6 +213,7 @@
     {
       "seqnames": "MAG06_135",
       "gene_ID": "MAG06_135_2",
+      "gene_strand": "+",
       "eggnog_pos_X2": "366394.Smed_0599",
       "eggnog_pos_X3": 92.7,
       "eggnog_pos_X4": 702,
@@ -179,6 +231,7 @@
     {
       "seqnames": "MAG06_135",
       "gene_ID": "MAG06_135_2",
+      "gene_strand": "+",
       "eggnog_pos_X2": "1117943.SFHH103_00681",
       "eggnog_pos_X3": 91.3,
       "eggnog_pos_X4": 702,
@@ -196,6 +249,7 @@
     {
       "seqnames": "MAG06_135",
       "gene_ID": "MAG06_135_2",
+      "gene_strand": "+",
       "eggnog_pos_X2": "394.NGR_c07420",
       "eggnog_pos_X3": 90.9,
       "eggnog_pos_X4": 701,
@@ -213,6 +267,7 @@
     {
       "seqnames": "MAG06_135",
       "gene_ID": "MAG06_135_3",
+      "gene_strand": "+",
       "eggnog_pos_X2": "366394.Smed_0598",
       "eggnog_pos_X3": 86.3,
       "eggnog_pos_X4": 175,
@@ -230,6 +285,7 @@
     {
       "seqnames": "MAG06_135",
       "gene_ID": "MAG06_135_4",
+      "gene_strand": "+",
       "eggnog_pos_X2": "366394.Smed_0596",
       "eggnog_pos_X3": 90.5,
       "eggnog_pos_X4": 338,
@@ -247,6 +303,7 @@
     {
       "seqnames": "MAG06_135",
       "gene_ID": "MAG06_135_4",
+      "gene_strand": "+",
       "eggnog_pos_X2": "394.NGR_c07390",
       "eggnog_pos_X3": 90.2,
       "eggnog_pos_X4": 338,
@@ -264,6 +321,7 @@
     {
       "seqnames": "MAG06_135",
       "gene_ID": "MAG06_135_4",
+      "gene_strand": "+",
       "eggnog_pos_X2": "1117943.SFHH103_00678",
       "eggnog_pos_X3": 89.7,
       "eggnog_pos_X4": 339,

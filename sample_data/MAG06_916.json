@@ -37,7 +37,21 @@
       "eggnog_X10": "05F92@bactNOG,0ZBMK@NOG,16SZD@proNOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "P",
-      "eggnog_X13": "Dipeptide transport system permease DppC"
+      "eggnog_X13": "Dipeptide transport system permease DppC",
+      "metric_3": 34,
+      "metric_6": 67,
+      "metric_7": 98,
+      "metric_8": 23,
+      "metric_11": 91,
+      "metric_17": 5,
+      "metric_18": 34,
+      "metric_20": 80,
+      "metric_21": 14,
+      "metric_25": 89,
+      "metric_26": 13,
+      "metric_27": 72,
+      "metric_28": 58,
+      "metric_29": 74
     },
     {
       "gene_seqnames": "MAG06_916",
@@ -70,7 +84,23 @@
       "eggnog_X10": "08JQ6@bactNOG,173F0@proNOG,COG1123@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "S",
-      "eggnog_X13": "(ABC) transporter"
+      "eggnog_X13": "(ABC) transporter",
+      "metric_2": 76,
+      "metric_3": 6,
+      "metric_5": 19,
+      "metric_6": 19,
+      "metric_7": 16,
+      "metric_9": 22,
+      "metric_10": 2,
+      "metric_13": 15,
+      "metric_15": 89,
+      "metric_16": 26,
+      "metric_18": 76,
+      "metric_20": 31,
+      "metric_22": 40,
+      "metric_26": 50,
+      "metric_28": 55,
+      "metric_30": 5
     },
     {
       "gene_seqnames": "MAG06_916",
@@ -102,13 +132,26 @@
       "eggnog_X10": "01R5C@aproNOG,05F3P@bactNOG,0XPSQ@NOG,16QW9@proNOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "S",
-      "eggnog_X13": "Integral membrane protein"
+      "eggnog_X13": "Integral membrane protein",
+      "metric_2": 61,
+      "metric_7": 16,
+      "metric_8": 37,
+      "metric_9": 2,
+      "metric_11": 4,
+      "metric_12": 71,
+      "metric_21": 75,
+      "metric_22": 11,
+      "metric_23": 81,
+      "metric_26": 61,
+      "metric_28": 68,
+      "metric_30": 57
     }
   ],
   "diamond_track": [
     {
       "seqnames": "MAG06_916",
       "gene_ID": "MAG06_916_1",
+      "gene_strand": "+",
       "eggnog_pos_X2": "340100.Bpet3873",
       "eggnog_pos_X3": 88.4,
       "eggnog_pos_X4": 69,
@@ -126,6 +169,7 @@
     {
       "seqnames": "MAG06_916",
       "gene_ID": "MAG06_916_2",
+      "gene_strand": "+",
       "eggnog_pos_X2": "340100.Bpet3872",
       "eggnog_pos_X3": 67.3,
       "eggnog_pos_X4": 539,
@@ -143,6 +187,7 @@
     {
       "seqnames": "MAG06_916",
       "gene_ID": "MAG06_916_3",
+      "gene_strand": "+",
       "eggnog_pos_X2": "412597.PaTRP_010100014298",
       "eggnog_pos_X3": 38.5,
       "eggnog_pos_X4": 273,

@@ -37,7 +37,20 @@
       "eggnog_X10": "01X32@aproNOG,08Z11@bactNOG,179U8@proNOG,COG1327@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "K",
-      "eggnog_X13": "Negatively regulates transcription of bacterial ribonucleotide reductase nrd genes and operons by binding to NrdR- boxes (By similarity)"
+      "eggnog_X13": "Negatively regulates transcription of bacterial ribonucleotide reductase nrd genes and operons by binding to NrdR- boxes (By similarity)",
+      "metric_3": 75,
+      "metric_6": 3,
+      "metric_9": 28,
+      "metric_11": 46,
+      "metric_15": 80,
+      "metric_16": 80,
+      "metric_17": 77,
+      "metric_18": 43,
+      "metric_21": 49,
+      "metric_24": 94,
+      "metric_28": 34,
+      "metric_29": 41,
+      "metric_30": 5
     },
     {
       "gene_seqnames": "MAG06_784",
@@ -73,7 +86,16 @@
       "eggnog_X10": "01QGQ@aproNOG,05D1W@bactNOG,16PRP@proNOG,COG0117@NOG,COG1985@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "H",
-      "eggnog_X13": "Converts 2,5-diamino-6-(ribosylamino)-4(3h)-pyrimidinone 5'-phosphate into 5-amino-6-(ribosylamino)-2,4(1h,3h)- pyrimidinedione 5'-phosphate (By similarity)"
+      "eggnog_X13": "Converts 2,5-diamino-6-(ribosylamino)-4(3h)-pyrimidinone 5'-phosphate into 5-amino-6-(ribosylamino)-2,4(1h,3h)- pyrimidinedione 5'-phosphate (By similarity)",
+      "metric_1": 76,
+      "metric_5": 10,
+      "metric_7": 96,
+      "metric_9": 10,
+      "metric_11": 35,
+      "metric_12": 70,
+      "metric_20": 93,
+      "metric_25": 60,
+      "metric_26": 86
     },
     {
       "gene_seqnames": "MAG06_784",
@@ -109,13 +131,28 @@
       "eggnog_X10": "01TX4@aproNOG,08R6K@bactNOG,16WN4@proNOG,COG0307@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "H",
-      "eggnog_X13": "riboflavin synthase subunit (alpha)"
+      "eggnog_X13": "riboflavin synthase subunit (alpha)",
+      "metric_1": 21,
+      "metric_2": 57,
+      "metric_7": 96,
+      "metric_9": 54,
+      "metric_10": 67,
+      "metric_13": 44,
+      "metric_16": 42,
+      "metric_18": 36,
+      "metric_19": 38,
+      "metric_21": 11,
+      "metric_24": 2,
+      "metric_25": 98,
+      "metric_27": 61,
+      "metric_29": 25
     }
   ],
   "diamond_track": [
     {
       "seqnames": "MAG06_784",
       "gene_ID": "MAG06_784_1",
+      "gene_strand": "+",
       "eggnog_pos_X2": "366394.Smed_0817",
       "eggnog_pos_X3": 100,
       "eggnog_pos_X4": 120,
@@ -133,6 +170,7 @@
     {
       "seqnames": "MAG06_784",
       "gene_ID": "MAG06_784_1",
+      "gene_strand": "+",
       "eggnog_pos_X2": "266834.SMc01771",
       "eggnog_pos_X3": 100,
       "eggnog_pos_X4": 120,
@@ -150,6 +188,7 @@
     {
       "seqnames": "MAG06_784",
       "gene_ID": "MAG06_784_1",
+      "gene_strand": "+",
       "eggnog_pos_X2": "394.NGR_c09580",
       "eggnog_pos_X3": 99.2,
       "eggnog_pos_X4": 120,
@@ -167,6 +206,7 @@
     {
       "seqnames": "MAG06_784",
       "gene_ID": "MAG06_784_1",
+      "gene_strand": "+",
       "eggnog_pos_X2": "1117943.SFHH103_00890",
       "eggnog_pos_X3": 98.3,
       "eggnog_pos_X4": 120,
@@ -184,6 +224,7 @@
     {
       "seqnames": "MAG06_784",
       "gene_ID": "MAG06_784_2",
+      "gene_strand": "+",
       "eggnog_pos_X2": "266834.SMc01772",
       "eggnog_pos_X3": 99.8,
       "eggnog_pos_X4": 401,
@@ -201,6 +242,7 @@
     {
       "seqnames": "MAG06_784",
       "gene_ID": "MAG06_784_3",
+      "gene_strand": "+",
       "eggnog_pos_X2": "266834.SMc01773",
       "eggnog_pos_X3": 99.5,
       "eggnog_pos_X4": 206,

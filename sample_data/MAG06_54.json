@@ -35,7 +35,22 @@
       "eggnog_X10": "023VV@aproNOG,07U0K@bactNOG,16XBT@proNOG,COG2220@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "S",
-      "eggnog_X13": "Lactamase_B"
+      "eggnog_X13": "Lactamase_B",
+      "metric_3": 16,
+      "metric_4": 8,
+      "metric_5": 6,
+      "metric_6": 14,
+      "metric_9": 82,
+      "metric_12": 33,
+      "metric_13": 5,
+      "metric_20": 58,
+      "metric_21": 49,
+      "metric_22": 6,
+      "metric_25": 22,
+      "metric_26": 80,
+      "metric_28": 52,
+      "metric_29": 28,
+      "metric_30": 55
     },
     {
       "gene_seqnames": "MAG06_54",
@@ -69,7 +84,19 @@
       "eggnog_X10": "02EGY@aproNOG,08JQ1@bactNOG,173ER@proNOG,COG0111@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "C",
-      "eggnog_X13": "D-isomer specific 2-hydroxyacid dehydrogenase"
+      "eggnog_X13": "D-isomer specific 2-hydroxyacid dehydrogenase",
+      "metric_3": 59,
+      "metric_7": 14,
+      "metric_11": 4,
+      "metric_15": 50,
+      "metric_16": 99,
+      "metric_18": 37,
+      "metric_19": 3,
+      "metric_21": 10,
+      "metric_23": 85,
+      "metric_24": 74,
+      "metric_27": 14,
+      "metric_28": 79
     },
     {
       "gene_seqnames": "MAG06_54",
@@ -101,7 +128,19 @@
       "eggnog_X10": "01VPR@aproNOG,05Y63@bactNOG,16RA6@proNOG,COG0169@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "E",
-      "eggnog_X13": "Inherit from COG: shikimate dehydrogenase"
+      "eggnog_X13": "Inherit from COG: shikimate dehydrogenase",
+      "metric_6": 30,
+      "metric_7": 72,
+      "metric_11": 71,
+      "metric_12": 42,
+      "metric_13": 31,
+      "metric_14": 41,
+      "metric_15": 47,
+      "metric_17": 59,
+      "metric_18": 87,
+      "metric_21": 25,
+      "metric_22": 12,
+      "metric_24": 78
     },
     {
       "gene_seqnames": "MAG06_54",
@@ -137,13 +176,27 @@
       "eggnog_X10": "08UHU@bactNOG,179N2@proNOG,COG0800@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "G",
-      "eggnog_X13": "Aldolase"
+      "eggnog_X13": "Aldolase",
+      "metric_1": 54,
+      "metric_2": 76,
+      "metric_5": 87,
+      "metric_6": 28,
+      "metric_9": 5,
+      "metric_11": 51,
+      "metric_15": 42,
+      "metric_18": 75,
+      "metric_19": 50,
+      "metric_23": 92,
+      "metric_24": 76,
+      "metric_25": 77,
+      "metric_28": 46
     }
   ],
   "diamond_track": [
     {
       "seqnames": "MAG06_54",
       "gene_ID": "MAG06_54_1",
+      "gene_strand": "-",
       "eggnog_pos_X2": "266834.SMc02332",
       "eggnog_pos_X3": 87,
       "eggnog_pos_X4": 54,
@@ -161,6 +214,7 @@
     {
       "seqnames": "MAG06_54",
       "gene_ID": "MAG06_54_2",
+      "gene_strand": "-",
       "eggnog_pos_X2": "266834.SMc02045",
       "eggnog_pos_X3": 99.4,
       "eggnog_pos_X4": 310,
@@ -178,6 +232,7 @@
     {
       "seqnames": "MAG06_54",
       "gene_ID": "MAG06_54_3",
+      "gene_strand": "-",
       "eggnog_pos_X2": "266834.SMc02044",
       "eggnog_pos_X3": 99.1,
       "eggnog_pos_X4": 317,
@@ -195,6 +250,7 @@
     {
       "seqnames": "MAG06_54",
       "gene_ID": "MAG06_54_4",
+      "gene_strand": "-",
       "eggnog_pos_X2": "266834.SMc02043",
       "eggnog_pos_X3": 84.9,
       "eggnog_pos_X4": 139,

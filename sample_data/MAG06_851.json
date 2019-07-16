@@ -35,7 +35,20 @@
       "eggnog_X10": "02DM3@aproNOG,08EIT@bactNOG,170YA@proNOG,COG0446@NOG,COG1902@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "C",
-      "eggnog_X13": "NADH flavin oxidoreductase NADH oxidase"
+      "eggnog_X13": "NADH flavin oxidoreductase NADH oxidase",
+      "metric_2": 11,
+      "metric_3": 83,
+      "metric_5": 9,
+      "metric_10": 22,
+      "metric_12": 3,
+      "metric_17": 44,
+      "metric_20": 96,
+      "metric_22": 82,
+      "metric_25": 99,
+      "metric_26": 54,
+      "metric_27": 37,
+      "metric_29": 35,
+      "metric_30": 11
     },
     {
       "gene_seqnames": "MAG06_851",
@@ -68,13 +81,31 @@
       "eggnog_X10": "07EHK@bactNOG,174KT@proNOG,COG0657@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "I",
-      "eggnog_X13": "Esterase"
+      "eggnog_X13": "Esterase",
+      "metric_1": 63,
+      "metric_2": 21,
+      "metric_4": 36,
+      "metric_5": 54,
+      "metric_8": 95,
+      "metric_9": 72,
+      "metric_11": 48,
+      "metric_12": 83,
+      "metric_13": 7,
+      "metric_15": 48,
+      "metric_16": 1,
+      "metric_18": 10,
+      "metric_20": 94,
+      "metric_24": 79,
+      "metric_27": 72,
+      "metric_28": 92,
+      "metric_30": 50
     }
   ],
   "diamond_track": [
     {
       "seqnames": "MAG06_851",
       "gene_ID": "MAG06_851_1",
+      "gene_strand": "-",
       "eggnog_pos_X2": "366394.Smed_1285",
       "eggnog_pos_X3": 96.1,
       "eggnog_pos_X4": 203,
@@ -92,6 +123,7 @@
     {
       "seqnames": "MAG06_851",
       "gene_ID": "MAG06_851_2",
+      "gene_strand": "-",
       "eggnog_pos_X2": "1007105.PT7_2721",
       "eggnog_pos_X3": 55.3,
       "eggnog_pos_X4": 215,

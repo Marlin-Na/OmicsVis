@@ -38,7 +38,25 @@
       "eggnog_X10": "01Q8W@aproNOG,05C91@bactNOG,16PIX@proNOG,COG0104@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "F",
-      "eggnog_X13": "Plays an important role in the de novo pathway of purine nucleotide biosynthesis"
+      "eggnog_X13": "Plays an important role in the de novo pathway of purine nucleotide biosynthesis",
+      "metric_1": 28,
+      "metric_3": 50,
+      "metric_4": 24,
+      "metric_6": 94,
+      "metric_7": 96,
+      "metric_9": 90,
+      "metric_11": 69,
+      "metric_13": 37,
+      "metric_16": 62,
+      "metric_17": 12,
+      "metric_18": 24,
+      "metric_21": 19,
+      "metric_22": 41,
+      "metric_23": 90,
+      "metric_24": 11,
+      "metric_25": 4,
+      "metric_28": 66,
+      "metric_30": 13
     },
     {
       "gene_seqnames": "MAG06_105",
@@ -68,13 +86,25 @@
       "eggnog_X4": 826.2,
       "eggnog_X9": "bactNOG[38]",
       "eggnog_X10": "01WFC@aproNOG,08XXV@bactNOG,11JUN@NOG,179KW@proNOG",
-      "eggnog_X11": "NA|NA|NA"
+      "eggnog_X11": "NA|NA|NA",
+      "metric_1": 82,
+      "metric_2": 93,
+      "metric_6": 90,
+      "metric_8": 87,
+      "metric_15": 16,
+      "metric_16": 50,
+      "metric_17": 62,
+      "metric_20": 33,
+      "metric_21": 40,
+      "metric_27": 71,
+      "metric_30": 67
     }
   ],
   "diamond_track": [
     {
       "seqnames": "MAG06_105",
       "gene_ID": "MAG06_105_1",
+      "gene_strand": "+",
       "eggnog_pos_X2": "411684.HPDFL43_15172",
       "eggnog_pos_X3": 85.1,
       "eggnog_pos_X4": 242,
@@ -92,6 +122,7 @@
     {
       "seqnames": "MAG06_105",
       "gene_ID": "MAG06_105_2",
+      "gene_strand": "+",
       "eggnog_pos_X2": "266834.SMc00644",
       "eggnog_pos_X3": 95.7,
       "eggnog_pos_X4": 466,

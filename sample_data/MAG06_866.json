@@ -38,7 +38,22 @@
       "eggnog_X10": "01RNF@aproNOG,05C4J@bactNOG,16PQK@proNOG,COG0055@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "C",
-      "eggnog_X13": "Produces ATP from ADP in the presence of a proton gradient across the membrane. The catalytic sites are hosted primarily by the beta subunits (By similarity)"
+      "eggnog_X13": "Produces ATP from ADP in the presence of a proton gradient across the membrane. The catalytic sites are hosted primarily by the beta subunits (By similarity)",
+      "metric_2": 94,
+      "metric_3": 84,
+      "metric_6": 16,
+      "metric_11": 3,
+      "metric_12": 5,
+      "metric_13": 74,
+      "metric_14": 14,
+      "metric_16": 37,
+      "metric_22": 46,
+      "metric_23": 91,
+      "metric_24": 94,
+      "metric_25": 61,
+      "metric_26": 34,
+      "metric_27": 49,
+      "metric_28": 97
     },
     {
       "gene_seqnames": "MAG06_866",
@@ -74,7 +89,20 @@
       "eggnog_X10": "01RK7@aproNOG,05J80@bactNOG,16RH6@proNOG,COG0224@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "C",
-      "eggnog_X13": "Produces ATP from ADP in the presence of a proton gradient across the membrane. The gamma chain is believed to be important in regulating ATPase activity and the flow of protons through the CF(0) complex (By similarity)"
+      "eggnog_X13": "Produces ATP from ADP in the presence of a proton gradient across the membrane. The gamma chain is believed to be important in regulating ATPase activity and the flow of protons through the CF(0) complex (By similarity)",
+      "metric_4": 27,
+      "metric_5": 7,
+      "metric_6": 68,
+      "metric_7": 97,
+      "metric_9": 85,
+      "metric_11": 5,
+      "metric_16": 51,
+      "metric_17": 62,
+      "metric_21": 86,
+      "metric_26": 93,
+      "metric_27": 88,
+      "metric_28": 43,
+      "metric_29": 24
     },
     {
       "gene_seqnames": "MAG06_866",
@@ -110,13 +138,30 @@
       "eggnog_X10": "01RDP@aproNOG,05CDG@bactNOG,16RGH@proNOG,COG0056@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "C",
-      "eggnog_X13": "Produces ATP from ADP in the presence of a proton gradient across the membrane. The alpha chain is a regulatory subunit (By similarity)"
+      "eggnog_X13": "Produces ATP from ADP in the presence of a proton gradient across the membrane. The alpha chain is a regulatory subunit (By similarity)",
+      "metric_2": 44,
+      "metric_3": 33,
+      "metric_5": 84,
+      "metric_7": 65,
+      "metric_10": 5,
+      "metric_11": 34,
+      "metric_12": 25,
+      "metric_14": 35,
+      "metric_17": 88,
+      "metric_18": 75,
+      "metric_19": 64,
+      "metric_22": 70,
+      "metric_24": 30,
+      "metric_25": 23,
+      "metric_27": 66,
+      "metric_28": 79
     }
   ],
   "diamond_track": [
     {
       "seqnames": "MAG06_866",
       "gene_ID": "MAG06_866_1",
+      "gene_strand": "-",
       "eggnog_pos_X2": "266834.SMc02501",
       "eggnog_pos_X3": 99.3,
       "eggnog_pos_X4": 142,
@@ -134,6 +179,7 @@
     {
       "seqnames": "MAG06_866",
       "gene_ID": "MAG06_866_2",
+      "gene_strand": "-",
       "eggnog_pos_X2": "491916.RHECIAT_CH0004152",
       "eggnog_pos_X3": 83.7,
       "eggnog_pos_X4": 294,
@@ -151,6 +197,7 @@
     {
       "seqnames": "MAG06_866",
       "gene_ID": "MAG06_866_2",
+      "gene_strand": "-",
       "eggnog_pos_X2": "347834.RHE_CH03871",
       "eggnog_pos_X3": 84,
       "eggnog_pos_X4": 294,
@@ -168,6 +215,7 @@
     {
       "seqnames": "MAG06_866",
       "gene_ID": "MAG06_866_2",
+      "gene_strand": "-",
       "eggnog_pos_X2": "395492.Rleg2_3653",
       "eggnog_pos_X3": 83,
       "eggnog_pos_X4": 294,
@@ -185,6 +233,7 @@
     {
       "seqnames": "MAG06_866",
       "gene_ID": "MAG06_866_2",
+      "gene_strand": "-",
       "eggnog_pos_X2": "216596.RL4408",
       "eggnog_pos_X3": 83,
       "eggnog_pos_X4": 294,
@@ -202,6 +251,7 @@
     {
       "seqnames": "MAG06_866",
       "gene_ID": "MAG06_866_2",
+      "gene_strand": "-",
       "eggnog_pos_X2": "311402.Avi_4107",
       "eggnog_pos_X3": 81.6,
       "eggnog_pos_X4": 294,
@@ -219,6 +269,7 @@
     {
       "seqnames": "MAG06_866",
       "gene_ID": "MAG06_866_2",
+      "gene_strand": "-",
       "eggnog_pos_X2": "765698.Mesci_1178",
       "eggnog_pos_X3": 81,
       "eggnog_pos_X4": 294,
@@ -236,6 +287,7 @@
     {
       "seqnames": "MAG06_866",
       "gene_ID": "MAG06_866_2",
+      "gene_strand": "-",
       "eggnog_pos_X2": "311403.Arad_4307",
       "eggnog_pos_X3": 81.3,
       "eggnog_pos_X4": 294,
@@ -253,6 +305,7 @@
     {
       "seqnames": "MAG06_866",
       "gene_ID": "MAG06_866_2",
+      "gene_strand": "-",
       "eggnog_pos_X2": "266835.mll4063",
       "eggnog_pos_X3": 79.6,
       "eggnog_pos_X4": 294,
@@ -270,6 +323,7 @@
     {
       "seqnames": "MAG06_866",
       "gene_ID": "MAG06_866_2",
+      "gene_strand": "-",
       "eggnog_pos_X2": "536019.Mesop_1209",
       "eggnog_pos_X3": 79.3,
       "eggnog_pos_X4": 294,
@@ -287,6 +341,7 @@
     {
       "seqnames": "MAG06_866",
       "gene_ID": "MAG06_866_3",
+      "gene_strand": "-",
       "eggnog_pos_X2": "266834.SMc02499",
       "eggnog_pos_X3": 96.4,
       "eggnog_pos_X4": 193,
@@ -304,6 +359,7 @@
     {
       "seqnames": "MAG06_866",
       "gene_ID": "MAG06_866_3",
+      "gene_strand": "-",
       "eggnog_pos_X2": "366394.Smed_2924",
       "eggnog_pos_X3": 93.8,
       "eggnog_pos_X4": 193,

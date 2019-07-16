@@ -34,7 +34,17 @@
       "eggnog_X10": "01Q6M@aproNOG,05CG6@bactNOG,16PBP@proNOG,COG1593@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "G",
-      "eggnog_X13": "Trap dicarboxylate transporter, dctm subunit"
+      "eggnog_X13": "Trap dicarboxylate transporter, dctm subunit",
+      "metric_3": 72,
+      "metric_4": 92,
+      "metric_8": 55,
+      "metric_10": 81,
+      "metric_16": 64,
+      "metric_17": 83,
+      "metric_19": 17,
+      "metric_27": 42,
+      "metric_29": 15,
+      "metric_30": 74
     },
     {
       "gene_seqnames": "MAG06_753",
@@ -66,7 +76,20 @@
       "eggnog_X10": "01UV5@aproNOG,05DR6@bactNOG,16SNC@proNOG,COG1638@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "G",
-      "eggnog_X13": "Trap dicarboxylate transporter, dctp subunit"
+      "eggnog_X13": "Trap dicarboxylate transporter, dctp subunit",
+      "metric_1": 96,
+      "metric_2": 74,
+      "metric_4": 32,
+      "metric_9": 3,
+      "metric_10": 83,
+      "metric_14": 42,
+      "metric_15": 34,
+      "metric_17": 79,
+      "metric_18": 75,
+      "metric_22": 16,
+      "metric_28": 33,
+      "metric_29": 85,
+      "metric_30": 57
     },
     {
       "gene_seqnames": "MAG06_753",
@@ -98,13 +121,29 @@
       "eggnog_X10": "01QAX@aproNOG,05DZV@bactNOG,176EP@proNOG,COG5482@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "S",
-      "eggnog_X13": "Uncharacterized conserved protein (DUF2161)"
+      "eggnog_X13": "Uncharacterized conserved protein (DUF2161)",
+      "metric_4": 49,
+      "metric_5": 40,
+      "metric_6": 78,
+      "metric_9": 77,
+      "metric_12": 42,
+      "metric_13": 70,
+      "metric_14": 77,
+      "metric_16": 58,
+      "metric_21": 94,
+      "metric_22": 77,
+      "metric_23": 12,
+      "metric_24": 88,
+      "metric_28": 65,
+      "metric_29": 7,
+      "metric_30": 71
     }
   ],
   "diamond_track": [
     {
       "seqnames": "MAG06_753",
       "gene_ID": "MAG06_753_1",
+      "gene_strand": "+",
       "eggnog_pos_X2": "641118.OINT_2000851",
       "eggnog_pos_X3": 82.6,
       "eggnog_pos_X4": 425,
@@ -122,6 +161,7 @@
     {
       "seqnames": "MAG06_753",
       "gene_ID": "MAG06_753_1",
+      "gene_strand": "+",
       "eggnog_pos_X2": "439375.Oant_3764",
       "eggnog_pos_X3": 81.2,
       "eggnog_pos_X4": 425,
@@ -139,6 +179,7 @@
     {
       "seqnames": "MAG06_753",
       "gene_ID": "MAG06_753_2",
+      "gene_strand": "+",
       "eggnog_pos_X2": "366394.Smed_2480",
       "eggnog_pos_X3": 97,
       "eggnog_pos_X4": 334,
@@ -156,6 +197,7 @@
     {
       "seqnames": "MAG06_753",
       "gene_ID": "MAG06_753_3",
+      "gene_strand": "+",
       "eggnog_pos_X2": "176299.Atu3547",
       "eggnog_pos_X3": 93.3,
       "eggnog_pos_X4": 90,

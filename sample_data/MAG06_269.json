@@ -34,7 +34,23 @@
       "eggnog_X10": "01SZ3@aproNOG,05C8F@bactNOG,16PM3@proNOG,COG0491@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "S",
-      "eggnog_X13": "metallo-beta-lactamase family"
+      "eggnog_X13": "metallo-beta-lactamase family",
+      "metric_2": 69,
+      "metric_3": 40,
+      "metric_4": 69,
+      "metric_6": 7,
+      "metric_10": 7,
+      "metric_12": 22,
+      "metric_14": 50,
+      "metric_15": 28,
+      "metric_17": 12,
+      "metric_18": 79,
+      "metric_20": 36,
+      "metric_22": 95,
+      "metric_23": 88,
+      "metric_24": 36,
+      "metric_26": 4,
+      "metric_28": 75
     },
     {
       "gene_seqnames": "MAG06_269",
@@ -67,13 +83,28 @@
       "eggnog_X10": "01TSZ@aproNOG,0642W@bactNOG,0XSPG@NOG,16TEJ@proNOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "K",
-      "eggnog_X13": "LysR family transcriptional regulator"
+      "eggnog_X13": "LysR family transcriptional regulator",
+      "metric_3": 52,
+      "metric_5": 33,
+      "metric_7": 2,
+      "metric_9": 80,
+      "metric_11": 53,
+      "metric_12": 5,
+      "metric_15": 30,
+      "metric_17": 10,
+      "metric_18": 30,
+      "metric_22": 3,
+      "metric_24": 69,
+      "metric_25": 25,
+      "metric_27": 20,
+      "metric_28": 19
     }
   ],
   "diamond_track": [
     {
       "seqnames": "MAG06_269",
       "gene_ID": "MAG06_269_1",
+      "gene_strand": "-",
       "eggnog_pos_X2": "266834.SMc02431",
       "eggnog_pos_X3": 97.5,
       "eggnog_pos_X4": 320,
@@ -91,6 +122,7 @@
     {
       "seqnames": "MAG06_269",
       "gene_ID": "MAG06_269_2",
+      "gene_strand": "+",
       "eggnog_pos_X2": "266834.SMc02429",
       "eggnog_pos_X3": 100,
       "eggnog_pos_X4": 112,

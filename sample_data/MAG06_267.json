@@ -37,7 +37,20 @@
       "eggnog_X10": "01Q9P@aproNOG,05DEA@bactNOG,16PB0@proNOG,COG0544@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "O",
-      "eggnog_X13": "Involved in protein export. Acts as a chaperone by maintaining the newly synthesized protein in an open conformation"
+      "eggnog_X13": "Involved in protein export. Acts as a chaperone by maintaining the newly synthesized protein in an open conformation",
+      "metric_2": 28,
+      "metric_10": 73,
+      "metric_11": 87,
+      "metric_13": 63,
+      "metric_17": 16,
+      "metric_18": 49,
+      "metric_19": 57,
+      "metric_20": 94,
+      "metric_21": 33,
+      "metric_23": 78,
+      "metric_24": 56,
+      "metric_27": 46,
+      "metric_29": 71
     },
     {
       "gene_seqnames": "MAG06_267",
@@ -73,13 +86,23 @@
       "eggnog_X10": "01RRK@aproNOG,05CBI@bactNOG,16QJM@proNOG,COG0403@NOG,COG1003@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "E",
-      "eggnog_X13": "The glycine cleavage system catalyzes the degradation of glycine. The P protein binds the alpha-amino group of glycine through its pyridoxal phosphate cofactor"
+      "eggnog_X13": "The glycine cleavage system catalyzes the degradation of glycine. The P protein binds the alpha-amino group of glycine through its pyridoxal phosphate cofactor",
+      "metric_2": 42,
+      "metric_5": 48,
+      "metric_11": 34,
+      "metric_14": 76,
+      "metric_16": 63,
+      "metric_17": 47,
+      "metric_24": 61,
+      "metric_26": 91,
+      "metric_27": 10
     }
   ],
   "diamond_track": [
     {
       "seqnames": "MAG06_267",
       "gene_ID": "MAG06_267_1",
+      "gene_strand": "+",
       "eggnog_pos_X2": "266834.SMc02050",
       "eggnog_pos_X3": 99.8,
       "eggnog_pos_X4": 491,
@@ -97,6 +120,7 @@
     {
       "seqnames": "MAG06_267",
       "gene_ID": "MAG06_267_2",
+      "gene_strand": "-",
       "eggnog_pos_X2": "266834.SMc02049",
       "eggnog_pos_X3": 100,
       "eggnog_pos_X4": 29,
@@ -114,6 +138,7 @@
     {
       "seqnames": "MAG06_267",
       "gene_ID": "MAG06_267_2",
+      "gene_strand": "-",
       "eggnog_pos_X2": "366394.Smed_1182",
       "eggnog_pos_X3": 100,
       "eggnog_pos_X4": 29,
@@ -131,6 +156,7 @@
     {
       "seqnames": "MAG06_267",
       "gene_ID": "MAG06_267_2",
+      "gene_strand": "-",
       "eggnog_pos_X2": "1117943.SFHH103_01441",
       "eggnog_pos_X3": 96.6,
       "eggnog_pos_X4": 29,
@@ -148,6 +174,7 @@
     {
       "seqnames": "MAG06_267",
       "gene_ID": "MAG06_267_2",
+      "gene_strand": "-",
       "eggnog_pos_X2": "216596.RL2573",
       "eggnog_pos_X3": 93.1,
       "eggnog_pos_X4": 29,
@@ -165,6 +192,7 @@
     {
       "seqnames": "MAG06_267",
       "gene_ID": "MAG06_267_2",
+      "gene_strand": "-",
       "eggnog_pos_X2": "347834.RHE_CH02243",
       "eggnog_pos_X3": 93.1,
       "eggnog_pos_X4": 29,
@@ -182,6 +210,7 @@
     {
       "seqnames": "MAG06_267",
       "gene_ID": "MAG06_267_2",
+      "gene_strand": "-",
       "eggnog_pos_X2": "491916.RHECIAT_CH0002352",
       "eggnog_pos_X3": 93.1,
       "eggnog_pos_X4": 29,
@@ -199,6 +228,7 @@
     {
       "seqnames": "MAG06_267",
       "gene_ID": "MAG06_267_2",
+      "gene_strand": "-",
       "eggnog_pos_X2": "395492.Rleg2_1891",
       "eggnog_pos_X3": 93.1,
       "eggnog_pos_X4": 29,

@@ -38,7 +38,23 @@
       "eggnog_X10": "01QNC@aproNOG,05C6V@bactNOG,16PPF@proNOG,COG0578@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "C",
-      "eggnog_X13": "Glycerol-3-phosphate dehydrogenase"
+      "eggnog_X13": "Glycerol-3-phosphate dehydrogenase",
+      "metric_2": 94,
+      "metric_3": 36,
+      "metric_6": 1,
+      "metric_10": 22,
+      "metric_14": 84,
+      "metric_16": 76,
+      "metric_17": 14,
+      "metric_18": 60,
+      "metric_19": 6,
+      "metric_20": 46,
+      "metric_23": 47,
+      "metric_24": 66,
+      "metric_26": 83,
+      "metric_27": 22,
+      "metric_28": 46,
+      "metric_30": 23
     },
     {
       "gene_seqnames": "MAG06_557",
@@ -62,13 +78,28 @@
       "gene_sscore": "10.30",
       "gene_rscore": "7.63",
       "gene_uscore": "-0.97",
-      "gene_tscore": "3.65"
+      "gene_tscore": "3.65",
+      "metric_2": 94,
+      "metric_4": 17,
+      "metric_5": 46,
+      "metric_7": 80,
+      "metric_11": 45,
+      "metric_12": 13,
+      "metric_15": 46,
+      "metric_17": 15,
+      "metric_21": 34,
+      "metric_22": 33,
+      "metric_26": 39,
+      "metric_27": 84,
+      "metric_29": 59,
+      "metric_30": 93
     }
   ],
   "diamond_track": [
     {
       "seqnames": "MAG06_557",
       "gene_ID": "MAG06_557_1",
+      "gene_strand": "-",
       "eggnog_pos_X2": "366394.Smed_2903",
       "eggnog_pos_X3": 89.9,
       "eggnog_pos_X4": 503,
@@ -86,6 +117,7 @@
     {
       "seqnames": "MAG06_557",
       "gene_ID": "MAG06_557_1",
+      "gene_strand": "-",
       "eggnog_pos_X2": "394.NGR_c30940",
       "eggnog_pos_X3": 87.7,
       "eggnog_pos_X4": 505,
@@ -103,6 +135,7 @@
     {
       "seqnames": "MAG06_557",
       "gene_ID": "MAG06_557_1",
+      "gene_strand": "-",
       "eggnog_pos_X2": "1117943.SFHH103_03122",
       "eggnog_pos_X3": 87.1,
       "eggnog_pos_X4": 505,
@@ -116,10 +149,6 @@
       "eggnog_pos_X12": 895.2,
       "eggnog_pos_start": 84,
       "eggnog_pos_end": 1590
-    },
-    {
-      "seqnames": "MAG06_557",
-      "gene_ID": "MAG06_557_2"
     }
   ]
 }

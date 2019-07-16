@@ -36,7 +36,19 @@
       "eggnog_X10": "01R2R@aproNOG,07F83@bactNOG,16RBR@proNOG,COG0389@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "L",
-      "eggnog_X13": "nucleotidyltransferase DNA polymerase involved in DNA"
+      "eggnog_X13": "nucleotidyltransferase DNA polymerase involved in DNA",
+      "metric_2": 38,
+      "metric_4": 82,
+      "metric_7": 41,
+      "metric_9": 17,
+      "metric_10": 77,
+      "metric_16": 7,
+      "metric_19": 71,
+      "metric_21": 30,
+      "metric_24": 32,
+      "metric_25": 71,
+      "metric_27": 84,
+      "metric_28": 11
     },
     {
       "gene_seqnames": "MAG06_19",
@@ -71,7 +83,22 @@
       "eggnog_X10": "01R7T@aproNOG,05C0B@bactNOG,16SMW@proNOG,COG0587@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "L",
-      "eggnog_X13": "DNA polymerase involved in damage-induced mutagenesis and translesion synthesis (TLS). It is not the major replicative DNA polymerase (By similarity)"
+      "eggnog_X13": "DNA polymerase involved in damage-induced mutagenesis and translesion synthesis (TLS). It is not the major replicative DNA polymerase (By similarity)",
+      "metric_1": 72,
+      "metric_2": 26,
+      "metric_6": 5,
+      "metric_9": 27,
+      "metric_10": 14,
+      "metric_11": 62,
+      "metric_14": 3,
+      "metric_15": 16,
+      "metric_18": 56,
+      "metric_20": 46,
+      "metric_21": 81,
+      "metric_22": 29,
+      "metric_24": 31,
+      "metric_25": 14,
+      "metric_28": 87
     },
     {
       "gene_seqnames": "MAG06_19",
@@ -103,7 +130,22 @@
       "eggnog_X10": "020UR@aproNOG,05NGT@bactNOG,11Z7T@NOG,17HZI@proNOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "S",
-      "eggnog_X13": "BFD-like [2Fe-2S] binding domain"
+      "eggnog_X13": "BFD-like [2Fe-2S] binding domain",
+      "metric_1": 29,
+      "metric_2": 51,
+      "metric_5": 75,
+      "metric_6": 18,
+      "metric_9": 43,
+      "metric_12": 84,
+      "metric_13": 98,
+      "metric_14": 55,
+      "metric_17": 62,
+      "metric_18": 66,
+      "metric_24": 47,
+      "metric_25": 73,
+      "metric_27": 39,
+      "metric_29": 59,
+      "metric_30": 91
     },
     {
       "gene_seqnames": "MAG06_19",
@@ -138,7 +180,17 @@
       "eggnog_X10": "01W6W@aproNOG,08UQY@bactNOG,17A64@proNOG,COG2193@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "P",
-      "eggnog_X13": "Iron-storage protein"
+      "eggnog_X13": "Iron-storage protein",
+      "metric_1": 55,
+      "metric_2": 24,
+      "metric_3": 87,
+      "metric_9": 9,
+      "metric_11": 88,
+      "metric_12": 20,
+      "metric_16": 53,
+      "metric_21": 88,
+      "metric_23": 66,
+      "metric_27": 15
     },
     {
       "gene_seqnames": "MAG06_19",
@@ -174,7 +226,21 @@
       "eggnog_X10": "01Y93@aproNOG,05EJF@bactNOG,16S8P@proNOG,COG0494@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "J",
-      "eggnog_X13": "Accelerates the degradation of transcripts by removing pyrophosphate from the 5'-end of triphosphorylated RNA, leading to a more labile monophosphorylated state that can stimulate subsequent ribonuclease cleavage (By similarity)"
+      "eggnog_X13": "Accelerates the degradation of transcripts by removing pyrophosphate from the 5'-end of triphosphorylated RNA, leading to a more labile monophosphorylated state that can stimulate subsequent ribonuclease cleavage (By similarity)",
+      "metric_6": 64,
+      "metric_7": 11,
+      "metric_8": 99,
+      "metric_9": 54,
+      "metric_14": 47,
+      "metric_16": 69,
+      "metric_17": 34,
+      "metric_19": 19,
+      "metric_20": 70,
+      "metric_21": 12,
+      "metric_23": 44,
+      "metric_27": 68,
+      "metric_28": 71,
+      "metric_30": 45
     },
     {
       "gene_seqnames": "MAG06_19",
@@ -208,7 +274,18 @@
       "eggnog_X10": "01UJU@aproNOG,05PXI@bactNOG,16TTQ@proNOG,COG2861@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "S",
-      "eggnog_X13": "polysaccharide deacetylase"
+      "eggnog_X13": "polysaccharide deacetylase",
+      "metric_5": 50,
+      "metric_10": 84,
+      "metric_14": 59,
+      "metric_15": 65,
+      "metric_17": 35,
+      "metric_18": 42,
+      "metric_23": 77,
+      "metric_25": 63,
+      "metric_26": 67,
+      "metric_27": 1,
+      "metric_30": 22
     },
     {
       "gene_seqnames": "MAG06_19",
@@ -243,13 +320,32 @@
       "eggnog_X10": "01RTP@aproNOG,05CN1@bactNOG,16QAK@proNOG,COG0793@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "M",
-      "eggnog_X13": "protease"
+      "eggnog_X13": "protease",
+      "metric_1": 13,
+      "metric_2": 9,
+      "metric_4": 36,
+      "metric_5": 82,
+      "metric_6": 93,
+      "metric_8": 27,
+      "metric_9": 21,
+      "metric_11": 50,
+      "metric_12": 36,
+      "metric_13": 90,
+      "metric_14": 18,
+      "metric_18": 77,
+      "metric_19": 64,
+      "metric_20": 25,
+      "metric_21": 98,
+      "metric_24": 41,
+      "metric_25": 16,
+      "metric_30": 35
     }
   ],
   "diamond_track": [
     {
       "seqnames": "MAG06_19",
       "gene_ID": "MAG06_19_1",
+      "gene_strand": "+",
       "eggnog_pos_X2": "266834.SMc03789",
       "eggnog_pos_X3": 99.3,
       "eggnog_pos_X4": 290,
@@ -267,6 +363,7 @@
     {
       "seqnames": "MAG06_19",
       "gene_ID": "MAG06_19_2",
+      "gene_strand": "+",
       "eggnog_pos_X2": "266834.SMc03788",
       "eggnog_pos_X3": 99.6,
       "eggnog_pos_X4": 1116,
@@ -284,6 +381,7 @@
     {
       "seqnames": "MAG06_19",
       "gene_ID": "MAG06_19_3",
+      "gene_strand": "+",
       "eggnog_pos_X2": "266834.SMc03787",
       "eggnog_pos_X3": 100,
       "eggnog_pos_X4": 103,
@@ -301,6 +399,7 @@
     {
       "seqnames": "MAG06_19",
       "gene_ID": "MAG06_19_3",
+      "gene_strand": "+",
       "eggnog_pos_X2": "366394.Smed_3020",
       "eggnog_pos_X3": 97.1,
       "eggnog_pos_X4": 103,
@@ -318,6 +417,7 @@
     {
       "seqnames": "MAG06_19",
       "gene_ID": "MAG06_19_3",
+      "gene_strand": "+",
       "eggnog_pos_X2": "1117943.SFHH103_03211",
       "eggnog_pos_X3": 95.1,
       "eggnog_pos_X4": 103,
@@ -335,6 +435,7 @@
     {
       "seqnames": "MAG06_19",
       "gene_ID": "MAG06_19_4",
+      "gene_strand": "+",
       "eggnog_pos_X2": "266834.SMc03786",
       "eggnog_pos_X3": 100,
       "eggnog_pos_X4": 161,
@@ -352,6 +453,7 @@
     {
       "seqnames": "MAG06_19",
       "gene_ID": "MAG06_19_4",
+      "gene_strand": "+",
       "eggnog_pos_X2": "366394.Smed_3019",
       "eggnog_pos_X3": 96.3,
       "eggnog_pos_X4": 161,
@@ -369,6 +471,7 @@
     {
       "seqnames": "MAG06_19",
       "gene_ID": "MAG06_19_5",
+      "gene_strand": "-",
       "eggnog_pos_X2": "366394.Smed_3018",
       "eggnog_pos_X3": 93.7,
       "eggnog_pos_X4": 175,
@@ -386,6 +489,7 @@
     {
       "seqnames": "MAG06_19",
       "gene_ID": "MAG06_19_5",
+      "gene_strand": "-",
       "eggnog_pos_X2": "266834.SMc03785",
       "eggnog_pos_X3": 97,
       "eggnog_pos_X4": 167,
@@ -403,6 +507,7 @@
     {
       "seqnames": "MAG06_19",
       "gene_ID": "MAG06_19_6",
+      "gene_strand": "-",
       "eggnog_pos_X2": "266834.SMc03784",
       "eggnog_pos_X3": 98.5,
       "eggnog_pos_X4": 400,
@@ -420,6 +525,7 @@
     {
       "seqnames": "MAG06_19",
       "gene_ID": "MAG06_19_7",
+      "gene_strand": "-",
       "eggnog_pos_X2": "266834.SMc03783",
       "eggnog_pos_X3": 100,
       "eggnog_pos_X4": 428,
@@ -437,6 +543,7 @@
     {
       "seqnames": "MAG06_19",
       "gene_ID": "MAG06_19_7",
+      "gene_strand": "-",
       "eggnog_pos_X2": "366394.Smed_3016",
       "eggnog_pos_X3": 98.8,
       "eggnog_pos_X4": 428,

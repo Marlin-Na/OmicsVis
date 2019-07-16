@@ -37,7 +37,18 @@
       "eggnog_X10": "01QRA@aproNOG,05CJ4@bactNOG,16PS4@proNOG,COG0787@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "M",
-      "eggnog_X13": "Catalyzes the interconversion of L-alanine and D- alanine. May also act on other amino acids (By similarity)"
+      "eggnog_X13": "Catalyzes the interconversion of L-alanine and D- alanine. May also act on other amino acids (By similarity)",
+      "metric_3": 87,
+      "metric_4": 50,
+      "metric_7": 63,
+      "metric_11": 65,
+      "metric_13": 83,
+      "metric_14": 56,
+      "metric_15": 63,
+      "metric_20": 96,
+      "metric_26": 58,
+      "metric_28": 85,
+      "metric_29": 95
     },
     {
       "gene_seqnames": "MAG06_205",
@@ -72,13 +83,26 @@
       "eggnog_X10": "01QIW@aproNOG,05DNJ@bactNOG,16PQE@proNOG,COG1066@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "O",
-      "eggnog_X13": "May play a role in the repair of endogenous alkylation damage (By similarity)"
+      "eggnog_X13": "May play a role in the repair of endogenous alkylation damage (By similarity)",
+      "metric_1": 3,
+      "metric_3": 6,
+      "metric_5": 5,
+      "metric_7": 55,
+      "metric_8": 9,
+      "metric_10": 30,
+      "metric_12": 98,
+      "metric_14": 28,
+      "metric_18": 63,
+      "metric_19": 64,
+      "metric_20": 25,
+      "metric_28": 40
     }
   ],
   "diamond_track": [
     {
       "seqnames": "MAG06_205",
       "gene_ID": "MAG06_205_1",
+      "gene_strand": "+",
       "eggnog_pos_X2": "266834.SMc00557",
       "eggnog_pos_X3": 100,
       "eggnog_pos_X4": 375,
@@ -96,6 +120,7 @@
     {
       "seqnames": "MAG06_205",
       "gene_ID": "MAG06_205_2",
+      "gene_strand": "+",
       "eggnog_pos_X2": "266834.SMc00556",
       "eggnog_pos_X3": 94.4,
       "eggnog_pos_X4": 142,
@@ -113,6 +138,7 @@
     {
       "seqnames": "MAG06_205",
       "gene_ID": "MAG06_205_2",
+      "gene_strand": "+",
       "eggnog_pos_X2": "366394.Smed_0729",
       "eggnog_pos_X3": 93,
       "eggnog_pos_X4": 142,

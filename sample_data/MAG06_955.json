@@ -37,7 +37,21 @@
       "eggnog_X10": "01QQ3@aproNOG,05DHW@bactNOG,16QMN@proNOG,COG0706@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "U",
-      "eggnog_X13": "Required for the insertion and or proper folding and or complex formation of integral membrane proteins into the membrane. Involved in integration of membrane proteins that insert both dependently and independently of the Sec translocase complex, as well as at least some lipoproteins. Aids folding of multispanning membrane proteins (By similarity)"
+      "eggnog_X13": "Required for the insertion and or proper folding and or complex formation of integral membrane proteins into the membrane. Involved in integration of membrane proteins that insert both dependently and independently of the Sec translocase complex, as well as at least some lipoproteins. Aids folding of multispanning membrane proteins (By similarity)",
+      "metric_4": 40,
+      "metric_6": 62,
+      "metric_7": 51,
+      "metric_8": 91,
+      "metric_9": 96,
+      "metric_15": 17,
+      "metric_16": 88,
+      "metric_18": 72,
+      "metric_22": 68,
+      "metric_24": 66,
+      "metric_26": 24,
+      "metric_27": 49,
+      "metric_29": 15,
+      "metric_30": 2
     },
     {
       "gene_seqnames": "MAG06_955",
@@ -61,7 +75,24 @@
       "gene_sscore": "7.60",
       "gene_rscore": "5.49",
       "gene_uscore": "0.13",
-      "gene_tscore": "2.62"
+      "gene_tscore": "2.62",
+      "metric_1": 21,
+      "metric_2": 91,
+      "metric_3": 97,
+      "metric_4": 12,
+      "metric_5": 58,
+      "metric_7": 55,
+      "metric_9": 48,
+      "metric_11": 2,
+      "metric_12": 48,
+      "metric_13": 68,
+      "metric_14": 57,
+      "metric_18": 21,
+      "metric_22": 64,
+      "metric_23": 37,
+      "metric_25": 90,
+      "metric_29": 64,
+      "metric_30": 87
     },
     {
       "gene_seqnames": "MAG06_955",
@@ -96,7 +127,18 @@
       "eggnog_X10": "01R8A@aproNOG,05WHM@bactNOG,16VJD@proNOG,COG0218@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "S",
-      "eggnog_X13": "Necessary for normal cell division and for the maintenance of normal septation (By similarity)"
+      "eggnog_X13": "Necessary for normal cell division and for the maintenance of normal septation (By similarity)",
+      "metric_1": 81,
+      "metric_2": 60,
+      "metric_3": 38,
+      "metric_7": 92,
+      "metric_8": 10,
+      "metric_11": 36,
+      "metric_12": 90,
+      "metric_13": 93,
+      "metric_16": 20,
+      "metric_19": 76,
+      "metric_20": 13
     },
     {
       "gene_seqnames": "MAG06_955",
@@ -128,7 +170,20 @@
       "eggnog_X10": "01XK9@aproNOG,08ZEA@bactNOG,17D8B@proNOG,COG4803@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "S",
-      "eggnog_X13": "membrane protein of uknown function UCP014873"
+      "eggnog_X13": "membrane protein of uknown function UCP014873",
+      "metric_2": 82,
+      "metric_3": 30,
+      "metric_7": 73,
+      "metric_8": 27,
+      "metric_9": 49,
+      "metric_10": 43,
+      "metric_11": 67,
+      "metric_13": 59,
+      "metric_14": 88,
+      "metric_15": 64,
+      "metric_19": 77,
+      "metric_25": 34,
+      "metric_28": 71
     },
     {
       "gene_seqnames": "MAG06_955",
@@ -162,7 +217,19 @@
       "eggnog_X10": "01Y1D@aproNOG,05E0X@bactNOG,17C80@proNOG,COG0229@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "O",
-      "eggnog_X13": "reductase"
+      "eggnog_X13": "reductase",
+      "metric_1": 60,
+      "metric_3": 43,
+      "metric_4": 45,
+      "metric_7": 31,
+      "metric_8": 76,
+      "metric_10": 14,
+      "metric_13": 97,
+      "metric_14": 49,
+      "metric_19": 50,
+      "metric_20": 45,
+      "metric_26": 75,
+      "metric_30": 17
     },
     {
       "gene_seqnames": "MAG06_955",
@@ -194,7 +261,19 @@
       "eggnog_X10": "020KK@aproNOG,05KUG@bactNOG,17FJ3@proNOG,COG5343@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "S",
-      "eggnog_X13": "Anti-sigma-K factor rskA"
+      "eggnog_X13": "Anti-sigma-K factor rskA",
+      "metric_1": 31,
+      "metric_4": 39,
+      "metric_7": 77,
+      "metric_9": 13,
+      "metric_12": 11,
+      "metric_13": 16,
+      "metric_14": 96,
+      "metric_16": 59,
+      "metric_18": 35,
+      "metric_19": 6,
+      "metric_25": 2,
+      "metric_27": 12
     },
     {
       "gene_seqnames": "MAG06_955",
@@ -230,7 +309,24 @@
       "eggnog_X10": "01R7E@aproNOG,05CAS@bactNOG,16Q3Y@proNOG,COG0548@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "E",
-      "eggnog_X13": "NAG kinase"
+      "eggnog_X13": "NAG kinase",
+      "metric_2": 84,
+      "metric_4": 18,
+      "metric_5": 63,
+      "metric_9": 59,
+      "metric_10": 78,
+      "metric_11": 45,
+      "metric_12": 80,
+      "metric_14": 57,
+      "metric_15": 54,
+      "metric_16": 98,
+      "metric_18": 16,
+      "metric_19": 68,
+      "metric_23": 57,
+      "metric_25": 58,
+      "metric_26": 99,
+      "metric_28": 21,
+      "metric_30": 39
     },
     {
       "gene_seqnames": "MAG06_955",
@@ -263,7 +359,19 @@
       "eggnog_X10": "01W9T@aproNOG,08R87@bactNOG,16TSU@proNOG,COG2513@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "G",
-      "eggnog_X13": "PEP phosphonomutase"
+      "eggnog_X13": "PEP phosphonomutase",
+      "metric_1": 10,
+      "metric_2": 31,
+      "metric_5": 57,
+      "metric_6": 5,
+      "metric_7": 88,
+      "metric_8": 85,
+      "metric_9": 44,
+      "metric_16": 87,
+      "metric_18": 54,
+      "metric_20": 4,
+      "metric_26": 81,
+      "metric_30": 96
     },
     {
       "gene_seqnames": "MAG06_955",
@@ -298,7 +406,21 @@
       "eggnog_X10": "01RB8@aproNOG,05K85@bactNOG,17FJB@proNOG,COG0350@NOG,COG2169@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "L",
-      "eggnog_X13": "Methyltransferase"
+      "eggnog_X13": "Methyltransferase",
+      "metric_1": 38,
+      "metric_5": 3,
+      "metric_6": 76,
+      "metric_7": 9,
+      "metric_9": 90,
+      "metric_10": 42,
+      "metric_11": 87,
+      "metric_12": 51,
+      "metric_15": 52,
+      "metric_18": 23,
+      "metric_19": 12,
+      "metric_21": 86,
+      "metric_25": 72,
+      "metric_26": 56
     },
     {
       "gene_seqnames": "MAG06_955",
@@ -330,7 +452,23 @@
       "eggnog_X10": "01U3A@aproNOG,08Z4F@bactNOG,0XS9A@NOG,1759N@proNOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "S",
-      "eggnog_X13": "membrane"
+      "eggnog_X13": "membrane",
+      "metric_4": 55,
+      "metric_7": 53,
+      "metric_10": 69,
+      "metric_13": 89,
+      "metric_14": 95,
+      "metric_15": 75,
+      "metric_16": 59,
+      "metric_18": 23,
+      "metric_19": 28,
+      "metric_20": 82,
+      "metric_23": 21,
+      "metric_24": 2,
+      "metric_25": 45,
+      "metric_27": 58,
+      "metric_28": 90,
+      "metric_29": 26
     },
     {
       "gene_seqnames": "MAG06_955",
@@ -364,13 +502,27 @@
       "eggnog_X10": "01R4B@aproNOG,07I2D@bactNOG,175R4@proNOG,COG1011@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "S",
-      "eggnog_X13": "Pyrimidine 5''-nucleotidase"
+      "eggnog_X13": "Pyrimidine 5''-nucleotidase",
+      "metric_3": 65,
+      "metric_4": 13,
+      "metric_5": 89,
+      "metric_8": 59,
+      "metric_9": 25,
+      "metric_17": 86,
+      "metric_18": 24,
+      "metric_20": 95,
+      "metric_21": 96,
+      "metric_22": 36,
+      "metric_24": 77,
+      "metric_27": 4,
+      "metric_28": 83
     }
   ],
   "diamond_track": [
     {
       "seqnames": "MAG06_955",
       "gene_ID": "MAG06_955_1",
+      "gene_strand": "+",
       "eggnog_pos_X2": "266834.SMc01721",
       "eggnog_pos_X3": 100,
       "eggnog_pos_X4": 556,
@@ -387,11 +539,8 @@
     },
     {
       "seqnames": "MAG06_955",
-      "gene_ID": "MAG06_955_2"
-    },
-    {
-      "seqnames": "MAG06_955",
       "gene_ID": "MAG06_955_3",
+      "gene_strand": "+",
       "eggnog_pos_X2": "266834.SMc01722",
       "eggnog_pos_X3": 100,
       "eggnog_pos_X4": 217,
@@ -409,6 +558,7 @@
     {
       "seqnames": "MAG06_955",
       "gene_ID": "MAG06_955_3",
+      "gene_strand": "+",
       "eggnog_pos_X2": "366394.Smed_0078",
       "eggnog_pos_X3": 96.8,
       "eggnog_pos_X4": 217,
@@ -426,6 +576,7 @@
     {
       "seqnames": "MAG06_955",
       "gene_ID": "MAG06_955_4",
+      "gene_strand": "+",
       "eggnog_pos_X2": "266834.SMc01723",
       "eggnog_pos_X3": 100,
       "eggnog_pos_X4": 179,
@@ -443,6 +594,7 @@
     {
       "seqnames": "MAG06_955",
       "gene_ID": "MAG06_955_5",
+      "gene_strand": "-",
       "eggnog_pos_X2": "266834.SMc01724",
       "eggnog_pos_X3": 99.4,
       "eggnog_pos_X4": 164,
@@ -460,6 +612,7 @@
     {
       "seqnames": "MAG06_955",
       "gene_ID": "MAG06_955_6",
+      "gene_strand": "-",
       "eggnog_pos_X2": "266834.SMc01725",
       "eggnog_pos_X3": 99.2,
       "eggnog_pos_X4": 237,
@@ -477,6 +630,7 @@
     {
       "seqnames": "MAG06_955",
       "gene_ID": "MAG06_955_7",
+      "gene_strand": "+",
       "eggnog_pos_X2": "395492.Rleg2_0071",
       "eggnog_pos_X3": 91.9,
       "eggnog_pos_X4": 295,
@@ -494,6 +648,7 @@
     {
       "seqnames": "MAG06_955",
       "gene_ID": "MAG06_955_8",
+      "gene_strand": "-",
       "eggnog_pos_X2": "266834.SMc01727",
       "eggnog_pos_X3": 100,
       "eggnog_pos_X4": 256,
@@ -511,6 +666,7 @@
     {
       "seqnames": "MAG06_955",
       "gene_ID": "MAG06_955_9",
+      "gene_strand": "-",
       "eggnog_pos_X2": "266834.SMc01728",
       "eggnog_pos_X3": 99.5,
       "eggnog_pos_X4": 370,
@@ -528,6 +684,7 @@
     {
       "seqnames": "MAG06_955",
       "gene_ID": "MAG06_955_10",
+      "gene_strand": "-",
       "eggnog_pos_X2": "266834.SMc01729",
       "eggnog_pos_X3": 99.3,
       "eggnog_pos_X4": 304,
@@ -545,6 +702,7 @@
     {
       "seqnames": "MAG06_955",
       "gene_ID": "MAG06_955_10",
+      "gene_strand": "-",
       "eggnog_pos_X2": "366394.Smed_0072",
       "eggnog_pos_X3": 95.7,
       "eggnog_pos_X4": 304,
@@ -562,6 +720,7 @@
     {
       "seqnames": "MAG06_955",
       "gene_ID": "MAG06_955_11",
+      "gene_strand": "+",
       "eggnog_pos_X2": "266834.SMc01730",
       "eggnog_pos_X3": 97.7,
       "eggnog_pos_X4": 258,

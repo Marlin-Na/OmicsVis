@@ -38,7 +38,20 @@
       "eggnog_X10": "01RAE@aproNOG,05D6E@bactNOG,16Q19@proNOG,COG0460@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "E",
-      "eggnog_X13": "homoserine dehydrogenase"
+      "eggnog_X13": "homoserine dehydrogenase",
+      "metric_2": 26,
+      "metric_5": 82,
+      "metric_9": 38,
+      "metric_10": 91,
+      "metric_12": 29,
+      "metric_18": 89,
+      "metric_20": 88,
+      "metric_22": 83,
+      "metric_24": 49,
+      "metric_26": 69,
+      "metric_28": 72,
+      "metric_29": 96,
+      "metric_30": 51
     },
     {
       "gene_seqnames": "MAG06_621",
@@ -73,13 +86,28 @@
       "eggnog_X10": "01QB9@aproNOG,05C2R@bactNOG,16Q5C@proNOG,COG0608@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "L",
-      "eggnog_X13": "Single-stranded-DNA-specific exonuclease (RecJ)"
+      "eggnog_X13": "Single-stranded-DNA-specific exonuclease (RecJ)",
+      "metric_2": 39,
+      "metric_6": 5,
+      "metric_7": 54,
+      "metric_10": 29,
+      "metric_12": 10,
+      "metric_15": 40,
+      "metric_16": 38,
+      "metric_18": 62,
+      "metric_19": 97,
+      "metric_20": 65,
+      "metric_22": 84,
+      "metric_23": 88,
+      "metric_26": 60,
+      "metric_27": 1
     }
   ],
   "diamond_track": [
     {
       "seqnames": "MAG06_621",
       "gene_ID": "MAG06_621_1",
+      "gene_strand": "+",
       "eggnog_pos_X2": "266834.SMc00293",
       "eggnog_pos_X3": 100,
       "eggnog_pos_X4": 267,
@@ -97,6 +125,7 @@
     {
       "seqnames": "MAG06_621",
       "gene_ID": "MAG06_621_2",
+      "gene_strand": "+",
       "eggnog_pos_X2": "266834.SMc00292",
       "eggnog_pos_X3": 98.6,
       "eggnog_pos_X4": 213,

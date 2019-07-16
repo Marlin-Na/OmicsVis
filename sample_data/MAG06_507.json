@@ -35,7 +35,27 @@
       "eggnog_X10": "069F1@bactNOG,16TSF@proNOG,COG4289@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "S",
-      "eggnog_X13": "Uncharacterized protein conserved in bacteria (DUF2264)"
+      "eggnog_X13": "Uncharacterized protein conserved in bacteria (DUF2264)",
+      "metric_1": 86,
+      "metric_2": 22,
+      "metric_3": 18,
+      "metric_4": 75,
+      "metric_5": 43,
+      "metric_8": 29,
+      "metric_9": 77,
+      "metric_10": 63,
+      "metric_14": 6,
+      "metric_15": 93,
+      "metric_16": 41,
+      "metric_17": 15,
+      "metric_18": 8,
+      "metric_20": 87,
+      "metric_21": 11,
+      "metric_22": 42,
+      "metric_25": 20,
+      "metric_26": 49,
+      "metric_27": 99,
+      "metric_30": 71
     },
     {
       "gene_seqnames": "MAG06_507",
@@ -67,13 +87,27 @@
       "eggnog_X10": "0267F@aproNOG,05RUA@bactNOG,17YFP@proNOG,COG0111@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "C",
-      "eggnog_X13": "Dehydrogenase"
+      "eggnog_X13": "Dehydrogenase",
+      "metric_3": 8,
+      "metric_4": 91,
+      "metric_5": 82,
+      "metric_6": 79,
+      "metric_8": 17,
+      "metric_9": 30,
+      "metric_10": 69,
+      "metric_11": 13,
+      "metric_14": 62,
+      "metric_18": 65,
+      "metric_25": 61,
+      "metric_29": 80,
+      "metric_30": 78
     }
   ],
   "diamond_track": [
     {
       "seqnames": "MAG06_507",
       "gene_ID": "MAG06_507_1",
+      "gene_strand": "+",
       "eggnog_pos_X2": "1117943.SFHH103_01401",
       "eggnog_pos_X3": 78.4,
       "eggnog_pos_X4": 462,
@@ -91,6 +125,7 @@
     {
       "seqnames": "MAG06_507",
       "gene_ID": "MAG06_507_1",
+      "gene_strand": "+",
       "eggnog_pos_X2": "394.NGR_c15110",
       "eggnog_pos_X3": 77.3,
       "eggnog_pos_X4": 462,
@@ -108,6 +143,7 @@
     {
       "seqnames": "MAG06_507",
       "gene_ID": "MAG06_507_2",
+      "gene_strand": "+",
       "eggnog_pos_X2": "394.NGR_c15100",
       "eggnog_pos_X3": 75,
       "eggnog_pos_X4": 144,
@@ -125,6 +161,7 @@
     {
       "seqnames": "MAG06_507",
       "gene_ID": "MAG06_507_2",
+      "gene_strand": "+",
       "eggnog_pos_X2": "1117943.SFHH103_01400",
       "eggnog_pos_X3": 72.2,
       "eggnog_pos_X4": 144,

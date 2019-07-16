@@ -37,7 +37,24 @@
       "eggnog_X10": "01Q68@aproNOG,05C53@bactNOG,16PDX@proNOG,COG3842@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "E",
-      "eggnog_X13": "ABC transporter"
+      "eggnog_X13": "ABC transporter",
+      "metric_1": 20,
+      "metric_2": 8,
+      "metric_3": 72,
+      "metric_5": 34,
+      "metric_7": 72,
+      "metric_10": 16,
+      "metric_11": 72,
+      "metric_13": 69,
+      "metric_14": 9,
+      "metric_15": 80,
+      "metric_17": 79,
+      "metric_18": 15,
+      "metric_20": 45,
+      "metric_21": 98,
+      "metric_25": 96,
+      "metric_28": 40,
+      "metric_30": 84
     },
     {
       "gene_seqnames": "MAG06_349",
@@ -67,13 +84,27 @@
       "eggnog_X4": 271.9,
       "eggnog_X9": "bactNOG[38]",
       "eggnog_X10": "020WM@aproNOG,05U86@bactNOG,121DY@NOG,17ICU@proNOG",
-      "eggnog_X11": "NA|NA|NA"
+      "eggnog_X11": "NA|NA|NA",
+      "metric_2": 32,
+      "metric_3": 12,
+      "metric_5": 42,
+      "metric_6": 56,
+      "metric_9": 53,
+      "metric_10": 80,
+      "metric_11": 37,
+      "metric_13": 3,
+      "metric_17": 11,
+      "metric_19": 7,
+      "metric_21": 68,
+      "metric_25": 86,
+      "metric_27": 56
     }
   ],
   "diamond_track": [
     {
       "seqnames": "MAG06_349",
       "gene_ID": "MAG06_349_1",
+      "gene_strand": "+",
       "eggnog_pos_X2": "266834.SMc03065",
       "eggnog_pos_X3": 99.2,
       "eggnog_pos_X4": 243,
@@ -91,6 +122,7 @@
     {
       "seqnames": "MAG06_349",
       "gene_ID": "MAG06_349_2",
+      "gene_strand": "+",
       "eggnog_pos_X2": "266834.SMc03066",
       "eggnog_pos_X3": 100,
       "eggnog_pos_X4": 136,

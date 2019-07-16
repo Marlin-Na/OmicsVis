@@ -26,7 +26,21 @@
       "gene_sscore": "3.22",
       "gene_rscore": "0.00",
       "gene_uscore": "0.00",
-      "gene_tscore": "3.22"
+      "gene_tscore": "3.22",
+      "metric_4": 62,
+      "metric_6": 69,
+      "metric_9": 1,
+      "metric_10": 92,
+      "metric_11": 59,
+      "metric_12": 73,
+      "metric_15": 18,
+      "metric_19": 23,
+      "metric_20": 15,
+      "metric_22": 83,
+      "metric_23": 19,
+      "metric_25": 68,
+      "metric_28": 7,
+      "metric_29": 53
     },
     {
       "gene_seqnames": "MAG06_277",
@@ -60,7 +74,20 @@
       "eggnog_X10": "01R8U@aproNOG,07S8C@bactNOG,16RYB@proNOG,COG4948@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "M",
-      "eggnog_X13": "mandelate racemase muconate lactonizing"
+      "eggnog_X13": "mandelate racemase muconate lactonizing",
+      "metric_1": 76,
+      "metric_2": 30,
+      "metric_3": 65,
+      "metric_5": 68,
+      "metric_8": 7,
+      "metric_11": 87,
+      "metric_12": 44,
+      "metric_13": 13,
+      "metric_16": 20,
+      "metric_18": 57,
+      "metric_19": 68,
+      "metric_20": 88,
+      "metric_25": 53
     },
     {
       "gene_seqnames": "MAG06_277",
@@ -96,17 +123,30 @@
       "eggnog_X10": "01XRQ@aproNOG,05D8G@bactNOG,0XQVS@NOG,16SGU@proNOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "P",
-      "eggnog_X13": "major facilitator superfamily MFS_1"
+      "eggnog_X13": "major facilitator superfamily MFS_1",
+      "metric_1": 70,
+      "metric_4": 79,
+      "metric_5": 1,
+      "metric_6": 42,
+      "metric_10": 23,
+      "metric_11": 83,
+      "metric_13": 55,
+      "metric_15": 2,
+      "metric_16": 60,
+      "metric_17": 41,
+      "metric_18": 34,
+      "metric_19": 52,
+      "metric_21": 15,
+      "metric_24": 79,
+      "metric_25": 41,
+      "metric_29": 73
     }
   ],
   "diamond_track": [
     {
       "seqnames": "MAG06_277",
-      "gene_ID": "MAG06_277_1"
-    },
-    {
-      "seqnames": "MAG06_277",
       "gene_ID": "MAG06_277_2",
+      "gene_strand": "+",
       "eggnog_pos_X2": "366394.Smed_1555",
       "eggnog_pos_X3": 86.2,
       "eggnog_pos_X4": 327,
@@ -124,6 +164,7 @@
     {
       "seqnames": "MAG06_277",
       "gene_ID": "MAG06_277_3",
+      "gene_strand": "-",
       "eggnog_pos_X2": "266834.SMc00172",
       "eggnog_pos_X3": 99.3,
       "eggnog_pos_X4": 143,
@@ -141,6 +182,7 @@
     {
       "seqnames": "MAG06_277",
       "gene_ID": "MAG06_277_3",
+      "gene_strand": "-",
       "eggnog_pos_X2": "366394.Smed_1556",
       "eggnog_pos_X3": 95.8,
       "eggnog_pos_X4": 143,

@@ -36,7 +36,23 @@
       "eggnog_X10": "01VSF@aproNOG,05CBP@bactNOG,0XNVC@NOG,16PQU@proNOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "G",
-      "eggnog_X13": "Major facilitator superfamily"
+      "eggnog_X13": "Major facilitator superfamily",
+      "metric_1": 62,
+      "metric_2": 79,
+      "metric_4": 31,
+      "metric_8": 69,
+      "metric_10": 57,
+      "metric_12": 80,
+      "metric_14": 37,
+      "metric_17": 55,
+      "metric_19": 59,
+      "metric_23": 91,
+      "metric_24": 36,
+      "metric_25": 57,
+      "metric_26": 74,
+      "metric_27": 18,
+      "metric_28": 99,
+      "metric_30": 59
     },
     {
       "gene_seqnames": "MAG06_652",
@@ -70,13 +86,29 @@
       "eggnog_X10": "01TC0@aproNOG,05CA1@bactNOG,16PNP@proNOG,COG0024@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "J",
-      "eggnog_X13": "Removes the N-terminal methionine from nascent proteins (By similarity)"
+      "eggnog_X13": "Removes the N-terminal methionine from nascent proteins (By similarity)",
+      "metric_3": 66,
+      "metric_6": 50,
+      "metric_8": 63,
+      "metric_10": 95,
+      "metric_11": 96,
+      "metric_15": 89,
+      "metric_16": 61,
+      "metric_17": 57,
+      "metric_18": 77,
+      "metric_21": 29,
+      "metric_22": 21,
+      "metric_23": 69,
+      "metric_26": 32,
+      "metric_27": 36,
+      "metric_29": 49
     }
   ],
   "diamond_track": [
     {
       "seqnames": "MAG06_652",
       "gene_ID": "MAG06_652_1",
+      "gene_strand": "-",
       "eggnog_pos_X2": "394.NGR_c23780",
       "eggnog_pos_X3": 81.5,
       "eggnog_pos_X4": 411,
@@ -94,6 +126,7 @@
     {
       "seqnames": "MAG06_652",
       "gene_ID": "MAG06_652_1",
+      "gene_strand": "-",
       "eggnog_pos_X2": "1117943.SFHH103_02249",
       "eggnog_pos_X3": 78.3,
       "eggnog_pos_X4": 433,
@@ -111,6 +144,7 @@
     {
       "seqnames": "MAG06_652",
       "gene_ID": "MAG06_652_2",
+      "gene_strand": "-",
       "eggnog_pos_X2": "1117943.SFHH103_02250",
       "eggnog_pos_X3": 96,
       "eggnog_pos_X4": 50,
@@ -128,6 +162,7 @@
     {
       "seqnames": "MAG06_652",
       "gene_ID": "MAG06_652_2",
+      "gene_strand": "-",
       "eggnog_pos_X2": "394.NGR_c23790",
       "eggnog_pos_X3": 94,
       "eggnog_pos_X4": 50,

@@ -36,7 +36,22 @@
       "eggnog_X10": "01QWF@aproNOG,05CHT@bactNOG,16Q2U@proNOG,COG0064@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "J",
-      "eggnog_X13": "Allows the formation of correctly charged Asn-tRNA(Asn) or Gln-tRNA(Gln) through the transamidation of misacylated Asp- tRNA(Asn) or Glu-tRNA(Gln) in organisms which lack either or both of asparaginyl-tRNA or glutaminyl-tRNA synthetases. The reaction takes place in the presence of glutamine and ATP through an activated phospho-Asp-tRNA(Asn) or phospho-Glu-tRNA(Gln) (By similarity)"
+      "eggnog_X13": "Allows the formation of correctly charged Asn-tRNA(Asn) or Gln-tRNA(Gln) through the transamidation of misacylated Asp- tRNA(Asn) or Glu-tRNA(Gln) in organisms which lack either or both of asparaginyl-tRNA or glutaminyl-tRNA synthetases. The reaction takes place in the presence of glutamine and ATP through an activated phospho-Asp-tRNA(Asn) or phospho-Glu-tRNA(Gln) (By similarity)",
+      "metric_1": 87,
+      "metric_2": 50,
+      "metric_5": 88,
+      "metric_7": 25,
+      "metric_8": 68,
+      "metric_9": 22,
+      "metric_10": 50,
+      "metric_11": 17,
+      "metric_15": 57,
+      "metric_16": 30,
+      "metric_18": 69,
+      "metric_19": 54,
+      "metric_20": 51,
+      "metric_24": 94,
+      "metric_30": 34
     },
     {
       "gene_seqnames": "MAG06_635",
@@ -70,13 +85,31 @@
       "eggnog_X10": "022KQ@aproNOG,05YCT@bactNOG,17KVU@proNOG,COG3811@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "S",
-      "eggnog_X13": "UPF0386 protein"
+      "eggnog_X13": "UPF0386 protein",
+      "metric_3": 8,
+      "metric_5": 35,
+      "metric_8": 29,
+      "metric_9": 48,
+      "metric_10": 1,
+      "metric_11": 34,
+      "metric_13": 8,
+      "metric_14": 84,
+      "metric_15": 36,
+      "metric_16": 31,
+      "metric_20": 57,
+      "metric_21": 51,
+      "metric_23": 47,
+      "metric_24": 35,
+      "metric_26": 50,
+      "metric_28": 40,
+      "metric_29": 16
     }
   ],
   "diamond_track": [
     {
       "seqnames": "MAG06_635",
       "gene_ID": "MAG06_635_1",
+      "gene_strand": "-",
       "eggnog_pos_X2": "491916.RHECIAT_CH0001948",
       "eggnog_pos_X3": 89.9,
       "eggnog_pos_X4": 434,
@@ -94,6 +127,7 @@
     {
       "seqnames": "MAG06_635",
       "gene_ID": "MAG06_635_1",
+      "gene_strand": "-",
       "eggnog_pos_X2": "347834.RHE_CH01862",
       "eggnog_pos_X3": 89.2,
       "eggnog_pos_X4": 434,
@@ -111,6 +145,7 @@
     {
       "seqnames": "MAG06_635",
       "gene_ID": "MAG06_635_1",
+      "gene_strand": "-",
       "eggnog_pos_X2": "216596.RL2082",
       "eggnog_pos_X3": 88.9,
       "eggnog_pos_X4": 434,
@@ -128,6 +163,7 @@
     {
       "seqnames": "MAG06_635",
       "gene_ID": "MAG06_635_1",
+      "gene_strand": "-",
       "eggnog_pos_X2": "861208.AGROH133_05765",
       "eggnog_pos_X3": 88.9,
       "eggnog_pos_X4": 434,
@@ -145,6 +181,7 @@
     {
       "seqnames": "MAG06_635",
       "gene_ID": "MAG06_635_1",
+      "gene_strand": "-",
       "eggnog_pos_X2": "395492.Rleg2_1528",
       "eggnog_pos_X3": 88.5,
       "eggnog_pos_X4": 434,
@@ -162,6 +199,7 @@
     {
       "seqnames": "MAG06_635",
       "gene_ID": "MAG06_635_1",
+      "gene_strand": "-",
       "eggnog_pos_X2": "1050720.Agau_C201506",
       "eggnog_pos_X3": 90.2,
       "eggnog_pos_X4": 429,
@@ -179,6 +217,7 @@
     {
       "seqnames": "MAG06_635",
       "gene_ID": "MAG06_635_1",
+      "gene_strand": "-",
       "eggnog_pos_X2": "176299.Atu1324",
       "eggnog_pos_X3": 88.7,
       "eggnog_pos_X4": 434,
@@ -196,6 +235,7 @@
     {
       "seqnames": "MAG06_635",
       "gene_ID": "MAG06_635_1",
+      "gene_strand": "-",
       "eggnog_pos_X2": "311402.Avi_1781",
       "eggnog_pos_X3": 88.5,
       "eggnog_pos_X4": 434,
@@ -213,6 +253,7 @@
     {
       "seqnames": "MAG06_635",
       "gene_ID": "MAG06_635_2",
+      "gene_strand": "+",
       "eggnog_pos_X2": "266834.SMc01351",
       "eggnog_pos_X3": 96.4,
       "eggnog_pos_X4": 55,

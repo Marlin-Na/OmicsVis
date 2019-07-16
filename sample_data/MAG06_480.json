@@ -35,7 +35,22 @@
       "eggnog_X10": "01YEG@aproNOG,08VSS@bactNOG,17AYT@proNOG,COG2114@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "T",
-      "eggnog_X13": "Adenylate Guanylate cyclase"
+      "eggnog_X13": "Adenylate Guanylate cyclase",
+      "metric_1": 32,
+      "metric_2": 69,
+      "metric_3": 54,
+      "metric_6": 19,
+      "metric_10": 9,
+      "metric_11": 15,
+      "metric_13": 33,
+      "metric_15": 21,
+      "metric_16": 12,
+      "metric_18": 68,
+      "metric_19": 63,
+      "metric_21": 99,
+      "metric_22": 48,
+      "metric_27": 5,
+      "metric_28": 30
     },
     {
       "gene_seqnames": "MAG06_480",
@@ -65,7 +80,21 @@
       "eggnog_X4": 489.6,
       "eggnog_X9": "bactNOG[38]",
       "eggnog_X10": "01T3M@aproNOG,05J9V@bactNOG,0XSRF@NOG,16TGD@proNOG",
-      "eggnog_X11": "NA|NA|NA"
+      "eggnog_X11": "NA|NA|NA",
+      "metric_2": 14,
+      "metric_7": 97,
+      "metric_9": 56,
+      "metric_10": 75,
+      "metric_11": 23,
+      "metric_14": 18,
+      "metric_16": 75,
+      "metric_20": 9,
+      "metric_21": 90,
+      "metric_22": 92,
+      "metric_23": 46,
+      "metric_26": 42,
+      "metric_28": 48,
+      "metric_30": 4
     },
     {
       "gene_seqnames": "MAG06_480",
@@ -97,13 +126,19 @@
       "eggnog_X10": "01ZH0@aproNOG,08KTA@bactNOG,174ZK@proNOG,COG3904@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "S",
-      "eggnog_X13": "Inherit from proNOG: Periplasmic protein-like protein"
+      "eggnog_X13": "Inherit from proNOG: Periplasmic protein-like protein",
+      "metric_8": 91,
+      "metric_12": 64,
+      "metric_15": 40,
+      "metric_19": 27,
+      "metric_21": 28
     }
   ],
   "diamond_track": [
     {
       "seqnames": "MAG06_480",
       "gene_ID": "MAG06_480_1",
+      "gene_strand": "+",
       "eggnog_pos_X2": "394.NGR_c34440",
       "eggnog_pos_X3": 84.1,
       "eggnog_pos_X4": 321,
@@ -121,6 +156,7 @@
     {
       "seqnames": "MAG06_480",
       "gene_ID": "MAG06_480_1",
+      "gene_strand": "+",
       "eggnog_pos_X2": "1117943.SFHH103_03614",
       "eggnog_pos_X3": 82.6,
       "eggnog_pos_X4": 321,
@@ -138,6 +174,7 @@
     {
       "seqnames": "MAG06_480",
       "gene_ID": "MAG06_480_2",
+      "gene_strand": "+",
       "eggnog_pos_X2": "266779.Meso_3250",
       "eggnog_pos_X3": 65.7,
       "eggnog_pos_X4": 423,
@@ -155,6 +192,7 @@
     {
       "seqnames": "MAG06_480",
       "gene_ID": "MAG06_480_3",
+      "gene_strand": "+",
       "eggnog_pos_X2": "266779.Meso_3251",
       "eggnog_pos_X3": 44.8,
       "eggnog_pos_X4": 181,

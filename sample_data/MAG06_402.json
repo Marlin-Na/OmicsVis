@@ -34,7 +34,22 @@
       "eggnog_X10": "0827B@bactNOG,COG0251@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "J",
-      "eggnog_X13": "Endoribonuclease L-PSP"
+      "eggnog_X13": "Endoribonuclease L-PSP",
+      "metric_3": 98,
+      "metric_4": 86,
+      "metric_7": 50,
+      "metric_9": 78,
+      "metric_10": 53,
+      "metric_13": 75,
+      "metric_14": 72,
+      "metric_15": 10,
+      "metric_17": 80,
+      "metric_19": 11,
+      "metric_21": 83,
+      "metric_22": 55,
+      "metric_23": 94,
+      "metric_26": 62,
+      "metric_29": 37
     },
     {
       "gene_seqnames": "MAG06_402",
@@ -70,13 +85,24 @@
       "eggnog_X10": "02EF1@aproNOG,08JIK@bactNOG,173B4@proNOG,COG4770@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "I",
-      "eggnog_X13": "carboxylase, alpha"
+      "eggnog_X13": "carboxylase, alpha",
+      "metric_1": 4,
+      "metric_4": 57,
+      "metric_11": 62,
+      "metric_14": 22,
+      "metric_16": 92,
+      "metric_22": 95,
+      "metric_24": 13,
+      "metric_25": 5,
+      "metric_28": 9,
+      "metric_29": 35
     }
   ],
   "diamond_track": [
     {
       "seqnames": "MAG06_402",
       "gene_ID": "MAG06_402_1",
+      "gene_strand": "+",
       "eggnog_pos_X2": "311403.Arad_1375",
       "eggnog_pos_X3": 78.7,
       "eggnog_pos_X4": 127,
@@ -94,6 +120,7 @@
     {
       "seqnames": "MAG06_402",
       "gene_ID": "MAG06_402_2",
+      "gene_strand": "+",
       "eggnog_pos_X2": "311403.Arad_1376",
       "eggnog_pos_X3": 72.9,
       "eggnog_pos_X4": 495,

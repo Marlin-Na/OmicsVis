@@ -38,7 +38,21 @@
       "eggnog_X10": "01Q7J@aproNOG,05C34@bactNOG,16PJZ@proNOG,COG0564@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "J",
-      "eggnog_X13": "Pseudouridine synthase"
+      "eggnog_X13": "Pseudouridine synthase",
+      "metric_1": 63,
+      "metric_4": 3,
+      "metric_8": 59,
+      "metric_10": 47,
+      "metric_12": 70,
+      "metric_18": 95,
+      "metric_19": 79,
+      "metric_20": 18,
+      "metric_21": 89,
+      "metric_22": 81,
+      "metric_23": 19,
+      "metric_24": 54,
+      "metric_26": 88,
+      "metric_28": 23
     },
     {
       "gene_seqnames": "MAG06_1008",
@@ -68,7 +82,19 @@
       "eggnog_X4": 232.3,
       "eggnog_X9": "bactNOG[38]",
       "eggnog_X10": "022CP@aproNOG,0615X@bactNOG,12A78@NOG,17PP5@proNOG",
-      "eggnog_X11": "NA|NA|NA"
+      "eggnog_X11": "NA|NA|NA",
+      "metric_2": 18,
+      "metric_3": 85,
+      "metric_5": 27,
+      "metric_9": 92,
+      "metric_12": 75,
+      "metric_14": 51,
+      "metric_19": 26,
+      "metric_20": 78,
+      "metric_21": 22,
+      "metric_23": 5,
+      "metric_24": 98,
+      "metric_30": 69
     },
     {
       "gene_seqnames": "MAG06_1008",
@@ -100,13 +126,30 @@
       "eggnog_X10": "01WNK@aproNOG,07TYV@bactNOG,16WE9@proNOG,COG0566@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "J",
-      "eggnog_X13": "trna rrna methyltransferase"
+      "eggnog_X13": "trna rrna methyltransferase",
+      "metric_2": 82,
+      "metric_3": 15,
+      "metric_5": 86,
+      "metric_9": 78,
+      "metric_11": 86,
+      "metric_13": 66,
+      "metric_15": 97,
+      "metric_16": 12,
+      "metric_21": 16,
+      "metric_23": 98,
+      "metric_24": 15,
+      "metric_25": 7,
+      "metric_26": 40,
+      "metric_28": 26,
+      "metric_29": 43,
+      "metric_30": 91
     }
   ],
   "diamond_track": [
     {
       "seqnames": "MAG06_1008",
       "gene_ID": "MAG06_1008_1",
+      "gene_strand": "-",
       "eggnog_pos_X2": "266834.SMc00647",
       "eggnog_pos_X3": 84.3,
       "eggnog_pos_X4": 83,
@@ -124,6 +167,7 @@
     {
       "seqnames": "MAG06_1008",
       "gene_ID": "MAG06_1008_2",
+      "gene_strand": "+",
       "eggnog_pos_X2": "266834.SMc00648",
       "eggnog_pos_X3": 100,
       "eggnog_pos_X4": 127,
@@ -141,6 +185,7 @@
     {
       "seqnames": "MAG06_1008",
       "gene_ID": "MAG06_1008_3",
+      "gene_strand": "+",
       "eggnog_pos_X2": "266834.SMc00649",
       "eggnog_pos_X3": 99.6,
       "eggnog_pos_X4": 275,

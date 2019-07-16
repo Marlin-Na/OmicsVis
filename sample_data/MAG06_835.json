@@ -37,7 +37,23 @@
       "eggnog_X10": "01QFG@aproNOG,05DG1@bactNOG,16PEG@proNOG,COG0568@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "K",
-      "eggnog_X13": "Sigma factors are initiation factors that promote the attachment of RNA polymerase to specific initiation sites and are then released (By similarity)"
+      "eggnog_X13": "Sigma factors are initiation factors that promote the attachment of RNA polymerase to specific initiation sites and are then released (By similarity)",
+      "metric_2": 67,
+      "metric_4": 34,
+      "metric_6": 32,
+      "metric_7": 5,
+      "metric_9": 68,
+      "metric_12": 94,
+      "metric_13": 66,
+      "metric_15": 34,
+      "metric_16": 54,
+      "metric_18": 11,
+      "metric_19": 87,
+      "metric_21": 47,
+      "metric_24": 53,
+      "metric_25": 36,
+      "metric_26": 6,
+      "metric_27": 43
     },
     {
       "gene_seqnames": "MAG06_835",
@@ -73,7 +89,23 @@
       "eggnog_X10": "01RA5@aproNOG,05CPQ@bactNOG,16Q9H@proNOG,COG1063@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "E",
-      "eggnog_X13": "L-threonine 3-dehydrogenase"
+      "eggnog_X13": "L-threonine 3-dehydrogenase",
+      "metric_1": 41,
+      "metric_5": 7,
+      "metric_7": 62,
+      "metric_8": 75,
+      "metric_9": 96,
+      "metric_14": 58,
+      "metric_15": 60,
+      "metric_16": 34,
+      "metric_17": 6,
+      "metric_19": 41,
+      "metric_21": 57,
+      "metric_23": 51,
+      "metric_24": 35,
+      "metric_25": 57,
+      "metric_26": 59,
+      "metric_27": 61
     },
     {
       "gene_seqnames": "MAG06_835",
@@ -109,7 +141,23 @@
       "eggnog_X10": "01SCT@aproNOG,07EEK@bactNOG,16R8V@proNOG,COG0156@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "H",
-      "eggnog_X13": "2-amino-3-ketobutyrate coenzyme A ligase"
+      "eggnog_X13": "2-amino-3-ketobutyrate coenzyme A ligase",
+      "metric_2": 66,
+      "metric_9": 31,
+      "metric_11": 57,
+      "metric_14": 53,
+      "metric_15": 87,
+      "metric_17": 9,
+      "metric_19": 66,
+      "metric_21": 92,
+      "metric_22": 86,
+      "metric_23": 26,
+      "metric_24": 11,
+      "metric_25": 34,
+      "metric_26": 68,
+      "metric_27": 10,
+      "metric_28": 36,
+      "metric_30": 82
     },
     {
       "gene_seqnames": "MAG06_835",
@@ -144,13 +192,26 @@
       "eggnog_X10": "01R5T@aproNOG,05C9U@bactNOG,16PKD@proNOG,COG0514@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "L",
-      "eggnog_X13": "ATP-dependent DNA helicase RecQ"
+      "eggnog_X13": "ATP-dependent DNA helicase RecQ",
+      "metric_2": 91,
+      "metric_3": 99,
+      "metric_4": 20,
+      "metric_8": 86,
+      "metric_13": 25,
+      "metric_16": 73,
+      "metric_20": 87,
+      "metric_23": 1,
+      "metric_25": 79,
+      "metric_26": 91,
+      "metric_27": 84,
+      "metric_29": 27
     }
   ],
   "diamond_track": [
     {
       "seqnames": "MAG06_835",
       "gene_ID": "MAG06_835_1",
+      "gene_strand": "-",
       "eggnog_pos_X2": "266834.SMc01563",
       "eggnog_pos_X3": 100,
       "eggnog_pos_X4": 296,
@@ -168,6 +229,7 @@
     {
       "seqnames": "MAG06_835",
       "gene_ID": "MAG06_835_2",
+      "gene_strand": "-",
       "eggnog_pos_X2": "216596.RL3404",
       "eggnog_pos_X3": 92.4,
       "eggnog_pos_X4": 344,
@@ -185,6 +247,7 @@
     {
       "seqnames": "MAG06_835",
       "gene_ID": "MAG06_835_2",
+      "gene_strand": "-",
       "eggnog_pos_X2": "347834.RHE_CH02951",
       "eggnog_pos_X3": 92.7,
       "eggnog_pos_X4": 344,
@@ -202,6 +265,7 @@
     {
       "seqnames": "MAG06_835",
       "gene_ID": "MAG06_835_2",
+      "gene_strand": "-",
       "eggnog_pos_X2": "491916.RHECIAT_CH0003117",
       "eggnog_pos_X3": 92.4,
       "eggnog_pos_X4": 344,
@@ -219,6 +283,7 @@
     {
       "seqnames": "MAG06_835",
       "gene_ID": "MAG06_835_2",
+      "gene_strand": "-",
       "eggnog_pos_X2": "395492.Rleg2_2700",
       "eggnog_pos_X3": 91.9,
       "eggnog_pos_X4": 344,
@@ -236,6 +301,7 @@
     {
       "seqnames": "MAG06_835",
       "gene_ID": "MAG06_835_3",
+      "gene_strand": "-",
       "eggnog_pos_X2": "1117943.SFHH103_02128",
       "eggnog_pos_X3": 91.9,
       "eggnog_pos_X4": 395,
@@ -253,6 +319,7 @@
     {
       "seqnames": "MAG06_835",
       "gene_ID": "MAG06_835_4",
+      "gene_strand": "-",
       "eggnog_pos_X2": "366394.Smed_2226",
       "eggnog_pos_X3": 93.1,
       "eggnog_pos_X4": 524,

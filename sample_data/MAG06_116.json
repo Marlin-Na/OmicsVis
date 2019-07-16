@@ -38,7 +38,24 @@
       "eggnog_X10": "01SU0@aproNOG,060W2@bactNOG,16TIT@proNOG,COG3960@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "S",
-      "eggnog_X13": "glyoxylate carboligase"
+      "eggnog_X13": "glyoxylate carboligase",
+      "metric_1": 22,
+      "metric_2": 1,
+      "metric_3": 44,
+      "metric_6": 33,
+      "metric_8": 32,
+      "metric_9": 87,
+      "metric_10": 33,
+      "metric_11": 47,
+      "metric_12": 91,
+      "metric_13": 81,
+      "metric_17": 88,
+      "metric_19": 26,
+      "metric_22": 23,
+      "metric_23": 94,
+      "metric_25": 20,
+      "metric_26": 52,
+      "metric_30": 67
     },
     {
       "gene_seqnames": "MAG06_116",
@@ -74,7 +91,23 @@
       "eggnog_X10": "01QBC@aproNOG,05QG4@bactNOG,16PF7@proNOG,COG3622@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "G",
-      "eggnog_X13": "Catalyzes the reversible isomerization between hydroxypyruvate and 2-hydroxy-3-oxopropanoate (also termed tartronate semialdehyde) (By similarity)"
+      "eggnog_X13": "Catalyzes the reversible isomerization between hydroxypyruvate and 2-hydroxy-3-oxopropanoate (also termed tartronate semialdehyde) (By similarity)",
+      "metric_1": 4,
+      "metric_2": 33,
+      "metric_6": 12,
+      "metric_7": 99,
+      "metric_8": 86,
+      "metric_12": 51,
+      "metric_13": 66,
+      "metric_14": 1,
+      "metric_17": 8,
+      "metric_19": 31,
+      "metric_21": 17,
+      "metric_22": 76,
+      "metric_25": 90,
+      "metric_26": 64,
+      "metric_27": 68,
+      "metric_29": 95
     },
     {
       "gene_seqnames": "MAG06_116",
@@ -110,7 +143,21 @@
       "eggnog_X10": "01RIS@aproNOG,05CF3@bactNOG,16QDI@proNOG,COG2084@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "I",
-      "eggnog_X13": "Dehydrogenase"
+      "eggnog_X13": "Dehydrogenase",
+      "metric_1": 87,
+      "metric_2": 45,
+      "metric_3": 93,
+      "metric_7": 38,
+      "metric_10": 43,
+      "metric_11": 13,
+      "metric_13": 2,
+      "metric_17": 63,
+      "metric_21": 94,
+      "metric_23": 94,
+      "metric_25": 94,
+      "metric_26": 9,
+      "metric_28": 56,
+      "metric_29": 48
     },
     {
       "gene_seqnames": "MAG06_116",
@@ -145,13 +192,27 @@
       "eggnog_X10": "01QT1@aproNOG,05D1Z@bactNOG,16QIZ@proNOG,COG2379@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "G",
-      "eggnog_X13": "Hydroxypyruvate reductase"
+      "eggnog_X13": "Hydroxypyruvate reductase",
+      "metric_1": 17,
+      "metric_2": 41,
+      "metric_5": 95,
+      "metric_7": 57,
+      "metric_9": 17,
+      "metric_11": 31,
+      "metric_12": 71,
+      "metric_14": 10,
+      "metric_18": 53,
+      "metric_19": 15,
+      "metric_25": 89,
+      "metric_26": 6,
+      "metric_27": 66
     }
   ],
   "diamond_track": [
     {
       "seqnames": "MAG06_116",
       "gene_ID": "MAG06_116_1",
+      "gene_strand": "+",
       "eggnog_pos_X2": "641118.OINT_1000397",
       "eggnog_pos_X3": 90.9,
       "eggnog_pos_X4": 252,
@@ -169,6 +230,7 @@
     {
       "seqnames": "MAG06_116",
       "gene_ID": "MAG06_116_1",
+      "gene_strand": "+",
       "eggnog_pos_X2": "439375.Oant_0458",
       "eggnog_pos_X3": 90.1,
       "eggnog_pos_X4": 252,
@@ -186,6 +248,7 @@
     {
       "seqnames": "MAG06_116",
       "gene_ID": "MAG06_116_2",
+      "gene_strand": "+",
       "eggnog_pos_X2": "439375.Oant_0459",
       "eggnog_pos_X3": 75.8,
       "eggnog_pos_X4": 264,
@@ -203,6 +266,7 @@
     {
       "seqnames": "MAG06_116",
       "gene_ID": "MAG06_116_2",
+      "gene_strand": "+",
       "eggnog_pos_X2": "641118.OINT_1000398",
       "eggnog_pos_X3": 78.7,
       "eggnog_pos_X4": 253,
@@ -220,6 +284,7 @@
     {
       "seqnames": "MAG06_116",
       "gene_ID": "MAG06_116_3",
+      "gene_strand": "+",
       "eggnog_pos_X2": "266835.mlr0254",
       "eggnog_pos_X3": 71.3,
       "eggnog_pos_X4": 293,
@@ -237,6 +302,7 @@
     {
       "seqnames": "MAG06_116",
       "gene_ID": "MAG06_116_3",
+      "gene_strand": "+",
       "eggnog_pos_X2": "536019.Mesop_4649",
       "eggnog_pos_X3": 68.9,
       "eggnog_pos_X4": 293,
@@ -254,6 +320,7 @@
     {
       "seqnames": "MAG06_116",
       "gene_ID": "MAG06_116_3",
+      "gene_strand": "+",
       "eggnog_pos_X2": "765698.Mesci_3599",
       "eggnog_pos_X3": 70.3,
       "eggnog_pos_X4": 293,
@@ -271,6 +338,7 @@
     {
       "seqnames": "MAG06_116",
       "gene_ID": "MAG06_116_4",
+      "gene_strand": "+",
       "eggnog_pos_X2": "439375.Oant_0461",
       "eggnog_pos_X3": 71.1,
       "eggnog_pos_X4": 422,
@@ -288,6 +356,7 @@
     {
       "seqnames": "MAG06_116",
       "gene_ID": "MAG06_116_4",
+      "gene_strand": "+",
       "eggnog_pos_X2": "641118.OINT_1000400",
       "eggnog_pos_X3": 70,
       "eggnog_pos_X4": 430,
@@ -305,6 +374,7 @@
     {
       "seqnames": "MAG06_116",
       "gene_ID": "MAG06_116_4",
+      "gene_strand": "+",
       "eggnog_pos_X2": "266835.mlr5146",
       "eggnog_pos_X3": 69.9,
       "eggnog_pos_X4": 419,
@@ -322,6 +392,7 @@
     {
       "seqnames": "MAG06_116",
       "gene_ID": "MAG06_116_4",
+      "gene_strand": "+",
       "eggnog_pos_X2": "536019.Mesop_0344",
       "eggnog_pos_X3": 69.5,
       "eggnog_pos_X4": 417,
@@ -339,6 +410,7 @@
     {
       "seqnames": "MAG06_116",
       "gene_ID": "MAG06_116_4",
+      "gene_strand": "+",
       "eggnog_pos_X2": "430066.BAbS19_I03550",
       "eggnog_pos_X3": 70.2,
       "eggnog_pos_X4": 426,
@@ -356,6 +428,7 @@
     {
       "seqnames": "MAG06_116",
       "gene_ID": "MAG06_116_4",
+      "gene_strand": "+",
       "eggnog_pos_X2": "266779.Meso_2839",
       "eggnog_pos_X3": 70,
       "eggnog_pos_X4": 416,
@@ -373,6 +446,7 @@
     {
       "seqnames": "MAG06_116",
       "gene_ID": "MAG06_116_4",
+      "gene_strand": "+",
       "eggnog_pos_X2": "765698.Mesci_0361",
       "eggnog_pos_X3": 67.8,
       "eggnog_pos_X4": 419,

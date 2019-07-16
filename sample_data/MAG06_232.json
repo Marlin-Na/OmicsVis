@@ -36,7 +36,17 @@
       "eggnog_X10": "01T0E@aproNOG,05CPU@bactNOG,0XNPZ@NOG,16PMC@proNOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "C",
-      "eggnog_X13": "Nitrilotriacetate monooxygenase"
+      "eggnog_X13": "Nitrilotriacetate monooxygenase",
+      "metric_1": 98,
+      "metric_7": 64,
+      "metric_10": 26,
+      "metric_12": 95,
+      "metric_15": 91,
+      "metric_18": 28,
+      "metric_19": 51,
+      "metric_23": 48,
+      "metric_24": 59,
+      "metric_26": 39
     },
     {
       "gene_seqnames": "MAG06_232",
@@ -70,7 +80,18 @@
       "eggnog_X10": "01X86@aproNOG,08NFJ@bactNOG,11FK6@NOG,16VDQ@proNOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "P",
-      "eggnog_X13": "ABC transporter"
+      "eggnog_X13": "ABC transporter",
+      "metric_1": 22,
+      "metric_4": 64,
+      "metric_5": 47,
+      "metric_14": 65,
+      "metric_21": 50,
+      "metric_22": 92,
+      "metric_25": 66,
+      "metric_26": 91,
+      "metric_28": 31,
+      "metric_29": 82,
+      "metric_30": 38
     },
     {
       "gene_seqnames": "MAG06_232",
@@ -104,13 +125,25 @@
       "eggnog_X10": "05EHU@bactNOG,COG0467@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "T",
-      "eggnog_X13": "Circadian clock protein KaiC"
+      "eggnog_X13": "Circadian clock protein KaiC",
+      "metric_7": 41,
+      "metric_8": 80,
+      "metric_10": 94,
+      "metric_13": 14,
+      "metric_16": 62,
+      "metric_18": 76,
+      "metric_19": 16,
+      "metric_20": 81,
+      "metric_25": 58,
+      "metric_28": 4,
+      "metric_29": 35
     }
   ],
   "diamond_track": [
     {
       "seqnames": "MAG06_232",
       "gene_ID": "MAG06_232_1",
+      "gene_strand": "-",
       "eggnog_pos_X2": "536019.Mesop_0418",
       "eggnog_pos_X3": 82.9,
       "eggnog_pos_X4": 193,
@@ -128,6 +161,7 @@
     {
       "seqnames": "MAG06_232",
       "gene_ID": "MAG06_232_2",
+      "gene_strand": "-",
       "eggnog_pos_X2": "536019.Mesop_0417",
       "eggnog_pos_X3": 86.2,
       "eggnog_pos_X4": 188,
@@ -145,6 +179,7 @@
     {
       "seqnames": "MAG06_232",
       "gene_ID": "MAG06_232_3",
+      "gene_strand": "+",
       "eggnog_pos_X2": "311402.Avi_5592",
       "eggnog_pos_X3": 78.2,
       "eggnog_pos_X4": 354,

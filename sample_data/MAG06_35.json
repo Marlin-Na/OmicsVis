@@ -37,7 +37,19 @@
       "eggnog_X10": "02DPE@aproNOG,08ESZ@bactNOG,1716E@proNOG,COG1523@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "G",
-      "eggnog_X13": "Glycogen debranching enzyme"
+      "eggnog_X13": "Glycogen debranching enzyme",
+      "metric_1": 54,
+      "metric_4": 35,
+      "metric_5": 3,
+      "metric_10": 75,
+      "metric_16": 12,
+      "metric_17": 8,
+      "metric_19": 63,
+      "metric_20": 24,
+      "metric_21": 50,
+      "metric_23": 1,
+      "metric_25": 88,
+      "metric_26": 34
     },
     {
       "gene_seqnames": "MAG06_35",
@@ -71,13 +83,21 @@
       "eggnog_X10": "01QMD@aproNOG,0761E@bactNOG,16SEK@proNOG,COG3569@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "L",
-      "eggnog_X13": "DNA topoisomerase"
+      "eggnog_X13": "DNA topoisomerase",
+      "metric_11": 62,
+      "metric_13": 34,
+      "metric_14": 93,
+      "metric_17": 23,
+      "metric_21": 61,
+      "metric_28": 32,
+      "metric_30": 37
     }
   ],
   "diamond_track": [
     {
       "seqnames": "MAG06_35",
       "gene_ID": "MAG06_35_1",
+      "gene_strand": "+",
       "eggnog_pos_X2": "627192.SLG_10410",
       "eggnog_pos_X3": 53.6,
       "eggnog_pos_X4": 276,
@@ -95,6 +115,7 @@
     {
       "seqnames": "MAG06_35",
       "gene_ID": "MAG06_35_2",
+      "gene_strand": "+",
       "eggnog_pos_X2": "394.NGR_c30410",
       "eggnog_pos_X3": 73,
       "eggnog_pos_X4": 348,
@@ -112,6 +133,7 @@
     {
       "seqnames": "MAG06_35",
       "gene_ID": "MAG06_35_2",
+      "gene_strand": "+",
       "eggnog_pos_X2": "1117943.SFHH103_03046",
       "eggnog_pos_X3": 71.3,
       "eggnog_pos_X4": 342,

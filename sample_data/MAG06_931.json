@@ -35,7 +35,15 @@
       "eggnog_X10": "01Q6U@aproNOG,05EAT@bactNOG,16VYT@proNOG,COG0433@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "S",
-      "eggnog_X13": "AAA ATPase"
+      "eggnog_X13": "AAA ATPase",
+      "metric_2": 97,
+      "metric_8": 76,
+      "metric_12": 34,
+      "metric_18": 63,
+      "metric_23": 41,
+      "metric_26": 15,
+      "metric_27": 25,
+      "metric_29": 12
     },
     {
       "gene_seqnames": "MAG06_931",
@@ -70,7 +78,16 @@
       "eggnog_X10": "01S71@aproNOG,05F03@bactNOG,16QUE@proNOG,COG0796@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "M",
-      "eggnog_X13": "Provides the (R)-glutamate required for cell wall biosynthesis (By similarity)"
+      "eggnog_X13": "Provides the (R)-glutamate required for cell wall biosynthesis (By similarity)",
+      "metric_4": 77,
+      "metric_5": 68,
+      "metric_6": 3,
+      "metric_7": 1,
+      "metric_9": 1,
+      "metric_10": 49,
+      "metric_18": 4,
+      "metric_26": 12,
+      "metric_29": 21
     },
     {
       "gene_seqnames": "MAG06_931",
@@ -104,13 +121,25 @@
       "eggnog_X10": "01VVJ@aproNOG,05CVS@bactNOG,16QCD@proNOG,COG0565@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "J",
-      "eggnog_X13": "Methyltransferase"
+      "eggnog_X13": "Methyltransferase",
+      "metric_1": 74,
+      "metric_3": 58,
+      "metric_7": 43,
+      "metric_17": 41,
+      "metric_18": 48,
+      "metric_19": 27,
+      "metric_20": 78,
+      "metric_21": 24,
+      "metric_23": 63,
+      "metric_25": 34,
+      "metric_26": 70
     }
   ],
   "diamond_track": [
     {
       "seqnames": "MAG06_931",
       "gene_ID": "MAG06_931_1",
+      "gene_strand": "-",
       "eggnog_pos_X2": "266834.SMc00484",
       "eggnog_pos_X3": 99.4,
       "eggnog_pos_X4": 504,
@@ -128,6 +157,7 @@
     {
       "seqnames": "MAG06_931",
       "gene_ID": "MAG06_931_2",
+      "gene_strand": "-",
       "eggnog_pos_X2": "266834.SMc00483",
       "eggnog_pos_X3": 97.5,
       "eggnog_pos_X4": 277,
@@ -145,6 +175,7 @@
     {
       "seqnames": "MAG06_931",
       "gene_ID": "MAG06_931_3",
+      "gene_strand": "-",
       "eggnog_pos_X2": "266834.SMc00482",
       "eggnog_pos_X3": 100,
       "eggnog_pos_X4": 82,

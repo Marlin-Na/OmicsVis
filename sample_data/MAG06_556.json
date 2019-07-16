@@ -38,7 +38,23 @@
       "eggnog_X10": "01WVM@aproNOG,0902H@bactNOG,17CVK@proNOG,COG1905@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "C",
-      "eggnog_X13": "NADH dehydrogenase (Ubiquinone), 24 kDa subunit"
+      "eggnog_X13": "NADH dehydrogenase (Ubiquinone), 24 kDa subunit",
+      "metric_1": 86,
+      "metric_2": 78,
+      "metric_3": 55,
+      "metric_4": 20,
+      "metric_7": 87,
+      "metric_8": 98,
+      "metric_12": 13,
+      "metric_14": 91,
+      "metric_17": 17,
+      "metric_18": 68,
+      "metric_20": 34,
+      "metric_21": 56,
+      "metric_22": 83,
+      "metric_24": 2,
+      "metric_26": 51,
+      "metric_27": 48
     },
     {
       "gene_seqnames": "MAG06_556",
@@ -74,13 +90,24 @@
       "eggnog_X10": "01SEK@aproNOG,07QIZ@bactNOG,16PNT@proNOG,COG1894@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "C",
-      "eggnog_X13": "Formate dehydrogenase beta subunit"
+      "eggnog_X13": "Formate dehydrogenase beta subunit",
+      "metric_5": 4,
+      "metric_7": 24,
+      "metric_8": 75,
+      "metric_10": 8,
+      "metric_13": 98,
+      "metric_15": 25,
+      "metric_16": 43,
+      "metric_17": 95,
+      "metric_19": 74,
+      "metric_25": 41
     }
   ],
   "diamond_track": [
     {
       "seqnames": "MAG06_556",
       "gene_ID": "MAG06_556_1",
+      "gene_strand": "+",
       "eggnog_pos_X2": "266834.SMc02524",
       "eggnog_pos_X3": 100,
       "eggnog_pos_X4": 100,
@@ -98,6 +125,7 @@
     {
       "seqnames": "MAG06_556",
       "gene_ID": "MAG06_556_1",
+      "gene_strand": "+",
       "eggnog_pos_X2": "1117943.SFHH103_03119",
       "eggnog_pos_X3": 98,
       "eggnog_pos_X4": 100,
@@ -115,6 +143,7 @@
     {
       "seqnames": "MAG06_556",
       "gene_ID": "MAG06_556_1",
+      "gene_strand": "+",
       "eggnog_pos_X2": "394.NGR_c30900",
       "eggnog_pos_X3": 97,
       "eggnog_pos_X4": 100,
@@ -132,6 +161,7 @@
     {
       "seqnames": "MAG06_556",
       "gene_ID": "MAG06_556_1",
+      "gene_strand": "+",
       "eggnog_pos_X2": "366394.Smed_2899",
       "eggnog_pos_X3": 96,
       "eggnog_pos_X4": 100,
@@ -149,6 +179,7 @@
     {
       "seqnames": "MAG06_556",
       "gene_ID": "MAG06_556_2",
+      "gene_strand": "+",
       "eggnog_pos_X2": "366394.Smed_2898",
       "eggnog_pos_X3": 94.5,
       "eggnog_pos_X4": 493,
@@ -166,6 +197,7 @@
     {
       "seqnames": "MAG06_556",
       "gene_ID": "MAG06_556_2",
+      "gene_strand": "+",
       "eggnog_pos_X2": "394.NGR_c30890",
       "eggnog_pos_X3": 91.3,
       "eggnog_pos_X4": 493,

@@ -37,13 +37,29 @@
       "eggnog_X10": "01RDW@aproNOG,05DEI@bactNOG,16QQD@proNOG,COG0246@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "G",
-      "eggnog_X13": "Mannitol dehydrogenase"
+      "eggnog_X13": "Mannitol dehydrogenase",
+      "metric_1": 27,
+      "metric_2": 78,
+      "metric_3": 24,
+      "metric_5": 38,
+      "metric_7": 86,
+      "metric_8": 25,
+      "metric_11": 58,
+      "metric_13": 7,
+      "metric_15": 97,
+      "metric_16": 60,
+      "metric_17": 96,
+      "metric_19": 59,
+      "metric_20": 28,
+      "metric_26": 13,
+      "metric_28": 59
     }
   ],
   "diamond_track": [
     {
       "seqnames": "MAG06_914",
       "gene_ID": "MAG06_914_1",
+      "gene_strand": "-",
       "eggnog_pos_X2": "438753.AZC_3347",
       "eggnog_pos_X3": 60.1,
       "eggnog_pos_X4": 484,
@@ -61,6 +77,7 @@
     {
       "seqnames": "MAG06_914",
       "gene_ID": "MAG06_914_1",
+      "gene_strand": "-",
       "eggnog_pos_X2": "460265.Mnod_0976",
       "eggnog_pos_X3": 61,
       "eggnog_pos_X4": 482,
@@ -78,6 +95,7 @@
     {
       "seqnames": "MAG06_914",
       "gene_ID": "MAG06_914_1",
+      "gene_strand": "-",
       "eggnog_pos_X2": "430066.BAbS19_II04010",
       "eggnog_pos_X3": 60.4,
       "eggnog_pos_X4": 482,
@@ -95,6 +113,7 @@
     {
       "seqnames": "MAG06_914",
       "gene_ID": "MAG06_914_1",
+      "gene_strand": "-",
       "eggnog_pos_X2": "287752.SI859A1_00055",
       "eggnog_pos_X3": 60.4,
       "eggnog_pos_X4": 482,
@@ -112,6 +131,7 @@
     {
       "seqnames": "MAG06_914",
       "gene_ID": "MAG06_914_1",
+      "gene_strand": "-",
       "eggnog_pos_X2": "224914.BAWG_2091",
       "eggnog_pos_X3": 60.2,
       "eggnog_pos_X4": 482,

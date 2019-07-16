@@ -37,7 +37,18 @@
       "eggnog_X10": "01VVP@aproNOG,08R86@bactNOG,177R6@proNOG,COG1309@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "K",
-      "eggnog_X13": "Transcriptional regulator, TetR family"
+      "eggnog_X13": "Transcriptional regulator, TetR family",
+      "metric_1": 70,
+      "metric_2": 87,
+      "metric_4": 94,
+      "metric_7": 57,
+      "metric_8": 81,
+      "metric_11": 38,
+      "metric_14": 96,
+      "metric_20": 38,
+      "metric_23": 67,
+      "metric_24": 50,
+      "metric_26": 93
     },
     {
       "gene_seqnames": "MAG06_947",
@@ -72,7 +83,21 @@
       "eggnog_X10": "01VVP@aproNOG,08R86@bactNOG,177R6@proNOG,COG1309@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "K",
-      "eggnog_X13": "Transcriptional regulator, TetR family"
+      "eggnog_X13": "Transcriptional regulator, TetR family",
+      "metric_1": 45,
+      "metric_4": 58,
+      "metric_6": 65,
+      "metric_8": 63,
+      "metric_11": 51,
+      "metric_13": 5,
+      "metric_14": 77,
+      "metric_15": 97,
+      "metric_19": 88,
+      "metric_20": 86,
+      "metric_21": 64,
+      "metric_23": 81,
+      "metric_24": 53,
+      "metric_30": 49
     },
     {
       "gene_seqnames": "MAG06_947",
@@ -108,7 +133,21 @@
       "eggnog_X10": "01SMG@aproNOG,05CE7@bactNOG,16QP4@proNOG,COG0624@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "E",
-      "eggnog_X13": "amidohydrolase"
+      "eggnog_X13": "amidohydrolase",
+      "metric_2": 47,
+      "metric_6": 83,
+      "metric_7": 43,
+      "metric_9": 3,
+      "metric_12": 39,
+      "metric_13": 52,
+      "metric_15": 46,
+      "metric_18": 4,
+      "metric_19": 22,
+      "metric_20": 76,
+      "metric_23": 45,
+      "metric_28": 94,
+      "metric_29": 68,
+      "metric_30": 24
     },
     {
       "gene_seqnames": "MAG06_947",
@@ -143,13 +182,27 @@
       "eggnog_X10": "01QQY@aproNOG,05CD3@bactNOG,16PSG@proNOG,COG0044@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "F",
-      "eggnog_X13": "Dihydropyrimidinase"
+      "eggnog_X13": "Dihydropyrimidinase",
+      "metric_2": 58,
+      "metric_3": 76,
+      "metric_4": 4,
+      "metric_8": 48,
+      "metric_11": 94,
+      "metric_12": 34,
+      "metric_19": 62,
+      "metric_20": 47,
+      "metric_21": 88,
+      "metric_22": 11,
+      "metric_27": 76,
+      "metric_28": 90,
+      "metric_30": 99
     }
   ],
   "diamond_track": [
     {
       "seqnames": "MAG06_947",
       "gene_ID": "MAG06_947_1",
+      "gene_strand": "-",
       "eggnog_pos_X2": "266834.SMc01819",
       "eggnog_pos_X3": 100,
       "eggnog_pos_X4": 149,
@@ -167,6 +220,7 @@
     {
       "seqnames": "MAG06_947",
       "gene_ID": "MAG06_947_2",
+      "gene_strand": "-",
       "eggnog_pos_X2": "266834.SMc01819",
       "eggnog_pos_X3": 97.9,
       "eggnog_pos_X4": 47,
@@ -184,6 +238,7 @@
     {
       "seqnames": "MAG06_947",
       "gene_ID": "MAG06_947_3",
+      "gene_strand": "+",
       "eggnog_pos_X2": "311403.Arad_3446",
       "eggnog_pos_X3": 84.6,
       "eggnog_pos_X4": 415,
@@ -201,6 +256,7 @@
     {
       "seqnames": "MAG06_947",
       "gene_ID": "MAG06_947_3",
+      "gene_strand": "+",
       "eggnog_pos_X2": "216596.RL3716",
       "eggnog_pos_X3": 84.6,
       "eggnog_pos_X4": 415,
@@ -218,6 +274,7 @@
     {
       "seqnames": "MAG06_947",
       "gene_ID": "MAG06_947_3",
+      "gene_strand": "+",
       "eggnog_pos_X2": "311402.Avi_3455",
       "eggnog_pos_X3": 85,
       "eggnog_pos_X4": 407,
@@ -235,6 +292,7 @@
     {
       "seqnames": "MAG06_947",
       "gene_ID": "MAG06_947_4",
+      "gene_strand": "+",
       "eggnog_pos_X2": "394.NGR_c24840",
       "eggnog_pos_X3": 97.1,
       "eggnog_pos_X4": 343,

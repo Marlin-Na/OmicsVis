@@ -38,13 +38,19 @@
       "eggnog_X10": "01Q8N@aproNOG,05C01@bactNOG,16PQJ@proNOG,COG0129@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "E",
-      "eggnog_X13": "Dihydroxy-acid dehydratase"
+      "eggnog_X13": "Dihydroxy-acid dehydratase",
+      "metric_2": 66,
+      "metric_3": 86,
+      "metric_12": 36,
+      "metric_22": 54,
+      "metric_30": 8
     }
   ],
   "diamond_track": [
     {
       "seqnames": "MAG06_991",
       "gene_ID": "MAG06_991_1",
+      "gene_strand": "+",
       "eggnog_pos_X2": "378806.STAUR_2011",
       "eggnog_pos_X3": 90.8,
       "eggnog_pos_X4": 521,
@@ -62,6 +68,7 @@
     {
       "seqnames": "MAG06_991",
       "gene_ID": "MAG06_991_1",
+      "gene_strand": "+",
       "eggnog_pos_X2": "861208.AGROH133_07098",
       "eggnog_pos_X3": 90.8,
       "eggnog_pos_X4": 521,
@@ -79,6 +86,7 @@
     {
       "seqnames": "MAG06_991",
       "gene_ID": "MAG06_991_1",
+      "gene_strand": "+",
       "eggnog_pos_X2": "1050720.Agau_C200623",
       "eggnog_pos_X3": 90.6,
       "eggnog_pos_X4": 521,
@@ -96,6 +104,7 @@
     {
       "seqnames": "MAG06_991",
       "gene_ID": "MAG06_991_1",
+      "gene_strand": "+",
       "eggnog_pos_X2": "176299.Atu1918",
       "eggnog_pos_X3": 90.2,
       "eggnog_pos_X4": 521,

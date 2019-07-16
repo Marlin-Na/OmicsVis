@@ -36,7 +36,17 @@
       "eggnog_X10": "01QKC@aproNOG,06AHI@bactNOG,16SZW@proNOG,COG0349@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "J",
-      "eggnog_X13": "3-5 exonuclease"
+      "eggnog_X13": "3-5 exonuclease",
+      "metric_3": 69,
+      "metric_4": 51,
+      "metric_6": 41,
+      "metric_7": 11,
+      "metric_8": 52,
+      "metric_12": 80,
+      "metric_15": 18,
+      "metric_24": 29,
+      "metric_27": 96,
+      "metric_29": 62
     },
     {
       "gene_seqnames": "MAG06_1040",
@@ -60,7 +70,17 @@
       "gene_sscore": "0.64",
       "gene_rscore": "-0.37",
       "gene_uscore": "-2.64",
-      "gene_tscore": "3.65"
+      "gene_tscore": "3.65",
+      "metric_2": 95,
+      "metric_4": 13,
+      "metric_8": 31,
+      "metric_11": 20,
+      "metric_12": 5,
+      "metric_17": 66,
+      "metric_20": 21,
+      "metric_22": 56,
+      "metric_23": 90,
+      "metric_26": 78
     },
     {
       "gene_seqnames": "MAG06_1040",
@@ -92,7 +112,22 @@
       "eggnog_X10": "01VFH@aproNOG,073G4@bactNOG,16QNI@proNOG,COG0111@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "C",
-      "eggnog_X13": "D-isomer specific 2-hydroxyacid dehydrogenase, NAD-binding"
+      "eggnog_X13": "D-isomer specific 2-hydroxyacid dehydrogenase, NAD-binding",
+      "metric_5": 93,
+      "metric_6": 6,
+      "metric_7": 12,
+      "metric_8": 92,
+      "metric_9": 70,
+      "metric_10": 12,
+      "metric_12": 63,
+      "metric_13": 23,
+      "metric_18": 37,
+      "metric_19": 1,
+      "metric_22": 61,
+      "metric_23": 79,
+      "metric_25": 37,
+      "metric_26": 35,
+      "metric_28": 27
     },
     {
       "gene_seqnames": "MAG06_1040",
@@ -127,13 +162,25 @@
       "eggnog_X10": "01VX5@aproNOG,08T5G@bactNOG,1787E@proNOG,COG0840@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "F",
-      "eggnog_X13": "Adenylate"
+      "eggnog_X13": "Adenylate",
+      "metric_3": 75,
+      "metric_4": 42,
+      "metric_6": 16,
+      "metric_7": 79,
+      "metric_10": 92,
+      "metric_13": 83,
+      "metric_15": 49,
+      "metric_27": 77,
+      "metric_28": 87,
+      "metric_29": 91,
+      "metric_30": 65
     }
   ],
   "diamond_track": [
     {
       "seqnames": "MAG06_1040",
       "gene_ID": "MAG06_1040_1",
+      "gene_strand": "-",
       "eggnog_pos_X2": "266834.SMc00342",
       "eggnog_pos_X3": 100,
       "eggnog_pos_X4": 38,
@@ -150,11 +197,8 @@
     },
     {
       "seqnames": "MAG06_1040",
-      "gene_ID": "MAG06_1040_2"
-    },
-    {
-      "seqnames": "MAG06_1040",
       "gene_ID": "MAG06_1040_3",
+      "gene_strand": "+",
       "eggnog_pos_X2": "266834.SMc00340",
       "eggnog_pos_X3": 99.1,
       "eggnog_pos_X4": 348,
@@ -172,6 +216,7 @@
     {
       "seqnames": "MAG06_1040",
       "gene_ID": "MAG06_1040_4",
+      "gene_strand": "+",
       "eggnog_pos_X2": "266834.SMc00339",
       "eggnog_pos_X3": 99,
       "eggnog_pos_X4": 100,

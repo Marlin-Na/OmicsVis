@@ -35,7 +35,26 @@
       "eggnog_X10": "0260Z@aproNOG,06EUB@bactNOG,17Z8F@proNOG,COG5598@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "H",
-      "eggnog_X13": "trimethylamine methyltransferase"
+      "eggnog_X13": "trimethylamine methyltransferase",
+      "metric_1": 2,
+      "metric_6": 30,
+      "metric_7": 22,
+      "metric_8": 44,
+      "metric_11": 89,
+      "metric_12": 67,
+      "metric_13": 76,
+      "metric_14": 47,
+      "metric_16": 44,
+      "metric_17": 49,
+      "metric_18": 1,
+      "metric_20": 18,
+      "metric_21": 98,
+      "metric_22": 60,
+      "metric_23": 62,
+      "metric_25": 22,
+      "metric_26": 51,
+      "metric_28": 9,
+      "metric_29": 69
     },
     {
       "gene_seqnames": "MAG06_13",
@@ -67,7 +86,22 @@
       "eggnog_X10": "06PXD@bactNOG,17WM4@proNOG,COG4977@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "K",
-      "eggnog_X13": "transcriptional regulator"
+      "eggnog_X13": "transcriptional regulator",
+      "metric_1": 82,
+      "metric_3": 15,
+      "metric_4": 17,
+      "metric_5": 40,
+      "metric_6": 90,
+      "metric_7": 1,
+      "metric_8": 59,
+      "metric_14": 33,
+      "metric_17": 92,
+      "metric_19": 53,
+      "metric_23": 49,
+      "metric_24": 94,
+      "metric_26": 96,
+      "metric_28": 47,
+      "metric_30": 43
     },
     {
       "gene_seqnames": "MAG06_13",
@@ -99,7 +133,17 @@
       "eggnog_X10": "01VJW@aproNOG,05H1N@bactNOG,16QM1@proNOG,COG0006@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "E",
-      "eggnog_X13": "peptidase, M24"
+      "eggnog_X13": "peptidase, M24",
+      "metric_1": 24,
+      "metric_2": 93,
+      "metric_3": 36,
+      "metric_4": 13,
+      "metric_7": 61,
+      "metric_9": 27,
+      "metric_18": 15,
+      "metric_21": 89,
+      "metric_22": 45,
+      "metric_30": 8
     },
     {
       "gene_seqnames": "MAG06_13",
@@ -131,13 +175,29 @@
       "eggnog_X10": "0828C@bactNOG,17MC3@proNOG,COG1335@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "Q",
-      "eggnog_X13": "Isochorismatase, hydrolase"
+      "eggnog_X13": "Isochorismatase, hydrolase",
+      "metric_1": 18,
+      "metric_2": 67,
+      "metric_3": 73,
+      "metric_6": 58,
+      "metric_7": 71,
+      "metric_11": 28,
+      "metric_12": 4,
+      "metric_13": 81,
+      "metric_15": 42,
+      "metric_16": 87,
+      "metric_17": 22,
+      "metric_21": 82,
+      "metric_23": 71,
+      "metric_28": 72,
+      "metric_30": 47
     }
   ],
   "diamond_track": [
     {
       "seqnames": "MAG06_13",
       "gene_ID": "MAG06_13_1",
+      "gene_strand": "+",
       "eggnog_pos_X2": "331869.BAL199_29255",
       "eggnog_pos_X3": 71.1,
       "eggnog_pos_X4": 270,
@@ -155,6 +215,7 @@
     {
       "seqnames": "MAG06_13",
       "gene_ID": "MAG06_13_2",
+      "gene_strand": "+",
       "eggnog_pos_X2": "391735.Veis_2917",
       "eggnog_pos_X3": 69.8,
       "eggnog_pos_X4": 331,
@@ -172,6 +233,7 @@
     {
       "seqnames": "MAG06_13",
       "gene_ID": "MAG06_13_3",
+      "gene_strand": "+",
       "eggnog_pos_X2": "765698.Mesci_0838",
       "eggnog_pos_X3": 93.7,
       "eggnog_pos_X4": 430,
@@ -189,6 +251,7 @@
     {
       "seqnames": "MAG06_13",
       "gene_ID": "MAG06_13_3",
+      "gene_strand": "+",
       "eggnog_pos_X2": "536019.Mesop_0891",
       "eggnog_pos_X3": 94.4,
       "eggnog_pos_X4": 430,
@@ -206,6 +269,7 @@
     {
       "seqnames": "MAG06_13",
       "gene_ID": "MAG06_13_4",
+      "gene_strand": "+",
       "eggnog_pos_X2": "391735.Veis_2915",
       "eggnog_pos_X3": 67.6,
       "eggnog_pos_X4": 111,

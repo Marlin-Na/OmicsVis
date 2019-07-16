@@ -26,7 +26,19 @@
       "gene_sscore": "2.78",
       "gene_rscore": "-0.37",
       "gene_uscore": "0.15",
-      "gene_tscore": "3.65"
+      "gene_tscore": "3.65",
+      "metric_3": 49,
+      "metric_4": 61,
+      "metric_6": 33,
+      "metric_10": 35,
+      "metric_12": 94,
+      "metric_13": 15,
+      "metric_18": 29,
+      "metric_22": 79,
+      "metric_23": 75,
+      "metric_27": 35,
+      "metric_29": 52,
+      "metric_30": 76
     },
     {
       "gene_seqnames": "MAG06_469",
@@ -62,7 +74,22 @@
       "eggnog_X10": "01RGG@aproNOG,05WJV@bactNOG,16S60@proNOG,COG1174@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "P",
-      "eggnog_X13": "Binding-protein-dependent transport systems inner membrane component"
+      "eggnog_X13": "Binding-protein-dependent transport systems inner membrane component",
+      "metric_2": 75,
+      "metric_4": 87,
+      "metric_5": 8,
+      "metric_9": 71,
+      "metric_13": 15,
+      "metric_16": 3,
+      "metric_17": 70,
+      "metric_19": 36,
+      "metric_20": 34,
+      "metric_21": 64,
+      "metric_24": 10,
+      "metric_25": 81,
+      "metric_26": 67,
+      "metric_27": 35,
+      "metric_29": 15
     },
     {
       "gene_seqnames": "MAG06_469",
@@ -97,7 +124,20 @@
       "eggnog_X10": "02E7T@aproNOG,08IJ8@bactNOG,172SX@proNOG,COG1125@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "E",
-      "eggnog_X13": "ABC transporter"
+      "eggnog_X13": "ABC transporter",
+      "metric_1": 30,
+      "metric_4": 57,
+      "metric_5": 30,
+      "metric_6": 58,
+      "metric_9": 6,
+      "metric_11": 74,
+      "metric_14": 20,
+      "metric_15": 50,
+      "metric_20": 21,
+      "metric_21": 64,
+      "metric_23": 25,
+      "metric_24": 96,
+      "metric_29": 22
     },
     {
       "gene_seqnames": "MAG06_469",
@@ -133,7 +173,21 @@
       "eggnog_X10": "01U38@aproNOG,07T5X@bactNOG,173U7@proNOG,COG1174@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "E",
-      "eggnog_X13": "Binding-protein-dependent transport systems inner membrane component"
+      "eggnog_X13": "Binding-protein-dependent transport systems inner membrane component",
+      "metric_2": 82,
+      "metric_3": 84,
+      "metric_4": 18,
+      "metric_5": 68,
+      "metric_8": 97,
+      "metric_9": 99,
+      "metric_11": 49,
+      "metric_12": 5,
+      "metric_16": 81,
+      "metric_19": 17,
+      "metric_20": 28,
+      "metric_21": 19,
+      "metric_22": 10,
+      "metric_28": 95
     },
     {
       "gene_seqnames": "MAG06_469",
@@ -169,17 +223,27 @@
       "eggnog_X10": "01QS8@aproNOG,07SI7@bactNOG,16SCT@proNOG,COG1732@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "E",
-      "eggnog_X13": "substrate-binding region of ABC-type glycine betaine transport system"
+      "eggnog_X13": "substrate-binding region of ABC-type glycine betaine transport system",
+      "metric_2": 35,
+      "metric_3": 85,
+      "metric_9": 9,
+      "metric_10": 18,
+      "metric_13": 96,
+      "metric_16": 91,
+      "metric_21": 90,
+      "metric_22": 36,
+      "metric_23": 30,
+      "metric_27": 31,
+      "metric_28": 68,
+      "metric_29": 15,
+      "metric_30": 89
     }
   ],
   "diamond_track": [
     {
       "seqnames": "MAG06_469",
-      "gene_ID": "MAG06_469_1"
-    },
-    {
-      "seqnames": "MAG06_469",
       "gene_ID": "MAG06_469_2",
+      "gene_strand": "-",
       "eggnog_pos_X2": "266835.mlr8416",
       "eggnog_pos_X3": 79.3,
       "eggnog_pos_X4": 241,
@@ -197,6 +261,7 @@
     {
       "seqnames": "MAG06_469",
       "gene_ID": "MAG06_469_2",
+      "gene_strand": "-",
       "eggnog_pos_X2": "765698.Mesci_4467",
       "eggnog_pos_X3": 78.8,
       "eggnog_pos_X4": 241,
@@ -214,6 +279,7 @@
     {
       "seqnames": "MAG06_469",
       "gene_ID": "MAG06_469_2",
+      "gene_strand": "-",
       "eggnog_pos_X2": "536019.Mesop_4917",
       "eggnog_pos_X3": 78.4,
       "eggnog_pos_X4": 241,
@@ -231,6 +297,7 @@
     {
       "seqnames": "MAG06_469",
       "gene_ID": "MAG06_469_3",
+      "gene_strand": "-",
       "eggnog_pos_X2": "536019.Mesop_4918",
       "eggnog_pos_X3": 76.1,
       "eggnog_pos_X4": 310,
@@ -248,6 +315,7 @@
     {
       "seqnames": "MAG06_469",
       "gene_ID": "MAG06_469_3",
+      "gene_strand": "-",
       "eggnog_pos_X2": "765698.Mesci_4468",
       "eggnog_pos_X3": 75.8,
       "eggnog_pos_X4": 310,
@@ -265,6 +333,7 @@
     {
       "seqnames": "MAG06_469",
       "gene_ID": "MAG06_469_3",
+      "gene_strand": "-",
       "eggnog_pos_X2": "266835.mlr8415",
       "eggnog_pos_X3": 75.2,
       "eggnog_pos_X4": 310,
@@ -282,6 +351,7 @@
     {
       "seqnames": "MAG06_469",
       "gene_ID": "MAG06_469_4",
+      "gene_strand": "-",
       "eggnog_pos_X2": "266835.mlr8414",
       "eggnog_pos_X3": 74.9,
       "eggnog_pos_X4": 382,
@@ -299,6 +369,7 @@
     {
       "seqnames": "MAG06_469",
       "gene_ID": "MAG06_469_4",
+      "gene_strand": "-",
       "eggnog_pos_X2": "536019.Mesop_4919",
       "eggnog_pos_X3": 74.7,
       "eggnog_pos_X4": 379,
@@ -316,6 +387,7 @@
     {
       "seqnames": "MAG06_469",
       "gene_ID": "MAG06_469_4",
+      "gene_strand": "-",
       "eggnog_pos_X2": "765698.Mesci_4469",
       "eggnog_pos_X3": 74.6,
       "eggnog_pos_X4": 382,
@@ -333,6 +405,7 @@
     {
       "seqnames": "MAG06_469",
       "gene_ID": "MAG06_469_5",
+      "gene_strand": "-",
       "eggnog_pos_X2": "439375.Oant_0299",
       "eggnog_pos_X3": 85.4,
       "eggnog_pos_X4": 157,
@@ -350,6 +423,7 @@
     {
       "seqnames": "MAG06_469",
       "gene_ID": "MAG06_469_5",
+      "gene_strand": "-",
       "eggnog_pos_X2": "641118.OINT_1000244",
       "eggnog_pos_X3": 84.7,
       "eggnog_pos_X4": 157,
@@ -367,6 +441,7 @@
     {
       "seqnames": "MAG06_469",
       "gene_ID": "MAG06_469_5",
+      "gene_strand": "-",
       "eggnog_pos_X2": "224914.BAWG_0508",
       "eggnog_pos_X3": 84.7,
       "eggnog_pos_X4": 157,
@@ -384,6 +459,7 @@
     {
       "seqnames": "MAG06_469",
       "gene_ID": "MAG06_469_5",
+      "gene_strand": "-",
       "eggnog_pos_X2": "430066.BAbS19_I02130",
       "eggnog_pos_X3": 84.7,
       "eggnog_pos_X4": 157,
@@ -401,6 +477,7 @@
     {
       "seqnames": "MAG06_469",
       "gene_ID": "MAG06_469_5",
+      "gene_strand": "-",
       "eggnog_pos_X2": "765698.Mesci_4470",
       "eggnog_pos_X3": 84.1,
       "eggnog_pos_X4": 157,

@@ -35,7 +35,23 @@
       "eggnog_X10": "021N9@aproNOG,082JX@bactNOG,17KA3@proNOG,COG2827@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "L",
-      "eggnog_X13": "Excinuclease ABC C subunit"
+      "eggnog_X13": "Excinuclease ABC C subunit",
+      "metric_1": 9,
+      "metric_2": 99,
+      "metric_6": 92,
+      "metric_12": 79,
+      "metric_13": 23,
+      "metric_14": 50,
+      "metric_16": 89,
+      "metric_18": 20,
+      "metric_20": 68,
+      "metric_21": 75,
+      "metric_22": 47,
+      "metric_23": 32,
+      "metric_24": 69,
+      "metric_26": 69,
+      "metric_28": 61,
+      "metric_30": 78
     },
     {
       "gene_seqnames": "MAG06_1001",
@@ -68,7 +84,20 @@
       "eggnog_X10": "0201F@aproNOG,05K75@bactNOG,17FQE@proNOG,COG3526@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "O",
-      "eggnog_X13": "selenoprotein"
+      "eggnog_X13": "selenoprotein",
+      "metric_1": 48,
+      "metric_4": 49,
+      "metric_8": 7,
+      "metric_12": 9,
+      "metric_13": 18,
+      "metric_14": 1,
+      "metric_17": 2,
+      "metric_20": 46,
+      "metric_21": 97,
+      "metric_25": 98,
+      "metric_27": 17,
+      "metric_28": 2,
+      "metric_29": 98
     },
     {
       "gene_seqnames": "MAG06_1001",
@@ -101,7 +130,21 @@
       "eggnog_X10": "01YC5@aproNOG,05H0G@bactNOG,17DAC@proNOG,COG2259@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "S",
-      "eggnog_X13": "DoxX"
+      "eggnog_X13": "DoxX",
+      "metric_2": 42,
+      "metric_4": 33,
+      "metric_5": 3,
+      "metric_6": 27,
+      "metric_7": 12,
+      "metric_12": 33,
+      "metric_13": 65,
+      "metric_18": 58,
+      "metric_19": 13,
+      "metric_23": 60,
+      "metric_25": 24,
+      "metric_27": 75,
+      "metric_28": 61,
+      "metric_29": 18
     },
     {
       "gene_seqnames": "MAG06_1001",
@@ -136,7 +179,19 @@
       "eggnog_X10": "023DS@aproNOG,05NXH@bactNOG,17GEP@proNOG,COG0782@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "K",
-      "eggnog_X13": "GreA GreB family elongation factor"
+      "eggnog_X13": "GreA GreB family elongation factor",
+      "metric_3": 39,
+      "metric_4": 23,
+      "metric_8": 8,
+      "metric_9": 83,
+      "metric_11": 13,
+      "metric_12": 37,
+      "metric_14": 38,
+      "metric_16": 81,
+      "metric_22": 7,
+      "metric_24": 27,
+      "metric_26": 44,
+      "metric_28": 3
     },
     {
       "gene_seqnames": "MAG06_1001",
@@ -171,7 +226,20 @@
       "eggnog_X10": "COG5302@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "S",
-      "eggnog_X13": "Post-segregation antitoxin CcdA"
+      "eggnog_X13": "Post-segregation antitoxin CcdA",
+      "metric_1": 55,
+      "metric_2": 57,
+      "metric_4": 62,
+      "metric_7": 22,
+      "metric_14": 74,
+      "metric_15": 79,
+      "metric_16": 21,
+      "metric_18": 31,
+      "metric_23": 77,
+      "metric_25": 21,
+      "metric_27": 24,
+      "metric_28": 52,
+      "metric_29": 19
     },
     {
       "gene_seqnames": "MAG06_1001",
@@ -206,13 +274,29 @@
       "eggnog_X10": "01QS9@aproNOG,05C4S@bactNOG,16PGF@proNOG,COG0481@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "M",
-      "eggnog_X13": "Required for accurate and efficient protein synthesis under certain stress conditions. May act as a fidelity factor of the translation reaction, by catalyzing a one-codon backward translocation of tRNAs on improperly translocated ribosomes. Back- translocation proceeds from a post-translocation (POST) complex to a pre-translocation (PRE) complex, thus giving elongation factor G a second chance to translocate the tRNAs correctly. Binds to ribosomes in a GTP-dependent manner (By similarity)"
+      "eggnog_X13": "Required for accurate and efficient protein synthesis under certain stress conditions. May act as a fidelity factor of the translation reaction, by catalyzing a one-codon backward translocation of tRNAs on improperly translocated ribosomes. Back- translocation proceeds from a post-translocation (POST) complex to a pre-translocation (PRE) complex, thus giving elongation factor G a second chance to translocate the tRNAs correctly. Binds to ribosomes in a GTP-dependent manner (By similarity)",
+      "metric_1": 88,
+      "metric_4": 52,
+      "metric_8": 15,
+      "metric_11": 25,
+      "metric_12": 80,
+      "metric_14": 69,
+      "metric_15": 19,
+      "metric_17": 79,
+      "metric_18": 63,
+      "metric_19": 8,
+      "metric_20": 5,
+      "metric_24": 22,
+      "metric_25": 20,
+      "metric_28": 51,
+      "metric_29": 11
     }
   ],
   "diamond_track": [
     {
       "seqnames": "MAG06_1001",
       "gene_ID": "MAG06_1001_1",
+      "gene_strand": "+",
       "eggnog_pos_X2": "266834.SMc00344",
       "eggnog_pos_X3": 97.3,
       "eggnog_pos_X4": 37,
@@ -230,6 +314,7 @@
     {
       "seqnames": "MAG06_1001",
       "gene_ID": "MAG06_1001_2",
+      "gene_strand": "-",
       "eggnog_pos_X2": "266834.SMc00345",
       "eggnog_pos_X3": 100,
       "eggnog_pos_X4": 93,
@@ -247,6 +332,7 @@
     {
       "seqnames": "MAG06_1001",
       "gene_ID": "MAG06_1001_2",
+      "gene_strand": "-",
       "eggnog_pos_X2": "366394.Smed_3465",
       "eggnog_pos_X3": 97.8,
       "eggnog_pos_X4": 93,
@@ -264,6 +350,7 @@
     {
       "seqnames": "MAG06_1001",
       "gene_ID": "MAG06_1001_3",
+      "gene_strand": "+",
       "eggnog_pos_X2": "266834.SMc00346",
       "eggnog_pos_X3": 100,
       "eggnog_pos_X4": 150,
@@ -281,6 +368,7 @@
     {
       "seqnames": "MAG06_1001",
       "gene_ID": "MAG06_1001_3",
+      "gene_strand": "+",
       "eggnog_pos_X2": "366394.Smed_3466",
       "eggnog_pos_X3": 96,
       "eggnog_pos_X4": 150,
@@ -298,6 +386,7 @@
     {
       "seqnames": "MAG06_1001",
       "gene_ID": "MAG06_1001_4",
+      "gene_strand": "-",
       "eggnog_pos_X2": "266834.SMc00347",
       "eggnog_pos_X3": 99.3,
       "eggnog_pos_X4": 135,
@@ -315,6 +404,7 @@
     {
       "seqnames": "MAG06_1001",
       "gene_ID": "MAG06_1001_5",
+      "gene_strand": "-",
       "eggnog_pos_X2": "266834.SMc00348",
       "eggnog_pos_X3": 94.8,
       "eggnog_pos_X4": 77,
@@ -332,6 +422,7 @@
     {
       "seqnames": "MAG06_1001",
       "gene_ID": "MAG06_1001_6",
+      "gene_strand": "-",
       "eggnog_pos_X2": "395492.Rleg2_4255",
       "eggnog_pos_X3": 94.1,
       "eggnog_pos_X4": 541,
@@ -349,6 +440,7 @@
     {
       "seqnames": "MAG06_1001",
       "gene_ID": "MAG06_1001_6",
+      "gene_strand": "-",
       "eggnog_pos_X2": "491916.RHECIAT_CH0000283",
       "eggnog_pos_X3": 93.7,
       "eggnog_pos_X4": 541,
@@ -366,6 +458,7 @@
     {
       "seqnames": "MAG06_1001",
       "gene_ID": "MAG06_1001_6",
+      "gene_strand": "-",
       "eggnog_pos_X2": "347834.RHE_CH00248",
       "eggnog_pos_X3": 92.2,
       "eggnog_pos_X4": 541,

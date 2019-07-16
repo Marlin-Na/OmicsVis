@@ -37,7 +37,19 @@
       "eggnog_X10": "01QB8@aproNOG,05C0P@bactNOG,16PMU@proNOG,COG0606@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "O",
-      "eggnog_X13": "Mg chelatase"
+      "eggnog_X13": "Mg chelatase",
+      "metric_3": 76,
+      "metric_4": 12,
+      "metric_10": 46,
+      "metric_11": 96,
+      "metric_12": 53,
+      "metric_13": 12,
+      "metric_16": 27,
+      "metric_18": 11,
+      "metric_20": 41,
+      "metric_21": 35,
+      "metric_23": 38,
+      "metric_24": 38
     },
     {
       "gene_seqnames": "MAG06_1013",
@@ -73,7 +85,16 @@
       "eggnog_X10": "01QAH@aproNOG,05D7Z@bactNOG,16RRV@proNOG,COG0189@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "H",
-      "eggnog_X13": "glutathione synthase"
+      "eggnog_X13": "glutathione synthase",
+      "metric_5": 71,
+      "metric_18": 39,
+      "metric_20": 39,
+      "metric_22": 50,
+      "metric_23": 72,
+      "metric_25": 73,
+      "metric_27": 46,
+      "metric_29": 57,
+      "metric_30": 18
     },
     {
       "gene_seqnames": "MAG06_1013",
@@ -107,7 +128,21 @@
       "eggnog_X10": "021SZ@aproNOG,082FP@bactNOG,16WTX@proNOG,COG0792@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "L",
-      "eggnog_X13": "UPF0102 protein"
+      "eggnog_X13": "UPF0102 protein",
+      "metric_1": 30,
+      "metric_2": 88,
+      "metric_3": 18,
+      "metric_6": 37,
+      "metric_7": 30,
+      "metric_8": 24,
+      "metric_11": 34,
+      "metric_12": 67,
+      "metric_14": 84,
+      "metric_15": 7,
+      "metric_18": 83,
+      "metric_21": 6,
+      "metric_22": 59,
+      "metric_27": 17
     },
     {
       "gene_seqnames": "MAG06_1013",
@@ -142,13 +177,35 @@
       "eggnog_X10": "01QPE@aproNOG,05CU0@bactNOG,16PCW@proNOG,COG0313@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "S",
-      "eggnog_X13": "Catalyzes the 2'-O-methylation of the ribose of cytidine 1402 (C1402) in 16S rRNA (By similarity)"
+      "eggnog_X13": "Catalyzes the 2'-O-methylation of the ribose of cytidine 1402 (C1402) in 16S rRNA (By similarity)",
+      "metric_2": 28,
+      "metric_3": 81,
+      "metric_4": 25,
+      "metric_5": 12,
+      "metric_7": 99,
+      "metric_9": 40,
+      "metric_11": 16,
+      "metric_12": 32,
+      "metric_13": 98,
+      "metric_14": 78,
+      "metric_15": 59,
+      "metric_17": 98,
+      "metric_18": 60,
+      "metric_19": 35,
+      "metric_21": 73,
+      "metric_22": 70,
+      "metric_24": 70,
+      "metric_25": 6,
+      "metric_27": 31,
+      "metric_29": 60,
+      "metric_30": 72
     }
   ],
   "diamond_track": [
     {
       "seqnames": "MAG06_1013",
       "gene_ID": "MAG06_1013_1",
+      "gene_strand": "-",
       "eggnog_pos_X2": "266834.SMc00420",
       "eggnog_pos_X3": 96.5,
       "eggnog_pos_X4": 141,
@@ -166,6 +223,7 @@
     {
       "seqnames": "MAG06_1013",
       "gene_ID": "MAG06_1013_1",
+      "gene_strand": "-",
       "eggnog_pos_X2": "394.NGR_c36840",
       "eggnog_pos_X3": 94.3,
       "eggnog_pos_X4": 141,
@@ -183,6 +241,7 @@
     {
       "seqnames": "MAG06_1013",
       "gene_ID": "MAG06_1013_1",
+      "gene_strand": "-",
       "eggnog_pos_X2": "366394.Smed_3547",
       "eggnog_pos_X3": 92.9,
       "eggnog_pos_X4": 141,
@@ -200,6 +259,7 @@
     {
       "seqnames": "MAG06_1013",
       "gene_ID": "MAG06_1013_2",
+      "gene_strand": "-",
       "eggnog_pos_X2": "861208.AGROH133_03460",
       "eggnog_pos_X3": 87.6,
       "eggnog_pos_X4": 314,
@@ -217,6 +277,7 @@
     {
       "seqnames": "MAG06_1013",
       "gene_ID": "MAG06_1013_2",
+      "gene_strand": "-",
       "eggnog_pos_X2": "176299.Atu0310",
       "eggnog_pos_X3": 86.9,
       "eggnog_pos_X4": 314,
@@ -234,6 +295,7 @@
     {
       "seqnames": "MAG06_1013",
       "gene_ID": "MAG06_1013_2",
+      "gene_strand": "-",
       "eggnog_pos_X2": "1050720.Agau_C101493",
       "eggnog_pos_X3": 86.6,
       "eggnog_pos_X4": 314,
@@ -251,6 +313,7 @@
     {
       "seqnames": "MAG06_1013",
       "gene_ID": "MAG06_1013_2",
+      "gene_strand": "-",
       "eggnog_pos_X2": "311403.Arad_0549",
       "eggnog_pos_X3": 85.7,
       "eggnog_pos_X4": 315,
@@ -268,6 +331,7 @@
     {
       "seqnames": "MAG06_1013",
       "gene_ID": "MAG06_1013_2",
+      "gene_strand": "-",
       "eggnog_pos_X2": "347834.RHE_CH00322",
       "eggnog_pos_X3": 84.4,
       "eggnog_pos_X4": 315,
@@ -285,6 +349,7 @@
     {
       "seqnames": "MAG06_1013",
       "gene_ID": "MAG06_1013_2",
+      "gene_strand": "-",
       "eggnog_pos_X2": "311402.Avi_0361",
       "eggnog_pos_X3": 83.8,
       "eggnog_pos_X4": 315,
@@ -302,6 +367,7 @@
     {
       "seqnames": "MAG06_1013",
       "gene_ID": "MAG06_1013_3",
+      "gene_strand": "-",
       "eggnog_pos_X2": "266834.SMc00418",
       "eggnog_pos_X3": 99.2,
       "eggnog_pos_X4": 122,
@@ -319,6 +385,7 @@
     {
       "seqnames": "MAG06_1013",
       "gene_ID": "MAG06_1013_4",
+      "gene_strand": "-",
       "eggnog_pos_X2": "266834.SMc00416",
       "eggnog_pos_X3": 99.5,
       "eggnog_pos_X4": 219,

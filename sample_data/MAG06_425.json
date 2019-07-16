@@ -37,7 +37,19 @@
       "eggnog_X10": "05CE2@bactNOG,0QJCB@gproNOG,16PTN@proNOG,COG1529@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "C",
-      "eggnog_X13": "Aldehyde oxidase and xanthine dehydrogenase, molybdopterin binding"
+      "eggnog_X13": "Aldehyde oxidase and xanthine dehydrogenase, molybdopterin binding",
+      "metric_1": 92,
+      "metric_3": 31,
+      "metric_4": 64,
+      "metric_13": 93,
+      "metric_15": 84,
+      "metric_16": 45,
+      "metric_17": 16,
+      "metric_19": 80,
+      "metric_24": 98,
+      "metric_25": 89,
+      "metric_29": 86,
+      "metric_30": 64
     },
     {
       "gene_seqnames": "MAG06_425",
@@ -72,7 +84,19 @@
       "eggnog_X10": "01WY1@aproNOG,07XKX@bactNOG,179MJ@proNOG,COG2080@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "C",
-      "eggnog_X13": "isoquinoline 1-oxidoreductase (Alpha subunit)"
+      "eggnog_X13": "isoquinoline 1-oxidoreductase (Alpha subunit)",
+      "metric_1": 12,
+      "metric_2": 8,
+      "metric_3": 63,
+      "metric_6": 86,
+      "metric_8": 48,
+      "metric_18": 15,
+      "metric_20": 38,
+      "metric_22": 95,
+      "metric_23": 85,
+      "metric_26": 76,
+      "metric_29": 75,
+      "metric_30": 49
     },
     {
       "gene_seqnames": "MAG06_425",
@@ -96,13 +120,31 @@
       "gene_sscore": "9.76",
       "gene_rscore": "7.85",
       "gene_uscore": "-1.73",
-      "gene_tscore": "3.65"
+      "gene_tscore": "3.65",
+      "metric_1": 23,
+      "metric_3": 12,
+      "metric_4": 32,
+      "metric_6": 56,
+      "metric_7": 30,
+      "metric_10": 35,
+      "metric_11": 68,
+      "metric_14": 74,
+      "metric_15": 12,
+      "metric_16": 71,
+      "metric_17": 93,
+      "metric_20": 67,
+      "metric_23": 11,
+      "metric_24": 70,
+      "metric_25": 71,
+      "metric_26": 62,
+      "metric_28": 69
     }
   ],
   "diamond_track": [
     {
       "seqnames": "MAG06_425",
       "gene_ID": "MAG06_425_1",
+      "gene_strand": "-",
       "eggnog_pos_X2": "565045.NOR51B_2853",
       "eggnog_pos_X3": 55.2,
       "eggnog_pos_X4": 737,
@@ -120,6 +162,7 @@
     {
       "seqnames": "MAG06_425",
       "gene_ID": "MAG06_425_2",
+      "gene_strand": "-",
       "eggnog_pos_X2": "314271.RB2654_06309",
       "eggnog_pos_X3": 68.2,
       "eggnog_pos_X4": 151,
@@ -137,6 +180,7 @@
     {
       "seqnames": "MAG06_425",
       "gene_ID": "MAG06_425_2",
+      "gene_strand": "-",
       "eggnog_pos_X2": "384765.SIAM614_25357",
       "eggnog_pos_X3": 66.9,
       "eggnog_pos_X4": 151,
@@ -154,6 +198,7 @@
     {
       "seqnames": "MAG06_425",
       "gene_ID": "MAG06_425_3",
+      "gene_strand": "+",
       "eggnog_pos_X2": "543728.Vapar_1256",
       "eggnog_pos_X3": 92,
       "eggnog_pos_X4": 25,

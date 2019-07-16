@@ -38,13 +38,31 @@
       "eggnog_X10": "01QHV@aproNOG,05C3R@bactNOG,16QB3@proNOG,COG0646@NOG,COG1410@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "E",
-      "eggnog_X13": "Methionine synthase"
+      "eggnog_X13": "Methionine synthase",
+      "metric_2": 51,
+      "metric_3": 4,
+      "metric_5": 19,
+      "metric_10": 77,
+      "metric_11": 98,
+      "metric_12": 15,
+      "metric_13": 27,
+      "metric_16": 13,
+      "metric_17": 55,
+      "metric_18": 21,
+      "metric_19": 17,
+      "metric_20": 64,
+      "metric_23": 65,
+      "metric_26": 37,
+      "metric_28": 86,
+      "metric_29": 87,
+      "metric_30": 24
     }
   ],
   "diamond_track": [
     {
       "seqnames": "MAG06_93",
       "gene_ID": "MAG06_93_1",
+      "gene_strand": "-",
       "eggnog_pos_X2": "366394.Smed_2870",
       "eggnog_pos_X3": 89.4,
       "eggnog_pos_X4": 479,
@@ -62,6 +80,7 @@
     {
       "seqnames": "MAG06_93",
       "gene_ID": "MAG06_93_1",
+      "gene_strand": "-",
       "eggnog_pos_X2": "394.NGR_c30540",
       "eggnog_pos_X3": 88.1,
       "eggnog_pos_X4": 479,

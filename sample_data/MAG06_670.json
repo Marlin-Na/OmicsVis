@@ -35,7 +35,19 @@
       "eggnog_X10": "01QA3@aproNOG,05C26@bactNOG,16PDZ@proNOG,COG1012@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "C",
-      "eggnog_X13": "Aldehyde dehydrogenase"
+      "eggnog_X13": "Aldehyde dehydrogenase",
+      "metric_2": 78,
+      "metric_4": 95,
+      "metric_6": 61,
+      "metric_7": 95,
+      "metric_20": 33,
+      "metric_21": 34,
+      "metric_22": 98,
+      "metric_24": 62,
+      "metric_25": 18,
+      "metric_28": 18,
+      "metric_29": 83,
+      "metric_30": 43
     },
     {
       "gene_seqnames": "MAG06_670",
@@ -69,7 +81,17 @@
       "eggnog_X10": "020CJ@aproNOG,05CPQ@bactNOG,16Q9H@proNOG,COG1063@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "E",
-      "eggnog_X13": "Dehydrogenase"
+      "eggnog_X13": "Dehydrogenase",
+      "metric_4": 88,
+      "metric_7": 32,
+      "metric_9": 76,
+      "metric_12": 68,
+      "metric_13": 52,
+      "metric_14": 76,
+      "metric_15": 91,
+      "metric_22": 88,
+      "metric_23": 20,
+      "metric_26": 6
     },
     {
       "gene_seqnames": "MAG06_670",
@@ -102,13 +124,30 @@
       "eggnog_X10": "05JAI@bactNOG,17Y5B@proNOG,COG1172@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "G",
-      "eggnog_X13": "Branched-chain amino acid transport system / permease component"
+      "eggnog_X13": "Branched-chain amino acid transport system / permease component",
+      "metric_4": 55,
+      "metric_6": 2,
+      "metric_9": 96,
+      "metric_11": 71,
+      "metric_13": 79,
+      "metric_16": 51,
+      "metric_17": 74,
+      "metric_18": 91,
+      "metric_20": 96,
+      "metric_22": 52,
+      "metric_24": 66,
+      "metric_25": 72,
+      "metric_26": 1,
+      "metric_27": 22,
+      "metric_28": 66,
+      "metric_29": 88
     }
   ],
   "diamond_track": [
     {
       "seqnames": "MAG06_670",
       "gene_ID": "MAG06_670_1",
+      "gene_strand": "-",
       "eggnog_pos_X2": "412597.PaTRP_010100017471",
       "eggnog_pos_X3": 68.7,
       "eggnog_pos_X4": 166,
@@ -126,6 +165,7 @@
     {
       "seqnames": "MAG06_670",
       "gene_ID": "MAG06_670_2",
+      "gene_strand": "-",
       "eggnog_pos_X2": "412597.PaTRP_010100017466",
       "eggnog_pos_X3": 69.9,
       "eggnog_pos_X4": 342,
@@ -143,6 +183,7 @@
     {
       "seqnames": "MAG06_670",
       "gene_ID": "MAG06_670_3",
+      "gene_strand": "-",
       "eggnog_pos_X2": "412597.PaTRP_010100017461",
       "eggnog_pos_X3": 86.8,
       "eggnog_pos_X4": 114,

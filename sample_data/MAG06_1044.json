@@ -36,7 +36,28 @@
       "eggnog_X10": "01VJG@aproNOG,08R0M@bactNOG,16TRF@proNOG,COG3231@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "J",
-      "eggnog_X13": "aminoglycoside"
+      "eggnog_X13": "aminoglycoside",
+      "metric_1": 72,
+      "metric_2": 7,
+      "metric_4": 38,
+      "metric_5": 12,
+      "metric_6": 29,
+      "metric_7": 91,
+      "metric_8": 51,
+      "metric_9": 9,
+      "metric_12": 93,
+      "metric_13": 40,
+      "metric_14": 53,
+      "metric_15": 77,
+      "metric_16": 27,
+      "metric_19": 93,
+      "metric_20": 63,
+      "metric_21": 35,
+      "metric_26": 84,
+      "metric_27": 89,
+      "metric_28": 65,
+      "metric_29": 69,
+      "metric_30": 1
     },
     {
       "gene_seqnames": "MAG06_1044",
@@ -69,7 +90,23 @@
       "eggnog_X10": "02077@aproNOG,05SPV@bactNOG,17ISX@proNOG,COG0456@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "S",
-      "eggnog_X13": "Gcn5-related n-acetyltransferase"
+      "eggnog_X13": "Gcn5-related n-acetyltransferase",
+      "metric_1": 79,
+      "metric_2": 42,
+      "metric_4": 63,
+      "metric_5": 75,
+      "metric_6": 12,
+      "metric_7": 90,
+      "metric_8": 38,
+      "metric_13": 31,
+      "metric_15": 67,
+      "metric_16": 94,
+      "metric_18": 56,
+      "metric_19": 29,
+      "metric_22": 4,
+      "metric_25": 6,
+      "metric_28": 82,
+      "metric_29": 78
     },
     {
       "gene_seqnames": "MAG06_1044",
@@ -104,7 +141,19 @@
       "eggnog_X10": "01YMY@aproNOG,05R3J@bactNOG,17FG5@proNOG,COG2370@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "O",
-      "eggnog_X13": "HupE UreJ protein"
+      "eggnog_X13": "HupE UreJ protein",
+      "metric_4": 19,
+      "metric_5": 85,
+      "metric_11": 12,
+      "metric_12": 77,
+      "metric_13": 5,
+      "metric_15": 94,
+      "metric_21": 91,
+      "metric_22": 66,
+      "metric_23": 59,
+      "metric_26": 98,
+      "metric_28": 79,
+      "metric_29": 23
     },
     {
       "gene_seqnames": "MAG06_1044",
@@ -139,13 +188,24 @@
       "eggnog_X10": "01VYC@aproNOG,08S10@bactNOG,178N1@proNOG,COG0740@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "O",
-      "eggnog_X13": "Cleaves peptides in various proteins in a process that requires ATP hydrolysis. Has a chymotrypsin-like activity. Plays a major role in the degradation of misfolded proteins (By similarity)"
+      "eggnog_X13": "Cleaves peptides in various proteins in a process that requires ATP hydrolysis. Has a chymotrypsin-like activity. Plays a major role in the degradation of misfolded proteins (By similarity)",
+      "metric_2": 84,
+      "metric_3": 36,
+      "metric_4": 52,
+      "metric_6": 62,
+      "metric_13": 36,
+      "metric_15": 98,
+      "metric_21": 96,
+      "metric_25": 31,
+      "metric_26": 92,
+      "metric_28": 57
     }
   ],
   "diamond_track": [
     {
       "seqnames": "MAG06_1044",
       "gene_ID": "MAG06_1044_1",
+      "gene_strand": "+",
       "eggnog_pos_X2": "366394.Smed_2292",
       "eggnog_pos_X3": 74.9,
       "eggnog_pos_X4": 219,
@@ -163,6 +223,7 @@
     {
       "seqnames": "MAG06_1044",
       "gene_ID": "MAG06_1044_2",
+      "gene_strand": "-",
       "eggnog_pos_X2": "366394.Smed_2291",
       "eggnog_pos_X3": 80.9,
       "eggnog_pos_X4": 157,
@@ -180,6 +241,7 @@
     {
       "seqnames": "MAG06_1044",
       "gene_ID": "MAG06_1044_3",
+      "gene_strand": "-",
       "eggnog_pos_X2": "366394.Smed_2290",
       "eggnog_pos_X3": 80.2,
       "eggnog_pos_X4": 192,
@@ -197,6 +259,7 @@
     {
       "seqnames": "MAG06_1044",
       "gene_ID": "MAG06_1044_4",
+      "gene_strand": "+",
       "eggnog_pos_X2": "266834.SMc02720",
       "eggnog_pos_X3": 100,
       "eggnog_pos_X4": 195,
@@ -214,6 +277,7 @@
     {
       "seqnames": "MAG06_1044",
       "gene_ID": "MAG06_1044_4",
+      "gene_strand": "+",
       "eggnog_pos_X2": "366394.Smed_2289",
       "eggnog_pos_X3": 98.5,
       "eggnog_pos_X4": 195,

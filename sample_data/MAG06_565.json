@@ -34,7 +34,19 @@
       "eggnog_X10": "01SF1@aproNOG,05HQK@bactNOG,16PFY@proNOG,COG5525@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "S",
-      "eggnog_X13": "Terminase large subunit"
+      "eggnog_X13": "Terminase large subunit",
+      "metric_6": 75,
+      "metric_7": 68,
+      "metric_10": 35,
+      "metric_14": 84,
+      "metric_16": 47,
+      "metric_19": 36,
+      "metric_20": 91,
+      "metric_21": 75,
+      "metric_22": 60,
+      "metric_28": 59,
+      "metric_29": 70,
+      "metric_30": 25
     },
     {
       "gene_seqnames": "MAG06_565",
@@ -66,7 +78,22 @@
       "eggnog_X10": "06FSI@bactNOG,0Y14S@NOG,17TBP@proNOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "S",
-      "eggnog_X13": "gpW"
+      "eggnog_X13": "gpW",
+      "metric_3": 96,
+      "metric_4": 7,
+      "metric_5": 25,
+      "metric_8": 97,
+      "metric_10": 34,
+      "metric_11": 32,
+      "metric_12": 96,
+      "metric_13": 49,
+      "metric_15": 29,
+      "metric_17": 29,
+      "metric_20": 71,
+      "metric_21": 13,
+      "metric_22": 79,
+      "metric_24": 75,
+      "metric_25": 59
     },
     {
       "gene_seqnames": "MAG06_565",
@@ -99,13 +126,28 @@
       "eggnog_X10": "01QWW@aproNOG,05CFS@bactNOG,16PW0@proNOG,COG5511@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "S",
-      "eggnog_X13": "Phage portal protein, lambda family"
+      "eggnog_X13": "Phage portal protein, lambda family",
+      "metric_1": 26,
+      "metric_2": 41,
+      "metric_3": 88,
+      "metric_4": 76,
+      "metric_8": 7,
+      "metric_12": 10,
+      "metric_15": 12,
+      "metric_18": 34,
+      "metric_21": 24,
+      "metric_25": 94,
+      "metric_26": 72,
+      "metric_28": 63,
+      "metric_29": 46,
+      "metric_30": 2
     }
   ],
   "diamond_track": [
     {
       "seqnames": "MAG06_565",
       "gene_ID": "MAG06_565_1",
+      "gene_strand": "+",
       "eggnog_pos_X2": "366394.Smed_1660",
       "eggnog_pos_X3": 97.8,
       "eggnog_pos_X4": 459,
@@ -123,6 +165,7 @@
     {
       "seqnames": "MAG06_565",
       "gene_ID": "MAG06_565_2",
+      "gene_strand": "+",
       "eggnog_pos_X2": "366394.Smed_1659",
       "eggnog_pos_X3": 94.9,
       "eggnog_pos_X4": 78,
@@ -140,6 +183,7 @@
     {
       "seqnames": "MAG06_565",
       "gene_ID": "MAG06_565_3",
+      "gene_strand": "+",
       "eggnog_pos_X2": "366394.Smed_1658",
       "eggnog_pos_X3": 90.3,
       "eggnog_pos_X4": 103,

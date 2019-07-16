@@ -35,7 +35,18 @@
       "eggnog_X10": "01R0W@aproNOG,05CV8@bactNOG,16SC8@proNOG,COG0656@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "C",
-      "eggnog_X13": "reductase"
+      "eggnog_X13": "reductase",
+      "metric_2": 65,
+      "metric_6": 87,
+      "metric_7": 80,
+      "metric_12": 65,
+      "metric_13": 30,
+      "metric_14": 83,
+      "metric_17": 96,
+      "metric_22": 21,
+      "metric_25": 93,
+      "metric_27": 21,
+      "metric_30": 70
     },
     {
       "gene_seqnames": "MAG06_203",
@@ -65,7 +76,24 @@
       "eggnog_X4": 238,
       "eggnog_X9": "bactNOG[38]",
       "eggnog_X10": "01ZJA@aproNOG,05QRA@bactNOG,11VRT@NOG,17II6@proNOG",
-      "eggnog_X11": "NA|NA|NA"
+      "eggnog_X11": "NA|NA|NA",
+      "metric_2": 65,
+      "metric_4": 78,
+      "metric_6": 57,
+      "metric_8": 98,
+      "metric_10": 10,
+      "metric_15": 63,
+      "metric_16": 10,
+      "metric_18": 31,
+      "metric_19": 23,
+      "metric_20": 30,
+      "metric_23": 3,
+      "metric_24": 67,
+      "metric_25": 38,
+      "metric_26": 4,
+      "metric_27": 51,
+      "metric_29": 3,
+      "metric_30": 21
     },
     {
       "gene_seqnames": "MAG06_203",
@@ -100,13 +128,24 @@
       "eggnog_X10": "01QWY@aproNOG,05D7A@bactNOG,16PGX@proNOG,COG0433@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "S",
-      "eggnog_X13": "Bacterial protein of unknown function (DUF853)"
+      "eggnog_X13": "Bacterial protein of unknown function (DUF853)",
+      "metric_1": 26,
+      "metric_2": 74,
+      "metric_4": 75,
+      "metric_6": 18,
+      "metric_10": 94,
+      "metric_15": 79,
+      "metric_17": 59,
+      "metric_21": 40,
+      "metric_23": 90,
+      "metric_24": 4
     }
   ],
   "diamond_track": [
     {
       "seqnames": "MAG06_203",
       "gene_ID": "MAG06_203_1",
+      "gene_strand": "+",
       "eggnog_pos_X2": "266834.SMc00101",
       "eggnog_pos_X3": 100,
       "eggnog_pos_X4": 275,
@@ -124,6 +163,7 @@
     {
       "seqnames": "MAG06_203",
       "gene_ID": "MAG06_203_2",
+      "gene_strand": "-",
       "eggnog_pos_X2": "266834.SMc00041",
       "eggnog_pos_X3": 100,
       "eggnog_pos_X4": 131,
@@ -141,6 +181,7 @@
     {
       "seqnames": "MAG06_203",
       "gene_ID": "MAG06_203_3",
+      "gene_strand": "+",
       "eggnog_pos_X2": "1117943.SFHH103_00658",
       "eggnog_pos_X3": 95.1,
       "eggnog_pos_X4": 243,
@@ -158,6 +199,7 @@
     {
       "seqnames": "MAG06_203",
       "gene_ID": "MAG06_203_3",
+      "gene_strand": "+",
       "eggnog_pos_X2": "394.NGR_c07180",
       "eggnog_pos_X3": 95.1,
       "eggnog_pos_X4": 243,

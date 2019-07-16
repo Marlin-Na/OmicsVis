@@ -38,7 +38,20 @@
       "eggnog_X10": "01QXJ@aproNOG,05D0V@bactNOG,16PSA@proNOG,COG0763@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "M",
-      "eggnog_X13": "Condensation of UDP-2,3-diacylglucosamine and 2,3- diacylglucosamine-1-phosphate to form lipid A disaccharide, a precursor of lipid A, a phosphorylated glycolipid that anchors the lipopolysaccharide to the outer membrane of the cell (By similarity)"
+      "eggnog_X13": "Condensation of UDP-2,3-diacylglucosamine and 2,3- diacylglucosamine-1-phosphate to form lipid A disaccharide, a precursor of lipid A, a phosphorylated glycolipid that anchors the lipopolysaccharide to the outer membrane of the cell (By similarity)",
+      "metric_3": 11,
+      "metric_4": 15,
+      "metric_6": 58,
+      "metric_7": 55,
+      "metric_8": 1,
+      "metric_9": 87,
+      "metric_10": 30,
+      "metric_11": 41,
+      "metric_13": 32,
+      "metric_14": 18,
+      "metric_15": 78,
+      "metric_16": 62,
+      "metric_25": 80
     },
     {
       "gene_seqnames": "MAG06_732",
@@ -72,7 +85,20 @@
       "eggnog_X10": "01X1S@aproNOG,05GYT@bactNOG,177BC@proNOG,COG3494@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "S",
-      "eggnog_X13": "Protein of unknown function (DUF1009)"
+      "eggnog_X13": "Protein of unknown function (DUF1009)",
+      "metric_1": 91,
+      "metric_4": 86,
+      "metric_6": 40,
+      "metric_7": 52,
+      "metric_8": 40,
+      "metric_10": 96,
+      "metric_11": 27,
+      "metric_13": 23,
+      "metric_15": 37,
+      "metric_19": 17,
+      "metric_20": 91,
+      "metric_22": 8,
+      "metric_27": 23
     },
     {
       "gene_seqnames": "MAG06_732",
@@ -108,7 +134,22 @@
       "eggnog_X10": "01RW6@aproNOG,05DAF@bactNOG,16PZ8@proNOG,COG1043@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "M",
-      "eggnog_X13": "involved in the biosynthesis of lipid A, a phosphorylated glycolipid that anchors the lipopolysaccharide to the outer membrane of the cell (By similarity)"
+      "eggnog_X13": "involved in the biosynthesis of lipid A, a phosphorylated glycolipid that anchors the lipopolysaccharide to the outer membrane of the cell (By similarity)",
+      "metric_2": 88,
+      "metric_3": 76,
+      "metric_7": 86,
+      "metric_8": 25,
+      "metric_10": 93,
+      "metric_11": 8,
+      "metric_12": 4,
+      "metric_19": 41,
+      "metric_23": 77,
+      "metric_24": 4,
+      "metric_25": 7,
+      "metric_27": 7,
+      "metric_28": 12,
+      "metric_29": 26,
+      "metric_30": 53
     },
     {
       "gene_seqnames": "MAG06_732",
@@ -144,7 +185,21 @@
       "eggnog_X10": "01W3P@aproNOG,08YXN@bactNOG,17CMX@proNOG,COG0764@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "I",
-      "eggnog_X13": "Involved in unsaturated fatty acids biosynthesis. Catalyzes the dehydration of short chain beta-hydroxyacyl-ACPs and long chain saturated and unsaturated beta-hydroxyacyl-ACPs (By similarity)"
+      "eggnog_X13": "Involved in unsaturated fatty acids biosynthesis. Catalyzes the dehydration of short chain beta-hydroxyacyl-ACPs and long chain saturated and unsaturated beta-hydroxyacyl-ACPs (By similarity)",
+      "metric_1": 2,
+      "metric_4": 27,
+      "metric_7": 68,
+      "metric_9": 37,
+      "metric_10": 7,
+      "metric_12": 91,
+      "metric_14": 2,
+      "metric_15": 85,
+      "metric_16": 41,
+      "metric_17": 87,
+      "metric_22": 58,
+      "metric_23": 85,
+      "metric_28": 13,
+      "metric_29": 35
     },
     {
       "gene_seqnames": "MAG06_732",
@@ -178,13 +233,29 @@
       "eggnog_X10": "01RKR@aproNOG,05D7M@bactNOG,16Q34@proNOG,COG1044@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "M",
-      "eggnog_X13": "Catalyzes the N-acylation of UDP-3-O-acylglucosamine using 3-hydroxyacyl-ACP as the acyl donor. Is involved in the biosynthesis of lipid A, a phosphorylated glycolipid that anchors the lipopolysaccharide to the outer membrane of the cell (By similarity)"
+      "eggnog_X13": "Catalyzes the N-acylation of UDP-3-O-acylglucosamine using 3-hydroxyacyl-ACP as the acyl donor. Is involved in the biosynthesis of lipid A, a phosphorylated glycolipid that anchors the lipopolysaccharide to the outer membrane of the cell (By similarity)",
+      "metric_2": 88,
+      "metric_4": 7,
+      "metric_6": 41,
+      "metric_8": 43,
+      "metric_10": 66,
+      "metric_11": 29,
+      "metric_13": 96,
+      "metric_14": 4,
+      "metric_17": 88,
+      "metric_20": 76,
+      "metric_23": 61,
+      "metric_26": 17,
+      "metric_27": 44,
+      "metric_28": 9,
+      "metric_29": 57
     }
   ],
   "diamond_track": [
     {
       "seqnames": "MAG06_732",
       "gene_ID": "MAG06_732_1",
+      "gene_strand": "-",
       "eggnog_pos_X2": "266834.SMc02089",
       "eggnog_pos_X3": 99,
       "eggnog_pos_X4": 389,
@@ -202,6 +273,7 @@
     {
       "seqnames": "MAG06_732",
       "gene_ID": "MAG06_732_2",
+      "gene_strand": "-",
       "eggnog_pos_X2": "266834.SMc02090",
       "eggnog_pos_X3": 99.3,
       "eggnog_pos_X4": 295,
@@ -219,6 +291,7 @@
     {
       "seqnames": "MAG06_732",
       "gene_ID": "MAG06_732_3",
+      "gene_strand": "-",
       "eggnog_pos_X2": "311403.Arad_2232",
       "eggnog_pos_X3": 77.4,
       "eggnog_pos_X4": 266,
@@ -236,6 +309,7 @@
     {
       "seqnames": "MAG06_732",
       "gene_ID": "MAG06_732_3",
+      "gene_strand": "-",
       "eggnog_pos_X2": "395492.Rleg2_1593",
       "eggnog_pos_X3": 75.1,
       "eggnog_pos_X4": 269,
@@ -253,6 +327,7 @@
     {
       "seqnames": "MAG06_732",
       "gene_ID": "MAG06_732_3",
+      "gene_strand": "-",
       "eggnog_pos_X2": "216596.RL2231",
       "eggnog_pos_X3": 75.1,
       "eggnog_pos_X4": 269,
@@ -270,6 +345,7 @@
     {
       "seqnames": "MAG06_732",
       "gene_ID": "MAG06_732_3",
+      "gene_strand": "-",
       "eggnog_pos_X2": "491916.RHECIAT_CH0002020",
       "eggnog_pos_X3": 74.3,
       "eggnog_pos_X4": 269,
@@ -287,6 +363,7 @@
     {
       "seqnames": "MAG06_732",
       "gene_ID": "MAG06_732_3",
+      "gene_strand": "-",
       "eggnog_pos_X2": "347834.RHE_CH01923",
       "eggnog_pos_X3": 74.3,
       "eggnog_pos_X4": 269,
@@ -304,6 +381,7 @@
     {
       "seqnames": "MAG06_732",
       "gene_ID": "MAG06_732_4",
+      "gene_strand": "-",
       "eggnog_pos_X2": "266834.SMc02092",
       "eggnog_pos_X3": 98.1,
       "eggnog_pos_X4": 154,
@@ -321,6 +399,7 @@
     {
       "seqnames": "MAG06_732",
       "gene_ID": "MAG06_732_4",
+      "gene_strand": "-",
       "eggnog_pos_X2": "1117943.SFHH103_01227",
       "eggnog_pos_X3": 96.1,
       "eggnog_pos_X4": 154,
@@ -338,6 +417,7 @@
     {
       "seqnames": "MAG06_732",
       "gene_ID": "MAG06_732_4",
+      "gene_strand": "-",
       "eggnog_pos_X2": "394.NGR_c13430",
       "eggnog_pos_X3": 96.1,
       "eggnog_pos_X4": 154,
@@ -355,6 +435,7 @@
     {
       "seqnames": "MAG06_732",
       "gene_ID": "MAG06_732_4",
+      "gene_strand": "-",
       "eggnog_pos_X2": "366394.Smed_1140",
       "eggnog_pos_X3": 96.1,
       "eggnog_pos_X4": 153,
@@ -372,6 +453,7 @@
     {
       "seqnames": "MAG06_732",
       "gene_ID": "MAG06_732_5",
+      "gene_strand": "-",
       "eggnog_pos_X2": "266834.SMc02093",
       "eggnog_pos_X3": 99.3,
       "eggnog_pos_X4": 298,

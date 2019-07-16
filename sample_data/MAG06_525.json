@@ -35,7 +35,27 @@
       "eggnog_X10": "01YJB@aproNOG,05INR@bactNOG,17EHZ@proNOG,COG5622@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "N",
-      "eggnog_X13": "host attachment protein"
+      "eggnog_X13": "host attachment protein",
+      "metric_2": 76,
+      "metric_3": 88,
+      "metric_4": 8,
+      "metric_5": 7,
+      "metric_8": 23,
+      "metric_9": 28,
+      "metric_11": 1,
+      "metric_13": 91,
+      "metric_15": 46,
+      "metric_16": 91,
+      "metric_17": 44,
+      "metric_19": 57,
+      "metric_20": 82,
+      "metric_21": 78,
+      "metric_22": 34,
+      "metric_24": 49,
+      "metric_26": 63,
+      "metric_27": 5,
+      "metric_28": 4,
+      "metric_29": 28
     },
     {
       "gene_seqnames": "MAG06_525",
@@ -70,7 +90,21 @@
       "eggnog_X10": "01USH@aproNOG,05CWG@bactNOG,16QR1@proNOG,COG4121@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "E",
-      "eggnog_X13": "Catalyzes the last two steps in the biosynthesis of 5- methylaminomethyl-2-thiouridine (mnm(5)s(2)U) at the wobble position (U34) in tRNA. Catalyzes the FAD-dependent demodification of cmnm(5)s(2)U34 to nm(5)s(2)U34, followed by the transfer of a methyl group from S-adenosyl-L-methionine to nm(5)s(2)U34, to form mnm(5)s(2)U34 (By similarity)"
+      "eggnog_X13": "Catalyzes the last two steps in the biosynthesis of 5- methylaminomethyl-2-thiouridine (mnm(5)s(2)U) at the wobble position (U34) in tRNA. Catalyzes the FAD-dependent demodification of cmnm(5)s(2)U34 to nm(5)s(2)U34, followed by the transfer of a methyl group from S-adenosyl-L-methionine to nm(5)s(2)U34, to form mnm(5)s(2)U34 (By similarity)",
+      "metric_1": 11,
+      "metric_3": 48,
+      "metric_5": 50,
+      "metric_6": 97,
+      "metric_7": 58,
+      "metric_9": 48,
+      "metric_10": 11,
+      "metric_12": 41,
+      "metric_13": 41,
+      "metric_23": 72,
+      "metric_25": 24,
+      "metric_26": 2,
+      "metric_27": 35,
+      "metric_30": 5
     },
     {
       "gene_seqnames": "MAG06_525",
@@ -104,13 +138,22 @@
       "eggnog_X10": "01TF5@aproNOG,0687A@bactNOG,0ZVRH@NOG,16SEN@proNOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "S",
-      "eggnog_X13": "oxidoreductase"
+      "eggnog_X13": "oxidoreductase",
+      "metric_1": 58,
+      "metric_6": 40,
+      "metric_10": 46,
+      "metric_11": 86,
+      "metric_23": 25,
+      "metric_27": 42,
+      "metric_29": 95,
+      "metric_30": 68
     }
   ],
   "diamond_track": [
     {
       "seqnames": "MAG06_525",
       "gene_ID": "MAG06_525_1",
+      "gene_strand": "+",
       "eggnog_pos_X2": "1117943.SFHH103_02269",
       "eggnog_pos_X3": 88.7,
       "eggnog_pos_X4": 150,
@@ -128,6 +171,7 @@
     {
       "seqnames": "MAG06_525",
       "gene_ID": "MAG06_525_1",
+      "gene_strand": "+",
       "eggnog_pos_X2": "394.NGR_c24020",
       "eggnog_pos_X3": 88,
       "eggnog_pos_X4": 150,
@@ -145,6 +189,7 @@
     {
       "seqnames": "MAG06_525",
       "gene_ID": "MAG06_525_2",
+      "gene_strand": "-",
       "eggnog_pos_X2": "394.NGR_c24010",
       "eggnog_pos_X3": 79.6,
       "eggnog_pos_X4": 216,
@@ -162,6 +207,7 @@
     {
       "seqnames": "MAG06_525",
       "gene_ID": "MAG06_525_2",
+      "gene_strand": "-",
       "eggnog_pos_X2": "1117943.SFHH103_02268",
       "eggnog_pos_X3": 78.6,
       "eggnog_pos_X4": 215,
@@ -179,6 +225,7 @@
     {
       "seqnames": "MAG06_525",
       "gene_ID": "MAG06_525_3",
+      "gene_strand": "+",
       "eggnog_pos_X2": "1117943.SFHH103_02267",
       "eggnog_pos_X3": 83,
       "eggnog_pos_X4": 53,
@@ -196,6 +243,7 @@
     {
       "seqnames": "MAG06_525",
       "gene_ID": "MAG06_525_3",
+      "gene_strand": "+",
       "eggnog_pos_X2": "394.NGR_c24000",
       "eggnog_pos_X3": 81.1,
       "eggnog_pos_X4": 53,

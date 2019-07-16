@@ -36,7 +36,21 @@
       "eggnog_X10": "02E4J@aproNOG,08I7M@bactNOG,172JY@proNOG,COG3605@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "T",
-      "eggnog_X13": "phosphoenolpyruvate-protein phosphotransferase"
+      "eggnog_X13": "phosphoenolpyruvate-protein phosphotransferase",
+      "metric_2": 19,
+      "metric_4": 17,
+      "metric_6": 8,
+      "metric_8": 42,
+      "metric_11": 73,
+      "metric_14": 2,
+      "metric_16": 3,
+      "metric_18": 87,
+      "metric_19": 22,
+      "metric_20": 12,
+      "metric_21": 83,
+      "metric_24": 77,
+      "metric_25": 82,
+      "metric_27": 24
     },
     {
       "gene_seqnames": "MAG06_162",
@@ -71,7 +85,22 @@
       "eggnog_X10": "01S1X@aproNOG,05C8K@bactNOG,16PM9@proNOG,COG0216@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "J",
-      "eggnog_X13": "Peptide chain release factor 1 directs the termination of translation in response to the peptide chain termination codons UAG and UAA (By similarity)"
+      "eggnog_X13": "Peptide chain release factor 1 directs the termination of translation in response to the peptide chain termination codons UAG and UAA (By similarity)",
+      "metric_1": 79,
+      "metric_2": 49,
+      "metric_3": 98,
+      "metric_6": 81,
+      "metric_8": 13,
+      "metric_9": 83,
+      "metric_11": 7,
+      "metric_12": 62,
+      "metric_14": 6,
+      "metric_15": 85,
+      "metric_20": 26,
+      "metric_21": 28,
+      "metric_22": 62,
+      "metric_23": 26,
+      "metric_28": 17
     },
     {
       "gene_seqnames": "MAG06_162",
@@ -107,7 +136,18 @@
       "eggnog_X10": "01WTD@aproNOG,05EQY@bactNOG,16RMB@proNOG,COG2890@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "J",
-      "eggnog_X13": "Methylates the class 1 translation termination release factors RF1 PrfA and RF2 PrfB on the glutamine residue of the universally conserved GGQ motif (By similarity)"
+      "eggnog_X13": "Methylates the class 1 translation termination release factors RF1 PrfA and RF2 PrfB on the glutamine residue of the universally conserved GGQ motif (By similarity)",
+      "metric_6": 55,
+      "metric_8": 7,
+      "metric_9": 88,
+      "metric_12": 18,
+      "metric_13": 39,
+      "metric_16": 59,
+      "metric_17": 27,
+      "metric_20": 34,
+      "metric_21": 18,
+      "metric_28": 72,
+      "metric_30": 38
     },
     {
       "gene_seqnames": "MAG06_162",
@@ -131,7 +171,20 @@
       "gene_sscore": "3.55",
       "gene_rscore": "-0.23",
       "gene_uscore": "-0.60",
-      "gene_tscore": "3.16"
+      "gene_tscore": "3.16",
+      "metric_2": 37,
+      "metric_3": 89,
+      "metric_8": 47,
+      "metric_9": 32,
+      "metric_10": 24,
+      "metric_12": 67,
+      "metric_13": 62,
+      "metric_20": 74,
+      "metric_21": 75,
+      "metric_23": 2,
+      "metric_27": 38,
+      "metric_28": 55,
+      "metric_30": 26
     },
     {
       "gene_seqnames": "MAG06_162",
@@ -162,13 +215,27 @@
       "eggnog_X5": "OCAR_4100",
       "eggnog_X9": "bactNOG[38]",
       "eggnog_X10": "020C5@aproNOG,05N8B@bactNOG,11WB9@NOG,17GZM@proNOG",
-      "eggnog_X11": "NA|NA|NA"
+      "eggnog_X11": "NA|NA|NA",
+      "metric_1": 40,
+      "metric_2": 62,
+      "metric_4": 30,
+      "metric_6": 34,
+      "metric_8": 12,
+      "metric_17": 79,
+      "metric_18": 87,
+      "metric_19": 41,
+      "metric_20": 72,
+      "metric_23": 81,
+      "metric_25": 37,
+      "metric_26": 39,
+      "metric_30": 30
     }
   ],
   "diamond_track": [
     {
       "seqnames": "MAG06_162",
       "gene_ID": "MAG06_162_1",
+      "gene_strand": "+",
       "eggnog_pos_X2": "366394.Smed_2503",
       "eggnog_pos_X3": 96.8,
       "eggnog_pos_X4": 755,
@@ -186,6 +253,7 @@
     {
       "seqnames": "MAG06_162",
       "gene_ID": "MAG06_162_2",
+      "gene_strand": "+",
       "eggnog_pos_X2": "266834.SMc02436",
       "eggnog_pos_X3": 99.7,
       "eggnog_pos_X4": 352,
@@ -203,6 +271,7 @@
     {
       "seqnames": "MAG06_162",
       "gene_ID": "MAG06_162_3",
+      "gene_strand": "+",
       "eggnog_pos_X2": "266834.SMc02435",
       "eggnog_pos_X3": 99.7,
       "eggnog_pos_X4": 293,
@@ -219,11 +288,8 @@
     },
     {
       "seqnames": "MAG06_162",
-      "gene_ID": "MAG06_162_4"
-    },
-    {
-      "seqnames": "MAG06_162",
       "gene_ID": "MAG06_162_5",
+      "gene_strand": "+",
       "eggnog_pos_X2": "366394.Smed_2500",
       "eggnog_pos_X3": 97.9,
       "eggnog_pos_X4": 48,
@@ -241,6 +307,7 @@
     {
       "seqnames": "MAG06_162",
       "gene_ID": "MAG06_162_5",
+      "gene_strand": "+",
       "eggnog_pos_X2": "266834.SMc02434",
       "eggnog_pos_X3": 97.9,
       "eggnog_pos_X4": 48,

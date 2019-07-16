@@ -38,7 +38,15 @@
       "eggnog_X10": "01RTI@aproNOG,07RTZ@bactNOG,16UID@proNOG,COG0209@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "F",
-      "eggnog_X13": "reductase"
+      "eggnog_X13": "reductase",
+      "metric_5": 57,
+      "metric_10": 71,
+      "metric_17": 33,
+      "metric_18": 37,
+      "metric_19": 80,
+      "metric_23": 6,
+      "metric_25": 31,
+      "metric_29": 52
     },
     {
       "gene_seqnames": "MAG06_598",
@@ -72,13 +80,28 @@
       "eggnog_X10": "01X9N@aproNOG,06634@bactNOG,17MUI@proNOG,COG0625@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "O",
-      "eggnog_X13": "Glutathione S-Transferase"
+      "eggnog_X13": "Glutathione S-Transferase",
+      "metric_3": 39,
+      "metric_5": 48,
+      "metric_7": 81,
+      "metric_8": 71,
+      "metric_11": 37,
+      "metric_12": 9,
+      "metric_14": 98,
+      "metric_15": 71,
+      "metric_17": 37,
+      "metric_18": 59,
+      "metric_19": 34,
+      "metric_22": 20,
+      "metric_24": 11,
+      "metric_29": 91
     }
   ],
   "diamond_track": [
     {
       "seqnames": "MAG06_598",
       "gene_ID": "MAG06_598_1",
+      "gene_strand": "+",
       "eggnog_pos_X2": "266834.SMc01237",
       "eggnog_pos_X3": 98.5,
       "eggnog_pos_X4": 970,
@@ -96,6 +119,7 @@
     {
       "seqnames": "MAG06_598",
       "gene_ID": "MAG06_598_1",
+      "gene_strand": "+",
       "eggnog_pos_X2": "366394.Smed_1233",
       "eggnog_pos_X3": 96.3,
       "eggnog_pos_X4": 970,
@@ -113,6 +137,7 @@
     {
       "seqnames": "MAG06_598",
       "gene_ID": "MAG06_598_1",
+      "gene_strand": "+",
       "eggnog_pos_X2": "1117943.SFHH103_01449",
       "eggnog_pos_X3": 94.5,
       "eggnog_pos_X4": 970,
@@ -130,6 +155,7 @@
     {
       "seqnames": "MAG06_598",
       "gene_ID": "MAG06_598_1",
+      "gene_strand": "+",
       "eggnog_pos_X2": "394.NGR_c15550",
       "eggnog_pos_X3": 94.5,
       "eggnog_pos_X4": 970,
@@ -147,6 +173,7 @@
     {
       "seqnames": "MAG06_598",
       "gene_ID": "MAG06_598_2",
+      "gene_strand": "-",
       "eggnog_pos_X2": "266834.SMc01238",
       "eggnog_pos_X3": 95.4,
       "eggnog_pos_X4": 109,

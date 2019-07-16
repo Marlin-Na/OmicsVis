@@ -37,7 +37,19 @@
       "eggnog_X10": "01QSY@aproNOG,05CUT@bactNOG,16PEA@proNOG,COG0124@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "J",
-      "eggnog_X13": "histidyl-tRNA synthetase"
+      "eggnog_X13": "histidyl-tRNA synthetase",
+      "metric_7": 25,
+      "metric_8": 27,
+      "metric_9": 34,
+      "metric_10": 87,
+      "metric_13": 62,
+      "metric_14": 42,
+      "metric_16": 35,
+      "metric_20": 65,
+      "metric_23": 38,
+      "metric_24": 67,
+      "metric_26": 3,
+      "metric_29": 63
     },
     {
       "gene_seqnames": "MAG06_552",
@@ -72,7 +84,19 @@
       "eggnog_X10": "01UJV@aproNOG,05P5X@bactNOG,16TSD@proNOG,COG3705@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "E",
-      "eggnog_X13": "ATP phosphoribosyltransferase, regulatory subunit"
+      "eggnog_X13": "ATP phosphoribosyltransferase, regulatory subunit",
+      "metric_3": 13,
+      "metric_5": 80,
+      "metric_6": 57,
+      "metric_7": 50,
+      "metric_11": 48,
+      "metric_12": 97,
+      "metric_13": 28,
+      "metric_15": 81,
+      "metric_18": 60,
+      "metric_21": 89,
+      "metric_25": 31,
+      "metric_29": 84
     },
     {
       "gene_seqnames": "MAG06_552",
@@ -108,13 +132,29 @@
       "eggnog_X10": "01TCH@aproNOG,05E21@bactNOG,16R8Y@proNOG,COG0040@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "E",
-      "eggnog_X13": "Catalyzes the condensation of ATP and 5-phosphoribose 1- diphosphate to form N'-(5'-phosphoribosyl)-ATP (PR-ATP). Has a crucial role in the pathway because the rate of histidine biosynthesis seems to be controlled primarily by regulation of HisG enzymatic activity (By similarity)"
+      "eggnog_X13": "Catalyzes the condensation of ATP and 5-phosphoribose 1- diphosphate to form N'-(5'-phosphoribosyl)-ATP (PR-ATP). Has a crucial role in the pathway because the rate of histidine biosynthesis seems to be controlled primarily by regulation of HisG enzymatic activity (By similarity)",
+      "metric_3": 42,
+      "metric_6": 9,
+      "metric_7": 37,
+      "metric_8": 57,
+      "metric_12": 81,
+      "metric_13": 43,
+      "metric_16": 76,
+      "metric_17": 20,
+      "metric_20": 51,
+      "metric_21": 64,
+      "metric_23": 89,
+      "metric_27": 29,
+      "metric_28": 57,
+      "metric_29": 25,
+      "metric_30": 79
     }
   ],
   "diamond_track": [
     {
       "seqnames": "MAG06_552",
       "gene_ID": "MAG06_552_1",
+      "gene_strand": "+",
       "eggnog_pos_X2": "266834.SMc00919",
       "eggnog_pos_X3": 60.3,
       "eggnog_pos_X4": 68,
@@ -132,6 +172,7 @@
     {
       "seqnames": "MAG06_552",
       "gene_ID": "MAG06_552_1",
+      "gene_strand": "+",
       "eggnog_pos_X2": "394.NGR_c04010",
       "eggnog_pos_X3": 57.4,
       "eggnog_pos_X4": 68,
@@ -149,6 +190,7 @@
     {
       "seqnames": "MAG06_552",
       "gene_ID": "MAG06_552_2",
+      "gene_strand": "+",
       "eggnog_pos_X2": "266834.SMc00918",
       "eggnog_pos_X3": 100,
       "eggnog_pos_X4": 379,
@@ -166,6 +208,7 @@
     {
       "seqnames": "MAG06_552",
       "gene_ID": "MAG06_552_3",
+      "gene_strand": "+",
       "eggnog_pos_X2": "266834.SMc00917",
       "eggnog_pos_X3": 98.3,
       "eggnog_pos_X4": 231,

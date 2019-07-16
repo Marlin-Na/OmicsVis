@@ -35,7 +35,23 @@
       "eggnog_X10": "01UX8@aproNOG,06QIV@bactNOG,0YHGR@NOG,1741C@proNOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "P",
-      "eggnog_X13": "drug resistance transporter, EmrB QacA subfamily"
+      "eggnog_X13": "drug resistance transporter, EmrB QacA subfamily",
+      "metric_1": 90,
+      "metric_2": 56,
+      "metric_3": 98,
+      "metric_4": 81,
+      "metric_6": 15,
+      "metric_7": 35,
+      "metric_10": 95,
+      "metric_11": 61,
+      "metric_12": 17,
+      "metric_14": 74,
+      "metric_17": 46,
+      "metric_18": 83,
+      "metric_21": 20,
+      "metric_23": 92,
+      "metric_25": 79,
+      "metric_28": 47
     },
     {
       "gene_seqnames": "MAG06_333",
@@ -69,13 +85,26 @@
       "eggnog_X10": "01U85@aproNOG,07DHA@bactNOG,16SYN@proNOG,COG1566@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "V",
-      "eggnog_X13": "secretion protein HlyD family"
+      "eggnog_X13": "secretion protein HlyD family",
+      "metric_1": 64,
+      "metric_2": 95,
+      "metric_10": 85,
+      "metric_12": 38,
+      "metric_14": 13,
+      "metric_17": 77,
+      "metric_19": 86,
+      "metric_20": 71,
+      "metric_21": 69,
+      "metric_24": 43,
+      "metric_25": 29,
+      "metric_27": 82
     }
   ],
   "diamond_track": [
     {
       "seqnames": "MAG06_333",
       "gene_ID": "MAG06_333_1",
+      "gene_strand": "-",
       "eggnog_pos_X2": "1117943.SFHH103_02490",
       "eggnog_pos_X3": 79.8,
       "eggnog_pos_X4": 471,
@@ -93,6 +122,7 @@
     {
       "seqnames": "MAG06_333",
       "gene_ID": "MAG06_333_2",
+      "gene_strand": "-",
       "eggnog_pos_X2": "1117943.SFHH103_02489",
       "eggnog_pos_X3": 87.6,
       "eggnog_pos_X4": 161,

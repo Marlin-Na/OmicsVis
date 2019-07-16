@@ -37,7 +37,22 @@
       "eggnog_X10": "01SN4@aproNOG,05CGZ@bactNOG,16QPE@proNOG,COG2321@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "S",
-      "eggnog_X13": "Zinc metallopeptidase"
+      "eggnog_X13": "Zinc metallopeptidase",
+      "metric_2": 68,
+      "metric_3": 5,
+      "metric_4": 63,
+      "metric_6": 50,
+      "metric_9": 36,
+      "metric_13": 24,
+      "metric_14": 84,
+      "metric_15": 34,
+      "metric_16": 43,
+      "metric_22": 50,
+      "metric_24": 48,
+      "metric_25": 89,
+      "metric_28": 27,
+      "metric_29": 48,
+      "metric_30": 2
     },
     {
       "gene_seqnames": "MAG06_760",
@@ -72,13 +87,18 @@
       "eggnog_X10": "01R0D@aproNOG,05DP8@bactNOG,0XQPT@NOG,16UMY@proNOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "P",
-      "eggnog_X13": "tetracycline resistance protein"
+      "eggnog_X13": "tetracycline resistance protein",
+      "metric_14": 84,
+      "metric_16": 99,
+      "metric_18": 99,
+      "metric_29": 63
     }
   ],
   "diamond_track": [
     {
       "seqnames": "MAG06_760",
       "gene_ID": "MAG06_760_1",
+      "gene_strand": "+",
       "eggnog_pos_X2": "266834.SMc01213",
       "eggnog_pos_X3": 99.6,
       "eggnog_pos_X4": 251,
@@ -96,6 +116,7 @@
     {
       "seqnames": "MAG06_760",
       "gene_ID": "MAG06_760_1",
+      "gene_strand": "+",
       "eggnog_pos_X2": "366394.Smed_1259",
       "eggnog_pos_X3": 97.6,
       "eggnog_pos_X4": 251,
@@ -113,6 +134,7 @@
     {
       "seqnames": "MAG06_760",
       "gene_ID": "MAG06_760_2",
+      "gene_strand": "+",
       "eggnog_pos_X2": "366394.Smed_1262",
       "eggnog_pos_X3": 92.4,
       "eggnog_pos_X4": 406,

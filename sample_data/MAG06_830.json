@@ -26,7 +26,23 @@
       "gene_sscore": "6.21",
       "gene_rscore": "5.51",
       "gene_uscore": "-2.30",
-      "gene_tscore": "3.65"
+      "gene_tscore": "3.65",
+      "metric_2": 59,
+      "metric_3": 11,
+      "metric_4": 69,
+      "metric_5": 82,
+      "metric_7": 27,
+      "metric_8": 82,
+      "metric_12": 60,
+      "metric_14": 59,
+      "metric_15": 94,
+      "metric_16": 8,
+      "metric_17": 46,
+      "metric_18": 70,
+      "metric_20": 84,
+      "metric_21": 37,
+      "metric_27": 21,
+      "metric_30": 91
     },
     {
       "gene_seqnames": "MAG06_830",
@@ -61,13 +77,27 @@
       "eggnog_X10": "02E7F@aproNOG,08IIJ@bactNOG,172SA@proNOG,COG0085@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "K",
-      "eggnog_X13": "DNA-dependent RNA polymerase catalyzes the transcription of DNA into RNA using the four ribonucleoside triphosphates as substrates (By similarity)"
+      "eggnog_X13": "DNA-dependent RNA polymerase catalyzes the transcription of DNA into RNA using the four ribonucleoside triphosphates as substrates (By similarity)",
+      "metric_6": 61,
+      "metric_7": 47,
+      "metric_9": 96,
+      "metric_11": 98,
+      "metric_12": 60,
+      "metric_15": 46,
+      "metric_20": 49,
+      "metric_21": 2,
+      "metric_23": 95,
+      "metric_25": 9,
+      "metric_28": 88,
+      "metric_29": 75,
+      "metric_30": 32
     }
   ],
   "diamond_track": [
     {
       "seqnames": "MAG06_830",
       "gene_ID": "MAG06_830_1",
+      "gene_strand": "-",
       "eggnog_pos_X2": "287752.SI859A1_01899",
       "eggnog_pos_X3": 80,
       "eggnog_pos_X4": 25,
@@ -85,6 +115,7 @@
     {
       "seqnames": "MAG06_830",
       "gene_ID": "MAG06_830_2",
+      "gene_strand": "-",
       "eggnog_pos_X2": "311403.Arad_1962",
       "eggnog_pos_X3": 90.4,
       "eggnog_pos_X4": 544,
@@ -102,6 +133,7 @@
     {
       "seqnames": "MAG06_830",
       "gene_ID": "MAG06_830_2",
+      "gene_strand": "-",
       "eggnog_pos_X2": "411684.HPDFL43_06565",
       "eggnog_pos_X3": 90.6,
       "eggnog_pos_X4": 544,
@@ -119,6 +151,7 @@
     {
       "seqnames": "MAG06_830",
       "gene_ID": "MAG06_830_2",
+      "gene_strand": "-",
       "eggnog_pos_X2": "347834.RHE_CH01667",
       "eggnog_pos_X3": 89.9,
       "eggnog_pos_X4": 544,
@@ -136,6 +169,7 @@
     {
       "seqnames": "MAG06_830",
       "gene_ID": "MAG06_830_2",
+      "gene_strand": "-",
       "eggnog_pos_X2": "395492.Rleg2_1324",
       "eggnog_pos_X3": 89.7,
       "eggnog_pos_X4": 544,
@@ -153,6 +187,7 @@
     {
       "seqnames": "MAG06_830",
       "gene_ID": "MAG06_830_2",
+      "gene_strand": "-",
       "eggnog_pos_X2": "491916.RHECIAT_CH0001741",
       "eggnog_pos_X3": 89.5,
       "eggnog_pos_X4": 544,
@@ -170,6 +205,7 @@
     {
       "seqnames": "MAG06_830",
       "gene_ID": "MAG06_830_2",
+      "gene_strand": "-",
       "eggnog_pos_X2": "216596.RL1766",
       "eggnog_pos_X3": 89.2,
       "eggnog_pos_X4": 544,

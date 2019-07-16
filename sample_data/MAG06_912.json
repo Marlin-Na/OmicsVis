@@ -26,7 +26,22 @@
       "gene_sscore": "3.22",
       "gene_rscore": "0.00",
       "gene_uscore": "0.00",
-      "gene_tscore": "3.22"
+      "gene_tscore": "3.22",
+      "metric_3": 36,
+      "metric_8": 85,
+      "metric_9": 46,
+      "metric_11": 41,
+      "metric_12": 60,
+      "metric_13": 31,
+      "metric_15": 71,
+      "metric_16": 33,
+      "metric_23": 73,
+      "metric_24": 43,
+      "metric_25": 5,
+      "metric_27": 56,
+      "metric_28": 92,
+      "metric_29": 38,
+      "metric_30": 54
     },
     {
       "gene_seqnames": "MAG06_912",
@@ -58,7 +73,21 @@
       "eggnog_X10": "06B2F@bactNOG,COG4541@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "E",
-      "eggnog_X13": "Branched-chain amino acid transport"
+      "eggnog_X13": "Branched-chain amino acid transport",
+      "metric_3": 95,
+      "metric_4": 51,
+      "metric_5": 80,
+      "metric_8": 5,
+      "metric_9": 67,
+      "metric_10": 14,
+      "metric_11": 29,
+      "metric_12": 31,
+      "metric_15": 14,
+      "metric_16": 26,
+      "metric_18": 98,
+      "metric_22": 68,
+      "metric_24": 4,
+      "metric_25": 69
     },
     {
       "gene_seqnames": "MAG06_912",
@@ -91,7 +120,22 @@
       "eggnog_X10": "021CV@aproNOG,08KTJ@bactNOG,176E7@proNOG,COG1296@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "E",
-      "eggnog_X13": "amino acid"
+      "eggnog_X13": "amino acid",
+      "metric_2": 94,
+      "metric_3": 35,
+      "metric_7": 64,
+      "metric_9": 42,
+      "metric_10": 44,
+      "metric_11": 74,
+      "metric_12": 33,
+      "metric_13": 39,
+      "metric_14": 98,
+      "metric_17": 22,
+      "metric_21": 50,
+      "metric_24": 7,
+      "metric_25": 4,
+      "metric_28": 9,
+      "metric_30": 90
     },
     {
       "gene_seqnames": "MAG06_912",
@@ -124,17 +168,29 @@
       "eggnog_X10": "01VY1@aproNOG,06AXJ@bactNOG,11JF9@NOG,174W7@proNOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "K",
-      "eggnog_X13": "Transcriptional regulator, ARAC family"
+      "eggnog_X13": "Transcriptional regulator, ARAC family",
+      "metric_1": 84,
+      "metric_4": 51,
+      "metric_5": 62,
+      "metric_6": 6,
+      "metric_9": 80,
+      "metric_10": 17,
+      "metric_13": 64,
+      "metric_14": 52,
+      "metric_15": 29,
+      "metric_16": 21,
+      "metric_19": 62,
+      "metric_21": 11,
+      "metric_23": 87,
+      "metric_29": 76,
+      "metric_30": 99
     }
   ],
   "diamond_track": [
     {
       "seqnames": "MAG06_912",
-      "gene_ID": "MAG06_912_1"
-    },
-    {
-      "seqnames": "MAG06_912",
       "gene_ID": "MAG06_912_2",
+      "gene_strand": "-",
       "eggnog_pos_X2": "266834.SMc00560",
       "eggnog_pos_X3": 100,
       "eggnog_pos_X4": 100,
@@ -152,6 +208,7 @@
     {
       "seqnames": "MAG06_912",
       "gene_ID": "MAG06_912_3",
+      "gene_strand": "-",
       "eggnog_pos_X2": "266834.SMc00559",
       "eggnog_pos_X3": 99.5,
       "eggnog_pos_X4": 217,
@@ -169,6 +226,7 @@
     {
       "seqnames": "MAG06_912",
       "gene_ID": "MAG06_912_4",
+      "gene_strand": "-",
       "eggnog_pos_X2": "266834.SMc00558",
       "eggnog_pos_X3": 99.1,
       "eggnog_pos_X4": 232,

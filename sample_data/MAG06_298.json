@@ -34,7 +34,22 @@
       "eggnog_X10": "01UTE@aproNOG,05E1F@bactNOG,16RMP@proNOG,COG1028@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "S",
-      "eggnog_X13": "Short-chain dehydrogenase reductase SDR"
+      "eggnog_X13": "Short-chain dehydrogenase reductase SDR",
+      "metric_4": 23,
+      "metric_6": 19,
+      "metric_7": 8,
+      "metric_8": 37,
+      "metric_10": 27,
+      "metric_13": 75,
+      "metric_15": 5,
+      "metric_16": 64,
+      "metric_17": 96,
+      "metric_18": 72,
+      "metric_22": 22,
+      "metric_23": 52,
+      "metric_24": 36,
+      "metric_27": 47,
+      "metric_30": 12
     },
     {
       "gene_seqnames": "MAG06_298",
@@ -67,13 +82,27 @@
       "eggnog_X10": "01SI9@aproNOG,05EQ2@bactNOG,0XRUN@NOG,16SRU@proNOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "K",
-      "eggnog_X13": "LysR family transcriptional regulator"
+      "eggnog_X13": "LysR family transcriptional regulator",
+      "metric_2": 13,
+      "metric_4": 36,
+      "metric_5": 6,
+      "metric_8": 80,
+      "metric_16": 89,
+      "metric_18": 22,
+      "metric_19": 63,
+      "metric_22": 54,
+      "metric_23": 15,
+      "metric_24": 67,
+      "metric_25": 48,
+      "metric_27": 84,
+      "metric_28": 27
     }
   ],
   "diamond_track": [
     {
       "seqnames": "MAG06_298",
       "gene_ID": "MAG06_298_1",
+      "gene_strand": "-",
       "eggnog_pos_X2": "1082931.KKY_1977",
       "eggnog_pos_X3": 85.1,
       "eggnog_pos_X4": 74,
@@ -91,6 +120,7 @@
     {
       "seqnames": "MAG06_298",
       "gene_ID": "MAG06_298_2",
+      "gene_strand": "+",
       "eggnog_pos_X2": "1082931.KKY_1976",
       "eggnog_pos_X3": 89.6,
       "eggnog_pos_X4": 297,

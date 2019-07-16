@@ -38,7 +38,19 @@
       "eggnog_X10": "02E5C@aproNOG,08IAA@bactNOG,172MH@proNOG,COG0414@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "H",
-      "eggnog_X13": "Catalyzes the condensation of pantoate with beta-alanine in an ATP-dependent reaction via a pantoyl-adenylate intermediate (By similarity)"
+      "eggnog_X13": "Catalyzes the condensation of pantoate with beta-alanine in an ATP-dependent reaction via a pantoyl-adenylate intermediate (By similarity)",
+      "metric_1": 10,
+      "metric_2": 48,
+      "metric_3": 36,
+      "metric_4": 24,
+      "metric_5": 77,
+      "metric_6": 99,
+      "metric_7": 87,
+      "metric_14": 54,
+      "metric_18": 70,
+      "metric_22": 15,
+      "metric_25": 67,
+      "metric_28": 82
     },
     {
       "gene_seqnames": "MAG06_630",
@@ -71,7 +83,24 @@
       "eggnog_X10": "01Z7J@aproNOG,08ZES@bactNOG,17DIZ@proNOG,COG3607@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "S",
-      "eggnog_X13": "glyoxalase bleomycin resistance protein"
+      "eggnog_X13": "glyoxalase bleomycin resistance protein",
+      "metric_2": 52,
+      "metric_4": 70,
+      "metric_5": 13,
+      "metric_6": 67,
+      "metric_7": 94,
+      "metric_10": 34,
+      "metric_13": 37,
+      "metric_14": 93,
+      "metric_19": 85,
+      "metric_20": 91,
+      "metric_21": 25,
+      "metric_24": 43,
+      "metric_25": 79,
+      "metric_26": 1,
+      "metric_27": 65,
+      "metric_28": 15,
+      "metric_30": 62
     },
     {
       "gene_seqnames": "MAG06_630",
@@ -107,13 +136,28 @@
       "eggnog_X10": "01QQ0@aproNOG,05C77@bactNOG,16PMQ@proNOG,COG0272@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "L",
-      "eggnog_X13": "DNA ligase that catalyzes the formation of phosphodiester linkages between 5'-phosphoryl and 3'-hydroxyl groups in double-stranded DNA using NAD as a coenzyme and as the energy source for the reaction. It is essential for DNA replication and repair of damaged DNA (By similarity)"
+      "eggnog_X13": "DNA ligase that catalyzes the formation of phosphodiester linkages between 5'-phosphoryl and 3'-hydroxyl groups in double-stranded DNA using NAD as a coenzyme and as the energy source for the reaction. It is essential for DNA replication and repair of damaged DNA (By similarity)",
+      "metric_1": 99,
+      "metric_8": 50,
+      "metric_12": 80,
+      "metric_13": 77,
+      "metric_14": 73,
+      "metric_15": 79,
+      "metric_17": 52,
+      "metric_19": 85,
+      "metric_20": 92,
+      "metric_21": 71,
+      "metric_22": 84,
+      "metric_24": 59,
+      "metric_29": 92,
+      "metric_30": 19
     }
   ],
   "diamond_track": [
     {
       "seqnames": "MAG06_630",
       "gene_ID": "MAG06_630_1",
+      "gene_strand": "-",
       "eggnog_pos_X2": "266834.SMc01880",
       "eggnog_pos_X3": 95.6,
       "eggnog_pos_X4": 248,
@@ -131,6 +175,7 @@
     {
       "seqnames": "MAG06_630",
       "gene_ID": "MAG06_630_2",
+      "gene_strand": "+",
       "eggnog_pos_X2": "266834.SMc01879",
       "eggnog_pos_X3": 100,
       "eggnog_pos_X4": 134,
@@ -148,6 +193,7 @@
     {
       "seqnames": "MAG06_630",
       "gene_ID": "MAG06_630_3",
+      "gene_strand": "-",
       "eggnog_pos_X2": "266834.SMc01878",
       "eggnog_pos_X3": 99.8,
       "eggnog_pos_X4": 529,

@@ -35,13 +35,31 @@
       "eggnog_X10": "01QFF@aproNOG,05BZS@bactNOG,16PBH@proNOG,COG0841@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "P",
-      "eggnog_X13": "acriflavin resistance protein"
+      "eggnog_X13": "acriflavin resistance protein",
+      "metric_4": 23,
+      "metric_5": 17,
+      "metric_7": 1,
+      "metric_8": 86,
+      "metric_9": 47,
+      "metric_13": 36,
+      "metric_16": 68,
+      "metric_18": 35,
+      "metric_20": 31,
+      "metric_21": 28,
+      "metric_22": 15,
+      "metric_23": 51,
+      "metric_24": 38,
+      "metric_25": 40,
+      "metric_26": 57,
+      "metric_27": 57,
+      "metric_29": 73
     }
   ],
   "diamond_track": [
     {
       "seqnames": "MAG06_50",
       "gene_ID": "MAG06_50_1",
+      "gene_strand": "-",
       "eggnog_pos_X2": "765698.Mesci_3245",
       "eggnog_pos_X3": 63.4,
       "eggnog_pos_X4": 601,
@@ -59,6 +77,7 @@
     {
       "seqnames": "MAG06_50",
       "gene_ID": "MAG06_50_1",
+      "gene_strand": "-",
       "eggnog_pos_X2": "536019.Mesop_3637",
       "eggnog_pos_X3": 63.2,
       "eggnog_pos_X4": 601,
@@ -76,6 +95,7 @@
     {
       "seqnames": "MAG06_50",
       "gene_ID": "MAG06_50_1",
+      "gene_strand": "-",
       "eggnog_pos_X2": "266835.mll1426",
       "eggnog_pos_X3": 62.2,
       "eggnog_pos_X4": 601,

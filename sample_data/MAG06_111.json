@@ -37,13 +37,25 @@
       "eggnog_X10": "01QZH@aproNOG,05C07@bactNOG,16PBY@proNOG,COG0060@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "J",
-      "eggnog_X13": "amino acids such as valine, to avoid such errors it has two additional distinct tRNA(Ile)-dependent editing activities. One activity is designated as 'pretransfer' editing and involves the hydrolysis of activated Val-AMP. The other activity is designated 'posttransfer' editing and involves deacylation of mischarged Val-tRNA(Ile) (By similarity)"
+      "eggnog_X13": "amino acids such as valine, to avoid such errors it has two additional distinct tRNA(Ile)-dependent editing activities. One activity is designated as 'pretransfer' editing and involves the hydrolysis of activated Val-AMP. The other activity is designated 'posttransfer' editing and involves deacylation of mischarged Val-tRNA(Ile) (By similarity)",
+      "metric_1": 47,
+      "metric_4": 19,
+      "metric_11": 38,
+      "metric_12": 79,
+      "metric_14": 7,
+      "metric_15": 53,
+      "metric_18": 67,
+      "metric_21": 90,
+      "metric_25": 81,
+      "metric_27": 42,
+      "metric_30": 78
     }
   ],
   "diamond_track": [
     {
       "seqnames": "MAG06_111",
       "gene_ID": "MAG06_111_1",
+      "gene_strand": "+",
       "eggnog_pos_X2": "266834.SMc00908",
       "eggnog_pos_X3": 100,
       "eggnog_pos_X4": 856,

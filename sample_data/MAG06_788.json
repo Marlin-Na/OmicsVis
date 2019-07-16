@@ -35,7 +35,19 @@
       "eggnog_X10": "01RIP@aproNOG,06ER4@bactNOG,173NT@proNOG,COG1305@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "E",
-      "eggnog_X13": "transglutaminase domain protein"
+      "eggnog_X13": "transglutaminase domain protein",
+      "metric_4": 78,
+      "metric_5": 14,
+      "metric_7": 57,
+      "metric_9": 5,
+      "metric_14": 23,
+      "metric_15": 56,
+      "metric_16": 33,
+      "metric_22": 50,
+      "metric_23": 70,
+      "metric_24": 67,
+      "metric_26": 10,
+      "metric_29": 78
     },
     {
       "gene_seqnames": "MAG06_788",
@@ -67,7 +79,22 @@
       "eggnog_X10": "01WZX@aproNOG,08WIH@bactNOG,17BDN@proNOG,COG4961@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "U",
-      "eggnog_X13": "von willebrand factor, type a"
+      "eggnog_X13": "von willebrand factor, type a",
+      "metric_1": 14,
+      "metric_2": 29,
+      "metric_8": 74,
+      "metric_10": 85,
+      "metric_11": 3,
+      "metric_12": 49,
+      "metric_13": 31,
+      "metric_14": 74,
+      "metric_16": 38,
+      "metric_17": 80,
+      "metric_18": 36,
+      "metric_21": 91,
+      "metric_22": 91,
+      "metric_27": 71,
+      "metric_29": 47
     },
     {
       "gene_seqnames": "MAG06_788",
@@ -103,13 +130,29 @@
       "eggnog_X10": "02EAI@aproNOG,08IUN@bactNOG,172Z7@proNOG,COG0058@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "G",
-      "eggnog_X13": "Phosphorylase is an important allosteric enzyme in carbohydrate metabolism. Enzymes from different sources differ in their regulatory mechanisms and in their natural substrates. However, all known phosphorylases share catalytic and structural properties (By similarity)"
+      "eggnog_X13": "Phosphorylase is an important allosteric enzyme in carbohydrate metabolism. Enzymes from different sources differ in their regulatory mechanisms and in their natural substrates. However, all known phosphorylases share catalytic and structural properties (By similarity)",
+      "metric_1": 43,
+      "metric_3": 72,
+      "metric_6": 17,
+      "metric_8": 60,
+      "metric_10": 72,
+      "metric_12": 20,
+      "metric_16": 87,
+      "metric_20": 68,
+      "metric_21": 2,
+      "metric_22": 25,
+      "metric_23": 33,
+      "metric_25": 77,
+      "metric_27": 47,
+      "metric_29": 32,
+      "metric_30": 83
     }
   ],
   "diamond_track": [
     {
       "seqnames": "MAG06_788",
       "gene_ID": "MAG06_788_1",
+      "gene_strand": "+",
       "eggnog_pos_X2": "266834.SMc04058",
       "eggnog_pos_X3": 99.3,
       "eggnog_pos_X4": 139,
@@ -127,6 +170,7 @@
     {
       "seqnames": "MAG06_788",
       "gene_ID": "MAG06_788_2",
+      "gene_strand": "+",
       "eggnog_pos_X2": "366394.Smed_2738",
       "eggnog_pos_X3": 84.3,
       "eggnog_pos_X4": 408,
@@ -144,6 +188,7 @@
     {
       "seqnames": "MAG06_788",
       "gene_ID": "MAG06_788_3",
+      "gene_strand": "+",
       "eggnog_pos_X2": "266834.SMc04460",
       "eggnog_pos_X3": 100,
       "eggnog_pos_X4": 220,
@@ -161,6 +206,7 @@
     {
       "seqnames": "MAG06_788",
       "gene_ID": "MAG06_788_3",
+      "gene_strand": "+",
       "eggnog_pos_X2": "366394.Smed_2739",
       "eggnog_pos_X3": 97.3,
       "eggnog_pos_X4": 220,
@@ -178,6 +224,7 @@
     {
       "seqnames": "MAG06_788",
       "gene_ID": "MAG06_788_3",
+      "gene_strand": "+",
       "eggnog_pos_X2": "1117943.SFHH103_02901",
       "eggnog_pos_X3": 96.4,
       "eggnog_pos_X4": 220,
@@ -195,6 +242,7 @@
     {
       "seqnames": "MAG06_788",
       "gene_ID": "MAG06_788_3",
+      "gene_strand": "+",
       "eggnog_pos_X2": "394.NGR_c28940",
       "eggnog_pos_X3": 96.4,
       "eggnog_pos_X4": 220,

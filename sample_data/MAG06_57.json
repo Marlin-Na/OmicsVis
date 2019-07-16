@@ -36,13 +36,29 @@
       "eggnog_X10": "01UYW@aproNOG,06MYB@bactNOG,0XRIB@NOG,16SH8@proNOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "G",
-      "eggnog_X13": "Major facilitator superfamily MFS_1"
+      "eggnog_X13": "Major facilitator superfamily MFS_1",
+      "metric_2": 13,
+      "metric_4": 73,
+      "metric_7": 12,
+      "metric_11": 92,
+      "metric_12": 44,
+      "metric_13": 68,
+      "metric_20": 39,
+      "metric_21": 21,
+      "metric_22": 8,
+      "metric_23": 81,
+      "metric_25": 53,
+      "metric_26": 63,
+      "metric_28": 9,
+      "metric_29": 76,
+      "metric_30": 67
     }
   ],
   "diamond_track": [
     {
       "seqnames": "MAG06_57",
       "gene_ID": "MAG06_57_1",
+      "gene_strand": "+",
       "eggnog_pos_X2": "266834.SMc01217",
       "eggnog_pos_X3": 99.6,
       "eggnog_pos_X4": 489,

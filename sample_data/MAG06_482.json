@@ -35,7 +35,24 @@
       "eggnog_X10": "01UPY@aproNOG,07QZ7@bactNOG,16Q3R@proNOG,COG1215@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "M",
-      "eggnog_X13": "Cellulose synthase"
+      "eggnog_X13": "Cellulose synthase",
+      "metric_1": 1,
+      "metric_2": 99,
+      "metric_3": 83,
+      "metric_5": 34,
+      "metric_6": 74,
+      "metric_7": 48,
+      "metric_8": 46,
+      "metric_10": 23,
+      "metric_11": 34,
+      "metric_12": 6,
+      "metric_14": 91,
+      "metric_17": 96,
+      "metric_19": 54,
+      "metric_21": 15,
+      "metric_22": 52,
+      "metric_26": 73,
+      "metric_28": 61
     },
     {
       "gene_seqnames": "MAG06_482",
@@ -68,7 +85,22 @@
       "eggnog_X10": "01VF3@aproNOG,08QBF@bactNOG,173Q9@proNOG,COG2186@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "K",
-      "eggnog_X13": "transcriptional regulator"
+      "eggnog_X13": "transcriptional regulator",
+      "metric_4": 10,
+      "metric_5": 18,
+      "metric_6": 14,
+      "metric_8": 92,
+      "metric_13": 2,
+      "metric_16": 69,
+      "metric_17": 67,
+      "metric_18": 50,
+      "metric_20": 82,
+      "metric_21": 79,
+      "metric_23": 50,
+      "metric_24": 24,
+      "metric_25": 22,
+      "metric_26": 47,
+      "metric_28": 35
     },
     {
       "gene_seqnames": "MAG06_482",
@@ -102,13 +134,29 @@
       "eggnog_X10": "01SD1@aproNOG,05DT1@bactNOG,16RD8@proNOG,COG1850@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "G",
-      "eggnog_X13": "RuBisCO catalyzes two reactions the carboxylation of D- ribulose 1,5-bisphosphate, the primary event in carbon dioxide fixation, as well as the oxidative fragmentation of the pentose substrate. Both reactions occur simultaneously and in competition at the same active site (By similarity)"
+      "eggnog_X13": "RuBisCO catalyzes two reactions the carboxylation of D- ribulose 1,5-bisphosphate, the primary event in carbon dioxide fixation, as well as the oxidative fragmentation of the pentose substrate. Both reactions occur simultaneously and in competition at the same active site (By similarity)",
+      "metric_2": 3,
+      "metric_3": 49,
+      "metric_4": 11,
+      "metric_6": 99,
+      "metric_10": 4,
+      "metric_12": 28,
+      "metric_15": 64,
+      "metric_16": 27,
+      "metric_18": 33,
+      "metric_20": 70,
+      "metric_22": 82,
+      "metric_24": 3,
+      "metric_25": 56,
+      "metric_28": 15,
+      "metric_30": 47
     }
   ],
   "diamond_track": [
     {
       "seqnames": "MAG06_482",
       "gene_ID": "MAG06_482_1",
+      "gene_strand": "+",
       "eggnog_pos_X2": "311403.Arad_7561",
       "eggnog_pos_X3": 63.8,
       "eggnog_pos_X4": 127,
@@ -126,6 +174,7 @@
     {
       "seqnames": "MAG06_482",
       "gene_ID": "MAG06_482_2",
+      "gene_strand": "-",
       "eggnog_pos_X2": "536019.Mesop_5774",
       "eggnog_pos_X3": 74.7,
       "eggnog_pos_X4": 229,
@@ -143,6 +192,7 @@
     {
       "seqnames": "MAG06_482",
       "gene_ID": "MAG06_482_2",
+      "gene_strand": "-",
       "eggnog_pos_X2": "266835.mlr7008",
       "eggnog_pos_X3": 72.9,
       "eggnog_pos_X4": 229,
@@ -160,6 +210,7 @@
     {
       "seqnames": "MAG06_482",
       "gene_ID": "MAG06_482_3",
+      "gene_strand": "+",
       "eggnog_pos_X2": "311403.Arad_9230",
       "eggnog_pos_X3": 81.3,
       "eggnog_pos_X4": 327,
@@ -177,6 +228,7 @@
     {
       "seqnames": "MAG06_482",
       "gene_ID": "MAG06_482_3",
+      "gene_strand": "+",
       "eggnog_pos_X2": "536019.Mesop_5775",
       "eggnog_pos_X3": 78.7,
       "eggnog_pos_X4": 329,
@@ -194,6 +246,7 @@
     {
       "seqnames": "MAG06_482",
       "gene_ID": "MAG06_482_3",
+      "gene_strand": "+",
       "eggnog_pos_X2": "439375.Oant_3067",
       "eggnog_pos_X3": 80.1,
       "eggnog_pos_X4": 327,

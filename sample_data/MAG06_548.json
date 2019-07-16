@@ -36,7 +36,21 @@
       "eggnog_X10": "01URP@aproNOG,05GN4@bactNOG,175S3@proNOG,COG1793@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "L",
-      "eggnog_X13": "DNA ligase"
+      "eggnog_X13": "DNA ligase",
+      "metric_4": 53,
+      "metric_5": 15,
+      "metric_6": 73,
+      "metric_9": 42,
+      "metric_13": 81,
+      "metric_15": 17,
+      "metric_17": 68,
+      "metric_19": 25,
+      "metric_20": 26,
+      "metric_22": 41,
+      "metric_23": 28,
+      "metric_24": 38,
+      "metric_26": 42,
+      "metric_30": 60
     },
     {
       "gene_seqnames": "MAG06_548",
@@ -68,7 +82,21 @@
       "eggnog_X10": "086Y2@bactNOG,0B7PJ@bproNOG,0ZMQ3@NOG,175FT@proNOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "K",
-      "eggnog_X13": "LysR family transcriptional Regulator"
+      "eggnog_X13": "LysR family transcriptional Regulator",
+      "metric_2": 7,
+      "metric_4": 89,
+      "metric_6": 3,
+      "metric_8": 13,
+      "metric_12": 66,
+      "metric_14": 59,
+      "metric_16": 29,
+      "metric_17": 3,
+      "metric_22": 96,
+      "metric_23": 59,
+      "metric_27": 37,
+      "metric_28": 77,
+      "metric_29": 39,
+      "metric_30": 82
     },
     {
       "gene_seqnames": "MAG06_548",
@@ -100,13 +128,28 @@
       "eggnog_X10": "02BI9@aproNOG,082T1@bactNOG,0ZX92@NOG,16YQ4@proNOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "S",
-      "eggnog_X13": "Alpha beta hydrolase fold protein"
+      "eggnog_X13": "Alpha beta hydrolase fold protein",
+      "metric_1": 72,
+      "metric_2": 88,
+      "metric_7": 39,
+      "metric_8": 37,
+      "metric_9": 10,
+      "metric_11": 60,
+      "metric_17": 64,
+      "metric_18": 97,
+      "metric_21": 77,
+      "metric_22": 13,
+      "metric_25": 77,
+      "metric_27": 56,
+      "metric_28": 75,
+      "metric_29": 65
     }
   ],
   "diamond_track": [
     {
       "seqnames": "MAG06_548",
       "gene_ID": "MAG06_548_1",
+      "gene_strand": "+",
       "eggnog_pos_X2": "395965.Msil_3719",
       "eggnog_pos_X3": 68.1,
       "eggnog_pos_X4": 185,
@@ -124,6 +167,7 @@
     {
       "seqnames": "MAG06_548",
       "gene_ID": "MAG06_548_1",
+      "gene_strand": "+",
       "eggnog_pos_X2": "266779.Meso_2700",
       "eggnog_pos_X3": 66.9,
       "eggnog_pos_X4": 181,
@@ -141,6 +185,7 @@
     {
       "seqnames": "MAG06_548",
       "gene_ID": "MAG06_548_2",
+      "gene_strand": "-",
       "eggnog_pos_X2": "398578.Daci_4455",
       "eggnog_pos_X3": 42.5,
       "eggnog_pos_X4": 285,
@@ -158,6 +203,7 @@
     {
       "seqnames": "MAG06_548",
       "gene_ID": "MAG06_548_3",
+      "gene_strand": "+",
       "eggnog_pos_X2": "316056.RPC_2739",
       "eggnog_pos_X3": 50.7,
       "eggnog_pos_X4": 343,

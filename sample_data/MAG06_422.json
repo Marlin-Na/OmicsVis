@@ -36,7 +36,20 @@
       "eggnog_X10": "01TJH@aproNOG,05V3I@bactNOG,0XQJ1@NOG,16TDQ@proNOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "M",
-      "eggnog_X13": "Udp-sulfoquinovose"
+      "eggnog_X13": "Udp-sulfoquinovose",
+      "metric_1": 99,
+      "metric_3": 25,
+      "metric_4": 31,
+      "metric_6": 84,
+      "metric_12": 5,
+      "metric_13": 37,
+      "metric_15": 59,
+      "metric_16": 8,
+      "metric_17": 5,
+      "metric_20": 52,
+      "metric_24": 72,
+      "metric_26": 78,
+      "metric_29": 52
     },
     {
       "gene_seqnames": "MAG06_422",
@@ -69,7 +82,21 @@
       "eggnog_X10": "01U4Y@aproNOG,05GN7@bactNOG,16T8R@proNOG,COG5597@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "M",
-      "eggnog_X13": "Sulfolipid biosynthesis protein"
+      "eggnog_X13": "Sulfolipid biosynthesis protein",
+      "metric_3": 81,
+      "metric_6": 29,
+      "metric_8": 93,
+      "metric_9": 24,
+      "metric_11": 32,
+      "metric_15": 27,
+      "metric_16": 55,
+      "metric_20": 17,
+      "metric_21": 82,
+      "metric_24": 33,
+      "metric_26": 56,
+      "metric_27": 41,
+      "metric_28": 76,
+      "metric_29": 2
     },
     {
       "gene_seqnames": "MAG06_422",
@@ -102,13 +129,32 @@
       "eggnog_X10": "01X24@aproNOG,08VK0@bactNOG,11J9V@NOG,17ADT@proNOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "M",
-      "eggnog_X13": "Sulfolipid biosynthesis protein"
+      "eggnog_X13": "Sulfolipid biosynthesis protein",
+      "metric_1": 14,
+      "metric_2": 4,
+      "metric_3": 77,
+      "metric_4": 98,
+      "metric_5": 24,
+      "metric_6": 28,
+      "metric_7": 60,
+      "metric_8": 3,
+      "metric_11": 19,
+      "metric_13": 63,
+      "metric_17": 40,
+      "metric_18": 80,
+      "metric_19": 52,
+      "metric_22": 1,
+      "metric_25": 19,
+      "metric_27": 63,
+      "metric_29": 7,
+      "metric_30": 62
     }
   ],
   "diamond_track": [
     {
       "seqnames": "MAG06_422",
       "gene_ID": "MAG06_422_1",
+      "gene_strand": "+",
       "eggnog_pos_X2": "266834.SMc03961",
       "eggnog_pos_X3": 99.5,
       "eggnog_pos_X4": 391,
@@ -126,6 +172,7 @@
     {
       "seqnames": "MAG06_422",
       "gene_ID": "MAG06_422_1",
+      "gene_strand": "+",
       "eggnog_pos_X2": "366394.Smed_2633",
       "eggnog_pos_X3": 96.4,
       "eggnog_pos_X4": 391,
@@ -143,6 +190,7 @@
     {
       "seqnames": "MAG06_422",
       "gene_ID": "MAG06_422_2",
+      "gene_strand": "+",
       "eggnog_pos_X2": "266834.SMc04081",
       "eggnog_pos_X3": 99,
       "eggnog_pos_X4": 292,
@@ -160,6 +208,7 @@
     {
       "seqnames": "MAG06_422",
       "gene_ID": "MAG06_422_3",
+      "gene_strand": "+",
       "eggnog_pos_X2": "266834.SMc03963",
       "eggnog_pos_X3": 93.2,
       "eggnog_pos_X4": 88,

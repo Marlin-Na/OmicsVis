@@ -38,7 +38,22 @@
       "eggnog_X10": "01RIA@aproNOG,05C8D@bactNOG,16QX0@proNOG,COG0504@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "F",
-      "eggnog_X13": "Catalyzes the ATP-dependent amination of UTP to CTP with either L-glutamine or ammonia as the source of nitrogen (By similarity)"
+      "eggnog_X13": "Catalyzes the ATP-dependent amination of UTP to CTP with either L-glutamine or ammonia as the source of nitrogen (By similarity)",
+      "metric_1": 71,
+      "metric_2": 68,
+      "metric_9": 30,
+      "metric_10": 52,
+      "metric_13": 94,
+      "metric_14": 89,
+      "metric_18": 24,
+      "metric_20": 21,
+      "metric_22": 5,
+      "metric_23": 45,
+      "metric_25": 43,
+      "metric_26": 76,
+      "metric_28": 35,
+      "metric_29": 78,
+      "metric_30": 26
     },
     {
       "gene_seqnames": "MAG06_411",
@@ -68,7 +83,19 @@
       "eggnog_X4": 577.8,
       "eggnog_X9": "bactNOG[38]",
       "eggnog_X10": "01VI9@aproNOG,08PDK@bactNOG,10WI4@NOG,16TVI@proNOG",
-      "eggnog_X11": "NA|NA|NA"
+      "eggnog_X11": "NA|NA|NA",
+      "metric_3": 39,
+      "metric_4": 32,
+      "metric_7": 33,
+      "metric_8": 27,
+      "metric_11": 12,
+      "metric_16": 78,
+      "metric_21": 55,
+      "metric_22": 24,
+      "metric_23": 83,
+      "metric_24": 41,
+      "metric_27": 73,
+      "metric_29": 36
     },
     {
       "gene_seqnames": "MAG06_411",
@@ -104,7 +131,19 @@
       "eggnog_X10": "01QIQ@aproNOG,05CXR@bactNOG,16PEJ@proNOG,COG2877@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "M",
-      "eggnog_X13": "Phospho-2-dehydro-3-deoxyoctonate aldolase"
+      "eggnog_X13": "Phospho-2-dehydro-3-deoxyoctonate aldolase",
+      "metric_3": 42,
+      "metric_4": 38,
+      "metric_6": 55,
+      "metric_9": 44,
+      "metric_16": 94,
+      "metric_18": 98,
+      "metric_19": 34,
+      "metric_21": 38,
+      "metric_22": 47,
+      "metric_23": 56,
+      "metric_28": 56,
+      "metric_30": 46
     },
     {
       "gene_seqnames": "MAG06_411",
@@ -140,13 +179,29 @@
       "eggnog_X10": "01QKP@aproNOG,05C70@bactNOG,16PJE@proNOG,COG0148@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "G",
-      "eggnog_X13": "Catalyzes the reversible conversion of 2- phosphoglycerate into phosphoenolpyruvate. It is essential for the degradation of carbohydrates via glycolysis (By similarity)"
+      "eggnog_X13": "Catalyzes the reversible conversion of 2- phosphoglycerate into phosphoenolpyruvate. It is essential for the degradation of carbohydrates via glycolysis (By similarity)",
+      "metric_2": 5,
+      "metric_3": 62,
+      "metric_7": 40,
+      "metric_10": 77,
+      "metric_13": 82,
+      "metric_14": 77,
+      "metric_15": 70,
+      "metric_16": 60,
+      "metric_19": 24,
+      "metric_20": 57,
+      "metric_21": 92,
+      "metric_22": 76,
+      "metric_28": 17,
+      "metric_29": 35,
+      "metric_30": 94
     }
   ],
   "diamond_track": [
     {
       "seqnames": "MAG06_411",
       "gene_ID": "MAG06_411_1",
+      "gene_strand": "+",
       "eggnog_pos_X2": "266834.SMc01025",
       "eggnog_pos_X3": 99,
       "eggnog_pos_X4": 193,
@@ -164,6 +219,7 @@
     {
       "seqnames": "MAG06_411",
       "gene_ID": "MAG06_411_1",
+      "gene_strand": "+",
       "eggnog_pos_X2": "366394.Smed_1069",
       "eggnog_pos_X3": 96.9,
       "eggnog_pos_X4": 193,
@@ -181,6 +237,7 @@
     {
       "seqnames": "MAG06_411",
       "gene_ID": "MAG06_411_2",
+      "gene_strand": "+",
       "eggnog_pos_X2": "266834.SMc01026",
       "eggnog_pos_X3": 99.7,
       "eggnog_pos_X4": 296,
@@ -198,6 +255,7 @@
     {
       "seqnames": "MAG06_411",
       "gene_ID": "MAG06_411_3",
+      "gene_strand": "+",
       "eggnog_pos_X2": "266834.SMc01027",
       "eggnog_pos_X3": 100,
       "eggnog_pos_X4": 279,
@@ -215,6 +273,7 @@
     {
       "seqnames": "MAG06_411",
       "gene_ID": "MAG06_411_3",
+      "gene_strand": "+",
       "eggnog_pos_X2": "366394.Smed_1071",
       "eggnog_pos_X3": 96.8,
       "eggnog_pos_X4": 278,
@@ -232,6 +291,7 @@
     {
       "seqnames": "MAG06_411",
       "gene_ID": "MAG06_411_4",
+      "gene_strand": "+",
       "eggnog_pos_X2": "861208.AGROH133_05917",
       "eggnog_pos_X3": 88.4,
       "eggnog_pos_X4": 424,
@@ -249,6 +309,7 @@
     {
       "seqnames": "MAG06_411",
       "gene_ID": "MAG06_411_4",
+      "gene_strand": "+",
       "eggnog_pos_X2": "311402.Avi_2109",
       "eggnog_pos_X3": 88.7,
       "eggnog_pos_X4": 423,

@@ -35,7 +35,18 @@
       "eggnog_X10": "01YFN@aproNOG,08ZSB@bactNOG,17DI6@proNOG,COG4119@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "L",
-      "eggnog_X13": "nudix hydrolase"
+      "eggnog_X13": "nudix hydrolase",
+      "metric_2": 65,
+      "metric_5": 79,
+      "metric_13": 8,
+      "metric_15": 40,
+      "metric_16": 93,
+      "metric_20": 68,
+      "metric_21": 60,
+      "metric_23": 43,
+      "metric_24": 39,
+      "metric_25": 26,
+      "metric_28": 16
     },
     {
       "gene_seqnames": "MAG06_561",
@@ -71,7 +82,21 @@
       "eggnog_X10": "01QG4@aproNOG,05CB8@bactNOG,16PUB@proNOG,COG0007@NOG,COG1648@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "H",
-      "eggnog_X13": "Multifunctional enzyme that catalyzes the SAM-dependent methylation of uroporphyrinogen III at position C-2 and C-7 to form precorrin-2 and then position C-12 or C-18 to form trimethylpyrrocorphin 2. It also catalyzes the conversion of precorrin-2 into siroheme. This reaction consists of the NAD- dependent oxidation of precorrin-2 into sirohydrochlorin and its subsequent ferrochelation into siroheme (By similarity)"
+      "eggnog_X13": "Multifunctional enzyme that catalyzes the SAM-dependent methylation of uroporphyrinogen III at position C-2 and C-7 to form precorrin-2 and then position C-12 or C-18 to form trimethylpyrrocorphin 2. It also catalyzes the conversion of precorrin-2 into siroheme. This reaction consists of the NAD- dependent oxidation of precorrin-2 into sirohydrochlorin and its subsequent ferrochelation into siroheme (By similarity)",
+      "metric_1": 58,
+      "metric_2": 23,
+      "metric_3": 10,
+      "metric_6": 19,
+      "metric_7": 83,
+      "metric_9": 73,
+      "metric_10": 94,
+      "metric_15": 81,
+      "metric_16": 87,
+      "metric_20": 33,
+      "metric_24": 9,
+      "metric_26": 44,
+      "metric_27": 4,
+      "metric_30": 38
     },
     {
       "gene_seqnames": "MAG06_561",
@@ -106,13 +131,26 @@
       "eggnog_X10": "02E6E@aproNOG,08IEF@bactNOG,172PQ@proNOG,COG0243@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "C",
-      "eggnog_X13": "Nitrate reductase, large subunit"
+      "eggnog_X13": "Nitrate reductase, large subunit",
+      "metric_4": 35,
+      "metric_6": 7,
+      "metric_8": 56,
+      "metric_10": 93,
+      "metric_11": 58,
+      "metric_13": 63,
+      "metric_18": 64,
+      "metric_21": 55,
+      "metric_22": 23,
+      "metric_23": 30,
+      "metric_26": 87,
+      "metric_29": 41
     }
   ],
   "diamond_track": [
     {
       "seqnames": "MAG06_561",
       "gene_ID": "MAG06_561_1",
+      "gene_strand": "+",
       "eggnog_pos_X2": "266779.Meso_0645",
       "eggnog_pos_X3": 66.9,
       "eggnog_pos_X4": 145,
@@ -130,6 +168,7 @@
     {
       "seqnames": "MAG06_561",
       "gene_ID": "MAG06_561_1",
+      "gene_strand": "+",
       "eggnog_pos_X2": "266779.Meso_2262",
       "eggnog_pos_X3": 64.6,
       "eggnog_pos_X4": 147,
@@ -147,6 +186,7 @@
     {
       "seqnames": "MAG06_561",
       "gene_ID": "MAG06_561_1",
+      "gene_strand": "+",
       "eggnog_pos_X2": "114615.BRADO6916",
       "eggnog_pos_X3": 63.3,
       "eggnog_pos_X4": 147,
@@ -164,6 +204,7 @@
     {
       "seqnames": "MAG06_561",
       "gene_ID": "MAG06_561_2",
+      "gene_strand": "-",
       "eggnog_pos_X2": "311402.Avi_5891",
       "eggnog_pos_X3": 56.4,
       "eggnog_pos_X4": 374,
@@ -181,6 +222,7 @@
     {
       "seqnames": "MAG06_561",
       "gene_ID": "MAG06_561_3",
+      "gene_strand": "-",
       "eggnog_pos_X2": "311403.Arad_8702",
       "eggnog_pos_X3": 75,
       "eggnog_pos_X4": 144,

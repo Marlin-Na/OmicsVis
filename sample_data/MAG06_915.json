@@ -37,7 +37,22 @@
       "eggnog_X10": "01Y8W@aproNOG,05K5M@bactNOG,17FHF@proNOG,COG0228@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "J",
-      "eggnog_X13": "30s ribosomal protein s16"
+      "eggnog_X13": "30s ribosomal protein s16",
+      "metric_3": 43,
+      "metric_5": 57,
+      "metric_6": 12,
+      "metric_7": 82,
+      "metric_8": 93,
+      "metric_9": 52,
+      "metric_11": 99,
+      "metric_14": 22,
+      "metric_15": 52,
+      "metric_16": 66,
+      "metric_19": 99,
+      "metric_20": 31,
+      "metric_22": 32,
+      "metric_23": 74,
+      "metric_27": 55
     },
     {
       "gene_seqnames": "MAG06_915",
@@ -72,7 +87,21 @@
       "eggnog_X10": "01XHZ@aproNOG,08ZR6@bactNOG,16TAJ@proNOG,COG0806@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "J",
-      "eggnog_X13": "An accessory protein needed during the final step in the assembly of 30S ribosomal subunit, possibly for assembly of the head region. Probably interacts with S19. Essential for efficient processing of 16S rRNA. May be needed both before and after RbfA during the maturation of 16S rRNA. It has affinity for free ribosomal 30S subunits but not for 70S ribosomes (By similarity)"
+      "eggnog_X13": "An accessory protein needed during the final step in the assembly of 30S ribosomal subunit, possibly for assembly of the head region. Probably interacts with S19. Essential for efficient processing of 16S rRNA. May be needed both before and after RbfA during the maturation of 16S rRNA. It has affinity for free ribosomal 30S subunits but not for 70S ribosomes (By similarity)",
+      "metric_1": 87,
+      "metric_5": 21,
+      "metric_8": 83,
+      "metric_9": 3,
+      "metric_10": 40,
+      "metric_11": 17,
+      "metric_12": 48,
+      "metric_15": 53,
+      "metric_17": 21,
+      "metric_18": 9,
+      "metric_20": 95,
+      "metric_21": 82,
+      "metric_22": 26,
+      "metric_23": 87
     },
     {
       "gene_seqnames": "MAG06_915",
@@ -107,7 +136,20 @@
       "eggnog_X10": "01RRE@aproNOG,05D6X@bactNOG,16PND@proNOG,COG0336@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "J",
-      "eggnog_X13": "Specifically methylates guanosine-37 in various tRNAs (By similarity)"
+      "eggnog_X13": "Specifically methylates guanosine-37 in various tRNAs (By similarity)",
+      "metric_2": 89,
+      "metric_4": 38,
+      "metric_7": 69,
+      "metric_8": 51,
+      "metric_9": 76,
+      "metric_10": 29,
+      "metric_11": 88,
+      "metric_12": 33,
+      "metric_13": 39,
+      "metric_16": 43,
+      "metric_22": 68,
+      "metric_25": 14,
+      "metric_28": 14
     },
     {
       "gene_seqnames": "MAG06_915",
@@ -141,13 +183,31 @@
       "eggnog_X10": "08ZAK@bactNOG,17A3Q@proNOG,COG0730@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "S",
-      "eggnog_X13": "membrAne"
+      "eggnog_X13": "membrAne",
+      "metric_3": 11,
+      "metric_6": 29,
+      "metric_7": 94,
+      "metric_9": 71,
+      "metric_13": 37,
+      "metric_16": 3,
+      "metric_17": 13,
+      "metric_18": 39,
+      "metric_19": 55,
+      "metric_22": 16,
+      "metric_23": 50,
+      "metric_25": 57,
+      "metric_26": 70,
+      "metric_27": 18,
+      "metric_28": 54,
+      "metric_29": 19,
+      "metric_30": 10
     }
   ],
   "diamond_track": [
     {
       "seqnames": "MAG06_915",
       "gene_ID": "MAG06_915_1",
+      "gene_strand": "+",
       "eggnog_pos_X2": "266834.SMc03859",
       "eggnog_pos_X3": 97.2,
       "eggnog_pos_X4": 107,
@@ -165,6 +225,7 @@
     {
       "seqnames": "MAG06_915",
       "gene_ID": "MAG06_915_2",
+      "gene_strand": "+",
       "eggnog_pos_X2": "266834.SMc03860",
       "eggnog_pos_X3": 99.5,
       "eggnog_pos_X4": 187,
@@ -182,6 +243,7 @@
     {
       "seqnames": "MAG06_915",
       "gene_ID": "MAG06_915_2",
+      "gene_strand": "+",
       "eggnog_pos_X2": "366394.Smed_3098",
       "eggnog_pos_X3": 97.9,
       "eggnog_pos_X4": 187,
@@ -199,6 +261,7 @@
     {
       "seqnames": "MAG06_915",
       "gene_ID": "MAG06_915_3",
+      "gene_strand": "+",
       "eggnog_pos_X2": "266834.SMc03861",
       "eggnog_pos_X3": 99.6,
       "eggnog_pos_X4": 240,
@@ -216,6 +279,7 @@
     {
       "seqnames": "MAG06_915",
       "gene_ID": "MAG06_915_4",
+      "gene_strand": "-",
       "eggnog_pos_X2": "266834.SMc03862",
       "eggnog_pos_X3": 98.7,
       "eggnog_pos_X4": 223,

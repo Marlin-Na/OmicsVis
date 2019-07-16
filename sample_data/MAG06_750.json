@@ -26,7 +26,17 @@
       "gene_sscore": "-2.07",
       "gene_rscore": "-4.72",
       "gene_uscore": "-2.08",
-      "gene_tscore": "3.65"
+      "gene_tscore": "3.65",
+      "metric_1": 37,
+      "metric_3": 67,
+      "metric_4": 32,
+      "metric_7": 59,
+      "metric_8": 2,
+      "metric_18": 74,
+      "metric_23": 44,
+      "metric_24": 10,
+      "metric_29": 56,
+      "metric_30": 87
     },
     {
       "gene_seqnames": "MAG06_750",
@@ -58,7 +68,16 @@
       "eggnog_X10": "01QRK@aproNOG,05JPZ@bactNOG,0XST5@NOG,16THY@proNOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "S",
-      "eggnog_X13": "Protein of unknown function (DUF1402)"
+      "eggnog_X13": "Protein of unknown function (DUF1402)",
+      "metric_6": 71,
+      "metric_7": 56,
+      "metric_10": 13,
+      "metric_12": 67,
+      "metric_17": 97,
+      "metric_19": 9,
+      "metric_23": 69,
+      "metric_26": 24,
+      "metric_29": 80
     },
     {
       "gene_seqnames": "MAG06_750",
@@ -93,7 +112,17 @@
       "eggnog_X10": "01QJD@aproNOG,05C4N@bactNOG,16PVM@proNOG,COG1220@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "O",
-      "eggnog_X13": "this subunit has chaperone activity. The binding of ATP and its subsequent hydrolysis by HslU are essential for unfolding of protein substrates subsequently hydrolyzed by HslV. HslU recognizes the N-terminal part of its protein substrates and unfolds these before they are guided to HslV for hydrolysis (By similarity)"
+      "eggnog_X13": "this subunit has chaperone activity. The binding of ATP and its subsequent hydrolysis by HslU are essential for unfolding of protein substrates subsequently hydrolyzed by HslV. HslU recognizes the N-terminal part of its protein substrates and unfolds these before they are guided to HslV for hydrolysis (By similarity)",
+      "metric_1": 60,
+      "metric_3": 51,
+      "metric_4": 12,
+      "metric_9": 57,
+      "metric_10": 74,
+      "metric_15": 37,
+      "metric_17": 42,
+      "metric_18": 10,
+      "metric_20": 72,
+      "metric_22": 96
     },
     {
       "gene_seqnames": "MAG06_750",
@@ -127,7 +156,24 @@
       "eggnog_X10": "020C2@aproNOG,05RF8@bactNOG,17IN2@proNOG,COG1670@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "J",
-      "eggnog_X13": "N-acetyltransferase GCN5"
+      "eggnog_X13": "N-acetyltransferase GCN5",
+      "metric_1": 89,
+      "metric_5": 99,
+      "metric_6": 43,
+      "metric_8": 35,
+      "metric_12": 59,
+      "metric_13": 93,
+      "metric_14": 57,
+      "metric_15": 95,
+      "metric_17": 16,
+      "metric_19": 64,
+      "metric_20": 20,
+      "metric_23": 45,
+      "metric_25": 71,
+      "metric_26": 87,
+      "metric_27": 74,
+      "metric_28": 3,
+      "metric_29": 79
     },
     {
       "gene_seqnames": "MAG06_750",
@@ -162,7 +208,23 @@
       "eggnog_X10": "01TV5@aproNOG,08R5P@bactNOG,16QAM@proNOG,COG5405@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "O",
-      "eggnog_X13": "Protease subunit of a proteasome-like degradation complex believed to be a general protein degrading machinery (By similarity)"
+      "eggnog_X13": "Protease subunit of a proteasome-like degradation complex believed to be a general protein degrading machinery (By similarity)",
+      "metric_1": 70,
+      "metric_5": 18,
+      "metric_8": 10,
+      "metric_10": 29,
+      "metric_11": 33,
+      "metric_13": 36,
+      "metric_14": 3,
+      "metric_15": 15,
+      "metric_17": 59,
+      "metric_19": 40,
+      "metric_20": 39,
+      "metric_25": 46,
+      "metric_26": 28,
+      "metric_27": 40,
+      "metric_28": 99,
+      "metric_30": 68
     },
     {
       "gene_seqnames": "MAG06_750",
@@ -198,7 +260,18 @@
       "eggnog_X10": "01QA7@aproNOG,05ECC@bactNOG,16PP9@proNOG,COG0131@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "E",
-      "eggnog_X13": "imidazoleglycerol-phosphate dehydratase"
+      "eggnog_X13": "imidazoleglycerol-phosphate dehydratase",
+      "metric_1": 16,
+      "metric_2": 90,
+      "metric_4": 2,
+      "metric_6": 58,
+      "metric_9": 69,
+      "metric_17": 96,
+      "metric_19": 54,
+      "metric_20": 18,
+      "metric_21": 78,
+      "metric_23": 85,
+      "metric_27": 32
     },
     {
       "gene_seqnames": "MAG06_750",
@@ -230,7 +303,18 @@
       "eggnog_X10": "024SM@aproNOG,06F0S@bactNOG,0Y0HN@NOG,17TMQ@proNOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "S",
-      "eggnog_X13": "Protein of unknown function (DUF2628)"
+      "eggnog_X13": "Protein of unknown function (DUF2628)",
+      "metric_3": 58,
+      "metric_5": 83,
+      "metric_10": 6,
+      "metric_11": 96,
+      "metric_12": 5,
+      "metric_22": 29,
+      "metric_24": 62,
+      "metric_25": 96,
+      "metric_27": 73,
+      "metric_28": 55,
+      "metric_29": 98
     },
     {
       "gene_seqnames": "MAG06_750",
@@ -266,7 +350,22 @@
       "eggnog_X10": "01S7F@aproNOG,08UJE@bactNOG,16TV5@proNOG,COG0118@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "E",
-      "eggnog_X13": "IGPS catalyzes the conversion of PRFAR and glutamine to IGP, AICAR and glutamate. The HisH subunit provides the glutamine amidotransferase activity that produces the ammonia necessary to HisF for the synthesis of IGP and AICAR (By similarity)"
+      "eggnog_X13": "IGPS catalyzes the conversion of PRFAR and glutamine to IGP, AICAR and glutamate. The HisH subunit provides the glutamine amidotransferase activity that produces the ammonia necessary to HisF for the synthesis of IGP and AICAR (By similarity)",
+      "metric_1": 90,
+      "metric_2": 40,
+      "metric_3": 89,
+      "metric_4": 47,
+      "metric_5": 87,
+      "metric_6": 41,
+      "metric_8": 84,
+      "metric_10": 66,
+      "metric_12": 8,
+      "metric_13": 76,
+      "metric_17": 35,
+      "metric_19": 44,
+      "metric_26": 16,
+      "metric_27": 26,
+      "metric_28": 72
     },
     {
       "gene_seqnames": "MAG06_750",
@@ -302,7 +401,19 @@
       "eggnog_X10": "01QIN@aproNOG,05CJV@bactNOG,16Q0N@proNOG,COG0106@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "E",
-      "eggnog_X13": "Phosphoribosylformimino-5-aminoimidazole carboxamide ribotide isomerase"
+      "eggnog_X13": "Phosphoribosylformimino-5-aminoimidazole carboxamide ribotide isomerase",
+      "metric_3": 49,
+      "metric_5": 95,
+      "metric_7": 82,
+      "metric_8": 69,
+      "metric_10": 35,
+      "metric_11": 4,
+      "metric_12": 98,
+      "metric_18": 38,
+      "metric_20": 43,
+      "metric_22": 35,
+      "metric_24": 11,
+      "metric_25": 56
     },
     {
       "gene_seqnames": "MAG06_750",
@@ -338,7 +449,24 @@
       "eggnog_X10": "01QZ2@aproNOG,05C0S@bactNOG,16RIF@proNOG,COG0107@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "E",
-      "eggnog_X13": "IGPS catalyzes the conversion of PRFAR and glutamine to IGP, AICAR and glutamate. The HisF subunit catalyzes the cyclization activity that produces IGP and AICAR from PRFAR using the ammonia provided by the HisH subunit (By similarity)"
+      "eggnog_X13": "IGPS catalyzes the conversion of PRFAR and glutamine to IGP, AICAR and glutamate. The HisF subunit catalyzes the cyclization activity that produces IGP and AICAR from PRFAR using the ammonia provided by the HisH subunit (By similarity)",
+      "metric_1": 30,
+      "metric_3": 80,
+      "metric_5": 57,
+      "metric_6": 19,
+      "metric_7": 75,
+      "metric_9": 36,
+      "metric_11": 5,
+      "metric_12": 46,
+      "metric_13": 93,
+      "metric_17": 77,
+      "metric_18": 42,
+      "metric_19": 7,
+      "metric_21": 61,
+      "metric_22": 67,
+      "metric_23": 13,
+      "metric_24": 96,
+      "metric_29": 2
     },
     {
       "gene_seqnames": "MAG06_750",
@@ -374,7 +502,17 @@
       "eggnog_X10": "01ZK2@aproNOG,05KPZ@bactNOG,17FQD@proNOG,COG0140@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "E",
-      "eggnog_X13": "Phosphoribosyl-ATP pyrophosphatase"
+      "eggnog_X13": "Phosphoribosyl-ATP pyrophosphatase",
+      "metric_1": 58,
+      "metric_2": 25,
+      "metric_3": 12,
+      "metric_14": 82,
+      "metric_16": 39,
+      "metric_22": 38,
+      "metric_24": 83,
+      "metric_25": 5,
+      "metric_26": 23,
+      "metric_27": 49
     },
     {
       "gene_seqnames": "MAG06_750",
@@ -410,17 +548,25 @@
       "eggnog_X10": "01RCQ@aproNOG,05CS9@bactNOG,16Q7Z@proNOG,COG1072@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "H",
-      "eggnog_X13": "Pantothenic acid kinase"
+      "eggnog_X13": "Pantothenic acid kinase",
+      "metric_1": 20,
+      "metric_3": 51,
+      "metric_4": 53,
+      "metric_9": 58,
+      "metric_10": 26,
+      "metric_12": 32,
+      "metric_14": 95,
+      "metric_15": 42,
+      "metric_17": 80,
+      "metric_21": 34,
+      "metric_29": 88
     }
   ],
   "diamond_track": [
     {
       "seqnames": "MAG06_750",
-      "gene_ID": "MAG06_750_1"
-    },
-    {
-      "seqnames": "MAG06_750",
       "gene_ID": "MAG06_750_2",
+      "gene_strand": "-",
       "eggnog_pos_X2": "266834.SMc02578",
       "eggnog_pos_X3": 97.5,
       "eggnog_pos_X4": 81,
@@ -438,6 +584,7 @@
     {
       "seqnames": "MAG06_750",
       "gene_ID": "MAG06_750_3",
+      "gene_strand": "-",
       "eggnog_pos_X2": "216596.RL0051",
       "eggnog_pos_X3": 85.5,
       "eggnog_pos_X4": 435,
@@ -455,6 +602,7 @@
     {
       "seqnames": "MAG06_750",
       "gene_ID": "MAG06_750_3",
+      "gene_strand": "-",
       "eggnog_pos_X2": "395492.Rleg2_3983",
       "eggnog_pos_X3": 85.7,
       "eggnog_pos_X4": 435,
@@ -472,6 +620,7 @@
     {
       "seqnames": "MAG06_750",
       "gene_ID": "MAG06_750_3",
+      "gene_strand": "-",
       "eggnog_pos_X2": "347834.RHE_CH00049",
       "eggnog_pos_X3": 85.5,
       "eggnog_pos_X4": 435,
@@ -489,6 +638,7 @@
     {
       "seqnames": "MAG06_750",
       "gene_ID": "MAG06_750_3",
+      "gene_strand": "-",
       "eggnog_pos_X2": "491916.RHECIAT_CH0000052",
       "eggnog_pos_X3": 85.3,
       "eggnog_pos_X4": 435,
@@ -506,6 +656,7 @@
     {
       "seqnames": "MAG06_750",
       "gene_ID": "MAG06_750_3",
+      "gene_strand": "-",
       "eggnog_pos_X2": "861208.AGROH133_02858",
       "eggnog_pos_X3": 85.3,
       "eggnog_pos_X4": 435,
@@ -523,6 +674,7 @@
     {
       "seqnames": "MAG06_750",
       "gene_ID": "MAG06_750_3",
+      "gene_strand": "-",
       "eggnog_pos_X2": "176299.Atu0045",
       "eggnog_pos_X3": 85.3,
       "eggnog_pos_X4": 435,
@@ -540,6 +692,7 @@
     {
       "seqnames": "MAG06_750",
       "gene_ID": "MAG06_750_3",
+      "gene_strand": "-",
       "eggnog_pos_X2": "311403.Arad_0063",
       "eggnog_pos_X3": 85.1,
       "eggnog_pos_X4": 437,
@@ -557,6 +710,7 @@
     {
       "seqnames": "MAG06_750",
       "gene_ID": "MAG06_750_3",
+      "gene_strand": "-",
       "eggnog_pos_X2": "1050720.Agau_C101074",
       "eggnog_pos_X3": 84.6,
       "eggnog_pos_X4": 435,
@@ -574,6 +728,7 @@
     {
       "seqnames": "MAG06_750",
       "gene_ID": "MAG06_750_3",
+      "gene_strand": "-",
       "eggnog_pos_X2": "311402.Avi_0031",
       "eggnog_pos_X3": 83.9,
       "eggnog_pos_X4": 435,
@@ -591,6 +746,7 @@
     {
       "seqnames": "MAG06_750",
       "gene_ID": "MAG06_750_4",
+      "gene_strand": "-",
       "eggnog_pos_X2": "266834.SMc02576",
       "eggnog_pos_X3": 99.4,
       "eggnog_pos_X4": 173,
@@ -608,6 +764,7 @@
     {
       "seqnames": "MAG06_750",
       "gene_ID": "MAG06_750_5",
+      "gene_strand": "-",
       "eggnog_pos_X2": "266834.SMc02575",
       "eggnog_pos_X3": 100,
       "eggnog_pos_X4": 185,
@@ -625,6 +782,7 @@
     {
       "seqnames": "MAG06_750",
       "gene_ID": "MAG06_750_5",
+      "gene_strand": "-",
       "eggnog_pos_X2": "1117943.SFHH103_03554",
       "eggnog_pos_X3": 97.8,
       "eggnog_pos_X4": 185,
@@ -642,6 +800,7 @@
     {
       "seqnames": "MAG06_750",
       "gene_ID": "MAG06_750_5",
+      "gene_strand": "-",
       "eggnog_pos_X2": "394.NGR_c34050",
       "eggnog_pos_X3": 97.3,
       "eggnog_pos_X4": 185,
@@ -659,6 +818,7 @@
     {
       "seqnames": "MAG06_750",
       "gene_ID": "MAG06_750_5",
+      "gene_strand": "-",
       "eggnog_pos_X2": "366394.Smed_3264",
       "eggnog_pos_X3": 97.3,
       "eggnog_pos_X4": 185,
@@ -676,6 +836,7 @@
     {
       "seqnames": "MAG06_750",
       "gene_ID": "MAG06_750_6",
+      "gene_strand": "+",
       "eggnog_pos_X2": "266834.SMc02574",
       "eggnog_pos_X3": 99,
       "eggnog_pos_X4": 202,
@@ -693,6 +854,7 @@
     {
       "seqnames": "MAG06_750",
       "gene_ID": "MAG06_750_6",
+      "gene_strand": "+",
       "eggnog_pos_X2": "394.NGR_c34040",
       "eggnog_pos_X3": 95.5,
       "eggnog_pos_X4": 202,
@@ -710,6 +872,7 @@
     {
       "seqnames": "MAG06_750",
       "gene_ID": "MAG06_750_6",
+      "gene_strand": "+",
       "eggnog_pos_X2": "1117943.SFHH103_03553",
       "eggnog_pos_X3": 94.6,
       "eggnog_pos_X4": 202,
@@ -727,6 +890,7 @@
     {
       "seqnames": "MAG06_750",
       "gene_ID": "MAG06_750_7",
+      "gene_strand": "+",
       "eggnog_pos_X2": "266834.SMc02573",
       "eggnog_pos_X3": 98.1,
       "eggnog_pos_X4": 157,
@@ -744,6 +908,7 @@
     {
       "seqnames": "MAG06_750",
       "gene_ID": "MAG06_750_8",
+      "gene_strand": "+",
       "eggnog_pos_X2": "266834.SMc02572",
       "eggnog_pos_X3": 97.7,
       "eggnog_pos_X4": 216,
@@ -761,6 +926,7 @@
     {
       "seqnames": "MAG06_750",
       "gene_ID": "MAG06_750_9",
+      "gene_strand": "+",
       "eggnog_pos_X2": "266834.SMc02570",
       "eggnog_pos_X3": 99.6,
       "eggnog_pos_X4": 247,
@@ -778,6 +944,7 @@
     {
       "seqnames": "MAG06_750",
       "gene_ID": "MAG06_750_10",
+      "gene_strand": "+",
       "eggnog_pos_X2": "266834.SMc02569",
       "eggnog_pos_X3": 99.6,
       "eggnog_pos_X4": 258,
@@ -795,6 +962,7 @@
     {
       "seqnames": "MAG06_750",
       "gene_ID": "MAG06_750_11",
+      "gene_strand": "+",
       "eggnog_pos_X2": "266834.SMc02568",
       "eggnog_pos_X3": 100,
       "eggnog_pos_X4": 107,
@@ -812,6 +980,7 @@
     {
       "seqnames": "MAG06_750",
       "gene_ID": "MAG06_750_11",
+      "gene_strand": "+",
       "eggnog_pos_X2": "366394.Smed_3258",
       "eggnog_pos_X3": 96.3,
       "eggnog_pos_X4": 107,
@@ -829,6 +998,7 @@
     {
       "seqnames": "MAG06_750",
       "gene_ID": "MAG06_750_12",
+      "gene_strand": "+",
       "eggnog_pos_X2": "176299.Atu0037",
       "eggnog_pos_X3": 80.4,
       "eggnog_pos_X4": 322,
@@ -846,6 +1016,7 @@
     {
       "seqnames": "MAG06_750",
       "gene_ID": "MAG06_750_12",
+      "gene_strand": "+",
       "eggnog_pos_X2": "861208.AGROH133_02847",
       "eggnog_pos_X3": 82,
       "eggnog_pos_X4": 311,
@@ -863,6 +1034,7 @@
     {
       "seqnames": "MAG06_750",
       "gene_ID": "MAG06_750_12",
+      "gene_strand": "+",
       "eggnog_pos_X2": "1050720.Agau_C101061",
       "eggnog_pos_X3": 82,
       "eggnog_pos_X4": 311,
@@ -880,6 +1052,7 @@
     {
       "seqnames": "MAG06_750",
       "gene_ID": "MAG06_750_12",
+      "gene_strand": "+",
       "eggnog_pos_X2": "347834.RHE_CH00040",
       "eggnog_pos_X3": 77.3,
       "eggnog_pos_X4": 331,
@@ -897,6 +1070,7 @@
     {
       "seqnames": "MAG06_750",
       "gene_ID": "MAG06_750_12",
+      "gene_strand": "+",
       "eggnog_pos_X2": "216596.RL0040",
       "eggnog_pos_X3": 77.3,
       "eggnog_pos_X4": 331,
@@ -914,6 +1088,7 @@
     {
       "seqnames": "MAG06_750",
       "gene_ID": "MAG06_750_12",
+      "gene_strand": "+",
       "eggnog_pos_X2": "311403.Arad_0052",
       "eggnog_pos_X3": 77,
       "eggnog_pos_X4": 331,
@@ -931,6 +1106,7 @@
     {
       "seqnames": "MAG06_750",
       "gene_ID": "MAG06_750_12",
+      "gene_strand": "+",
       "eggnog_pos_X2": "395492.Rleg2_3973",
       "eggnog_pos_X3": 76.4,
       "eggnog_pos_X4": 331,
@@ -948,6 +1124,7 @@
     {
       "seqnames": "MAG06_750",
       "gene_ID": "MAG06_750_12",
+      "gene_strand": "+",
       "eggnog_pos_X2": "491916.RHECIAT_CH0000042",
       "eggnog_pos_X3": 76.1,
       "eggnog_pos_X4": 331,

@@ -37,7 +37,24 @@
       "eggnog_X10": "01RIZ@aproNOG,05C5H@bactNOG,16PJF@proNOG,COG0488@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "S",
-      "eggnog_X13": "ABC transporter"
+      "eggnog_X13": "ABC transporter",
+      "metric_3": 38,
+      "metric_5": 78,
+      "metric_6": 67,
+      "metric_7": 66,
+      "metric_8": 29,
+      "metric_12": 31,
+      "metric_13": 67,
+      "metric_16": 77,
+      "metric_19": 90,
+      "metric_20": 12,
+      "metric_21": 93,
+      "metric_22": 52,
+      "metric_23": 34,
+      "metric_27": 47,
+      "metric_28": 11,
+      "metric_29": 11,
+      "metric_30": 64
     },
     {
       "gene_seqnames": "MAG06_997",
@@ -71,7 +88,18 @@
       "eggnog_X10": "02E24@aproNOG,08HW5@bactNOG,0XR35@NOG,172DT@proNOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "E",
-      "eggnog_X13": "amino acid ABC transporter"
+      "eggnog_X13": "amino acid ABC transporter",
+      "metric_5": 68,
+      "metric_8": 12,
+      "metric_11": 78,
+      "metric_12": 95,
+      "metric_14": 12,
+      "metric_15": 9,
+      "metric_20": 24,
+      "metric_23": 60,
+      "metric_26": 22,
+      "metric_28": 91,
+      "metric_29": 30
     },
     {
       "gene_seqnames": "MAG06_997",
@@ -105,7 +133,20 @@
       "eggnog_X10": "01THD@aproNOG,07R0W@bactNOG,16SS7@proNOG,COG0834@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "E",
-      "eggnog_X13": "extracellular solute-binding protein, family 3"
+      "eggnog_X13": "extracellular solute-binding protein, family 3",
+      "metric_1": 87,
+      "metric_7": 94,
+      "metric_8": 19,
+      "metric_13": 47,
+      "metric_14": 35,
+      "metric_15": 68,
+      "metric_16": 17,
+      "metric_25": 87,
+      "metric_26": 48,
+      "metric_27": 24,
+      "metric_28": 81,
+      "metric_29": 75,
+      "metric_30": 50
     },
     {
       "gene_seqnames": "MAG06_997",
@@ -140,7 +181,22 @@
       "eggnog_X10": "01WVY@aproNOG,08YY1@bactNOG,179PE@proNOG,COG0335@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "J",
-      "eggnog_X13": "This protein is located at the 30S-50S ribosomal subunit interface and may play a role in the structure and function of the aminoacyl-tRNA binding site (By similarity)"
+      "eggnog_X13": "This protein is located at the 30S-50S ribosomal subunit interface and may play a role in the structure and function of the aminoacyl-tRNA binding site (By similarity)",
+      "metric_2": 2,
+      "metric_5": 95,
+      "metric_8": 6,
+      "metric_10": 97,
+      "metric_11": 70,
+      "metric_12": 23,
+      "metric_13": 70,
+      "metric_15": 11,
+      "metric_16": 49,
+      "metric_17": 73,
+      "metric_18": 2,
+      "metric_22": 8,
+      "metric_25": 4,
+      "metric_26": 10,
+      "metric_27": 86
     },
     {
       "gene_seqnames": "MAG06_997",
@@ -174,13 +230,28 @@
       "eggnog_X10": "08ZAK@bactNOG,17A3Q@proNOG,COG0730@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "S",
-      "eggnog_X13": "membrAne"
+      "eggnog_X13": "membrAne",
+      "metric_1": 17,
+      "metric_4": 35,
+      "metric_6": 95,
+      "metric_9": 31,
+      "metric_10": 18,
+      "metric_14": 3,
+      "metric_15": 21,
+      "metric_19": 67,
+      "metric_23": 59,
+      "metric_24": 10,
+      "metric_25": 31,
+      "metric_26": 84,
+      "metric_28": 37,
+      "metric_29": 20
     }
   ],
   "diamond_track": [
     {
       "seqnames": "MAG06_997",
       "gene_ID": "MAG06_997_1",
+      "gene_strand": "+",
       "eggnog_pos_X2": "266834.SMc03866",
       "eggnog_pos_X3": 96.4,
       "eggnog_pos_X4": 412,
@@ -198,6 +269,7 @@
     {
       "seqnames": "MAG06_997",
       "gene_ID": "MAG06_997_1",
+      "gene_strand": "+",
       "eggnog_pos_X2": "266834.SMc03866",
       "eggnog_pos_X3": 33.5,
       "eggnog_pos_X4": 191,
@@ -215,6 +287,7 @@
     {
       "seqnames": "MAG06_997",
       "gene_ID": "MAG06_997_2",
+      "gene_strand": "-",
       "eggnog_pos_X2": "266834.SMc03865",
       "eggnog_pos_X3": 100,
       "eggnog_pos_X4": 273,
@@ -232,6 +305,7 @@
     {
       "seqnames": "MAG06_997",
       "gene_ID": "MAG06_997_3",
+      "gene_strand": "-",
       "eggnog_pos_X2": "266834.SMc03864",
       "eggnog_pos_X3": 100,
       "eggnog_pos_X4": 269,
@@ -249,6 +323,7 @@
     {
       "seqnames": "MAG06_997",
       "gene_ID": "MAG06_997_4",
+      "gene_strand": "-",
       "eggnog_pos_X2": "311403.Arad_4429",
       "eggnog_pos_X3": 86.9,
       "eggnog_pos_X4": 176,
@@ -266,6 +341,7 @@
     {
       "seqnames": "MAG06_997",
       "gene_ID": "MAG06_997_5",
+      "gene_strand": "+",
       "eggnog_pos_X2": "266834.SMc03862",
       "eggnog_pos_X3": 100,
       "eggnog_pos_X4": 64,

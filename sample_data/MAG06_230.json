@@ -36,7 +36,21 @@
       "eggnog_X10": "01QY7@aproNOG,05C7W@bactNOG,16PWW@proNOG,COG1529@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "F",
-      "eggnog_X13": "Xanthine dehydrogenase"
+      "eggnog_X13": "Xanthine dehydrogenase",
+      "metric_2": 24,
+      "metric_4": 14,
+      "metric_5": 74,
+      "metric_9": 53,
+      "metric_10": 99,
+      "metric_11": 7,
+      "metric_12": 9,
+      "metric_14": 23,
+      "metric_15": 35,
+      "metric_20": 45,
+      "metric_23": 17,
+      "metric_25": 7,
+      "metric_26": 93,
+      "metric_30": 54
     },
     {
       "gene_seqnames": "MAG06_230",
@@ -70,13 +84,31 @@
       "eggnog_X10": "01R50@aproNOG,05DIP@bactNOG,16Q2R@proNOG,COG1319@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "F",
-      "eggnog_X13": "Molybdopterin dehydrogenase FAD-binding"
+      "eggnog_X13": "Molybdopterin dehydrogenase FAD-binding",
+      "metric_1": 55,
+      "metric_6": 49,
+      "metric_8": 16,
+      "metric_9": 50,
+      "metric_12": 36,
+      "metric_14": 97,
+      "metric_15": 99,
+      "metric_19": 22,
+      "metric_21": 88,
+      "metric_22": 49,
+      "metric_23": 81,
+      "metric_24": 48,
+      "metric_25": 93,
+      "metric_27": 33,
+      "metric_28": 99,
+      "metric_29": 33,
+      "metric_30": 88
     }
   ],
   "diamond_track": [
     {
       "seqnames": "MAG06_230",
       "gene_ID": "MAG06_230_1",
+      "gene_strand": "-",
       "eggnog_pos_X2": "316058.RPB_4511",
       "eggnog_pos_X3": 54,
       "eggnog_pos_X4": 554,
@@ -94,6 +126,7 @@
     {
       "seqnames": "MAG06_230",
       "gene_ID": "MAG06_230_1",
+      "gene_strand": "-",
       "eggnog_pos_X2": "316056.RPC_4640",
       "eggnog_pos_X3": 52.4,
       "eggnog_pos_X4": 555,
@@ -111,6 +144,7 @@
     {
       "seqnames": "MAG06_230",
       "gene_ID": "MAG06_230_1",
+      "gene_strand": "-",
       "eggnog_pos_X2": "1045855.DSC_13830",
       "eggnog_pos_X3": 52.1,
       "eggnog_pos_X4": 570,
@@ -128,6 +162,7 @@
     {
       "seqnames": "MAG06_230",
       "gene_ID": "MAG06_230_2",
+      "gene_strand": "-",
       "eggnog_pos_X2": "652103.Rpdx1_1071",
       "eggnog_pos_X3": 65.5,
       "eggnog_pos_X4": 58,
@@ -145,6 +180,7 @@
     {
       "seqnames": "MAG06_230",
       "gene_ID": "MAG06_230_2",
+      "gene_strand": "-",
       "eggnog_pos_X2": "316058.RPB_4512",
       "eggnog_pos_X3": 65.5,
       "eggnog_pos_X4": 58,

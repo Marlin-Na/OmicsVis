@@ -36,7 +36,22 @@
       "eggnog_X10": "05C26@bactNOG,16PDZ@proNOG,COG1012@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "C",
-      "eggnog_X13": "Dehydrogenase"
+      "eggnog_X13": "Dehydrogenase",
+      "metric_2": 86,
+      "metric_6": 80,
+      "metric_10": 10,
+      "metric_11": 11,
+      "metric_12": 43,
+      "metric_14": 76,
+      "metric_15": 67,
+      "metric_16": 23,
+      "metric_17": 54,
+      "metric_18": 36,
+      "metric_24": 90,
+      "metric_25": 45,
+      "metric_26": 58,
+      "metric_27": 70,
+      "metric_28": 4
     },
     {
       "gene_seqnames": "MAG06_359",
@@ -70,13 +85,24 @@
       "eggnog_X10": "05DDM@bactNOG,0BA1Q@bproNOG,16QXG@proNOG,COG1524@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "S",
-      "eggnog_X13": "phosphonoacetate hydrolase"
+      "eggnog_X13": "phosphonoacetate hydrolase",
+      "metric_1": 88,
+      "metric_9": 54,
+      "metric_14": 57,
+      "metric_15": 88,
+      "metric_16": 17,
+      "metric_19": 65,
+      "metric_22": 57,
+      "metric_26": 56,
+      "metric_29": 66,
+      "metric_30": 97
     }
   ],
   "diamond_track": [
     {
       "seqnames": "MAG06_359",
       "gene_ID": "MAG06_359_1",
+      "gene_strand": "-",
       "eggnog_pos_X2": "640511.BC1002_6645",
       "eggnog_pos_X3": 76.4,
       "eggnog_pos_X4": 441,
@@ -94,6 +120,7 @@
     {
       "seqnames": "MAG06_359",
       "gene_ID": "MAG06_359_2",
+      "gene_strand": "-",
       "eggnog_pos_X2": "640511.BC1002_6646",
       "eggnog_pos_X3": 70.2,
       "eggnog_pos_X4": 265,

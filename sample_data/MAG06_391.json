@@ -35,7 +35,19 @@
       "eggnog_X10": "01QYP@aproNOG,05BZU@bactNOG,0XNMH@NOG,16PBK@proNOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "T",
-      "eggnog_X13": "Histidine kinase"
+      "eggnog_X13": "Histidine kinase",
+      "metric_2": 29,
+      "metric_3": 95,
+      "metric_5": 36,
+      "metric_6": 78,
+      "metric_10": 34,
+      "metric_12": 9,
+      "metric_14": 60,
+      "metric_16": 82,
+      "metric_17": 87,
+      "metric_21": 59,
+      "metric_26": 43,
+      "metric_27": 12
     },
     {
       "gene_seqnames": "MAG06_391",
@@ -70,7 +82,20 @@
       "eggnog_X10": "01ZKW@aproNOG,05M02@bactNOG,17DE8@proNOG,COG0597@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "O",
-      "eggnog_X13": "This protein specifically catalyzes the removal of signal peptides from prolipoproteins (By similarity)"
+      "eggnog_X13": "This protein specifically catalyzes the removal of signal peptides from prolipoproteins (By similarity)",
+      "metric_3": 91,
+      "metric_4": 9,
+      "metric_9": 95,
+      "metric_11": 6,
+      "metric_14": 70,
+      "metric_18": 34,
+      "metric_19": 65,
+      "metric_22": 23,
+      "metric_23": 32,
+      "metric_26": 51,
+      "metric_27": 44,
+      "metric_28": 43,
+      "metric_30": 17
     },
     {
       "gene_seqnames": "MAG06_391",
@@ -104,7 +129,16 @@
       "eggnog_X10": "01UQG@aproNOG,08RWN@bactNOG,16T0F@proNOG,COG0566@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "J",
-      "eggnog_X13": "trna rrna methyltransferase"
+      "eggnog_X13": "trna rrna methyltransferase",
+      "metric_1": 48,
+      "metric_3": 75,
+      "metric_10": 73,
+      "metric_14": 46,
+      "metric_16": 29,
+      "metric_19": 74,
+      "metric_21": 16,
+      "metric_29": 17,
+      "metric_30": 65
     },
     {
       "gene_seqnames": "MAG06_391",
@@ -139,7 +173,18 @@
       "eggnog_X10": "01RU7@aproNOG,07QNX@bactNOG,16UTZ@proNOG,COG1092@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "S",
-      "eggnog_X13": "methyltransferase"
+      "eggnog_X13": "methyltransferase",
+      "metric_3": 12,
+      "metric_4": 1,
+      "metric_7": 56,
+      "metric_9": 70,
+      "metric_12": 69,
+      "metric_17": 2,
+      "metric_19": 18,
+      "metric_20": 94,
+      "metric_23": 56,
+      "metric_25": 26,
+      "metric_26": 76
     },
     {
       "gene_seqnames": "MAG06_391",
@@ -173,7 +218,21 @@
       "eggnog_X10": "01WWE@aproNOG,090HG@bactNOG,17E20@proNOG,COG3427@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "S",
-      "eggnog_X13": "carbon monoxide dehydrogenase"
+      "eggnog_X13": "carbon monoxide dehydrogenase",
+      "metric_1": 32,
+      "metric_2": 93,
+      "metric_7": 49,
+      "metric_8": 82,
+      "metric_9": 11,
+      "metric_10": 9,
+      "metric_11": 24,
+      "metric_13": 23,
+      "metric_16": 71,
+      "metric_17": 93,
+      "metric_23": 2,
+      "metric_27": 87,
+      "metric_28": 16,
+      "metric_30": 75
     },
     {
       "gene_seqnames": "MAG06_391",
@@ -206,7 +265,17 @@
       "eggnog_X10": "01ZVQ@aproNOG,05KV5@bactNOG,11TZ5@NOG,17FJF@proNOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "S",
-      "eggnog_X13": "Protein of unknown function (DUF1049)"
+      "eggnog_X13": "Protein of unknown function (DUF1049)",
+      "metric_5": 79,
+      "metric_10": 45,
+      "metric_12": 60,
+      "metric_13": 38,
+      "metric_14": 23,
+      "metric_16": 2,
+      "metric_18": 59,
+      "metric_22": 92,
+      "metric_23": 60,
+      "metric_24": 97
     },
     {
       "gene_seqnames": "MAG06_391",
@@ -241,13 +310,26 @@
       "eggnog_X10": "01ZK0@aproNOG,080YA@bactNOG,17FAZ@proNOG,COG0776@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "K",
-      "eggnog_X13": "This protein is one of the two subunits of integration host factor, a specific DNA-binding protein that functions in genetic recombination as well as in transcriptional and translational control (By similarity)"
+      "eggnog_X13": "This protein is one of the two subunits of integration host factor, a specific DNA-binding protein that functions in genetic recombination as well as in transcriptional and translational control (By similarity)",
+      "metric_5": 65,
+      "metric_6": 69,
+      "metric_7": 37,
+      "metric_9": 87,
+      "metric_13": 93,
+      "metric_14": 72,
+      "metric_20": 7,
+      "metric_21": 55,
+      "metric_23": 74,
+      "metric_24": 38,
+      "metric_28": 70,
+      "metric_30": 33
     }
   ],
   "diamond_track": [
     {
       "seqnames": "MAG06_391",
       "gene_ID": "MAG06_391_1",
+      "gene_strand": "-",
       "eggnog_pos_X2": "266834.SMc01128",
       "eggnog_pos_X3": 99.4,
       "eggnog_pos_X4": 483,
@@ -265,6 +347,7 @@
     {
       "seqnames": "MAG06_391",
       "gene_ID": "MAG06_391_2",
+      "gene_strand": "-",
       "eggnog_pos_X2": "266834.SMc01129",
       "eggnog_pos_X3": 100,
       "eggnog_pos_X4": 166,
@@ -282,6 +365,7 @@
     {
       "seqnames": "MAG06_391",
       "gene_ID": "MAG06_391_3",
+      "gene_strand": "-",
       "eggnog_pos_X2": "266834.SMc01130",
       "eggnog_pos_X3": 99.7,
       "eggnog_pos_X4": 288,
@@ -299,6 +383,7 @@
     {
       "seqnames": "MAG06_391",
       "gene_ID": "MAG06_391_4",
+      "gene_strand": "-",
       "eggnog_pos_X2": "266834.SMc01131",
       "eggnog_pos_X3": 100,
       "eggnog_pos_X4": 384,
@@ -316,6 +401,7 @@
     {
       "seqnames": "MAG06_391",
       "gene_ID": "MAG06_391_5",
+      "gene_strand": "+",
       "eggnog_pos_X2": "266834.SMc01132",
       "eggnog_pos_X3": 100,
       "eggnog_pos_X4": 152,
@@ -333,6 +419,7 @@
     {
       "seqnames": "MAG06_391",
       "gene_ID": "MAG06_391_6",
+      "gene_strand": "-",
       "eggnog_pos_X2": "266834.SMc01133",
       "eggnog_pos_X3": 100,
       "eggnog_pos_X4": 114,
@@ -350,6 +437,7 @@
     {
       "seqnames": "MAG06_391",
       "gene_ID": "MAG06_391_7",
+      "gene_strand": "-",
       "eggnog_pos_X2": "266834.SMc01134",
       "eggnog_pos_X3": 100,
       "eggnog_pos_X4": 103,
@@ -367,6 +455,7 @@
     {
       "seqnames": "MAG06_391",
       "gene_ID": "MAG06_391_7",
+      "gene_strand": "-",
       "eggnog_pos_X2": "366394.Smed_0021",
       "eggnog_pos_X3": 98.1,
       "eggnog_pos_X4": 103,

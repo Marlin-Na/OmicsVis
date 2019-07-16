@@ -35,7 +35,21 @@
       "eggnog_X10": "01WWV@aproNOG,08R5Q@bactNOG,177VQ@proNOG,COG0526@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "O",
-      "eggnog_X13": "Redoxin"
+      "eggnog_X13": "Redoxin",
+      "metric_1": 92,
+      "metric_4": 62,
+      "metric_5": 76,
+      "metric_7": 5,
+      "metric_14": 91,
+      "metric_17": 19,
+      "metric_18": 92,
+      "metric_20": 85,
+      "metric_21": 15,
+      "metric_23": 16,
+      "metric_24": 36,
+      "metric_26": 65,
+      "metric_27": 42,
+      "metric_30": 4
     },
     {
       "gene_seqnames": "MAG06_170",
@@ -70,7 +84,17 @@
       "eggnog_X10": "01QB0@aproNOG,05DJV@bactNOG,16PI5@proNOG,COG0036@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "G",
-      "eggnog_X13": "ribulose-phosphate 3-epimerase"
+      "eggnog_X13": "ribulose-phosphate 3-epimerase",
+      "metric_2": 71,
+      "metric_3": 27,
+      "metric_4": 41,
+      "metric_8": 14,
+      "metric_9": 49,
+      "metric_11": 35,
+      "metric_15": 6,
+      "metric_17": 99,
+      "metric_19": 53,
+      "metric_23": 58
     },
     {
       "gene_seqnames": "MAG06_170",
@@ -104,7 +128,23 @@
       "eggnog_X10": "01SA8@aproNOG,06F1P@bactNOG,16R8D@proNOG,COG0464@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "O",
-      "eggnog_X13": "CbbX protein"
+      "eggnog_X13": "CbbX protein",
+      "metric_1": 23,
+      "metric_3": 4,
+      "metric_4": 43,
+      "metric_6": 41,
+      "metric_7": 87,
+      "metric_11": 76,
+      "metric_12": 92,
+      "metric_16": 44,
+      "metric_17": 80,
+      "metric_18": 89,
+      "metric_19": 24,
+      "metric_20": 53,
+      "metric_22": 63,
+      "metric_26": 55,
+      "metric_27": 93,
+      "metric_28": 58
     },
     {
       "gene_seqnames": "MAG06_170",
@@ -138,7 +178,19 @@
       "eggnog_X10": "01X31@aproNOG,08VFZ@bactNOG,17ASK@proNOG,COG4451@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "C",
-      "eggnog_X13": "Ribulose 1,5-bisphosphate carboxylase small subunit"
+      "eggnog_X13": "Ribulose 1,5-bisphosphate carboxylase small subunit",
+      "metric_2": 34,
+      "metric_9": 87,
+      "metric_10": 40,
+      "metric_13": 58,
+      "metric_16": 56,
+      "metric_17": 98,
+      "metric_20": 93,
+      "metric_21": 27,
+      "metric_24": 27,
+      "metric_25": 73,
+      "metric_29": 90,
+      "metric_30": 78
     },
     {
       "gene_seqnames": "MAG06_170",
@@ -172,13 +224,25 @@
       "eggnog_X10": "01QMA@aproNOG,05DT1@bactNOG,16RD8@proNOG,COG1850@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "G",
-      "eggnog_X13": "RuBisCO catalyzes two reactions the carboxylation of D- ribulose 1,5-bisphosphate, the primary event in carbon dioxide fixation, as well as the oxidative fragmentation of the pentose substrate. Both reactions occur simultaneously and in competition at the same active site (By similarity)"
+      "eggnog_X13": "RuBisCO catalyzes two reactions the carboxylation of D- ribulose 1,5-bisphosphate, the primary event in carbon dioxide fixation, as well as the oxidative fragmentation of the pentose substrate. Both reactions occur simultaneously and in competition at the same active site (By similarity)",
+      "metric_1": 33,
+      "metric_7": 27,
+      "metric_9": 40,
+      "metric_14": 36,
+      "metric_15": 14,
+      "metric_18": 64,
+      "metric_21": 44,
+      "metric_22": 1,
+      "metric_25": 32,
+      "metric_28": 19,
+      "metric_30": 36
     }
   ],
   "diamond_track": [
     {
       "seqnames": "MAG06_170",
       "gene_ID": "MAG06_170_1",
+      "gene_strand": "-",
       "eggnog_pos_X2": "765698.Mesci_4287",
       "eggnog_pos_X3": 71.4,
       "eggnog_pos_X4": 185,
@@ -196,6 +260,7 @@
     {
       "seqnames": "MAG06_170",
       "gene_ID": "MAG06_170_2",
+      "gene_strand": "-",
       "eggnog_pos_X2": "765698.Mesci_4286",
       "eggnog_pos_X3": 83.5,
       "eggnog_pos_X4": 224,
@@ -213,6 +278,7 @@
     {
       "seqnames": "MAG06_170",
       "gene_ID": "MAG06_170_3",
+      "gene_strand": "-",
       "eggnog_pos_X2": "991905.SL003B_0986",
       "eggnog_pos_X3": 85.9,
       "eggnog_pos_X4": 290,
@@ -230,6 +296,7 @@
     {
       "seqnames": "MAG06_170",
       "gene_ID": "MAG06_170_4",
+      "gene_strand": "-",
       "eggnog_pos_X2": "991905.SL003B_0987",
       "eggnog_pos_X3": 78.4,
       "eggnog_pos_X4": 125,
@@ -247,6 +314,7 @@
     {
       "seqnames": "MAG06_170",
       "gene_ID": "MAG06_170_5",
+      "gene_strand": "-",
       "eggnog_pos_X2": "991905.SL003B_0988",
       "eggnog_pos_X3": 93.6,
       "eggnog_pos_X4": 468,
@@ -264,6 +332,7 @@
     {
       "seqnames": "MAG06_170",
       "gene_ID": "MAG06_170_5",
+      "gene_strand": "-",
       "eggnog_pos_X2": "536019.Mesop_5541",
       "eggnog_pos_X3": 91.7,
       "eggnog_pos_X4": 468,
@@ -281,6 +350,7 @@
     {
       "seqnames": "MAG06_170",
       "gene_ID": "MAG06_170_5",
+      "gene_strand": "-",
       "eggnog_pos_X2": "349102.Rsph17025_2712",
       "eggnog_pos_X3": 92.7,
       "eggnog_pos_X4": 464,
@@ -298,6 +368,7 @@
     {
       "seqnames": "MAG06_170",
       "gene_ID": "MAG06_170_5",
+      "gene_strand": "-",
       "eggnog_pos_X2": "412597.PaTRP_010100008806",
       "eggnog_pos_X3": 91.4,
       "eggnog_pos_X4": 464,
@@ -315,6 +386,7 @@
     {
       "seqnames": "MAG06_170",
       "gene_ID": "MAG06_170_5",
+      "gene_strand": "-",
       "eggnog_pos_X2": "318586.Pden_1699",
       "eggnog_pos_X3": 90.8,
       "eggnog_pos_X4": 468,
@@ -332,6 +404,7 @@
     {
       "seqnames": "MAG06_170",
       "gene_ID": "MAG06_170_5",
+      "gene_strand": "-",
       "eggnog_pos_X2": "272943.RSP_1282",
       "eggnog_pos_X3": 91.7,
       "eggnog_pos_X4": 468,
@@ -349,6 +422,7 @@
     {
       "seqnames": "MAG06_170",
       "gene_ID": "MAG06_170_5",
+      "gene_strand": "-",
       "eggnog_pos_X2": "384765.SIAM614_28257",
       "eggnog_pos_X3": 91.8,
       "eggnog_pos_X4": 464,

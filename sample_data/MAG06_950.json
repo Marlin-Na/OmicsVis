@@ -26,7 +26,16 @@
       "gene_sscore": "3.22",
       "gene_rscore": "0.00",
       "gene_uscore": "0.00",
-      "gene_tscore": "3.22"
+      "gene_tscore": "3.22",
+      "metric_8": 26,
+      "metric_9": 7,
+      "metric_12": 45,
+      "metric_16": 17,
+      "metric_18": 69,
+      "metric_20": 64,
+      "metric_23": 59,
+      "metric_24": 48,
+      "metric_28": 49
     },
     {
       "gene_seqnames": "MAG06_950",
@@ -59,7 +68,20 @@
       "eggnog_X10": "01YK3@aproNOG,08ZPG@bactNOG,17C6P@proNOG,COG2030@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "I",
-      "eggnog_X13": "nodulation protein"
+      "eggnog_X13": "nodulation protein",
+      "metric_2": 85,
+      "metric_4": 25,
+      "metric_5": 89,
+      "metric_7": 80,
+      "metric_11": 16,
+      "metric_12": 8,
+      "metric_13": 44,
+      "metric_14": 20,
+      "metric_16": 94,
+      "metric_17": 7,
+      "metric_23": 24,
+      "metric_27": 30,
+      "metric_30": 52
     },
     {
       "gene_seqnames": "MAG06_950",
@@ -91,7 +113,17 @@
       "eggnog_X10": "01R3Z@aproNOG,07HMW@bactNOG,174RP@proNOG,COG4427@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "S",
-      "eggnog_X13": "Uncharacterized protein conserved in bacteria (DUF2332)"
+      "eggnog_X13": "Uncharacterized protein conserved in bacteria (DUF2332)",
+      "metric_1": 86,
+      "metric_2": 21,
+      "metric_5": 54,
+      "metric_9": 51,
+      "metric_11": 45,
+      "metric_12": 90,
+      "metric_14": 68,
+      "metric_18": 24,
+      "metric_21": 3,
+      "metric_25": 47
     },
     {
       "gene_seqnames": "MAG06_950",
@@ -126,17 +158,26 @@
       "eggnog_X10": "01URU@aproNOG,07QPD@bactNOG,16S6R@proNOG,COG1062@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "C",
-      "eggnog_X13": "alcohol dehydrogenase"
+      "eggnog_X13": "alcohol dehydrogenase",
+      "metric_8": 72,
+      "metric_9": 2,
+      "metric_10": 19,
+      "metric_13": 93,
+      "metric_17": 74,
+      "metric_20": 65,
+      "metric_22": 49,
+      "metric_24": 24,
+      "metric_25": 5,
+      "metric_26": 78,
+      "metric_28": 99,
+      "metric_30": 35
     }
   ],
   "diamond_track": [
     {
       "seqnames": "MAG06_950",
-      "gene_ID": "MAG06_950_1"
-    },
-    {
-      "seqnames": "MAG06_950",
       "gene_ID": "MAG06_950_2",
+      "gene_strand": "+",
       "eggnog_pos_X2": "266834.SMc03927",
       "eggnog_pos_X3": 99.4,
       "eggnog_pos_X4": 162,
@@ -154,6 +195,7 @@
     {
       "seqnames": "MAG06_950",
       "gene_ID": "MAG06_950_2",
+      "gene_strand": "+",
       "eggnog_pos_X2": "366394.Smed_2745",
       "eggnog_pos_X3": 96.3,
       "eggnog_pos_X4": 162,
@@ -171,6 +213,7 @@
     {
       "seqnames": "MAG06_950",
       "gene_ID": "MAG06_950_3",
+      "gene_strand": "+",
       "eggnog_pos_X2": "266834.SMc03928",
       "eggnog_pos_X3": 96.4,
       "eggnog_pos_X4": 358,
@@ -188,6 +231,7 @@
     {
       "seqnames": "MAG06_950",
       "gene_ID": "MAG06_950_4",
+      "gene_strand": "-",
       "eggnog_pos_X2": "266834.SMc03929",
       "eggnog_pos_X3": 95.2,
       "eggnog_pos_X4": 105,

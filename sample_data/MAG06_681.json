@@ -26,7 +26,24 @@
       "gene_sscore": "12.80",
       "gene_rscore": "7.85",
       "gene_uscore": "0.36",
-      "gene_tscore": "3.65"
+      "gene_tscore": "3.65",
+      "metric_1": 84,
+      "metric_2": 48,
+      "metric_6": 31,
+      "metric_9": 7,
+      "metric_10": 8,
+      "metric_15": 39,
+      "metric_17": 74,
+      "metric_18": 13,
+      "metric_19": 53,
+      "metric_21": 6,
+      "metric_22": 39,
+      "metric_23": 40,
+      "metric_24": 88,
+      "metric_25": 39,
+      "metric_27": 6,
+      "metric_29": 23,
+      "metric_30": 34
     },
     {
       "gene_seqnames": "MAG06_681",
@@ -59,17 +76,27 @@
       "eggnog_X10": "01RWX@aproNOG,05E1J@bactNOG,16RMY@proNOG,COG2072@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "P",
-      "eggnog_X13": "Oxidoreductase"
+      "eggnog_X13": "Oxidoreductase",
+      "metric_3": 77,
+      "metric_7": 16,
+      "metric_10": 98,
+      "metric_12": 72,
+      "metric_14": 95,
+      "metric_15": 65,
+      "metric_19": 44,
+      "metric_20": 32,
+      "metric_21": 23,
+      "metric_25": 63,
+      "metric_26": 33,
+      "metric_27": 20,
+      "metric_30": 13
     }
   ],
   "diamond_track": [
     {
       "seqnames": "MAG06_681",
-      "gene_ID": "MAG06_681_1"
-    },
-    {
-      "seqnames": "MAG06_681",
       "gene_ID": "MAG06_681_2",
+      "gene_strand": "-",
       "eggnog_pos_X2": "501479.CSE45_2292",
       "eggnog_pos_X3": 62.1,
       "eggnog_pos_X4": 438,
@@ -87,6 +114,7 @@
     {
       "seqnames": "MAG06_681",
       "gene_ID": "MAG06_681_2",
+      "gene_strand": "-",
       "eggnog_pos_X2": "314265.R2601_27036",
       "eggnog_pos_X3": 61.4,
       "eggnog_pos_X4": 438,

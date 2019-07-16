@@ -36,13 +36,25 @@
       "eggnog_X10": "01RTM@aproNOG,05DAU@bactNOG,16QRZ@proNOG,COG0642@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "T",
-      "eggnog_X13": "Histidine kinase"
+      "eggnog_X13": "Histidine kinase",
+      "metric_5": 54,
+      "metric_6": 35,
+      "metric_8": 59,
+      "metric_9": 87,
+      "metric_10": 75,
+      "metric_13": 32,
+      "metric_19": 51,
+      "metric_21": 63,
+      "metric_23": 17,
+      "metric_24": 48,
+      "metric_29": 80
     }
   ],
   "diamond_track": [
     {
       "seqnames": "MAG06_423",
       "gene_ID": "MAG06_423_1",
+      "gene_strand": "-",
       "eggnog_pos_X2": "311403.Arad_7021",
       "eggnog_pos_X3": 73.3,
       "eggnog_pos_X4": 453,
@@ -60,6 +72,7 @@
     {
       "seqnames": "MAG06_423",
       "gene_ID": "MAG06_423_1",
+      "gene_strand": "-",
       "eggnog_pos_X2": "216596.RL4108",
       "eggnog_pos_X3": 71.4,
       "eggnog_pos_X4": 455,
@@ -77,6 +90,7 @@
     {
       "seqnames": "MAG06_423",
       "gene_ID": "MAG06_423_1",
+      "gene_strand": "-",
       "eggnog_pos_X2": "491916.RHECIAT_CH0003855",
       "eggnog_pos_X3": 72.5,
       "eggnog_pos_X4": 455,
@@ -94,6 +108,7 @@
     {
       "seqnames": "MAG06_423",
       "gene_ID": "MAG06_423_1",
+      "gene_strand": "-",
       "eggnog_pos_X2": "347834.RHE_CH03588",
       "eggnog_pos_X3": 71.4,
       "eggnog_pos_X4": 455,
@@ -111,6 +126,7 @@
     {
       "seqnames": "MAG06_423",
       "gene_ID": "MAG06_423_1",
+      "gene_strand": "-",
       "eggnog_pos_X2": "395492.Rleg2_3342",
       "eggnog_pos_X3": 71.4,
       "eggnog_pos_X4": 455,

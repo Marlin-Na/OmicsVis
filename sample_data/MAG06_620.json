@@ -34,7 +34,24 @@
       "eggnog_X10": "01SJM@aproNOG,05CPC@bactNOG,16RUJ@proNOG,COG0667@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "C",
-      "eggnog_X13": "Aldo keto reductase"
+      "eggnog_X13": "Aldo keto reductase",
+      "metric_1": 86,
+      "metric_2": 57,
+      "metric_5": 39,
+      "metric_7": 54,
+      "metric_9": 43,
+      "metric_11": 54,
+      "metric_12": 68,
+      "metric_15": 61,
+      "metric_17": 98,
+      "metric_19": 83,
+      "metric_20": 98,
+      "metric_21": 61,
+      "metric_23": 36,
+      "metric_25": 5,
+      "metric_26": 36,
+      "metric_27": 55,
+      "metric_29": 39
     },
     {
       "gene_seqnames": "MAG06_620",
@@ -66,7 +83,20 @@
       "eggnog_X10": "01RB2@aproNOG,05EQ2@bactNOG,0XRUN@NOG,174XS@proNOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "K",
-      "eggnog_X13": "LysR family transcriptional Regulator"
+      "eggnog_X13": "LysR family transcriptional Regulator",
+      "metric_1": 85,
+      "metric_3": 50,
+      "metric_4": 64,
+      "metric_8": 16,
+      "metric_9": 59,
+      "metric_12": 49,
+      "metric_19": 61,
+      "metric_22": 47,
+      "metric_23": 91,
+      "metric_24": 14,
+      "metric_25": 96,
+      "metric_28": 22,
+      "metric_29": 59
     },
     {
       "gene_seqnames": "MAG06_620",
@@ -100,7 +130,22 @@
       "eggnog_X10": "01XJB@aproNOG,08Z9Z@bactNOG,17B3B@proNOG,COG3685@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "S",
-      "eggnog_X13": "Domain of unknown function (DUF892)"
+      "eggnog_X13": "Domain of unknown function (DUF892)",
+      "metric_1": 94,
+      "metric_2": 62,
+      "metric_3": 20,
+      "metric_5": 45,
+      "metric_6": 41,
+      "metric_10": 82,
+      "metric_12": 4,
+      "metric_13": 96,
+      "metric_14": 54,
+      "metric_15": 43,
+      "metric_20": 21,
+      "metric_22": 62,
+      "metric_24": 80,
+      "metric_29": 88,
+      "metric_30": 11
     },
     {
       "gene_seqnames": "MAG06_620",
@@ -134,13 +179,25 @@
       "eggnog_X10": "01SK3@aproNOG,05EJB@bactNOG,0XP16@NOG,16Q06@proNOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "S",
-      "eggnog_X13": "Short chain dehydrogenase"
+      "eggnog_X13": "Short chain dehydrogenase",
+      "metric_4": 53,
+      "metric_6": 32,
+      "metric_13": 98,
+      "metric_15": 87,
+      "metric_17": 52,
+      "metric_19": 54,
+      "metric_21": 61,
+      "metric_22": 18,
+      "metric_28": 69,
+      "metric_29": 66,
+      "metric_30": 19
     }
   ],
   "diamond_track": [
     {
       "seqnames": "MAG06_620",
       "gene_ID": "MAG06_620_1",
+      "gene_strand": "-",
       "eggnog_pos_X2": "216596.RL0272",
       "eggnog_pos_X3": 81.8,
       "eggnog_pos_X4": 291,
@@ -158,6 +215,7 @@
     {
       "seqnames": "MAG06_620",
       "gene_ID": "MAG06_620_1",
+      "gene_strand": "-",
       "eggnog_pos_X2": "491916.RHECIAT_CH0000302",
       "eggnog_pos_X3": 80.1,
       "eggnog_pos_X4": 291,
@@ -175,6 +233,7 @@
     {
       "seqnames": "MAG06_620",
       "gene_ID": "MAG06_620_1",
+      "gene_strand": "-",
       "eggnog_pos_X2": "347834.RHE_CH00266",
       "eggnog_pos_X3": 79.8,
       "eggnog_pos_X4": 292,
@@ -192,6 +251,7 @@
     {
       "seqnames": "MAG06_620",
       "gene_ID": "MAG06_620_2",
+      "gene_strand": "+",
       "eggnog_pos_X2": "366394.Smed_3490",
       "eggnog_pos_X3": 92.2,
       "eggnog_pos_X4": 296,
@@ -209,6 +269,7 @@
     {
       "seqnames": "MAG06_620",
       "gene_ID": "MAG06_620_3",
+      "gene_strand": "-",
       "eggnog_pos_X2": "266834.SMc00371",
       "eggnog_pos_X3": 100,
       "eggnog_pos_X4": 163,
@@ -226,6 +287,7 @@
     {
       "seqnames": "MAG06_620",
       "gene_ID": "MAG06_620_4",
+      "gene_strand": "+",
       "eggnog_pos_X2": "266834.SMc00372",
       "eggnog_pos_X3": 98.8,
       "eggnog_pos_X4": 256,

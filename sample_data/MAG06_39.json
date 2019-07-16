@@ -38,7 +38,20 @@
       "eggnog_X10": "02EAQ@aproNOG,08IUZ@bactNOG,172ZM@proNOG,COG1137@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "S",
-      "eggnog_X13": "ABC transporter"
+      "eggnog_X13": "ABC transporter",
+      "metric_1": 73,
+      "metric_2": 79,
+      "metric_5": 83,
+      "metric_7": 38,
+      "metric_12": 4,
+      "metric_17": 19,
+      "metric_19": 19,
+      "metric_20": 39,
+      "metric_22": 67,
+      "metric_23": 71,
+      "metric_25": 3,
+      "metric_26": 99,
+      "metric_30": 82
     },
     {
       "gene_seqnames": "MAG06_39",
@@ -73,7 +86,23 @@
       "eggnog_X10": "01R9K@aproNOG,05DTW@bactNOG,16PS3@proNOG,COG1508@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "K",
-      "eggnog_X13": "Sigma factors are initiation factors that promote the attachment of RNA polymerase to specific initiation sites and are then released (By similarity)"
+      "eggnog_X13": "Sigma factors are initiation factors that promote the attachment of RNA polymerase to specific initiation sites and are then released (By similarity)",
+      "metric_1": 17,
+      "metric_4": 44,
+      "metric_5": 55,
+      "metric_8": 27,
+      "metric_9": 92,
+      "metric_10": 63,
+      "metric_12": 34,
+      "metric_14": 38,
+      "metric_17": 92,
+      "metric_18": 21,
+      "metric_19": 90,
+      "metric_20": 49,
+      "metric_22": 16,
+      "metric_23": 88,
+      "metric_27": 4,
+      "metric_29": 13
     },
     {
       "gene_seqnames": "MAG06_39",
@@ -107,7 +136,18 @@
       "eggnog_X10": "01TMY@aproNOG,07TNS@bactNOG,16SBJ@proNOG,COG1544@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "J",
-      "eggnog_X13": "sigma 54 modulation protein ribosomal protein S30EA"
+      "eggnog_X13": "sigma 54 modulation protein ribosomal protein S30EA",
+      "metric_1": 62,
+      "metric_4": 72,
+      "metric_13": 54,
+      "metric_16": 2,
+      "metric_19": 1,
+      "metric_22": 88,
+      "metric_23": 43,
+      "metric_24": 86,
+      "metric_26": 41,
+      "metric_29": 54,
+      "metric_30": 48
     },
     {
       "gene_seqnames": "MAG06_39",
@@ -142,7 +182,21 @@
       "eggnog_X10": "01XE4@aproNOG,07RM2@bactNOG,17FWV@proNOG,COG1762@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "G",
-      "eggnog_X13": "PTS IIA-like nitrogen-regulatory protein PtsN"
+      "eggnog_X13": "PTS IIA-like nitrogen-regulatory protein PtsN",
+      "metric_4": 21,
+      "metric_7": 68,
+      "metric_8": 69,
+      "metric_9": 88,
+      "metric_14": 50,
+      "metric_15": 37,
+      "metric_18": 34,
+      "metric_19": 5,
+      "metric_20": 8,
+      "metric_22": 55,
+      "metric_25": 96,
+      "metric_26": 57,
+      "metric_27": 3,
+      "metric_28": 32
     },
     {
       "gene_seqnames": "MAG06_39",
@@ -177,7 +231,21 @@
       "eggnog_X10": "01WDW@aproNOG,05K90@bactNOG,17DEX@proNOG,COG0576@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "O",
-      "eggnog_X13": "Participates actively in the response to hyperosmotic and heat shock by preventing the aggregation of stress-denatured proteins, in association with DnaK and GrpE. It is the nucleotide exchange factor for DnaK and may function as a thermosensor. Unfolded proteins bind initially to DnaJ"
+      "eggnog_X13": "Participates actively in the response to hyperosmotic and heat shock by preventing the aggregation of stress-denatured proteins, in association with DnaK and GrpE. It is the nucleotide exchange factor for DnaK and may function as a thermosensor. Unfolded proteins bind initially to DnaJ",
+      "metric_3": 57,
+      "metric_5": 3,
+      "metric_6": 30,
+      "metric_7": 58,
+      "metric_9": 80,
+      "metric_12": 43,
+      "metric_13": 60,
+      "metric_15": 43,
+      "metric_19": 56,
+      "metric_20": 76,
+      "metric_21": 37,
+      "metric_24": 66,
+      "metric_25": 63,
+      "metric_27": 34
     },
     {
       "gene_seqnames": "MAG06_39",
@@ -212,7 +280,24 @@
       "eggnog_X10": "01QE0@aproNOG,05CI8@bactNOG,16PJ4@proNOG,COG1420@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "K",
-      "eggnog_X13": "Negative regulator of class I heat shock genes (grpE- dnaK-dnaJ and groELS operons). Prevents heat-shock induction of these operons (By similarity)"
+      "eggnog_X13": "Negative regulator of class I heat shock genes (grpE- dnaK-dnaJ and groELS operons). Prevents heat-shock induction of these operons (By similarity)",
+      "metric_1": 63,
+      "metric_2": 59,
+      "metric_3": 10,
+      "metric_6": 25,
+      "metric_7": 84,
+      "metric_8": 52,
+      "metric_9": 25,
+      "metric_10": 27,
+      "metric_15": 13,
+      "metric_16": 24,
+      "metric_17": 40,
+      "metric_23": 51,
+      "metric_24": 65,
+      "metric_26": 35,
+      "metric_27": 59,
+      "metric_28": 95,
+      "metric_29": 95
     },
     {
       "gene_seqnames": "MAG06_39",
@@ -247,7 +332,25 @@
       "eggnog_X10": "01QX9@aproNOG,05ED0@bactNOG,16PKV@proNOG,COG0689@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "J",
-      "eggnog_X13": "Phosphorolytic exoribonuclease that removes nucleotide residues following the -CCA terminus of tRNA and adds nucleotides to the ends of RNA molecules by using nucleoside diphosphates as substrates (By similarity)"
+      "eggnog_X13": "Phosphorolytic exoribonuclease that removes nucleotide residues following the -CCA terminus of tRNA and adds nucleotides to the ends of RNA molecules by using nucleoside diphosphates as substrates (By similarity)",
+      "metric_1": 49,
+      "metric_3": 2,
+      "metric_4": 86,
+      "metric_5": 1,
+      "metric_10": 26,
+      "metric_15": 45,
+      "metric_16": 75,
+      "metric_17": 6,
+      "metric_18": 13,
+      "metric_19": 46,
+      "metric_20": 70,
+      "metric_21": 54,
+      "metric_24": 67,
+      "metric_26": 58,
+      "metric_27": 45,
+      "metric_28": 9,
+      "metric_29": 57,
+      "metric_30": 47
     },
     {
       "gene_seqnames": "MAG06_39",
@@ -280,13 +383,27 @@
       "eggnog_X10": "01YRK@aproNOG,08ZJ5@bactNOG,11NNF@NOG,17CP8@proNOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "S",
-      "eggnog_X13": "glyoxalase bleomycin resistance protein dioxygenase"
+      "eggnog_X13": "glyoxalase bleomycin resistance protein dioxygenase",
+      "metric_3": 45,
+      "metric_5": 7,
+      "metric_7": 64,
+      "metric_13": 62,
+      "metric_14": 63,
+      "metric_15": 92,
+      "metric_17": 18,
+      "metric_20": 89,
+      "metric_22": 80,
+      "metric_24": 1,
+      "metric_27": 65,
+      "metric_28": 3,
+      "metric_29": 56
     }
   ],
   "diamond_track": [
     {
       "seqnames": "MAG06_39",
       "gene_ID": "MAG06_39_1",
+      "gene_strand": "+",
       "eggnog_pos_X2": "266834.SMc01138",
       "eggnog_pos_X3": 100,
       "eggnog_pos_X4": 175,
@@ -304,6 +421,7 @@
     {
       "seqnames": "MAG06_39",
       "gene_ID": "MAG06_39_1",
+      "gene_strand": "+",
       "eggnog_pos_X2": "394.NGR_c00180",
       "eggnog_pos_X3": 97.7,
       "eggnog_pos_X4": 175,
@@ -321,6 +439,7 @@
     {
       "seqnames": "MAG06_39",
       "gene_ID": "MAG06_39_2",
+      "gene_strand": "+",
       "eggnog_pos_X2": "266834.SMc01139",
       "eggnog_pos_X3": 99.2,
       "eggnog_pos_X4": 514,
@@ -338,6 +457,7 @@
     {
       "seqnames": "MAG06_39",
       "gene_ID": "MAG06_39_3",
+      "gene_strand": "+",
       "eggnog_pos_X2": "266834.SMc01140",
       "eggnog_pos_X3": 100,
       "eggnog_pos_X4": 190,
@@ -355,6 +475,7 @@
     {
       "seqnames": "MAG06_39",
       "gene_ID": "MAG06_39_3",
+      "gene_strand": "+",
       "eggnog_pos_X2": "366394.Smed_0014",
       "eggnog_pos_X3": 98.9,
       "eggnog_pos_X4": 190,
@@ -372,6 +493,7 @@
     {
       "seqnames": "MAG06_39",
       "gene_ID": "MAG06_39_4",
+      "gene_strand": "+",
       "eggnog_pos_X2": "266834.SMc01141",
       "eggnog_pos_X3": 100,
       "eggnog_pos_X4": 154,
@@ -389,6 +511,7 @@
     {
       "seqnames": "MAG06_39",
       "gene_ID": "MAG06_39_4",
+      "gene_strand": "+",
       "eggnog_pos_X2": "366394.Smed_0013",
       "eggnog_pos_X3": 98.1,
       "eggnog_pos_X4": 154,
@@ -406,6 +529,7 @@
     {
       "seqnames": "MAG06_39",
       "gene_ID": "MAG06_39_5",
+      "gene_strand": "-",
       "eggnog_pos_X2": "266834.SMc01142",
       "eggnog_pos_X3": 99.5,
       "eggnog_pos_X4": 208,
@@ -423,6 +547,7 @@
     {
       "seqnames": "MAG06_39",
       "gene_ID": "MAG06_39_6",
+      "gene_strand": "-",
       "eggnog_pos_X2": "266834.SMc01143",
       "eggnog_pos_X3": 100,
       "eggnog_pos_X4": 359,
@@ -440,6 +565,7 @@
     {
       "seqnames": "MAG06_39",
       "gene_ID": "MAG06_39_6",
+      "gene_strand": "-",
       "eggnog_pos_X2": "366394.Smed_0011",
       "eggnog_pos_X3": 97.8,
       "eggnog_pos_X4": 359,
@@ -457,6 +583,7 @@
     {
       "seqnames": "MAG06_39",
       "gene_ID": "MAG06_39_7",
+      "gene_strand": "+",
       "eggnog_pos_X2": "266834.SMc01144",
       "eggnog_pos_X3": 100,
       "eggnog_pos_X4": 239,
@@ -474,6 +601,7 @@
     {
       "seqnames": "MAG06_39",
       "gene_ID": "MAG06_39_7",
+      "gene_strand": "+",
       "eggnog_pos_X2": "366394.Smed_0010",
       "eggnog_pos_X3": 95.4,
       "eggnog_pos_X4": 239,
@@ -491,6 +619,7 @@
     {
       "seqnames": "MAG06_39",
       "gene_ID": "MAG06_39_8",
+      "gene_strand": "+",
       "eggnog_pos_X2": "266834.SMc01145",
       "eggnog_pos_X3": 97.2,
       "eggnog_pos_X4": 107,

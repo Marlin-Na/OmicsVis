@@ -37,13 +37,29 @@
       "eggnog_X10": "01SD9@aproNOG,05CTK@bactNOG,16PB9@proNOG,COG1429@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "H",
-      "eggnog_X13": "cobaltochelatase subunit CobN"
+      "eggnog_X13": "cobaltochelatase subunit CobN",
+      "metric_1": 94,
+      "metric_2": 97,
+      "metric_4": 78,
+      "metric_8": 49,
+      "metric_9": 52,
+      "metric_10": 66,
+      "metric_12": 66,
+      "metric_14": 58,
+      "metric_15": 87,
+      "metric_16": 3,
+      "metric_17": 81,
+      "metric_18": 51,
+      "metric_21": 58,
+      "metric_24": 33,
+      "metric_26": 49
     }
   ],
   "diamond_track": [
     {
       "seqnames": "MAG06_183",
       "gene_ID": "MAG06_183_1",
+      "gene_strand": "+",
       "eggnog_pos_X2": "366394.Smed_1759",
       "eggnog_pos_X3": 93.3,
       "eggnog_pos_X4": 538,

@@ -34,7 +34,21 @@
       "eggnog_X10": "01SNX@aproNOG,05DNP@bactNOG,16R7T@proNOG,COG0277@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "C",
-      "eggnog_X13": "FAD linked oxidase domain protein"
+      "eggnog_X13": "FAD linked oxidase domain protein",
+      "metric_1": 95,
+      "metric_2": 4,
+      "metric_4": 72,
+      "metric_7": 45,
+      "metric_9": 51,
+      "metric_10": 71,
+      "metric_14": 49,
+      "metric_15": 36,
+      "metric_19": 13,
+      "metric_21": 89,
+      "metric_25": 29,
+      "metric_26": 12,
+      "metric_28": 69,
+      "metric_29": 34
     },
     {
       "gene_seqnames": "MAG06_865",
@@ -69,13 +83,29 @@
       "eggnog_X10": "01R73@aproNOG,05EJZ@bactNOG,16RQ8@proNOG,COG1208@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "M",
-      "eggnog_X13": "Glucose-1-phosphate cytidylyltransferase"
+      "eggnog_X13": "Glucose-1-phosphate cytidylyltransferase",
+      "metric_2": 37,
+      "metric_7": 86,
+      "metric_8": 38,
+      "metric_9": 29,
+      "metric_13": 34,
+      "metric_15": 97,
+      "metric_16": 6,
+      "metric_17": 99,
+      "metric_20": 74,
+      "metric_21": 83,
+      "metric_22": 69,
+      "metric_24": 21,
+      "metric_28": 27,
+      "metric_29": 86,
+      "metric_30": 41
     }
   ],
   "diamond_track": [
     {
       "seqnames": "MAG06_865",
       "gene_ID": "MAG06_865_1",
+      "gene_strand": "-",
       "eggnog_pos_X2": "394.NGR_c24330",
       "eggnog_pos_X3": 84.5,
       "eggnog_pos_X4": 207,
@@ -93,6 +123,7 @@
     {
       "seqnames": "MAG06_865",
       "gene_ID": "MAG06_865_1",
+      "gene_strand": "-",
       "eggnog_pos_X2": "1117943.SFHH103_02298",
       "eggnog_pos_X3": 84.5,
       "eggnog_pos_X4": 207,
@@ -110,6 +141,7 @@
     {
       "seqnames": "MAG06_865",
       "gene_ID": "MAG06_865_2",
+      "gene_strand": "+",
       "eggnog_pos_X2": "1117943.SFHH103_02299",
       "eggnog_pos_X3": 92.4,
       "eggnog_pos_X4": 225,
@@ -127,6 +159,7 @@
     {
       "seqnames": "MAG06_865",
       "gene_ID": "MAG06_865_2",
+      "gene_strand": "+",
       "eggnog_pos_X2": "394.NGR_c24340",
       "eggnog_pos_X3": 92,
       "eggnog_pos_X4": 225,

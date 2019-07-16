@@ -37,7 +37,20 @@
       "eggnog_X10": "01VC5@aproNOG,07R15@bactNOG,16UVX@proNOG,COG0205@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "G",
-      "eggnog_X13": "pyrophosphate-fructose-6-phosphate 1-phosphotransferase"
+      "eggnog_X13": "pyrophosphate-fructose-6-phosphate 1-phosphotransferase",
+      "metric_1": 57,
+      "metric_6": 48,
+      "metric_8": 6,
+      "metric_9": 84,
+      "metric_12": 89,
+      "metric_13": 49,
+      "metric_15": 15,
+      "metric_17": 87,
+      "metric_18": 25,
+      "metric_19": 76,
+      "metric_20": 4,
+      "metric_28": 67,
+      "metric_30": 90
     },
     {
       "gene_seqnames": "MAG06_905",
@@ -69,7 +82,24 @@
       "eggnog_X10": "01WJ8@aproNOG,0829K@bactNOG,16T1K@proNOG,COG1280@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "E",
-      "eggnog_X13": "Efflux protein"
+      "eggnog_X13": "Efflux protein",
+      "metric_1": 27,
+      "metric_2": 2,
+      "metric_4": 46,
+      "metric_5": 55,
+      "metric_7": 50,
+      "metric_10": 75,
+      "metric_11": 15,
+      "metric_12": 65,
+      "metric_13": 40,
+      "metric_16": 89,
+      "metric_17": 91,
+      "metric_18": 76,
+      "metric_22": 23,
+      "metric_23": 40,
+      "metric_24": 52,
+      "metric_27": 7,
+      "metric_29": 92
     },
     {
       "gene_seqnames": "MAG06_905",
@@ -93,13 +123,30 @@
       "gene_sscore": "3.22",
       "gene_rscore": "0.00",
       "gene_uscore": "0.00",
-      "gene_tscore": "3.22"
+      "gene_tscore": "3.22",
+      "metric_2": 81,
+      "metric_7": 26,
+      "metric_9": 96,
+      "metric_10": 84,
+      "metric_12": 48,
+      "metric_13": 7,
+      "metric_14": 63,
+      "metric_15": 74,
+      "metric_16": 77,
+      "metric_18": 8,
+      "metric_22": 33,
+      "metric_23": 65,
+      "metric_24": 36,
+      "metric_27": 88,
+      "metric_28": 59,
+      "metric_30": 81
     }
   ],
   "diamond_track": [
     {
       "seqnames": "MAG06_905",
       "gene_ID": "MAG06_905_1",
+      "gene_strand": "+",
       "eggnog_pos_X2": "266834.SMc01852",
       "eggnog_pos_X3": 99.5,
       "eggnog_pos_X4": 214,
@@ -117,6 +164,7 @@
     {
       "seqnames": "MAG06_905",
       "gene_ID": "MAG06_905_2",
+      "gene_strand": "+",
       "eggnog_pos_X2": "266834.SMc01851",
       "eggnog_pos_X3": 99.5,
       "eggnog_pos_X4": 211,
@@ -130,10 +178,6 @@
       "eggnog_pos_X12": 407.5,
       "eggnog_pos_start": 787,
       "eggnog_pos_end": 1417
-    },
-    {
-      "seqnames": "MAG06_905",
-      "gene_ID": "MAG06_905_3"
     }
   ]
 }

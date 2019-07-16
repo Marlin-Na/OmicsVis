@@ -37,7 +37,20 @@
       "eggnog_X10": "01QKF@aproNOG,05CZ6@bactNOG,16Q7M@proNOG,COG2303@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "E",
-      "eggnog_X13": "Can catalyze the oxidation of choline to betaine aldehyde and betaine aldehyde to glycine betaine (By similarity)"
+      "eggnog_X13": "Can catalyze the oxidation of choline to betaine aldehyde and betaine aldehyde to glycine betaine (By similarity)",
+      "metric_2": 50,
+      "metric_4": 12,
+      "metric_5": 76,
+      "metric_6": 42,
+      "metric_10": 3,
+      "metric_15": 95,
+      "metric_17": 62,
+      "metric_19": 67,
+      "metric_21": 28,
+      "metric_22": 56,
+      "metric_26": 3,
+      "metric_28": 59,
+      "metric_30": 72
     },
     {
       "gene_seqnames": "MAG06_300",
@@ -72,7 +85,22 @@
       "eggnog_X10": "01QT1@aproNOG,05D1Z@bactNOG,16QIZ@proNOG,COG2379@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "G",
-      "eggnog_X13": "Hydroxypyruvate reductase"
+      "eggnog_X13": "Hydroxypyruvate reductase",
+      "metric_1": 95,
+      "metric_5": 22,
+      "metric_8": 48,
+      "metric_10": 22,
+      "metric_13": 21,
+      "metric_14": 90,
+      "metric_15": 47,
+      "metric_16": 66,
+      "metric_17": 90,
+      "metric_21": 14,
+      "metric_22": 3,
+      "metric_23": 69,
+      "metric_26": 31,
+      "metric_28": 42,
+      "metric_30": 5
     },
     {
       "gene_seqnames": "MAG06_300",
@@ -106,13 +134,29 @@
       "eggnog_X10": "02EGK@aproNOG,08JPX@bactNOG,173ED@proNOG,COG0161@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "E",
-      "eggnog_X13": "Aminotransferase"
+      "eggnog_X13": "Aminotransferase",
+      "metric_1": 28,
+      "metric_2": 41,
+      "metric_5": 49,
+      "metric_7": 78,
+      "metric_10": 90,
+      "metric_12": 90,
+      "metric_13": 61,
+      "metric_17": 29,
+      "metric_18": 77,
+      "metric_20": 70,
+      "metric_22": 7,
+      "metric_23": 21,
+      "metric_25": 20,
+      "metric_26": 18,
+      "metric_27": 44
     }
   ],
   "diamond_track": [
     {
       "seqnames": "MAG06_300",
       "gene_ID": "MAG06_300_1",
+      "gene_strand": "+",
       "eggnog_pos_X2": "394.NGR_c33130",
       "eggnog_pos_X3": 93.5,
       "eggnog_pos_X4": 550,
@@ -130,6 +174,7 @@
     {
       "seqnames": "MAG06_300",
       "gene_ID": "MAG06_300_1",
+      "gene_strand": "+",
       "eggnog_pos_X2": "1117943.SFHH103_03447",
       "eggnog_pos_X3": 92,
       "eggnog_pos_X4": 551,
@@ -147,6 +192,7 @@
     {
       "seqnames": "MAG06_300",
       "gene_ID": "MAG06_300_2",
+      "gene_strand": "+",
       "eggnog_pos_X2": "266834.SMc04389",
       "eggnog_pos_X3": 99.5,
       "eggnog_pos_X4": 423,
@@ -164,6 +210,7 @@
     {
       "seqnames": "MAG06_300",
       "gene_ID": "MAG06_300_3",
+      "gene_strand": "-",
       "eggnog_pos_X2": "266834.SMc04388",
       "eggnog_pos_X3": 98.6,
       "eggnog_pos_X4": 429,
@@ -181,6 +228,7 @@
     {
       "seqnames": "MAG06_300",
       "gene_ID": "MAG06_300_3",
+      "gene_strand": "-",
       "eggnog_pos_X2": "366394.Smed_3162",
       "eggnog_pos_X3": 96,
       "eggnog_pos_X4": 429,

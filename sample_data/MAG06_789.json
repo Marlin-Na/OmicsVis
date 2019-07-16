@@ -36,7 +36,22 @@
       "eggnog_X10": "02005@aproNOG,05Q0R@bactNOG,17FBZ@proNOG,COG1605@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "E",
-      "eggnog_X13": "chorismate mutase"
+      "eggnog_X13": "chorismate mutase",
+      "metric_1": 96,
+      "metric_4": 72,
+      "metric_5": 49,
+      "metric_10": 84,
+      "metric_13": 27,
+      "metric_14": 14,
+      "metric_18": 43,
+      "metric_20": 2,
+      "metric_21": 47,
+      "metric_22": 78,
+      "metric_23": 31,
+      "metric_24": 86,
+      "metric_28": 7,
+      "metric_29": 86,
+      "metric_30": 71
     },
     {
       "gene_seqnames": "MAG06_789",
@@ -71,7 +86,21 @@
       "eggnog_X10": "01RM4@aproNOG,05CB9@bactNOG,16Q52@proNOG,COG0541@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "U",
-      "eggnog_X13": "Involved in targeting and insertion of nascent membrane proteins into the cytoplasmic membrane. Binds to the hydrophobic signal sequence of the ribosome-nascent chain (RNC) as it emerges from the ribosomes. The SRP-RNC complex is then targeted to the cytoplasmic membrane where it interacts with the SRP receptor FtsY. Interaction with FtsY leads to the transfer of the RNC complex to the Sec translocase for insertion into the membrane, the hydrolysis of GTP by both Ffh and FtsY, and the dissociation of the SRP-FtsY complex into the individual components (By similarity)"
+      "eggnog_X13": "Involved in targeting and insertion of nascent membrane proteins into the cytoplasmic membrane. Binds to the hydrophobic signal sequence of the ribosome-nascent chain (RNC) as it emerges from the ribosomes. The SRP-RNC complex is then targeted to the cytoplasmic membrane where it interacts with the SRP receptor FtsY. Interaction with FtsY leads to the transfer of the RNC complex to the Sec translocase for insertion into the membrane, the hydrolysis of GTP by both Ffh and FtsY, and the dissociation of the SRP-FtsY complex into the individual components (By similarity)",
+      "metric_1": 58,
+      "metric_2": 99,
+      "metric_3": 67,
+      "metric_4": 13,
+      "metric_6": 38,
+      "metric_8": 80,
+      "metric_10": 58,
+      "metric_12": 83,
+      "metric_13": 67,
+      "metric_15": 11,
+      "metric_17": 41,
+      "metric_22": 68,
+      "metric_24": 64,
+      "metric_30": 59
     },
     {
       "gene_seqnames": "MAG06_789",
@@ -101,7 +130,19 @@
       "eggnog_X4": 214.9,
       "eggnog_X9": "bactNOG[38]",
       "eggnog_X10": "01ZQF@aproNOG,05K9S@bactNOG,11TUF@NOG,17FFH@proNOG",
-      "eggnog_X11": "NA|NA|NA"
+      "eggnog_X11": "NA|NA|NA",
+      "metric_1": 5,
+      "metric_2": 12,
+      "metric_3": 85,
+      "metric_5": 48,
+      "metric_12": 65,
+      "metric_16": 93,
+      "metric_17": 43,
+      "metric_21": 54,
+      "metric_23": 42,
+      "metric_24": 82,
+      "metric_25": 60,
+      "metric_30": 31
     },
     {
       "gene_seqnames": "MAG06_789",
@@ -125,7 +166,23 @@
       "gene_sscore": "20.09",
       "gene_rscore": "13.75",
       "gene_uscore": "3.34",
-      "gene_tscore": "3.65"
+      "gene_tscore": "3.65",
+      "metric_1": 98,
+      "metric_3": 42,
+      "metric_4": 29,
+      "metric_5": 5,
+      "metric_6": 23,
+      "metric_9": 54,
+      "metric_13": 47,
+      "metric_16": 56,
+      "metric_17": 7,
+      "metric_18": 19,
+      "metric_20": 5,
+      "metric_22": 30,
+      "metric_23": 66,
+      "metric_26": 42,
+      "metric_28": 79,
+      "metric_29": 51
     },
     {
       "gene_seqnames": "MAG06_789",
@@ -161,7 +218,21 @@
       "eggnog_X10": "01T1N@aproNOG,05E4Z@bactNOG,16PRB@proNOG,COG0253@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "E",
-      "eggnog_X13": "Catalyzes the stereoinversion of LL-2,6- diaminoheptanedioate (L,L-DAP) to meso-diaminoheptanedioate (meso- DAP), a precursor of L-lysine and an essential component of the bacterial peptidoglycan (By similarity)"
+      "eggnog_X13": "Catalyzes the stereoinversion of LL-2,6- diaminoheptanedioate (L,L-DAP) to meso-diaminoheptanedioate (meso- DAP), a precursor of L-lysine and an essential component of the bacterial peptidoglycan (By similarity)",
+      "metric_3": 47,
+      "metric_5": 27,
+      "metric_6": 28,
+      "metric_9": 29,
+      "metric_10": 99,
+      "metric_17": 20,
+      "metric_19": 13,
+      "metric_20": 72,
+      "metric_21": 66,
+      "metric_24": 65,
+      "metric_25": 48,
+      "metric_26": 62,
+      "metric_28": 57,
+      "metric_30": 54
     },
     {
       "gene_seqnames": "MAG06_789",
@@ -196,7 +267,21 @@
       "eggnog_X10": "01SCS@aproNOG,05CIW@bactNOG,16RHH@proNOG,COG0621@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "J",
-      "eggnog_X13": "MiaB-like tRNA modifying enzyme"
+      "eggnog_X13": "MiaB-like tRNA modifying enzyme",
+      "metric_1": 92,
+      "metric_2": 29,
+      "metric_3": 68,
+      "metric_4": 41,
+      "metric_6": 22,
+      "metric_9": 83,
+      "metric_12": 75,
+      "metric_15": 75,
+      "metric_16": 23,
+      "metric_18": 30,
+      "metric_20": 97,
+      "metric_21": 24,
+      "metric_23": 24,
+      "metric_29": 19
     },
     {
       "gene_seqnames": "MAG06_789",
@@ -231,13 +316,26 @@
       "eggnog_X10": "01RW0@aproNOG,05CCP@bactNOG,16PX1@proNOG,COG0552@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "U",
-      "eggnog_X13": "Involved in targeting and insertion of nascent membrane proteins into the cytoplasmic membrane. Acts as a receptor for the complex formed by the signal recognition particle (SRP) and the ribosome-nascent chain (RNC). Interaction with SRP-RNC leads to the transfer of the RNC complex to the Sec translocase for insertion into the membrane, the hydrolysis of GTP by both Ffh and FtsY, and the dissociation of the SRP-FtsY complex into the individual components (By similarity)"
+      "eggnog_X13": "Involved in targeting and insertion of nascent membrane proteins into the cytoplasmic membrane. Acts as a receptor for the complex formed by the signal recognition particle (SRP) and the ribosome-nascent chain (RNC). Interaction with SRP-RNC leads to the transfer of the RNC complex to the Sec translocase for insertion into the membrane, the hydrolysis of GTP by both Ffh and FtsY, and the dissociation of the SRP-FtsY complex into the individual components (By similarity)",
+      "metric_1": 69,
+      "metric_5": 72,
+      "metric_7": 60,
+      "metric_11": 70,
+      "metric_15": 5,
+      "metric_16": 82,
+      "metric_18": 90,
+      "metric_23": 80,
+      "metric_26": 76,
+      "metric_28": 67,
+      "metric_29": 72,
+      "metric_30": 2
     }
   ],
   "diamond_track": [
     {
       "seqnames": "MAG06_789",
       "gene_ID": "MAG06_789_1",
+      "gene_strand": "-",
       "eggnog_pos_X2": "266834.SMc03858",
       "eggnog_pos_X3": 100,
       "eggnog_pos_X4": 109,
@@ -255,6 +353,7 @@
     {
       "seqnames": "MAG06_789",
       "gene_ID": "MAG06_789_2",
+      "gene_strand": "-",
       "eggnog_pos_X2": "366394.Smed_3095",
       "eggnog_pos_X3": 97.3,
       "eggnog_pos_X4": 514,
@@ -272,6 +371,7 @@
     {
       "seqnames": "MAG06_789",
       "gene_ID": "MAG06_789_2",
+      "gene_strand": "-",
       "eggnog_pos_X2": "394.NGR_c32250",
       "eggnog_pos_X3": 95.4,
       "eggnog_pos_X4": 519,
@@ -289,6 +389,7 @@
     {
       "seqnames": "MAG06_789",
       "gene_ID": "MAG06_789_2",
+      "gene_strand": "-",
       "eggnog_pos_X2": "1117943.SFHH103_03247",
       "eggnog_pos_X3": 94.8,
       "eggnog_pos_X4": 519,
@@ -306,6 +407,7 @@
     {
       "seqnames": "MAG06_789",
       "gene_ID": "MAG06_789_3",
+      "gene_strand": "-",
       "eggnog_pos_X2": "861208.AGROH133_09320",
       "eggnog_pos_X3": 71.1,
       "eggnog_pos_X4": 135,
@@ -322,11 +424,8 @@
     },
     {
       "seqnames": "MAG06_789",
-      "gene_ID": "MAG06_789_4"
-    },
-    {
-      "seqnames": "MAG06_789",
       "gene_ID": "MAG06_789_5",
+      "gene_strand": "+",
       "eggnog_pos_X2": "266834.SMc03856",
       "eggnog_pos_X3": 99,
       "eggnog_pos_X4": 301,
@@ -344,6 +443,7 @@
     {
       "seqnames": "MAG06_789",
       "gene_ID": "MAG06_789_6",
+      "gene_strand": "+",
       "eggnog_pos_X2": "366394.Smed_3092",
       "eggnog_pos_X3": 93.2,
       "eggnog_pos_X4": 424,
@@ -361,6 +461,7 @@
     {
       "seqnames": "MAG06_789",
       "gene_ID": "MAG06_789_7",
+      "gene_strand": "+",
       "eggnog_pos_X2": "266834.SMc03854",
       "eggnog_pos_X3": 98.4,
       "eggnog_pos_X4": 486,

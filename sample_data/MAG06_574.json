@@ -37,13 +37,31 @@
       "eggnog_X10": "01QQH@aproNOG,05C24@bactNOG,16QAH@proNOG,COG0188@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "L",
-      "eggnog_X13": "DNA gyrase negatively supercoils closed circular double- stranded DNA in an ATP-dependent manner and also catalyzes the interconversion of other topological isomers of double-stranded DNA rings, including catenanes and knotted rings (By similarity)"
+      "eggnog_X13": "DNA gyrase negatively supercoils closed circular double- stranded DNA in an ATP-dependent manner and also catalyzes the interconversion of other topological isomers of double-stranded DNA rings, including catenanes and knotted rings (By similarity)",
+      "metric_7": 26,
+      "metric_10": 81,
+      "metric_12": 83,
+      "metric_14": 82,
+      "metric_15": 66,
+      "metric_16": 60,
+      "metric_17": 20,
+      "metric_18": 6,
+      "metric_20": 51,
+      "metric_22": 49,
+      "metric_23": 2,
+      "metric_24": 63,
+      "metric_26": 57,
+      "metric_27": 5,
+      "metric_28": 64,
+      "metric_29": 81,
+      "metric_30": 29
     }
   ],
   "diamond_track": [
     {
       "seqnames": "MAG06_574",
       "gene_ID": "MAG06_574_1",
+      "gene_strand": "+",
       "eggnog_pos_X2": "861208.AGROH133_06135",
       "eggnog_pos_X3": 87.7,
       "eggnog_pos_X4": 904,
@@ -61,6 +79,7 @@
     {
       "seqnames": "MAG06_574",
       "gene_ID": "MAG06_574_1",
+      "gene_strand": "+",
       "eggnog_pos_X2": "1050720.Agau_C201258",
       "eggnog_pos_X3": 87.4,
       "eggnog_pos_X4": 904,
@@ -78,6 +97,7 @@
     {
       "seqnames": "MAG06_574",
       "gene_ID": "MAG06_574_1",
+      "gene_strand": "+",
       "eggnog_pos_X2": "176299.Atu1507",
       "eggnog_pos_X3": 88.8,
       "eggnog_pos_X4": 882,
@@ -95,6 +115,7 @@
     {
       "seqnames": "MAG06_574",
       "gene_ID": "MAG06_574_1",
+      "gene_strand": "+",
       "eggnog_pos_X2": "311403.Arad_2382",
       "eggnog_pos_X3": 88.2,
       "eggnog_pos_X4": 898,
@@ -112,6 +133,7 @@
     {
       "seqnames": "MAG06_574",
       "gene_ID": "MAG06_574_1",
+      "gene_strand": "+",
       "eggnog_pos_X2": "347834.RHE_CH02110",
       "eggnog_pos_X3": 87.8,
       "eggnog_pos_X4": 905,
@@ -129,6 +151,7 @@
     {
       "seqnames": "MAG06_574",
       "gene_ID": "MAG06_574_1",
+      "gene_strand": "+",
       "eggnog_pos_X2": "491916.RHECIAT_CH0002161",
       "eggnog_pos_X3": 88,
       "eggnog_pos_X4": 905,
@@ -146,6 +169,7 @@
     {
       "seqnames": "MAG06_574",
       "gene_ID": "MAG06_574_1",
+      "gene_strand": "+",
       "eggnog_pos_X2": "216596.RL2401",
       "eggnog_pos_X3": 88.3,
       "eggnog_pos_X4": 895,
@@ -163,6 +187,7 @@
     {
       "seqnames": "MAG06_574",
       "gene_ID": "MAG06_574_1",
+      "gene_strand": "+",
       "eggnog_pos_X2": "311402.Avi_2386",
       "eggnog_pos_X3": 87.2,
       "eggnog_pos_X4": 905,
@@ -180,6 +205,7 @@
     {
       "seqnames": "MAG06_574",
       "gene_ID": "MAG06_574_1",
+      "gene_strand": "+",
       "eggnog_pos_X2": "395492.Rleg2_1744",
       "eggnog_pos_X3": 88.4,
       "eggnog_pos_X4": 889,

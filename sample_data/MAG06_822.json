@@ -37,13 +37,24 @@
       "eggnog_X10": "01Q8C@aproNOG,05C1X@bactNOG,16PDN@proNOG,COG0376@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "P",
-      "eggnog_X13": "Bifunctional enzyme with both catalase and broad- spectrum peroxidase activity (By similarity)"
+      "eggnog_X13": "Bifunctional enzyme with both catalase and broad- spectrum peroxidase activity (By similarity)",
+      "metric_1": 97,
+      "metric_4": 26,
+      "metric_5": 70,
+      "metric_8": 86,
+      "metric_10": 12,
+      "metric_11": 23,
+      "metric_13": 66,
+      "metric_18": 67,
+      "metric_23": 90,
+      "metric_29": 43
     }
   ],
   "diamond_track": [
     {
       "seqnames": "MAG06_822",
       "gene_ID": "MAG06_822_1",
+      "gene_strand": "+",
       "eggnog_pos_X2": "311402.Avi_5190",
       "eggnog_pos_X3": 86.6,
       "eggnog_pos_X4": 582,
@@ -61,6 +72,7 @@
     {
       "seqnames": "MAG06_822",
       "gene_ID": "MAG06_822_1",
+      "gene_strand": "+",
       "eggnog_pos_X2": "266779.Meso_0626",
       "eggnog_pos_X3": 86.7,
       "eggnog_pos_X4": 581,

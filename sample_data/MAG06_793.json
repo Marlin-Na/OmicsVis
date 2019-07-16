@@ -36,7 +36,15 @@
       "eggnog_X10": "01R2I@aproNOG,05CH2@bactNOG,16PUF@proNOG,COG1473@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "E",
-      "eggnog_X13": "hippurate hydrolase (EC 3.5.1.32)"
+      "eggnog_X13": "hippurate hydrolase (EC 3.5.1.32)",
+      "metric_9": 90,
+      "metric_11": 55,
+      "metric_12": 64,
+      "metric_14": 31,
+      "metric_17": 22,
+      "metric_21": 87,
+      "metric_26": 24,
+      "metric_27": 74
     },
     {
       "gene_seqnames": "MAG06_793",
@@ -68,7 +76,23 @@
       "eggnog_X10": "01Y47@aproNOG,081I3@bactNOG,17BI8@proNOG,COG0503@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "F",
-      "eggnog_X13": "Phosphoribosyltransferase"
+      "eggnog_X13": "Phosphoribosyltransferase",
+      "metric_1": 67,
+      "metric_2": 10,
+      "metric_4": 3,
+      "metric_5": 16,
+      "metric_7": 43,
+      "metric_8": 94,
+      "metric_10": 97,
+      "metric_12": 45,
+      "metric_15": 14,
+      "metric_16": 50,
+      "metric_20": 89,
+      "metric_21": 59,
+      "metric_22": 90,
+      "metric_23": 92,
+      "metric_24": 29,
+      "metric_26": 91
     },
     {
       "gene_seqnames": "MAG06_793",
@@ -104,13 +128,26 @@
       "eggnog_X10": "01Q9N@aproNOG,05C7N@bactNOG,16Q2A@proNOG,COG2252@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "S",
-      "eggnog_X13": "Xanthine uracil vitamin C permease"
+      "eggnog_X13": "Xanthine uracil vitamin C permease",
+      "metric_4": 54,
+      "metric_7": 89,
+      "metric_11": 89,
+      "metric_12": 40,
+      "metric_16": 3,
+      "metric_17": 34,
+      "metric_19": 32,
+      "metric_20": 71,
+      "metric_21": 3,
+      "metric_27": 70,
+      "metric_28": 32,
+      "metric_29": 85
     }
   ],
   "diamond_track": [
     {
       "seqnames": "MAG06_793",
       "gene_ID": "MAG06_793_1",
+      "gene_strand": "-",
       "eggnog_pos_X2": "216596.RL3888",
       "eggnog_pos_X3": 85.1,
       "eggnog_pos_X4": 215,
@@ -128,6 +165,7 @@
     {
       "seqnames": "MAG06_793",
       "gene_ID": "MAG06_793_1",
+      "gene_strand": "-",
       "eggnog_pos_X2": "491916.RHECIAT_CH0003665",
       "eggnog_pos_X3": 85.1,
       "eggnog_pos_X4": 215,
@@ -145,6 +183,7 @@
     {
       "seqnames": "MAG06_793",
       "gene_ID": "MAG06_793_1",
+      "gene_strand": "-",
       "eggnog_pos_X2": "347834.RHE_CH03429",
       "eggnog_pos_X3": 82.8,
       "eggnog_pos_X4": 215,
@@ -162,6 +201,7 @@
     {
       "seqnames": "MAG06_793",
       "gene_ID": "MAG06_793_2",
+      "gene_strand": "+",
       "eggnog_pos_X2": "395492.Rleg2_3151",
       "eggnog_pos_X3": 70.6,
       "eggnog_pos_X4": 231,
@@ -179,6 +219,7 @@
     {
       "seqnames": "MAG06_793",
       "gene_ID": "MAG06_793_2",
+      "gene_strand": "+",
       "eggnog_pos_X2": "216596.RL3870",
       "eggnog_pos_X3": 70.3,
       "eggnog_pos_X4": 229,
@@ -196,6 +237,7 @@
     {
       "seqnames": "MAG06_793",
       "gene_ID": "MAG06_793_2",
+      "gene_strand": "+",
       "eggnog_pos_X2": "491916.RHECIAT_CH0003651",
       "eggnog_pos_X3": 70.4,
       "eggnog_pos_X4": 223,
@@ -213,6 +255,7 @@
     {
       "seqnames": "MAG06_793",
       "gene_ID": "MAG06_793_3",
+      "gene_strand": "+",
       "eggnog_pos_X2": "224914.BAWG_1958",
       "eggnog_pos_X3": 86,
       "eggnog_pos_X4": 150,
@@ -230,6 +273,7 @@
     {
       "seqnames": "MAG06_793",
       "gene_ID": "MAG06_793_3",
+      "gene_strand": "+",
       "eggnog_pos_X2": "430066.BAbS19_II05420",
       "eggnog_pos_X3": 86,
       "eggnog_pos_X4": 150,
@@ -247,6 +291,7 @@
     {
       "seqnames": "MAG06_793",
       "gene_ID": "MAG06_793_3",
+      "gene_strand": "+",
       "eggnog_pos_X2": "439375.Oant_3768",
       "eggnog_pos_X3": 86,
       "eggnog_pos_X4": 150,

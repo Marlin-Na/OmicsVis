@@ -26,7 +26,27 @@
       "gene_sscore": "3.22",
       "gene_rscore": "0.00",
       "gene_uscore": "0.00",
-      "gene_tscore": "3.22"
+      "gene_tscore": "3.22",
+      "metric_1": 58,
+      "metric_2": 43,
+      "metric_3": 50,
+      "metric_4": 52,
+      "metric_5": 91,
+      "metric_8": 31,
+      "metric_10": 59,
+      "metric_12": 27,
+      "metric_13": 50,
+      "metric_14": 61,
+      "metric_15": 12,
+      "metric_16": 97,
+      "metric_20": 88,
+      "metric_21": 92,
+      "metric_22": 17,
+      "metric_23": 64,
+      "metric_24": 42,
+      "metric_25": 16,
+      "metric_28": 86,
+      "metric_30": 40
     },
     {
       "gene_seqnames": "MAG06_8",
@@ -59,7 +79,19 @@
       "eggnog_X10": "01SFA@aproNOG,05EE0@bactNOG,16R9R@proNOG,COG0673@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "S",
-      "eggnog_X13": "oxidoreductase"
+      "eggnog_X13": "oxidoreductase",
+      "metric_1": 8,
+      "metric_3": 28,
+      "metric_12": 98,
+      "metric_17": 92,
+      "metric_18": 23,
+      "metric_19": 72,
+      "metric_21": 60,
+      "metric_22": 47,
+      "metric_23": 42,
+      "metric_26": 43,
+      "metric_29": 70,
+      "metric_30": 6
     },
     {
       "gene_seqnames": "MAG06_8",
@@ -93,17 +125,26 @@
       "eggnog_X10": "01TZK@aproNOG,05CPC@bactNOG,16QFE@proNOG,COG0667@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "C",
-      "eggnog_X13": "Aldo keto reductase"
+      "eggnog_X13": "Aldo keto reductase",
+      "metric_3": 3,
+      "metric_4": 96,
+      "metric_6": 34,
+      "metric_9": 66,
+      "metric_12": 39,
+      "metric_15": 86,
+      "metric_16": 82,
+      "metric_17": 39,
+      "metric_18": 99,
+      "metric_21": 55,
+      "metric_23": 47,
+      "metric_28": 19
     }
   ],
   "diamond_track": [
     {
       "seqnames": "MAG06_8",
-      "gene_ID": "MAG06_8_1"
-    },
-    {
-      "seqnames": "MAG06_8",
       "gene_ID": "MAG06_8_2",
+      "gene_strand": "-",
       "eggnog_pos_X2": "266834.SMc00375",
       "eggnog_pos_X3": 99.7,
       "eggnog_pos_X4": 328,
@@ -121,6 +162,7 @@
     {
       "seqnames": "MAG06_8",
       "gene_ID": "MAG06_8_3",
+      "gene_strand": "+",
       "eggnog_pos_X2": "266834.SMc00374",
       "eggnog_pos_X3": 98.1,
       "eggnog_pos_X4": 314,

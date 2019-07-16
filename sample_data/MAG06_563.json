@@ -37,7 +37,21 @@
       "eggnog_X10": "01QVU@aproNOG,05BZ6@bactNOG,16QGR@proNOG,COG0260@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "E",
-      "eggnog_X13": "Presumably involved in the processing and regular turnover of intracellular proteins. Catalyzes the removal of unsubstituted N-terminal amino acids from various peptides (By similarity)"
+      "eggnog_X13": "Presumably involved in the processing and regular turnover of intracellular proteins. Catalyzes the removal of unsubstituted N-terminal amino acids from various peptides (By similarity)",
+      "metric_1": 14,
+      "metric_2": 86,
+      "metric_4": 21,
+      "metric_9": 52,
+      "metric_11": 78,
+      "metric_17": 73,
+      "metric_18": 26,
+      "metric_19": 91,
+      "metric_21": 81,
+      "metric_22": 23,
+      "metric_23": 14,
+      "metric_27": 47,
+      "metric_28": 51,
+      "metric_30": 1
     },
     {
       "gene_seqnames": "MAG06_563",
@@ -69,7 +83,22 @@
       "eggnog_X10": "01ZW3@aproNOG,05PED@bactNOG,11XUF@NOG,17H0N@proNOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "K",
-      "eggnog_X13": "Transcriptional regulator, MarR family"
+      "eggnog_X13": "Transcriptional regulator, MarR family",
+      "metric_2": 84,
+      "metric_4": 71,
+      "metric_6": 85,
+      "metric_9": 44,
+      "metric_10": 96,
+      "metric_12": 99,
+      "metric_13": 94,
+      "metric_14": 72,
+      "metric_16": 25,
+      "metric_20": 87,
+      "metric_23": 34,
+      "metric_24": 34,
+      "metric_25": 61,
+      "metric_26": 86,
+      "metric_28": 35
     },
     {
       "gene_seqnames": "MAG06_563",
@@ -101,13 +130,25 @@
       "eggnog_X10": "01U89@aproNOG,07SNG@bactNOG,175A7@proNOG,COG0791@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "M",
-      "eggnog_X13": "nlp p60 protein"
+      "eggnog_X13": "nlp p60 protein",
+      "metric_2": 48,
+      "metric_5": 94,
+      "metric_7": 53,
+      "metric_11": 13,
+      "metric_14": 41,
+      "metric_16": 10,
+      "metric_19": 58,
+      "metric_20": 45,
+      "metric_22": 78,
+      "metric_29": 92,
+      "metric_30": 22
     }
   ],
   "diamond_track": [
     {
       "seqnames": "MAG06_563",
       "gene_ID": "MAG06_563_1",
+      "gene_strand": "+",
       "eggnog_pos_X2": "266834.SMc02825",
       "eggnog_pos_X3": 98.4,
       "eggnog_pos_X4": 190,
@@ -125,6 +166,7 @@
     {
       "seqnames": "MAG06_563",
       "gene_ID": "MAG06_563_2",
+      "gene_strand": "+",
       "eggnog_pos_X2": "266834.SMc02826",
       "eggnog_pos_X3": 100,
       "eggnog_pos_X4": 114,
@@ -142,6 +184,7 @@
     {
       "seqnames": "MAG06_563",
       "gene_ID": "MAG06_563_2",
+      "gene_strand": "+",
       "eggnog_pos_X2": "394.NGR_c34760",
       "eggnog_pos_X3": 95.6,
       "eggnog_pos_X4": 114,
@@ -159,6 +202,7 @@
     {
       "seqnames": "MAG06_563",
       "gene_ID": "MAG06_563_3",
+      "gene_strand": "+",
       "eggnog_pos_X2": "266834.SMc02827",
       "eggnog_pos_X3": 99.3,
       "eggnog_pos_X4": 284,

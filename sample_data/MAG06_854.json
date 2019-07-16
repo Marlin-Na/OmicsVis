@@ -37,7 +37,20 @@
       "eggnog_X10": "01QVS@aproNOG,066UG@bactNOG,16TUQ@proNOG,COG1076@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "O",
-      "eggnog_X13": "Heat shock protein DnaJ domain protein"
+      "eggnog_X13": "Heat shock protein DnaJ domain protein",
+      "metric_4": 26,
+      "metric_5": 88,
+      "metric_7": 32,
+      "metric_11": 70,
+      "metric_15": 9,
+      "metric_18": 94,
+      "metric_19": 2,
+      "metric_24": 30,
+      "metric_25": 48,
+      "metric_26": 70,
+      "metric_27": 42,
+      "metric_28": 57,
+      "metric_30": 68
     },
     {
       "gene_seqnames": "MAG06_854",
@@ -72,7 +85,22 @@
       "eggnog_X10": "01QGY@aproNOG,08VBV@bactNOG,16R6F@proNOG,COG3023@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "M",
-      "eggnog_X13": "N-acetylmuramoyl-L-alanine amidase"
+      "eggnog_X13": "N-acetylmuramoyl-L-alanine amidase",
+      "metric_1": 62,
+      "metric_3": 37,
+      "metric_4": 89,
+      "metric_5": 30,
+      "metric_11": 13,
+      "metric_12": 22,
+      "metric_15": 51,
+      "metric_16": 5,
+      "metric_19": 40,
+      "metric_22": 55,
+      "metric_24": 16,
+      "metric_26": 35,
+      "metric_27": 18,
+      "metric_28": 7,
+      "metric_30": 57
     },
     {
       "gene_seqnames": "MAG06_854",
@@ -107,7 +135,21 @@
       "eggnog_X10": "01Z0J@aproNOG,080FA@bactNOG,17E09@proNOG,COG0741@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "M",
-      "eggnog_X13": "lytic transglycosylase"
+      "eggnog_X13": "lytic transglycosylase",
+      "metric_4": 85,
+      "metric_5": 54,
+      "metric_6": 99,
+      "metric_7": 85,
+      "metric_10": 30,
+      "metric_11": 20,
+      "metric_13": 34,
+      "metric_15": 75,
+      "metric_16": 52,
+      "metric_17": 66,
+      "metric_22": 87,
+      "metric_26": 46,
+      "metric_27": 63,
+      "metric_28": 83
     },
     {
       "gene_seqnames": "MAG06_854",
@@ -131,13 +173,28 @@
       "gene_sscore": "5.07",
       "gene_rscore": "2.74",
       "gene_uscore": "-0.87",
-      "gene_tscore": "3.20"
+      "gene_tscore": "3.20",
+      "metric_1": 44,
+      "metric_3": 49,
+      "metric_4": 97,
+      "metric_7": 68,
+      "metric_10": 45,
+      "metric_11": 51,
+      "metric_12": 83,
+      "metric_14": 97,
+      "metric_15": 45,
+      "metric_16": 73,
+      "metric_17": 1,
+      "metric_18": 46,
+      "metric_20": 67,
+      "metric_22": 60
     }
   ],
   "diamond_track": [
     {
       "seqnames": "MAG06_854",
       "gene_ID": "MAG06_854_1",
+      "gene_strand": "+",
       "eggnog_pos_X2": "266834.SMc01853",
       "eggnog_pos_X3": 89.8,
       "eggnog_pos_X4": 98,
@@ -155,6 +212,7 @@
     {
       "seqnames": "MAG06_854",
       "gene_ID": "MAG06_854_2",
+      "gene_strand": "+",
       "eggnog_pos_X2": "266834.SMc01854",
       "eggnog_pos_X3": 99.6,
       "eggnog_pos_X4": 251,
@@ -172,6 +230,7 @@
     {
       "seqnames": "MAG06_854",
       "gene_ID": "MAG06_854_3",
+      "gene_strand": "+",
       "eggnog_pos_X2": "266834.SMc01855",
       "eggnog_pos_X3": 99.4,
       "eggnog_pos_X4": 179,
@@ -185,10 +244,6 @@
       "eggnog_pos_X12": 357.1,
       "eggnog_pos_start": 1290,
       "eggnog_pos_end": 1824
-    },
-    {
-      "seqnames": "MAG06_854",
-      "gene_ID": "MAG06_854_4"
     }
   ]
 }

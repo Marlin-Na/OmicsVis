@@ -35,7 +35,20 @@
       "eggnog_X10": "01R97@aproNOG,05QNJ@bactNOG,16TVB@proNOG,COG2931@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "Q",
-      "eggnog_X13": "Serralysin"
+      "eggnog_X13": "Serralysin",
+      "metric_2": 48,
+      "metric_4": 58,
+      "metric_5": 32,
+      "metric_8": 70,
+      "metric_9": 15,
+      "metric_13": 47,
+      "metric_16": 99,
+      "metric_17": 26,
+      "metric_19": 96,
+      "metric_22": 90,
+      "metric_26": 86,
+      "metric_27": 83,
+      "metric_28": 75
     },
     {
       "gene_seqnames": "MAG06_873",
@@ -65,7 +78,24 @@
       "eggnog_X4": 91.7,
       "eggnog_X9": "bactNOG[38]",
       "eggnog_X10": "02AYP@aproNOG,07E4U@bactNOG,0ZCFB@NOG,189N7@proNOG",
-      "eggnog_X11": "NA|NA|NA"
+      "eggnog_X11": "NA|NA|NA",
+      "metric_1": 44,
+      "metric_2": 43,
+      "metric_6": 92,
+      "metric_9": 88,
+      "metric_11": 2,
+      "metric_12": 34,
+      "metric_13": 89,
+      "metric_15": 42,
+      "metric_17": 57,
+      "metric_18": 27,
+      "metric_22": 37,
+      "metric_23": 97,
+      "metric_24": 3,
+      "metric_26": 13,
+      "metric_27": 37,
+      "metric_29": 42,
+      "metric_30": 31
     },
     {
       "gene_seqnames": "MAG06_873",
@@ -98,7 +128,21 @@
       "eggnog_X10": "023BH@aproNOG,08K1D@bactNOG,17BHI@proNOG,COG3279@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "T",
-      "eggnog_X13": "regulator"
+      "eggnog_X13": "regulator",
+      "metric_2": 73,
+      "metric_4": 5,
+      "metric_6": 87,
+      "metric_8": 88,
+      "metric_12": 35,
+      "metric_15": 2,
+      "metric_16": 33,
+      "metric_17": 25,
+      "metric_18": 59,
+      "metric_20": 28,
+      "metric_21": 76,
+      "metric_25": 1,
+      "metric_26": 67,
+      "metric_29": 45
     },
     {
       "gene_seqnames": "MAG06_873",
@@ -134,7 +178,14 @@
       "eggnog_X10": "02E17@aproNOG,08HRK@bactNOG,172BU@proNOG,COG3275@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "T",
-      "eggnog_X13": "Histidine kinase"
+      "eggnog_X13": "Histidine kinase",
+      "metric_8": 36,
+      "metric_10": 3,
+      "metric_15": 93,
+      "metric_16": 41,
+      "metric_17": 29,
+      "metric_21": 59,
+      "metric_23": 35
     },
     {
       "gene_seqnames": "MAG06_873",
@@ -166,13 +217,23 @@
       "eggnog_X10": "08WUX@bactNOG,0BE34@bproNOG,12DCP@NOG,17BJE@proNOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "S",
-      "eggnog_X13": "outer membrane autotransporter barrel"
+      "eggnog_X13": "outer membrane autotransporter barrel",
+      "metric_10": 75,
+      "metric_11": 42,
+      "metric_17": 33,
+      "metric_20": 16,
+      "metric_21": 15,
+      "metric_23": 1,
+      "metric_26": 48,
+      "metric_27": 49,
+      "metric_29": 26
     }
   ],
   "diamond_track": [
     {
       "seqnames": "MAG06_873",
       "gene_ID": "MAG06_873_1",
+      "gene_strand": "+",
       "eggnog_pos_X2": "911045.PSE_1174",
       "eggnog_pos_X3": 75.5,
       "eggnog_pos_X4": 331,
@@ -190,6 +251,7 @@
     {
       "seqnames": "MAG06_873",
       "gene_ID": "MAG06_873_1",
+      "gene_strand": "+",
       "eggnog_pos_X2": "911045.PSE_1174",
       "eggnog_pos_X3": 26.3,
       "eggnog_pos_X4": 285,
@@ -207,6 +269,7 @@
     {
       "seqnames": "MAG06_873",
       "gene_ID": "MAG06_873_1",
+      "gene_strand": "+",
       "eggnog_pos_X2": "911045.PSE_1174",
       "eggnog_pos_X3": 41.1,
       "eggnog_pos_X4": 95,
@@ -224,6 +287,7 @@
     {
       "seqnames": "MAG06_873",
       "gene_ID": "MAG06_873_1",
+      "gene_strand": "+",
       "eggnog_pos_X2": "911045.PSE_1174",
       "eggnog_pos_X3": 28,
       "eggnog_pos_X4": 254,
@@ -241,6 +305,7 @@
     {
       "seqnames": "MAG06_873",
       "gene_ID": "MAG06_873_1",
+      "gene_strand": "+",
       "eggnog_pos_X2": "911045.PSE_1174",
       "eggnog_pos_X3": 30.2,
       "eggnog_pos_X4": 179,
@@ -258,6 +323,7 @@
     {
       "seqnames": "MAG06_873",
       "gene_ID": "MAG06_873_1",
+      "gene_strand": "+",
       "eggnog_pos_X2": "911045.PSE_1174",
       "eggnog_pos_X3": 46.7,
       "eggnog_pos_X4": 30,
@@ -275,6 +341,7 @@
     {
       "seqnames": "MAG06_873",
       "gene_ID": "MAG06_873_1",
+      "gene_strand": "+",
       "eggnog_pos_X2": "911045.PSE_1174",
       "eggnog_pos_X3": 25.1,
       "eggnog_pos_X4": 243,
@@ -292,6 +359,7 @@
     {
       "seqnames": "MAG06_873",
       "gene_ID": "MAG06_873_2",
+      "gene_strand": "+",
       "eggnog_pos_X2": "391619.RGBS107_01698",
       "eggnog_pos_X3": 44.1,
       "eggnog_pos_X4": 127,
@@ -309,6 +377,7 @@
     {
       "seqnames": "MAG06_873",
       "gene_ID": "MAG06_873_3",
+      "gene_strand": "-",
       "eggnog_pos_X2": "438753.AZC_1299",
       "eggnog_pos_X3": 45.7,
       "eggnog_pos_X4": 234,
@@ -326,6 +395,7 @@
     {
       "seqnames": "MAG06_873",
       "gene_ID": "MAG06_873_3",
+      "gene_strand": "-",
       "eggnog_pos_X2": "1007105.PT7_2262",
       "eggnog_pos_X3": 43.5,
       "eggnog_pos_X4": 248,
@@ -343,6 +413,7 @@
     {
       "seqnames": "MAG06_873",
       "gene_ID": "MAG06_873_4",
+      "gene_strand": "-",
       "eggnog_pos_X2": "384765.SIAM614_30501",
       "eggnog_pos_X3": 46.1,
       "eggnog_pos_X4": 336,
@@ -360,6 +431,7 @@
     {
       "seqnames": "MAG06_873",
       "gene_ID": "MAG06_873_5",
+      "gene_strand": "+",
       "eggnog_pos_X2": "762376.AXYL_03160",
       "eggnog_pos_X3": 36.2,
       "eggnog_pos_X4": 431,
@@ -377,6 +449,7 @@
     {
       "seqnames": "MAG06_873",
       "gene_ID": "MAG06_873_5",
+      "gene_strand": "+",
       "eggnog_pos_X2": "762376.AXYL_03160",
       "eggnog_pos_X3": 30.3,
       "eggnog_pos_X4": 422,
@@ -394,6 +467,7 @@
     {
       "seqnames": "MAG06_873",
       "gene_ID": "MAG06_873_5",
+      "gene_strand": "+",
       "eggnog_pos_X2": "762376.AXYL_03160",
       "eggnog_pos_X3": 25.7,
       "eggnog_pos_X4": 436,
@@ -411,6 +485,7 @@
     {
       "seqnames": "MAG06_873",
       "gene_ID": "MAG06_873_5",
+      "gene_strand": "+",
       "eggnog_pos_X2": "340100.Bpet3980",
       "eggnog_pos_X3": 36.5,
       "eggnog_pos_X4": 430,

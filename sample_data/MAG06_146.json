@@ -36,7 +36,17 @@
       "eggnog_X10": "01QBH@aproNOG,05TIB@bactNOG,16SZ5@proNOG,COG2113@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "E",
-      "eggnog_X13": "Glycine betaine"
+      "eggnog_X13": "Glycine betaine",
+      "metric_2": 72,
+      "metric_3": 71,
+      "metric_7": 91,
+      "metric_10": 12,
+      "metric_11": 40,
+      "metric_13": 42,
+      "metric_15": 17,
+      "metric_16": 72,
+      "metric_22": 84,
+      "metric_26": 41
     },
     {
       "gene_seqnames": "MAG06_146",
@@ -60,7 +70,26 @@
       "gene_sscore": "1.91",
       "gene_rscore": "1.14",
       "gene_uscore": "-0.64",
-      "gene_tscore": "2.06"
+      "gene_tscore": "2.06",
+      "metric_3": 73,
+      "metric_4": 42,
+      "metric_5": 79,
+      "metric_7": 49,
+      "metric_8": 12,
+      "metric_11": 73,
+      "metric_13": 98,
+      "metric_14": 44,
+      "metric_15": 13,
+      "metric_17": 47,
+      "metric_18": 94,
+      "metric_19": 59,
+      "metric_22": 34,
+      "metric_23": 18,
+      "metric_24": 94,
+      "metric_26": 32,
+      "metric_27": 3,
+      "metric_28": 34,
+      "metric_29": 27
     },
     {
       "gene_seqnames": "MAG06_146",
@@ -95,13 +124,27 @@
       "eggnog_X10": "01QU3@aproNOG,05CAA@bactNOG,16PTF@proNOG,COG1492@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "H",
-      "eggnog_X13": "Catalyzes amidations at positions B, D, E, and G on adenosylcobyrinic A,C-diamide. NH(2) groups are provided by glutamine, and one molecule of ATP is hydrogenolyzed for each amidation (By similarity)"
+      "eggnog_X13": "Catalyzes amidations at positions B, D, E, and G on adenosylcobyrinic A,C-diamide. NH(2) groups are provided by glutamine, and one molecule of ATP is hydrogenolyzed for each amidation (By similarity)",
+      "metric_5": 77,
+      "metric_6": 18,
+      "metric_7": 7,
+      "metric_9": 44,
+      "metric_11": 46,
+      "metric_16": 77,
+      "metric_17": 95,
+      "metric_20": 7,
+      "metric_21": 48,
+      "metric_22": 20,
+      "metric_25": 61,
+      "metric_27": 86,
+      "metric_28": 34
     }
   ],
   "diamond_track": [
     {
       "seqnames": "MAG06_146",
       "gene_ID": "MAG06_146_1",
+      "gene_strand": "-",
       "eggnog_pos_X2": "266834.SMc04311",
       "eggnog_pos_X3": 98.5,
       "eggnog_pos_X4": 270,
@@ -118,11 +161,8 @@
     },
     {
       "seqnames": "MAG06_146",
-      "gene_ID": "MAG06_146_2"
-    },
-    {
-      "seqnames": "MAG06_146",
       "gene_ID": "MAG06_146_3",
+      "gene_strand": "+",
       "eggnog_pos_X2": "394.NGR_c18240",
       "eggnog_pos_X3": 87.5,
       "eggnog_pos_X4": 375,

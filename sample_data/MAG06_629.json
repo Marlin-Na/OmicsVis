@@ -36,7 +36,21 @@
       "eggnog_X10": "01QUC@aproNOG,05CHM@bactNOG,16TI0@proNOG,COG0436@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "E",
-      "eggnog_X13": "Aspartate aminotransferase"
+      "eggnog_X13": "Aspartate aminotransferase",
+      "metric_1": 8,
+      "metric_3": 15,
+      "metric_4": 93,
+      "metric_7": 82,
+      "metric_9": 15,
+      "metric_12": 8,
+      "metric_14": 74,
+      "metric_21": 85,
+      "metric_22": 21,
+      "metric_23": 12,
+      "metric_24": 27,
+      "metric_26": 93,
+      "metric_27": 18,
+      "metric_30": 42
     },
     {
       "gene_seqnames": "MAG06_629",
@@ -71,7 +85,18 @@
       "eggnog_X10": "0205C@aproNOG,05M2E@bactNOG,17CA1@proNOG,COG1970@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "M",
-      "eggnog_X13": "Channel that opens in response to stretch forces in the membrane lipid bilayer. May participate in the regulation of osmotic pressure changes within the cell (By similarity)"
+      "eggnog_X13": "Channel that opens in response to stretch forces in the membrane lipid bilayer. May participate in the regulation of osmotic pressure changes within the cell (By similarity)",
+      "metric_4": 88,
+      "metric_5": 34,
+      "metric_7": 93,
+      "metric_13": 66,
+      "metric_17": 20,
+      "metric_21": 73,
+      "metric_23": 66,
+      "metric_24": 72,
+      "metric_25": 42,
+      "metric_26": 59,
+      "metric_27": 12
     },
     {
       "gene_seqnames": "MAG06_629",
@@ -105,13 +130,25 @@
       "eggnog_X10": "01RMU@aproNOG,05BZU@bactNOG,0XNMH@NOG,16QSK@proNOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "T",
-      "eggnog_X13": "Histidine kinase"
+      "eggnog_X13": "Histidine kinase",
+      "metric_4": 36,
+      "metric_5": 2,
+      "metric_6": 77,
+      "metric_8": 62,
+      "metric_10": 5,
+      "metric_14": 13,
+      "metric_17": 52,
+      "metric_18": 96,
+      "metric_22": 88,
+      "metric_26": 80,
+      "metric_27": 41
     }
   ],
   "diamond_track": [
     {
       "seqnames": "MAG06_629",
       "gene_ID": "MAG06_629_1",
+      "gene_strand": "-",
       "eggnog_pos_X2": "266834.SMc02251",
       "eggnog_pos_X3": 98.2,
       "eggnog_pos_X4": 169,
@@ -129,6 +166,7 @@
     {
       "seqnames": "MAG06_629",
       "gene_ID": "MAG06_629_2",
+      "gene_strand": "-",
       "eggnog_pos_X2": "266834.SMc02250",
       "eggnog_pos_X3": 98.6,
       "eggnog_pos_X4": 142,
@@ -146,6 +184,7 @@
     {
       "seqnames": "MAG06_629",
       "gene_ID": "MAG06_629_3",
+      "gene_strand": "+",
       "eggnog_pos_X2": "266834.SMc02249",
       "eggnog_pos_X3": 99.8,
       "eggnog_pos_X4": 532,

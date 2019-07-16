@@ -36,7 +36,21 @@
       "eggnog_X10": "02E14@aproNOG,08HRC@bactNOG,0XP44@NOG,172BM@proNOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "S",
-      "eggnog_X13": "Alpha Beta Hydrolase Fold protein"
+      "eggnog_X13": "Alpha Beta Hydrolase Fold protein",
+      "metric_1": 54,
+      "metric_4": 69,
+      "metric_6": 84,
+      "metric_7": 25,
+      "metric_9": 3,
+      "metric_13": 46,
+      "metric_15": 77,
+      "metric_18": 34,
+      "metric_19": 94,
+      "metric_21": 65,
+      "metric_22": 35,
+      "metric_23": 27,
+      "metric_28": 99,
+      "metric_30": 46
     },
     {
       "gene_seqnames": "MAG06_715",
@@ -70,13 +84,34 @@
       "eggnog_X10": "01S6M@aproNOG,06TPP@bactNOG,16QYG@proNOG,COG1252@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "C",
-      "eggnog_X13": "fad-dependent pyridine nucleotide-disulfide oxidoreductase"
+      "eggnog_X13": "fad-dependent pyridine nucleotide-disulfide oxidoreductase",
+      "metric_1": 39,
+      "metric_4": 62,
+      "metric_5": 76,
+      "metric_6": 14,
+      "metric_7": 49,
+      "metric_8": 36,
+      "metric_9": 95,
+      "metric_10": 11,
+      "metric_13": 58,
+      "metric_14": 23,
+      "metric_15": 47,
+      "metric_16": 16,
+      "metric_18": 24,
+      "metric_19": 28,
+      "metric_22": 79,
+      "metric_24": 46,
+      "metric_25": 80,
+      "metric_27": 71,
+      "metric_28": 2,
+      "metric_29": 20
     }
   ],
   "diamond_track": [
     {
       "seqnames": "MAG06_715",
       "gene_ID": "MAG06_715_1",
+      "gene_strand": "+",
       "eggnog_pos_X2": "402881.Plav_2363",
       "eggnog_pos_X3": 76.6,
       "eggnog_pos_X4": 205,
@@ -94,6 +129,7 @@
     {
       "seqnames": "MAG06_715",
       "gene_ID": "MAG06_715_2",
+      "gene_strand": "+",
       "eggnog_pos_X2": "1037409.BJ6T_28930",
       "eggnog_pos_X3": 75.8,
       "eggnog_pos_X4": 401,
@@ -111,6 +147,7 @@
     {
       "seqnames": "MAG06_715",
       "gene_ID": "MAG06_715_2",
+      "gene_strand": "+",
       "eggnog_pos_X2": "504832.OCA5_c13110",
       "eggnog_pos_X3": 76.6,
       "eggnog_pos_X4": 401,
@@ -128,6 +165,7 @@
     {
       "seqnames": "MAG06_715",
       "gene_ID": "MAG06_715_2",
+      "gene_strand": "+",
       "eggnog_pos_X2": "504832.OCAR_6763",
       "eggnog_pos_X3": 76.6,
       "eggnog_pos_X4": 401,
@@ -145,6 +183,7 @@
     {
       "seqnames": "MAG06_715",
       "gene_ID": "MAG06_715_2",
+      "gene_strand": "+",
       "eggnog_pos_X2": "224911.bll2792",
       "eggnog_pos_X3": 75.1,
       "eggnog_pos_X4": 401,
@@ -162,6 +201,7 @@
     {
       "seqnames": "MAG06_715",
       "gene_ID": "MAG06_715_2",
+      "gene_strand": "+",
       "eggnog_pos_X2": "340100.Bpet3929",
       "eggnog_pos_X3": 74.8,
       "eggnog_pos_X4": 401,
@@ -179,6 +219,7 @@
     {
       "seqnames": "MAG06_715",
       "gene_ID": "MAG06_715_2",
+      "gene_strand": "+",
       "eggnog_pos_X2": "1037409.BJ6T_62560",
       "eggnog_pos_X3": 73.1,
       "eggnog_pos_X4": 401,

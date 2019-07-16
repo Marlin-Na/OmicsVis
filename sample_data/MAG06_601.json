@@ -37,7 +37,21 @@
       "eggnog_X10": "01QQH@aproNOG,05C24@bactNOG,16QAH@proNOG,COG0188@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "L",
-      "eggnog_X13": "DNA gyrase negatively supercoils closed circular double- stranded DNA in an ATP-dependent manner and also catalyzes the interconversion of other topological isomers of double-stranded DNA rings, including catenanes and knotted rings (By similarity)"
+      "eggnog_X13": "DNA gyrase negatively supercoils closed circular double- stranded DNA in an ATP-dependent manner and also catalyzes the interconversion of other topological isomers of double-stranded DNA rings, including catenanes and knotted rings (By similarity)",
+      "metric_3": 33,
+      "metric_4": 60,
+      "metric_8": 75,
+      "metric_10": 42,
+      "metric_11": 37,
+      "metric_13": 72,
+      "metric_16": 69,
+      "metric_18": 88,
+      "metric_20": 96,
+      "metric_22": 15,
+      "metric_25": 80,
+      "metric_26": 10,
+      "metric_27": 86,
+      "metric_28": 28
     },
     {
       "gene_seqnames": "MAG06_601",
@@ -71,7 +85,21 @@
       "eggnog_X10": "01VXA@aproNOG,05EZI@bactNOG,16SP2@proNOG,COG2095@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "U",
-      "eggnog_X13": "Multiple antibiotic resistance (MarC)-related protein"
+      "eggnog_X13": "Multiple antibiotic resistance (MarC)-related protein",
+      "metric_2": 57,
+      "metric_4": 77,
+      "metric_8": 18,
+      "metric_10": 18,
+      "metric_11": 41,
+      "metric_12": 88,
+      "metric_14": 94,
+      "metric_15": 97,
+      "metric_17": 99,
+      "metric_18": 20,
+      "metric_22": 38,
+      "metric_25": 43,
+      "metric_27": 16,
+      "metric_30": 18
     },
     {
       "gene_seqnames": "MAG06_601",
@@ -106,7 +134,22 @@
       "eggnog_X10": "01X0Q@aproNOG,08UUM@bactNOG,17CF7@proNOG,COG0629@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "L",
-      "eggnog_X13": "single-stranded DNA-binding protein"
+      "eggnog_X13": "single-stranded DNA-binding protein",
+      "metric_1": 73,
+      "metric_5": 4,
+      "metric_6": 90,
+      "metric_7": 18,
+      "metric_10": 93,
+      "metric_11": 42,
+      "metric_12": 23,
+      "metric_15": 99,
+      "metric_17": 9,
+      "metric_19": 26,
+      "metric_21": 75,
+      "metric_23": 61,
+      "metric_27": 4,
+      "metric_28": 77,
+      "metric_29": 28
     },
     {
       "gene_seqnames": "MAG06_601",
@@ -141,13 +184,32 @@
       "eggnog_X10": "01QP2@aproNOG,05C5U@bactNOG,16PIE@proNOG,COG0178@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "L",
-      "eggnog_X13": "The UvrABC repair system catalyzes the recognition and processing of DNA lesions. UvrA is an ATPase and a DNA-binding protein. A damage recognition complex composed of 2 UvrA and 2 UvrB subunits scans DNA for abnormalities. When the presence of a lesion has been verified by UvrB, the UvrA molecules dissociate (By similarity)"
+      "eggnog_X13": "The UvrABC repair system catalyzes the recognition and processing of DNA lesions. UvrA is an ATPase and a DNA-binding protein. A damage recognition complex composed of 2 UvrA and 2 UvrB subunits scans DNA for abnormalities. When the presence of a lesion has been verified by UvrB, the UvrA molecules dissociate (By similarity)",
+      "metric_3": 57,
+      "metric_4": 26,
+      "metric_7": 24,
+      "metric_8": 47,
+      "metric_11": 59,
+      "metric_13": 58,
+      "metric_14": 99,
+      "metric_15": 5,
+      "metric_16": 93,
+      "metric_20": 57,
+      "metric_21": 30,
+      "metric_22": 14,
+      "metric_23": 93,
+      "metric_24": 60,
+      "metric_25": 87,
+      "metric_26": 57,
+      "metric_29": 71,
+      "metric_30": 73
     }
   ],
   "diamond_track": [
     {
       "seqnames": "MAG06_601",
       "gene_ID": "MAG06_601_1",
+      "gene_strand": "-",
       "eggnog_pos_X2": "266834.SMc01231",
       "eggnog_pos_X3": 100,
       "eggnog_pos_X4": 38,
@@ -165,6 +227,7 @@
     {
       "seqnames": "MAG06_601",
       "gene_ID": "MAG06_601_1",
+      "gene_strand": "-",
       "eggnog_pos_X2": "366394.Smed_1241",
       "eggnog_pos_X3": 100,
       "eggnog_pos_X4": 38,
@@ -182,6 +245,7 @@
     {
       "seqnames": "MAG06_601",
       "gene_ID": "MAG06_601_2",
+      "gene_strand": "+",
       "eggnog_pos_X2": "266834.SMc01232",
       "eggnog_pos_X3": 99.5,
       "eggnog_pos_X4": 209,
@@ -199,6 +263,7 @@
     {
       "seqnames": "MAG06_601",
       "gene_ID": "MAG06_601_2",
+      "gene_strand": "+",
       "eggnog_pos_X2": "366394.Smed_1240",
       "eggnog_pos_X3": 96.7,
       "eggnog_pos_X4": 209,
@@ -216,6 +281,7 @@
     {
       "seqnames": "MAG06_601",
       "gene_ID": "MAG06_601_3",
+      "gene_strand": "-",
       "eggnog_pos_X2": "266834.SMc01233",
       "eggnog_pos_X3": 100,
       "eggnog_pos_X4": 174,
@@ -233,6 +299,7 @@
     {
       "seqnames": "MAG06_601",
       "gene_ID": "MAG06_601_4",
+      "gene_strand": "+",
       "eggnog_pos_X2": "266834.SMc01235",
       "eggnog_pos_X3": 97.1,
       "eggnog_pos_X4": 412,
@@ -250,6 +317,7 @@
     {
       "seqnames": "MAG06_601",
       "gene_ID": "MAG06_601_4",
+      "gene_strand": "+",
       "eggnog_pos_X2": "266834.SMc01235",
       "eggnog_pos_X3": 32.3,
       "eggnog_pos_X4": 127,
@@ -267,6 +335,7 @@
     {
       "seqnames": "MAG06_601",
       "gene_ID": "MAG06_601_4",
+      "gene_strand": "+",
       "eggnog_pos_X2": "366394.Smed_1235",
       "eggnog_pos_X3": 94.4,
       "eggnog_pos_X4": 412,
@@ -284,6 +353,7 @@
     {
       "seqnames": "MAG06_601",
       "gene_ID": "MAG06_601_4",
+      "gene_strand": "+",
       "eggnog_pos_X2": "366394.Smed_1235",
       "eggnog_pos_X3": 31.5,
       "eggnog_pos_X4": 127,

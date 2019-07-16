@@ -37,7 +37,20 @@
       "eggnog_X10": "01R4Q@aproNOG,07QXI@bactNOG,16QUP@proNOG,COG1206@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "J",
-      "eggnog_X13": "Catalyzes the folate-dependent formation of 5-methyl- uridine at position 54 (M-5-U54) in all tRNAs (By similarity)"
+      "eggnog_X13": "Catalyzes the folate-dependent formation of 5-methyl- uridine at position 54 (M-5-U54) in all tRNAs (By similarity)",
+      "metric_3": 71,
+      "metric_9": 6,
+      "metric_12": 66,
+      "metric_13": 50,
+      "metric_16": 86,
+      "metric_18": 81,
+      "metric_20": 73,
+      "metric_22": 10,
+      "metric_24": 27,
+      "metric_25": 46,
+      "metric_26": 38,
+      "metric_28": 81,
+      "metric_29": 52
     },
     {
       "gene_seqnames": "MAG06_459",
@@ -69,7 +82,20 @@
       "eggnog_X10": "029UC@aproNOG,07DEY@bactNOG,18780@proNOG,COG5457@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "S",
-      "eggnog_X13": "Domain of unknown function (DUF1127)"
+      "eggnog_X13": "Domain of unknown function (DUF1127)",
+      "metric_1": 27,
+      "metric_2": 26,
+      "metric_4": 97,
+      "metric_6": 79,
+      "metric_7": 62,
+      "metric_9": 4,
+      "metric_11": 75,
+      "metric_12": 95,
+      "metric_13": 83,
+      "metric_18": 97,
+      "metric_22": 99,
+      "metric_24": 10,
+      "metric_26": 1
     },
     {
       "gene_seqnames": "MAG06_459",
@@ -101,13 +127,28 @@
       "eggnog_X10": "024JE@aproNOG,06CAZ@bactNOG,17U9Q@proNOG,COG5457@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "S",
-      "eggnog_X13": "Domain of unknown function (DUF1127)"
+      "eggnog_X13": "Domain of unknown function (DUF1127)",
+      "metric_2": 70,
+      "metric_3": 92,
+      "metric_4": 98,
+      "metric_7": 21,
+      "metric_10": 36,
+      "metric_12": 1,
+      "metric_15": 30,
+      "metric_16": 14,
+      "metric_18": 21,
+      "metric_19": 92,
+      "metric_23": 64,
+      "metric_24": 54,
+      "metric_28": 48,
+      "metric_30": 4
     }
   ],
   "diamond_track": [
     {
       "seqnames": "MAG06_459",
       "gene_ID": "MAG06_459_1",
+      "gene_strand": "-",
       "eggnog_pos_X2": "266834.SMc02053",
       "eggnog_pos_X3": 99.5,
       "eggnog_pos_X4": 218,
@@ -125,6 +166,7 @@
     {
       "seqnames": "MAG06_459",
       "gene_ID": "MAG06_459_2",
+      "gene_strand": "-",
       "eggnog_pos_X2": "266834.SMc02052",
       "eggnog_pos_X3": 100,
       "eggnog_pos_X4": 47,
@@ -142,6 +184,7 @@
     {
       "seqnames": "MAG06_459",
       "gene_ID": "MAG06_459_2",
+      "gene_strand": "-",
       "eggnog_pos_X2": "366394.Smed_1179",
       "eggnog_pos_X3": 100,
       "eggnog_pos_X4": 47,
@@ -159,6 +202,7 @@
     {
       "seqnames": "MAG06_459",
       "gene_ID": "MAG06_459_3",
+      "gene_strand": "-",
       "eggnog_pos_X2": "266834.SMc02051",
       "eggnog_pos_X3": 100,
       "eggnog_pos_X4": 47,
@@ -176,6 +220,7 @@
     {
       "seqnames": "MAG06_459",
       "gene_ID": "MAG06_459_3",
+      "gene_strand": "-",
       "eggnog_pos_X2": "366394.Smed_1180",
       "eggnog_pos_X3": 100,
       "eggnog_pos_X4": 47,

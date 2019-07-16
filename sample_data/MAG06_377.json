@@ -38,7 +38,22 @@
       "eggnog_X10": "021RJ@aproNOG,05VEQ@bactNOG,17JS4@proNOG,COG1278@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "K",
-      "eggnog_X13": "Cold shock protein"
+      "eggnog_X13": "Cold shock protein",
+      "metric_1": 62,
+      "metric_3": 23,
+      "metric_6": 65,
+      "metric_7": 79,
+      "metric_13": 52,
+      "metric_14": 23,
+      "metric_16": 10,
+      "metric_18": 39,
+      "metric_19": 14,
+      "metric_20": 50,
+      "metric_24": 19,
+      "metric_25": 36,
+      "metric_27": 82,
+      "metric_28": 57,
+      "metric_30": 15
     },
     {
       "gene_seqnames": "MAG06_377",
@@ -73,13 +88,31 @@
       "eggnog_X10": "01R0T@aproNOG,05CEH@bactNOG,16Q84@proNOG,COG0042@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "J",
-      "eggnog_X13": "Catalyzes the synthesis of dihydrouridine, a modified base found in the D-loop of most tRNAs (By similarity)"
+      "eggnog_X13": "Catalyzes the synthesis of dihydrouridine, a modified base found in the D-loop of most tRNAs (By similarity)",
+      "metric_2": 52,
+      "metric_4": 13,
+      "metric_6": 2,
+      "metric_7": 96,
+      "metric_8": 76,
+      "metric_11": 58,
+      "metric_12": 27,
+      "metric_13": 37,
+      "metric_15": 19,
+      "metric_16": 99,
+      "metric_19": 2,
+      "metric_20": 56,
+      "metric_23": 46,
+      "metric_24": 4,
+      "metric_26": 15,
+      "metric_29": 34,
+      "metric_30": 15
     }
   ],
   "diamond_track": [
     {
       "seqnames": "MAG06_377",
       "gene_ID": "MAG06_377_1",
+      "gene_strand": "+",
       "eggnog_pos_X2": "266834.SMc04234",
       "eggnog_pos_X3": 100,
       "eggnog_pos_X4": 70,
@@ -97,6 +130,7 @@
     {
       "seqnames": "MAG06_377",
       "gene_ID": "MAG06_377_1",
+      "gene_strand": "+",
       "eggnog_pos_X2": "366394.Smed_1620",
       "eggnog_pos_X3": 100,
       "eggnog_pos_X4": 70,
@@ -114,6 +148,7 @@
     {
       "seqnames": "MAG06_377",
       "gene_ID": "MAG06_377_2",
+      "gene_strand": "-",
       "eggnog_pos_X2": "266834.SMc04235",
       "eggnog_pos_X3": 99.2,
       "eggnog_pos_X4": 356,

@@ -37,7 +37,21 @@
       "eggnog_X10": "01R1Z@aproNOG,05CHN@bactNOG,16PKE@proNOG,COG1219@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "O",
-      "eggnog_X13": "ATP-dependent specificity component of the Clp protease. It directs the protease to specific substrates. Can perform chaperone functions in the absence of ClpP (By similarity)"
+      "eggnog_X13": "ATP-dependent specificity component of the Clp protease. It directs the protease to specific substrates. Can perform chaperone functions in the absence of ClpP (By similarity)",
+      "metric_2": 77,
+      "metric_3": 66,
+      "metric_4": 39,
+      "metric_5": 16,
+      "metric_6": 2,
+      "metric_7": 76,
+      "metric_8": 68,
+      "metric_10": 42,
+      "metric_16": 26,
+      "metric_17": 52,
+      "metric_18": 46,
+      "metric_21": 30,
+      "metric_24": 37,
+      "metric_28": 33
     },
     {
       "gene_seqnames": "MAG06_188",
@@ -72,13 +86,24 @@
       "eggnog_X10": "01QS5@aproNOG,05C6P@bactNOG,16PRM@proNOG,COG0466@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "O",
-      "eggnog_X13": "ATP-dependent serine protease that mediates the selective degradation of mutant and abnormal proteins as well as certain short-lived regulatory proteins. Required for cellular homeostasis and for survival from DNA damage and developmental changes induced by stress. Degrades polypeptides processively to yield small peptide fragments that are 5 to 10 amino acids long. Binds to DNA in a double-stranded, site-specific manner (By similarity)"
+      "eggnog_X13": "ATP-dependent serine protease that mediates the selective degradation of mutant and abnormal proteins as well as certain short-lived regulatory proteins. Required for cellular homeostasis and for survival from DNA damage and developmental changes induced by stress. Degrades polypeptides processively to yield small peptide fragments that are 5 to 10 amino acids long. Binds to DNA in a double-stranded, site-specific manner (By similarity)",
+      "metric_8": 42,
+      "metric_11": 13,
+      "metric_12": 93,
+      "metric_14": 29,
+      "metric_18": 52,
+      "metric_21": 80,
+      "metric_22": 31,
+      "metric_23": 72,
+      "metric_27": 33,
+      "metric_30": 24
     }
   ],
   "diamond_track": [
     {
       "seqnames": "MAG06_188",
       "gene_ID": "MAG06_188_1",
+      "gene_strand": "+",
       "eggnog_pos_X2": "1117943.SFHH103_00974",
       "eggnog_pos_X3": 97.1,
       "eggnog_pos_X4": 244,
@@ -96,6 +121,7 @@
     {
       "seqnames": "MAG06_188",
       "gene_ID": "MAG06_188_1",
+      "gene_strand": "+",
       "eggnog_pos_X2": "347834.RHE_CH01588",
       "eggnog_pos_X3": 94.3,
       "eggnog_pos_X4": 244,
@@ -113,6 +139,7 @@
     {
       "seqnames": "MAG06_188",
       "gene_ID": "MAG06_188_1",
+      "gene_strand": "+",
       "eggnog_pos_X2": "395492.Rleg2_1248",
       "eggnog_pos_X3": 94.3,
       "eggnog_pos_X4": 244,
@@ -130,6 +157,7 @@
     {
       "seqnames": "MAG06_188",
       "gene_ID": "MAG06_188_1",
+      "gene_strand": "+",
       "eggnog_pos_X2": "1050720.Agau_C201597",
       "eggnog_pos_X3": 94.7,
       "eggnog_pos_X4": 244,
@@ -147,6 +175,7 @@
     {
       "seqnames": "MAG06_188",
       "gene_ID": "MAG06_188_2",
+      "gene_strand": "+",
       "eggnog_pos_X2": "176299.Atu1261",
       "eggnog_pos_X3": 89.1,
       "eggnog_pos_X4": 376,
@@ -164,6 +193,7 @@
     {
       "seqnames": "MAG06_188",
       "gene_ID": "MAG06_188_2",
+      "gene_strand": "+",
       "eggnog_pos_X2": "1050720.Agau_C201594",
       "eggnog_pos_X3": 88.6,
       "eggnog_pos_X4": 376,
@@ -181,6 +211,7 @@
     {
       "seqnames": "MAG06_188",
       "gene_ID": "MAG06_188_2",
+      "gene_strand": "+",
       "eggnog_pos_X2": "861208.AGROH133_05609",
       "eggnog_pos_X3": 88.3,
       "eggnog_pos_X4": 376,
@@ -198,6 +229,7 @@
     {
       "seqnames": "MAG06_188",
       "gene_ID": "MAG06_188_2",
+      "gene_strand": "+",
       "eggnog_pos_X2": "311402.Avi_1700",
       "eggnog_pos_X3": 86.2,
       "eggnog_pos_X4": 376,
@@ -215,6 +247,7 @@
     {
       "seqnames": "MAG06_188",
       "gene_ID": "MAG06_188_2",
+      "gene_strand": "+",
       "eggnog_pos_X2": "411684.HPDFL43_06120",
       "eggnog_pos_X3": 85.9,
       "eggnog_pos_X4": 376,

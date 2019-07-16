@@ -37,7 +37,25 @@
       "eggnog_X10": "01QBD@aproNOG,05D3Z@bactNOG,16QM4@proNOG,COG0604@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "C",
-      "eggnog_X13": "Oxidoreductase"
+      "eggnog_X13": "Oxidoreductase",
+      "metric_1": 69,
+      "metric_2": 27,
+      "metric_5": 29,
+      "metric_7": 83,
+      "metric_10": 66,
+      "metric_11": 97,
+      "metric_13": 23,
+      "metric_14": 74,
+      "metric_15": 44,
+      "metric_18": 22,
+      "metric_20": 67,
+      "metric_21": 39,
+      "metric_23": 72,
+      "metric_24": 60,
+      "metric_27": 44,
+      "metric_28": 71,
+      "metric_29": 19,
+      "metric_30": 59
     },
     {
       "gene_seqnames": "MAG06_439",
@@ -72,13 +90,27 @@
       "eggnog_X10": "01QBD@aproNOG,05D3Z@bactNOG,16QM4@proNOG,COG0604@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "C",
-      "eggnog_X13": "Oxidoreductase"
+      "eggnog_X13": "Oxidoreductase",
+      "metric_4": 95,
+      "metric_6": 99,
+      "metric_7": 35,
+      "metric_9": 78,
+      "metric_10": 67,
+      "metric_13": 4,
+      "metric_14": 18,
+      "metric_16": 32,
+      "metric_18": 54,
+      "metric_20": 49,
+      "metric_22": 42,
+      "metric_27": 65,
+      "metric_28": 95
     }
   ],
   "diamond_track": [
     {
       "seqnames": "MAG06_439",
       "gene_ID": "MAG06_439_1",
+      "gene_strand": "+",
       "eggnog_pos_X2": "318586.Pden_1107",
       "eggnog_pos_X3": 75.5,
       "eggnog_pos_X4": 143,
@@ -96,6 +128,7 @@
     {
       "seqnames": "MAG06_439",
       "gene_ID": "MAG06_439_1",
+      "gene_strand": "+",
       "eggnog_pos_X2": "1064539.AZOBR_150020",
       "eggnog_pos_X3": 72.7,
       "eggnog_pos_X4": 143,
@@ -113,6 +146,7 @@
     {
       "seqnames": "MAG06_439",
       "gene_ID": "MAG06_439_2",
+      "gene_strand": "+",
       "eggnog_pos_X2": "318586.Pden_1107",
       "eggnog_pos_X3": 83.9,
       "eggnog_pos_X4": 174,

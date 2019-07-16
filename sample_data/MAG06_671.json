@@ -36,7 +36,21 @@
       "eggnog_X10": "01TYG@aproNOG,05DZ1@bactNOG,16R4N@proNOG,COG1686@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "M",
-      "eggnog_X13": "Carboxypeptidase"
+      "eggnog_X13": "Carboxypeptidase",
+      "metric_3": 48,
+      "metric_5": 40,
+      "metric_6": 17,
+      "metric_8": 71,
+      "metric_11": 40,
+      "metric_12": 7,
+      "metric_13": 18,
+      "metric_16": 95,
+      "metric_19": 90,
+      "metric_21": 10,
+      "metric_23": 2,
+      "metric_25": 83,
+      "metric_26": 35,
+      "metric_29": 27
     },
     {
       "gene_seqnames": "MAG06_671",
@@ -68,7 +82,20 @@
       "eggnog_X10": "01R5G@aproNOG,05CKI@bactNOG,16SDK@proNOG,COG0523@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "S",
-      "eggnog_X13": "cobalamin synthesis protein"
+      "eggnog_X13": "cobalamin synthesis protein",
+      "metric_2": 15,
+      "metric_6": 77,
+      "metric_7": 74,
+      "metric_10": 39,
+      "metric_12": 55,
+      "metric_13": 20,
+      "metric_15": 82,
+      "metric_16": 86,
+      "metric_18": 42,
+      "metric_20": 58,
+      "metric_21": 42,
+      "metric_23": 24,
+      "metric_27": 21
     },
     {
       "gene_seqnames": "MAG06_671",
@@ -102,7 +129,21 @@
       "eggnog_X10": "024EU@aproNOG,05VGJ@bactNOG,17KB6@proNOG,COG4456@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "S",
-      "eggnog_X13": "Pfam:SpoVT_AbrB"
+      "eggnog_X13": "Pfam:SpoVT_AbrB",
+      "metric_1": 80,
+      "metric_2": 90,
+      "metric_5": 46,
+      "metric_8": 11,
+      "metric_9": 79,
+      "metric_10": 57,
+      "metric_12": 31,
+      "metric_13": 90,
+      "metric_15": 91,
+      "metric_17": 71,
+      "metric_19": 3,
+      "metric_23": 19,
+      "metric_28": 85,
+      "metric_30": 62
     },
     {
       "gene_seqnames": "MAG06_671",
@@ -136,13 +177,27 @@
       "eggnog_X10": "020EA@aproNOG,05M0J@bactNOG,179P1@proNOG,COG1487@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "S",
-      "eggnog_X13": "Toxic component of a toxin-antitoxin (TA) module. A"
+      "eggnog_X13": "Toxic component of a toxin-antitoxin (TA) module. A",
+      "metric_4": 90,
+      "metric_7": 87,
+      "metric_9": 74,
+      "metric_10": 64,
+      "metric_12": 13,
+      "metric_13": 21,
+      "metric_14": 5,
+      "metric_23": 71,
+      "metric_25": 29,
+      "metric_26": 33,
+      "metric_27": 90,
+      "metric_28": 20,
+      "metric_30": 72
     }
   ],
   "diamond_track": [
     {
       "seqnames": "MAG06_671",
       "gene_ID": "MAG06_671_1",
+      "gene_strand": "+",
       "eggnog_pos_X2": "266834.SMc00683",
       "eggnog_pos_X3": 99.5,
       "eggnog_pos_X4": 187,
@@ -160,6 +215,7 @@
     {
       "seqnames": "MAG06_671",
       "gene_ID": "MAG06_671_2",
+      "gene_strand": "+",
       "eggnog_pos_X2": "266834.SMc00684",
       "eggnog_pos_X3": 98.7,
       "eggnog_pos_X4": 381,
@@ -177,6 +233,7 @@
     {
       "seqnames": "MAG06_671",
       "gene_ID": "MAG06_671_3",
+      "gene_strand": "+",
       "eggnog_pos_X2": "266834.SMc00686",
       "eggnog_pos_X3": 100,
       "eggnog_pos_X4": 77,
@@ -194,6 +251,7 @@
     {
       "seqnames": "MAG06_671",
       "gene_ID": "MAG06_671_4",
+      "gene_strand": "+",
       "eggnog_pos_X2": "266834.SMc00687",
       "eggnog_pos_X3": 97.4,
       "eggnog_pos_X4": 117,

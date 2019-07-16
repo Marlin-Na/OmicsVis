@@ -35,7 +35,19 @@
       "eggnog_X10": "0252M@aproNOG,06CSM@bactNOG,17US2@proNOG,COG4423@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "S",
-      "eggnog_X13": "Rv0623-like transcription factor"
+      "eggnog_X13": "Rv0623-like transcription factor",
+      "metric_3": 71,
+      "metric_4": 34,
+      "metric_5": 84,
+      "metric_6": 88,
+      "metric_7": 53,
+      "metric_15": 37,
+      "metric_18": 71,
+      "metric_22": 21,
+      "metric_23": 92,
+      "metric_26": 96,
+      "metric_27": 83,
+      "metric_30": 97
     },
     {
       "gene_seqnames": "MAG06_875",
@@ -69,13 +81,28 @@
       "eggnog_X10": "01QSK@aproNOG,07QXN@bactNOG,16UJ5@proNOG,COG0119@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "E",
-      "eggnog_X13": "Catalyzes the condensation of the acetyl group of acetyl-CoA with 3-methyl-2-oxobutanoate (2-oxoisovalerate) to form 3-carboxy-3-hydroxy-4-methylpentanoate (2-isopropylmalate) (By similarity)"
+      "eggnog_X13": "Catalyzes the condensation of the acetyl group of acetyl-CoA with 3-methyl-2-oxobutanoate (2-oxoisovalerate) to form 3-carboxy-3-hydroxy-4-methylpentanoate (2-isopropylmalate) (By similarity)",
+      "metric_1": 21,
+      "metric_3": 18,
+      "metric_4": 56,
+      "metric_5": 57,
+      "metric_6": 61,
+      "metric_7": 80,
+      "metric_12": 9,
+      "metric_13": 85,
+      "metric_15": 10,
+      "metric_17": 41,
+      "metric_20": 51,
+      "metric_22": 98,
+      "metric_27": 89,
+      "metric_29": 19
     }
   ],
   "diamond_track": [
     {
       "seqnames": "MAG06_875",
       "gene_ID": "MAG06_875_1",
+      "gene_strand": "-",
       "eggnog_pos_X2": "266834.SMc02716",
       "eggnog_pos_X3": 100,
       "eggnog_pos_X4": 48,
@@ -93,6 +120,7 @@
     {
       "seqnames": "MAG06_875",
       "gene_ID": "MAG06_875_2",
+      "gene_strand": "-",
       "eggnog_pos_X2": "861208.AGROH133_07856",
       "eggnog_pos_X3": 86.5,
       "eggnog_pos_X4": 562,
@@ -110,6 +138,7 @@
     {
       "seqnames": "MAG06_875",
       "gene_ID": "MAG06_875_2",
+      "gene_strand": "-",
       "eggnog_pos_X2": "491916.RHECIAT_CH0003224",
       "eggnog_pos_X3": 87.4,
       "eggnog_pos_X4": 556,
@@ -127,6 +156,7 @@
     {
       "seqnames": "MAG06_875",
       "gene_ID": "MAG06_875_2",
+      "gene_strand": "-",
       "eggnog_pos_X2": "395492.Rleg2_2804",
       "eggnog_pos_X3": 86.9,
       "eggnog_pos_X4": 556,
@@ -144,6 +174,7 @@
     {
       "seqnames": "MAG06_875",
       "gene_ID": "MAG06_875_2",
+      "gene_strand": "-",
       "eggnog_pos_X2": "311403.Arad_3242",
       "eggnog_pos_X3": 85.4,
       "eggnog_pos_X4": 569,
@@ -161,6 +192,7 @@
     {
       "seqnames": "MAG06_875",
       "gene_ID": "MAG06_875_2",
+      "gene_strand": "-",
       "eggnog_pos_X2": "347834.RHE_CH03067",
       "eggnog_pos_X3": 87.6,
       "eggnog_pos_X4": 555,
@@ -178,6 +210,7 @@
     {
       "seqnames": "MAG06_875",
       "gene_ID": "MAG06_875_2",
+      "gene_strand": "-",
       "eggnog_pos_X2": "216596.RL3513",
       "eggnog_pos_X3": 86.7,
       "eggnog_pos_X4": 555,
@@ -195,6 +228,7 @@
     {
       "seqnames": "MAG06_875",
       "gene_ID": "MAG06_875_2",
+      "gene_strand": "-",
       "eggnog_pos_X2": "311402.Avi_3249",
       "eggnog_pos_X3": 84,
       "eggnog_pos_X4": 568,

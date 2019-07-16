@@ -37,7 +37,22 @@
       "eggnog_X10": "01QIF@aproNOG,05CVE@bactNOG,16QBZ@proNOG,COG2951@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "M",
-      "eggnog_X13": "lytic murein transglycosylase"
+      "eggnog_X13": "lytic murein transglycosylase",
+      "metric_1": 67,
+      "metric_2": 99,
+      "metric_3": 23,
+      "metric_6": 9,
+      "metric_7": 60,
+      "metric_8": 46,
+      "metric_9": 6,
+      "metric_12": 16,
+      "metric_14": 31,
+      "metric_15": 39,
+      "metric_16": 49,
+      "metric_21": 83,
+      "metric_22": 98,
+      "metric_23": 44,
+      "metric_30": 32
     },
     {
       "gene_seqnames": "MAG06_969",
@@ -69,7 +84,21 @@
       "eggnog_X10": "01QWS@aproNOG,05E8G@bactNOG,16PVY@proNOG,COG0477@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "G",
-      "eggnog_X13": "Major facilitator superfamily"
+      "eggnog_X13": "Major facilitator superfamily",
+      "metric_6": 67,
+      "metric_7": 18,
+      "metric_8": 84,
+      "metric_12": 62,
+      "metric_14": 95,
+      "metric_15": 33,
+      "metric_17": 85,
+      "metric_19": 96,
+      "metric_20": 33,
+      "metric_21": 48,
+      "metric_22": 79,
+      "metric_24": 69,
+      "metric_28": 59,
+      "metric_29": 6
     },
     {
       "gene_seqnames": "MAG06_969",
@@ -104,13 +133,27 @@
       "eggnog_X10": "01RSK@aproNOG,05K7D@bactNOG,17H3M@proNOG,COG0779@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "S",
-      "eggnog_X13": "Required for maturation of 30S ribosomal subunits (By similarity)"
+      "eggnog_X13": "Required for maturation of 30S ribosomal subunits (By similarity)",
+      "metric_3": 26,
+      "metric_4": 32,
+      "metric_5": 86,
+      "metric_6": 40,
+      "metric_16": 92,
+      "metric_17": 47,
+      "metric_20": 90,
+      "metric_23": 78,
+      "metric_25": 86,
+      "metric_26": 28,
+      "metric_27": 59,
+      "metric_29": 17,
+      "metric_30": 34
     }
   ],
   "diamond_track": [
     {
       "seqnames": "MAG06_969",
       "gene_ID": "MAG06_969_1",
+      "gene_strand": "+",
       "eggnog_pos_X2": "266834.SMc02909",
       "eggnog_pos_X3": 99.7,
       "eggnog_pos_X4": 291,
@@ -128,6 +171,7 @@
     {
       "seqnames": "MAG06_969",
       "gene_ID": "MAG06_969_2",
+      "gene_strand": "-",
       "eggnog_pos_X2": "266834.SMc02910",
       "eggnog_pos_X3": 99.5,
       "eggnog_pos_X4": 551,
@@ -145,6 +189,7 @@
     {
       "seqnames": "MAG06_969",
       "gene_ID": "MAG06_969_2",
+      "gene_strand": "-",
       "eggnog_pos_X2": "366394.Smed_3437",
       "eggnog_pos_X3": 97.3,
       "eggnog_pos_X4": 551,
@@ -162,6 +207,7 @@
     {
       "seqnames": "MAG06_969",
       "gene_ID": "MAG06_969_3",
+      "gene_strand": "+",
       "eggnog_pos_X2": "266834.SMc02911",
       "eggnog_pos_X3": 100,
       "eggnog_pos_X4": 205,

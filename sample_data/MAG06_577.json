@@ -37,7 +37,19 @@
       "eggnog_X10": "01QAC@aproNOG,05CTF@bactNOG,16PMT@proNOG,COG0202@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "K",
-      "eggnog_X13": "DNA-dependent RNA polymerase catalyzes the transcription of DNA into RNA using the four ribonucleoside triphosphates as substrates (By similarity)"
+      "eggnog_X13": "DNA-dependent RNA polymerase catalyzes the transcription of DNA into RNA using the four ribonucleoside triphosphates as substrates (By similarity)",
+      "metric_1": 33,
+      "metric_2": 49,
+      "metric_3": 56,
+      "metric_7": 22,
+      "metric_9": 30,
+      "metric_13": 90,
+      "metric_17": 4,
+      "metric_18": 10,
+      "metric_22": 61,
+      "metric_26": 26,
+      "metric_27": 29,
+      "metric_30": 97
     },
     {
       "gene_seqnames": "MAG06_577",
@@ -72,7 +84,23 @@
       "eggnog_X10": "01WVV@aproNOG,08UHH@bactNOG,179NI@proNOG,COG0100@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "J",
-      "eggnog_X13": "Located on the platform of the 30S subunit, it bridges several disparate RNA helices of the 16S rRNA. Forms part of the Shine-Dalgarno cleft in the 70S ribosome (By similarity)"
+      "eggnog_X13": "Located on the platform of the 30S subunit, it bridges several disparate RNA helices of the 16S rRNA. Forms part of the Shine-Dalgarno cleft in the 70S ribosome (By similarity)",
+      "metric_6": 93,
+      "metric_9": 23,
+      "metric_10": 12,
+      "metric_11": 39,
+      "metric_12": 5,
+      "metric_15": 18,
+      "metric_17": 34,
+      "metric_18": 27,
+      "metric_20": 79,
+      "metric_22": 60,
+      "metric_23": 84,
+      "metric_24": 46,
+      "metric_27": 18,
+      "metric_28": 2,
+      "metric_29": 41,
+      "metric_30": 96
     },
     {
       "gene_seqnames": "MAG06_577",
@@ -107,13 +135,30 @@
       "eggnog_X10": "01WUK@aproNOG,08Z04@bactNOG,17CEH@proNOG,COG0099@NOG",
       "eggnog_X11": "NA|NA|NA",
       "eggnog_X12": "J",
-      "eggnog_X13": "Located at the top of the head of the 30S subunit, it contacts several helices of the 16S rRNA. In the 70S ribosome it contacts the 23S rRNA (bridge B1a) and protein L5 of the 50S subunit (bridge B1b), connecting the 2 subunits"
+      "eggnog_X13": "Located at the top of the head of the 30S subunit, it contacts several helices of the 16S rRNA. In the 70S ribosome it contacts the 23S rRNA (bridge B1a) and protein L5 of the 50S subunit (bridge B1b), connecting the 2 subunits",
+      "metric_1": 16,
+      "metric_2": 69,
+      "metric_4": 57,
+      "metric_5": 51,
+      "metric_7": 33,
+      "metric_8": 93,
+      "metric_11": 87,
+      "metric_14": 27,
+      "metric_19": 87,
+      "metric_20": 78,
+      "metric_21": 5,
+      "metric_23": 13,
+      "metric_25": 17,
+      "metric_26": 1,
+      "metric_27": 3,
+      "metric_28": 61
     }
   ],
   "diamond_track": [
     {
       "seqnames": "MAG06_577",
       "gene_ID": "MAG06_577_1",
+      "gene_strand": "-",
       "eggnog_pos_X2": "411684.HPDFL43_06757",
       "eggnog_pos_X3": 91.6,
       "eggnog_pos_X4": 335,
@@ -131,6 +176,7 @@
     {
       "seqnames": "MAG06_577",
       "gene_ID": "MAG06_577_1",
+      "gene_strand": "-",
       "eggnog_pos_X2": "266779.Meso_1654",
       "eggnog_pos_X3": 90.7,
       "eggnog_pos_X4": 335,
@@ -148,6 +194,7 @@
     {
       "seqnames": "MAG06_577",
       "gene_ID": "MAG06_577_1",
+      "gene_strand": "-",
       "eggnog_pos_X2": "430066.BAbS19_I11470",
       "eggnog_pos_X3": 90.2,
       "eggnog_pos_X4": 336,
@@ -165,6 +212,7 @@
     {
       "seqnames": "MAG06_577",
       "gene_ID": "MAG06_577_1",
+      "gene_strand": "-",
       "eggnog_pos_X2": "439375.Oant_1980",
       "eggnog_pos_X3": 89.3,
       "eggnog_pos_X4": 336,
@@ -182,6 +230,7 @@
     {
       "seqnames": "MAG06_577",
       "gene_ID": "MAG06_577_1",
+      "gene_strand": "-",
       "eggnog_pos_X2": "641118.OINT_1001336",
       "eggnog_pos_X3": 89.3,
       "eggnog_pos_X4": 336,
@@ -199,6 +248,7 @@
     {
       "seqnames": "MAG06_577",
       "gene_ID": "MAG06_577_1",
+      "gene_strand": "-",
       "eggnog_pos_X2": "224914.BAWG_2753",
       "eggnog_pos_X3": 89.6,
       "eggnog_pos_X4": 336,
@@ -216,6 +266,7 @@
     {
       "seqnames": "MAG06_577",
       "gene_ID": "MAG06_577_2",
+      "gene_strand": "-",
       "eggnog_pos_X2": "266834.SMc01286",
       "eggnog_pos_X3": 100,
       "eggnog_pos_X4": 129,
@@ -233,6 +284,7 @@
     {
       "seqnames": "MAG06_577",
       "gene_ID": "MAG06_577_2",
+      "gene_strand": "-",
       "eggnog_pos_X2": "1117943.SFHH103_01098",
       "eggnog_pos_X3": 100,
       "eggnog_pos_X4": 129,
@@ -250,6 +302,7 @@
     {
       "seqnames": "MAG06_577",
       "gene_ID": "MAG06_577_2",
+      "gene_strand": "-",
       "eggnog_pos_X2": "394.NGR_c12130",
       "eggnog_pos_X3": 100,
       "eggnog_pos_X4": 129,
@@ -267,6 +320,7 @@
     {
       "seqnames": "MAG06_577",
       "gene_ID": "MAG06_577_2",
+      "gene_strand": "-",
       "eggnog_pos_X2": "366394.Smed_1009",
       "eggnog_pos_X3": 100,
       "eggnog_pos_X4": 129,
@@ -284,6 +338,7 @@
     {
       "seqnames": "MAG06_577",
       "gene_ID": "MAG06_577_2",
+      "gene_strand": "-",
       "eggnog_pos_X2": "311402.Avi_1866",
       "eggnog_pos_X3": 98.4,
       "eggnog_pos_X4": 129,
@@ -301,6 +356,7 @@
     {
       "seqnames": "MAG06_577",
       "gene_ID": "MAG06_577_2",
+      "gene_strand": "-",
       "eggnog_pos_X2": "861208.AGROH133_07124",
       "eggnog_pos_X3": 98.4,
       "eggnog_pos_X4": 129,
@@ -318,6 +374,7 @@
     {
       "seqnames": "MAG06_577",
       "gene_ID": "MAG06_577_2",
+      "gene_strand": "-",
       "eggnog_pos_X2": "1050720.Agau_C200610",
       "eggnog_pos_X3": 98.4,
       "eggnog_pos_X4": 129,
@@ -335,6 +392,7 @@
     {
       "seqnames": "MAG06_577",
       "gene_ID": "MAG06_577_2",
+      "gene_strand": "-",
       "eggnog_pos_X2": "176299.Atu1924",
       "eggnog_pos_X3": 98.4,
       "eggnog_pos_X4": 129,
@@ -352,6 +410,7 @@
     {
       "seqnames": "MAG06_577",
       "gene_ID": "MAG06_577_2",
+      "gene_strand": "-",
       "eggnog_pos_X2": "311403.Arad_2004",
       "eggnog_pos_X3": 97.7,
       "eggnog_pos_X4": 129,
@@ -369,6 +428,7 @@
     {
       "seqnames": "MAG06_577",
       "gene_ID": "MAG06_577_2",
+      "gene_strand": "-",
       "eggnog_pos_X2": "347834.RHE_CH01698",
       "eggnog_pos_X3": 97.7,
       "eggnog_pos_X4": 129,
@@ -386,6 +446,7 @@
     {
       "seqnames": "MAG06_577",
       "gene_ID": "MAG06_577_2",
+      "gene_strand": "-",
       "eggnog_pos_X2": "216596.RL1797",
       "eggnog_pos_X3": 97.7,
       "eggnog_pos_X4": 129,
@@ -403,6 +464,7 @@
     {
       "seqnames": "MAG06_577",
       "gene_ID": "MAG06_577_2",
+      "gene_strand": "-",
       "eggnog_pos_X2": "395492.Rleg2_1355",
       "eggnog_pos_X3": 97.7,
       "eggnog_pos_X4": 129,
@@ -420,6 +482,7 @@
     {
       "seqnames": "MAG06_577",
       "gene_ID": "MAG06_577_2",
+      "gene_strand": "-",
       "eggnog_pos_X2": "491916.RHECIAT_CH0001772",
       "eggnog_pos_X3": 97.7,
       "eggnog_pos_X4": 129,
@@ -437,6 +500,7 @@
     {
       "seqnames": "MAG06_577",
       "gene_ID": "MAG06_577_2",
+      "gene_strand": "-",
       "eggnog_pos_X2": "224914.BAWG_2752",
       "eggnog_pos_X3": 96.1,
       "eggnog_pos_X4": 129,
@@ -454,6 +518,7 @@
     {
       "seqnames": "MAG06_577",
       "gene_ID": "MAG06_577_2",
+      "gene_strand": "-",
       "eggnog_pos_X2": "430066.BAbS19_I11480",
       "eggnog_pos_X3": 96.1,
       "eggnog_pos_X4": 129,
@@ -471,6 +536,7 @@
     {
       "seqnames": "MAG06_577",
       "gene_ID": "MAG06_577_2",
+      "gene_strand": "-",
       "eggnog_pos_X2": "641118.OINT_1001337",
       "eggnog_pos_X3": 96.1,
       "eggnog_pos_X4": 129,
@@ -488,6 +554,7 @@
     {
       "seqnames": "MAG06_577",
       "gene_ID": "MAG06_577_2",
+      "gene_strand": "-",
       "eggnog_pos_X2": "439375.Oant_1979",
       "eggnog_pos_X3": 96.1,
       "eggnog_pos_X4": 129,
@@ -505,6 +572,7 @@
     {
       "seqnames": "MAG06_577",
       "gene_ID": "MAG06_577_3",
+      "gene_strand": "-",
       "eggnog_pos_X2": "266834.SMc01287",
       "eggnog_pos_X3": 100,
       "eggnog_pos_X4": 122,
@@ -522,6 +590,7 @@
     {
       "seqnames": "MAG06_577",
       "gene_ID": "MAG06_577_3",
+      "gene_strand": "-",
       "eggnog_pos_X2": "366394.Smed_1008",
       "eggnog_pos_X3": 99.2,
       "eggnog_pos_X4": 122,
@@ -539,6 +608,7 @@
     {
       "seqnames": "MAG06_577",
       "gene_ID": "MAG06_577_3",
+      "gene_strand": "-",
       "eggnog_pos_X2": "1117943.SFHH103_01097",
       "eggnog_pos_X3": 99.2,
       "eggnog_pos_X4": 122,
@@ -556,6 +626,7 @@
     {
       "seqnames": "MAG06_577",
       "gene_ID": "MAG06_577_3",
+      "gene_strand": "-",
       "eggnog_pos_X2": "347834.RHE_CH01697",
       "eggnog_pos_X3": 97.5,
       "eggnog_pos_X4": 122,
@@ -573,6 +644,7 @@
     {
       "seqnames": "MAG06_577",
       "gene_ID": "MAG06_577_3",
+      "gene_strand": "-",
       "eggnog_pos_X2": "394.NGR_c12120",
       "eggnog_pos_X3": 96.7,
       "eggnog_pos_X4": 122,
@@ -590,6 +662,7 @@
     {
       "seqnames": "MAG06_577",
       "gene_ID": "MAG06_577_3",
+      "gene_strand": "-",
       "eggnog_pos_X2": "491916.RHECIAT_CH0001771",
       "eggnog_pos_X3": 96.7,
       "eggnog_pos_X4": 122,
@@ -607,6 +680,7 @@
     {
       "seqnames": "MAG06_577",
       "gene_ID": "MAG06_577_3",
+      "gene_strand": "-",
       "eggnog_pos_X2": "395492.Rleg2_1354",
       "eggnog_pos_X3": 95.9,
       "eggnog_pos_X4": 122,
