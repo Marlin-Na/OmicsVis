@@ -1,7 +1,11 @@
 'use strict';
 
-// Assuming global tnt and d3v5 variable.
+// Currently this file assumes global tnt (by importing d3 version 3, tnt.genome, tnt.tooltip)
+// and d3v5 variable are available.
 
+// I intend to use TrackView class to represent a TnT Board instance for one contig.
+// They are initialized and removed on the fly according to the "selected" states in
+// the table.
 class TrackView {
 
     constructor(div) {
@@ -9,18 +13,22 @@ class TrackView {
         this.opt = {
             width: 800,
         };
+        // The tnt board instance
         this.board = null;
+        // "data_src" is set by set_data_src method, it will replace null with a
+        // promise that resolves to the actual data.
         this.data_src = null;
+        // Place to store the actual data
         this.data = null;
-        // tnt actually does not accept a color callback for individual features,
+        // tnt actually does not accept a color callback for individual features (really?),
         // thus we embed this callback to the data retriever.
         this.gene_colorgen = function(d) {
             return undefined;
         };
     }
 
+    // init_vis should only called once.
     init_vis() {
-        // width is determined from the width of div
         // let width = d3v5.select(this.dom).node().getBoundingClientRect().width/1.1;
         let opt = this.opt;
         let width = opt.width; // Fixed width
@@ -53,6 +61,7 @@ class TrackView {
                 tnt.board.track.feature.genome.gene().color("#AD9274") // default color
                     .on("click", function(d) {
                         console.log(d);
+                        // This is the place to specify the tooltip
                         tnt.tooltip.table()
                             .width(300)
                             .call(this, {
@@ -65,6 +74,8 @@ class TrackView {
                             });
                     })
             );
+        // Set fixed "collapsed" layout and allow variable height
+        // Refer http://bl.ocks.org/emepyc/7c73519ee7a1300eb68a
         gene_track.display().layout()
             .fixed_slot_type("collapsed") //.fixed_slot_type("expanded")
             .keep_slots(false)
@@ -84,8 +95,8 @@ class TrackView {
             .display(
                 tnt.board.track.feature.genome.gene().color("green") // default color
                     .on("click", function(d) {
+                        // Specify the tooltip with link to external website
                         console.log(d);
-
                         // ad hoc
                         let mapped_to = d.eggnog_pos_X2.split(".");
                         let taxonomy = mapped_to[0];
@@ -104,7 +115,7 @@ class TrackView {
                             });
                     })
             );
-        // Refer http://bl.ocks.org/emepyc/7c73519ee7a1300eb68a
+
         diamond_track.display().layout()
             .fixed_slot_type("expanded")
             .keep_slots(false)
@@ -117,9 +128,10 @@ class TrackView {
                 }
             });
 
-        // Initialize the board
+        // Bind thd dom
         this.board(this.dom);
 
+        // Add tracks
         this.board.add_track(axis_track);
 
         this.board
@@ -136,6 +148,23 @@ class TrackView {
     //     this.board.width(width);
     // }
 
+    // Set "data_src" as a promise that will be resolved to the actual data
+    set_data_src(name) {
+        // such as MAG06_80
+        let data_src = fetch("sample_data/" + name + ".json")
+            .then(res => {
+                if (!res.ok)
+                    throw new Error("HTTP error: " + res.status);
+                return res.json();
+            })
+            .catch(err => console.log(err));
+        this.data_src = data_src;
+
+        // TODO: call update_vis?
+        return this;
+    }
+
+    // This will resolves the promise in "data_src" to the actual data and assign to "data"
     async fetch_data_src() {
         if (this.data_src === null) {
             console.error("data_src is not set");
@@ -150,6 +179,8 @@ class TrackView {
         return;
     }
 
+    // It will modify the default track parameters with actual data.
+    // Then it will start rendering the board.
     async update_vis() {
         if (this.board === null)
             console.error("The board has not been initialized");
@@ -213,6 +244,7 @@ class TrackView {
         board.start();
     }
 
+    // "Restart" the board. Needed when "gene_colorgen" etc are modified
     reload() {
         if (this.board === null) {
             return; // do nothing
@@ -220,6 +252,7 @@ class TrackView {
         this.board.start();
     }
 
+    // Modify the color scale of features, i.e. by strand/metric
     set_gene_colorby(what) {
         if (what === null || what === "null") {
             this.gene_colorgen = function(d) {
@@ -249,28 +282,15 @@ class TrackView {
         this.reload();
     }
 
-    set_data_src(name) {
-        // such as MAG06_80
-        let data_src = fetch("sample_data/" + name + ".json")
-            .then(res => {
-                if (!res.ok)
-                    throw new Error("HTTP error: " + res.status);
-                return res.json();
-            })
-            .catch(err => console.log(err));
-        this.data_src = data_src;
-
-        // TODO: call update_vis?
-        return this;
-    }
 }
 
+// I intend to use this class to handle the list of active tnt board instances
 class TrackViewPanel {
     constructor(div) {
         this.dom = div;
+        // Store the available tnt board instances with contig_id as the key
         this.ActiveViews = new Map();
         this.opt_gene_colorby = null;
-        window.ActiveViews = this.ActiveViews;
     }
     set_gene_colorby(what) {
         // Calls the set_gene_colorby method of TrackView
@@ -279,6 +299,8 @@ class TrackViewPanel {
             v.set_gene_colorby(what);
         });
     }
+    // "add_view" will append an div container inside the vis_dom and initialize
+    // the tracks. "remove_view" will remove the dom corresponding to the contig_id.
     add_view(contig_id) {
         let vis_dom = d3v5.select(this.dom).node();
         let container = document.createElement("div");
@@ -299,15 +321,18 @@ class TrackViewPanel {
     }
 }
 
+// This class currently handles the table panel and top-level logic for the application
 class IndexTable {
     constructor(div) {
         this.dom = div;
+        // Options for the table
         this.gridOptions = null;
         this.option_filterSelected = false;
 
         // TODO: move outside of this class.
         this.vispanel = new TrackViewPanel("#vis");
     }
+    // This function will fetch the "index.json" and load the table
     async load() {
         let _this = this;
         let res;
@@ -375,6 +400,7 @@ class IndexTable {
         let dom_table = d3v5.select(this.dom).node();
         let table = new agGrid.Grid(dom_table, this.gridOptions);
 
+        // Call add_view or remove_view
         function onRowSelected(event) {
             let contig_id = event.data.contig;
             let is_checked = event.node.isSelected();
@@ -415,8 +441,9 @@ class IndexTable {
         }
 
     }
+
+    // Calls set_gene_colorby method from TrackViewPanel
     set_gene_colorby(what) {
-        // Calls set_gene_colorby method from TrackViewPanel
         let _this = this;
         let vispanel = this.vispanel;
         vispanel.set_gene_colorby(what);
