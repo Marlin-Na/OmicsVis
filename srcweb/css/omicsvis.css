@@ -56,6 +56,10 @@ main {
     font-weight: 900;
 }
 
+.tntboard-highlight .tnt_framed {
+    background-color: white;
+}
+
 
 .viscontainer {
     padding: 3px;
