@@ -303,10 +303,22 @@ class TrackViewPanel {
     // the tracks. "remove_view" will remove the dom corresponding to the contig_id.
     add_view(contig_id) {
         let vis_dom = d3v5.select(this.dom).node();
-        let container = document.createElement("div");
-        container.id = "vis-" + contig_id;
+
+        let container_template = (contig_id) => {
+            let container = document.createElement("div");
+            container.id = "viscontainer-" + contig_id;
+            container.className = "viscontainer";
+            container.innerHTML = `
+                 <label>${contig_id}</label>
+            `;
+            let tntdiv = document.createElement("div");
+            tntdiv.id = "vis-" + contig_id;
+            container.appendChild(tntdiv);
+            return [container, tntdiv];
+        };
+        let [container, tntdiv] = container_template(contig_id);
         vis_dom.appendChild(container);
-        let view = new TrackView(container);
+        let view = new TrackView(tntdiv);
         view.set_data_src(contig_id);
         // Set gene color callback
         if (this.opt_gene_colorby !== null)
@@ -316,7 +328,7 @@ class TrackViewPanel {
         view.update_vis();
     }
     remove_view(contig_id) {
-        document.getElementById("vis-" + contig_id).remove();
+        document.getElementById("viscontainer-" + contig_id).remove();
         ActiveViews.delete(contig_id);
     }
 }
@@ -426,7 +438,7 @@ class IndexTable {
         function onCellMouseOver(event) {
             if (event.node.selected) {
                 let contig_id = event.data.contig;
-                let vis_dom = document.getElementById("vis-" + contig_id);
+                let vis_dom = document.getElementById("viscontainer-" + contig_id);
                 let the_board = _this.vispanel.ActiveViews.get(contig_id).board;
                 d3v5.select(vis_dom).classed("tntboard-highlight", true);
             }
@@ -434,7 +446,7 @@ class IndexTable {
         function onCellMouseOut(event) {
             let contig_id = event.data.contig;
             if (_this.vispanel.ActiveViews.has(contig_id)) {
-                let vis_dom = document.getElementById("vis-" + contig_id);
+                let vis_dom = document.getElementById("viscontainer-" + contig_id);
                 let the_board = _this.vispanel.ActiveViews.get(contig_id).board;
                 d3v5.select(vis_dom).classed("tntboard-highlight", false);
             }

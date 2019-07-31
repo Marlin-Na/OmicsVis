@@ -52,6 +52,13 @@ main {
     background-color: cadetblue;
 }
 
+.tntboard-highlight > label {
+    font-weight: 900;
+}
 
+
+.viscontainer {
+    padding: 3px;
+}
 
 
