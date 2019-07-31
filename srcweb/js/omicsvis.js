@@ -433,7 +433,7 @@ class IndexTable {
         }
         function onCellMouseOut(event) {
             let contig_id = event.data.contig;
-            if (ActiveViews.has(contig_id)) {
+            if (_this.vispanel.ActiveViews.has(contig_id)) {
                 let vis_dom = document.getElementById("vis-" + contig_id);
                 let the_board = _this.vispanel.ActiveViews.get(contig_id).board;
                 d3v5.select(vis_dom).classed("tntboard-highlight", false);
