@@ -1,5 +1,9 @@
 'use strict';
 
+// ad hoc configuration
+const INDEX_PATH = "/data/top_abundance_index.json";
+const DATA_PATH  = "/data";
+
 // Currently this file assumes global tnt (by importing d3 version 3, tnt.genome, tnt.tooltip)
 // and d3v5 variable are available.
 
@@ -60,17 +64,26 @@ class TrackView {
             .display(
                 tnt.board.track.feature.genome.gene().color("#AD9274") // default color
                     .on("click", function(d) {
-                        console.log(d);
-                        // This is the place to specify the tooltip
+                        let tooltip_data = d.tooltip_data;
+                        let tooltip_rows = [];
+                        for (let key of Object.keys(tooltip_data)) {
+                            tooltip_rows.push({
+                                label: key,
+                                value: tooltip_data[key]
+                            });
+                        }
+                        console.log(tooltip_data);
+                        console.log(tooltip_rows);
                         tnt.tooltip.table()
                             .width(300)
                             .call(this, {
-                                header: `Gene: ${d.gene_ID}`,
-                                rows: [
-                                    {label: "Gene Strand", value: d.gene_strand},
-                                    {label: "RBS Motif", value: d.gene_rbs_motif},
-                                    {label: "Type", value: d.eggnog_X13},
-                                ]
+                                header: `Gene: ${tooltip_data.gene_id}`,
+                                // rows: [
+                                //     {label: "Gene Strand", value: d.gene_strand},
+                                //     {label: "RBS Motif", value: d.gene_rbs_motif},
+                                //     {label: "Type", value: d.eggnog_X13},
+                                // ]
+                                rows: tooltip_rows
                             });
                     })
             );
@@ -88,45 +101,45 @@ class TrackView {
                 }
             });
 
-        let diamond_track = tnt.board.track()
-            .id("diamond")
-            .height(60)
-            .color("white")
-            .display(
-                tnt.board.track.feature.genome.gene().color("green") // default color
-                    .on("click", function(d) {
-                        // Specify the tooltip with link to external website
-                        console.log(d);
-                        // ad hoc
-                        let mapped_to = d.eggnog_pos_X2.split(".");
-                        let taxonomy = mapped_to[0];
-                        let gene = mapped_to[1];
-                        taxonomy = `<a target="_blank" href="https://www.uniprot.org/taxonomy/${taxonomy}">${taxonomy}</a>`;
-                        gene = `<a target="_blank" href="https://www.uniprot.org/uniprot/?query=+${gene}">${gene}</a>`;
+        // let diamond_track = tnt.board.track()
+        //     .id("diamond")
+        //     .height(60)
+        //     .color("white")
+        //     .display(
+        //         tnt.board.track.feature.genome.gene().color("green") // default color
+        //             .on("click", function(d) {
+        //                 // Specify the tooltip with link to external website
+        //                 console.log(d);
+        //                 // ad hoc
+        //                 let mapped_to = d.eggnog_pos_X2.split(".");
+        //                 let taxonomy = mapped_to[0];
+        //                 let gene = mapped_to[1];
+        //                 taxonomy = `<a target="_blank" href="https://www.uniprot.org/taxonomy/${taxonomy}">${taxonomy}</a>`;
+        //                 gene = `<a target="_blank" href="https://www.uniprot.org/uniprot/?query=+${gene}">${gene}</a>`;
 
-                        tnt.tooltip.table()
-                            .width(300)
-                            .call(this, {
-                                header: `${d.gene_ID} Mapping`,
-                                rows: [
-                                    {label: "Taxonomy", value: taxonomy},
-                                    {label: "Gene", value: gene},
-                                ]
-                            });
-                    })
-            );
+        //                 tnt.tooltip.table()
+        //                     .width(300)
+        //                     .call(this, {
+        //                         header: `${d.gene_ID} Mapping`,
+        //                         rows: [
+        //                             {label: "Taxonomy", value: taxonomy},
+        //                             {label: "Gene", value: gene},
+        //                         ]
+        //                     });
+        //             })
+        //     );
 
-        diamond_track.display().layout()
-            .fixed_slot_type("expanded")
-            .keep_slots(false)
-            .on_layout_run(function(types, current) {
-                let needed_height = types.expanded.needed_slots * types.expanded.slot_height;
-                if (needed_height !== diamond_track.height()) {
-                    diamond_track.height(needed_height);
-                    //genome.tracks(genome.tracks());
-                    _this.board.tracks(_this.board.tracks());
-                }
-            });
+        // diamond_track.display().layout()
+        //     .fixed_slot_type("expanded")
+        //     .keep_slots(false)
+        //     .on_layout_run(function(types, current) {
+        //         let needed_height = types.expanded.needed_slots * types.expanded.slot_height;
+        //         if (needed_height !== diamond_track.height()) {
+        //             diamond_track.height(needed_height);
+        //             //genome.tracks(genome.tracks());
+        //             _this.board.tracks(_this.board.tracks());
+        //         }
+        //     });
 
         // Bind thd dom
         this.board(this.dom);
@@ -136,8 +149,7 @@ class TrackView {
 
         this.board
             .add_track(contig_track)
-            .add_track(gene_track)
-            .add_track(diamond_track);
+            .add_track(gene_track);
 
         // Do not start
         //this.board.start();
@@ -151,7 +163,7 @@ class TrackView {
     // Set "data_src" as a promise that will be resolved to the actual data
     set_data_src(name) {
         // such as MAG06_80
-        let data_src = fetch("sample_data/" + name + ".json")
+        let data_src = fetch(DATA_PATH + "/" + name + ".json")
             .then(res => {
                 if (!res.ok)
                     throw new Error("HTTP error: " + res.status);
@@ -198,13 +210,13 @@ class TrackView {
         // Modify the board range
         board
             .from(-1)
-            .to(data.meta.seqlen+1);
+            .to(data.contig_length+1);
 
         // Add contig track data
         contig_track.data(tnt.board.track.data.sync().retriever(
             function(loc) {
                 return [{
-                    start: 1, end: data.meta.seqlen
+                    start: 1, end: data.contig_length
                 }];
             }
         ));
@@ -212,34 +224,49 @@ class TrackView {
         // Add gene track data
         gene_track.data(tnt.board.track.data.sync().retriever(
             function(loc) {
-                let gtrack_data = data.gene_track;
-                gtrack_data.forEach(e => {
-                    e.start = e.gene_start;
-                    e.end = e.gene_end;
-                    e.id = e.gene_ID;
-                    e.display_label = "";
+                // let gtrack_data = data.genes;
+                // gtrack_data.forEach(e => {
+                //     e.start = e.gene_start;
+                //     e.end = e.gene_end;
+                //     e.id = e.gene_id;
+                //     e.display_label = "";
+                //     // Set color
+                //     e.color = _this.gene_colorgen(e);
+                // });
+                // return gtrack_data;
+
+
+                let gtrack_src_data = data.genes;
+                let gtrack_data = gtrack_src_data.map(d => {
+                    let ans = {};
+                    ans.start = d.gene_start;
+                    ans.end   = d.gene_end;
+                    ans.id    = d.gene_id;
+                    ans.display_label = "";
                     // Set color
-                    e.color = _this.gene_colorgen(e);
+                    ans.color = _this.gene_colorgen(d);
+                    ans.tooltip_data = d;
+                    return ans;
                 });
                 return gtrack_data;
             }
         ));
 
-        // Add diamond track data
-        diamond_track.data(tnt.board.track.data.sync().retriever(
-            function(loc) {
-                let dtrack_data = data.diamond_track;
-                dtrack_data.forEach(e => {
-                    e.start = e.eggnog_pos_start;
-                    e.end = e.eggnog_pos_end;
-                    e.id = e.gene_ID;
-                    e.display_label = e.gene_ID;
-                    //e.display_label = "";
-                    //e.color = "green";
-                })
-                return dtrack_data;
-            }
-        ));
+        // // Add diamond track data
+        // diamond_track.data(tnt.board.track.data.sync().retriever(
+        //     function(loc) {
+        //         let dtrack_data = data.diamond_track;
+        //         dtrack_data.forEach(e => {
+        //             e.start = e.eggnog_pos_start;
+        //             e.end = e.eggnog_pos_end;
+        //             e.id = e.gene_ID;
+        //             e.display_label = e.gene_ID;
+        //             //e.display_label = "";
+        //             //e.color = "green";
+        //         })
+        //         return dtrack_data;
+        //     }
+        // ));
 
         board.start();
     }
@@ -348,29 +375,29 @@ class IndexTable {
     async load() {
         let _this = this;
         let res;
-        res = await fetch("sample_data/index.json");
+        res = await fetch(INDEX_PATH);
         if (res.ok)
             res = await res.json();
         else
             throw "Network error";
 
         let colorScale_contiglength = d3v5.scaleSequential(d3v5.interpolateReds)
-            .domain(res.map(d => d.length));
-        let colorScale_NGenes = d3v5.scaleSequential(d3v5.interpolateReds)
-            .domain(res.map(d => d.number_gene));
+            .domain(res.map(d => d.contig_length));
+        let colorScale_abundance = d3v5.scaleSequential(d3v5.interpolateReds)
+            .domain(res.map(d => d.contig_abundance));
 
         let columnDefs = [
             {
                 headerName: "Contig ID",
-                field: "contig",
+                field: "contig_id",
                 sortable: true,
                 checkboxSelection: true,
                 //headerCheckboxSelection: true,
             },
             {
-                headerName: "Len",
+                headerName: "Length",
                 headerTooltip: "Contig Length",
-                field: "length",
+                field: "contig_length",
                 filter: "agNumberColumnFilter",
                 type: "numericColumn",
                 sortable: true,
@@ -381,15 +408,15 @@ class IndexTable {
                 }
             },
             {
-                headerName: "NGenes",
-                headerTooltip: "Number of Genes",
-                field: "number_gene",
+                headerName: "Abundance",
+                headerTooltip: "Abundance",
+                field: "contig_abundance",
                 filter: "agNumberColumnFilter",
                 type: "numericColumn",
                 sortable: true,
                 width: 100,
                 cellStyle: function(params) {
-                    let color = colorScale_NGenes(params.value);
+                    let color = colorScale_abundance(params.value);
                     return {backgroundColor: color, color: "grey"};
                 }
             },
@@ -414,7 +441,7 @@ class IndexTable {
 
         // Call add_view or remove_view
         function onRowSelected(event) {
-            let contig_id = event.data.contig;
+            let contig_id = event.data.contig_id;
             let is_checked = event.node.isSelected();
 
             if (is_checked) {
@@ -437,14 +464,14 @@ class IndexTable {
         // TODO: move to the TrackViewPanel class
         function onCellMouseOver(event) {
             if (event.node.selected) {
-                let contig_id = event.data.contig;
+                let contig_id = event.data.contig_id;
                 let vis_dom = document.getElementById("viscontainer-" + contig_id);
                 let the_board = _this.vispanel.ActiveViews.get(contig_id).board;
                 d3v5.select(vis_dom).classed("tntboard-highlight", true);
             }
         }
         function onCellMouseOut(event) {
-            let contig_id = event.data.contig;
+            let contig_id = event.data.contig_id;
             if (_this.vispanel.ActiveViews.has(contig_id)) {
                 let vis_dom = document.getElementById("viscontainer-" + contig_id);
                 let the_board = _this.vispanel.ActiveViews.get(contig_id).board;
