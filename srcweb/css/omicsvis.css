@@ -1,0 +1,68 @@
+
+body {
+    padding-top: 60px;
+}
+
+#global-navbar {
+    height: 60px;
+}
+
+main {
+    display: flex;
+    position: fixed;
+    top: 60px;
+    height: calc(100vh - 60px);
+    width: 100%;
+}
+
+#tablepanel {
+    height: 100%;
+    flex-grow: 0;
+    flex-shrink: 0;
+    flex-basis: 430px;
+
+    display: flex;
+    flex-direction: column;
+}
+
+#tablepanel > #tablepanel-header {
+    height: 25px;
+}
+
+#tablepanel > #contig-table {
+    flex-grow: 1;
+}
+
+#vispanel {
+    flex-basis: 830px;
+    flex-grow: 0;
+    flex-shrink: 0;
+    overflow-y: scroll;
+    border-left: 1px solid grey;
+    border-right: 1px solid grey;
+}
+
+#controlpanel {
+    flex-grow: 1;
+    overflow-y: scroll;
+    padding: 10px;
+}
+
+.tntboard-highlight {
+    background-color: cadetblue;
+}
+
+.tntboard-highlight > label {
+    font-weight: 900;
+}
+
+.tntboard-highlight .tnt_framed {
+    background-color: white;
+}
+
+
+.viscontainer {
+    padding: 3px;
+}
+
+
