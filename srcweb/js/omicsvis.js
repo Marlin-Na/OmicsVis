@@ -2,7 +2,7 @@
 
 // ad hoc configuration
 const INDEX_PATH = "/data/top_abundance_index.json";
-const DATA_PATH  = "/data";
+const CONTIG_DATA_PATH  = "/data/contigs";
 
 // Currently this file assumes global tnt (by importing d3 version 3, tnt.genome, tnt.tooltip)
 // and d3v5 variable are available.
@@ -163,7 +163,7 @@ class TrackView {
     // Set "data_src" as a promise that will be resolved to the actual data
     set_data_src(name) {
         // such as MAG06_80
-        let data_src = fetch(DATA_PATH + "/" + name + ".json")
+        let data_src = fetch(CONTIG_DATA_PATH + "/" + name + ".json")
             .then(res => {
                 if (!res.ok)
                     throw new Error("HTTP error: " + res.status);

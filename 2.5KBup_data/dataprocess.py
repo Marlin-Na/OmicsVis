@@ -75,6 +75,8 @@ def write_contig_map(contig_map):
     data_dir = os.path.join(SCRIPT_DIR, "data")
     if not os.path.exists(data_dir):
         os.makedirs(data_dir)
+    if not os.path.exists(os.path.join(data_dir, "contigs")):
+        os.makedirs(os.path.join(data_dir, "contigs"))
 
     ## Write index.json and top_abundance_index.json
     indexobj = []
@@ -92,7 +94,7 @@ def write_contig_map(contig_map):
     ## Write json for each contig
     for contig in contig_map.values():
         contig_id = contig['contig_id']
-        file_name = os.path.join(data_dir, contig_id + ".json")
+        file_name = os.path.join(data_dir, "contigs", contig_id + ".json")
         with open(file_name, "w") as f:
             json.dump(contig, f, indent = 1)
 
