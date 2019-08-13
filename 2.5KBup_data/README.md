@@ -3,5 +3,8 @@ In the `raw` folder, it is expected to have the following files:
 
 ```
 5ac96d56cdbc0c0c35edeb00c3141570  raw/KansasContig_length_abundance_sorted.txt
+e16bdcf6d8530ca7719c10d75651e3ac  raw/Kansas_WD_2.5KBup_QValue0p01_2019Aug01_Peptide_PeakArea_crosstab.csv
+df5a3566859a106df91be02a0fc582d2  raw/Kansas_WD_2.5KBup_QValue0p01_2019Aug01_Peptide_SpectraCount_crosstab.csv
+34fbc77e23a011f1a4ecf3435a27d738  raw/Kansas_WD_2.5KBup_QValue0p01_2019Aug01_Protein_SpectraCount_crosstab.csv
 87487fc05ef313a9a11e17ea0941fc28  raw/LengthAppend_toHeader_seqlength_seqname_seq_KS_ctg_2500_oneline_nucl.fasta
 ```
