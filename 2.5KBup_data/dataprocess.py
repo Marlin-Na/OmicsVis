@@ -2,6 +2,7 @@
 
 import os
 import json
+import csv
 from collections import namedtuple
 from Bio import SeqIO
 
@@ -12,6 +13,7 @@ except NameError:
 
 GENE_FASTA_FILE = os.path.join(SCRIPT_DIR, "raw/LengthAppend_toHeader_seqlength_seqname_seq_KS_ctg_2500_oneline_nucl.fasta")
 CONTIG_FILE = os.path.join(SCRIPT_DIR, "raw/KansasContig_length_abundance_sorted.txt")
+WD_PROTEIN_FILE = os.path.join(SCRIPT_DIR, "raw/Kansas_WD_2.5KBup_QValue0p01_2019Aug01_Protein_SpectraCount_crosstab.csv")
 
 GENE_RECORD_FIELDS = [
     "contig_id","gene_start","gene_end","gene_strand",
@@ -107,6 +109,42 @@ def put_gene_record(contig_map, gene_record):
     contig_map[gene_record['contig_id']]['genes'].append(gene_record)
     return
 
+def process_wd_protein_data():
+    data_dir = os.path.join(SCRIPT_DIR, "data")
+    def read_wd_protein_data():
+        with open(WD_PROTEIN_FILE) as csvfile:
+            reader = csv.reader(csvfile)
+            first_row = True
+            for row in reader:
+                if first_row:
+                    first_row = False
+                    continue
+                gene_id = row[0]
+                wd_data = row[3:30]
+                for i in range(len(wd_data)):
+                    value = None if wd_data[i] == "" else int(float(wd_data[i]))
+                    wd_data[i] = value
+                yield {
+                       "gene_id": gene_id,
+                       "experiment_data": wd_data
+                }
+
+    # Write each json file
+    if not os.path.exists(os.path.join(data_dir, "experiment")):
+        os.makedirs(os.path.join(data_dir, "experiment"))
+    for each in read_wd_protein_data():
+        gene_id = each['gene_id']
+        with open(os.path.join(data_dir, "experiment", gene_id + ".json"), "w") as dist_file:
+            json.dump(each, dist_file, indent = 1)
+
+    # Write experiment_info.json
+    with open(os.path.join(data_dir, "experiment_info.json"), "w") as dist_file:
+        ## TODO: use correct field name
+        field_names = [ "metric" + str(i+1) for i in range(0,27) ]
+        obj = {"field_names": field_names}
+        json.dump(obj, dist_file, indent = 1)
+
+
 def main():
     if __name__ != "__main__":
         return
@@ -114,6 +152,7 @@ def main():
     for record in read_gene_records(GENE_FASTA_FILE):
         put_gene_record(contig_map, record)
     write_contig_map(contig_map)
+    process_wd_protein_data()
 
 main()
 
