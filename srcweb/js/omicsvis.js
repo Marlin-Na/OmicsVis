@@ -24,11 +24,11 @@ class TrackView {
         this.data_src = null;
         // Place to store the actual data
         this.data = null;
-        // tnt actually does not accept a color callback for individual features (really?),
-        // thus we embed this callback to the data retriever.
-        this.gene_colorgen = function(d) {
-            return undefined;
-        };
+        // // tnt actually does not accept a color callback for individual features (really?),
+        // // thus we embed this callback to the data retriever.
+        // this.gene_colorgen = function(d) {
+        //     return undefined;
+        // };
     }
 
     // init_vis should only called once.
@@ -244,7 +244,7 @@ class TrackView {
                     ans.id    = d.gene_id;
                     ans.display_label = "";
                     // Set color
-                    ans.color = _this.gene_colorgen(d);
+                    //ans.color = _this.gene_colorgen(d);
                     ans.tooltip_data = d;
                     return ans;
                 });
@@ -279,35 +279,35 @@ class TrackView {
         this.board.start();
     }
 
-    // Modify the color scale of features, i.e. by strand/metric
-    set_gene_colorby(what) {
-        if (what === null || what === "null") {
-            this.gene_colorgen = function(d) {
-                return undefined;
-            };
-            this.reload();
-            return;
-        }
-        if (what === "strand") {
-            let scale = d3v5.scaleOrdinal();
-            scale.domain(["-", "+"]);
-            scale.range(d3v5.schemeAccent.slice(6, 8));
-            this.gene_colorgen = function(d) {
-                return scale(d.gene_strand);
-            };
-            this.reload();
-            return;
-        }
-        // e.g. metric_1
-        let scale = d3v5.scaleSequential(d3v5.interpolateBlues);
-        scale.domain([0, 100]);
-        this.gene_colorgen = function(d) {
-            if (d[what] === undefined)
-                return "grey";
-            return scale(d[what]);
-        };
-        this.reload();
-    }
+    // // Modify the color scale of features, i.e. by strand/metric
+    // set_gene_colorby(what) {
+    //     if (what === null || what === "null") {
+    //         this.gene_colorgen = function(d) {
+    //             return undefined;
+    //         };
+    //         this.reload();
+    //         return;
+    //     }
+    //     if (what === "strand") {
+    //         let scale = d3v5.scaleOrdinal();
+    //         scale.domain(["-", "+"]);
+    //         scale.range(d3v5.schemeAccent.slice(6, 8));
+    //         this.gene_colorgen = function(d) {
+    //             return scale(d.gene_strand);
+    //         };
+    //         this.reload();
+    //         return;
+    //     }
+    //     // e.g. metric_1
+    //     let scale = d3v5.scaleSequential(d3v5.interpolateBlues);
+    //     scale.domain([0, 100]);
+    //     this.gene_colorgen = function(d) {
+    //         if (d[what] === undefined)
+    //             return "grey";
+    //         return scale(d[what]);
+    //     };
+    //     this.reload();
+    // }
 
 }
 
@@ -481,12 +481,12 @@ class IndexTable {
 
     }
 
-    // Calls set_gene_colorby method from TrackViewPanel
-    set_gene_colorby(what) {
-        let _this = this;
-        let vispanel = this.vispanel;
-        vispanel.set_gene_colorby(what);
-    }
+    // // Calls set_gene_colorby method from TrackViewPanel
+    // set_gene_colorby(what) {
+    //     let _this = this;
+    //     let vispanel = this.vispanel;
+    //     vispanel.set_gene_colorby(what);
+    // }
 }
 
 let table;
@@ -504,9 +504,9 @@ function binding_filterSelected(node) {
     table.gridOptions.api.onFilterChanged();
 }
 
-function binding_gene_colorby(node) {
-    let value = node.value;
-    console.log("binding colorby", value);
-    table.set_gene_colorby(value);
-}
+// function binding_gene_colorby(node) {
+//     let value = node.value;
+//     console.log("binding colorby", value);
+//     table.set_gene_colorby(value);
+// }
 
