@@ -3,6 +3,7 @@
 import os
 import json
 import csv
+import itertools
 from collections import namedtuple
 from Bio import SeqIO
 
@@ -120,22 +121,30 @@ def process_wd_protein_data():
                     first_row = False
                     continue
                 gene_id = row[0]
+                contig_id = gene_id.split("_")[0]
                 wd_data = row[3:30]
                 for i in range(len(wd_data)):
                     value = None if wd_data[i] == "" else int(float(wd_data[i]))
                     wd_data[i] = value
                 yield {
-                       "gene_id": gene_id,
-                       "experiment_data": wd_data
+                    "contig_id": contig_id,
+                    "gene_id": gene_id,
+                    "experiment_data": wd_data
                 }
 
     # Write each json file
     if not os.path.exists(os.path.join(data_dir, "experiment")):
         os.makedirs(os.path.join(data_dir, "experiment"))
-    for each in read_wd_protein_data():
-        gene_id = each['gene_id']
-        with open(os.path.join(data_dir, "experiment", gene_id + ".json"), "w") as dist_file:
-            json.dump(each, dist_file, indent = 1)
+
+    grouped_by_contig = itertools.groupby(
+        sorted(read_wd_protein_data(), key=lambda x: x['contig_id']),
+        lambda x: x['contig_id']
+    )
+
+    for contig_id, experiments in grouped_by_contig:
+        with open(os.path.join(data_dir, "experiment", contig_id + ".json"), "w") as dist_file:
+            json.dump({"contig_id": contig_id, "experimentsbygene": list(experiments)},
+                      dist_file, indent = 1)
 
     # Write experiment_info.json
     with open(os.path.join(data_dir, "experiment_info.json"), "w") as dist_file:
