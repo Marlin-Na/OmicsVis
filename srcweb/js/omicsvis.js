@@ -3,6 +3,8 @@
 // ad hoc configuration
 const INDEX_PATH = "/data/top_abundance_index.json";
 const CONTIG_DATA_PATH  = "/data/contigs";
+const EXPERIMENT_INFO_PATH = "/data/experiment_info.json";
+const EXPERIMENT_DATA_PATH = "/data/experiment";
 
 // Currently this file assumes global tnt (by importing d3 version 3, tnt.genome, tnt.tooltip)
 // and d3v5 variable are available.
@@ -317,7 +319,7 @@ class TrackViewPanel {
         this.dom = div;
         // Store the available tnt board instances with contig_id as the key
         this.ActiveViews = new Map();
-        this.opt_gene_colorby = null;
+        //this.opt_gene_colorby = null;
     }
     set_gene_colorby(what) {
         // Calls the set_gene_colorby method of TrackView
@@ -347,16 +349,199 @@ class TrackViewPanel {
         vis_dom.appendChild(container);
         let view = new TrackView(tntdiv);
         view.set_data_src(contig_id);
-        // Set gene color callback
-        if (this.opt_gene_colorby !== null)
-            view.set_gene_colorby(this.opt_gene_colorby);
+        // // Set gene color callback
+        // if (this.opt_gene_colorby !== null)
+        //     view.set_gene_colorby(this.opt_gene_colorby);
         view.init_vis();
         this.ActiveViews.set(contig_id, view);
         view.update_vis();
     }
     remove_view(contig_id) {
         document.getElementById("viscontainer-" + contig_id).remove();
-        ActiveViews.delete(contig_id);
+        this.ActiveViews.delete(contig_id);
+    }
+}
+
+class ExperimentPanel {
+    constructor(div) {
+        this.div = div;
+        this.svg = null;
+        this.experiment_info = fetch(EXPERIMENT_INFO_PATH)
+            .then(res => {
+                if (res.ok)
+                    return res.json();
+                throw new Error("Network response was not okay");
+            })
+            .catch(err => console.err(err));
+        this.updateloop = new Promise(resolve => resolve("ok"));
+        this._init();
+        this.data = [];
+    }
+    _init() {
+        d3v5.select(this.div)
+            .append("svg")
+            .attr("width", this._get_div_width())
+            .attr("height", 0);
+        this.svg = d3v5.select(this.div).selectAll("svg");
+    }
+    _get_div_width() {
+        return d3v5.select(this.div).node().clientWidth;
+    }
+    add_contig(contig_id) {
+        let _this = this;
+        this.updateloop = this.updateloop.then(res => {
+            return _this._add_contig(contig_id);
+        }).catch(err => console.log(err));
+        this.update();
+        return this;
+    }
+    async _add_contig(contig_id) {
+        let _this = this;
+        let res = await fetch(EXPERIMENT_DATA_PATH + "/" + contig_id + ".json");
+        // Many contig does not have experiment data, so that the request will fail
+        if (!res.ok) {
+            console.log("experiment data not found for", contig_id);
+            return;
+        }
+        res = await res.json();
+        console.log(res);
+        let exp_datas = res.experimentsbygene;
+        exp_datas.forEach(dat => {
+            _this.data.push(dat);
+        });
+        console.log(this.data);
+        return;
+    }
+    remove_contig(contig_id) {
+        let _this = this;
+        this.updateloop = this.updateloop.then(res => {
+            return _this._remove_contig(contig_id);
+        }).catch(err => console.log(err));
+        this.update();
+        return this;
+    }
+    async _remove_contig(contig_id) {
+        console.log("remove contig", contig_id);
+        let _this = this;
+        this.data = this.data.filter(d => d.contig_id != contig_id);
+        console.log(this.data);
+        return;
+    }
+    update() {
+        let _this = this;
+        this.updateloop = this.updateloop.then(res => {
+            return _this._update();
+        }).catch(err => console.log(err));
+        return this;
+    }
+    async _update() {
+        const svg = this.svg;
+        const svg_width  = this._get_div_width();
+        const experiment_info = await this.experiment_info;
+        const experiment_fields = experiment_info.field_names;
+        //console.log(experiment_info);
+        const data = this.data;
+
+        const margin = {left: 140, right: 20, top: 20, bottom: 10};
+        const width = svg_width - margin.left - margin.right;
+        const cell_height = 20;
+        const height = cell_height * data.length;
+        const svg_height = height + margin.top + margin.bottom;
+
+        // // No data available
+        // if (this.data.length === 0) {
+        //     svg.remove();
+        //     return;
+        // }
+
+        // Resize the svg container
+        svg
+            .attr("width", svg_width)
+            .attr("height", svg_height);
+
+        // Let's draw something
+        let scaleYByGeneId = d3v5.scaleBand()
+            .range([margin.top, margin.top + height])
+            .domain(data.map(d => d.gene_id))
+            .padding(0.01);
+        let scaleXByField = d3v5.scaleBand()
+            .range([margin.left, margin.left + width])
+            .domain(experiment_fields)
+            .padding(0.01);
+
+        let rect_data = [];
+        data.forEach(row => {
+            let gene_id = row.gene_id;
+            row.experiment_data.forEach((d, i) => {
+                let field_name = experiment_fields[i];
+                let value = d;
+                rect_data.push({
+                    "value":   value,
+                    "field":   field_name,
+                    "gene_id": gene_id
+                });
+            });
+        });
+
+        // TODO: thinking more about this color scale, there are some extreme values here,
+        // so I am currently using quantile color scale.
+        // Also there are many null values
+        let _scaleColorByValue = d3v5.scaleQuantile()
+            .domain(rect_data.map(d => d.value).filter(d => d !== null))
+            .range(['blue', 'beige', 'red']);
+        let scaleColorByValue = function(v) {
+            if (v === null) return "grey";
+            return _scaleColorByValue(v);
+        };
+        let rectSel = svg.selectAll("rect.heatmap_rect")
+            .data(rect_data);
+        rectSel
+            .enter()
+            .append("rect")
+            .classed("heatmap_rect", true)
+            .merge(rectSel)
+            .attr("x", d => scaleXByField(d.field))
+            .attr("y", d => scaleYByGeneId(d.gene_id))
+            .attr("width", scaleXByField.bandwidth())
+            .attr("height", scaleYByGeneId.bandwidth())
+            .attr("fill", d => scaleColorByValue(d.value));
+
+        rectSel.exit().remove();
+
+        let topaxisSel = svg.selectAll("g.topaxis")
+            .data(["onlyone"]);
+        topaxisSel.enter()
+            .append("g")
+            .classed("topaxis", true)
+            .merge(topaxisSel)
+            .attr("transform", `translate(0,${margin.top})`)
+            .call(d3v5.axisTop(scaleXByField));
+
+        let leftaxisSel = svg.selectAll("g.leftaxis")
+            .data(["onlyoneyes"]);
+        leftaxisSel.enter()
+            .append("g")
+            .classed("leftaxis", true)
+            .merge(leftaxisSel)
+            .attr("transform", `translate(${margin.left}, 0)`)
+            .call(d3v5.axisLeft(scaleYByGeneId));
+
+        // //let heatmap_frame = svg.selectAll("");
+
+        // let hhhrect = svg.selectAll("rect.hhh")
+        //     .data(['wwwwwww']);
+        // hhhrect
+        //     .enter()
+        //     .append("rect")
+        //     .attr("class", "hhh")
+        //     .merge(hhhrect)
+        //     .attr("width", width)
+        //     .attr("height", height)
+        //     .attr("x", margin.left)
+        //     .attr("y", margin.top)
+        //     .style("fill", "green");
+
+        // return;
     }
 }
 
@@ -370,6 +555,7 @@ class IndexTable {
 
         // TODO: move outside of this class.
         this.vispanel = new TrackViewPanel("#vis");
+        this.experimentpanel = new ExperimentPanel("#experiment-vis");
     }
     // This function will fetch the "index.json" and load the table
     async load() {
@@ -446,9 +632,11 @@ class IndexTable {
 
             if (is_checked) {
                 _this.vispanel.add_view(contig_id);
+                _this.experimentpanel.add_contig(contig_id);
             }
             else {
                 _this.vispanel.remove_view(contig_id);
+                _this.experimentpanel.remove_contig(contig_id);
             }
         }
         function isExternalFilterPresent() {

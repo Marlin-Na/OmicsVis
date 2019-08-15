@@ -149,7 +149,16 @@ def process_wd_protein_data():
     # Write experiment_info.json
     with open(os.path.join(data_dir, "experiment_info.json"), "w") as dist_file:
         ## TODO: use correct field name
-        field_names = [ "metric" + str(i+1) for i in range(0,27) ]
+        #field_names = [ "metric" + str(i+1) for i in range(0,27) ]
+        field_names = ([ "A_C" + str(i) for i in range(1,4) ] +
+        ["B_C" + str(i) for i in range(1, 4)] +
+        ["C_C" + str(i) for i in range(1, 4)] +
+        ["A_W" + str(i) for i in range(1, 4)] +
+        ["B_W" + str(i) for i in range(1, 4)] +
+        ["C_W" + str(i) for i in range(1, 4)] +
+        ["A_D" + str(i) for i in range(1, 4)] +
+        ["B_D" + str(i) for i in range(1, 4)] +
+        ["C_D" + str(i) for i in range(1, 4)])
         obj = {"field_names": field_names}
         json.dump(obj, dist_file, indent = 1)
 
