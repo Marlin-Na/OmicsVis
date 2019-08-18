@@ -372,7 +372,7 @@ class ExperimentPanel {
                     return res.json();
                 throw new Error("Network response was not okay");
             })
-            .catch(err => console.err(err));
+            .catch(err => console.error(err));
         this.updateloop = new Promise(resolve => resolve("ok"));
         this._init();
         this.data = [];
