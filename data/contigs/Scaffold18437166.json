@@ -1,0 +1,103 @@
+{
+ "contig_id": "Scaffold18437166",
+ "contig_length": 4796,
+ "contig_abundance": 788.08,
+ "genes": [
+  {
+   "contig_id": "Scaffold18437166",
+   "gene_start": 2,
+   "gene_end": 415,
+   "gene_strand": "-",
+   "gene_id": "Scaffold18437166_4796_1",
+   "gene_partial": "10",
+   "gene_start_type": "ATG",
+   "gene_rbs_motif": "GGA/GAG/AGG",
+   "gene_rbs_spacer": "5-10bp",
+   "gene_gc_cont": 0.626
+  },
+  {
+   "contig_id": "Scaffold18437166",
+   "gene_start": 711,
+   "gene_end": 2609,
+   "gene_strand": "+",
+   "gene_id": "Scaffold18437166_4796_2",
+   "gene_partial": "00",
+   "gene_start_type": "ATG",
+   "gene_rbs_motif": "4Base/6BMM",
+   "gene_rbs_spacer": "13-15bp",
+   "gene_gc_cont": 0.67
+  },
+  {
+   "contig_id": "Scaffold18437166",
+   "gene_start": 2690,
+   "gene_end": 3067,
+   "gene_strand": "+",
+   "gene_id": "Scaffold18437166_4796_3",
+   "gene_partial": "00",
+   "gene_start_type": "ATG",
+   "gene_rbs_motif": "GGAG/GAGG",
+   "gene_rbs_spacer": "5-10bp",
+   "gene_gc_cont": 0.622
+  },
+  {
+   "contig_id": "Scaffold18437166",
+   "gene_start": 3248,
+   "gene_end": 3463,
+   "gene_strand": "-",
+   "gene_id": "Scaffold18437166_4796_4",
+   "gene_partial": "00",
+   "gene_start_type": "ATG",
+   "gene_rbs_motif": "GGAG/GAGG",
+   "gene_rbs_spacer": "5-10bp",
+   "gene_gc_cont": 0.63
+  },
+  {
+   "contig_id": "Scaffold18437166",
+   "gene_start": 3409,
+   "gene_end": 3621,
+   "gene_strand": "-",
+   "gene_id": "Scaffold18437166_4796_5",
+   "gene_partial": "00",
+   "gene_start_type": "GTG",
+   "gene_rbs_motif": "GGAG/GAGG",
+   "gene_rbs_spacer": "5-10bp",
+   "gene_gc_cont": 0.615
+  },
+  {
+   "contig_id": "Scaffold18437166",
+   "gene_start": 3611,
+   "gene_end": 4045,
+   "gene_strand": "-",
+   "gene_id": "Scaffold18437166_4796_6",
+   "gene_partial": "00",
+   "gene_start_type": "ATG",
+   "gene_rbs_motif": "GGAG/GAGG",
+   "gene_rbs_spacer": "5-10bp",
+   "gene_gc_cont": 0.623
+  },
+  {
+   "contig_id": "Scaffold18437166",
+   "gene_start": 4142,
+   "gene_end": 4321,
+   "gene_strand": "+",
+   "gene_id": "Scaffold18437166_4796_7",
+   "gene_partial": "00",
+   "gene_start_type": "ATG",
+   "gene_rbs_motif": "GGAG/GAGG",
+   "gene_rbs_spacer": "5-10bp",
+   "gene_gc_cont": 0.628
+  },
+  {
+   "contig_id": "Scaffold18437166",
+   "gene_start": 4487,
+   "gene_end": 4795,
+   "gene_strand": "+",
+   "gene_id": "Scaffold18437166_4796_8",
+   "gene_partial": "01",
+   "gene_start_type": "ATG",
+   "gene_rbs_motif": "GGA/GAG/AGG",
+   "gene_rbs_spacer": "5-10bp",
+   "gene_gc_cont": 0.65
+  }
+ ]
+}

@@ -1,0 +1,19 @@
+{
+ "contig_id": "Scaffold126680520",
+ "contig_length": 2603,
+ "contig_abundance": 160.04,
+ "genes": [
+  {
+   "contig_id": "Scaffold126680520",
+   "gene_start": 61,
+   "gene_end": 2505,
+   "gene_strand": "-",
+   "gene_id": "Scaffold126680520_2603_1",
+   "gene_partial": "00",
+   "gene_start_type": "ATG",
+   "gene_rbs_motif": "AGGAG",
+   "gene_rbs_spacer": "5-10bp",
+   "gene_gc_cont": 0.591
+  }
+ ]
+}

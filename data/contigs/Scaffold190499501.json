@@ -1,0 +1,43 @@
+{
+ "contig_id": "Scaffold190499501",
+ "contig_length": 2774,
+ "contig_abundance": 16.5,
+ "genes": [
+  {
+   "contig_id": "Scaffold190499501",
+   "gene_start": 1,
+   "gene_end": 1290,
+   "gene_strand": "-",
+   "gene_id": "Scaffold190499501_2774_1",
+   "gene_partial": "10",
+   "gene_start_type": "ATG",
+   "gene_rbs_motif": "GGA/GAG/AGG",
+   "gene_rbs_spacer": "3-4bp",
+   "gene_gc_cont": 0.556
+  },
+  {
+   "contig_id": "Scaffold190499501",
+   "gene_start": 1313,
+   "gene_end": 2437,
+   "gene_strand": "-",
+   "gene_id": "Scaffold190499501_2774_2",
+   "gene_partial": "00",
+   "gene_start_type": "ATG",
+   "gene_rbs_motif": "GGAG/GAGG",
+   "gene_rbs_spacer": "5-10bp",
+   "gene_gc_cont": 0.563
+  },
+  {
+   "contig_id": "Scaffold190499501",
+   "gene_start": 2441,
+   "gene_end": 2773,
+   "gene_strand": "-",
+   "gene_id": "Scaffold190499501_2774_3",
+   "gene_partial": "01",
+   "gene_start_type": "Edge",
+   "gene_rbs_motif": "None",
+   "gene_rbs_spacer": "None",
+   "gene_gc_cont": 0.538
+  }
+ ]
+}

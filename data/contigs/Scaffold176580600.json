@@ -1,0 +1,19 @@
+{
+ "contig_id": "Scaffold176580600",
+ "contig_length": 2876,
+ "contig_abundance": 373.66,
+ "genes": [
+  {
+   "contig_id": "Scaffold176580600",
+   "gene_start": 1,
+   "gene_end": 2874,
+   "gene_strand": "+",
+   "gene_id": "Scaffold176580600_2876_1",
+   "gene_partial": "11",
+   "gene_start_type": "Edge",
+   "gene_rbs_motif": "None",
+   "gene_rbs_spacer": "None",
+   "gene_gc_cont": 0.546
+  }
+ ]
+}

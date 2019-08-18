@@ -33,13 +33,30 @@ main {
     flex-grow: 1;
 }
 
-#vispanel {
+#middlecolumn {
     flex-basis: 830px;
     flex-grow: 0;
     flex-shrink: 0;
-    overflow-y: scroll;
     border-left: 1px solid grey;
     border-right: 1px solid grey;
+    height: 100%;
+
+    display: flex;
+    flex-direction: column;
+}
+
+#vispanel {
+    flex-basis: 500px;
+    flex-grow: 1;
+    flex-shrink: 0;
+    border-bottom: 1px solid grey;
+    overflow-y: scroll;
+}
+
+#experimentpanel {
+    flex-grow: 0;
+    flex-shrink: 1;
+    overflow-y: auto;
 }
 
 #controlpanel {
@@ -52,6 +69,17 @@ main {
     background-color: cadetblue;
 }
 
+.tntboard-highlight > label {
+    font-weight: 900;
+}
 
+.tntboard-highlight .tnt_framed {
+    background-color: white;
+}
+
+
+.viscontainer {
+    padding: 3px;
+}
 
 

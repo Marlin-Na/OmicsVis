@@ -1,0 +1,31 @@
+{
+ "contig_id": "Scaffold111302949",
+ "contig_length": 3169,
+ "contig_abundance": 129.4,
+ "genes": [
+  {
+   "contig_id": "Scaffold111302949",
+   "gene_start": 2,
+   "gene_end": 736,
+   "gene_strand": "-",
+   "gene_id": "Scaffold111302949_3169_1",
+   "gene_partial": "10",
+   "gene_start_type": "ATG",
+   "gene_rbs_motif": "3Base/5BMM",
+   "gene_rbs_spacer": "13-15bp",
+   "gene_gc_cont": 0.576
+  },
+  {
+   "contig_id": "Scaffold111302949",
+   "gene_start": 860,
+   "gene_end": 2779,
+   "gene_strand": "-",
+   "gene_id": "Scaffold111302949_3169_2",
+   "gene_partial": "00",
+   "gene_start_type": "ATG",
+   "gene_rbs_motif": "GGAG/GAGG",
+   "gene_rbs_spacer": "5-10bp",
+   "gene_gc_cont": 0.549
+  }
+ ]
+}

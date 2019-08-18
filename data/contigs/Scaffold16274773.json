@@ -1,0 +1,19 @@
+{
+ "contig_id": "Scaffold16274773",
+ "contig_length": 2667,
+ "contig_abundance": 285.7,
+ "genes": [
+  {
+   "contig_id": "Scaffold16274773",
+   "gene_start": 1,
+   "gene_end": 2529,
+   "gene_strand": "-",
+   "gene_id": "Scaffold16274773_2667_1",
+   "gene_partial": "10",
+   "gene_start_type": "GTG",
+   "gene_rbs_motif": "GGAG/GAGG",
+   "gene_rbs_spacer": "5-10bp",
+   "gene_gc_cont": 0.66
+  }
+ ]
+}

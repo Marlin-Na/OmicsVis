@@ -1,0 +1,163 @@
+{
+ "contig_id": "Scaffold15028570",
+ "contig_length": 13607,
+ "contig_abundance": 437.25,
+ "genes": [
+  {
+   "contig_id": "Scaffold15028570",
+   "gene_start": 3,
+   "gene_end": 254,
+   "gene_strand": "+",
+   "gene_id": "Scaffold15028570_13607_1",
+   "gene_partial": "10",
+   "gene_start_type": "Edge",
+   "gene_rbs_motif": "None",
+   "gene_rbs_spacer": "None",
+   "gene_gc_cont": 0.623
+  },
+  {
+   "contig_id": "Scaffold15028570",
+   "gene_start": 251,
+   "gene_end": 1069,
+   "gene_strand": "+",
+   "gene_id": "Scaffold15028570_13607_2",
+   "gene_partial": "00",
+   "gene_start_type": "GTG",
+   "gene_rbs_motif": "GGAG/GAGG",
+   "gene_rbs_spacer": "5-10bp",
+   "gene_gc_cont": 0.694
+  },
+  {
+   "contig_id": "Scaffold15028570",
+   "gene_start": 1066,
+   "gene_end": 2562,
+   "gene_strand": "+",
+   "gene_id": "Scaffold15028570_13607_3",
+   "gene_partial": "00",
+   "gene_start_type": "ATG",
+   "gene_rbs_motif": "None",
+   "gene_rbs_spacer": "None",
+   "gene_gc_cont": 0.719
+  },
+  {
+   "contig_id": "Scaffold15028570",
+   "gene_start": 2603,
+   "gene_end": 3739,
+   "gene_strand": "+",
+   "gene_id": "Scaffold15028570_13607_4",
+   "gene_partial": "00",
+   "gene_start_type": "ATG",
+   "gene_rbs_motif": "AGGAG",
+   "gene_rbs_spacer": "5-10bp",
+   "gene_gc_cont": 0.659
+  },
+  {
+   "contig_id": "Scaffold15028570",
+   "gene_start": 3744,
+   "gene_end": 4817,
+   "gene_strand": "+",
+   "gene_id": "Scaffold15028570_13607_5",
+   "gene_partial": "00",
+   "gene_start_type": "GTG",
+   "gene_rbs_motif": "None",
+   "gene_rbs_spacer": "None",
+   "gene_gc_cont": 0.705
+  },
+  {
+   "contig_id": "Scaffold15028570",
+   "gene_start": 4810,
+   "gene_end": 6492,
+   "gene_strand": "+",
+   "gene_id": "Scaffold15028570_13607_6",
+   "gene_partial": "00",
+   "gene_start_type": "ATG",
+   "gene_rbs_motif": "None",
+   "gene_rbs_spacer": "None",
+   "gene_gc_cont": 0.66
+  },
+  {
+   "contig_id": "Scaffold15028570",
+   "gene_start": 6683,
+   "gene_end": 6862,
+   "gene_strand": "+",
+   "gene_id": "Scaffold15028570_13607_7",
+   "gene_partial": "00",
+   "gene_start_type": "ATG",
+   "gene_rbs_motif": "None",
+   "gene_rbs_spacer": "None",
+   "gene_gc_cont": 0.617
+  },
+  {
+   "contig_id": "Scaffold15028570",
+   "gene_start": 6849,
+   "gene_end": 7232,
+   "gene_strand": "+",
+   "gene_id": "Scaffold15028570_13607_8",
+   "gene_partial": "00",
+   "gene_start_type": "ATG",
+   "gene_rbs_motif": "GGA/GAG/AGG",
+   "gene_rbs_spacer": "5-10bp",
+   "gene_gc_cont": 0.716
+  },
+  {
+   "contig_id": "Scaffold15028570",
+   "gene_start": 7233,
+   "gene_end": 7985,
+   "gene_strand": "+",
+   "gene_id": "Scaffold15028570_13607_9",
+   "gene_partial": "00",
+   "gene_start_type": "ATG",
+   "gene_rbs_motif": "GGAGG",
+   "gene_rbs_spacer": "5-10bp",
+   "gene_gc_cont": 0.627
+  },
+  {
+   "contig_id": "Scaffold15028570",
+   "gene_start": 8015,
+   "gene_end": 8332,
+   "gene_strand": "+",
+   "gene_id": "Scaffold15028570_13607_10",
+   "gene_partial": "00",
+   "gene_start_type": "GTG",
+   "gene_rbs_motif": "AGGAG",
+   "gene_rbs_spacer": "5-10bp",
+   "gene_gc_cont": 0.711
+  },
+  {
+   "contig_id": "Scaffold15028570",
+   "gene_start": 8395,
+   "gene_end": 9048,
+   "gene_strand": "+",
+   "gene_id": "Scaffold15028570_13607_11",
+   "gene_partial": "00",
+   "gene_start_type": "ATG",
+   "gene_rbs_motif": "GGA/GAG/AGG",
+   "gene_rbs_spacer": "5-10bp",
+   "gene_gc_cont": 0.651
+  },
+  {
+   "contig_id": "Scaffold15028570",
+   "gene_start": 9111,
+   "gene_end": 12341,
+   "gene_strand": "+",
+   "gene_id": "Scaffold15028570_13607_12",
+   "gene_partial": "00",
+   "gene_start_type": "ATG",
+   "gene_rbs_motif": "None",
+   "gene_rbs_spacer": "None",
+   "gene_gc_cont": 0.696
+  },
+  {
+   "contig_id": "Scaffold15028570",
+   "gene_start": 12338,
+   "gene_end": 13402,
+   "gene_strand": "+",
+   "gene_id": "Scaffold15028570_13607_13",
+   "gene_partial": "00",
+   "gene_start_type": "GTG",
+   "gene_rbs_motif": "GGAG/GAGG",
+   "gene_rbs_spacer": "5-10bp",
+   "gene_gc_cont": 0.673
+  }
+ ]
+}

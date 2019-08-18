@@ -1,0 +1,79 @@
+{
+ "contig_id": "Scaffold112581759",
+ "contig_length": 5084,
+ "contig_abundance": 52.33,
+ "genes": [
+  {
+   "contig_id": "Scaffold112581759",
+   "gene_start": 207,
+   "gene_end": 563,
+   "gene_strand": "-",
+   "gene_id": "Scaffold112581759_5084_1",
+   "gene_partial": "00",
+   "gene_start_type": "ATG",
+   "gene_rbs_motif": "GGA/GAG/AGG",
+   "gene_rbs_spacer": "5-10bp",
+   "gene_gc_cont": 0.594
+  },
+  {
+   "contig_id": "Scaffold112581759",
+   "gene_start": 541,
+   "gene_end": 846,
+   "gene_strand": "-",
+   "gene_id": "Scaffold112581759_5084_2",
+   "gene_partial": "00",
+   "gene_start_type": "ATG",
+   "gene_rbs_motif": "AGGAG",
+   "gene_rbs_spacer": "5-10bp",
+   "gene_gc_cont": 0.569
+  },
+  {
+   "contig_id": "Scaffold112581759",
+   "gene_start": 891,
+   "gene_end": 3266,
+   "gene_strand": "-",
+   "gene_id": "Scaffold112581759_5084_3",
+   "gene_partial": "00",
+   "gene_start_type": "ATG",
+   "gene_rbs_motif": "GGA/GAG/AGG",
+   "gene_rbs_spacer": "5-10bp",
+   "gene_gc_cont": 0.653
+  },
+  {
+   "contig_id": "Scaffold112581759",
+   "gene_start": 3273,
+   "gene_end": 4286,
+   "gene_strand": "-",
+   "gene_id": "Scaffold112581759_5084_4",
+   "gene_partial": "00",
+   "gene_start_type": "ATG",
+   "gene_rbs_motif": "GGAG/GAGG",
+   "gene_rbs_spacer": "5-10bp",
+   "gene_gc_cont": 0.633
+  },
+  {
+   "contig_id": "Scaffold112581759",
+   "gene_start": 4404,
+   "gene_end": 4763,
+   "gene_strand": "-",
+   "gene_id": "Scaffold112581759_5084_5",
+   "gene_partial": "00",
+   "gene_start_type": "ATG",
+   "gene_rbs_motif": "GGAGG",
+   "gene_rbs_spacer": "5-10bp",
+   "gene_gc_cont": 0.625
+  },
+  {
+   "contig_id": "Scaffold112581759",
+   "gene_start": 4776,
+   "gene_end": 4979,
+   "gene_strand": "-",
+   "gene_id": "Scaffold112581759_5084_6",
+   "gene_partial": "00",
+   "gene_start_type": "ATG",
+   "gene_rbs_motif": "GGAG/GAGG",
+   "gene_rbs_spacer": "5-10bp",
+   "gene_gc_cont": 0.593
+  }
+ ]
+}

@@ -1,0 +1,71 @@
+{
+ "contig_id": "Scaffold11463195",
+ "experimentsbygene": [
+  {
+   "contig_id": "Scaffold11463195",
+   "gene_id": "Scaffold11463195_5101_1",
+   "experiment_data": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    1,
+    1,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    1,
+    1,
+    null,
+    1,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ]
+  },
+  {
+   "contig_id": "Scaffold11463195",
+   "gene_id": "Scaffold11463195_5101_3",
+   "experiment_data": [
+    null,
+    null,
+    null,
+    null,
+    1,
+    1,
+    null,
+    null,
+    null,
+    1,
+    null,
+    null,
+    null,
+    null,
+    1,
+    null,
+    null,
+    null,
+    null,
+    2,
+    null,
+    null,
+    1,
+    null,
+    null,
+    null,
+    null
+   ]
+  }
+ ]
+}
