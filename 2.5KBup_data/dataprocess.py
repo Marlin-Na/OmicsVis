@@ -141,7 +141,9 @@ def process_wd_protein_data():
         lambda x: x['contig_id']
     )
 
+    contigs_with_experiment = []
     for contig_id, experiments in grouped_by_contig:
+        contigs_with_experiment.append(contig_id)
         with open(os.path.join(data_dir, "experiment", contig_id + ".json"), "w") as dist_file:
             json.dump({"contig_id": contig_id, "experimentsbygene": list(experiments)},
                       dist_file, indent = 1)
@@ -161,6 +163,9 @@ def process_wd_protein_data():
         ["C_D" + str(i) for i in range(1, 4)])
         obj = {"field_names": field_names}
         json.dump(obj, dist_file, indent = 1)
+
+    with open(os.path.join(data_dir, "contigs_with_experiment.json"), "w") as dist_file:
+        json.dump(contigs_with_experiment, dist_file, indent = 1)
 
 
 def main():
