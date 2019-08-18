@@ -1,10 +1,10 @@
 'use strict';
 
 // ad hoc configuration
-const INDEX_PATH = "/data/top_abundance_index.json";
-const CONTIG_DATA_PATH  = "/data/contigs";
-const EXPERIMENT_INFO_PATH = "/data/experiment_info.json";
-const EXPERIMENT_DATA_PATH = "/data/experiment";
+const INDEX_PATH = "data/top_abundance_index.json";
+const CONTIG_DATA_PATH  = "data/contigs";
+const EXPERIMENT_INFO_PATH = "data/experiment_info.json";
+const EXPERIMENT_DATA_PATH = "data/experiment";
 
 // Currently this file assumes global tnt (by importing d3 version 3, tnt.genome, tnt.tooltip)
 // and d3v5 variable are available.
